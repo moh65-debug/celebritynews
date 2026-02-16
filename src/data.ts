@@ -11,6 +11,69 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ussz5a8j9",
+        "title": "Rosie O’Donnell’s Big Return: Why She Left the U.S. for Ireland After Trump’s Win",
+        "excerpt": "After fleeing to Ireland post-Trump, Rosie O’Donnell is back in the U.S.—but only for two weeks. Here’s why.",
+        "content": "<p>Rosie O’Donnell is spilling the tea on her surprise return to the United States. The 63-year-old comedian and actress made headlines last year when she packed her bags and moved to Ireland following Donald Trump’s 2024 election victory. But after a year abroad, Rosie’s back on American soil—albeit just for a quick two-week visit.</p><p>What brought her home? Rosie’s keeping it coy, but sources say it’s a mix of personal business and a little nostalgia for the spotlight. Could this be a sign she’s reconsidering her Irish escape? Stay tuned, because Rosie’s never one to stay out of the drama for long.</p>",
+        "celebrities": [
+            "Rosie O'Donnell",
+            "Donald Trump"
+        ],
+        "image_url": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/02/rosie-usa-social.jpg",
+        "date": "Feb 15, 2026",
+        "url": "https://www.justjared.com/2026/02/15/rosie-odonnell-explains-recent-u-s-visit-after-moving-to-ireland-because-of-trump/"
+    },
+    {
+        "id": "ypka0kahy",
+        "title": "Karrueche Tran's Valentine's Day Snub: Did She Forget Deion Sanders?",
+        "excerpt": "Karrueche Tran sparks Valentine's Day drama by seemingly forgetting her beau Deion Sanders—what really went down?",
+        "content": "<p>In a move that has fans buzzing, Karrueche Tran, the Emmy-winning actress and confirmed girlfriend of NFL legend Deion Sanders, made headlines this Valentine's Day by seemingly 'forgetting' her famous beau. While most celebrity couples were flaunting their love on social media, Tran took a different route—choosing intentionality over the usual red-carpet romance spectacle.</p><p>Sources close to the couple suggest Tran's decision was a deliberate one, sparking speculation about the state of their relationship. Was it a subtle message, or simply a case of busy schedules? Either way, the internet is ablaze with theories. Could this be a sign of trouble in paradise, or just Karrueche's way of keeping things low-key? Stay tuned as we unravel the details of this Valentine's Day mystery.</p>",
+        "celebrities": [
+            "Karrueche Tran",
+            "Deion Sanders"
+        ],
+        "image_url": "https://phantom.estaticos-marca.com/7fc7cbaffbb34f41ef8ef2faf48d45b3/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/15/17711749192894.jpg",
+        "date": "Feb 15, 2026",
+        "url": "https://www.marca.com/en/ncaa/2026/02/15/6991fd82e2704e3a0c8b45a6.html"
+    },
+    {
+        "id": "xxety0lyp",
+        "title": "Olympic Ice Queens Femke Kok & Jutta Leerdam Slay the Rink—And Hearts!",
+        "excerpt": "The Netherlands’ golden girls Femke Kok and Jutta Leerdam turned the Milan-Cortina rink into their personal runway—and the world couldn’t look away.",
+        "content": "<p>The Netherlands’ golden girls Femke Kok and Jutta Leerdam turned the Milan-Cortina rink into their personal runway—and the world couldn’t look away. The dynamic duo reclaimed Olympic glory Sunday during a star-studded 500-meter event, proving that speed skating isn’t just about medals—it’s about *main character energy*.</p><p>While Kok dazzled with her precision and poise, Leerdam brought her signature blend of power and glamour, leaving fans (and competitors) breathless. The Netherlands continues its icy reign, but let’s be real—these two are the real MVPs of Milan-Cortina. Who needs a crown when you’ve got a gold medal and a killer outfit?</p>",
+        "celebrities": [
+            "Femke Kok",
+            "Jutta Leerdam"
+        ],
+        "image_url": "https://s.yimg.com/os/en/the_big_lead_articles_114/447f9bb517013902cf8b6b0f28a1bd34",
+        "date": "Feb 15, 2026",
+        "url": "https://www.thebiglead.com/femke-kok-jutta-leerdam-dazzle-olympic-womens-speed-skating-500m/"
+    },
+    {
+        "id": "ec4lijylq",
+        "title": "OMG! Is This the New Wonder Woman James Gunn Has His Eye On?",
+        "excerpt": "Rumor has it that James Gunn is seriously considering Adria Arjona for the iconic role of Wonder Woman in the DCU!",
+        "content": "<p>Move over, Gal Gadot! There's a new Wonder Woman in town, and her name is Adria Arjona. The Andor and Hit Man star has been a fan-favorite pick for the role for quite some time, and now it seems like DC Studios co-CEO James Gunn might just be on board with the idea!</p><p>According to Deux, Gunn has his sights set on Arjona to don the iconic tiara and lasso of truth in the DCU's upcoming projects. Could this be the casting news we've all been waiting for? Only time will tell, but one thing's for sure: Adria Arjona is ready to kick some serious butt as the Amazonian princess!</p>",
+        "celebrities": [
+            "Adria Arjona",
+            "James Gunn",
+            "Gal Gadot"
+        ],
+        "image_url": "https://comicbookmovie.com/images/articles/banners/wonder-woman-adria-arjona-rumored-to-be-james-gunns-no-1-choice-to-play-the-dcus-diana-ab226437.jpg",
+        "date": "Feb 15, 2026",
+        "url": "https://comicbookmovie.com/wonder-woman/wonder-woman-adria-arjona-rumored-to-be-james-gunns-no-1-choice-to-play-the-dcus-diana-a226437"
+    },
+    {
+        "id": "38i0e7iyv",
+        "title": "MasterChef Celebrity Scores Big, but Who Took the Crown? Ratings Revealed!",
+        "excerpt": "The battle for TV supremacy is on—MasterChef Celebrity shines, but did it steal the spotlight from the competition?",
+        "content": "<p>The weekend ratings war heated up as Telefe's MasterChef Celebrity special dominated the airwaves on Saturday, February 14. But was it enough to outshine the competition? El Trece's La Familia Ingalls held its own, proving that nostalgia still packs a punch.</p><p>With viewers glued to their screens, the culinary showdown and family drama kept audiences buzzing. Who emerged victorious in this ratings battle? Stay tuned as we break down the numbers and spill the tea on which show truly stole the night.</p>",
+        "celebrities": [],
+        "image_url": "https://fotos.perfil.com/2026/02/15/trim/1140/641/masterchef-celebrity-2186720.jpg",
+        "date": "Feb 15, 2026",
+        "url": "https://exitoina.perfil.com/noticias/rating/rating-cuanto-midio-el-especial-de-masterchef-celebrity-y-la-noche-de-mirhta.phtml"
+    },
+    {
         "id": "6wlj32ohs",
         "title": "Damon Albarn's Shocking Accusation: Graham Norton's Cold Shoulder Revealed!",
         "excerpt": "Graham Norton claims he has no memory of a past clash with Gorillaz frontman Damon Albarn—but the drama is far from over!",
