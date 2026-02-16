@@ -5,11 +5,16 @@ on:
     - cron: '0 0 * * *' # Run once a day at midnight
   workflow_dispatch: # Allow manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -23,8 +28,8 @@ jobs:
       
       - name: Commit and Push changes
         run: |
-          git config --local user.email "github-actions[bot]"
-          git config --local user.name "github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add src/data.ts
           git commit -m "Update celebrity news [automated]" || echo "No changes to commit"
           git push
