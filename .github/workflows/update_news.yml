@@ -1,0 +1,30 @@
+name: Update Celebrity News
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run once a day at midnight
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Fetch Latest News
+        run: npm run update-news
+      
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add src/data.ts
+          git commit -m "Update celebrity news [automated]" || echo "No changes to commit"
+          git push
