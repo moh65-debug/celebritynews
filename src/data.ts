@@ -11,6 +11,67 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "xrirvn1yj",
+        "title": "Jalen Johnson's Wild First All-Star Weekend: The Inside Scoop!",
+        "excerpt": "From jaw-dropping performances to unexpected drama, Jalen Johnson’s debut All-Star Weekend was anything but ordinary.",
+        "content": "<p>Jalen Johnson’s first All-Star Weekend was nothing short of a rollercoaster ride! The rising NBA star, who’s been turning heads with his stellar performance this season, stepped onto the big stage and didn’t disappoint. Averaging an impressive 23 points per game, Johnson proved he’s more than just a rookie sensation—he’s a force to be reckoned with.</p><p>But it wasn’t all about the stats. Sources close to the event reveal that Johnson was spotted mingling with some of the biggest names in the game, sparking rumors of potential collaborations and friendships. From exclusive parties to courtside antics, this All-Star Weekend was a whirlwind of glitz, glamour, and a whole lot of basketball magic. Stay tuned as we dive deeper into the juicy details of Jalen’s unforgettable debut!</p>",
+        "celebrities": [
+            "Jalen Johnson"
+        ],
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/q6G8ob2_N6VbSRdwWHZn0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/4636381a167ab2f3bd4679a56475aec7",
+        "date": "Feb 16, 2026",
+        "url": "https://www.peachtreehoops.com/recaps/68776/a-recap-of-jalen-johnsons-first-all-star-weekend"
+    },
+    {
+        "id": "b0hp7dqmn",
+        "title": "MAGA Troll's 'I LOVE ICE' Stunt Backfires Spectacularly on High School Students",
+        "excerpt": "Danny Spud thought he could rile up high schoolers for viral fame, but his MAGA-inspired stunt took a shocking turn.",
+        "content": "<p>Meet Danny Spud, the latest MAGA-inspired provocateur who thought he could stir up some high school drama for his 15 minutes of internet fame. Armed with nothing but a sign that read 'I LOVE ICE,' Spud set out to troll unsuspecting students, hoping to capture their outrage on camera. But as the saying goes, 'FAFO'—and Spud learned that the hard way.</p><p>What started as a seemingly harmless prank quickly spiraled into a lesson in consequences. The high schoolers, far from being the easy targets Spud anticipated, turned the tables on him in a way that left him red-faced and scrambling. Was this a case of karma or just another example of performative politics gone wrong? Either way, Spud's viral moment is one he probably wishes he could erase.</p>",
+        "celebrities": [],
+        "image_url": "https://crooksandliars.com/files/primary_image/26/02/hbedumyakaa_k6a.jpg",
+        "date": "Feb 16, 2026",
+        "url": "https://crooksandliars.com/2026/02/fafo-student-trolls-high-school-i-support"
+    },
+    {
+        "id": "xb8a0gwpo",
+        "title": "August Ponthier Shocks Fans: Non-Binary Coming Out & Debut Album ‘Everywhere Isn’t Texas’ Breaks Boundaries!",
+        "excerpt": "August Ponthier is making waves with a bold debut album that’s as much about self-discovery as it is about breaking musical boundaries.",
+        "content": "<p>August Ponthier is stealing the spotlight in 2026 with their groundbreaking debut album, ‘Everywhere Isn’t Texas.’ The rising star is not only making waves with their unique blend of country-tinged pop but also with their brave decision to come out as non-binary. Fans are buzzing about the album’s deeply personal themes, which explore the tension between the comfort of home and the allure of freedom. Ponthier’s fresh start is already being hailed as one of the year’s most remarkable musical journeys, and it’s only January!</p><p>With a sound that’s both nostalgic and forward-thinking, Ponthier is proving they’re a force to be reckoned with in the music industry. The album’s title track, ‘Everywhere Isn’t Texas,’ has become an anthem for those seeking to break free from the familiar and embrace the unknown. Critics are already predicting that this debut will be remembered as one of the best albums of the year, and fans can’t get enough of Ponthier’s raw, authentic storytelling.</p>",
+        "celebrities": [
+            "August Ponthier"
+        ],
+        "image_url": "https://variety.com/wp-content/uploads/2026/02/August-Ponthier-Tanner-Abel-1_61663e-e1771199250959.jpg?w=1000&h=563&crop=1",
+        "date": "Feb 16, 2026",
+        "url": "https://variety.com/2026/music/news/august-ponthier-interview-everywhere-isnt-texas-album-1236664184/"
+    },
+    {
+        "id": "p5cjzivy8",
+        "title": "The Tragic Mystery of Carolyn Bessette-Kennedy: JFK Jr.'s Enigmatic Wife",
+        "excerpt": "The elusive model, who captivated the world as John F. Kennedy Jr.'s wife, died at 33, leaving behind a legacy shrouded in mystery and unanswered questions.",
+        "content": "<p>Carolyn Bessette-Kennedy, the enigmatic wife of John F. Kennedy Jr., remains one of the most intriguing figures in American celebrity history. Known for her elusive nature, Carolyn never granted an official interview, and only two recordings of her voice exist, totaling less than 30 seconds of audio. Her life, though brief, was filled with glamour, controversy, and tragedy.</p><p>Married to JFK Jr. for just five years, Carolyn was thrust into the spotlight, becoming a style icon and a subject of endless fascination. Yet, she managed to maintain an air of mystery, rarely appearing in public and keeping her personal life fiercely private. Her untimely death in 1999 at the age of 33 only deepened the intrigue surrounding her life and legacy.</p><p>Was Carolyn the victim of relentless media scrutiny? Did her marriage to JFK Jr. bring her happiness or heartache? These questions continue to fuel speculation and debate, making Carolyn Bessette-Kennedy a figure who, even decades after her death, remains a captivating enigma in the world of celebrity gossip.</p>",
+        "celebrities": [
+            "Carolyn Bessette-Kennedy",
+            "John F. Kennedy Jr."
+        ],
+        "image_url": "https://resizer.glanacion.com/resizer/v2/john-f-kennedy-jr-junto-a-carolyn-bessette-RB5DDFIKQBBS3MCN434RLZOJX4.jpg?auth=53e72fc77764dae66bc2fcf265f89c9c2fd4e9081131c54cb97213d99e086885&width=1200&quality=70&smart=false&height=674",
+        "date": "Feb 16, 2026",
+        "url": "https://www.lanacion.com.ar/espectaculos/carolyn-bessette-kennedy-la-verdadera-historia-detras-del-misterioso-y-tragico-icono-estadounidense-nid15022026/"
+    },
+    {
+        "id": "3yzsgxggx",
+        "title": "Brooklyn Beckham's Shocking Family Drama: What Really Happened Behind Closed Doors",
+        "excerpt": "The Beckham family feud is heating up, and Brooklyn is spilling all the tea—here's what you need to know!",
+        "content": "<p>Brooklyn Beckham has taken the spotlight for all the wrong reasons, and it’s not just about his latest Instagram post. The eldest Beckham son is making waves with a series of public moves that hint at a deep rift with his parents, David and Victoria Beckham. From cryptic social media posts to eyebrow-raising interviews, Brooklyn’s actions are fueling rumors of a family feud that’s anything but private.</p><p>Sources close to the Beckham clan suggest tensions have been simmering for months, with Brooklyn allegedly feeling overshadowed by his parents’ high-profile careers. Could this be a classic case of a rebellious son breaking free, or is there more to the story? Fans are left wondering if the Beckhams’ picture-perfect image is cracking under the pressure of fame and family dynamics.</p>",
+        "celebrities": [
+            "Brooklyn Beckham",
+            "David Beckham",
+            "Victoria Beckham"
+        ],
+        "image_url": "https://alltoc.com/cdn/1045/og.png",
+        "date": "Feb 16, 2026",
+        "url": "https://alltoc.com/tabloid/why-has-brooklyn-beckham-publicly-split-from-his-family"
+    },
+    {
         "id": "ussz5a8j9",
         "title": "Rosie O’Donnell’s Big Return: Why She Left the U.S. for Ireland After Trump’s Win",
         "excerpt": "After fleeing to Ireland post-Trump, Rosie O’Donnell is back in the U.S.—but only for two weeks. Here’s why.",
