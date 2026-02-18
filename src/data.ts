@@ -11,6 +11,69 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "6l6u06qjt",
+        "title": "From Kimye to Bill & Melinda: The Billion-Dollar Celebrity Divorce Wars That Shocked Hollywood!",
+        "excerpt": "Get ready for jaw-dropping settlements, secret prenups, and Hollywood's most expensive splits ever!",
+        "content": "<p>The past decade has been a goldmine for celebrity divorce attorneys, with jaw-dropping settlements that make your monthly rent look like pocket change. From Kanye West and Kim Kardashian's headline-grabbing split to Bill and Melinda Gates' record-shattering $76 billion divorce, these breakups came with price tags that could fund small countries.</p><p>But it's not just the billionaires making waves. Take Artem Chigvintsev and Nikki Garcia's surprisingly civil split, where the former WWE star agreed to a $200,000 lump sum plus $3,500 monthly child support. While that might sound like a lot to us mere mortals, in Hollywood terms, it's practically a friendly handshake. Stay tuned as we dive into the most expensive celebrity divorces that prove love really does cost a thing!</p>",
+        "celebrities": [
+            "Kanye West",
+            "Kim Kardashian",
+            "Bill Gates",
+            "Melinda Gates",
+            "Artem Chigvintsev",
+            "Nikki Garcia"
+        ],
+        "image_url": "https://media.radaronline.com/brand-img/wmEsJibV2/1200x628/most-expensive-celebrity-divorces-of-the-decade-1765074930007.jpg",
+        "date": "Feb 17, 2026",
+        "url": "https://okmagazine.com/p/most-expensive-celebrity-divorces-of-the-decade/"
+    },
+    {
+        "id": "742zfoaef",
+        "title": "Natasha Rothwell Shocks at Spirit Awards: ‘F--- ICE’ Moment Sparks Wild Applause!",
+        "excerpt": "Natasha Rothwell dropped a bombshell at the Spirit Awards, leaving the audience cheering with her fiery off-script jab at ICE.",
+        "content": "<p>Actress Natasha Rothwell, best known for her work on <em>Saturday Night Live</em> and her standout roles in film and TV, stole the spotlight at the Independent Spirit Awards in the most unexpected way. While accepting her award, Rothwell ditched the script and delivered a bold, unfiltered message condemning ICE, earning thunderous applause from the star-studded crowd.</p><p>The moment quickly became the talk of the evening, with attendees buzzing about her fearless stance. Rothwell’s unscripted remarks were a stark contrast to the polished speeches typically seen at such events, proving once again that she’s not afraid to use her platform for what she believes in. Social media lit up with reactions, with fans and fellow celebrities alike praising her courage and authenticity.</p><p>This isn’t the first time award shows have been a stage for political statements—earlier this month, the Grammys saw similar moments—but Rothwell’s raw delivery and the audience’s enthusiastic response made this one unforgettable. Whether you agree with her message or not, there’s no denying it was a headline-worthy moment that will be remembered long after the trophies are handed out.</p>",
+        "celebrities": [
+            "Natasha Rothwell"
+        ],
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/natasha-rothwell-at-ice-awards.png",
+        "date": "Feb 17, 2026",
+        "url": "https://www.foxnews.com/media/actress-natasha-rothwell-goes-off-prompter-say-f-ice-independent-spirit-awards"
+    },
+    {
+        "id": "8jyls4eoy",
+        "title": "Barack Obama Drops Bombshell NBA All-Star Game Take That Has Fans Buzzing",
+        "excerpt": "Barack Obama just revealed a surprising insight from the NBA All-Star Game that has everyone talking.",
+        "content": "<p>Barack Obama wasn't just courtside for the NBA All-Star Game—he was taking notes. The former president, known for his love of basketball, used the star-studded event as more than just entertainment.</p><p>While most fans were focused on the jaw-dropping dunks and celebrity sightings, Obama found himself reflecting on something deeper. Sources close to the former president say his thoughts on the game have sparked fresh conversations about sports, leadership, and unity.</p>",
+        "celebrities": [
+            "Barack Obama"
+        ],
+        "image_url": "https://s.yimg.com/os/en/hitc_articles_832/bbcd898c8915fc0b8c5143bf99ad69e1",
+        "date": "Feb 17, 2026",
+        "url": "https://www.hitc.com/barack-obama-shares-what-the-nba-all-star-game-reminded-him-about-sports/"
+    },
+    {
+        "id": "cvcdy7ib2",
+        "title": "Bad Bunny’s Secret Post-Super Bowl Bash: Staff Forced to Follow Strict Rules!",
+        "excerpt": "After his epic Spanish-language Super Bowl halftime show, Bad Bunny ditched the spotlight for a private Palo Alto party — but there’s a twist!",
+        "content": "<p>Move over, Super Bowl glitz — Bad Bunny traded the bright lights of Levi's Stadium for an ultra-exclusive, hush-hush bash in Palo Alto just hours later. The Puerto Rican superstar, whose real name is Benito Antonio Martínez Ocasio, quietly rented out Macarena, a chic Spanish restaurant, for an intimate celebration with his closest friends and family. But here's the juicy part: sources say staff were given a strict set of rules to ensure the night stayed as private as Bad Bunny's vault of unreleased tracks.</p><p>From no-photos policies to tight-lipped servers, the party was as mysterious as the man himself. While fans were left wondering what went down inside, one thing's for sure — Bad Bunny knows how to keep the world guessing, even after stealing the show with his historic all-Spanish halftime set. ¡Buenísimo, indeed!</p>",
+        "celebrities": [
+            "Bad Bunny"
+        ],
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/02/ratio3x2_960.jpg?quality=75&strip=all&w=1200",
+        "date": "Feb 17, 2026",
+        "url": "https://nypost.com/2026/02/16/us-news/bad-bunny-shuts-down-palo-alto-eatery-for-post-super-bowl-celebration/"
+    },
+    {
+        "id": "oo6tnc402",
+        "title": "OMG! 7 Jaw-Dropping Celebrity Crime Cases That Had Everyone Talking",
+        "excerpt": "From shocking abductions to murder trials, these celebrity-connected crimes kept the nation glued to their screens for years!",
+        "content": "<p>Hold onto your seats, because these celebrity crime cases are wilder than any Hollywood script! From shocking abductions to jaw-dropping murder trials, these stories had the public hooked for years, sparking endless debates and nonstop media frenzy. This slideshow dives into seven of the most talked-about cases involving stars, athletes, and other high-profile figures that left us all shook.</p><p>Think you’ve heard it all? Think again! These scandals are so juicy, you won’t believe they’re real. Get ready for a rollercoaster of drama, mystery, and shocking twists that prove truth is stranger than fiction.</p>",
+        "celebrities": [],
+        "image_url": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/02/celeb-crimes-social.jpg",
+        "date": "Feb 17, 2026",
+        "url": "https://www.justjared.com/2026/02/16/from-abductions-to-murder-trials-7-celebrity-crime-cases-that-captivated-the-nation/"
+    },
+    {
         "id": "xrirvn1yj",
         "title": "Jalen Johnson's Wild First All-Star Weekend: The Inside Scoop!",
         "excerpt": "From jaw-dropping performances to unexpected drama, Jalen Johnson’s debut All-Star Weekend was anything but ordinary.",
