@@ -11,6 +11,67 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "l71jima8q",
+        "title": "Christian Angermayer's Wildest Dreams: Doping Olympics, Dino Comebacks, and Immortality Goals!",
+        "excerpt": "From doping competitions to resurrecting dinosaurs, this German investor is living every mad scientist's fantasy!",
+        "content": "<p>Christian Angermayer is back for his third appearance in the OMR Podcast in ten years, and as always, he's serving up a cocktail of wild ideas and billion-dollar ambitions. This time, he's talking about organizing 'doping competitions,' bringing dinosaurs back to life, and working on a plan to live for hundreds of years. Yep, you read that right.</p><p>The German investor, who manages Apeiron Investment Group with a portfolio worth billions, is nothing if not ambitious. Whether he's dabbling in biotech, psychedelics, or prehistoric creatures, Angermayer is the kind of guy who makes you wonder if he's secretly a Bond villain—or just a genius with too much time (and money) on his hands.</p><p>His latest ventures are as outrageous as they are fascinating. Imagine a world where athletes compete with performance-enhancing drugs legally, or where you could take a selfie with a real-life T-Rex. Angermayer isn't just dreaming—he's funding it. And while his plans might sound like something out of a sci-fi movie, one thing's for sure: this guy knows how to keep us entertained.</p>",
+        "celebrities": [],
+        "image_url": "https://images.podigee-cdn.net/0x,s-rL-qj0QbYHHRJrDoXivRTHNlcJ2JuSncWpN6pl7wio=/https://main.podigee-cdn.net/uploads/u35430/fb843dcf-fd18-4b8a-8147-71a0478e86e0.jpg",
+        "date": "Feb 18, 2026",
+        "url": "https://omr.podigee.io/956-neue-episode"
+    },
+    {
+        "id": "oik1m3m82",
+        "title": "Jaden Rashada's $14M NIL Deal Drama: Billy Napier Settles Lawsuit in Shocking Twist!",
+        "excerpt": "The quarterback's failed $14 million name, image, and likeness deal has finally reached a resolution—but not without a scandalous backstory.",
+        "content": "<p>In a jaw-dropping turn of events, former Florida quarterback Jaden Rashada has settled his lawsuit against ex-coach Billy Napier and three other defendants over a failed $14 million NIL deal. The case, which has been the talk of the college football world, finally reached a resolution, but not before exposing the messy underbelly of big-money endorsements in sports.</p><p>Rashada, once hailed as a rising star, claimed the deal fell through after promises of financial backing evaporated. Napier, now coaching at James Madison, was in town for his deposition, adding fuel to the already fiery drama. While the terms of the settlement remain under wraps, one thing’s for sure—this saga has left fans and critics alike questioning the ethics of NIL deals in college athletics.</p>",
+        "celebrities": [
+            "Jaden Rashada",
+            "Billy Napier"
+        ],
+        "image_url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "date": "Feb 18, 2026",
+        "url": "https://sports.yahoo.com/articles/jaden-rashada-billy-napier-others-012908373.html"
+    },
+    {
+        "id": "29dbkmih8",
+        "title": "Olympic Drama: Skier's Sister Protests Gender Gap While Brother Competes",
+        "excerpt": "Annika Malacinski's bold stand against Olympic inequality steals spotlight from brother's big moment.",
+        "content": "<p>While her brother Niklas Malacinski represented Team USA in the high-stakes Nordic Combined skiing event at the 2026 Winter Olympics on Tuesday, February 17, his sister Annika made headlines for a very different reason.</p><p>The accomplished Nordic Combined skier turned activist used the global stage to protest the ongoing exclusion of women from the event, sparking a heated debate about gender equality in winter sports. As Niklas raced down the slopes, Annika's powerful statement resonated far beyond the competition.</p><p>The sibling dynamic adds an intriguing layer to this Olympic story - one competing for glory while the other fights for future generations of female athletes. Will this protest finally push the International Olympic Committee to address the decades-long disparity?</p>",
+        "celebrities": [
+            "Niklas Malacinski",
+            "Annika Malacinski"
+        ],
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/SLYRcV2M3W0C07uFE.XrXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/7ba1931db7ba0070a3b9ae8623a8400a",
+        "date": "Feb 18, 2026",
+        "url": "https://people.com/annika-malacinski-protests-women-exclusion-from-winter-olympics-event-during-her-brother-competition-11908407"
+    },
+    {
+        "id": "a0qdhk157",
+        "title": "10 Jaw-Dropping Digital Marketing Wins That Shook the Industry in 2026",
+        "excerpt": "From AI-powered campaigns to cultural moments that went viral, these brands proved they’re not just playing the game—they’re rewriting the rules.",
+        "content": "<p>Move over, Hollywood—2026’s biggest blockbusters aren’t on the silver screen, they’re in the digital marketing arena. This year, brands went all-in on creativity, data, and cultural relevance, delivering campaigns so bold they practically broke the internet. Think AI-driven personalization that feels like it’s reading your mind, or viral moments so perfectly timed they’re practically prophetic. These aren’t just marketing strategies—they’re cultural phenomena.</p><p>Leading the charge are U.S. powerhouses who’ve mastered the art of blending innovation with authenticity. Whether it’s a fashion giant leveraging TikTok trends or a tech behemoth turning data into storytelling gold, these campaigns are proof that in today’s fast-paced digital economy, the boldest ideas win. Spoiler alert: some of your favorite celebrities are behind the scenes, making it all happen.</p>",
+        "celebrities": [],
+        "image_url": "https://digitaldefynd.com/IQ/wp-content/uploads/2026/01/10-Latest-Digital-Marketing-Case-Studies-Deep-Analysis-2026.jpg",
+        "date": "Feb 18, 2026",
+        "url": "https://digitaldefynd.com/IQ/latest-digital-marketing-case-studies/"
+    },
+    {
+        "id": "hk4jtx6fa",
+        "title": "Hollywood Stars Unite for Epic 24-Hour Theater Challenge in LA!",
+        "excerpt": "Get ready for a star-studded spectacle as Hollywood's finest gather for a whirlwind 24-hour theater extravaganza!",
+        "content": "<p>Hollywood is about to witness an unprecedented creative marathon as The 24 Hour Plays opens its permanent LA home! This non-profit organization, known for its lightning-fast theatrical productions, is bringing together a dazzling array of A-list talent for a 24-hour playwriting and performance challenge that's sure to be the talk of Tinseltown.</p><p>Imagine this: In just one day, some of your favorite stars will write, rehearse, and perform brand-new plays. It's like 'Project Runway' meets Broadway, but with more caffeine and less Tim Gunn. The lineup reads like a who's who of Hollywood, featuring the versatile Tatiana Maslany, 'Two and a Half Men' alum Jon Cryer, 'Jurassic World Dominion' heartthrob Justice Smith, and the charming Pauline Chalamet. These celebs are trading their usual scripts for a chance to flex their creative muscles in a whole new way.</p>",
+        "celebrities": [
+            "Tatiana Maslany",
+            "Jon Cryer",
+            "Justice Smith",
+            "Pauline Chalamet"
+        ],
+        "image_url": "https://deadline.com/wp-content/uploads/2026/02/24-hour-plays-e1771373945904.png?w=1024",
+        "date": "Feb 18, 2026",
+        "url": "http://deadline.com/2026/02/24-hour-plays-tatiana-maslany-jon-cryer-los-angeles-1236727767/"
+    },
+    {
         "id": "6l6u06qjt",
         "title": "From Kimye to Bill & Melinda: The Billion-Dollar Celebrity Divorce Wars That Shocked Hollywood!",
         "excerpt": "Get ready for jaw-dropping settlements, secret prenups, and Hollywood's most expensive splits ever!",
