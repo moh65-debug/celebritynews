@@ -11,6 +11,70 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "m3jp6f7ad",
+        "title": "Tom Cruise's Next Mission: Recruiting Oscar Winner Chloe Zhao for M:I-9?",
+        "excerpt": "Could Tom Cruise be planning a shocking twist for the Mission: Impossible franchise?",
+        "content": "<p>Hold onto your seats, Mission: Impossible fans—Tom Cruise might not be ready to hang up his IMF badge just yet! While Mission: Impossible – The Final Reckoning was hyped as the grand finale of the adrenaline-pumping franchise, whispers from industry insiders suggest there could be more death-defying stunts on the horizon.</p><p>According to the ever-reliable gossip hub DeuxMoi, Cruise is allegedly eyeing Oscar-winning director Chloe Zhao to helm the next installment. Could this be the franchise's boldest move yet? Zhao, known for her poetic storytelling in Nomadland, would bring a fresh, unexpected vibe to the high-octane series. But will she accept the mission?</p><p>Sources close to the production hint that Cruise is determined to keep the franchise alive, even if it means breaking his own promises. After all, who could blame him? The Mission: Impossible series has been a cash cow, and Cruise’s dedication to practical stunts keeps audiences coming back for more. But with Zhao’s potential involvement, this could be more than just another sequel—it could be a cinematic event.</p><p>Of course, this is all still in the rumor mill, but if there’s one thing we know about Tom Cruise, it’s that he doesn’t do anything by halves. Whether it’s scaling skyscrapers or recruiting visionary directors, Cruise is always on a mission. Stay tuned, because if this scoop is true, the next Mission: Impossible could be unlike anything we’ve seen before.</p>",
+        "celebrities": [
+            "Tom Cruise",
+            "Chloe Zhao"
+        ],
+        "image_url": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/02/rumor-cruise-wants-chloe-zhao-for-mi-9.jpg",
+        "date": "Feb 19, 2026",
+        "url": "https://www.darkhorizons.com/rumor-cruise-wants-chloe-zhao-for-mi-9/"
+    },
+    {
+        "id": "p2wavjdr2",
+        "title": "MLB Union Boss Tony Clark Quits Amid Scandal: Affair with Sister-in-Law Revealed!",
+        "excerpt": "Tony Clark, the first former player to lead the MLB union, steps down after shocking affair allegations surface.",
+        "content": "<p>Baseball's biggest union is in the headlines for all the wrong reasons! Tony Clark, the powerful executive director of the MLB Players Association, has resigned after an internal investigation uncovered his alleged 'inappropriate relationship' with his sister-in-law, according to ESPN.</p><p>Clark, a former MLB star himself, made history as the first ex-player to lead the players' union. But now, his legacy is overshadowed by scandal. Sources say the affair came to light during a routine internal review, forcing Clark to step down immediately. While the details remain hush-hush, insiders are buzzing about the drama behind closed doors.</p><p>The MLBPA has yet to comment on who will take over Clark's role, but one thing's for sure—this scandal has sent shockwaves through the baseball world. Stay tuned as this story develops!</p>",
+        "celebrities": [
+            "Tony Clark"
+        ],
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/49Cxd_dBr.wxDeUMc2WGTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/a3262732e9f8b37a1844d14ef684afb0",
+        "date": "Feb 19, 2026",
+        "url": "https://people.com/mlb-players-association-exec-tony-clark-resigns-over-inappropriate-relationship-with-sister-in-law-reports-11909354"
+    },
+    {
+        "id": "ua4rvdox6",
+        "title": "Top Chef's $11M Housing Project Drama: Is He Putting Luxury Over Locals?",
+        "excerpt": "Thomas Keller sparks controversy as he questions Yountville's affordable housing plans, raising eyebrows about his true motives.",
+        "content": "<p>Move over, culinary masterpieces—there's a new dish on the table, and it's got nothing to do with Michelin stars. Celebrity chef Thomas Keller, the mastermind behind the ultra-luxe The French Laundry, is stirring the pot in Yountville, California, with his concerns about the town's $11 million affordable housing project. The plan? A 150-unit development aimed at making the swanky wine country town a little more accessible to everyday folks. But Keller? He's not exactly rolling out the red carpet.</p><p>The chef, known for his exquisite (and expensive) dining experiences, is calling for a pause on the project, leaving locals and fans alike wondering: Is this about preserving the town's charm, or is Keller worried about his high-end clientele getting a little too close to the 'common folk'? With Yountville's reputation as a playground for the wealthy, Keller's stance has sparked a heated debate. Is he a champion for the community or just protecting his own backyard? Stay tuned as this celebrity chef's latest controversy simmers.</p>",
+        "celebrities": [
+            "Thomas Keller"
+        ],
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/thomas-keller-chef-fox-news.jpg",
+        "date": "Feb 19, 2026",
+        "url": "https://www.foxnews.com/food-drink/swanky-michelin-starred-restaurant-owner-questions-blue-states-affordable-housing-project"
+    },
+    {
+        "id": "1j15xgwsm",
+        "title": "Logan Paul Claps Back at Tom Brady, Questions NFL Stars’ Boxing Skills in Epic Feud!",
+        "excerpt": "The countdown to the Fanatics Flag Football Classic has ignited a fiery feud between WWE sensation Logan Paul and NFL legend Tom Brady, and the drama is just getting started!",
+        "content": "<p>The countdown to the Fanatics Flag Football Classic in Riyadh, Saudi Arabia, has already sparked more drama off the field than on it. Former NFL superstar Tom Brady and WWE sensation Logan Paul have traded barbs, with Logan doubling down on his feud and questioning the boxing skills of NFL players. Fans are buzzing as the two icons prepare to face off in what promises to be a showdown for the ages!</p><p>Logan, never one to shy away from controversy, took to social media to fire back at Brady, claiming that NFL stars might be great on the gridiron but are no match for him in the ring. The WWE star’s bold comments have only fueled the fire, leaving fans wondering if this feud will spill over into the flag football game itself. Will Brady respond, or will he let his skills do the talking on the field? Stay tuned!</p>",
+        "celebrities": [
+            "Logan Paul",
+            "Tom Brady"
+        ],
+        "image_url": "https://phantom.estaticos-marca.com/e6f01a8282120fbdca11ff7d1d461876/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/19/17714606191062.png",
+        "date": "Feb 19, 2026",
+        "url": "https://www.marca.com/en/nfl/las-vegas-raiders/2026/02/19/6996586346163f8b5e8b4572.html"
+    },
+    {
+        "id": "nf0pd0v8p",
+        "title": "The Secret Romance of JFK Jr. and Carolyn Bessette: 9 Shocking Details You Never Knew",
+        "excerpt": "From candlelit weddings to secret neighborhood dining spots, uncover nine surprising facts about JFK Jr. and Carolyn Bessette’s real-life romance.",
+        "content": "<p>America may not have a royal family, but the Kennedys came pretty close. John F. Kennedy’s short but eventful presidency earned the nickname Camelot, and his son JFK Jr. became known as America’s Prince Charming. But behind the public image, JFK Jr. and Carolyn Bessette’s romance was filled with secrets, surprises, and a love story that captivated the nation.</p><p>From their candlelit wedding in a remote island ceremony to their favorite hidden dining spots in the city, this couple’s relationship was anything but ordinary. Here are nine surprising facts about their real-life romance that will leave you stunned.</p>",
+        "celebrities": [
+            "JFK Jr.",
+            "Carolyn Bessette",
+            "John F. Kennedy"
+        ],
+        "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_134,w_2841,h_1598/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01khshjqqgcpts1fc7h1.jpg",
+        "date": "Feb 19, 2026",
+        "url": "https://www.mentalfloss.com/history/facts-about-jfk-jr-and-carolyn-bessette"
+    },
+    {
         "id": "l71jima8q",
         "title": "Christian Angermayer's Wildest Dreams: Doping Olympics, Dino Comebacks, and Immortality Goals!",
         "excerpt": "From doping competitions to resurrecting dinosaurs, this German investor is living every mad scientist's fantasy!",
