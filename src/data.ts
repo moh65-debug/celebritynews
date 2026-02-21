@@ -11,6 +11,66 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "th74byg5q",
+        "title": "Hollywood's Furry Stars: Are Animals Still the Real MVPs on Set?",
+        "excerpt": "From silent film legends to modern-day icons, Hollywood's animal actors have been stealing scenes for decades—but is their reign in jeopardy?",
+        "content": "<p>From the golden age of cinema to today’s blockbuster hits, animals have been the unsung heroes of Hollywood. Remember Bart the Bear, who dominated the 1980s and 1990s with over 20 film and TV credits? Or the legendary collies who brought Lassie to life, generation after generation? And let’s not forget Luke, the loyal dog of silent star Roscoe 'Fatty' Arbuckle, who paved the way for nonhuman actors everywhere.</p><p>But here’s the real tea: one dog’s incredible journey from the brink of euthanasia to Hollywood stardom is proof that these furry performers are more than just cute faces. After nearly two years of intense training, a sprinkle of good fortune, and the tireless dedication of a compassionate team, this pup has landed a gig that even Tinseltown didn’t see coming. Could this be the start of a new era for animal actors? Stay tuned, because Hollywood’s next big star might just have four legs and a wagging tail.</p>",
+        "celebrities": [
+            "Roscoe 'Fatty' Arbuckle"
+        ],
+        "image_url": "https://www.good.is/media-library/bear-trainer-doug-seus-plays-with-bart-the-bear-whos-appeared-in-over-20-tv-shows-and-films.jpg?id=64965062&width=1200&height=600&coordinates=520%2C0%2C120%2C0",
+        "date": "Feb 20, 2026",
+        "url": "https://www.good.is/do-animals-have-a-future-on-hollywood-sets"
+    },
+    {
+        "id": "ucaxktnhj",
+        "title": "Tucker Carlson’s ‘Detention’ Drama Crumbles as Video Exposes the Truth",
+        "excerpt": "Tucker’s latest Israel controversy takes a wild turn as new footage calls his claims into question.",
+        "content": "<p>Oh, Tucker. The Fox News host’s latest crusade against Israel just hit a major speed bump. Known for his fiery rhetoric and controversial takes, Carlson’s latest claim of being ‘detained’ in Israel has now been debunked by video evidence. What was supposed to be a sob story about alleged mistreatment has turned into a full-blown scandal.</p><p>Carlson, who has a history of inflammatory remarks about Jewish communities, described his experience as ‘detention’ despite being treated to what many are calling luxury accommodations. The released footage paints a very different picture, showing Carlson in a relaxed and comfortable setting. This revelation has sparked outrage and disbelief among his critics, who accuse him of spreading misinformation and fueling anti-Semitic narratives.</p><p>As the story continues to unfold, one thing is clear: Tucker’s attempt to vilify Israel has backfired spectacularly. Stay tuned as this drama develops and more details emerge.</p>",
+        "celebrities": [
+            "Tucker Carlson"
+        ],
+        "image_url": "https://legalinsurrection.com/wp-content/uploads/2026/02/Tucker-Ben-Gurion-Airport-e1771551222181.jpg",
+        "date": "Feb 20, 2026",
+        "url": "https://legalinsurrection.com/2026/02/tucker-sob-story-about-israeli-detention-collapses-with-video-release/"
+    },
+    {
+        "id": "dfgvkj37x",
+        "title": "MLS Billion-Dollar Club: The Teams Worth More Than Your Favorite Celebs!",
+        "excerpt": "Major League Soccer’s top clubs are now worth over a billion dollars—and the star power behind them is just as dazzling.",
+        "content": "<p>Move over Hollywood, because Major League Soccer is stealing the spotlight with its billion-dollar clubs! Thanks to glitzy new stadiums, jaw-dropping media deals, and a sprinkle of celebrity magic, MLS has transformed from a modest league into a global investment goldmine. Think of it as the ultimate power move—where soccer meets star-studded glamour.</p><p>From A-list owners to world-famous players, these teams aren’t just scoring goals; they’re scoring big bucks. And let’s be real, some of these franchises are worth more than your favorite celebrity’s mansion. So, who’s leading the pack? Buckle up, because we’re diving into the glitz, glam, and green of MLS’s most valuable teams.</p>",
+        "celebrities": [],
+        "image_url": "https://www.thebiglead.com/wp-content/uploads/2026/02/USATSI_27755988-scaled.jpg",
+        "date": "Feb 20, 2026",
+        "url": "https://www.thebiglead.com/most-valuable-franchises-in-mls/"
+    },
+    {
+        "id": "43r9wc5pd",
+        "title": "WWE's Raquel Rodriguez Just Dropped a Bombshell Challenge to Cardi B and Megan Thee Stallion!",
+        "excerpt": "WWE Superstar Raquel Rodriguez is shaking things up with a bold challenge aimed at Cardi B and Megan Thee Stallion!",
+        "content": "<p>WrestleMania is heating up, and WWE Superstar Raquel Rodriguez just threw down the gauntlet in a way that’s got everyone talking. In a jaw-dropping move, Rodriguez called out none other than Cardi B and Megan Thee Stallion, setting the stage for a potential crossover that could rock the women’s division to its core.</p><p>TMZ’s Inside The Ring podcast spilled the tea, revealing that Rodriguez isn’t just flexing—she’s serious about bringing these music icons into the WWE ring. Could we see Cardi B and Megan Thee Stallion trading microphones for championship belts? Only time will tell, but one thing’s for sure: WrestleMania just got a whole lot more interesting.</p>",
+        "celebrities": [
+            "Raquel Rodriguez",
+            "Cardi B",
+            "Megan Thee Stallion"
+        ],
+        "image_url": "https://imagez.tmz.com/image/ff/16by9/2026/02/19/ffb7af77203e43ce951196029fa461f3_xl.jpg",
+        "date": "Feb 20, 2026",
+        "url": "https://www.tmz.com/2026/02/19/wwe-superstar-raquel-rodriguez-challenges-meg-thee-stallion-cardi-b/"
+    },
+    {
+        "id": "2kq9t4iup",
+        "title": "AI or Not AI: The Mind-Blowing Truth About Machine Intelligence!",
+        "excerpt": "Is AI smarter than your favorite celeb? One philosopher says yes, and the implications are wild!",
+        "content": "<p>Hold onto your designer hats, folks! The AI debate just got a major shake-up, and it's juicier than a Hollywood scandal. Blaise Agüera y Arcus is dropping truth bombs left and right, claiming that prediction is the secret sauce behind all intelligence. Could this be the whole story? Buckle up, because we're diving deep into the world of Large Language Models and ancient Greek tech!</p><p>Imagine this: a machine so smart it could give Elon Musk a run for his money. We're talking about LLMs that can predict your next move before you even make it. It's like having a crystal ball, but instead of a fortune teller, it's lines of code. And the best part? This tech isn't new. We're talking ancient Greece levels of old school. The Antikythera mechanism, anyone? It's like finding out your grandma was a secret agent all along!</p>",
+        "celebrities": [
+            "Elon Musk"
+        ],
+        "image_url": "https://images.theconversation.com/files/715057/original/file-20260129-76-k8o3bt.jpg?ixlib=rb-4.1.0&rect=0%2C109%2C3683%2C1841&q=45&auto=format&w=1356&h=668&fit=crop",
+        "date": "Feb 20, 2026",
+        "url": "https://theconversation.com/is-ai-really-intelligent-this-philosopher-says-yes-271721"
+    },
+    {
         "id": "m3jp6f7ad",
         "title": "Tom Cruise's Next Mission: Recruiting Oscar Winner Chloe Zhao for M:I-9?",
         "excerpt": "Could Tom Cruise be planning a shocking twist for the Mission: Impossible franchise?",
