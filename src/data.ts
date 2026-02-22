@@ -11,6 +11,73 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "mll18olyh",
+        "title": "Goli Nutrition Throws a Star-Studded Gala to Crown the Biggest Creators — Think Oscars, But for TikTok!",
+        "excerpt": "Hollywood's elite are trading red carpets for gummy bears as Goli Nutrition and TikTok team up for a glitzy awards night that's set to redefine influencer fame.",
+        "content": "<p>The entertainment world is buzzing as Goli Nutrition Inc. and TikTok prepare to host the inaugural Goli Gala on March 3 in Anaheim, California. Dubbed the \"Oscars for Creators,\" this black-tie affair promises to be a dazzling celebration of digital stardom.</p><p>Industry insiders whisper that the event will bring together the biggest names in social media, with influencers and celebrities alike expected to grace the red carpet. Sources close to the planning reveal that the gala will feature jaw-dropping performances, surprise guest appearances, and, of course, plenty of Goli's signature apple cider vinegar gummies to keep the stars glowing.</p><p>While the full list of attendees remains under wraps, rumors are swirling about who might take home the coveted Creator Crown. Will it be a TikTok titan, a YouTube sensation, or perhaps a crossover star from traditional Hollywood? One thing's for sure: this is one awards show you won't want to miss.</p>",
+        "celebrities": [],
+        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "date": "Feb 21, 2026",
+        "url": "https://apnews.com/press-release/business-wire/goli-nutrition-launches-the-oscars-for-creators-with-inaugural-black-tie-gala-3f8b3a5eafd14029a4932452b2c6004b"
+    },
+    {
+        "id": "m604mp2ug",
+        "title": "Shocking Arrest: Ex-Prince Andrew Caught in Jeffrey Epstein Scandal — Will He Face Justice?",
+        "excerpt": "The royal scandal that’s got everyone talking: Will ex-Prince Andrew finally face the music for his alleged ties to Jeffrey Epstein?",
+        "content": "<p>The royal drama just took a jaw-dropping turn! Ex-Prince Andrew has been arrested, and the world is buzzing with one burning question: Will American prosecutors finally bring him to justice? The scandal, which has been simmering for years, has now exploded into a full-blown legal nightmare for the disgraced royal.</p><p>Sources close to the investigation reveal that Andrew’s arrest stems from allegations of sharing confidential information with the late Jeffrey Epstein, the convicted sex offender whose name has become synonymous with scandal. While Buckingham Palace has yet to comment, insiders suggest that this could be the beginning of the end for the Duke of York’s already tarnished reputation.</p><p>Social media is ablaze with reactions, with many calling for accountability and others speculating about the potential fallout for the British monarchy. Will this be the moment that finally forces the royal family to address the elephant in the room? Stay tuned as this story continues to unfold—it’s one you won’t want to miss!</p>",
+        "celebrities": [
+            "Prince Andrew",
+            "Jeffrey Epstein"
+        ],
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/02/RC27PJAEFU7P-644031623-3_79c069-e1771617220528.jpg?quality=75&strip=all&w=1200",
+        "date": "Feb 21, 2026",
+        "url": "https://nypost.com/2026/02/20/opinion/ex-prince-andrews-arrest-letters/"
+    },
+    {
+        "id": "clslswv90",
+        "title": "RuPaul's Drag Race S18E08: Snatch Game of Love Gets a Steamy Island Twist! 🏝️",
+        "excerpt": "The queens are serving looks and drama as Snatch Game returns with a sizzling island twist—who will slay and who will sink?",
+        "content": "<p>The competition is heating up on MTV's <em>RuPaul's Drag Race</em> Season 18, and tonight's episode promises to be a game-changer! In S18E08, \"Snatch Game of Love: Island Edition,\" the queens are swapping political debates for tropical theatrics as they impersonate iconic personalities in the fan-favorite challenge.</p><p>Last week, Myki Meeks claimed victory with a powerhouse performance, while Juicy Love Dion faced an unfortunate exit. Now, with the stakes higher than ever, the remaining queens must bring their A-game to impress RuPaul and the judges. Will anyone channel their inner island diva, or will the pressure send someone packing? Tune in to find out!</p>",
+        "celebrities": [
+            "RuPaul",
+            "Myki Meeks",
+            "Juicy Love Dion"
+        ],
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/02/MixCollage-20-Feb-2026-05-48-PM-552-2000x1125.jpg",
+        "date": "Feb 20, 2026",
+        "url": "https://bleedingcool.com/tv/rupauls-drag-race-s018e08-preview-snatch-game-returns-with-a-twist/"
+    },
+    {
+        "id": "d7r1c7gsf",
+        "title": "Kurt Russell Wants Goldie Hawn to Join the Monster Mayhem—Here’s Why!",
+        "excerpt": "Kurt Russell has a wild idea for the next monster showdown, and it involves his legendary wife, Goldie Hawn.",
+        "content": "<p>Kurt Russell is dreaming big—and this time, he’s not leaving his wife, Goldie Hawn, out of the action. At the premiere of <em>Monarch: Legacy of Monsters</em>, the actor revealed his wish to see Hawn take on the iconic King Kong in a future project. “I’d love to see what Goldie does with Kong,” Russell said, sparking excitement among fans about the possibility of the Hollywood power couple teaming up in the monster universe.</p><p>The show is already a family affair, with Russell’s son Wyatt playing the younger version of his character, making it a true Russell dynasty moment. But could Goldie be next to join the fun? Fans are already imagining the magic she’d bring to the big screen alongside her family. Stay tuned—this monster mash might just get a whole lot more star-studded!</p>",
+        "celebrities": [
+            "Kurt Russell",
+            "Goldie Hawn",
+            "Wyatt Russell"
+        ],
+        "image_url": "https://pyxis.nymag.com/v1/imgs/bb8/a35/d9957a158dba9ec156c734fb63dd05f910-russells.1x.rsocial.w1200.jpg",
+        "date": "Feb 20, 2026",
+        "url": "http://www.vulture.com/article/kurt-russell-goldie-hawn-monarch.html"
+    },
+    {
+        "id": "i8xgcu3zm",
+        "title": "Hollywood Stars, Music Icons & a Fiery Chef: Inside This Explosive Graham Norton Episode!",
+        "excerpt": "Graham Norton's sofa is about to explode with star power, culinary chaos, and chart-topping tunes!",
+        "content": "<p>Graham Norton is pulling out all the stops for this star-studded episode! Oscar winner Benicio del Toro is set to dish on his latest film, Paul Thomas Anderson's hotly anticipated One Battle After Another. But that's not all - Jennifer Garner is bringing her signature charm, while Gordon Ramsay is guaranteed to spice things up with his trademark fiery personality. Music lovers are in for a treat too, as Charli XCX and the legendary Foo Fighters are ready to rock the red sofa. With this lineup, Graham's show is shaping up to be the hottest ticket in town!</p><p>Will Ramsay clash with the Foo Fighters over cooking tips? Can Benicio and Jennifer swap Hollywood secrets? And what surprises does Charli XCX have up her sleeve? Tune in to find out as Graham navigates this explosive mix of talent, tempers, and toe-tapping tunes!</p>",
+        "celebrities": [
+            "Benicio del Toro",
+            "Jennifer Garner",
+            "Gordon Ramsay",
+            "Charli XCX",
+            "Foo Fighters"
+        ],
+        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
+        "date": "Feb 20, 2026",
+        "url": "https://post.rlsbb.to/the-graham-norton-show-s33e19-1080p-hdtv-h264-ftp/"
+    },
+    {
         "id": "th74byg5q",
         "title": "Hollywood's Furry Stars: Are Animals Still the Real MVPs on Set?",
         "excerpt": "From silent film legends to modern-day icons, Hollywood's animal actors have been stealing scenes for decades—but is their reign in jeopardy?",
