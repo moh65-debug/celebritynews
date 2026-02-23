@@ -11,6 +11,63 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "9qxo3a4ec",
+        "title": "Inside Maxi López's Ultra-Luxurious Nordelta Mansion: Private Dock, Lake Views, and Wanda Nara as a Neighbor!",
+        "excerpt": "Maxi López is leaving his European life behind to settle in Argentina with his stunning model girlfriend and their adorable kids—but it’s his jaw-dropping new mansion that’s stealing the spotlight!",
+        "content": "<p>Maxi López, the former football star, is making waves with his latest move—not just relocating to Argentina, but settling into a jaw-dropping mansion in the exclusive Nordelta neighborhood. The luxurious property boasts a private dock, stunning lake views, and an unexpected neighbor: none other than Wanda Nara. Talk about living the high life!</p><p>The athlete is preparing for the arrival of his partner, the gorgeous Swedish model Daniela Christiansson, and their two adorable children, Elle and Lando. After years of living the European dream, Maxi is trading in his international lifestyle for a life of opulence in Argentina. And let’s be honest, with a house like this, who wouldn’t?</p>",
+        "celebrities": [
+            "Maxi López",
+            "Daniela Christiansson",
+            "Wanda Nara"
+        ],
+        "image_url": "https://fotos.perfil.com/2026/02/22/trim/1140/641/maxi-lopez-y-wanda-nara-2190106.jpg",
+        "date": "Feb 22, 2026",
+        "url": "https://caras.perfil.com/noticias/celebridades/casa-maxi-lopez-nordelta-muelle-propio-vista-lago-vecino-wanda-nara.phtml"
+    },
+    {
+        "id": "mfz1635z8",
+        "title": "Influencer's Backyard Turned into a Stalker's Playground: Cops Called Twice in 24 Hours!",
+        "excerpt": "In a chilling turn of events, a social media star faced not one, but two creepy encounters with lurkers in her LA backyard, leaving fans on edge.",
+        "content": "<p>In a spine-tingling episode that has the internet buzzing, a well-known social media influencer found herself in a real-life thriller when two separate men were spotted lurking in her Los Angeles backyard within a span of 24 hours. The first incident occurred just before midnight on Wednesday, prompting an immediate call to the police. Officers arrived on the scene to investigate a report of trespassing and a possible violation of a restraining order.</p><p>But the drama didn't end there. Less than a day later, the influencer was back on the phone with law enforcement, reporting yet another suspicious figure skulking around her property. With each encounter more unsettling than the last, fans are left wondering: who are these mysterious men, and what do they want? As the influencer's security team ramps up protection, the internet is abuzz with speculation and concern for her safety.</p>",
+        "celebrities": [],
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/02/121920270.jpg?quality=75&strip=all&w=1200",
+        "date": "Feb 22, 2026",
+        "url": "https://nypost.com/2026/02/21/us-news/creepy-men-spotted-lurking-in-lindsey-pelas-backyard-in-la/"
+    },
+    {
+        "id": "l1phmihjx",
+        "title": "Lovephobia: Episode 1 Sparks Drama as Tech Genius Clashes with Romance Queen!",
+        "excerpt": "Sparks fly in Lovephobia as a reclusive app developer and a romance novelist collide over an AI dating project!",
+        "content": "<p>In the latest LG U+ rom-com Lovephobia, sparks are flying as an anti-social app developer and a romance novelist clash over an AI dating program. Will their differences lead to disaster or unexpected romance? Find out in Episode 1!</p><p>Their collaboration is anything but smooth, with the tech genius and the romance queen butting heads at every turn. But could their contrasting views on relationships be the key to unlocking something more? Tune in to see the drama unfold!</p>",
+        "celebrities": [],
+        "image_url": "https://dramabeans.com/wp-content/uploads/2026/02/lovephobia-title.jpg",
+        "date": "Feb 22, 2026",
+        "url": "https://dramabeans.com/2026/02/lovephobia-episode-1-first-impressions/"
+    },
+    {
+        "id": "uqw2c44go",
+        "title": "RuPaul's Drag Race: Snatch Game Of Love Island Edition – Who Will Steal the Crown?",
+        "excerpt": "RuPaul throws a curveball at the queens with a sizzling twist on the classic Snatch Game – and Brooke Shields is here to judge!",
+        "content": "<p>RuPaul's Drag Race is heating up with a tropical twist! In the latest episode, 18x8: Snatch Game Of Love: Island Edition, the queens are serving up their best celebrity impersonations, but with a surprise format change that’s got everyone talking. RuPaul, never one to play it safe, has thrown the queens a curveball that’s sure to keep viewers on the edge of their seats.</p><p>Adding to the excitement, iconic actress and model Brooke Shields joins the panel as a guest judge, bringing her signature glamour and sharp wit to the runway. With the stakes higher than ever, which queen will rise to the occasion and which will be left stranded on love island? Tune in to find out who’s stealing the crown – and who’s getting snatched out of the competition!</p>",
+        "celebrities": [
+            "RuPaul",
+            "Brooke Shields"
+        ],
+        "image_url": "https://l-stat.livejournal.net/img/sign.png",
+        "date": "Feb 22, 2026",
+        "url": "https://ohnotheydidnt.livejournal.com/131958365.html"
+    },
+    {
+        "id": "ivciz9dfm",
+        "title": "Retail Worker Goes Full Diva Mode After Crazy Christmas Shopper Loses It!",
+        "excerpt": "This holiday shopping showdown had us screaming, 'Yaaas, queen!'",
+        "content": "<p>Working retail during the holidays is basically a full-contact sport, but one brave employee just leveled up her customer service game in the most unexpected way.</p><p>When a particularly unhinged shopper started throwing a Christmas-sized tantrum over something trivial (because of course they did), this retail warrior decided to fight fire with fire. Instead of taking the high road, she went full Method actor, matching the customer's crazy energy beat for beat. Talk about retail revenge served ice-cold!</p><p>The internet is absolutely living for this tea, with Reddit users dubbing her the 'Queen of Petty' and demanding she get a raise, a promotion, and probably her own reality show. Honestly, same.</p>",
+        "celebrities": [],
+        "image_url": "https://twistedsifter.com/wp-content/uploads/2026/01/Twisted-Sifter-2026-01-28T115826.979.png",
+        "date": "Feb 22, 2026",
+        "url": "http://twistedsifter.com/2026/02/crazy-customer-gets-really-upset-at-retail-worker-while-christmas-shopping-so-the-retail-worker-works-overtime-acting-just-as-crazy-as-the-customer/"
+    },
+    {
         "id": "mll18olyh",
         "title": "Goli Nutrition Throws a Star-Studded Gala to Crown the Biggest Creators — Think Oscars, But for TikTok!",
         "excerpt": "Hollywood's elite are trading red carpets for gummy bears as Goli Nutrition and TikTok team up for a glitzy awards night that's set to redefine influencer fame.",
