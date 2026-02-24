@@ -11,6 +11,66 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "sraoxs3zg",
+        "title": "OMG! You Won't Believe Who Voiced This Iconic Shrek Character!",
+        "excerpt": "Before stealing the spotlight in Landman, Billy Bob Thornton lent his voice to a classic nursery rhyme character in the Shrek universe!",
+        "content": "<p>Hold onto your swamp, Shrek fans—Billy Bob Thornton has a secret connection to the beloved franchise that’s been hiding in plain sight! Before he became the rugged star of Landman, Thornton voiced a classic nursery rhyme character in the Shrek universe. Yes, you read that right!</p><p>While most know him for his gritty roles, Thornton took a detour into animated fairy tales, proving he’s got range beyond the big screen. The character? None other than Puss in Boots, the swashbuckling feline who stole hearts in Shrek 2 and later got his own spinoff. Talk about a hidden gem in Thornton’s career!</p>",
+        "celebrities": [
+            "Billy Bob Thornton"
+        ],
+        "image_url": "https://www.slashfilm.com/img/gallery/the-shrek-character-you-forgot-was-played-by-landman-star-billy-bob-thornton/l-intro-1770941809.jpg",
+        "date": "Feb 23, 2026",
+        "url": "https://www.slashfilm.com/2100101/landman-billy-bob-thornton-shrek-puss-in-boots-jack-and-jill/"
+    },
+    {
+        "id": "dfe1fjh9a",
+        "title": "Alia Bhatt's BFF Farhan Akhtar's Film 'Boong' Steals the BAFTA Spotlight!",
+        "excerpt": "From Manipur to London, 'Boong' triumphs at BAFTA—but the real story is what the director said on stage!",
+        "content": "<p>In a dazzling win that's got Bollywood buzzing, Farhan Akhtar's Excel Entertainment-backed gem 'Boong' snagged the BAFTA Award for Best Children's &amp; Family Film in London this weekend. The quirky Manipuri coming-of-age comedy-drama, directed by Lakshmipriya Devi, beat out stiff international competition—and stole hearts along the way.</p><p>But the real showstopper? Director Lakshmipriya Devi's emotional plea for peace in Manipur as she accepted the award, reminding everyone that art and activism often go hand in hand. With Farhan Akhtar's Midas touch and Alia Bhatt's close ties to the production house, this win is being hailed as a proud moment for Indian cinema on the global stage.</p>",
+        "celebrities": [
+            "Farhan Akhtar",
+            "Alia Bhatt"
+        ],
+        "image_url": "https://img.etimg.com/thumb/msid-128694959,width-1200,height-630,imgsize-133200,overlay-economictimes/articleshow.jpg",
+        "date": "Feb 23, 2026",
+        "url": "https://economictimes.indiatimes.com/news/india/farhan-akhtar-backed-manipuri-film-boong-wins-bafta-award-in-london/articleshow/128694942.cms"
+    },
+    {
+        "id": "smjqnfi88",
+        "title": "Noah Schnapp’s Shocking Turn: Why the ‘Stranger Things’ Star Is Suddenly Abandoning America!",
+        "excerpt": "After years of being America’s favorite sci-fi sweetheart, Noah Schnapp is making headlines for all the wrong reasons—and fans are NOT happy.",
+        "content": "<p>Hold onto your Eggos, because Noah Schnapp is stirring up drama that’s way scarier than the Upside Down! The Stranger Things star, who’s been America’s beloved Will Byers for nearly a decade, is now at the center of a shocking controversy that has fans questioning everything.</p><p>Sources close to the young actor reveal that Schnapp’s recent actions have left Hollywood insiders whispering and social media ablaze. Is this just another case of a child star gone rogue, or is there something deeper at play? One thing’s for sure—this isn’t the wholesome image we’ve come to expect from the face of one of Netflix’s biggest hits.</p><p>Insiders say Schnapp’s sudden shift has even caused tension behind the scenes of Stranger Things, with some cast members allegedly ‘deeply concerned’ about the star’s choices. Could this spell trouble for the show’s highly anticipated final season? Fans are already speculating wildly, and the internet is having a field day with theories.</p><p>While Schnapp’s team remains tight-lipped, one thing is clear: the actor’s next move could make or break his career. Will he bounce back like a true Hollywood survivor, or is this the beginning of the end for the once-beloved star? Stay tuned, because this story is far from over!</p>",
+        "celebrities": [
+            "Noah Schnapp"
+        ],
+        "image_url": "https://insidethemagic.net/wp-content/uploads/2024/05/Untitled-design-3.jpg",
+        "date": "Feb 23, 2026",
+        "url": "https://insidethemagic.net/?p=816674&preview=true&preview_id=816674"
+    },
+    {
+        "id": "jebpdu81s",
+        "title": "Why the Right’s War on Celebs Is Backfiring Spectacularly",
+        "excerpt": "The right’s attempts to silence stars are crumbling as athletes, musicians, and comedians dominate the global stage.",
+        "content": "<p>The past few weeks have been a masterclass in irony for the right’s culture war crusaders. Their latest push to muzzle athletes, musicians, and comedians? It’s blowing up in their faces as these very stars are thriving on the global stage.</p><p>This isn’t new. For years, the right has tried to silence voices they deem too outspoken, only to watch those same voices rise to even greater heights. It’s a pattern that’s becoming impossible to ignore—and it’s highlighting just how out of touch they are with the general public.</p><p>Take, for example, the recent backlash against a high-profile athlete who dared to speak out on social issues. Instead of fading into obscurity, they’ve become a global icon, proving that authenticity resonates far more than censorship. Or consider the comedian who faced boycotts for their edgy material—only to sell out arenas worldwide.</p><p>Even musicians aren’t immune. When the right tried to cancel a chart-topping artist for their political stance, their album sales skyrocketed, and their latest tour became one of the highest-grossing of the year. It’s almost as if the public prefers stars who stand for something rather than those who stay silent.</p><p>So, what’s the takeaway? The more the right tries to shut down these voices, the louder they become. And in a world where authenticity is currency, it’s the right that’s losing the battle—and the culture war.</p>",
+        "celebrities": [],
+        "image_url": "https://crooksandliars.com/files/primary_image/26/02/screenshot2026-02-19at7.50.08pm.png",
+        "date": "Feb 23, 2026",
+        "url": "https://crooksandliars.com/2026/02/why-right-s-culture-war-crusades-are"
+    },
+    {
+        "id": "5184z9ju0",
+        "title": "Jay Leno Just Scored the Most Iconic Bugatti Ever — And It’s Got Hollywood Royalty Ties!",
+        "excerpt": "Jay Leno’s latest garage addition isn’t just rare—it’s practically a movie star.",
+        "content": "<p>Move over, classic cars—Jay Leno just snagged the ultimate Hollywood ride. The legendary comedian and car collector has added the iconic Bugatti T38A from the 1933 film <em>Christopher Strong</em> to his already jaw-dropping collection. And yes, it’s the same car that Katherine Hepburn drove on-screen, making it as much a piece of cinema history as it is an automotive masterpiece.</p><p>But here’s the juicy part: this Bugatti isn’t just a pretty face. It’s a rare gem that’s been meticulously preserved, and now it’s sitting pretty in Leno’s garage, rubbing fenders with some of the most coveted vehicles in the world. Talk about a flex! While Jay’s known for his controversial yet wildly successful run on <em>The Tonight Show</em>, it’s his passion for vintage rides that’s got everyone talking now. Could this be his most glamorous acquisition yet? Only time (and maybe a spin around Hollywood) will tell.</p>",
+        "celebrities": [
+            "Jay Leno",
+            "Katherine Hepburn"
+        ],
+        "image_url": "https://www.jalopnik.com/img/gallery/jay-leno-owns-the-katharine-hepburn-bugatti-and-thats-not-even-the-interesting-part/l-intro-1771501724.jpg",
+        "date": "Feb 23, 2026",
+        "url": "https://www.jalopnik.com/2105042/jay-leno-katharine-hepburn-bugatti/"
+    },
+    {
         "id": "9qxo3a4ec",
         "title": "Inside Maxi López's Ultra-Luxurious Nordelta Mansion: Private Dock, Lake Views, and Wanda Nara as a Neighbor!",
         "excerpt": "Maxi López is leaving his European life behind to settle in Argentina with his stunning model girlfriend and their adorable kids—but it’s his jaw-dropping new mansion that’s stealing the spotlight!",
@@ -568,59 +628,5 @@ export const articles: Article[] = [
         "image_url": "https://static.the-independent.com/2025/09/10/9/53/Rucking-proved-to-be-an-accessible-and-time-efficient-way-to-increase-the-potential-health-benefits.jpeg?trim=85,0,85,0&width=1200&height=800&crop=1200:800",
         "date": "Feb 15, 2026",
         "url": "https://www.the-independent.com/health-and-fitness/biggest-fitness-mistakes-solution-easy-exercise-b2920018.html"
-    },
-    {
-        "id": "7abrf6kuf",
-        "title": "Million-Dollar Luxury: Inside the Ultra-Elite Yacht Where One Suite Costs More Than a House!",
-        "excerpt": "From private butlers to a suite that spans four floors, this floating palace is redefining extravagance—and only 95 guests will get the golden ticket.",
-        "content": "<p>Move over, private jets—there's a new symbol of billionaire bragging rights sailing the seas. The Four Seasons yacht, dubbed \"the world's first floating hotel,\" is turning heads with its mind-blowing price tag: a cool million per week for the crown jewel suite.</p><p>Built by Italian shipbuilder Fincantieri, this 207-meter floating palace will host just 400 guests across 95 suites, each with a dedicated staff member. But the real showstopper? The \"Funnel Suite\"—a four-story monstrosity that juts out over the ocean like a billionaire's playground in the sky.</p><p>With Michelin-starred chefs, a pool that opens directly to the sea, and a female captain at the helm, this yacht isn't just a vacation—it's a flex. And at $892 per person per night (or $1.3 million for the suite), it's clear this is a playground for the 0.001%.</p><p>So, who's ready to drop a year's salary on a week of floating luxury? Spoiler: it's not us.</p>",
-        "celebrities": [],
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/09/ryxk8CODDZg/ryxk8CODDZg_289_0_1582_891_0_large.jpg",
-        "date": "Feb 15, 2026",
-        "url": "https://www.ynet.co.il/vacation/worldtrips/article/bykypdpwbe"
-    },
-    {
-        "id": "j4on8kzh2",
-        "title": "Liam Gallagher Finally Says Yes to Celebrity Traitors – Is He Ready to Betray His Own Band?",
-        "excerpt": "The Oasis legend who once turned down Celebrity Traitors is now ready to play the game – but who will he betray first?",
-        "content": "<p>Liam Gallagher, the iconic frontman of Oasis, has confirmed he's been approached by the BBC to join the next season of Celebrity Traitors, the British version of the hit reality show. The rock star, who previously declined the offer, seems to have had a change of heart. When a fan asked about the opportunity on social media, Gallagher didn't hesitate to say he's now open to the idea.</p><p>Known for his sharp tongue and unpredictable nature, Liam could be the perfect addition to the show's cast of celebrities competing to outwit, outplay, and outlast each other. Will he bring his signature swagger to the game, or will his rebellious streak get him into trouble? Fans are already speculating about how he'll handle the show's twists and turns.</p>",
-        "celebrities": [
-            "Liam Gallagher"
-        ],
-        "image_url": "https://img.20mn.fr/ILzTLtKcTsi4SXcc7fW2bSk/1444x920_londres-royaume-uni-20180214-les-vo5-nme-awards-ont-ete-decernes-a-la-brixton-academy-sur-la-photo-liam-gallagher-photo-de-famous-ace-pictures-instarimages-com-il-s-agit-d-une-image-editoriale-geree-par-les-droits-veuillez-contacter-instar-images-llc-pour-obtenir-des-informations-sur-les-frais-de-licence-et-les-droits-a-l-adresse-sales-instarimages-com-ou-appelez-le-1-212-414-0207-cette-image-ne-peut-etre-publiee-d-aucune-maniere-qui-soit-ou-pourrait-etre-consideree-comme-etant-diffamatoire-calomnieuse-pornographique-ou-obscene-veuillez-consulter-notre-service-commercial-pour-toute-precision-necessaire-avant-la-publication-et-l-utilisation-instar-images-llc-se-reserve-le-droit-de-poursuivre-les-utilisateurs-non-autorises-de-ce-materiel-si-vous-violez-nos-droits-de-propriete-intellectuelle-ou-nos-droits-d-auteur-vous-pouvez-etre-responsable-des-dommages-et-interets-de-la-perte-de-revenus-des-benefices-que-vous-pourriez-tirer-de-l-utilisation-non-autorisee-de-ce-materiel-et-le-cas-echeant-des-frais-de-collecte-et-ou-de-toute-indemnisation-legale-accordee-avec-liam-gallagher-ou-londres-royaume-uni-royaume-uni-quand-14-fevrier-2018-credit-famous-ace-pictures-instarimages-com",
-        "date": "Feb 15, 2026",
-        "url": "https://www.20minutes.fr/arts-stars/people/4201360-20260215-liam-gallagher-dit-non-celebrity-traitors-version-britannique-traitres"
-    },
-    {
-        "id": "6unh8wn58",
-        "title": "Karnataka's Soap Scandal: Why a Simple Bar of Soap is Stirring Up Political Drama!",
-        "excerpt": "When a beloved soap brand becomes the center of a political storm, you know there's more than just bubbles at play.",
-        "content": "<p>When a bar of soap becomes the center of a political slugfest, one knows the story runs deeper than lather and fragrance. The appointment of actor Tamannaah Bhatia as the new brand ambassador of Karnataka Soaps and Detergents Limited (KSDL) has sparked a heated debate, turning the iconic Mysuru Sandal Soap into a political talking point.</p><p>Founded during the reign of Nalwadi Krishnaraja Wadiyar, the brand is not merely a commercial product. For many Kannadigas, it’s a symbol of pride and heritage. But with Tamannaah’s appointment, the soap has now become a battleground for political ideologies, with critics questioning the choice of a Bollywood actress to represent a brand so deeply rooted in Karnataka’s culture.</p><p>The controversy has left many wondering: Is this just a marketing move, or is there more to the story? As the debate rages on, one thing is clear—this soap opera is far from over.</p>",
-        "celebrities": [
-            "Tamannaah Bhatia"
-        ],
-        "image_url": "https://static.toiimg.com/thumb/msid-128380214,width-1070,height-580,imgsize-183974,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "date": "Feb 15, 2026",
-        "url": "https://timesofindia.indiatimes.com/india/soap-opera-over-soap-why-karnataka-politics-is-in-a-lather-over-iconic-mysuru-brand/articleshow/128378314.cms"
-    },
-    {
-        "id": "m92we4fdj",
-        "title": "I'm A Celebrity: Jungle Showdown! Celebs Face Their Toughest Challenge Yet",
-        "excerpt": "Get ready for the wildest season yet as a daring new crop of celebrities take on the jungle’s most brutal trials!",
-        "content": "<p>The jungle is calling, and this season of <em>I'm A Celebrity, Get Me Outta Here!</em> is shaping up to be the most intense yet. A fresh batch of fearless celebrities has been dropped into the wild, ready to face their biggest fears and push their limits like never before. From heart-pounding challenges to shocking eliminations, this season promises non-stop drama and jaw-dropping moments that you won’t want to miss.</p><p>With the stakes higher than ever, fans are already buzzing about who will rise to the top and who will crumble under the pressure. Will your favorite star survive the jungle’s toughest trials, or will they be begging for an early exit? Tune in to find out!</p>",
-        "celebrities": [],
-        "image_url": "https://picimg.net/4009e04ad161115ec1c953d62b9ac4e6.png",
-        "date": "Feb 15, 2026",
-        "url": "https://post.rlsbb.to/im-a-celebrity-get-me-out-of-here-au-s12e17-720p-web-dl-h264-pr1m371m3/"
-    },
-    {
-        "id": "6pm9vqzpk",
-        "title": "Shocking Truth About Sycophantic Behavior Among the Stars!",
-        "excerpt": "From Hollywood red carpets to royal courts, the art of flattery has shaped power dynamics for centuries—here's how celebrities and elites use it to climb the social ladder.",
-        "content": "<p>Ever wondered why some celebrities seem to always be in the good graces of the rich and powerful? It's not just talent—it's the art of sycophantic behavior. From ancient Greek courtiers to modern-day A-listers, the practice of excessive flattery in pursuit of advantage has been a timeless strategy.</p><p>In today's celebrity-driven world, sycophancy is everywhere. Whether it's a rising star showering praise on a Hollywood mogul or a social media influencer currying favor with royalty, the dynamics of power and flattery remain as relevant as ever. But who are the biggest players in this game? Let's dive into the juicy details of how sycophantic behavior shapes the lives of the rich and famous.</p>",
-        "celebrities": [],
-        "image_url": "https://img.etimg.com/thumb/msid-128378895,width-1200,height-630,imgsize-131786,overlay-economictimes/articleshow.jpg",
-        "date": "Feb 15, 2026",
-        "url": "https://economictimes.indiatimes.com/news/international/us/word-of-the-day-sycophantic/articleshow/128378806.cms"
     }
 ];
