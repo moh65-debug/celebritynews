@@ -11,6 +11,64 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "rq3oh7fal",
+        "title": "MasterChef Celebrity Shock: Who Got the Boot in Monday's Explosive Elimination?",
+        "excerpt": "In a jaw-dropping twist, the latest MasterChef Celebrity elimination sent shockwaves through the competition—who's the latest star to pack their knives and go?",
+        "content": "<p>The MasterChef Celebrity kitchen just got a whole lot hotter—and not because of the stoves! Monday night's episode delivered a dramatic elimination that left fans reeling and contestants scrambling. With the competition entering its final stretch, tensions are at an all-time high, and every dish could be someone's last.</p><p>The surprise elimination came after a nail-biting challenge that pushed the remaining celebrities to their culinary limits. Whispers backstage suggest that even the judges were divided on the decision, with some contestants allegedly clashing over who deserved to stay. Could this be the turning point that changes the game entirely?</p><p>As the field narrows, the stakes have never been higher. Who will rise to the top and claim the coveted title? And more importantly, who will crumble under the pressure? Stay tuned as MasterChef Celebrity serves up more drama, tears, and—of course—delicious dishes in the episodes to come.</p>",
+        "celebrities": [],
+        "image_url": "https://fotos.perfil.com/2026/02/23/trim/1140/641/masterchef-celebrity-2190931.jpg",
+        "date": "Feb 24, 2026",
+        "url": "https://caras.perfil.com/noticias/television/el-nuevo-eliminado-en-masterchef-celebrity-en-la-gala-del-lunes-23-de-febrero-empieza-la-recta-final.phtml"
+    },
+    {
+        "id": "ii3xz8cq5",
+        "title": "Jean-Georges' $200M Food Hall Bites the Dust – Balloon Museum to Take Over!",
+        "excerpt": "The glamorous Tin Building by Jean-Georges has shuttered its doors after a rocky run – and the next act might surprise you!",
+        "content": "<p>The Tin Building by Jean-Georges, the luxury food hall that opened with much fanfare in September 2022, has officially closed its doors after struggling with financial troubles and controversy.</p><p>The $200 million South Street Seaport hotspot, backed by celebrity chef Jean-Georges Vongerichten, couldn't keep up with the high costs and high expectations. But don't worry – the space isn't staying empty for long! Word on the street is that it's set to transform into an immersive art Balloon Museum. Talk about a plot twist!</p>",
+        "celebrities": [
+            "Jean-Georges Vongerichten"
+        ],
+        "image_url": "https://api-prod.gothamist.com/images/349144/fill-1200x650|format-webp|webpquality-85/",
+        "date": "Feb 24, 2026",
+        "url": "https://gothamist.com/food/tin-building-by-jean-georges-closes-will-become-an-immersive-art-balloon-museum"
+    },
+    {
+        "id": "p0qc7uvfy",
+        "title": "Maksim Chmerkovskiy’s New Leading Role Will Have You Hooked on ‘Wild Silence’",
+        "excerpt": "The Dancing with the Stars hunk is trading the ballroom for the big screen in this steamy new microdrama!",
+        "content": "<p>Maksim Chmerkovskiy is stepping out of the spotlight and into the leading role of his life with Wild Silence, a sizzling new vertical drama series from Holywater Tech’s My Drama platform. Known for his smoldering moves on Dancing with the Stars, Chmerkovskiy is now ready to captivate audiences in a whole new way.</p><p>This marks the Ukrainian-born heartthrob’s first leading role in a scripted series, and fans are already buzzing about what’s in store. Will his on-screen chemistry rival his iconic DWTS partnerships? Only time will tell, but one thing’s for sure—Maksim is about to prove he’s more than just a dance pro.</p>",
+        "celebrities": [
+            "Maksim Chmerkovskiy"
+        ],
+        "image_url": "https://deadline.com/wp-content/uploads/2026/02/Mara-Brock-Akil.jpg?w=1024",
+        "date": "Feb 24, 2026",
+        "url": "http://deadline.com/2026/02/maksim-chmerkovskiy-vertical-series-wild-silence-my-drama-1236733868/"
+    },
+    {
+        "id": "5z79dw6es",
+        "title": "Drag Race Snatch Game Shocker: Truman Capote, Drew Barrymore, and the Pope Steal the Show!",
+        "excerpt": "Drag Race’s Snatch Game delivers a jaw-dropping twist with unexpected celebrity impersonations that leave everyone guessing.",
+        "content": "<p>Drag Race wouldn’t be Drag Race without Snatch Game, the ultimate test of queens’ improv comedy chops through celebrity impersonation. This season’s episode eight brought a wild mix of characters, including Truman Capote, Drew Barrymore, and even the Pope, leaving fans buzzing. Who nailed it? Who flopped? And what’s next for the remaining queens? Buckle up, because this Snatch Game was anything but predictable.</p><p>With stakes higher than ever, the queens brought their A-game, but not everyone could handle the pressure. From spot-on impressions to cringe-worthy moments, this episode had it all. Will the judges’ critiques shake up the competition? Stay tuned to find out who’s sashaying away next!</p>",
+        "celebrities": [
+            "Truman Capote",
+            "Drew Barrymore",
+            "Pope"
+        ],
+        "image_url": "https://media1.fdncms.com/stranger/imager/u/large/80491388/dragrace-ep8.webp",
+        "date": "Feb 24, 2026",
+        "url": "https://www.thestranger.com/drag/2026/02/23/80491369/drag-race-episode-eight-truman-capote-drew-barrymore-and-the-pope-walk-into-a-bar"
+    },
+    {
+        "id": "j2nb44ik7",
+        "title": "Air India's $400M Makeover: Is This the Future of Celebrity Jet-Set Travel?",
+        "excerpt": "Air India is doubling down on luxury with a $400M cabin upgrade, but who's really flying first class now?",
+        "content": "<p>Move over, Bollywood—Air India is stealing the spotlight with a jaw-dropping $400 million cabin retrofit that's turning heads in the aviation world. Under the Tata Group's ambitious plan, the airline is doubling its premium seats, rolling out plush lounges, and unveiling a brand-new Boeing 787 Dreamliner that screams luxury. But here's the real tea: is this upgrade just for the business elite, or are we about to see our favorite celebrities jet-setting in style?</p><p>Emirates and Lufthansa are also jumping on the bandwagon, spending billions to upgrade their cabins and food-and-beverage selections. But Air India's move is the most talked-about, especially with rumors swirling about A-list passengers lining up for a taste of first-class glamour. Could this be the start of a new era where flying isn't just about getting from point A to B, but about making a statement?</p>",
+        "celebrities": [],
+        "image_url": "https://img.etimg.com/thumb/msid-128727550,width-1200,height-630,imgsize-40754,overlay-economictimes/articleshow.jpg",
+        "date": "Feb 24, 2026",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/airlines-ramp-up-premium-cabins-as-india-business-travel-surges-air-india-leads-upgrade-push/articleshow/128727429.cms"
+    },
+    {
         "id": "sraoxs3zg",
         "title": "OMG! You Won't Believe Who Voiced This Iconic Shrek Character!",
         "excerpt": "Before stealing the spotlight in Landman, Billy Bob Thornton lent his voice to a classic nursery rhyme character in the Shrek universe!",
@@ -565,68 +623,5 @@ export const articles: Article[] = [
         "image_url": "https://fotos.perfil.com/2026/02/15/trim/1140/641/masterchef-celebrity-2186720.jpg",
         "date": "Feb 15, 2026",
         "url": "https://exitoina.perfil.com/noticias/rating/rating-cuanto-midio-el-especial-de-masterchef-celebrity-y-la-noche-de-mirhta.phtml"
-    },
-    {
-        "id": "6wlj32ohs",
-        "title": "Damon Albarn's Shocking Accusation: Graham Norton's Cold Shoulder Revealed!",
-        "excerpt": "Graham Norton claims he has no memory of a past clash with Gorillaz frontman Damon Albarn—but the drama is far from over!",
-        "content": "<p>Damon Albarn, the iconic frontman of Gorillaz and Blur, has fired back at Graham Norton, accusing the beloved chat show host of giving him the cold shoulder. The feud reportedly stems from a past exchange that Norton claims he has no recollection of. But Albarn isn't letting it slide, calling out the presenter for not inviting him back onto his show.</p><p>While Norton maintains his innocence, fans are left wondering what really went down behind the scenes. Could this be the start of a celebrity showdown? Stay tuned as the drama unfolds!</p>",
-        "celebrities": [
-            "Damon Albarn",
-            "Graham Norton"
-        ],
-        "image_url": "https://static.the-independent.com/2026/02/15/9/05/Graham-Norton-Show-Damon-Albarn.jpg?width=1200&height=800&crop=1200:800",
-        "date": "Feb 15, 2026",
-        "url": "https://www.the-independent.com/arts-entertainment/tv/news/graham-norton-show-damon-albarn-gorillaz-b2920673.html"
-    },
-    {
-        "id": "w8yhr8ewj",
-        "title": "James Van Der Beek’s Celebrity Friends Save the Day: How They Helped Him Buy His Dream Ranch",
-        "excerpt": "When James Van Der Beek faced losing his family’s Texas ranch, his famous friends stepped in with a surprise that saved the day.",
-        "content": "<p>James Van Der Beek’s dream of owning his family’s Texas ranch almost slipped through his fingers—until his celebrity pals swooped in to save the day! The former <em>Dawson’s Creek</em> star and his wife had been renting the sprawling property, but when it came time to make the down payment, funds were running low. That’s when a group of Van Der Beek’s famous friends stepped up, providing the financial boost needed to secure the home just in the nick of time.</p><p>While the actor hasn’t revealed the identities of his generous benefactors, rumors are swirling about which A-listers might have pitched in. Could it have been his <em>Dawson’s Creek</em> co-stars? Or perhaps some of his Hollywood buddies from his latest projects? One thing’s for sure—Van Der Beek’s gratitude is as big as the Lone Star State itself. Now, the family can finally put down roots in the home they’ve come to love. Talk about a Hollywood happy ending!</p>",
-        "celebrities": [
-            "James Van Der Beek"
-        ],
-        "image_url": "https://alltoc.com/cdn/1045/og.png",
-        "date": "Feb 15, 2026",
-        "url": "https://alltoc.com/tabloid/how-did-friends-help-james-van-der-beek"
-    },
-    {
-        "id": "7hg3muq8g",
-        "title": "Travis Kelce’s Valentine’s Day Post Sparks Buzz with Naughty Taylor Swift Reference",
-        "excerpt": "The NFL star’s cheeky nod to his fiancée’s risqué lyric has fans buzzing about the couple’s playful side.",
-        "content": "<p>Travis Kelce is heating things up this Valentine’s Day, and it’s not just because of his football skills. The Kansas City Chiefs tight end took to his podcast’s social media account to share a playful card that referenced a cheeky lyric from his fiancée, Taylor Swift’s, recent music. The nod, which fans quickly connected to Swift’s risqué new track, blurred the lines between personal and promotional in the most entertaining way possible.</p><p>While the exact details of the lyric remain under wraps, Kelce’s post has set the internet ablaze with speculation. Is this a glimpse into the couple’s private life, or just a clever marketing move? Either way, it’s clear that Kelce and Swift know how to keep their fans guessing—and entertained. The post has sparked a wave of reactions, with many praising the couple’s chemistry and playful dynamic.</p>",
-        "celebrities": [
-            "Travis Kelce",
-            "Taylor Swift"
-        ],
-        "image_url": "https://alltoc.com/cdn/1045/og.png",
-        "date": "Feb 15, 2026",
-        "url": "https://alltoc.com/tabloid/why-did-travis-kelce-reference-wood"
-    },
-    {
-        "id": "3gxlz4quc",
-        "title": "Can You Spot the Hollywood A-Lister Hiding in This Puzzling Photo?",
-        "excerpt": "A global superstar is squished inside this altered image—can you guess who it is before the big reveal?",
-        "content": "<p>Squished inside this altered photo is a global star whose latest film \"Crime 101\" dropped earlier this weekend. Given the clues, can you score the A-lister in question?</p><p>She’s costarring alongside Chris Hemsworth and Barry Keoghan, and if you’ve been keeping up with the buzz, you know she’s a total scene-stealer. Think you’ve got what it takes to crack the case?</p>",
-        "celebrities": [
-            "Chris Hemsworth",
-            "Barry Keoghan"
-        ],
-        "image_url": "https://imagez.tmz.com/image/f9/16by9/2026/02/10/f9de7b3c06014ba58d94767778f55d97_xl.jpg",
-        "date": "Feb 15, 2026",
-        "url": "https://www.tmz.com/2026/02/15/celebrity-scramble-guess-who-actress/"
-    },
-    {
-        "id": "s2nrak58t",
-        "title": "Anne Hathaway’s Trainer Spills: The ‘All or Nothing’ Fitness Trap Sabotaging Your Results",
-        "excerpt": "Celebrity trainer Monique Alexander reveals why extreme workouts and diets fail—and the small change that actually works.",
-        "content": "<p>Ever wonder how A-listers like Anne Hathaway stay red-carpet ready without burning out? Celebrity trainer Monique Alexander just dropped a bombshell: the 'all or nothing' approach to fitness is the biggest mistake most of us make.</p><p>In an exclusive chat, Alexander—who’s sculpted some of Hollywood’s hottest bodies—revealed that extreme diets and grueling workouts often backfire. Instead, she swears by small, consistent actions for real, lasting results. Think: manageable changes that fit into your life, not overhaul it. Ready to ditch the burnout and finally see progress? Alexander’s got the secret, and it’s shockingly simple.</p>",
-        "celebrities": [
-            "Anne Hathaway"
-        ],
-        "image_url": "https://static.the-independent.com/2025/09/10/9/53/Rucking-proved-to-be-an-accessible-and-time-efficient-way-to-increase-the-potential-health-benefits.jpeg?trim=85,0,85,0&width=1200&height=800&crop=1200:800",
-        "date": "Feb 15, 2026",
-        "url": "https://www.the-independent.com/health-and-fitness/biggest-fitness-mistakes-solution-easy-exercise-b2920018.html"
     }
 ];
