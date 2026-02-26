@@ -11,6 +11,69 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "nkq9mybts",
+        "title": "Giannis’ New Freak 7s Are Here—And They’re *Bold* Enough to Match His Game",
+        "excerpt": "The NBA superstar is serving up fire with his latest Nike drop—and fans are already losing it.",
+        "content": "<p>Giannis Antetokounmpo is back at it again—this time, not on the court, but on the sneaker scene. Nike just dropped the bombshell that his latest signature shoe, the Freak 7, is hitting shelves March 1, 2026, and let’s just say… it’s giving *main character energy*.</p><p>Dubbed the \"Laser Orange\" (or \"Fearless\" if you're feeling extra), these kicks are anything but subtle. Think neon meets crimson meets *pure confidence*. It’s the kind of shoe that says, \"I’m here to dominate—and look good doing it.\" Priced to impress (though Nike hasn’t spilled the exact digits yet), the Freak 7 is already sending sneakerheads and NBA fans into a full-blown frenzy. Will they sell out in minutes? Absolutely. Will Giannis wear them in a game and drop 40? We wouldn’t bet against it.</p>",
+        "celebrities": [
+            "Giannis Antetokounmpo"
+        ],
+        "image_url": "https://www.sneakerfiles.com/wp-content/uploads/2026/02/nike-giannis-freak-7-laser-orange-HF3450-007.jpg",
+        "date": "Feb 25, 2026",
+        "url": "https://www.sneakerfiles.com/nike-giannis-freak-7-laser-orange/"
+    },
+    {
+        "id": "zb9bb55rk",
+        "title": "Kevin Hart and Kenan Thompson's Hilarious Sports Showdown: The Must-See Episode of 'Good Sports'!",
+        "excerpt": "Kevin Hart and Kenan Thompson serve up a side-splitting sports extravaganza that’s got everyone talking!",
+        "content": "<p>Move over, sports analysts—Kevin Hart and Kenan Thompson are here to break down the NFL, NBA, and everything in between with their signature comedic flair. In this episode of 'Good Sports,' the dynamic duo dives into their favorite moments from the wide, weird world of sports, offering colorful commentary that’s as entertaining as it is insightful. From jaw-dropping highlights to side-splitting sketches, Hart and Thompson prove once again why they’re the ultimate dream team for sports fans and comedy lovers alike.</p><p>But it’s not just about the games—this episode is packed with celebrity and athlete interviews that’ll leave you laughing out loud. Whether they’re roasting players or celebrating the most bizarre sports moments, Hart and Thompson bring their A-game to every segment. Don’t miss this episode—it’s a slam dunk of entertainment!</p>",
+        "celebrities": [
+            "Kevin Hart",
+            "Kenan Thompson"
+        ],
+        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
+        "date": "Feb 25, 2026",
+        "url": "https://post.rlsbb.to/good-sports-with-kevin-hart-and-kenan-thompson-s01e12-1080p-web-h264-edith/"
+    },
+    {
+        "id": "ownvgox0o",
+        "title": "Gavin Newsom’s Memoir Fizzles as Jelly Roll’s Wife Steals the Spotlight",
+        "excerpt": "Bunnie XO’s raw and unfiltered memoir outshines California’s governor in a surprising Amazon bestseller battle.",
+        "content": "<p>Governor Gavin Newsom thought he had the literary world buzzing with his new memoir, Young Man in a Hurry, but it seems the spotlight has a mind of its own. While Newsom’s book generated plenty of buzz, it couldn’t quite outshine Bunnie XO, the bold and unfiltered wife of country-turned-hip-hop star Jelly Roll.</p><p>Bunnie’s memoir, Stripped Down: Unfiltered and…, has taken the Amazon charts by storm, leaving Newsom’s political reflections in the dust. It’s a classic case of celebrity intrigue trumping political prose, proving once again that in the world of bestsellers, raw honesty and a dash of drama always win the day.</p>",
+        "celebrities": [
+            "Gavin Newsom",
+            "Jelly Roll",
+            "Bunnie XO"
+        ],
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/02/122136130.jpg?quality=75&strip=all&w=1200",
+        "date": "Feb 25, 2026",
+        "url": "https://nypost.com/2026/02/24/us-news/gavin-newsom-is-outshined-by-bunniexos-memoir-on-amazon/"
+    },
+    {
+        "id": "bwfpvqzkt",
+        "title": "Tragic End for Splitsvilla Star: Mayank Pawar’s Shocking Death at 37 Sparks Internet Frenzy",
+        "excerpt": "The fitness icon’s sudden passing has left fans reeling, with his final Instagram post now going viral.",
+        "content": "<p>The entertainment and fitness worlds are in mourning after the sudden and tragic death of Mayank Pawar, the beloved Splitsvilla 7 contestant, at just 37 years old. Known for his chiseled physique, infectious positivity, and seven-time Mr India title, Mayank was a true inspiration to many.</p><p>Fans are still reeling from the news, especially after his last Instagram post began circulating online, sparking an outpouring of tributes and speculation. While the cause of his untimely demise remains unknown, his legacy as a fitness icon and reality TV star continues to shine bright. Mayank’s journey from Splitsvilla fame to becoming a celebrated bodybuilder has left an indelible mark on his followers and the industry alike.</p>",
+        "celebrities": [
+            "Mayank Pawar"
+        ],
+        "image_url": "https://img.etimg.com/thumb/msid-128766989,width-1200,height-630,imgsize-31244,overlay-etpanache/articleshow.jpg",
+        "date": "Feb 25, 2026",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/mayank-pawar-cause-of-death-splitsvilla-7s-most-popular-contestant-dies-at-37-his-last-instagram-post-goes-viral/articleshow/128766792.cms"
+    },
+    {
+        "id": "8pfmivp8h",
+        "title": "Lindsey Vonn Opens Up About Her ‘Dark’ Mental Battle After Brutal Olympics Crash",
+        "excerpt": "The Olympic icon reveals the emotional toll of her shocking injury in a raw, unfiltered moment.",
+        "content": "<p>Lindsey Vonn is giving fans an unfiltered look into her recovery journey after a terrifying crash at the 2026 Winter Olympics left her shaken to her core.</p><p>The former Olympic champion, known for her fearless approach on the slopes, is now opening up about the grueling mental and physical toll of her injury. In a candid moment, Vonn admitted that while the physical pain was intense, the real battle began in her mind.</p><p>“The battle of the mind can be dark and hard and unrelenting,” she shared, offering a rare glimpse into the emotional struggles that often go unseen in the world of elite sports. Fans are rallying behind the star as she navigates this challenging chapter, proving once again that her strength extends far beyond the slopes.</p>",
+        "celebrities": [
+            "Lindsey Vonn"
+        ],
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/Y_tAgRKnhZ3SV.rNFbOsFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/a9cbcdf964cd4d397a2f71dc75936e11",
+        "date": "Feb 25, 2026",
+        "url": "https://people.com/lindsey-vonn-reflects-on-hard-day-after-horrific-olympics-crash-11913820"
+    },
+    {
         "id": "rq3oh7fal",
         "title": "MasterChef Celebrity Shock: Who Got the Boot in Monday's Explosive Elimination?",
         "excerpt": "In a jaw-dropping twist, the latest MasterChef Celebrity elimination sent shockwaves through the competition—who's the latest star to pack their knives and go?",
@@ -560,68 +623,5 @@ export const articles: Article[] = [
         "image_url": "https://alltoc.com/cdn/1045/og.png",
         "date": "Feb 16, 2026",
         "url": "https://alltoc.com/tabloid/why-has-brooklyn-beckham-publicly-split-from-his-family"
-    },
-    {
-        "id": "ussz5a8j9",
-        "title": "Rosie O’Donnell’s Big Return: Why She Left the U.S. for Ireland After Trump’s Win",
-        "excerpt": "After fleeing to Ireland post-Trump, Rosie O’Donnell is back in the U.S.—but only for two weeks. Here’s why.",
-        "content": "<p>Rosie O’Donnell is spilling the tea on her surprise return to the United States. The 63-year-old comedian and actress made headlines last year when she packed her bags and moved to Ireland following Donald Trump’s 2024 election victory. But after a year abroad, Rosie’s back on American soil—albeit just for a quick two-week visit.</p><p>What brought her home? Rosie’s keeping it coy, but sources say it’s a mix of personal business and a little nostalgia for the spotlight. Could this be a sign she’s reconsidering her Irish escape? Stay tuned, because Rosie’s never one to stay out of the drama for long.</p>",
-        "celebrities": [
-            "Rosie O'Donnell",
-            "Donald Trump"
-        ],
-        "image_url": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/02/rosie-usa-social.jpg",
-        "date": "Feb 15, 2026",
-        "url": "https://www.justjared.com/2026/02/15/rosie-odonnell-explains-recent-u-s-visit-after-moving-to-ireland-because-of-trump/"
-    },
-    {
-        "id": "ypka0kahy",
-        "title": "Karrueche Tran's Valentine's Day Snub: Did She Forget Deion Sanders?",
-        "excerpt": "Karrueche Tran sparks Valentine's Day drama by seemingly forgetting her beau Deion Sanders—what really went down?",
-        "content": "<p>In a move that has fans buzzing, Karrueche Tran, the Emmy-winning actress and confirmed girlfriend of NFL legend Deion Sanders, made headlines this Valentine's Day by seemingly 'forgetting' her famous beau. While most celebrity couples were flaunting their love on social media, Tran took a different route—choosing intentionality over the usual red-carpet romance spectacle.</p><p>Sources close to the couple suggest Tran's decision was a deliberate one, sparking speculation about the state of their relationship. Was it a subtle message, or simply a case of busy schedules? Either way, the internet is ablaze with theories. Could this be a sign of trouble in paradise, or just Karrueche's way of keeping things low-key? Stay tuned as we unravel the details of this Valentine's Day mystery.</p>",
-        "celebrities": [
-            "Karrueche Tran",
-            "Deion Sanders"
-        ],
-        "image_url": "https://phantom.estaticos-marca.com/7fc7cbaffbb34f41ef8ef2faf48d45b3/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/15/17711749192894.jpg",
-        "date": "Feb 15, 2026",
-        "url": "https://www.marca.com/en/ncaa/2026/02/15/6991fd82e2704e3a0c8b45a6.html"
-    },
-    {
-        "id": "xxety0lyp",
-        "title": "Olympic Ice Queens Femke Kok & Jutta Leerdam Slay the Rink—And Hearts!",
-        "excerpt": "The Netherlands’ golden girls Femke Kok and Jutta Leerdam turned the Milan-Cortina rink into their personal runway—and the world couldn’t look away.",
-        "content": "<p>The Netherlands’ golden girls Femke Kok and Jutta Leerdam turned the Milan-Cortina rink into their personal runway—and the world couldn’t look away. The dynamic duo reclaimed Olympic glory Sunday during a star-studded 500-meter event, proving that speed skating isn’t just about medals—it’s about *main character energy*.</p><p>While Kok dazzled with her precision and poise, Leerdam brought her signature blend of power and glamour, leaving fans (and competitors) breathless. The Netherlands continues its icy reign, but let’s be real—these two are the real MVPs of Milan-Cortina. Who needs a crown when you’ve got a gold medal and a killer outfit?</p>",
-        "celebrities": [
-            "Femke Kok",
-            "Jutta Leerdam"
-        ],
-        "image_url": "https://s.yimg.com/os/en/the_big_lead_articles_114/447f9bb517013902cf8b6b0f28a1bd34",
-        "date": "Feb 15, 2026",
-        "url": "https://www.thebiglead.com/femke-kok-jutta-leerdam-dazzle-olympic-womens-speed-skating-500m/"
-    },
-    {
-        "id": "ec4lijylq",
-        "title": "OMG! Is This the New Wonder Woman James Gunn Has His Eye On?",
-        "excerpt": "Rumor has it that James Gunn is seriously considering Adria Arjona for the iconic role of Wonder Woman in the DCU!",
-        "content": "<p>Move over, Gal Gadot! There's a new Wonder Woman in town, and her name is Adria Arjona. The Andor and Hit Man star has been a fan-favorite pick for the role for quite some time, and now it seems like DC Studios co-CEO James Gunn might just be on board with the idea!</p><p>According to Deux, Gunn has his sights set on Arjona to don the iconic tiara and lasso of truth in the DCU's upcoming projects. Could this be the casting news we've all been waiting for? Only time will tell, but one thing's for sure: Adria Arjona is ready to kick some serious butt as the Amazonian princess!</p>",
-        "celebrities": [
-            "Adria Arjona",
-            "James Gunn",
-            "Gal Gadot"
-        ],
-        "image_url": "https://comicbookmovie.com/images/articles/banners/wonder-woman-adria-arjona-rumored-to-be-james-gunns-no-1-choice-to-play-the-dcus-diana-ab226437.jpg",
-        "date": "Feb 15, 2026",
-        "url": "https://comicbookmovie.com/wonder-woman/wonder-woman-adria-arjona-rumored-to-be-james-gunns-no-1-choice-to-play-the-dcus-diana-a226437"
-    },
-    {
-        "id": "38i0e7iyv",
-        "title": "MasterChef Celebrity Scores Big, but Who Took the Crown? Ratings Revealed!",
-        "excerpt": "The battle for TV supremacy is on—MasterChef Celebrity shines, but did it steal the spotlight from the competition?",
-        "content": "<p>The weekend ratings war heated up as Telefe's MasterChef Celebrity special dominated the airwaves on Saturday, February 14. But was it enough to outshine the competition? El Trece's La Familia Ingalls held its own, proving that nostalgia still packs a punch.</p><p>With viewers glued to their screens, the culinary showdown and family drama kept audiences buzzing. Who emerged victorious in this ratings battle? Stay tuned as we break down the numbers and spill the tea on which show truly stole the night.</p>",
-        "celebrities": [],
-        "image_url": "https://fotos.perfil.com/2026/02/15/trim/1140/641/masterchef-celebrity-2186720.jpg",
-        "date": "Feb 15, 2026",
-        "url": "https://exitoina.perfil.com/noticias/rating/rating-cuanto-midio-el-especial-de-masterchef-celebrity-y-la-noche-de-mirhta.phtml"
     }
 ];
