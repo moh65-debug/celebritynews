@@ -11,6 +11,63 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "hdglh0x3u",
+        "title": "OMG! These Adorable 4th Graders Are the Ultimate Hype Squad for High School Ballers!",
+        "excerpt": "Move over, celeb fans—these pint-sized cheerleaders are stealing the spotlight!",
+        "content": "<p>These fourth-grade basketball fanatics have been showing up to every Alta High School game, decked out in their mini jerseys, cheering louder than any celeb courtside. The high schoolers are totally here for it, even calling them their 'good luck charm.'</p><p>Now, in a plot twist no one saw coming, the high school team is returning the love, showing up to support their biggest fans at their own games. Talk about squad goals! 🏀💕</p>",
+        "celebrities": [],
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/kYC2Oj379Zwym2rZ6dVE9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/a4061346725c59faa935ca9aaca34367",
+        "date": "Feb 26, 2026",
+        "url": "https://people.com/fourth-graders-and-high-school-basketball-players-go-viral-for-cheering-each-other-on-11914781"
+    },
+    {
+        "id": "3u3y45kfd",
+        "title": "Block Blast! Wins Big at Sensor Tower APAC Awards 2025 – Hungry Studio’s Puzzle Game Takes the Crown!",
+        "excerpt": "Hungry Studio’s Block Blast! has just been crowned ‘Best Puzzle Game’ at the prestigious Sensor Tower APAC Awards 2025, and fans are buzzing!",
+        "content": "<p>Move over, Candy Crush – there’s a new puzzle champ in town! Hungry Studio’s addictive hit, Block Blast!, has officially been named ‘Best Puzzle Game’ at the Sensor Tower APAC Awards 2025, and the gaming world is celebrating.</p><p>The Singapore-based studio’s flagship title took home the top honor, beating out fierce competition in the mobile gaming space. With its colorful blocks, satisfying gameplay, and viral appeal, Block Blast! has become a fan favorite across Asia and beyond. Could this be the start of a new era for puzzle games? Only time will tell!</p>",
+        "celebrities": [],
+        "image_url": "https://img.antaranews.com/cache/1200x800/no-image.jpg",
+        "date": "Feb 26, 2026",
+        "url": "https://en.antaranews.com/news/406122/hungry-studios-block-blast-named-best-puzzle-game-at-sensor-tower-apac-awards-2025"
+    },
+    {
+        "id": "rrkd81681",
+        "title": "NAACP Image Awards Night 3: 'Sinners' Steals Spotlight as Autumn Durald Arkapaw Shines",
+        "excerpt": "Big wins for 'Sinners,' 'Straw,' and a surprise cameo from Gracie's Corner!",
+        "content": "<p>Night 3 of the NAACP Image Awards was a star-studded affair, with Autumn Durald Arkapaw stealing the spotlight for her breathtaking cinematography in 'Sinners.' Meanwhile, Glynn Turman and Teyana Taylor proved why they're Hollywood royalty, snagging TV acting prizes for 'Straw.' The virtual ceremony was a celebration of Black excellence in film, television, and writing, leaving fans buzzing about the night's biggest surprises.</p><p>But the real tea? Gracie's Corner made a surprise appearance, adding a whimsical touch to the evening. With over 4,000 characters of drama, laughter, and inspiration, Night 3 was a reminder of why the NAACP Image Awards remain a cornerstone of recognition for diverse talent in entertainment.</p>",
+        "celebrities": [
+            "Autumn Durald Arkapaw",
+            "Glynn Turman",
+            "Teyana Taylor"
+        ],
+        "image_url": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/02/Untitled-design.png?fit=1200%2C675&quality=80&ssl=1",
+        "date": "Feb 26, 2026",
+        "url": "https://www.thewrap.com/industry-news/awards/naacp-image-awards-sinners-straw-gracies-corner-winners-night-3/"
+    },
+    {
+        "id": "hf1bhj0jn",
+        "title": "Hilary Knight Claps Back at Trump’s ‘Impeachment’ Joke to U.S. Hockey Team",
+        "excerpt": "The U.S. women’s hockey star has a few choice words for the president’s controversial quip.",
+        "content": "<p>Hilary Knight, the star forward of the U.S. women’s hockey team, is setting the record straight after President Donald Trump’s now-viral joke to the men’s hockey team. In a moment that’s sparking both laughter and backlash, Trump reportedly told the victorious men’s team he’d ‘probably’ be impeached if he didn’t invite the women’s team to the State of the Union.</p><p>But Knight isn’t letting the comment slide without a response. In an exclusive interview, the Olympic gold medalist opened up about the team’s dynamic with their male counterparts and how they’re handling the unexpected spotlight. ‘We’re focused on our game, not the politics,’ Knight said, though she couldn’t resist adding a playful jab at the president’s expense. Stay tuned as this icy feud heats up!</p>",
+        "celebrities": [
+            "Hilary Knight",
+            "Donald Trump"
+        ],
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/hiNcv7Aieui2ZH4bvSI0AQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/79e7a480ea0074c87de9f045ae5a8fd8",
+        "date": "Feb 26, 2026",
+        "url": "https://people.com/hilary-knight-responds-distasteful-joke-trump-told-us-mens-hockey-team-after-olympics-11914762"
+    },
+    {
+        "id": "q5m1scixe",
+        "title": "OMG! Pugcasso’s Identity on ‘The Masked Singer’ Season 14 Is Finally Exposed! 🤯",
+        "excerpt": "The mystery is solved! Pugcasso’s true identity on ‘The Masked Singer’ is revealed—get ready for a jaw-dropping twist!",
+        "content": "<p>OMG, you guys! ‘The Masked Singer’ is back and better than ever with Season 14! 🎤✨ The latest episode aired on Wednesday, February 25, and let’s just say, the drama is *chef’s kiss*!</p><p>For those living under a rock, this hit FOX singing competition started in South Korea and has taken the world by storm. Celebs are singing their hearts out while hiding behind these wild costumes and masks—talk about keeping us on the edge of our seats! 🐾🎭</p><p>But wait, the real tea? Pugcasso’s identity is FINALLY out! Who could it be? Fans are losing it over the clues, guesses, and spoilers that have been swirling. Could it be a pop star? A reality TV icon? Or someone totally unexpected? 👀</p><p>Stay tuned because this season is serving *all* the drama, laughs, and jaw-dropping reveals. Trust us, you won’t want to miss a single second of the madness! 🍿🎬</p>",
+        "celebrities": [],
+        "image_url": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/02/masked-pugcasso.jpg",
+        "date": "Feb 26, 2026",
+        "url": "https://www.justjared.com/2026/02/25/who-is-pugcasso-on-the-masked-singer-season-14-clues-guesses-spoilers-revealed/"
+    },
+    {
         "id": "nkq9mybts",
         "title": "Giannis’ New Freak 7s Are Here—And They’re *Bold* Enough to Match His Game",
         "excerpt": "The NBA superstar is serving up fire with his latest Nike drop—and fans are already losing it.",
@@ -562,66 +619,5 @@ export const articles: Article[] = [
         "image_url": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/02/celeb-crimes-social.jpg",
         "date": "Feb 17, 2026",
         "url": "https://www.justjared.com/2026/02/16/from-abductions-to-murder-trials-7-celebrity-crime-cases-that-captivated-the-nation/"
-    },
-    {
-        "id": "xrirvn1yj",
-        "title": "Jalen Johnson's Wild First All-Star Weekend: The Inside Scoop!",
-        "excerpt": "From jaw-dropping performances to unexpected drama, Jalen Johnson’s debut All-Star Weekend was anything but ordinary.",
-        "content": "<p>Jalen Johnson’s first All-Star Weekend was nothing short of a rollercoaster ride! The rising NBA star, who’s been turning heads with his stellar performance this season, stepped onto the big stage and didn’t disappoint. Averaging an impressive 23 points per game, Johnson proved he’s more than just a rookie sensation—he’s a force to be reckoned with.</p><p>But it wasn’t all about the stats. Sources close to the event reveal that Johnson was spotted mingling with some of the biggest names in the game, sparking rumors of potential collaborations and friendships. From exclusive parties to courtside antics, this All-Star Weekend was a whirlwind of glitz, glamour, and a whole lot of basketball magic. Stay tuned as we dive deeper into the juicy details of Jalen’s unforgettable debut!</p>",
-        "celebrities": [
-            "Jalen Johnson"
-        ],
-        "image_url": "https://s.yimg.com/ny/api/res/1.2/q6G8ob2_N6VbSRdwWHZn0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/4636381a167ab2f3bd4679a56475aec7",
-        "date": "Feb 16, 2026",
-        "url": "https://www.peachtreehoops.com/recaps/68776/a-recap-of-jalen-johnsons-first-all-star-weekend"
-    },
-    {
-        "id": "b0hp7dqmn",
-        "title": "MAGA Troll's 'I LOVE ICE' Stunt Backfires Spectacularly on High School Students",
-        "excerpt": "Danny Spud thought he could rile up high schoolers for viral fame, but his MAGA-inspired stunt took a shocking turn.",
-        "content": "<p>Meet Danny Spud, the latest MAGA-inspired provocateur who thought he could stir up some high school drama for his 15 minutes of internet fame. Armed with nothing but a sign that read 'I LOVE ICE,' Spud set out to troll unsuspecting students, hoping to capture their outrage on camera. But as the saying goes, 'FAFO'—and Spud learned that the hard way.</p><p>What started as a seemingly harmless prank quickly spiraled into a lesson in consequences. The high schoolers, far from being the easy targets Spud anticipated, turned the tables on him in a way that left him red-faced and scrambling. Was this a case of karma or just another example of performative politics gone wrong? Either way, Spud's viral moment is one he probably wishes he could erase.</p>",
-        "celebrities": [],
-        "image_url": "https://crooksandliars.com/files/primary_image/26/02/hbedumyakaa_k6a.jpg",
-        "date": "Feb 16, 2026",
-        "url": "https://crooksandliars.com/2026/02/fafo-student-trolls-high-school-i-support"
-    },
-    {
-        "id": "xb8a0gwpo",
-        "title": "August Ponthier Shocks Fans: Non-Binary Coming Out & Debut Album ‘Everywhere Isn’t Texas’ Breaks Boundaries!",
-        "excerpt": "August Ponthier is making waves with a bold debut album that’s as much about self-discovery as it is about breaking musical boundaries.",
-        "content": "<p>August Ponthier is stealing the spotlight in 2026 with their groundbreaking debut album, ‘Everywhere Isn’t Texas.’ The rising star is not only making waves with their unique blend of country-tinged pop but also with their brave decision to come out as non-binary. Fans are buzzing about the album’s deeply personal themes, which explore the tension between the comfort of home and the allure of freedom. Ponthier’s fresh start is already being hailed as one of the year’s most remarkable musical journeys, and it’s only January!</p><p>With a sound that’s both nostalgic and forward-thinking, Ponthier is proving they’re a force to be reckoned with in the music industry. The album’s title track, ‘Everywhere Isn’t Texas,’ has become an anthem for those seeking to break free from the familiar and embrace the unknown. Critics are already predicting that this debut will be remembered as one of the best albums of the year, and fans can’t get enough of Ponthier’s raw, authentic storytelling.</p>",
-        "celebrities": [
-            "August Ponthier"
-        ],
-        "image_url": "https://variety.com/wp-content/uploads/2026/02/August-Ponthier-Tanner-Abel-1_61663e-e1771199250959.jpg?w=1000&h=563&crop=1",
-        "date": "Feb 16, 2026",
-        "url": "https://variety.com/2026/music/news/august-ponthier-interview-everywhere-isnt-texas-album-1236664184/"
-    },
-    {
-        "id": "p5cjzivy8",
-        "title": "The Tragic Mystery of Carolyn Bessette-Kennedy: JFK Jr.'s Enigmatic Wife",
-        "excerpt": "The elusive model, who captivated the world as John F. Kennedy Jr.'s wife, died at 33, leaving behind a legacy shrouded in mystery and unanswered questions.",
-        "content": "<p>Carolyn Bessette-Kennedy, the enigmatic wife of John F. Kennedy Jr., remains one of the most intriguing figures in American celebrity history. Known for her elusive nature, Carolyn never granted an official interview, and only two recordings of her voice exist, totaling less than 30 seconds of audio. Her life, though brief, was filled with glamour, controversy, and tragedy.</p><p>Married to JFK Jr. for just five years, Carolyn was thrust into the spotlight, becoming a style icon and a subject of endless fascination. Yet, she managed to maintain an air of mystery, rarely appearing in public and keeping her personal life fiercely private. Her untimely death in 1999 at the age of 33 only deepened the intrigue surrounding her life and legacy.</p><p>Was Carolyn the victim of relentless media scrutiny? Did her marriage to JFK Jr. bring her happiness or heartache? These questions continue to fuel speculation and debate, making Carolyn Bessette-Kennedy a figure who, even decades after her death, remains a captivating enigma in the world of celebrity gossip.</p>",
-        "celebrities": [
-            "Carolyn Bessette-Kennedy",
-            "John F. Kennedy Jr."
-        ],
-        "image_url": "https://resizer.glanacion.com/resizer/v2/john-f-kennedy-jr-junto-a-carolyn-bessette-RB5DDFIKQBBS3MCN434RLZOJX4.jpg?auth=53e72fc77764dae66bc2fcf265f89c9c2fd4e9081131c54cb97213d99e086885&width=1200&quality=70&smart=false&height=674",
-        "date": "Feb 16, 2026",
-        "url": "https://www.lanacion.com.ar/espectaculos/carolyn-bessette-kennedy-la-verdadera-historia-detras-del-misterioso-y-tragico-icono-estadounidense-nid15022026/"
-    },
-    {
-        "id": "3yzsgxggx",
-        "title": "Brooklyn Beckham's Shocking Family Drama: What Really Happened Behind Closed Doors",
-        "excerpt": "The Beckham family feud is heating up, and Brooklyn is spilling all the tea—here's what you need to know!",
-        "content": "<p>Brooklyn Beckham has taken the spotlight for all the wrong reasons, and it’s not just about his latest Instagram post. The eldest Beckham son is making waves with a series of public moves that hint at a deep rift with his parents, David and Victoria Beckham. From cryptic social media posts to eyebrow-raising interviews, Brooklyn’s actions are fueling rumors of a family feud that’s anything but private.</p><p>Sources close to the Beckham clan suggest tensions have been simmering for months, with Brooklyn allegedly feeling overshadowed by his parents’ high-profile careers. Could this be a classic case of a rebellious son breaking free, or is there more to the story? Fans are left wondering if the Beckhams’ picture-perfect image is cracking under the pressure of fame and family dynamics.</p>",
-        "celebrities": [
-            "Brooklyn Beckham",
-            "David Beckham",
-            "Victoria Beckham"
-        ],
-        "image_url": "https://alltoc.com/cdn/1045/og.png",
-        "date": "Feb 16, 2026",
-        "url": "https://alltoc.com/tabloid/why-has-brooklyn-beckham-publicly-split-from-his-family"
     }
 ];
