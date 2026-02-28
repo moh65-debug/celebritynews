@@ -11,6 +11,65 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ayl7e0xom",
+        "title": "Tragic Loss: Virginia College Baseball Star Joey Raccuia Dies at 19 in Horrific Car Crash",
+        "excerpt": "In a heartbreaking turn of events, the Radford University baseball community is mourning the sudden loss of rising star Joey Raccuia.",
+        "content": "<p>The Radford University baseball family is in mourning after 19-year-old Joey Raccuia tragically lost his life in a single-vehicle crash near the school stadium. The promising young athlete, whose future in baseball seemed bright, was killed in the accident that has left teammates and coaches devastated.</p><p>In a heartfelt social media tribute, the Radford University baseball team shared the devastating news: \"We are heartbroken to share news of the passing of Joey Raccuia.\" The statement, posted on the team's official account, has since been flooded with condolences from fans, fellow athletes, and community members.</p><p>Sources close to the team revealed that Raccuia was known for his infectious smile and dedication to the sport, often staying late after practice to perfect his swing. \"Joey was the kind of player who made everyone around him better,\" said one teammate, who requested anonymity. \"This is a loss that will be felt for a long time.\"</p><p>The university has not released details about the crash, but the incident has sparked an outpouring of support for Raccuia's family and friends. As the Radford community grapples with this tragedy, many are left wondering what could have been for this young athlete whose life was cut far too short.</p>",
+        "celebrities": [],
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/9bvUJwaGnlcTzgFsccyZxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/56c64d331a43e06d1278006ad3dd932d",
+        "date": "Feb 27, 2026",
+        "url": "https://people.com/virginia-college-baseball-player-dies-19-after-crashing-his-car-near-school-stadium-11915700"
+    },
+    {
+        "id": "xjlpzux2g",
+        "title": "Elsbeth's Shocking Twist! Hamish Linklater Joins as a Murderous Tech Mogul",
+        "excerpt": "Is immortality worth killing for? Find out in tonight's jaw-dropping Elsbeth episode!",
+        "content": "<p>Buckle up, Elsbeth fans—tonight's episode is serving major drama! Guest star Hamish Linklater (Gen V) steps into the role of a tech-entrepreneur whose obsession with eternal life might just land him in hot water… or worse, prison. Could his quest for immortality have driven him to murder?</p><p>The masterminds behind the hit CBS series, EPs Robert King and Michelle King, are pulling out all the stops for this one. With Carrie Preston leading the charge, the show’s return is anything but ordinary. Spoiler alert: this episode is packed with twists, turns, and enough suspense to keep you on the edge of your seat.</p><p>Don’t miss S03E11: 'Ol' Man Liver'—it’s the kind of episode that’ll have you talking for days. Tune in and see if Linklater’s character can outsmart Elsbeth… or if justice will prevail. Either way, it’s going to be a wild ride!</p>",
+        "celebrities": [
+            "Hamish Linklater",
+            "Carrie Preston",
+            "Robert King",
+            "Michelle King"
+        ],
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/01/3138210_2958bc-2000x1125.jpg",
+        "date": "Feb 27, 2026",
+        "url": "https://bleedingcool.com/tv/elsbeth-s03e11-ol-man-liver-preview-an-unhealthy-dose-of-murder/"
+    },
+    {
+        "id": "w50yijaze",
+        "title": "The Shocking Truth: Why Most Cats Can't Stand Water",
+        "excerpt": "Prepare to be amazed by the incredible story of the British Navy's only feline sailor!",
+        "content": "<p>Ever wondered why cats seem to despise water? We've all heard the saying, but is it really true? In a fascinating new episode of Popular Science's 'Ask Us Anything' podcast, we dive deep into the mysterious world of our feline friends and their relationship with H2O.</p><p>From the curious case of the British Navy's only kitty sailor to the science behind why most cats would rather stay dry, this episode is a must-listen for any cat lover or trivia enthusiast. So, grab your favorite beverage, curl up with your furry companion, and get ready to have your mind blown by the surprising facts about cats and water!</p>",
+        "celebrities": [],
+        "image_url": "https://www.popsci.com/wp-content/uploads/2026/02/why-cats-hate-water.jpg?quality=85&w=1200",
+        "date": "Feb 27, 2026",
+        "url": "http://www.popsci.com/environment/why-cats-hate-water-podcast/"
+    },
+    {
+        "id": "gfcbvq0h4",
+        "title": "Soulja Boy’s AI Clone Is Taking Fan Calls—And It’s Wildly Convincing",
+        "excerpt": "Soulja Boy just launched an eerily lifelike AI version of himself, and fans can’t get enough of chatting with the digital rapper.",
+        "content": "<p>Soulja Boy is stepping into the future—literally. The rapper has teamed up with Bland AI to launch a phone-based voice clone that fans can call and chat with in real time. Yes, you read that right: an AI version of Soulja Boy is now holding natural, flowing conversations that blend his signature style with a touch of futuristic flair.</p><p>The tech is so convincing, it’s giving fans a surreal experience, mixing nostalgia with cutting-edge innovation. Whether it’s dishing out throwback lyrics or just vibing, this AI clone is proving that celebrity interaction is about to get a major upgrade. Soulja Boy’s move is a playful yet revealing glimpse into how AI is reshaping the way stars connect with their audience—and it’s already got fans buzzing.</p>",
+        "celebrities": [
+            "Soulja Boy"
+        ],
+        "image_url": "https://cdn.mos.cms.futurecdn.net/zhRfoRJMzbMNBMPZJ4HbYo-1920-80.png",
+        "date": "Feb 27, 2026",
+        "url": "https://www.techradar.com/ai-platforms-assistants/i-called-soulja-boys-new-ai-voice-clone-and-had-an-uncanny-chat"
+    },
+    {
+        "id": "ghrd3f1tr",
+        "title": "Suns Owner Mat Ishbia Drops $1 Million Bombshell to Revive NBA All-Star Weekend!",
+        "excerpt": "Suns owner Mat Ishbia is shaking up the NBA with a jaw-dropping $1 million prize plan for All-Star Weekend in Phoenix!",
+        "content": "<p>Suns owner Mat Ishbia is making waves in the NBA world after appearing on ESPN's 'The Pat McAfee Show' with a game-changing proposal to breathe new life into All-Star Weekend. The billionaire businessman, known for his bold moves both on and off the court, revealed plans to inject a whopping $1 million in prize money to make the annual event more exciting and competitive.</p><p>With Phoenix set to host this year's festivities, Ishbia's vision includes revamping traditional events and adding new challenges that could have players fighting for more than just bragging rights. The NBA community is buzzing with speculation about which stars might step up their game for a chance at the massive payday.</p>",
+        "celebrities": [
+            "Mat Ishbia"
+        ],
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/JZdCoBOs8IFIPDBC5CayWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/allcity_network_phoenix_articles_275/cd73d6a5a3117f5cbd01ed0104e0b0e6",
+        "date": "Feb 27, 2026",
+        "url": "https://gophnx.com/suns-owner-mat-ishbia-looks-restore-power-nba-all-star/"
+    },
+    {
         "id": "hdglh0x3u",
         "title": "OMG! These Adorable 4th Graders Are the Ultimate Hype Squad for High School Ballers!",
         "excerpt": "Move over, celeb fans—these pint-sized cheerleaders are stealing the spotlight!",
@@ -556,68 +615,5 @@ export const articles: Article[] = [
         "image_url": "https://deadline.com/wp-content/uploads/2026/02/24-hour-plays-e1771373945904.png?w=1024",
         "date": "Feb 18, 2026",
         "url": "http://deadline.com/2026/02/24-hour-plays-tatiana-maslany-jon-cryer-los-angeles-1236727767/"
-    },
-    {
-        "id": "6l6u06qjt",
-        "title": "From Kimye to Bill & Melinda: The Billion-Dollar Celebrity Divorce Wars That Shocked Hollywood!",
-        "excerpt": "Get ready for jaw-dropping settlements, secret prenups, and Hollywood's most expensive splits ever!",
-        "content": "<p>The past decade has been a goldmine for celebrity divorce attorneys, with jaw-dropping settlements that make your monthly rent look like pocket change. From Kanye West and Kim Kardashian's headline-grabbing split to Bill and Melinda Gates' record-shattering $76 billion divorce, these breakups came with price tags that could fund small countries.</p><p>But it's not just the billionaires making waves. Take Artem Chigvintsev and Nikki Garcia's surprisingly civil split, where the former WWE star agreed to a $200,000 lump sum plus $3,500 monthly child support. While that might sound like a lot to us mere mortals, in Hollywood terms, it's practically a friendly handshake. Stay tuned as we dive into the most expensive celebrity divorces that prove love really does cost a thing!</p>",
-        "celebrities": [
-            "Kanye West",
-            "Kim Kardashian",
-            "Bill Gates",
-            "Melinda Gates",
-            "Artem Chigvintsev",
-            "Nikki Garcia"
-        ],
-        "image_url": "https://media.radaronline.com/brand-img/wmEsJibV2/1200x628/most-expensive-celebrity-divorces-of-the-decade-1765074930007.jpg",
-        "date": "Feb 17, 2026",
-        "url": "https://okmagazine.com/p/most-expensive-celebrity-divorces-of-the-decade/"
-    },
-    {
-        "id": "742zfoaef",
-        "title": "Natasha Rothwell Shocks at Spirit Awards: ‘F--- ICE’ Moment Sparks Wild Applause!",
-        "excerpt": "Natasha Rothwell dropped a bombshell at the Spirit Awards, leaving the audience cheering with her fiery off-script jab at ICE.",
-        "content": "<p>Actress Natasha Rothwell, best known for her work on <em>Saturday Night Live</em> and her standout roles in film and TV, stole the spotlight at the Independent Spirit Awards in the most unexpected way. While accepting her award, Rothwell ditched the script and delivered a bold, unfiltered message condemning ICE, earning thunderous applause from the star-studded crowd.</p><p>The moment quickly became the talk of the evening, with attendees buzzing about her fearless stance. Rothwell’s unscripted remarks were a stark contrast to the polished speeches typically seen at such events, proving once again that she’s not afraid to use her platform for what she believes in. Social media lit up with reactions, with fans and fellow celebrities alike praising her courage and authenticity.</p><p>This isn’t the first time award shows have been a stage for political statements—earlier this month, the Grammys saw similar moments—but Rothwell’s raw delivery and the audience’s enthusiastic response made this one unforgettable. Whether you agree with her message or not, there’s no denying it was a headline-worthy moment that will be remembered long after the trophies are handed out.</p>",
-        "celebrities": [
-            "Natasha Rothwell"
-        ],
-        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/natasha-rothwell-at-ice-awards.png",
-        "date": "Feb 17, 2026",
-        "url": "https://www.foxnews.com/media/actress-natasha-rothwell-goes-off-prompter-say-f-ice-independent-spirit-awards"
-    },
-    {
-        "id": "8jyls4eoy",
-        "title": "Barack Obama Drops Bombshell NBA All-Star Game Take That Has Fans Buzzing",
-        "excerpt": "Barack Obama just revealed a surprising insight from the NBA All-Star Game that has everyone talking.",
-        "content": "<p>Barack Obama wasn't just courtside for the NBA All-Star Game—he was taking notes. The former president, known for his love of basketball, used the star-studded event as more than just entertainment.</p><p>While most fans were focused on the jaw-dropping dunks and celebrity sightings, Obama found himself reflecting on something deeper. Sources close to the former president say his thoughts on the game have sparked fresh conversations about sports, leadership, and unity.</p>",
-        "celebrities": [
-            "Barack Obama"
-        ],
-        "image_url": "https://s.yimg.com/os/en/hitc_articles_832/bbcd898c8915fc0b8c5143bf99ad69e1",
-        "date": "Feb 17, 2026",
-        "url": "https://www.hitc.com/barack-obama-shares-what-the-nba-all-star-game-reminded-him-about-sports/"
-    },
-    {
-        "id": "cvcdy7ib2",
-        "title": "Bad Bunny’s Secret Post-Super Bowl Bash: Staff Forced to Follow Strict Rules!",
-        "excerpt": "After his epic Spanish-language Super Bowl halftime show, Bad Bunny ditched the spotlight for a private Palo Alto party — but there’s a twist!",
-        "content": "<p>Move over, Super Bowl glitz — Bad Bunny traded the bright lights of Levi's Stadium for an ultra-exclusive, hush-hush bash in Palo Alto just hours later. The Puerto Rican superstar, whose real name is Benito Antonio Martínez Ocasio, quietly rented out Macarena, a chic Spanish restaurant, for an intimate celebration with his closest friends and family. But here's the juicy part: sources say staff were given a strict set of rules to ensure the night stayed as private as Bad Bunny's vault of unreleased tracks.</p><p>From no-photos policies to tight-lipped servers, the party was as mysterious as the man himself. While fans were left wondering what went down inside, one thing's for sure — Bad Bunny knows how to keep the world guessing, even after stealing the show with his historic all-Spanish halftime set. ¡Buenísimo, indeed!</p>",
-        "celebrities": [
-            "Bad Bunny"
-        ],
-        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/02/ratio3x2_960.jpg?quality=75&strip=all&w=1200",
-        "date": "Feb 17, 2026",
-        "url": "https://nypost.com/2026/02/16/us-news/bad-bunny-shuts-down-palo-alto-eatery-for-post-super-bowl-celebration/"
-    },
-    {
-        "id": "oo6tnc402",
-        "title": "OMG! 7 Jaw-Dropping Celebrity Crime Cases That Had Everyone Talking",
-        "excerpt": "From shocking abductions to murder trials, these celebrity-connected crimes kept the nation glued to their screens for years!",
-        "content": "<p>Hold onto your seats, because these celebrity crime cases are wilder than any Hollywood script! From shocking abductions to jaw-dropping murder trials, these stories had the public hooked for years, sparking endless debates and nonstop media frenzy. This slideshow dives into seven of the most talked-about cases involving stars, athletes, and other high-profile figures that left us all shook.</p><p>Think you’ve heard it all? Think again! These scandals are so juicy, you won’t believe they’re real. Get ready for a rollercoaster of drama, mystery, and shocking twists that prove truth is stranger than fiction.</p>",
-        "celebrities": [],
-        "image_url": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/02/celeb-crimes-social.jpg",
-        "date": "Feb 17, 2026",
-        "url": "https://www.justjared.com/2026/02/16/from-abductions-to-murder-trials-7-celebrity-crime-cases-that-captivated-the-nation/"
     }
 ];
