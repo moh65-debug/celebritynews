@@ -11,6 +11,61 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "azcrztlpa",
+        "title": "Wanda Nara’s Italian Getaway Turns Scandalous: A Deleted Photo Sparks Fury",
+        "excerpt": "Wanda Nara’s dreamy Milan vacation took a dramatic turn when a single photo ignited a firestorm of controversy.",
+        "content": "<p>Wanda Nara, the glamorous host of MasterChef Celebrity, has jetted off to Italy with her beau, Martín Migueles, for a luxurious post-show getaway. The couple checked into the ultra-exclusive Armani Hotel Milano, where they’ve been soaking up the dolce vita. But just as fans were swooning over their romantic escape, Wanda found herself in hot water.</p><p>A seemingly innocent photo shared on her social media quickly spiraled into a full-blown scandal. The post, which Wanda promptly deleted, had already been captured and circulated by eagle-eyed followers. Now, the internet is buzzing with speculation about what the controversial image could mean for the star’s image and relationship. Will this be just another blip in Wanda’s headline-making life, or is there more to the story? Stay tuned as the drama unfolds.</p>",
+        "celebrities": [
+            "Wanda Nara",
+            "Martín Migueles"
+        ],
+        "image_url": "https://fotos.perfil.com/2026/02/28/trim/1140/641/wanda-nara-y-martin-migueles-2194043.jpg",
+        "date": "Feb 28, 2026",
+        "url": "https://caras.perfil.com/noticias/celebridades/wanda-nara-y-martin-migueles-viajaron-a-milan-pero-una-foto-desato-la-polemica.phtml"
+    },
+    {
+        "id": "7xw0v4l2d",
+        "title": "Jeff Probst Drops Bombshell: Why ‘Survivor’s’ 50th Season Podcast Is Taking a Break!",
+        "excerpt": "Jeff Probst reveals the shocking reason behind the hiatus of ‘Survivor’s’ milestone 50th season podcast.",
+        "content": "<p>In a surprising twist, Jeff Probst, the iconic host of ‘Survivor,’ has announced that the official podcast for the show’s 50th season is hitting pause. This decision comes as the milestone season is set to feature one of the most thrilling game designs in the show’s history.</p><p>Probst shared in a statement to Variety, “‘Survivor’ 50 was designed as a celebration, and it features one of the most exciting game designs we’ve ever done.” Fans are buzzing with speculation about what this could mean for the beloved reality series. Will the hiatus impact the show’s dynamic? Only time will tell, but one thing’s for sure—Season 50 is shaping up to be unforgettable!</p>",
+        "celebrities": [
+            "Jeff Probst"
+        ],
+        "image_url": "https://variety.com/wp-content/uploads/2026/02/3051569_18980b_1.jpg?w=1000&h=563&crop=1",
+        "date": "Feb 28, 2026",
+        "url": "https://variety.com/2026/tv/news/survivor-podcast-hiatus-season-50-jeff-probst-1236674959/"
+    },
+    {
+        "id": "sbr9k2m4r",
+        "title": "Michele Tafoya's Shocking Claim: '30% of Californians Homeless' - Is She Out of Touch?",
+        "excerpt": "Michele Tafoya's jaw-dropping claim about California's homeless population has the internet buzzing - but is she living in a different reality?",
+        "content": "<p>Hold onto your hats, folks, because Michele Tafoya just dropped a bombshell that's got everyone talking! During a recent appearance on Fox's Gutfeld!, the Minnesota U.S. Senate candidate made a bold (and wildly inaccurate) statement that's got the internet in a frenzy.</p><p>Ready for this? Tafoya claimed that 'almost 30% of Californians are homeless.' Yep, you read that right - 30%! But before you start planning a mass exodus from the Golden State, let's get real for a second. The actual figure? A mere 0.47%. That's right, folks - Tafoya was off by a whopping 6,000%!</p><p>So, what gives? Is Tafoya living in some alternate universe where California has become a post-apocalyptic wasteland? Or maybe she's just trying to make Minnesota look extra appealing to potential residents. Either way, her claim has sparked a wildfire of reactions across social media, with many questioning her grasp on reality.</p><p>One thing's for sure - this gaffe is sure to follow Tafoya throughout her campaign. Will she address the elephant in the room, or will she double down on her claims? Only time will tell, but one thing's certain: this is one political blunder that's going to be tough to live down!</p>",
+        "celebrities": [],
+        "image_url": "https://www.mediaite.com/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-8-52-38-PM-scaled.jpg",
+        "date": "Feb 28, 2026",
+        "url": "https://www.mediaite.com/media/tv/senate-candidate-michele-tafoya-wildly-claims-almost-30-of-californians-are-homeless/"
+    },
+    {
+        "id": "5wnntgk4s",
+        "title": "Inside the Censored World: Shocking Deleted Content Revealed!",
+        "excerpt": "The latest scoop on what China’s censors don’t want you to see—exclusive deleted content uncovered!",
+        "content": "<p>Hold onto your hats, because we’ve got the inside scoop on what’s been getting the axe in China! CDT’s latest “404 Deleted Content Archive” is spilling the tea on all the juicy, censored content that’s been scrubbed from platforms like WeC. From scandalous posts to controversial takes, this monthly roundup is your VIP pass to the hidden world of online censorship. Spoiler alert: it’s juicier than you think!</p><p>Each month, CDT digs deep to uncover the content that’s been blocked or deleted, leaving users with that dreaded “404: content not found” message. But don’t worry—we’re here to fill you in on what you’ve been missing. Whether it’s celebrity drama, political hot takes, or just plain weird stuff, this archive is your one-stop shop for the gossip the censors don’t want you to see. Stay tuned, because this is just the beginning!</p>",
+        "celebrities": [],
+        "image_url": "https://chinadigitaltimes.net/wp-content/uploads/2026/02/Yang_Guifei_Statue.png",
+        "date": "Feb 28, 2026",
+        "url": "https://chinadigitaltimes.net/2026/02/cdts-404-deleted-content-archive-summary-for-january-2026-part-two/"
+    },
+    {
+        "id": "j9w3d3uvz",
+        "title": "Shocking Revelations: The 10 Biggest Photography Stories of February 2026 That Left the Industry Stunned",
+        "excerpt": "From unexpected comebacks to jaw-dropping announcements, February 2026 proved to be a month of seismic shifts in the photography world.",
+        "content": "<p>The photography industry emerged from its post-CES slumber in February 2026, and boy, did it deliver! With CP+ making its triumphant return to Yokohama, the stage was set for a month of groundbreaking announcements and surprising twists that had everyone talking.</p><p>From major camera manufacturers unveiling their most ambitious projects yet to industry veterans making unexpected career moves, February proved that the world of photography is anything but predictable. The buzz around CP+ was electric, with insiders whispering about revolutionary new technologies and long-awaited product launches that could change the game forever.</p><p>But it wasn't just about the gear. The month also saw some of the biggest names in photography making headlines for reasons beyond their work behind the lens. Whether it was controversial statements, shocking collaborations, or unexpected retirements, February 2026 kept the industry on its toes and left us all wondering what's next.</p>",
+        "celebrities": [],
+        "image_url": "https://fstoppers.com/s3/files/styles/medium/s3/lead/2026/02/iss_27836_00717.jpg?itok=cyutsaP9",
+        "date": "Feb 28, 2026",
+        "url": "https://fstoppers.com/news/10-biggest-photography-stories-february-2026-900372"
+    },
+    {
         "id": "ayl7e0xom",
         "title": "Tragic Loss: Virginia College Baseball Star Joey Raccuia Dies at 19 in Horrific Car Crash",
         "excerpt": "In a heartbreaking turn of events, the Radford University baseball community is mourning the sudden loss of rising star Joey Raccuia.",
@@ -554,66 +609,5 @@ export const articles: Article[] = [
         "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_134,w_2841,h_1598/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01khshjqqgcpts1fc7h1.jpg",
         "date": "Feb 19, 2026",
         "url": "https://www.mentalfloss.com/history/facts-about-jfk-jr-and-carolyn-bessette"
-    },
-    {
-        "id": "l71jima8q",
-        "title": "Christian Angermayer's Wildest Dreams: Doping Olympics, Dino Comebacks, and Immortality Goals!",
-        "excerpt": "From doping competitions to resurrecting dinosaurs, this German investor is living every mad scientist's fantasy!",
-        "content": "<p>Christian Angermayer is back for his third appearance in the OMR Podcast in ten years, and as always, he's serving up a cocktail of wild ideas and billion-dollar ambitions. This time, he's talking about organizing 'doping competitions,' bringing dinosaurs back to life, and working on a plan to live for hundreds of years. Yep, you read that right.</p><p>The German investor, who manages Apeiron Investment Group with a portfolio worth billions, is nothing if not ambitious. Whether he's dabbling in biotech, psychedelics, or prehistoric creatures, Angermayer is the kind of guy who makes you wonder if he's secretly a Bond villain—or just a genius with too much time (and money) on his hands.</p><p>His latest ventures are as outrageous as they are fascinating. Imagine a world where athletes compete with performance-enhancing drugs legally, or where you could take a selfie with a real-life T-Rex. Angermayer isn't just dreaming—he's funding it. And while his plans might sound like something out of a sci-fi movie, one thing's for sure: this guy knows how to keep us entertained.</p>",
-        "celebrities": [],
-        "image_url": "https://images.podigee-cdn.net/0x,s-rL-qj0QbYHHRJrDoXivRTHNlcJ2JuSncWpN6pl7wio=/https://main.podigee-cdn.net/uploads/u35430/fb843dcf-fd18-4b8a-8147-71a0478e86e0.jpg",
-        "date": "Feb 18, 2026",
-        "url": "https://omr.podigee.io/956-neue-episode"
-    },
-    {
-        "id": "oik1m3m82",
-        "title": "Jaden Rashada's $14M NIL Deal Drama: Billy Napier Settles Lawsuit in Shocking Twist!",
-        "excerpt": "The quarterback's failed $14 million name, image, and likeness deal has finally reached a resolution—but not without a scandalous backstory.",
-        "content": "<p>In a jaw-dropping turn of events, former Florida quarterback Jaden Rashada has settled his lawsuit against ex-coach Billy Napier and three other defendants over a failed $14 million NIL deal. The case, which has been the talk of the college football world, finally reached a resolution, but not before exposing the messy underbelly of big-money endorsements in sports.</p><p>Rashada, once hailed as a rising star, claimed the deal fell through after promises of financial backing evaporated. Napier, now coaching at James Madison, was in town for his deposition, adding fuel to the already fiery drama. While the terms of the settlement remain under wraps, one thing’s for sure—this saga has left fans and critics alike questioning the ethics of NIL deals in college athletics.</p>",
-        "celebrities": [
-            "Jaden Rashada",
-            "Billy Napier"
-        ],
-        "image_url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-        "date": "Feb 18, 2026",
-        "url": "https://sports.yahoo.com/articles/jaden-rashada-billy-napier-others-012908373.html"
-    },
-    {
-        "id": "29dbkmih8",
-        "title": "Olympic Drama: Skier's Sister Protests Gender Gap While Brother Competes",
-        "excerpt": "Annika Malacinski's bold stand against Olympic inequality steals spotlight from brother's big moment.",
-        "content": "<p>While her brother Niklas Malacinski represented Team USA in the high-stakes Nordic Combined skiing event at the 2026 Winter Olympics on Tuesday, February 17, his sister Annika made headlines for a very different reason.</p><p>The accomplished Nordic Combined skier turned activist used the global stage to protest the ongoing exclusion of women from the event, sparking a heated debate about gender equality in winter sports. As Niklas raced down the slopes, Annika's powerful statement resonated far beyond the competition.</p><p>The sibling dynamic adds an intriguing layer to this Olympic story - one competing for glory while the other fights for future generations of female athletes. Will this protest finally push the International Olympic Committee to address the decades-long disparity?</p>",
-        "celebrities": [
-            "Niklas Malacinski",
-            "Annika Malacinski"
-        ],
-        "image_url": "https://s.yimg.com/ny/api/res/1.2/SLYRcV2M3W0C07uFE.XrXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/7ba1931db7ba0070a3b9ae8623a8400a",
-        "date": "Feb 18, 2026",
-        "url": "https://people.com/annika-malacinski-protests-women-exclusion-from-winter-olympics-event-during-her-brother-competition-11908407"
-    },
-    {
-        "id": "a0qdhk157",
-        "title": "10 Jaw-Dropping Digital Marketing Wins That Shook the Industry in 2026",
-        "excerpt": "From AI-powered campaigns to cultural moments that went viral, these brands proved they’re not just playing the game—they’re rewriting the rules.",
-        "content": "<p>Move over, Hollywood—2026’s biggest blockbusters aren’t on the silver screen, they’re in the digital marketing arena. This year, brands went all-in on creativity, data, and cultural relevance, delivering campaigns so bold they practically broke the internet. Think AI-driven personalization that feels like it’s reading your mind, or viral moments so perfectly timed they’re practically prophetic. These aren’t just marketing strategies—they’re cultural phenomena.</p><p>Leading the charge are U.S. powerhouses who’ve mastered the art of blending innovation with authenticity. Whether it’s a fashion giant leveraging TikTok trends or a tech behemoth turning data into storytelling gold, these campaigns are proof that in today’s fast-paced digital economy, the boldest ideas win. Spoiler alert: some of your favorite celebrities are behind the scenes, making it all happen.</p>",
-        "celebrities": [],
-        "image_url": "https://digitaldefynd.com/IQ/wp-content/uploads/2026/01/10-Latest-Digital-Marketing-Case-Studies-Deep-Analysis-2026.jpg",
-        "date": "Feb 18, 2026",
-        "url": "https://digitaldefynd.com/IQ/latest-digital-marketing-case-studies/"
-    },
-    {
-        "id": "hk4jtx6fa",
-        "title": "Hollywood Stars Unite for Epic 24-Hour Theater Challenge in LA!",
-        "excerpt": "Get ready for a star-studded spectacle as Hollywood's finest gather for a whirlwind 24-hour theater extravaganza!",
-        "content": "<p>Hollywood is about to witness an unprecedented creative marathon as The 24 Hour Plays opens its permanent LA home! This non-profit organization, known for its lightning-fast theatrical productions, is bringing together a dazzling array of A-list talent for a 24-hour playwriting and performance challenge that's sure to be the talk of Tinseltown.</p><p>Imagine this: In just one day, some of your favorite stars will write, rehearse, and perform brand-new plays. It's like 'Project Runway' meets Broadway, but with more caffeine and less Tim Gunn. The lineup reads like a who's who of Hollywood, featuring the versatile Tatiana Maslany, 'Two and a Half Men' alum Jon Cryer, 'Jurassic World Dominion' heartthrob Justice Smith, and the charming Pauline Chalamet. These celebs are trading their usual scripts for a chance to flex their creative muscles in a whole new way.</p>",
-        "celebrities": [
-            "Tatiana Maslany",
-            "Jon Cryer",
-            "Justice Smith",
-            "Pauline Chalamet"
-        ],
-        "image_url": "https://deadline.com/wp-content/uploads/2026/02/24-hour-plays-e1771373945904.png?w=1024",
-        "date": "Feb 18, 2026",
-        "url": "http://deadline.com/2026/02/24-hour-plays-tatiana-maslany-jon-cryer-los-angeles-1236727767/"
     }
 ];
