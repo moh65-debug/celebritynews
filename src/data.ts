@@ -11,6 +11,68 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "urd3u7yvl",
+        "title": "BRITs 2026: The Wild Winners List That Has Everyone Talking!",
+        "excerpt": "From shocking upsets to unforgettable performances, the 2026 BRITs were a night to remember!",
+        "content": "<p>The 2026 BRIT Awards just wrapped, and let’s just say, the night was full of surprises! From unexpected wins to jaw-dropping performances, the music industry’s biggest night didn’t disappoint. But who took home the coveted trophies? And which moments had everyone buzzing?</p><p>Sources say the red carpet was a who’s who of A-listers, with some shocking collaborations and even a few surprise guests. Stay tuned as we break down the full winners list, the most talked-about performances, and all the drama that unfolded behind the scenes. Spoiler alert: it’s juicy!</p>",
+        "celebrities": [
+            "Rosalía",
+            "Olivia Dean"
+        ],
+        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
+        "date": "Mar 1, 2026",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180875902"
+    },
+    {
+        "id": "1xl75s090",
+        "title": "OMG! The 2026 NAACP Image Awards Are LIT! Who’s Winning Big?",
+        "excerpt": "The stars are out in full force, and the 2026 NAACP Image Awards are already serving major wins—but who’s taking home the gold?",
+        "content": "<p>The 2026 NAACP Image Awards are in full swing in Los Angeles, and the red carpet is buzzing with Hollywood’s finest! From jaw-dropping fashion to heartfelt speeches, the night is already shaping up to be unforgettable. As the winners are announced, fans are eagerly refreshing their feeds to see who’s taking home the coveted trophies.</p><p>Stay tuned as we update live with all the big moments, surprise wins, and celebrity reactions. Will your favorite stars dominate the night? Let’s find out together!</p>",
+        "celebrities": [
+            "Michael B. Jordan"
+        ],
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/69a3a9d53c6afb954f55f8d2/0x0.jpg?format=jpg&crop=3593,2020,x0,y10,safe&height=900&width=1600&fit=bounds",
+        "date": "Mar 1, 2026",
+        "url": "https://www.forbes.com/sites/timlammers/2026/02/28/2026-naacp-image-awards-list-of-winners-updating-live/"
+    },
+    {
+        "id": "zb2gla41y",
+        "title": "Is This the Secret Date? Graham Norton Drops a Bombshell About Taylor & Travis's Wedding",
+        "excerpt": "Could the pop queen and NFL heartthrob be tying the knot sooner than we think? Graham Norton just spilled a juicy clue!",
+        "content": "<p>Taylor Swift and Travis Kelce fans, get ready to lose it—because Graham Norton might have just let the cat out of the bag. The British talk show king dropped what some are calling a 'cryptic hint' about the superstar couple's wedding plans, and now the internet is spiraling.</p><p>During a recent episode of The Graham Norton Show, the host made a passing comment that eagle-eyed Swifties are convinced is a coded message about when Taylor and Travis will finally say 'I do.' Was it a joke? A slip-up? Or the confirmation we've all been waiting for? Let's break down the tea.</p>",
+        "celebrities": [
+            "Taylor Swift",
+            "Travis Kelce",
+            "Graham Norton"
+        ],
+        "image_url": "https://phantom.estaticos-marca.com/1139b3bb43974434e2a90479cb1082e8/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/19/17661680742110.jpg",
+        "date": "Mar 1, 2026",
+        "url": "https://www.marca.com/en/nfl/kansas-city-chiefs/2026/03/01/69a39097ca47412b1b8b456f.html"
+    },
+    {
+        "id": "0740dzjlq",
+        "title": "Michael B. Jordan Takes Home Entertainer of the Year at 2026 NAACP Image Awards",
+        "excerpt": "The night was full of glitz, glamour, and jaw-dropping moments as the stars came out to celebrate Black excellence.",
+        "content": "<p>The 2026 NAACP Image Awards lit up the Pasadena Civic Auditorium Saturday night, with host Deon Cole bringing his signature humor to the star-studded event. Airing live on BET and CBS, the ceremony celebrated the best in Black entertainment, with Michael B. Jordan stealing the show by winning the coveted Entertainer of the Year award.</p><p>From heartfelt speeches to show-stopping fashion, the red carpet was a who’s who of Hollywood’s finest. Fans and fellow celebrities alike took to social media to cheer on their favorites, making the 2026 NAACP Image Awards a night to remember.</p>",
+        "celebrities": [
+            "Michael B. Jordan",
+            "Deon Cole"
+        ],
+        "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/michael-b-jordan-golden-globes.jpg?w=1440&h=810&crop=1",
+        "date": "Mar 1, 2026",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/2026-naacp-image-awards-winners-list-1236518330/"
+    },
+    {
+        "id": "wuqa1mxtr",
+        "title": "OMG! 5 Wild 2000s Reality Shows That Deserve a Docuseries Revival ASAP",
+        "excerpt": "These chaotic shows from the early 2000s were so unhinged, they NEED a docuseries comeback!",
+        "content": "<p>Remember the wild, unhinged glory of early 2000s reality TV? While some shows played it safe, others pushed boundaries, creating unforgettable chaos. Now, after the success of docuseries like <em>Reality Check</em>, it’s time to revisit five iconic shows that deserve a second look.</p><p>From jaw-dropping drama to behind-the-scenes secrets, these series were the epitome of early-aughts entertainment. Imagine the tea spilled in a modern docuseries format—fans would eat it up! Which of these chaotic classics would you binge-watch first?</p>",
+        "celebrities": [],
+        "image_url": "https://cdn.mos.cms.futurecdn.net/zAR2LPcpQhkA7g7qfJwZDA-1280-80.jpg",
+        "date": "Mar 1, 2026",
+        "url": "https://www.cinemablend.com/television/after-watching-reality-check-5-2000s-reality-shows-need-docuseries-treatment"
+    },
+    {
         "id": "azcrztlpa",
         "title": "Wanda Nara’s Italian Getaway Turns Scandalous: A Deleted Photo Sparks Fury",
         "excerpt": "Wanda Nara’s dreamy Milan vacation took a dramatic turn when a single photo ignited a firestorm of controversy.",
@@ -545,69 +607,5 @@ export const articles: Article[] = [
         "image_url": "https://images.theconversation.com/files/715057/original/file-20260129-76-k8o3bt.jpg?ixlib=rb-4.1.0&rect=0%2C109%2C3683%2C1841&q=45&auto=format&w=1356&h=668&fit=crop",
         "date": "Feb 20, 2026",
         "url": "https://theconversation.com/is-ai-really-intelligent-this-philosopher-says-yes-271721"
-    },
-    {
-        "id": "m3jp6f7ad",
-        "title": "Tom Cruise's Next Mission: Recruiting Oscar Winner Chloe Zhao for M:I-9?",
-        "excerpt": "Could Tom Cruise be planning a shocking twist for the Mission: Impossible franchise?",
-        "content": "<p>Hold onto your seats, Mission: Impossible fans—Tom Cruise might not be ready to hang up his IMF badge just yet! While Mission: Impossible – The Final Reckoning was hyped as the grand finale of the adrenaline-pumping franchise, whispers from industry insiders suggest there could be more death-defying stunts on the horizon.</p><p>According to the ever-reliable gossip hub DeuxMoi, Cruise is allegedly eyeing Oscar-winning director Chloe Zhao to helm the next installment. Could this be the franchise's boldest move yet? Zhao, known for her poetic storytelling in Nomadland, would bring a fresh, unexpected vibe to the high-octane series. But will she accept the mission?</p><p>Sources close to the production hint that Cruise is determined to keep the franchise alive, even if it means breaking his own promises. After all, who could blame him? The Mission: Impossible series has been a cash cow, and Cruise’s dedication to practical stunts keeps audiences coming back for more. But with Zhao’s potential involvement, this could be more than just another sequel—it could be a cinematic event.</p><p>Of course, this is all still in the rumor mill, but if there’s one thing we know about Tom Cruise, it’s that he doesn’t do anything by halves. Whether it’s scaling skyscrapers or recruiting visionary directors, Cruise is always on a mission. Stay tuned, because if this scoop is true, the next Mission: Impossible could be unlike anything we’ve seen before.</p>",
-        "celebrities": [
-            "Tom Cruise",
-            "Chloe Zhao"
-        ],
-        "image_url": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/02/rumor-cruise-wants-chloe-zhao-for-mi-9.jpg",
-        "date": "Feb 19, 2026",
-        "url": "https://www.darkhorizons.com/rumor-cruise-wants-chloe-zhao-for-mi-9/"
-    },
-    {
-        "id": "p2wavjdr2",
-        "title": "MLB Union Boss Tony Clark Quits Amid Scandal: Affair with Sister-in-Law Revealed!",
-        "excerpt": "Tony Clark, the first former player to lead the MLB union, steps down after shocking affair allegations surface.",
-        "content": "<p>Baseball's biggest union is in the headlines for all the wrong reasons! Tony Clark, the powerful executive director of the MLB Players Association, has resigned after an internal investigation uncovered his alleged 'inappropriate relationship' with his sister-in-law, according to ESPN.</p><p>Clark, a former MLB star himself, made history as the first ex-player to lead the players' union. But now, his legacy is overshadowed by scandal. Sources say the affair came to light during a routine internal review, forcing Clark to step down immediately. While the details remain hush-hush, insiders are buzzing about the drama behind closed doors.</p><p>The MLBPA has yet to comment on who will take over Clark's role, but one thing's for sure—this scandal has sent shockwaves through the baseball world. Stay tuned as this story develops!</p>",
-        "celebrities": [
-            "Tony Clark"
-        ],
-        "image_url": "https://s.yimg.com/ny/api/res/1.2/49Cxd_dBr.wxDeUMc2WGTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/a3262732e9f8b37a1844d14ef684afb0",
-        "date": "Feb 19, 2026",
-        "url": "https://people.com/mlb-players-association-exec-tony-clark-resigns-over-inappropriate-relationship-with-sister-in-law-reports-11909354"
-    },
-    {
-        "id": "ua4rvdox6",
-        "title": "Top Chef's $11M Housing Project Drama: Is He Putting Luxury Over Locals?",
-        "excerpt": "Thomas Keller sparks controversy as he questions Yountville's affordable housing plans, raising eyebrows about his true motives.",
-        "content": "<p>Move over, culinary masterpieces—there's a new dish on the table, and it's got nothing to do with Michelin stars. Celebrity chef Thomas Keller, the mastermind behind the ultra-luxe The French Laundry, is stirring the pot in Yountville, California, with his concerns about the town's $11 million affordable housing project. The plan? A 150-unit development aimed at making the swanky wine country town a little more accessible to everyday folks. But Keller? He's not exactly rolling out the red carpet.</p><p>The chef, known for his exquisite (and expensive) dining experiences, is calling for a pause on the project, leaving locals and fans alike wondering: Is this about preserving the town's charm, or is Keller worried about his high-end clientele getting a little too close to the 'common folk'? With Yountville's reputation as a playground for the wealthy, Keller's stance has sparked a heated debate. Is he a champion for the community or just protecting his own backyard? Stay tuned as this celebrity chef's latest controversy simmers.</p>",
-        "celebrities": [
-            "Thomas Keller"
-        ],
-        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/thomas-keller-chef-fox-news.jpg",
-        "date": "Feb 19, 2026",
-        "url": "https://www.foxnews.com/food-drink/swanky-michelin-starred-restaurant-owner-questions-blue-states-affordable-housing-project"
-    },
-    {
-        "id": "1j15xgwsm",
-        "title": "Logan Paul Claps Back at Tom Brady, Questions NFL Stars’ Boxing Skills in Epic Feud!",
-        "excerpt": "The countdown to the Fanatics Flag Football Classic has ignited a fiery feud between WWE sensation Logan Paul and NFL legend Tom Brady, and the drama is just getting started!",
-        "content": "<p>The countdown to the Fanatics Flag Football Classic in Riyadh, Saudi Arabia, has already sparked more drama off the field than on it. Former NFL superstar Tom Brady and WWE sensation Logan Paul have traded barbs, with Logan doubling down on his feud and questioning the boxing skills of NFL players. Fans are buzzing as the two icons prepare to face off in what promises to be a showdown for the ages!</p><p>Logan, never one to shy away from controversy, took to social media to fire back at Brady, claiming that NFL stars might be great on the gridiron but are no match for him in the ring. The WWE star’s bold comments have only fueled the fire, leaving fans wondering if this feud will spill over into the flag football game itself. Will Brady respond, or will he let his skills do the talking on the field? Stay tuned!</p>",
-        "celebrities": [
-            "Logan Paul",
-            "Tom Brady"
-        ],
-        "image_url": "https://phantom.estaticos-marca.com/e6f01a8282120fbdca11ff7d1d461876/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/19/17714606191062.png",
-        "date": "Feb 19, 2026",
-        "url": "https://www.marca.com/en/nfl/las-vegas-raiders/2026/02/19/6996586346163f8b5e8b4572.html"
-    },
-    {
-        "id": "nf0pd0v8p",
-        "title": "The Secret Romance of JFK Jr. and Carolyn Bessette: 9 Shocking Details You Never Knew",
-        "excerpt": "From candlelit weddings to secret neighborhood dining spots, uncover nine surprising facts about JFK Jr. and Carolyn Bessette’s real-life romance.",
-        "content": "<p>America may not have a royal family, but the Kennedys came pretty close. John F. Kennedy’s short but eventful presidency earned the nickname Camelot, and his son JFK Jr. became known as America’s Prince Charming. But behind the public image, JFK Jr. and Carolyn Bessette’s romance was filled with secrets, surprises, and a love story that captivated the nation.</p><p>From their candlelit wedding in a remote island ceremony to their favorite hidden dining spots in the city, this couple’s relationship was anything but ordinary. Here are nine surprising facts about their real-life romance that will leave you stunned.</p>",
-        "celebrities": [
-            "JFK Jr.",
-            "Carolyn Bessette",
-            "John F. Kennedy"
-        ],
-        "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_134,w_2841,h_1598/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01khshjqqgcpts1fc7h1.jpg",
-        "date": "Feb 19, 2026",
-        "url": "https://www.mentalfloss.com/history/facts-about-jfk-jr-and-carolyn-bessette"
     }
 ];
