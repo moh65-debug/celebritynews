@@ -11,6 +11,63 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "buiwyznn0",
+        "title": "Kristen Bell Sings, 'Abbott Elementary' Cast Roasts Nominees in Wild Actor Awards Opening!",
+        "excerpt": "The Actor Awards kicked off with a star-studded sketch that had everyone talking — and singing!",
+        "content": "<p>The Actor Awards just delivered one of the most entertaining openings in awards show history, and the internet is already obsessed. Hosted by Netflix, the ceremony kicked off with a pre-recorded sketch that brought together the hilarious ensemble of <em>Abbott Elementary</em> and the always-charming Kristen Bell for a night of laughs, roasts, and even a surprise musical number.</p><p>The sketch opened with the <em>Abbott Elementary</em> crew—in full character—breaking down the nominees for the evening, from the steamy drama <em>Sinners</em> to the buzzy hit <em>The White Lotus</em>. Lisa Ann Walter’s no-nonsense Melissa took the lead, cracking jokes about The Pitt and other standout performances, while Kristen Bell brought the house down with a show-stopping musical interlude that had everyone wondering, “Wait, when did she become a Broadway star?”</p><p>But the real MVP of the night? The tried-and-true “I’m An Actor” bit, which had the audience in stitches as the cast hilariously overacted their way through classic actor stereotypes. It was the perfect mix of self-aware humor and Hollywood glam, proving once again why these stars are the ones we can’t stop talking about.</p>",
+        "celebrities": [
+            "Kristen Bell",
+            "Lisa Ann Walter"
+        ],
+        "image_url": "https://deadline.com/wp-content/uploads/2026/03/GettyImages-2264290791.jpg?w=1024",
+        "date": "Mar 2, 2026",
+        "url": "http://deadline.com/2026/03/actor-awards-abbott-elementary-kristen-bell-opening-1236740740/"
+    },
+    {
+        "id": "nz9i52aig",
+        "title": "Kristen Bell & Hollywood's Elite Rock the First-Ever Actor Awards Dress Code!",
+        "excerpt": "The 2026 Actor Awards brought a fresh twist to the red carpet with its debut dress code—and the stars delivered in style!",
+        "content": "<p>Hollywood glamour was reimagined at the 2026 Actor Awards, where the March 1 ceremony (formerly known as the SAG Awards) made history by imposing a dress code for the first time in its 31-year history. The move sparked curiosity and excitement among fans and fashion critics alike, as stars like Kristen Bell stepped out in show-stopping ensembles that balanced elegance with the new rules. From sleek silhouettes to bold accessories, the red carpet was a masterclass in how to follow guidelines without sacrificing star power.</p><p>While some wondered if the dress code would stifle creativity, the evening proved otherwise. Celebrities embraced the challenge, delivering looks that were both sophisticated and daring. Whether it was a nod to classic Hollywood or a modern twist on red carpet fashion, the stars ensured the 2026 Actor Awards would be remembered for its style as much as its winners.</p>",
+        "celebrities": [
+            "Kristen Bell"
+        ],
+        "image_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20260301/49ba11da-270a-4450-ae17-29fb620a5cee_1772404849.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "date": "Mar 2, 2026",
+        "url": "https://www.eonline.com/news/1429143/actor-awards-2026-celebs-who-followed-dress-code"
+    },
+    {
+        "id": "1jctwn764",
+        "title": "Ben Johnson Pulls a Fast One on Bulls Fans – No Free Hot Dogs This Time!",
+        "excerpt": "Chicago’s favorite coach is at it again, but this time, he’s leaving fans hungry for more than just laughs.",
+        "content": "<p>Ben Johnson is already a bonafide celebrity in the Windy City, and it’s not just because of his coaching chops. The Bears’ head coach has won over Chicago with his larger-than-life personality and razor-sharp sense of humor, proving he’s as much a showman as he is a strategist.</p><p>During a recent appearance, Johnson had fans buzzing—though not for the reasons they might’ve hoped. Known for his playful antics, the coach teased Bulls fans with the promise of free hot dogs, only to leave them hanging. Classic Johnson! Whether he’s cracking jokes or keeping fans on their toes, one thing’s for sure: this guy knows how to keep Chicago entertained.</p>",
+        "celebrities": [
+            "Ben Johnson"
+        ],
+        "image_url": "https://phantom.estaticos-marca.com/a003e8f34341adfb7eb70ce4ee95a047/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/02/17724133975059.jpg",
+        "date": "Mar 2, 2026",
+        "url": "https://www.marca.com/en/nfl/dallas-cowboys/2026/03/02/69a4e208ca4741e01f8b458b.html"
+    },
+    {
+        "id": "fngnshoap",
+        "title": "German Comedy Surprise: NO HIT WONDER Steals the Show at Rotterdam 2026!",
+        "excerpt": "Move over Hollywood—this German comedy is making waves and stealing hearts at the International Film Festival Rotterdam!",
+        "content": "<p>Who says German comedies can’t be a hit? Florian Dietrich’s latest film, NO HIT WONDER, just proved the skeptics wrong at the International Film Festival Rotterdam. This charming comedy is turning heads and leaving audiences in stitches, showing that Germany’s humor game is stronger than ever.</p><p>With its witty dialogue and relatable characters, NO HIT WONDER is the kind of film that makes you laugh, cry, and maybe even rethink your stance on German cinema. If you thought German comedies were all about stereotypes, think again—this one’s a game-changer!</p>",
+        "celebrities": [],
+        "image_url": "https://screenanarchy.com/assets_c/2026/03/IFFR2026-NoHitWonder-review-main-thumb-200x200-102753.jpg",
+        "date": "Mar 2, 2026",
+        "url": "https://screenanarchy.com/2026/03/rotterdam-2026-review-no-hit-wonder-scores-a-few-hits.html"
+    },
+    {
+        "id": "a1vfdxv6c",
+        "title": "Love Gone Wrong: Inside the Shocking Divorce of a 55-Year-Old Woman After 29 Years of Marriage!",
+        "excerpt": "She walked away with nothing—no money, no assets, no alimony. Here’s why Megha Agarwal’s bold choice is leaving everyone speechless.",
+        "content": "<p>When 55-year-old Megha Agarwal filed for divorce in 2021 after 29 years of marriage, she stunned everyone—not because of the split, but because of what she left behind. With no steady income, no savings, and zero assets in her name, Megha made the jaw-dropping decision to walk away without a single rupee of alimony. Why? Her story is a wake-up call for every woman in her 40s or 50s who’s ever felt trapped in a long marriage.</p><p>From securing alimony to reskilling for a fresh start, here’s the ultimate financial survival guide for women ready to reclaim their independence. Spoiler alert: It’s not as simple as packing your bags and walking out. But if Megha can do it, so can you.</p>",
+        "celebrities": [],
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-56540,resizemode-75,msid-128874382/wealth/plan/going-through-a-divorce-after-20-30-years-of-marriage-a-financial-survival-guide-for-women-in-their-40s-and-50s.jpg",
+        "date": "Mar 2, 2026",
+        "url": "https://economictimes.indiatimes.com/wealth/plan/going-through-a-divorce-after-20-30-years-of-marriage-a-financial-survival-guide-for-women-in-their-40s-and-50s/articleshow/128874382.cms"
+    },
+    {
         "id": "urd3u7yvl",
         "title": "BRITs 2026: The Wild Winners List That Has Everyone Talking!",
         "excerpt": "From shocking upsets to unforgettable performances, the 2026 BRITs were a night to remember!",
@@ -547,65 +604,5 @@ export const articles: Article[] = [
         "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
         "date": "Feb 20, 2026",
         "url": "https://post.rlsbb.to/the-graham-norton-show-s33e19-1080p-hdtv-h264-ftp/"
-    },
-    {
-        "id": "th74byg5q",
-        "title": "Hollywood's Furry Stars: Are Animals Still the Real MVPs on Set?",
-        "excerpt": "From silent film legends to modern-day icons, Hollywood's animal actors have been stealing scenes for decades—but is their reign in jeopardy?",
-        "content": "<p>From the golden age of cinema to today’s blockbuster hits, animals have been the unsung heroes of Hollywood. Remember Bart the Bear, who dominated the 1980s and 1990s with over 20 film and TV credits? Or the legendary collies who brought Lassie to life, generation after generation? And let’s not forget Luke, the loyal dog of silent star Roscoe 'Fatty' Arbuckle, who paved the way for nonhuman actors everywhere.</p><p>But here’s the real tea: one dog’s incredible journey from the brink of euthanasia to Hollywood stardom is proof that these furry performers are more than just cute faces. After nearly two years of intense training, a sprinkle of good fortune, and the tireless dedication of a compassionate team, this pup has landed a gig that even Tinseltown didn’t see coming. Could this be the start of a new era for animal actors? Stay tuned, because Hollywood’s next big star might just have four legs and a wagging tail.</p>",
-        "celebrities": [
-            "Roscoe 'Fatty' Arbuckle"
-        ],
-        "image_url": "https://www.good.is/media-library/bear-trainer-doug-seus-plays-with-bart-the-bear-whos-appeared-in-over-20-tv-shows-and-films.jpg?id=64965062&width=1200&height=600&coordinates=520%2C0%2C120%2C0",
-        "date": "Feb 20, 2026",
-        "url": "https://www.good.is/do-animals-have-a-future-on-hollywood-sets"
-    },
-    {
-        "id": "ucaxktnhj",
-        "title": "Tucker Carlson’s ‘Detention’ Drama Crumbles as Video Exposes the Truth",
-        "excerpt": "Tucker’s latest Israel controversy takes a wild turn as new footage calls his claims into question.",
-        "content": "<p>Oh, Tucker. The Fox News host’s latest crusade against Israel just hit a major speed bump. Known for his fiery rhetoric and controversial takes, Carlson’s latest claim of being ‘detained’ in Israel has now been debunked by video evidence. What was supposed to be a sob story about alleged mistreatment has turned into a full-blown scandal.</p><p>Carlson, who has a history of inflammatory remarks about Jewish communities, described his experience as ‘detention’ despite being treated to what many are calling luxury accommodations. The released footage paints a very different picture, showing Carlson in a relaxed and comfortable setting. This revelation has sparked outrage and disbelief among his critics, who accuse him of spreading misinformation and fueling anti-Semitic narratives.</p><p>As the story continues to unfold, one thing is clear: Tucker’s attempt to vilify Israel has backfired spectacularly. Stay tuned as this drama develops and more details emerge.</p>",
-        "celebrities": [
-            "Tucker Carlson"
-        ],
-        "image_url": "https://legalinsurrection.com/wp-content/uploads/2026/02/Tucker-Ben-Gurion-Airport-e1771551222181.jpg",
-        "date": "Feb 20, 2026",
-        "url": "https://legalinsurrection.com/2026/02/tucker-sob-story-about-israeli-detention-collapses-with-video-release/"
-    },
-    {
-        "id": "dfgvkj37x",
-        "title": "MLS Billion-Dollar Club: The Teams Worth More Than Your Favorite Celebs!",
-        "excerpt": "Major League Soccer’s top clubs are now worth over a billion dollars—and the star power behind them is just as dazzling.",
-        "content": "<p>Move over Hollywood, because Major League Soccer is stealing the spotlight with its billion-dollar clubs! Thanks to glitzy new stadiums, jaw-dropping media deals, and a sprinkle of celebrity magic, MLS has transformed from a modest league into a global investment goldmine. Think of it as the ultimate power move—where soccer meets star-studded glamour.</p><p>From A-list owners to world-famous players, these teams aren’t just scoring goals; they’re scoring big bucks. And let’s be real, some of these franchises are worth more than your favorite celebrity’s mansion. So, who’s leading the pack? Buckle up, because we’re diving into the glitz, glam, and green of MLS’s most valuable teams.</p>",
-        "celebrities": [],
-        "image_url": "https://www.thebiglead.com/wp-content/uploads/2026/02/USATSI_27755988-scaled.jpg",
-        "date": "Feb 20, 2026",
-        "url": "https://www.thebiglead.com/most-valuable-franchises-in-mls/"
-    },
-    {
-        "id": "43r9wc5pd",
-        "title": "WWE's Raquel Rodriguez Just Dropped a Bombshell Challenge to Cardi B and Megan Thee Stallion!",
-        "excerpt": "WWE Superstar Raquel Rodriguez is shaking things up with a bold challenge aimed at Cardi B and Megan Thee Stallion!",
-        "content": "<p>WrestleMania is heating up, and WWE Superstar Raquel Rodriguez just threw down the gauntlet in a way that’s got everyone talking. In a jaw-dropping move, Rodriguez called out none other than Cardi B and Megan Thee Stallion, setting the stage for a potential crossover that could rock the women’s division to its core.</p><p>TMZ’s Inside The Ring podcast spilled the tea, revealing that Rodriguez isn’t just flexing—she’s serious about bringing these music icons into the WWE ring. Could we see Cardi B and Megan Thee Stallion trading microphones for championship belts? Only time will tell, but one thing’s for sure: WrestleMania just got a whole lot more interesting.</p>",
-        "celebrities": [
-            "Raquel Rodriguez",
-            "Cardi B",
-            "Megan Thee Stallion"
-        ],
-        "image_url": "https://imagez.tmz.com/image/ff/16by9/2026/02/19/ffb7af77203e43ce951196029fa461f3_xl.jpg",
-        "date": "Feb 20, 2026",
-        "url": "https://www.tmz.com/2026/02/19/wwe-superstar-raquel-rodriguez-challenges-meg-thee-stallion-cardi-b/"
-    },
-    {
-        "id": "2kq9t4iup",
-        "title": "AI or Not AI: The Mind-Blowing Truth About Machine Intelligence!",
-        "excerpt": "Is AI smarter than your favorite celeb? One philosopher says yes, and the implications are wild!",
-        "content": "<p>Hold onto your designer hats, folks! The AI debate just got a major shake-up, and it's juicier than a Hollywood scandal. Blaise Agüera y Arcus is dropping truth bombs left and right, claiming that prediction is the secret sauce behind all intelligence. Could this be the whole story? Buckle up, because we're diving deep into the world of Large Language Models and ancient Greek tech!</p><p>Imagine this: a machine so smart it could give Elon Musk a run for his money. We're talking about LLMs that can predict your next move before you even make it. It's like having a crystal ball, but instead of a fortune teller, it's lines of code. And the best part? This tech isn't new. We're talking ancient Greece levels of old school. The Antikythera mechanism, anyone? It's like finding out your grandma was a secret agent all along!</p>",
-        "celebrities": [
-            "Elon Musk"
-        ],
-        "image_url": "https://images.theconversation.com/files/715057/original/file-20260129-76-k8o3bt.jpg?ixlib=rb-4.1.0&rect=0%2C109%2C3683%2C1841&q=45&auto=format&w=1356&h=668&fit=crop",
-        "date": "Feb 20, 2026",
-        "url": "https://theconversation.com/is-ai-really-intelligent-this-philosopher-says-yes-271721"
     }
 ];
