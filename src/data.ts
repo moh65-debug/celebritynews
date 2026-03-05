@@ -11,6 +11,66 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "3xx3f8r25",
+        "title": "Selena Gomez's Mystery DM Slide Revealed—Benny Blanco Spills the Tea!",
+        "excerpt": "Selena Gomez just dropped a juicy DM bombshell, and Benny Blanco couldn’t help but react!",
+        "content": "<p>Selena Gomez is serving up some serious tea, and her husband Benny Blanco is here for it! While scrolling through her direct messages on his podcast <em>Friends Keep Secrets</em>, the Only Murders in the Building star revealed a mystery celeb who slid into her DMs. Benny’s reaction? Pure gold.</p><p>The heart wants what it wants, and apparently, so does this mystery admirer! Selena kept the identity under wraps, but fans are already speculating. Could it be a fellow A-lister or someone from her past? One thing’s for sure—this DM drama has us all hooked!</p>",
+        "celebrities": [
+            "Selena Gomez",
+            "Benny Blanco"
+        ],
+        "image_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20260303/40bb072c-7db2-425e-8a3b-686365db61f3_1772581713.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "date": "Mar 4, 2026",
+        "url": "https://www.eonline.com/news/1429274/benny-blanco-reacts-to-celeb-in-selena-gomezs-dms"
+    },
+    {
+        "id": "iuw4hun62",
+        "title": "Lorne Michaels' Secret Gig: Writing for Comedy Icon Phyllis Diller Before SNL Stardom",
+        "excerpt": "Before he ruled Saturday Night Live, Lorne Michaels got his big break writing for the legendary Phyllis Diller on a short-lived variety show that history almost forgot.",
+        "content": "<p>Long before Lorne Michaels became the king of late-night comedy, he was a hungry young writer trying to make his mark in Hollywood. His big break? Writing for none other than comedy legend Phyllis Diller on her ill-fated variety show that barely lasted a season. Talk about humble beginnings!</p><p>While most fans know Michaels as the mastermind behind Saturday Night Live, few realize he cut his teeth in the trenches of network television, crafting jokes for one of comedy's pioneering women. The gig may have been short-lived, but it clearly set the stage for his future empire. From Diller's variety show to creating SNL in 1975, Michaels has proven he knows how to spot and nurture comedic talent - even if his own start came from writing for someone else's vision.</p>",
+        "celebrities": [
+            "Lorne Michaels",
+            "Phyllis Diller"
+        ],
+        "image_url": "https://www.tvline.com/img/gallery/snl-creator-lorne-michaels-got-his-start-writing-for-a-hollywood-legends-forgotten-tv-show/l-intro-1769011399.jpg",
+        "date": "Mar 4, 2026",
+        "url": "https://www.tvline.com/2113772/snl-creator-lorne-michaels-first-job-writing-hollywood-legend-phyllis-diller-show/"
+    },
+    {
+        "id": "nlysva3ho",
+        "title": "Surprise $8 Billion Deal: ‘The Traitors,’ ‘MasterChef,’ and ‘Peaky Blinders’ All Under One Roof Now!",
+        "excerpt": "Jeff Zucker and Marco Bassetti’s $8 billion power move is shaking up the TV world!",
+        "content": "<p>Jeff Zucker and Marco Bassetti were once rivals eyeing the same prize, but now they’re teaming up in a jaw-dropping $8 billion deal. RedBird IMI and Banijay have merged All3Media with Banijay, putting iconic shows like 'The Traitors,' 'MasterChef,' and 'Peaky Blinders' under one roof. This merger is a game-changer for the entertainment industry, and fans are buzzing about what’s next for their favorite shows.</p><p>Marco Bassetti, CEO of Banijay, and Jeff Zucker, the mastermind behind RedBird IMI, are now co-running this powerhouse. With this merger, they’re set to dominate the TV landscape, and insiders say the possibilities are endless. Could this mean more spin-offs, crossovers, or even bigger budgets for these beloved series? Only time will tell, but one thing’s for sure—this is a deal that’s got everyone talking!</p>",
+        "celebrities": [],
+        "image_url": "https://variety.com/wp-content/uploads/2026/03/bassetti-zucker-split.jpg?w=1000&h=563&crop=1",
+        "date": "Mar 4, 2026",
+        "url": "https://variety.com/2026/tv/news/marco-bassetti-jeff-zucker-traitors-banijay-all3media-deal-1236678502/"
+    },
+    {
+        "id": "fkc9xf31z",
+        "title": "Inside the Lavish $6 Million Calabasas Mansion of Celebrity Event Guru David Tutera",
+        "excerpt": "From A-list weddings to this jaw-dropping estate, David Tutera’s life is nothing short of spectacular.",
+        "content": "<p>Move over, Kardashians—there’s a new star in Calabasas! Celebrity event planner extraordinaire David Tutera is putting his sprawling 9-acre estate on the market for a cool $5.9 million.</p><p>Nestled in the exclusive Country Ridge neighborhood, this seven-bedroom masterpiece is as glamorous as the weddings Tutera himself has orchestrated for the stars. With only seven homes in the area, Tutera’s property is the ultimate slice of luxury living in the hills of Calabasas.</p>",
+        "celebrities": [
+            "David Tutera"
+        ],
+        "image_url": "https://robbreport.com/wp-content/uploads/2026/03/2691-Country-Ridge-Road_Landing.jpg?w=681&h=383&crop=1",
+        "date": "Mar 4, 2026",
+        "url": "http://robbreport.com/shelter/celebrity-homes/david-tutera-calabasas-home-1237621968/"
+    },
+    {
+        "id": "ic6pvefay",
+        "title": "Paula Deen’s 1987 Bank Robbery Nightmare: Masked Gunman Was a Customer She Helped!",
+        "excerpt": "Paula Deen thought her life was over during a terrifying gunpoint robbery—until the shocking truth about her attacker came to light.",
+        "content": "<p>Paula Deen has opened up about a harrowing 1987 bank robbery that left her convinced she was about to die. The celebrity chef, who was working at a bank in Georgia at the time, was held at gunpoint by a masked robber who turned out to be a customer she had helped in the past.</p><p>In a candid interview with Fox News Digital, Deen revealed the chilling details of the ordeal, describing how she collapsed in fear during the terrifying encounter. The incident, which occurred long before her rise to fame as a culinary icon, has haunted her for decades. Now, with the news that her attacker was recently found dead in New York City, Deen is speaking out about the lasting impact of that fateful day.</p>",
+        "celebrities": [
+            "Paula Deen"
+        ],
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/paula-deen-in-blue-sweater.jpg",
+        "date": "Mar 3, 2026",
+        "url": "https://www.foxnews.com/entertainment/paula-deen-speaks-out-about-horrifying-gunpoint-robbery-after-1987-attacker-found-dead-nyc"
+    },
+    {
         "id": "hg709fuf4",
         "title": "Zendaya and Tom Holland's Secret Wedding: Stylist Confirms the Big News!",
         "excerpt": "The Spider-Man stars have reportedly tied the knot in a surprise ceremony!",
@@ -542,62 +602,5 @@ export const articles: Article[] = [
         "image_url": "https://www.jalopnik.com/img/gallery/jay-leno-owns-the-katharine-hepburn-bugatti-and-thats-not-even-the-interesting-part/l-intro-1771501724.jpg",
         "date": "Feb 23, 2026",
         "url": "https://www.jalopnik.com/2105042/jay-leno-katharine-hepburn-bugatti/"
-    },
-    {
-        "id": "9qxo3a4ec",
-        "title": "Inside Maxi López's Ultra-Luxurious Nordelta Mansion: Private Dock, Lake Views, and Wanda Nara as a Neighbor!",
-        "excerpt": "Maxi López is leaving his European life behind to settle in Argentina with his stunning model girlfriend and their adorable kids—but it’s his jaw-dropping new mansion that’s stealing the spotlight!",
-        "content": "<p>Maxi López, the former football star, is making waves with his latest move—not just relocating to Argentina, but settling into a jaw-dropping mansion in the exclusive Nordelta neighborhood. The luxurious property boasts a private dock, stunning lake views, and an unexpected neighbor: none other than Wanda Nara. Talk about living the high life!</p><p>The athlete is preparing for the arrival of his partner, the gorgeous Swedish model Daniela Christiansson, and their two adorable children, Elle and Lando. After years of living the European dream, Maxi is trading in his international lifestyle for a life of opulence in Argentina. And let’s be honest, with a house like this, who wouldn’t?</p>",
-        "celebrities": [
-            "Maxi López",
-            "Daniela Christiansson",
-            "Wanda Nara"
-        ],
-        "image_url": "https://fotos.perfil.com/2026/02/22/trim/1140/641/maxi-lopez-y-wanda-nara-2190106.jpg",
-        "date": "Feb 22, 2026",
-        "url": "https://caras.perfil.com/noticias/celebridades/casa-maxi-lopez-nordelta-muelle-propio-vista-lago-vecino-wanda-nara.phtml"
-    },
-    {
-        "id": "mfz1635z8",
-        "title": "Influencer's Backyard Turned into a Stalker's Playground: Cops Called Twice in 24 Hours!",
-        "excerpt": "In a chilling turn of events, a social media star faced not one, but two creepy encounters with lurkers in her LA backyard, leaving fans on edge.",
-        "content": "<p>In a spine-tingling episode that has the internet buzzing, a well-known social media influencer found herself in a real-life thriller when two separate men were spotted lurking in her Los Angeles backyard within a span of 24 hours. The first incident occurred just before midnight on Wednesday, prompting an immediate call to the police. Officers arrived on the scene to investigate a report of trespassing and a possible violation of a restraining order.</p><p>But the drama didn't end there. Less than a day later, the influencer was back on the phone with law enforcement, reporting yet another suspicious figure skulking around her property. With each encounter more unsettling than the last, fans are left wondering: who are these mysterious men, and what do they want? As the influencer's security team ramps up protection, the internet is abuzz with speculation and concern for her safety.</p>",
-        "celebrities": [],
-        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/02/121920270.jpg?quality=75&strip=all&w=1200",
-        "date": "Feb 22, 2026",
-        "url": "https://nypost.com/2026/02/21/us-news/creepy-men-spotted-lurking-in-lindsey-pelas-backyard-in-la/"
-    },
-    {
-        "id": "l1phmihjx",
-        "title": "Lovephobia: Episode 1 Sparks Drama as Tech Genius Clashes with Romance Queen!",
-        "excerpt": "Sparks fly in Lovephobia as a reclusive app developer and a romance novelist collide over an AI dating project!",
-        "content": "<p>In the latest LG U+ rom-com Lovephobia, sparks are flying as an anti-social app developer and a romance novelist clash over an AI dating program. Will their differences lead to disaster or unexpected romance? Find out in Episode 1!</p><p>Their collaboration is anything but smooth, with the tech genius and the romance queen butting heads at every turn. But could their contrasting views on relationships be the key to unlocking something more? Tune in to see the drama unfold!</p>",
-        "celebrities": [],
-        "image_url": "https://dramabeans.com/wp-content/uploads/2026/02/lovephobia-title.jpg",
-        "date": "Feb 22, 2026",
-        "url": "https://dramabeans.com/2026/02/lovephobia-episode-1-first-impressions/"
-    },
-    {
-        "id": "uqw2c44go",
-        "title": "RuPaul's Drag Race: Snatch Game Of Love Island Edition – Who Will Steal the Crown?",
-        "excerpt": "RuPaul throws a curveball at the queens with a sizzling twist on the classic Snatch Game – and Brooke Shields is here to judge!",
-        "content": "<p>RuPaul's Drag Race is heating up with a tropical twist! In the latest episode, 18x8: Snatch Game Of Love: Island Edition, the queens are serving up their best celebrity impersonations, but with a surprise format change that’s got everyone talking. RuPaul, never one to play it safe, has thrown the queens a curveball that’s sure to keep viewers on the edge of their seats.</p><p>Adding to the excitement, iconic actress and model Brooke Shields joins the panel as a guest judge, bringing her signature glamour and sharp wit to the runway. With the stakes higher than ever, which queen will rise to the occasion and which will be left stranded on love island? Tune in to find out who’s stealing the crown – and who’s getting snatched out of the competition!</p>",
-        "celebrities": [
-            "RuPaul",
-            "Brooke Shields"
-        ],
-        "image_url": "https://l-stat.livejournal.net/img/sign.png",
-        "date": "Feb 22, 2026",
-        "url": "https://ohnotheydidnt.livejournal.com/131958365.html"
-    },
-    {
-        "id": "ivciz9dfm",
-        "title": "Retail Worker Goes Full Diva Mode After Crazy Christmas Shopper Loses It!",
-        "excerpt": "This holiday shopping showdown had us screaming, 'Yaaas, queen!'",
-        "content": "<p>Working retail during the holidays is basically a full-contact sport, but one brave employee just leveled up her customer service game in the most unexpected way.</p><p>When a particularly unhinged shopper started throwing a Christmas-sized tantrum over something trivial (because of course they did), this retail warrior decided to fight fire with fire. Instead of taking the high road, she went full Method actor, matching the customer's crazy energy beat for beat. Talk about retail revenge served ice-cold!</p><p>The internet is absolutely living for this tea, with Reddit users dubbing her the 'Queen of Petty' and demanding she get a raise, a promotion, and probably her own reality show. Honestly, same.</p>",
-        "celebrities": [],
-        "image_url": "https://twistedsifter.com/wp-content/uploads/2026/01/Twisted-Sifter-2026-01-28T115826.979.png",
-        "date": "Feb 22, 2026",
-        "url": "http://twistedsifter.com/2026/02/crazy-customer-gets-really-upset-at-retail-worker-while-christmas-shopping-so-the-retail-worker-works-overtime-acting-just-as-crazy-as-the-customer/"
     }
 ];
