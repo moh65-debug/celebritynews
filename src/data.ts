@@ -11,6 +11,66 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "2gfy2zk48",
+        "title": "Eggplant on 'The Masked Singer' Season 14: Who's Hiding Under That Costume?",
+        "excerpt": "The mystery of Eggplant on 'The Masked Singer' Season 14 has everyone guessing—could this be your favorite star?",
+        "content": "<p>The Masked Singer is back, and the drama is juicier than ever! Season 14 of the hit FOX singing competition series aired on Wednesday night (March 4), and fans are already buzzing about the latest celebrity to don a costume and mask.</p><p>The show, which began in South Korea, features celebrities singing songs while wearing costumes and face masks concealing their identities. This season, Eggplant has everyone guessing—who could it be? With clues, guesses, and spoilers swirling, the internet is on fire trying to unmask this mysterious performer.</p><p>Could Eggplant be a chart-topping singer, a Hollywood A-lister, or even a reality TV star? The clues are dropping fast, and fans are piecing together the puzzle. Stay tuned as we dive into the wild theories and shocking revelations about Eggplant’s true identity!</p>",
+        "celebrities": [],
+        "image_url": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/03/masked-eggplant.jpg",
+        "date": "Mar 5, 2026",
+        "url": "https://www.justjared.com/2026/03/04/who-is-eggplant-on-the-masked-singer-season-14-clues-guesses-spoilers/"
+    },
+    {
+        "id": "m9hngcu43",
+        "title": "Casino Drama: Former Celebrity Car Dealer Faces Jail Time Over Fiery MGM Feuds",
+        "excerpt": "Sparks are flying as a Nevada congressional hopeful gets banned from MGM Resorts nationwide after a social media showdown!",
+        "content": "<p>Talk about a high-stakes showdown! A Nevada congressional candidate and former celebrity car dealer is in hot water after MGM Resorts hit him with a sweeping ban from all their properties nationwide. The drama? Months of fiery social media attacks aimed at the casino giant, according to TMZ.</p><p>Sources say MGM fired off a cease-and-desist letter, and things are escalating fast. With jail time on the line, this political hopeful’s wild ride just took a detour into scandal territory. Stay tuned—this story’s far from over!</p>",
+        "celebrities": [
+            "Celebrity Car Dealer"
+        ],
+        "image_url": "https://www.rawstory.com/media-library/the-nevada-state-flag-photo-credit-rarrarorro-shutterstock.jpg?id=65153188&width=1200&height=600&coordinates=0%2C13%2C0%2C14",
+        "date": "Mar 5, 2026",
+        "url": "https://www.rawstory.com/republican-2675555814/"
+    },
+    {
+        "id": "mpdrml0j4",
+        "title": "Lou Holtz, Notre Dame's Legendary Coach and Trump Ally, Dies at 89",
+        "excerpt": "College football icon Lou Holtz, who revitalized Notre Dame and later became a vocal Trump supporter, has passed away at 89.",
+        "content": "<p>Lou Holtz, the charismatic college football coach who transformed Notre Dame into a powerhouse and later became a prominent TV analyst and outspoken political supporter of Donald Trump, has died at the age of 89. The news was confirmed by Notre Dame in a statement released on Wednesday.</p><p>Known for his fiery personality and motivational speeches, Holtz led the Fighting Irish to a national championship in 1988, cementing his legacy as one of the sport's most influential figures. Beyond the gridiron, he became a fixture on ESPN and a vocal advocate for conservative causes, often aligning himself with former President Trump. Holtz's larger-than-life persona and unwavering opinions made him a polarizing yet unforgettable figure in both sports and politics.</p>",
+        "celebrities": [
+            "Lou Holtz",
+            "Donald Trump"
+        ],
+        "image_url": "https://img1-azrcdn.newser.com/image/1668920-12-20260304184401.jpeg",
+        "date": "Mar 5, 2026",
+        "url": "https://www.newser.com/story/384820/lou-holtz-who-led-notre-dame-to-a-championship-dies-at-89.html"
+    },
+    {
+        "id": "jq4mjzhb6",
+        "title": "Susana Roccasalvo Drops Bombshell About Her Love Life: 'I Get a Collagen Shock Every Now and Then'",
+        "excerpt": "The veteran journalist spilled the tea on her romantic life during a Telefe stream, leaving fans stunned with her candid revelations.",
+        "content": "<p>Susana Roccasalvo, the ever-glamorous journalist, set tongues wagging this Wednesday, March 4th, during her appearance on the MasterChef react stream on Telefe. Known for her sharp wit and no-nonsense attitude, Roccasalvo took everyone by surprise when she opened up about her love life in a way that was both shocking and refreshingly honest.</p><p>\"Every now and then, I give myself a collagen shock,\" she quipped, leaving the audience both intrigued and amused. But that wasn’t all—Roccasalvo went on to reveal what she’s really looking for in a partner, and let’s just say, her standards are as high as her heels. With over 2,659 characters of juicy details, this is one interview you won’t want to miss!</p>",
+        "celebrities": [
+            "Susana Roccasalvo"
+        ],
+        "image_url": "https://fotos.perfil.com/2026/03/05/trim/1140/641/susana-roccasalvo-2196862.jpg",
+        "date": "Mar 5, 2026",
+        "url": "https://exitoina.perfil.com/noticias/corazon/susana-roccasalvo-sorprendio-al-hablar-de-su-vida-amorosa-cada-tanto-me-doy-un-shock-de-colageno.phtml"
+    },
+    {
+        "id": "5xdhi1n3z",
+        "title": "Jimmy Kimmel's Hilarious Pitch: Host the White House Correspondents' Dinner and 'Watch the Ratings Soar'!",
+        "excerpt": "Late-night star Jimmy Kimmel throws his hat in the ring to host the White House Correspondents' Dinner, promising 'ratings gold' with Trump in attendance.",
+        "content": "<p>Jimmy Kimmel is making a bold move that’s got everyone talking! The late-night host jokingly threw his name into the hat to host the White House Correspondents' Dinner, and his reasoning is pure gold. After learning that President Donald Trump will attend this year’s event, Kimmel quipped that he’d be the perfect choice to keep things entertaining—and, of course, to 'think of the ratings.' </p><p>During his Tuesday night monologue, Kimmel couldn’t resist poking fun at the idea of sharing a stage with the former president. 'If Trump’s going to be there, why not let me host?' he joked. 'It’s a win-win: he gets roasted, and I get to watch the ratings skyrocket.' The crowd erupted in laughter, and social media quickly caught fire with reactions to Kimmel’s playful pitch. Whether it’s a serious offer or just another hilarious bit, one thing’s for sure—Kimmel knows how to keep us entertained!</p>",
+        "celebrities": [
+            "Jimmy Kimmel",
+            "Donald Trump"
+        ],
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/kimmel-trump-2.jpg",
+        "date": "Mar 5, 2026",
+        "url": "https://www.foxnews.com/media/jimmy-kimmel-jokes-trump-should-let-him-host-white-house-correspondents-dinner-think-ratings"
+    },
+    {
         "id": "3xx3f8r25",
         "title": "Selena Gomez's Mystery DM Slide Revealed—Benny Blanco Spills the Tea!",
         "excerpt": "Selena Gomez just dropped a juicy DM bombshell, and Benny Blanco couldn’t help but react!",
@@ -542,65 +602,5 @@ export const articles: Article[] = [
         "image_url": "https://img.etimg.com/thumb/msid-128727550,width-1200,height-630,imgsize-40754,overlay-economictimes/articleshow.jpg",
         "date": "Feb 24, 2026",
         "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/airlines-ramp-up-premium-cabins-as-india-business-travel-surges-air-india-leads-upgrade-push/articleshow/128727429.cms"
-    },
-    {
-        "id": "sraoxs3zg",
-        "title": "OMG! You Won't Believe Who Voiced This Iconic Shrek Character!",
-        "excerpt": "Before stealing the spotlight in Landman, Billy Bob Thornton lent his voice to a classic nursery rhyme character in the Shrek universe!",
-        "content": "<p>Hold onto your swamp, Shrek fans—Billy Bob Thornton has a secret connection to the beloved franchise that’s been hiding in plain sight! Before he became the rugged star of Landman, Thornton voiced a classic nursery rhyme character in the Shrek universe. Yes, you read that right!</p><p>While most know him for his gritty roles, Thornton took a detour into animated fairy tales, proving he’s got range beyond the big screen. The character? None other than Puss in Boots, the swashbuckling feline who stole hearts in Shrek 2 and later got his own spinoff. Talk about a hidden gem in Thornton’s career!</p>",
-        "celebrities": [
-            "Billy Bob Thornton"
-        ],
-        "image_url": "https://www.slashfilm.com/img/gallery/the-shrek-character-you-forgot-was-played-by-landman-star-billy-bob-thornton/l-intro-1770941809.jpg",
-        "date": "Feb 23, 2026",
-        "url": "https://www.slashfilm.com/2100101/landman-billy-bob-thornton-shrek-puss-in-boots-jack-and-jill/"
-    },
-    {
-        "id": "dfe1fjh9a",
-        "title": "Alia Bhatt's BFF Farhan Akhtar's Film 'Boong' Steals the BAFTA Spotlight!",
-        "excerpt": "From Manipur to London, 'Boong' triumphs at BAFTA—but the real story is what the director said on stage!",
-        "content": "<p>In a dazzling win that's got Bollywood buzzing, Farhan Akhtar's Excel Entertainment-backed gem 'Boong' snagged the BAFTA Award for Best Children's &amp; Family Film in London this weekend. The quirky Manipuri coming-of-age comedy-drama, directed by Lakshmipriya Devi, beat out stiff international competition—and stole hearts along the way.</p><p>But the real showstopper? Director Lakshmipriya Devi's emotional plea for peace in Manipur as she accepted the award, reminding everyone that art and activism often go hand in hand. With Farhan Akhtar's Midas touch and Alia Bhatt's close ties to the production house, this win is being hailed as a proud moment for Indian cinema on the global stage.</p>",
-        "celebrities": [
-            "Farhan Akhtar",
-            "Alia Bhatt"
-        ],
-        "image_url": "https://img.etimg.com/thumb/msid-128694959,width-1200,height-630,imgsize-133200,overlay-economictimes/articleshow.jpg",
-        "date": "Feb 23, 2026",
-        "url": "https://economictimes.indiatimes.com/news/india/farhan-akhtar-backed-manipuri-film-boong-wins-bafta-award-in-london/articleshow/128694942.cms"
-    },
-    {
-        "id": "smjqnfi88",
-        "title": "Noah Schnapp’s Shocking Turn: Why the ‘Stranger Things’ Star Is Suddenly Abandoning America!",
-        "excerpt": "After years of being America’s favorite sci-fi sweetheart, Noah Schnapp is making headlines for all the wrong reasons—and fans are NOT happy.",
-        "content": "<p>Hold onto your Eggos, because Noah Schnapp is stirring up drama that’s way scarier than the Upside Down! The Stranger Things star, who’s been America’s beloved Will Byers for nearly a decade, is now at the center of a shocking controversy that has fans questioning everything.</p><p>Sources close to the young actor reveal that Schnapp’s recent actions have left Hollywood insiders whispering and social media ablaze. Is this just another case of a child star gone rogue, or is there something deeper at play? One thing’s for sure—this isn’t the wholesome image we’ve come to expect from the face of one of Netflix’s biggest hits.</p><p>Insiders say Schnapp’s sudden shift has even caused tension behind the scenes of Stranger Things, with some cast members allegedly ‘deeply concerned’ about the star’s choices. Could this spell trouble for the show’s highly anticipated final season? Fans are already speculating wildly, and the internet is having a field day with theories.</p><p>While Schnapp’s team remains tight-lipped, one thing is clear: the actor’s next move could make or break his career. Will he bounce back like a true Hollywood survivor, or is this the beginning of the end for the once-beloved star? Stay tuned, because this story is far from over!</p>",
-        "celebrities": [
-            "Noah Schnapp"
-        ],
-        "image_url": "https://insidethemagic.net/wp-content/uploads/2024/05/Untitled-design-3.jpg",
-        "date": "Feb 23, 2026",
-        "url": "https://insidethemagic.net/?p=816674&preview=true&preview_id=816674"
-    },
-    {
-        "id": "jebpdu81s",
-        "title": "Why the Right’s War on Celebs Is Backfiring Spectacularly",
-        "excerpt": "The right’s attempts to silence stars are crumbling as athletes, musicians, and comedians dominate the global stage.",
-        "content": "<p>The past few weeks have been a masterclass in irony for the right’s culture war crusaders. Their latest push to muzzle athletes, musicians, and comedians? It’s blowing up in their faces as these very stars are thriving on the global stage.</p><p>This isn’t new. For years, the right has tried to silence voices they deem too outspoken, only to watch those same voices rise to even greater heights. It’s a pattern that’s becoming impossible to ignore—and it’s highlighting just how out of touch they are with the general public.</p><p>Take, for example, the recent backlash against a high-profile athlete who dared to speak out on social issues. Instead of fading into obscurity, they’ve become a global icon, proving that authenticity resonates far more than censorship. Or consider the comedian who faced boycotts for their edgy material—only to sell out arenas worldwide.</p><p>Even musicians aren’t immune. When the right tried to cancel a chart-topping artist for their political stance, their album sales skyrocketed, and their latest tour became one of the highest-grossing of the year. It’s almost as if the public prefers stars who stand for something rather than those who stay silent.</p><p>So, what’s the takeaway? The more the right tries to shut down these voices, the louder they become. And in a world where authenticity is currency, it’s the right that’s losing the battle—and the culture war.</p>",
-        "celebrities": [],
-        "image_url": "https://crooksandliars.com/files/primary_image/26/02/screenshot2026-02-19at7.50.08pm.png",
-        "date": "Feb 23, 2026",
-        "url": "https://crooksandliars.com/2026/02/why-right-s-culture-war-crusades-are"
-    },
-    {
-        "id": "5184z9ju0",
-        "title": "Jay Leno Just Scored the Most Iconic Bugatti Ever — And It’s Got Hollywood Royalty Ties!",
-        "excerpt": "Jay Leno’s latest garage addition isn’t just rare—it’s practically a movie star.",
-        "content": "<p>Move over, classic cars—Jay Leno just snagged the ultimate Hollywood ride. The legendary comedian and car collector has added the iconic Bugatti T38A from the 1933 film <em>Christopher Strong</em> to his already jaw-dropping collection. And yes, it’s the same car that Katherine Hepburn drove on-screen, making it as much a piece of cinema history as it is an automotive masterpiece.</p><p>But here’s the juicy part: this Bugatti isn’t just a pretty face. It’s a rare gem that’s been meticulously preserved, and now it’s sitting pretty in Leno’s garage, rubbing fenders with some of the most coveted vehicles in the world. Talk about a flex! While Jay’s known for his controversial yet wildly successful run on <em>The Tonight Show</em>, it’s his passion for vintage rides that’s got everyone talking now. Could this be his most glamorous acquisition yet? Only time (and maybe a spin around Hollywood) will tell.</p>",
-        "celebrities": [
-            "Jay Leno",
-            "Katherine Hepburn"
-        ],
-        "image_url": "https://www.jalopnik.com/img/gallery/jay-leno-owns-the-katharine-hepburn-bugatti-and-thats-not-even-the-interesting-part/l-intro-1771501724.jpg",
-        "date": "Feb 23, 2026",
-        "url": "https://www.jalopnik.com/2105042/jay-leno-katharine-hepburn-bugatti/"
     }
 ];
