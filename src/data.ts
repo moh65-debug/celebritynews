@@ -11,6 +11,66 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "jzm3ohl1q",
+        "title": "Lamar Odom's Shocking New Career Move: From NBA Star to College Basketball Coach!",
+        "excerpt": "After a tumultuous battle with addiction, Lamar Odom is making a surprising comeback in the basketball world—this time, on the sidelines!",
+        "content": "<p>Hold onto your hats, folks, because Lamar Odom is back in the game—but not in the way you might expect! The former NBA superstar, known for his incredible versatility and two championship rings, is reportedly eyeing a new role in basketball. That's right, Lamar is trading in his jersey for a whistle and stepping into the world of college basketball coaching.</p><p>Sources close to the former Laker say that Lamar has been quietly exploring opportunities to mentor young athletes, drawing on his years of experience both on and off the court. After his highly publicized struggles with addiction, this new chapter could be just the fresh start he needs. Could we see Lamar Odom leading a team to victory in a whole new way? Stay tuned, because this story is just getting started!</p>",
+        "celebrities": [
+            "Lamar Odom"
+        ],
+        "image_url": "https://phantom.estaticos-marca.com/cb66392ffb92f8c38cbd2613804479f9/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/06/17727594890114.jpg",
+        "date": "Mar 6, 2026",
+        "url": "https://www.marca.com/en/ncaa/2026/03/06/69aa31ca46163f24538b45ef.html"
+    },
+    {
+        "id": "zwvycrn2y",
+        "title": "Kylie Jenner's Shocking Gen Z Move: Is She Ditching Alcohol for Good?",
+        "excerpt": "Is the reality star ready to swap vodka sodas for something a little more... sober?",
+        "content": "<p>Kylie Jenner, the ever-busy beauty mogul and reality TV star, is reportedly making a major lifestyle change that's got fans buzzing. Known for her hustle—juggling Kylie Cosmetics, her clothing line, and the family's hit reality show—Kylie might be adding a surprising new chapter to her already packed life.</p><p>Rumors are swirling that the 26-year-old is pivoting away from alcohol, a move that’s being hailed as a very Gen Z decision. Could this be the end of the vodka soda era for the youngest Jenner? While she’s always been the epitome of a multi-tasking mogul, this potential shift suggests Kylie is prioritizing her health and wellness in a big way. Stay tuned—this story is just getting started!</p>",
+        "celebrities": [
+            "Kylie Jenner"
+        ],
+        "image_url": "https://cdn.mos.cms.futurecdn.net/6WWwv2faeGrNUGkMXVRxBh-1280-80.jpg",
+        "date": "Mar 6, 2026",
+        "url": "https://www.cinemablend.com/streaming-news/very-gen-z-move-kylie-jenner-may-be-pivoting-away-alcohol"
+    },
+    {
+        "id": "cpxmlxbl2",
+        "title": "Elsbeth's Got a Hairy Situation! Carrie Preston Tackles Wild New Case",
+        "excerpt": "Carrie Preston's Elsbeth is diving into her wildest case yet—and it's seriously hairy!",
+        "content": "<p>Hold onto your hairbrushes, because Elsbeth is back with a mane event! In tonight's episode, S03E12: \"All's Hair,\" our favorite legal eagle, Carrie Preston, is about to get tangled up in a case that's anything but smooth. Showrunner Jonathan Tolins and EPs Robert King and Michelle King have cooked up a follicle-filled mystery that's sure to keep us on the edge of our seats.</p><p>Elsbeth (Preston) is taking on a client whose secrets are as wild as their mane, and it looks like this case will have her combing through more than just legal documents. Will she be able to untangle the truth, or will this hairy situation leave her in knots? Tune in to CBS tonight to find out!</p>",
+        "celebrities": [
+            "Carrie Preston"
+        ],
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/02/3142609_0397b-2000x1125.jpg",
+        "date": "Mar 6, 2026",
+        "url": "https://bleedingcool.com/tv/can-elsbeth-comb-through-a-hairy-case-s03e12-alls-hair-preview/"
+    },
+    {
+        "id": "ruxxb1hy8",
+        "title": "Logan Paul’s $1 Million Dare to NFL Stars: Who’s Brave Enough to Step in the Ring?",
+        "excerpt": "Logan Paul’s latest $1 million boxing challenge to NFL players is causing a social media frenzy—will any pro athlete take the bait?",
+        "content": "<p>Logan Paul is at it again, and this time he’s aiming for the NFL! The YouTube-turned-boxer has thrown down a jaw-dropping $1 million challenge to professional football players, daring them to trade their cleats for gloves and step into the boxing ring with him. The internet is buzzing, and reactions are pouring in faster than a viral TikTok trend.</p><p>Known for his high-profile bouts and controversial stunts, Logan’s latest move has fans and athletes alike questioning who, if anyone, will accept the challenge. Will it be a seasoned linebacker ready to prove his toughness, or a wide receiver looking to add a new title to their résumé? One thing’s for sure—Logan Paul knows how to keep the spotlight on himself, and this time, he’s got the entire sports world talking.</p>",
+        "celebrities": [
+            "Logan Paul"
+        ],
+        "image_url": "https://phantom.estaticos-marca.com/e93fa81399ef4e946a68d99f84b5156a/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/06/17727584495292.png",
+        "date": "Mar 6, 2026",
+        "url": "https://www.marca.com/en/wwe/2026/03/06/69aa25e946163fee088b45a6.html"
+    },
+    {
+        "id": "0kqu1k1gn",
+        "title": "Nicole Kidman's Shocking Plan to Spoil Trolled Daughter with 'Nepo Baby' Dream Gift!",
+        "excerpt": "After her teen daughter faced brutal online mockery for modeling, Nicole Kidman is reportedly planning a jaw-dropping surprise to lift her spirits.",
+        "content": "<p>Nicole Kidman is pulling out all the stops to cheer up her 17-year-old daughter, who recently became the target of online trolls after stepping into the fashion spotlight. The teenager, who made her runway debut at Paris Fashion Week in 2024, found herself at the center of a social media storm, with critics quick to mock her modeling debut.</p><p>But Mama Bear Kidman isn't letting the haters win. Sources say the Oscar-winning actress is planning a major 'nepo baby' gift to make her daughter feel like the star she is. Could it be a luxury getaway, a designer wardrobe, or something even more extravagant? Only time will tell, but one thing's for sure—Nicole's got her baby's back!</p>",
+        "celebrities": [
+            "Nicole Kidman"
+        ],
+        "image_url": "https://media.radaronline.com/brand-img/UcgYa4F01/1200x628/nicole-kidman-set-for-ultimate-nepo-baby-gift-to-trolled-daughter-to-make-her-feel-better-after-modeling-mockery-pp-1772738557409.jpg",
+        "date": "Mar 6, 2026",
+        "url": "https://radaronline.com/p/nicole-kidman-nepo-baby-gift-daughter-sunday-rose-modeling-backlash/"
+    },
+    {
         "id": "2gfy2zk48",
         "title": "Eggplant on 'The Masked Singer' Season 14: Who's Hiding Under That Costume?",
         "excerpt": "The mystery of Eggplant on 'The Masked Singer' Season 14 has everyone guessing—could this be your favorite star?",
@@ -544,63 +604,5 @@ export const articles: Article[] = [
         "image_url": "https://s.yimg.com/ny/api/res/1.2/Y_tAgRKnhZ3SV.rNFbOsFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/a9cbcdf964cd4d397a2f71dc75936e11",
         "date": "Feb 25, 2026",
         "url": "https://people.com/lindsey-vonn-reflects-on-hard-day-after-horrific-olympics-crash-11913820"
-    },
-    {
-        "id": "rq3oh7fal",
-        "title": "MasterChef Celebrity Shock: Who Got the Boot in Monday's Explosive Elimination?",
-        "excerpt": "In a jaw-dropping twist, the latest MasterChef Celebrity elimination sent shockwaves through the competition—who's the latest star to pack their knives and go?",
-        "content": "<p>The MasterChef Celebrity kitchen just got a whole lot hotter—and not because of the stoves! Monday night's episode delivered a dramatic elimination that left fans reeling and contestants scrambling. With the competition entering its final stretch, tensions are at an all-time high, and every dish could be someone's last.</p><p>The surprise elimination came after a nail-biting challenge that pushed the remaining celebrities to their culinary limits. Whispers backstage suggest that even the judges were divided on the decision, with some contestants allegedly clashing over who deserved to stay. Could this be the turning point that changes the game entirely?</p><p>As the field narrows, the stakes have never been higher. Who will rise to the top and claim the coveted title? And more importantly, who will crumble under the pressure? Stay tuned as MasterChef Celebrity serves up more drama, tears, and—of course—delicious dishes in the episodes to come.</p>",
-        "celebrities": [],
-        "image_url": "https://fotos.perfil.com/2026/02/23/trim/1140/641/masterchef-celebrity-2190931.jpg",
-        "date": "Feb 24, 2026",
-        "url": "https://caras.perfil.com/noticias/television/el-nuevo-eliminado-en-masterchef-celebrity-en-la-gala-del-lunes-23-de-febrero-empieza-la-recta-final.phtml"
-    },
-    {
-        "id": "ii3xz8cq5",
-        "title": "Jean-Georges' $200M Food Hall Bites the Dust – Balloon Museum to Take Over!",
-        "excerpt": "The glamorous Tin Building by Jean-Georges has shuttered its doors after a rocky run – and the next act might surprise you!",
-        "content": "<p>The Tin Building by Jean-Georges, the luxury food hall that opened with much fanfare in September 2022, has officially closed its doors after struggling with financial troubles and controversy.</p><p>The $200 million South Street Seaport hotspot, backed by celebrity chef Jean-Georges Vongerichten, couldn't keep up with the high costs and high expectations. But don't worry – the space isn't staying empty for long! Word on the street is that it's set to transform into an immersive art Balloon Museum. Talk about a plot twist!</p>",
-        "celebrities": [
-            "Jean-Georges Vongerichten"
-        ],
-        "image_url": "https://api-prod.gothamist.com/images/349144/fill-1200x650|format-webp|webpquality-85/",
-        "date": "Feb 24, 2026",
-        "url": "https://gothamist.com/food/tin-building-by-jean-georges-closes-will-become-an-immersive-art-balloon-museum"
-    },
-    {
-        "id": "p0qc7uvfy",
-        "title": "Maksim Chmerkovskiy’s New Leading Role Will Have You Hooked on ‘Wild Silence’",
-        "excerpt": "The Dancing with the Stars hunk is trading the ballroom for the big screen in this steamy new microdrama!",
-        "content": "<p>Maksim Chmerkovskiy is stepping out of the spotlight and into the leading role of his life with Wild Silence, a sizzling new vertical drama series from Holywater Tech’s My Drama platform. Known for his smoldering moves on Dancing with the Stars, Chmerkovskiy is now ready to captivate audiences in a whole new way.</p><p>This marks the Ukrainian-born heartthrob’s first leading role in a scripted series, and fans are already buzzing about what’s in store. Will his on-screen chemistry rival his iconic DWTS partnerships? Only time will tell, but one thing’s for sure—Maksim is about to prove he’s more than just a dance pro.</p>",
-        "celebrities": [
-            "Maksim Chmerkovskiy"
-        ],
-        "image_url": "https://deadline.com/wp-content/uploads/2026/02/Mara-Brock-Akil.jpg?w=1024",
-        "date": "Feb 24, 2026",
-        "url": "http://deadline.com/2026/02/maksim-chmerkovskiy-vertical-series-wild-silence-my-drama-1236733868/"
-    },
-    {
-        "id": "5z79dw6es",
-        "title": "Drag Race Snatch Game Shocker: Truman Capote, Drew Barrymore, and the Pope Steal the Show!",
-        "excerpt": "Drag Race’s Snatch Game delivers a jaw-dropping twist with unexpected celebrity impersonations that leave everyone guessing.",
-        "content": "<p>Drag Race wouldn’t be Drag Race without Snatch Game, the ultimate test of queens’ improv comedy chops through celebrity impersonation. This season’s episode eight brought a wild mix of characters, including Truman Capote, Drew Barrymore, and even the Pope, leaving fans buzzing. Who nailed it? Who flopped? And what’s next for the remaining queens? Buckle up, because this Snatch Game was anything but predictable.</p><p>With stakes higher than ever, the queens brought their A-game, but not everyone could handle the pressure. From spot-on impressions to cringe-worthy moments, this episode had it all. Will the judges’ critiques shake up the competition? Stay tuned to find out who’s sashaying away next!</p>",
-        "celebrities": [
-            "Truman Capote",
-            "Drew Barrymore",
-            "Pope"
-        ],
-        "image_url": "https://media1.fdncms.com/stranger/imager/u/large/80491388/dragrace-ep8.webp",
-        "date": "Feb 24, 2026",
-        "url": "https://www.thestranger.com/drag/2026/02/23/80491369/drag-race-episode-eight-truman-capote-drew-barrymore-and-the-pope-walk-into-a-bar"
-    },
-    {
-        "id": "j2nb44ik7",
-        "title": "Air India's $400M Makeover: Is This the Future of Celebrity Jet-Set Travel?",
-        "excerpt": "Air India is doubling down on luxury with a $400M cabin upgrade, but who's really flying first class now?",
-        "content": "<p>Move over, Bollywood—Air India is stealing the spotlight with a jaw-dropping $400 million cabin retrofit that's turning heads in the aviation world. Under the Tata Group's ambitious plan, the airline is doubling its premium seats, rolling out plush lounges, and unveiling a brand-new Boeing 787 Dreamliner that screams luxury. But here's the real tea: is this upgrade just for the business elite, or are we about to see our favorite celebrities jet-setting in style?</p><p>Emirates and Lufthansa are also jumping on the bandwagon, spending billions to upgrade their cabins and food-and-beverage selections. But Air India's move is the most talked-about, especially with rumors swirling about A-list passengers lining up for a taste of first-class glamour. Could this be the start of a new era where flying isn't just about getting from point A to B, but about making a statement?</p>",
-        "celebrities": [],
-        "image_url": "https://img.etimg.com/thumb/msid-128727550,width-1200,height-630,imgsize-40754,overlay-economictimes/articleshow.jpg",
-        "date": "Feb 24, 2026",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/airlines-ramp-up-premium-cabins-as-india-business-travel-surges-air-india-leads-upgrade-push/articleshow/128727429.cms"
     }
 ];
