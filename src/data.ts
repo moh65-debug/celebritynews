@@ -11,6 +11,65 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "0us76oz7d",
+        "title": "Timothée Chalamet's Opera Snub Sparks Major Backlash—Did He Just Diss the Arts?",
+        "excerpt": "Timothée Chalamet's casual remark about opera and ballet has the fine arts community—and fans—up in arms!",
+        "content": "<p>Timothée Chalamet is feeling the heat after making a controversial comment about opera and ballet, suggesting that \"no one cares\" about the fine arts. The actor, known for his roles in films like <em>Call Me by Your Name</em> and <em>Dune</em>, faced immediate backlash online after his remarks went viral.</p><p>The Metropolitan Opera House didn't hold back, responding with a cheeky social media post that seemed to call out Chalamet directly. While the actor's comment may have been taken out of context, it's clear that his words struck a nerve with fans and art enthusiasts alike. The debate over whether his statement was a harmless opinion or a disrespectful jab at the arts continues to rage on.</p><p>Will Chalamet address the controversy? Stay tuned as this story develops!</p>",
+        "celebrities": [
+            "Timothée Chalamet"
+        ],
+        "image_url": "https://www.thewrap.com/wp-content/uploads/2026/02/TheWrap-Photos-10-6.jpg",
+        "date": "Mar 7, 2026",
+        "url": "https://www.thewrap.com/culture-lifestyle/social-trends/timothee-chalamet-online-backlash-opera-ballet-comment/"
+    },
+    {
+        "id": "vof6alzm7",
+        "title": "Delroy Lindo Shuts Down N-Word Drama & Spills Oscars Night Secrets!",
+        "excerpt": "Delroy Lindo reveals his surprising BAFTA stage thoughts while shutting down controversy to focus on Oscar night joy!",
+        "content": "<p>Delroy Lindo, the Sinners star, is keeping it classy while the Hollywood rumor mill churns. The veteran actor, known for his magnetic screen presence, has once again gracefully sidestepped the N-word incident that's been making waves in the industry.</p><p>But here's where it gets juicy - Lindo's not just deflecting; he's redirecting our attention to what really matters: Oscar night! Sources close to the star reveal he's been practicing his red carpet strut and perfecting his acceptance speech (just in case!).</p><p>The BAFTA stage incident? Apparently, Lindo's first thought was pure professionalism mixed with a dash of Hollywood magic. Our insider spills that the actor was more focused on delivering a powerful performance than dwelling on controversy.</p><p>Will this strategy pay off on Oscar night? Lindo's betting on it, and so are we! Stay tuned as we watch this class act navigate Hollywood's biggest night with style and grace.</p>",
+        "celebrities": [
+            "Delroy Lindo"
+        ],
+        "image_url": "https://bossip.com/wp-content/uploads/sites/28/2026/03/17728382528731.jpg?quality=80&strip=all&w=1024&crop=0,0,100,683px",
+        "date": "Mar 7, 2026",
+        "url": "https://bossip.com/4516416/sinners-delroy-lindo-reacts-baftas-n-word/"
+    },
+    {
+        "id": "620wnijeo",
+        "title": "Is Jack Schlossberg a Serious Politician, a Fantasist, or Just an Internet Troll? The Truth Revealed!",
+        "excerpt": "Jack Schlossberg claims he's his own campaign manager for New York's 12th Congressional District—but is he serious or just trolling us all?",
+        "content": "<p>Jack Schlossberg, the only grandson of President John F. Kennedy, is making waves with his bid for New York's 12th Congressional District. But who is the real Jack Schlossberg? Is he a serious politician following in the footsteps of his legendary family, a fantasist with big dreams, or just an internet troll playing games with the public?</p><p>With the Camelot legacy looming large, it's no surprise that Schlossberg is stepping into the political arena, just like so many of his family members before him. But as he claims to be his own campaign manager, we can't help but wonder: is this a genuine political move or just another headline-grabbing stunt?</p>",
+        "celebrities": [
+            "Jack Schlossberg",
+            "John F. Kennedy"
+        ],
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/03/newspress-collage-470iqex53-1772837557801.jpg?quality=75&strip=all&1772819679&w=1200",
+        "date": "Mar 7, 2026",
+        "url": "https://nypost.com/2026/03/06/us-news/who-is-the-real-schlossberg-serious-politician-fantasist-internet-troll-or-all-three/"
+    },
+    {
+        "id": "4e3fuxy94",
+        "title": "Portable didn’t beat me; it was paid advert, — Celebrity bodyguard, Kelvin Power",
+        "excerpt": "Meet Kelvin Power, the celebrity bodyguard for Kizz Daniel. He discusses his journey from law student to professional security, acting, and the truth about\n\nRead More: https://punchng.com/portable-didnt-beat-me-it-was-paid-advert-celebrity-bodyguard-kelvin-po…",
+        "content": "<p>Kelvin Atobiloye, popularly known as Kelvin Power, speaks with NAOMI CHIMA about his journey as a bodyguard, bodybuilder, and actor\r\nHow did the nickname, Kelvin Power come about?\r\nThey call me Kelvi… </p>",
+        "celebrities": [],
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/03/06205453/Kevin-Power-1-720x630.webp",
+        "date": "Mar 6, 2026",
+        "url": "https://punchng.com/portable-didnt-beat-me-it-was-paid-advert-celebrity-bodyguard-kelvin-power/"
+    },
+    {
+        "id": "o6203ykka",
+        "title": "Ben Stiller Slams White House for Using 'Tropic Thunder' in Iran War Promo Video",
+        "excerpt": "Ben Stiller is not laughing as the White House uses his hit comedy in a controversial war promo video.",
+        "content": "<p>Ben Stiller is firing back after the White House used clips from his hit comedy <em>Tropic Thunder</em> in a bombastic new video promoting the Trump Administration's stance on Iran. The actor-director took to social media to express his outrage, stating, 'War is not a movie,' and demanding the removal of his film from the controversial promo.</p><p>The video, which has sparked a firestorm on social media, features scenes from several major Hollywood films, including Stiller's 2008 satire. Critics argue the use of comedic clips in a serious political context is tone-deaf and inappropriate, while others question the administration's choice of media to convey its message. Stiller's bold move to call out the White House has reignited debates about the intersection of Hollywood and politics.</p>",
+        "celebrities": [
+            "Ben Stiller"
+        ],
+        "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/MCDTRTH_EC117.jpg?w=1296&h=730&crop=1",
+        "date": "Mar 6, 2026",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/ben-stiller-white-house-tropic-thunder-from-video-1236524041/"
+    },
+    {
         "id": "jzm3ohl1q",
         "title": "Lamar Odom's Shocking New Career Move: From NBA Star to College Basketball Coach!",
         "excerpt": "After a tumultuous battle with addiction, Lamar Odom is making a surprising comeback in the basketball world—this time, on the sidelines!",
@@ -541,68 +600,5 @@ export const articles: Article[] = [
         "image_url": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/02/masked-pugcasso.jpg",
         "date": "Feb 26, 2026",
         "url": "https://www.justjared.com/2026/02/25/who-is-pugcasso-on-the-masked-singer-season-14-clues-guesses-spoilers-revealed/"
-    },
-    {
-        "id": "nkq9mybts",
-        "title": "Giannis’ New Freak 7s Are Here—And They’re *Bold* Enough to Match His Game",
-        "excerpt": "The NBA superstar is serving up fire with his latest Nike drop—and fans are already losing it.",
-        "content": "<p>Giannis Antetokounmpo is back at it again—this time, not on the court, but on the sneaker scene. Nike just dropped the bombshell that his latest signature shoe, the Freak 7, is hitting shelves March 1, 2026, and let’s just say… it’s giving *main character energy*.</p><p>Dubbed the \"Laser Orange\" (or \"Fearless\" if you're feeling extra), these kicks are anything but subtle. Think neon meets crimson meets *pure confidence*. It’s the kind of shoe that says, \"I’m here to dominate—and look good doing it.\" Priced to impress (though Nike hasn’t spilled the exact digits yet), the Freak 7 is already sending sneakerheads and NBA fans into a full-blown frenzy. Will they sell out in minutes? Absolutely. Will Giannis wear them in a game and drop 40? We wouldn’t bet against it.</p>",
-        "celebrities": [
-            "Giannis Antetokounmpo"
-        ],
-        "image_url": "https://www.sneakerfiles.com/wp-content/uploads/2026/02/nike-giannis-freak-7-laser-orange-HF3450-007.jpg",
-        "date": "Feb 25, 2026",
-        "url": "https://www.sneakerfiles.com/nike-giannis-freak-7-laser-orange/"
-    },
-    {
-        "id": "zb9bb55rk",
-        "title": "Kevin Hart and Kenan Thompson's Hilarious Sports Showdown: The Must-See Episode of 'Good Sports'!",
-        "excerpt": "Kevin Hart and Kenan Thompson serve up a side-splitting sports extravaganza that’s got everyone talking!",
-        "content": "<p>Move over, sports analysts—Kevin Hart and Kenan Thompson are here to break down the NFL, NBA, and everything in between with their signature comedic flair. In this episode of 'Good Sports,' the dynamic duo dives into their favorite moments from the wide, weird world of sports, offering colorful commentary that’s as entertaining as it is insightful. From jaw-dropping highlights to side-splitting sketches, Hart and Thompson prove once again why they’re the ultimate dream team for sports fans and comedy lovers alike.</p><p>But it’s not just about the games—this episode is packed with celebrity and athlete interviews that’ll leave you laughing out loud. Whether they’re roasting players or celebrating the most bizarre sports moments, Hart and Thompson bring their A-game to every segment. Don’t miss this episode—it’s a slam dunk of entertainment!</p>",
-        "celebrities": [
-            "Kevin Hart",
-            "Kenan Thompson"
-        ],
-        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
-        "date": "Feb 25, 2026",
-        "url": "https://post.rlsbb.to/good-sports-with-kevin-hart-and-kenan-thompson-s01e12-1080p-web-h264-edith/"
-    },
-    {
-        "id": "ownvgox0o",
-        "title": "Gavin Newsom’s Memoir Fizzles as Jelly Roll’s Wife Steals the Spotlight",
-        "excerpt": "Bunnie XO’s raw and unfiltered memoir outshines California’s governor in a surprising Amazon bestseller battle.",
-        "content": "<p>Governor Gavin Newsom thought he had the literary world buzzing with his new memoir, Young Man in a Hurry, but it seems the spotlight has a mind of its own. While Newsom’s book generated plenty of buzz, it couldn’t quite outshine Bunnie XO, the bold and unfiltered wife of country-turned-hip-hop star Jelly Roll.</p><p>Bunnie’s memoir, Stripped Down: Unfiltered and…, has taken the Amazon charts by storm, leaving Newsom’s political reflections in the dust. It’s a classic case of celebrity intrigue trumping political prose, proving once again that in the world of bestsellers, raw honesty and a dash of drama always win the day.</p>",
-        "celebrities": [
-            "Gavin Newsom",
-            "Jelly Roll",
-            "Bunnie XO"
-        ],
-        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/02/122136130.jpg?quality=75&strip=all&w=1200",
-        "date": "Feb 25, 2026",
-        "url": "https://nypost.com/2026/02/24/us-news/gavin-newsom-is-outshined-by-bunniexos-memoir-on-amazon/"
-    },
-    {
-        "id": "bwfpvqzkt",
-        "title": "Tragic End for Splitsvilla Star: Mayank Pawar’s Shocking Death at 37 Sparks Internet Frenzy",
-        "excerpt": "The fitness icon’s sudden passing has left fans reeling, with his final Instagram post now going viral.",
-        "content": "<p>The entertainment and fitness worlds are in mourning after the sudden and tragic death of Mayank Pawar, the beloved Splitsvilla 7 contestant, at just 37 years old. Known for his chiseled physique, infectious positivity, and seven-time Mr India title, Mayank was a true inspiration to many.</p><p>Fans are still reeling from the news, especially after his last Instagram post began circulating online, sparking an outpouring of tributes and speculation. While the cause of his untimely demise remains unknown, his legacy as a fitness icon and reality TV star continues to shine bright. Mayank’s journey from Splitsvilla fame to becoming a celebrated bodybuilder has left an indelible mark on his followers and the industry alike.</p>",
-        "celebrities": [
-            "Mayank Pawar"
-        ],
-        "image_url": "https://img.etimg.com/thumb/msid-128766989,width-1200,height-630,imgsize-31244,overlay-etpanache/articleshow.jpg",
-        "date": "Feb 25, 2026",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/mayank-pawar-cause-of-death-splitsvilla-7s-most-popular-contestant-dies-at-37-his-last-instagram-post-goes-viral/articleshow/128766792.cms"
-    },
-    {
-        "id": "8pfmivp8h",
-        "title": "Lindsey Vonn Opens Up About Her ‘Dark’ Mental Battle After Brutal Olympics Crash",
-        "excerpt": "The Olympic icon reveals the emotional toll of her shocking injury in a raw, unfiltered moment.",
-        "content": "<p>Lindsey Vonn is giving fans an unfiltered look into her recovery journey after a terrifying crash at the 2026 Winter Olympics left her shaken to her core.</p><p>The former Olympic champion, known for her fearless approach on the slopes, is now opening up about the grueling mental and physical toll of her injury. In a candid moment, Vonn admitted that while the physical pain was intense, the real battle began in her mind.</p><p>“The battle of the mind can be dark and hard and unrelenting,” she shared, offering a rare glimpse into the emotional struggles that often go unseen in the world of elite sports. Fans are rallying behind the star as she navigates this challenging chapter, proving once again that her strength extends far beyond the slopes.</p>",
-        "celebrities": [
-            "Lindsey Vonn"
-        ],
-        "image_url": "https://s.yimg.com/ny/api/res/1.2/Y_tAgRKnhZ3SV.rNFbOsFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/a9cbcdf964cd4d397a2f71dc75936e11",
-        "date": "Feb 25, 2026",
-        "url": "https://people.com/lindsey-vonn-reflects-on-hard-day-after-horrific-olympics-crash-11913820"
     }
 ];
