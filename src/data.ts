@@ -11,6 +11,69 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "kiqwy3k0t",
+        "title": "Spider-Man's Dinner Disaster: Electro Crashes José Andrés' Star-Studded Restaurant Opening!",
+        "excerpt": "Spider-Man and celebrity chef José Andrés team up for a culinary adventure that goes hilariously wrong when Electro turns dinner into a shocking spectacle!",
+        "content": "<p>Move over, Michelin stars—there's a new kind of drama heating up in the kitchen! Spider-Man: Meals to Astonish #1 serves up a sizzling preview where webslinger meets world-renowned chef José Andrés in a culinary clash of epic proportions. But just as the champagne is popped and the amuse-bouche hits the table, Electro crashes the party, turning a glamorous restaurant opening into a shocking spectacle. Talk about a dinner disaster!</p><p>The buzz is already building around this star-studded comic, with foodies and comic fans alike eager to see how Spidey and Andrés handle the electrifying chaos. Will they save the soufflé? Will Electro get a taste of his own medicine? One thing's for sure: this isn't your average superhero showdown—it's a five-star fiasco that's got everyone talking.</p><p>With cameos from the culinary world's biggest names and a plot that's as spicy as Andrés' signature paella, Spider-Man: Meals to Astonish #1 is shaping up to be the must-read comic of the season. Grab your fork (and maybe a fork of lightning) and get ready for a meal that's anything but ordinary!</p>",
+        "celebrities": [
+            "José Andrés",
+            "Spider-Man"
+        ],
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/SMMEALSTA2026001_Preview-4-2000x1125.jpeg",
+        "date": "Mar 8, 2026",
+        "url": "https://bleedingcool.com/comics/spider-man-meals-to-astonish-1-preview-electro-ruins-dinner-plans/"
+    },
+    {
+        "id": "ik8jowok3",
+        "title": "Elizabeth Olsen Steals the Show in Givenchy’s Boudoir Bow Mules at Paris Fashion Week",
+        "excerpt": "Elizabeth Olsen’s latest Parisian look proves she’s the reigning queen of Givenchy’s front row.",
+        "content": "<p>Elizabeth Olsen turned heads at Givenchy’s fall 2026 Paris Fashion Week show, proving once again why she’s a style icon. The actress stepped out in the brand’s iconic black Boudoir Bow mules, pairing them with a cropped blazer and leather joggers for a look that was equal parts chic and edgy.</p><p>The star, who’s been a longtime fan of Givenchy, has been spotted rocking the brand’s designs throughout the Sarah Burton era. This time, she brought her A-game to the Hôtel des Invalides, where the brand’s latest collection was unveiled. With her effortless style and undeniable presence, Elizabeth Olsen reminded us all why she’s a front-row favorite.</p>",
+        "celebrities": [
+            "Elizabeth Olsen"
+        ],
+        "image_url": "https://wwd.com/wp-content/uploads/2026/03/elizabeth-olsen-givenchy-fall-2026-paris-fashion-week-shoes.jpg?w=1000&h=563&crop=1",
+        "date": "Mar 8, 2026",
+        "url": "http://wwd.com/footwear-news/shoe-trends/elizabeth-olsen-givenchy-boudoir-bow-mules-paris-1238656986/"
+    },
+    {
+        "id": "jqew5lkld",
+        "title": "The Shah's Secret Supercar: How Iran's King of Cool Created a 60s Legend",
+        "excerpt": "Before the revolution, Iran was a playground for the rich and famous—and one royal playboy sparked the creation of a supercar that seduced the world's elite.",
+        "content": "<p>Before Iran's 1979 Islamic Revolution, the country was a glitzy, jet-setting playground—especially in Tehran, where Western fashion, music, and fast cars ruled the streets. Under Shah Mohammad Reza Pahlavi, the elite lived like royalty, and one of them decided to take it to the next level.</p><p>Legend has it that the Shah himself was so frustrated by the unreliability of his Ferrari that he commissioned Maserati to build him something better. The result? The jaw-dropping Maserati 5000 GT—a sleek, growling beast of a machine that became the ultimate status symbol for the world's biggest celebrities and playboys in the 1960s. Think Sinatra, Brigitte Bardot, and the Monaco jet set tooling around in this Persian-powered dream car.</p><p>Today, the 5000 GT is a rare gem, a rolling reminder of a time when Iran glittered with excess and ambition. And yes, it all started with a king's whim—and a broken Ferrari.</p>",
+        "celebrities": [
+            "Mohammad Reza Pahlavi",
+            "Frank Sinatra",
+            "Brigitte Bardot"
+        ],
+        "image_url": "https://1gr.cz/tempimg/fb/2026/3/FDVb2a4c90fb6_46000_gt_scia_di_persia.jpeg",
+        "date": "Mar 7, 2026",
+        "url": "https://www.idnes.cz/auto/zpravodajstvi/maserati-5000.A260305_211805_automoto_fdv"
+    },
+    {
+        "id": "c4ar0pyk0",
+        "title": "A&E's Must-Watch Week: Celebrity Secrets & Shocking Bids!",
+        "excerpt": "From shocking storage auctions to Hollywood's deepest secrets, A&E is serving up a week of must-see TV!",
+        "content": "<p>Get ready for a week of jaw-dropping entertainment on A&E! The channel kicks things off with the explosive 16th season premiere of <em>Quem Dá Mais?</em> on March 9th, where fierce bidding wars and hidden treasures take center stage.</p><p>But that's not all—A&E is also rolling out brand-new episodes of <em>Cidade Confidencial</em> and <em>Segredos das Celebridades</em>, diving deep into the scandalous lives of the rich and famous. Think you know everything about your favorite stars? Think again! This week’s lineup promises to spill the tea on Hollywood’s most shocking secrets. Don’t miss out on the drama, the deals, and the dirt—A&E’s got it all!</p>",
+        "celebrities": [],
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAtpPYjCdlJ3v-U2apNSPHAdRMUXCpdttKn9uUqzC3rbJJSOrKCiFQvWeZKcD5gg7XpjjEEH04L21iF8vOFid0VtWrDoRdg5w3BV1QzEtLmVHSeMFR2xpPaYYDzrdePqdvsZ2kXSMPjqNh5wE8mcWRM2MYQIgRIfFPFJG036B785MetEK-pmsV6llCgMOz/w1600/QDM%20(5).jpg",
+        "date": "Mar 7, 2026",
+        "url": "https://www.ouniversodatv.com/2026/03/a-destaques-da-programacao-de-9-15-de.html"
+    },
+    {
+        "id": "e5lwuwpgk",
+        "title": "Cardi B Spotted Partying with Deebo Samuel After Stefon Diggs Split—Is This Her New Flame?",
+        "excerpt": "Cardi B's night out in Phoenix has tongues wagging—was it just a coincidence or a sizzling new romance?",
+        "content": "<p>Cardi B is back in the headlines, and this time it's not just her chart-topping hits making waves. The 'WAP' rapper was spotted vibing at the same Phoenix nightclub as San Francisco 49ers star Deebo Samuel, sparking fresh rumors about her love life. Just weeks after her split from Stefon Diggs, fans are wondering: is Cardi ready to move on with the NFL's hottest wide receiver?</p><p>The two were seen mingling in the same VIP section, laughing, and keeping the energy high all night. While neither has confirmed anything romantic, the timing—right after her breakup—has everyone speculating. Could this be a classic rebound, or is there something more brewing between the Bronx bombshell and the gridiron heartthrob? Stay tuned, because if anyone knows how to keep us guessing, it's Cardi B.</p>",
+        "celebrities": [
+            "Cardi B",
+            "Deebo Samuel",
+            "Stefon Diggs"
+        ],
+        "image_url": "https://phantom.estaticos-marca.com/d32f8c73bf92aad11f722709a73a7f54/crop/0x0/2047x1365/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/07/17729137486587.jpg",
+        "date": "Mar 7, 2026",
+        "url": "https://www.marca.com/en/nfl/washington-commanders/2026/03/07/69ac84cb268e3e972a8b45ad.html"
+    },
+    {
         "id": "0us76oz7d",
         "title": "Timothée Chalamet's Opera Snub Sparks Major Backlash—Did He Just Diss the Arts?",
         "excerpt": "Timothée Chalamet's casual remark about opera and ballet has the fine arts community—and fans—up in arms!",
@@ -543,62 +606,5 @@ export const articles: Article[] = [
         "image_url": "https://s.yimg.com/ny/api/res/1.2/JZdCoBOs8IFIPDBC5CayWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/allcity_network_phoenix_articles_275/cd73d6a5a3117f5cbd01ed0104e0b0e6",
         "date": "Feb 27, 2026",
         "url": "https://gophnx.com/suns-owner-mat-ishbia-looks-restore-power-nba-all-star/"
-    },
-    {
-        "id": "hdglh0x3u",
-        "title": "OMG! These Adorable 4th Graders Are the Ultimate Hype Squad for High School Ballers!",
-        "excerpt": "Move over, celeb fans—these pint-sized cheerleaders are stealing the spotlight!",
-        "content": "<p>These fourth-grade basketball fanatics have been showing up to every Alta High School game, decked out in their mini jerseys, cheering louder than any celeb courtside. The high schoolers are totally here for it, even calling them their 'good luck charm.'</p><p>Now, in a plot twist no one saw coming, the high school team is returning the love, showing up to support their biggest fans at their own games. Talk about squad goals! 🏀💕</p>",
-        "celebrities": [],
-        "image_url": "https://s.yimg.com/ny/api/res/1.2/kYC2Oj379Zwym2rZ6dVE9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/a4061346725c59faa935ca9aaca34367",
-        "date": "Feb 26, 2026",
-        "url": "https://people.com/fourth-graders-and-high-school-basketball-players-go-viral-for-cheering-each-other-on-11914781"
-    },
-    {
-        "id": "3u3y45kfd",
-        "title": "Block Blast! Wins Big at Sensor Tower APAC Awards 2025 – Hungry Studio’s Puzzle Game Takes the Crown!",
-        "excerpt": "Hungry Studio’s Block Blast! has just been crowned ‘Best Puzzle Game’ at the prestigious Sensor Tower APAC Awards 2025, and fans are buzzing!",
-        "content": "<p>Move over, Candy Crush – there’s a new puzzle champ in town! Hungry Studio’s addictive hit, Block Blast!, has officially been named ‘Best Puzzle Game’ at the Sensor Tower APAC Awards 2025, and the gaming world is celebrating.</p><p>The Singapore-based studio’s flagship title took home the top honor, beating out fierce competition in the mobile gaming space. With its colorful blocks, satisfying gameplay, and viral appeal, Block Blast! has become a fan favorite across Asia and beyond. Could this be the start of a new era for puzzle games? Only time will tell!</p>",
-        "celebrities": [],
-        "image_url": "https://img.antaranews.com/cache/1200x800/no-image.jpg",
-        "date": "Feb 26, 2026",
-        "url": "https://en.antaranews.com/news/406122/hungry-studios-block-blast-named-best-puzzle-game-at-sensor-tower-apac-awards-2025"
-    },
-    {
-        "id": "rrkd81681",
-        "title": "NAACP Image Awards Night 3: 'Sinners' Steals Spotlight as Autumn Durald Arkapaw Shines",
-        "excerpt": "Big wins for 'Sinners,' 'Straw,' and a surprise cameo from Gracie's Corner!",
-        "content": "<p>Night 3 of the NAACP Image Awards was a star-studded affair, with Autumn Durald Arkapaw stealing the spotlight for her breathtaking cinematography in 'Sinners.' Meanwhile, Glynn Turman and Teyana Taylor proved why they're Hollywood royalty, snagging TV acting prizes for 'Straw.' The virtual ceremony was a celebration of Black excellence in film, television, and writing, leaving fans buzzing about the night's biggest surprises.</p><p>But the real tea? Gracie's Corner made a surprise appearance, adding a whimsical touch to the evening. With over 4,000 characters of drama, laughter, and inspiration, Night 3 was a reminder of why the NAACP Image Awards remain a cornerstone of recognition for diverse talent in entertainment.</p>",
-        "celebrities": [
-            "Autumn Durald Arkapaw",
-            "Glynn Turman",
-            "Teyana Taylor"
-        ],
-        "image_url": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/02/Untitled-design.png?fit=1200%2C675&quality=80&ssl=1",
-        "date": "Feb 26, 2026",
-        "url": "https://www.thewrap.com/industry-news/awards/naacp-image-awards-sinners-straw-gracies-corner-winners-night-3/"
-    },
-    {
-        "id": "hf1bhj0jn",
-        "title": "Hilary Knight Claps Back at Trump’s ‘Impeachment’ Joke to U.S. Hockey Team",
-        "excerpt": "The U.S. women’s hockey star has a few choice words for the president’s controversial quip.",
-        "content": "<p>Hilary Knight, the star forward of the U.S. women’s hockey team, is setting the record straight after President Donald Trump’s now-viral joke to the men’s hockey team. In a moment that’s sparking both laughter and backlash, Trump reportedly told the victorious men’s team he’d ‘probably’ be impeached if he didn’t invite the women’s team to the State of the Union.</p><p>But Knight isn’t letting the comment slide without a response. In an exclusive interview, the Olympic gold medalist opened up about the team’s dynamic with their male counterparts and how they’re handling the unexpected spotlight. ‘We’re focused on our game, not the politics,’ Knight said, though she couldn’t resist adding a playful jab at the president’s expense. Stay tuned as this icy feud heats up!</p>",
-        "celebrities": [
-            "Hilary Knight",
-            "Donald Trump"
-        ],
-        "image_url": "https://s.yimg.com/ny/api/res/1.2/hiNcv7Aieui2ZH4bvSI0AQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/79e7a480ea0074c87de9f045ae5a8fd8",
-        "date": "Feb 26, 2026",
-        "url": "https://people.com/hilary-knight-responds-distasteful-joke-trump-told-us-mens-hockey-team-after-olympics-11914762"
-    },
-    {
-        "id": "q5m1scixe",
-        "title": "OMG! Pugcasso’s Identity on ‘The Masked Singer’ Season 14 Is Finally Exposed! 🤯",
-        "excerpt": "The mystery is solved! Pugcasso’s true identity on ‘The Masked Singer’ is revealed—get ready for a jaw-dropping twist!",
-        "content": "<p>OMG, you guys! ‘The Masked Singer’ is back and better than ever with Season 14! 🎤✨ The latest episode aired on Wednesday, February 25, and let’s just say, the drama is *chef’s kiss*!</p><p>For those living under a rock, this hit FOX singing competition started in South Korea and has taken the world by storm. Celebs are singing their hearts out while hiding behind these wild costumes and masks—talk about keeping us on the edge of our seats! 🐾🎭</p><p>But wait, the real tea? Pugcasso’s identity is FINALLY out! Who could it be? Fans are losing it over the clues, guesses, and spoilers that have been swirling. Could it be a pop star? A reality TV icon? Or someone totally unexpected? 👀</p><p>Stay tuned because this season is serving *all* the drama, laughs, and jaw-dropping reveals. Trust us, you won’t want to miss a single second of the madness! 🍿🎬</p>",
-        "celebrities": [],
-        "image_url": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/02/masked-pugcasso.jpg",
-        "date": "Feb 26, 2026",
-        "url": "https://www.justjared.com/2026/02/25/who-is-pugcasso-on-the-masked-singer-season-14-clues-guesses-spoilers-revealed/"
     }
 ];
