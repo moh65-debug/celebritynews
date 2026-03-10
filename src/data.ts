@@ -11,6 +11,69 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "7wrd5pfmt",
+        "title": "Natalia Oreiro, Celeste Cid, la China Suárez y Wanda Nara: Los Mensajes que Arrasaron en el Día de la Mujer",
+        "excerpt": "Las famosas más queridas y polémicas del país no se quedaron calladas y llenaron las redes de mensajes poderosos.",
+        "content": "<p>El 8 de marzo se vivió con intensidad en el mundo del espectáculo. Desde figuras consolidadas hasta las más polémicas, todas se sumaron al Día Internacional de la Mujer con publicaciones que generaron revuelo. Natalia Oreiro compartió un mensaje cargado de empoderamiento, mientras que Celeste Cid sorprendió con una reflexión profunda sobre la sororidad. Por supuesto, la China Suárez y Wanda Nara no se quedaron atrás: la primera publicó una foto en blanco y negro con un texto que encendió las redes, y la segunda, como siempre, generó debate con su particular forma de conmemorar la fecha.</p><p>El fenómeno no pasó desapercibido: cada posteo sumó miles de likes, comentarios y hasta polémicas entre seguidores. En una jornada que invita a la reflexión, las famosas demostraron que también tienen voz propia y que no temen usarla para hablar de igualdad, lucha y derechos. Sin dudas, el Día de la Mujer 2026 quedará marcado por las postales y palabras de estas celebridades que, una vez más, dieron que hablar.</p>",
+        "celebrities": [
+            "Natalia Oreiro",
+            "Celeste Cid",
+            "la China Suárez",
+            "Wanda Nara"
+        ],
+        "image_url": "https://fotos.perfil.com/2026/03/09/trim/1140/641/wanda-nara-natalia-oreiro-celeste-cid-china-suarez-2198932.jpg",
+        "date": "Mar 9, 2026",
+        "url": "https://caras.perfil.com/noticias/celebridades/natalia-oreiro-celeste-cid-china-suarez-wanda-nara-dia-internacional-de-la-mujer.phtml"
+    },
+    {
+        "id": "8k7jgxto0",
+        "title": "The Pitt Dominates the 2026 WGA Awards Despite Half the Show Being Canceled!",
+        "excerpt": "The Pitt steals the spotlight at the 2026 WGA Awards, but why was half the ceremony canceled?",
+        "content": "<p>The 2026 Writers Guild of America Awards turned into a tale of two ceremonies this year, with The Pitt emerging as the big winner despite the drama behind the scenes. While the WGA-East event went off without a hitch, the WGA-West awards were abruptly canceled due to an ongoing strike, leaving half the industry in the lurch.</p><p>Still, The Pitt managed to shine, snagging two major wins and proving that even in turbulent times, talent can't be silenced. Fans are already buzzing about what this means for the show's future and whether it’ll dominate the upcoming awards season. Stay tuned for more updates on this juicy Hollywood story!</p>",
+        "celebrities": [],
+        "image_url": "https://pyxis.nymag.com/v1/imgs/ce7/ac9/39957bb012f05009831acef31aa9a8b323-colbert-wgas.1x.rsocial.w1200.jpg",
+        "date": "Mar 9, 2026",
+        "url": "http://www.vulture.com/article/wga-awards-2026-full-winners-list.html"
+    },
+    {
+        "id": "e2mh0tdqh",
+        "title": "Jessica Alba & Joe Burrow Dating? Fans Are Buzzing, But Hold Up—Here's the Real Scoop!",
+        "excerpt": "Rumors are swirling that Jessica Alba and NFL star Joe Burrow are Hollywood's newest power couple—but is there any truth to the gossip?",
+        "content": "<p>Is Jessica Alba trading red carpets for the football field? That's what fans were asking after a viral moment sparked dating rumors between the actress and Cincinnati Bengals quarterback Joe Burrow. The buzz started when the two were spotted together, sending social media—especially X (formerly Twitter)—into a full-blown frenzy.</p><p>But before you start picturing a glamorous Hollywood-meets-NFL romance, hold the phone. According to TMZ, the rumors are officially shut down. Alba and Burrow are not dating, sources confirm. Still, the internet can't help but wonder—what were they doing together? Was it a friendly meet-up, a business connection, or just a case of being in the right place at the right time? Whatever the case, fans are already shipping them hard… even if it's just wishful thinking.</p>",
+        "celebrities": [
+            "Jessica Alba",
+            "Joe Burrow"
+        ],
+        "image_url": "https://phantom.estaticos-marca.com/293de88cc84f7c65243cac7a8e45da4d/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/09/17730184128441.jpg",
+        "date": "Mar 9, 2026",
+        "url": "https://www.marca.com/en/nfl/cincinnati-bengals/2026/03/09/69ae1d7be2704e47448b45b1.html"
+    },
+    {
+        "id": "db3mbihgl",
+        "title": "Travis Kelce's Big NFL Decision: Will He Stay or Go?",
+        "excerpt": "Travis Kelce is on the brink of a major career move that could change everything.",
+        "content": "<p>Travis Kelce is facing a pivotal moment this NFL offseason as he contemplates whether to continue his legendary career with the Kansas City Chiefs. The all-time great tight end has fans and analysts alike buzzing with speculation about his next move.</p><p>While some believe Kelce might hang up his cleats, insiders suggest there's a strong possibility he'll lace them up for another season. Stay tuned as this football icon weighs his options and keeps the sports world on the edge of their seats!</p>",
+        "celebrities": [
+            "Travis Kelce"
+        ],
+        "image_url": "https://s.yimg.com/os/en/the_big_lead_articles_114/238380b69b309775790a3652fb2f5c85",
+        "date": "Mar 9, 2026",
+        "url": "https://www.thebiglead.com/chiefs-star-travis-kelce-appears-motivated-continue-nfl-career/"
+    },
+    {
+        "id": "w59hs1bru",
+        "title": "Joe Burrow's Night Out: NFL Star Spotted Cozy with Jessica Alba in Vegas!",
+        "excerpt": "Cincinnati Bengals quarterback Joe Burrow is making headlines not just for his on-field prowess, but for his off-field rendezvous with Hollywood star Jessica Alba.",
+        "content": "<p>Joe Burrow, the Cincinnati Bengals' star quarterback, is proving he's as skilled in the social scene as he is on the football field. The former LSU standout, known for his elite NFL play, was recently spotted cozying up with none other than Hollywood icon Jessica Alba at a Las Vegas casino. This unexpected pairing has fans buzzing about the nature of their relationship.</p><p>Since being drafted in 2020, Burrow has been a powerhouse for the Bengals, leading them to new heights. But it seems his charm isn't limited to the gridiron. The sighting of Burrow and Alba together has sparked curiosity and speculation among fans and media alike, adding a dash of celebrity intrigue to the NFL star's already impressive resume.</p>",
+        "celebrities": [
+            "Joe Burrow",
+            "Jessica Alba"
+        ],
+        "image_url": "https://www.thebiglead.com/wp-content/uploads/2026/03/default-573-scaled.jpg",
+        "date": "Mar 9, 2026",
+        "url": "https://www.thebiglead.com/nfl-star-joe-burrow-cozies-with-jessica-alba-las-vegas-casino/"
+    },
+    {
         "id": "kiqwy3k0t",
         "title": "Spider-Man's Dinner Disaster: Electro Crashes José Andrés' Star-Studded Restaurant Opening!",
         "excerpt": "Spider-Man and celebrity chef José Andrés team up for a culinary adventure that goes hilariously wrong when Electro turns dinner into a shocking spectacle!",
@@ -547,64 +610,5 @@ export const articles: Article[] = [
         "image_url": "https://fstoppers.com/s3/files/styles/medium/s3/lead/2026/02/iss_27836_00717.jpg?itok=cyutsaP9",
         "date": "Feb 28, 2026",
         "url": "https://fstoppers.com/news/10-biggest-photography-stories-february-2026-900372"
-    },
-    {
-        "id": "ayl7e0xom",
-        "title": "Tragic Loss: Virginia College Baseball Star Joey Raccuia Dies at 19 in Horrific Car Crash",
-        "excerpt": "In a heartbreaking turn of events, the Radford University baseball community is mourning the sudden loss of rising star Joey Raccuia.",
-        "content": "<p>The Radford University baseball family is in mourning after 19-year-old Joey Raccuia tragically lost his life in a single-vehicle crash near the school stadium. The promising young athlete, whose future in baseball seemed bright, was killed in the accident that has left teammates and coaches devastated.</p><p>In a heartfelt social media tribute, the Radford University baseball team shared the devastating news: \"We are heartbroken to share news of the passing of Joey Raccuia.\" The statement, posted on the team's official account, has since been flooded with condolences from fans, fellow athletes, and community members.</p><p>Sources close to the team revealed that Raccuia was known for his infectious smile and dedication to the sport, often staying late after practice to perfect his swing. \"Joey was the kind of player who made everyone around him better,\" said one teammate, who requested anonymity. \"This is a loss that will be felt for a long time.\"</p><p>The university has not released details about the crash, but the incident has sparked an outpouring of support for Raccuia's family and friends. As the Radford community grapples with this tragedy, many are left wondering what could have been for this young athlete whose life was cut far too short.</p>",
-        "celebrities": [],
-        "image_url": "https://s.yimg.com/ny/api/res/1.2/9bvUJwaGnlcTzgFsccyZxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/56c64d331a43e06d1278006ad3dd932d",
-        "date": "Feb 27, 2026",
-        "url": "https://people.com/virginia-college-baseball-player-dies-19-after-crashing-his-car-near-school-stadium-11915700"
-    },
-    {
-        "id": "xjlpzux2g",
-        "title": "Elsbeth's Shocking Twist! Hamish Linklater Joins as a Murderous Tech Mogul",
-        "excerpt": "Is immortality worth killing for? Find out in tonight's jaw-dropping Elsbeth episode!",
-        "content": "<p>Buckle up, Elsbeth fans—tonight's episode is serving major drama! Guest star Hamish Linklater (Gen V) steps into the role of a tech-entrepreneur whose obsession with eternal life might just land him in hot water… or worse, prison. Could his quest for immortality have driven him to murder?</p><p>The masterminds behind the hit CBS series, EPs Robert King and Michelle King, are pulling out all the stops for this one. With Carrie Preston leading the charge, the show’s return is anything but ordinary. Spoiler alert: this episode is packed with twists, turns, and enough suspense to keep you on the edge of your seat.</p><p>Don’t miss S03E11: 'Ol' Man Liver'—it’s the kind of episode that’ll have you talking for days. Tune in and see if Linklater’s character can outsmart Elsbeth… or if justice will prevail. Either way, it’s going to be a wild ride!</p>",
-        "celebrities": [
-            "Hamish Linklater",
-            "Carrie Preston",
-            "Robert King",
-            "Michelle King"
-        ],
-        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/01/3138210_2958bc-2000x1125.jpg",
-        "date": "Feb 27, 2026",
-        "url": "https://bleedingcool.com/tv/elsbeth-s03e11-ol-man-liver-preview-an-unhealthy-dose-of-murder/"
-    },
-    {
-        "id": "w50yijaze",
-        "title": "The Shocking Truth: Why Most Cats Can't Stand Water",
-        "excerpt": "Prepare to be amazed by the incredible story of the British Navy's only feline sailor!",
-        "content": "<p>Ever wondered why cats seem to despise water? We've all heard the saying, but is it really true? In a fascinating new episode of Popular Science's 'Ask Us Anything' podcast, we dive deep into the mysterious world of our feline friends and their relationship with H2O.</p><p>From the curious case of the British Navy's only kitty sailor to the science behind why most cats would rather stay dry, this episode is a must-listen for any cat lover or trivia enthusiast. So, grab your favorite beverage, curl up with your furry companion, and get ready to have your mind blown by the surprising facts about cats and water!</p>",
-        "celebrities": [],
-        "image_url": "https://www.popsci.com/wp-content/uploads/2026/02/why-cats-hate-water.jpg?quality=85&w=1200",
-        "date": "Feb 27, 2026",
-        "url": "http://www.popsci.com/environment/why-cats-hate-water-podcast/"
-    },
-    {
-        "id": "gfcbvq0h4",
-        "title": "Soulja Boy’s AI Clone Is Taking Fan Calls—And It’s Wildly Convincing",
-        "excerpt": "Soulja Boy just launched an eerily lifelike AI version of himself, and fans can’t get enough of chatting with the digital rapper.",
-        "content": "<p>Soulja Boy is stepping into the future—literally. The rapper has teamed up with Bland AI to launch a phone-based voice clone that fans can call and chat with in real time. Yes, you read that right: an AI version of Soulja Boy is now holding natural, flowing conversations that blend his signature style with a touch of futuristic flair.</p><p>The tech is so convincing, it’s giving fans a surreal experience, mixing nostalgia with cutting-edge innovation. Whether it’s dishing out throwback lyrics or just vibing, this AI clone is proving that celebrity interaction is about to get a major upgrade. Soulja Boy’s move is a playful yet revealing glimpse into how AI is reshaping the way stars connect with their audience—and it’s already got fans buzzing.</p>",
-        "celebrities": [
-            "Soulja Boy"
-        ],
-        "image_url": "https://cdn.mos.cms.futurecdn.net/zhRfoRJMzbMNBMPZJ4HbYo-1920-80.png",
-        "date": "Feb 27, 2026",
-        "url": "https://www.techradar.com/ai-platforms-assistants/i-called-soulja-boys-new-ai-voice-clone-and-had-an-uncanny-chat"
-    },
-    {
-        "id": "ghrd3f1tr",
-        "title": "Suns Owner Mat Ishbia Drops $1 Million Bombshell to Revive NBA All-Star Weekend!",
-        "excerpt": "Suns owner Mat Ishbia is shaking up the NBA with a jaw-dropping $1 million prize plan for All-Star Weekend in Phoenix!",
-        "content": "<p>Suns owner Mat Ishbia is making waves in the NBA world after appearing on ESPN's 'The Pat McAfee Show' with a game-changing proposal to breathe new life into All-Star Weekend. The billionaire businessman, known for his bold moves both on and off the court, revealed plans to inject a whopping $1 million in prize money to make the annual event more exciting and competitive.</p><p>With Phoenix set to host this year's festivities, Ishbia's vision includes revamping traditional events and adding new challenges that could have players fighting for more than just bragging rights. The NBA community is buzzing with speculation about which stars might step up their game for a chance at the massive payday.</p>",
-        "celebrities": [
-            "Mat Ishbia"
-        ],
-        "image_url": "https://s.yimg.com/ny/api/res/1.2/JZdCoBOs8IFIPDBC5CayWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/allcity_network_phoenix_articles_275/cd73d6a5a3117f5cbd01ed0104e0b0e6",
-        "date": "Feb 27, 2026",
-        "url": "https://gophnx.com/suns-owner-mat-ishbia-looks-restore-power-nba-all-star/"
     }
 ];
