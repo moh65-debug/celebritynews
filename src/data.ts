@@ -11,6 +11,68 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "5hopqrlv5",
+        "title": "Heated Rivalry Stars Call Out Fans: ‘Stop the Hate or Get Out!’",
+        "excerpt": "The cast of Heated Rivalry just shut down toxic fans with a fiery message—don’t call yourself a supporter if you’re spreading bigotry!",
+        "content": "<p>The stars of Heated Rivalry are firing back at online hate, and it’s getting spicy! Co-stars Hudson Williams, François Arnaud, and Ksenia Daniela Kharlamova took to social media to slam prejudiced comments from so-called fans.</p><p>Hudson didn’t hold back, calling out the hypocrisy of ‘supporters’ who hide behind keyboards to spew hate. François chimed in with a heartfelt plea for kindness, while Ksenia reminded everyone that fandom should be about love, not bigotry. The trio’s united front has fans cheering—and haters scrambling to log off.</p>",
+        "celebrities": [
+            "Hudson Williams",
+            "François Arnaud",
+            "Ksenia Daniela Kharlamova"
+        ],
+        "image_url": "https://deadline.com/wp-content/uploads/2026/01/Heated-Rivalry-Whole-Cast-2.jpg?w=1024",
+        "date": "Mar 10, 2026",
+        "url": "http://deadline.com/2026/03/heated-rivalry-cast-condemns-online-hate-1236748530/"
+    },
+    {
+        "id": "2ylpd60vh",
+        "title": "Portable Unleashes Savage Jabs at Carter Efe Ahead of Explosive Celebrity Boxing Showdown!",
+        "excerpt": "The feud heats up as Portable takes aim at Carter Efe and his trainer Small Doctor in a fiery pre-fight rant.",
+        "content": "<p>In a dramatic escalation of their ongoing rivalry, controversial Nigerian singer Portable has fired fresh shots at fellow entertainer Carter Efe ahead of their highly anticipated celebrity boxing match. The 'Zazuu' crooner didn't hold back, mocking Carter Efe's training partner Small Doctor in a series of scathing remarks that have set social media ablaze.</p><p>The bout, dubbed 'Chaos in the Ring,' is scheduled for May 1 at the prestigious Federal Palace Hotel in Lagos, and tensions are already running high. Portable's latest tirade has fans speculating whether this fight will be as entertaining outside the ring as it promises to be inside it. Will Carter Efe respond with his own verbal jabs, or will he let his fists do the talking on fight night?</p>",
+        "celebrities": [
+            "Portable",
+            "Carter Efe",
+            "Small Doctor"
+        ],
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/03/09215613/Portable-1200x630.jpg",
+        "date": "Mar 10, 2026",
+        "url": "https://punchng.com/portable-fires-carter-efe-warning-ahead-boxing-clash/"
+    },
+    {
+        "id": "s4ztpw1ut",
+        "title": "Inside Hollywood’s Wildest Oscar Week 2026 Party Marathon!",
+        "excerpt": "From Vanity Fair to Elton John, see which A-listers are turning Oscar week into a non-stop bash!",
+        "content": "<p>It's that time of year again—when Hollywood trades red carpets for champagne flutes and tuxes for dancing shoes. Oscar week is here, and the party circuit is hotter than ever, with A-listers flocking to the most exclusive soirées in town.</p><p>From the star-studded Vanity Fair bash to Elton John's legendary Oscar party, the glitterati are out in full force, sipping bubbly and rubbing elbows with the crème de la crème. But who's really stealing the spotlight this year? We've got the inside scoop on the can't-miss events and the celebs making waves.</p>",
+        "celebrities": [
+            "Elton John"
+        ],
+        "image_url": "https://deadline.com/wp-content/uploads/2026/03/Oscar-Parties-2026.jpg?w=1024",
+        "date": "Mar 10, 2026",
+        "url": "http://deadline.com/2026/03/oscar-party-list-2026-1236748228/"
+    },
+    {
+        "id": "niunynxpq",
+        "title": "Rihanna's Beverly Hills Home Under Attack: Shots Fired While She's Inside with Her Kids!",
+        "excerpt": "Pop icon Rihanna's Beverly Hills mansion becomes the target of a shocking drive-by shooting—and she was home with her children.",
+        "content": "<p>In a terrifying incident that has left fans and the entertainment world shaken, Rihanna's luxurious Beverly Hills home was targeted in a drive-by shooting on Sunday afternoon. Law enforcement sources confirm that multiple rounds were fired from a moving vehicle toward the global pop star's property while she was inside with her three children.</p><p>The Barbados-born singer, known for hits like 'Umbrella' and 'Diamonds,' has built a billion-dollar empire and remains one of the most influential figures in music and fashion. While details about the motive remain scarce, the brazen nature of the attack has raised serious concerns about the safety of high-profile celebrities and their families. Authorities are currently investigating the incident, reviewing security footage, and working to identify the suspects involved in this brazen act of violence.</p>",
+        "celebrities": [
+            "Rihanna"
+        ],
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Mar 10, 2026",
+        "url": "https://alltoc.com/tabloid/why-was-rihanna-s-house-shot-at"
+    },
+    {
+        "id": "vnkg1srf9",
+        "title": "Exclusive: $6.5 Million Miami Modernist Mansion Gets a Glamorous Makeover",
+        "excerpt": "A historic 1940s gem gets a bold, modern twist in this star-studded Miami enclave.",
+        "content": "<p>Just north of Miami’s buzzing Design District lies Morningside, a guard-gated waterfront paradise where Art Deco charm meets modern luxury. This leafy enclave, built in the 1920s and ’30s, has long been a magnet for the rich and famous—and now, a reimagined 1940s modernist masterpiece is turning heads.</p><p>Originally crafted by visionary architect Rufus Nims, this bold beauty has been given a fresh, contemporary edge by designer Gabriele Liebert. With sleek lines, open spaces, and a touch of old-school glam, it’s the kind of home that screams ‘A-list retreat.’</p><p>Priced at a cool $6.5 million, this Morningside stunner is already sparking whispers of who might be the next lucky owner. Could it be a Hollywood heavyweight, a chart-topping musician, or maybe even a reality TV royalty? One thing’s for sure—this home is ready for its close-up.</p>",
+        "celebrities": [],
+        "image_url": "https://robbreport.com/wp-content/uploads/2026/03/5261NE5th-Street_MIA_FI1.jpg?w=681&h=383&crop=1",
+        "date": "Mar 10, 2026",
+        "url": "http://robbreport.com/shelter/homes-for-sale/skyfin-miami-home-rufus-krum-gabriele-liebert-1237672303/"
+    },
+    {
         "id": "7wrd5pfmt",
         "title": "Natalia Oreiro, Celeste Cid, la China Suárez y Wanda Nara: Los Mensajes que Arrasaron en el Día de la Mujer",
         "excerpt": "Las famosas más queridas y polémicas del país no se quedaron calladas y llenaron las redes de mensajes poderosos.",
@@ -555,60 +617,5 @@ export const articles: Article[] = [
         "image_url": "https://cdn.mos.cms.futurecdn.net/zAR2LPcpQhkA7g7qfJwZDA-1280-80.jpg",
         "date": "Mar 1, 2026",
         "url": "https://www.cinemablend.com/television/after-watching-reality-check-5-2000s-reality-shows-need-docuseries-treatment"
-    },
-    {
-        "id": "azcrztlpa",
-        "title": "Wanda Nara’s Italian Getaway Turns Scandalous: A Deleted Photo Sparks Fury",
-        "excerpt": "Wanda Nara’s dreamy Milan vacation took a dramatic turn when a single photo ignited a firestorm of controversy.",
-        "content": "<p>Wanda Nara, the glamorous host of MasterChef Celebrity, has jetted off to Italy with her beau, Martín Migueles, for a luxurious post-show getaway. The couple checked into the ultra-exclusive Armani Hotel Milano, where they’ve been soaking up the dolce vita. But just as fans were swooning over their romantic escape, Wanda found herself in hot water.</p><p>A seemingly innocent photo shared on her social media quickly spiraled into a full-blown scandal. The post, which Wanda promptly deleted, had already been captured and circulated by eagle-eyed followers. Now, the internet is buzzing with speculation about what the controversial image could mean for the star’s image and relationship. Will this be just another blip in Wanda’s headline-making life, or is there more to the story? Stay tuned as the drama unfolds.</p>",
-        "celebrities": [
-            "Wanda Nara",
-            "Martín Migueles"
-        ],
-        "image_url": "https://fotos.perfil.com/2026/02/28/trim/1140/641/wanda-nara-y-martin-migueles-2194043.jpg",
-        "date": "Feb 28, 2026",
-        "url": "https://caras.perfil.com/noticias/celebridades/wanda-nara-y-martin-migueles-viajaron-a-milan-pero-una-foto-desato-la-polemica.phtml"
-    },
-    {
-        "id": "7xw0v4l2d",
-        "title": "Jeff Probst Drops Bombshell: Why ‘Survivor’s’ 50th Season Podcast Is Taking a Break!",
-        "excerpt": "Jeff Probst reveals the shocking reason behind the hiatus of ‘Survivor’s’ milestone 50th season podcast.",
-        "content": "<p>In a surprising twist, Jeff Probst, the iconic host of ‘Survivor,’ has announced that the official podcast for the show’s 50th season is hitting pause. This decision comes as the milestone season is set to feature one of the most thrilling game designs in the show’s history.</p><p>Probst shared in a statement to Variety, “‘Survivor’ 50 was designed as a celebration, and it features one of the most exciting game designs we’ve ever done.” Fans are buzzing with speculation about what this could mean for the beloved reality series. Will the hiatus impact the show’s dynamic? Only time will tell, but one thing’s for sure—Season 50 is shaping up to be unforgettable!</p>",
-        "celebrities": [
-            "Jeff Probst"
-        ],
-        "image_url": "https://variety.com/wp-content/uploads/2026/02/3051569_18980b_1.jpg?w=1000&h=563&crop=1",
-        "date": "Feb 28, 2026",
-        "url": "https://variety.com/2026/tv/news/survivor-podcast-hiatus-season-50-jeff-probst-1236674959/"
-    },
-    {
-        "id": "sbr9k2m4r",
-        "title": "Michele Tafoya's Shocking Claim: '30% of Californians Homeless' - Is She Out of Touch?",
-        "excerpt": "Michele Tafoya's jaw-dropping claim about California's homeless population has the internet buzzing - but is she living in a different reality?",
-        "content": "<p>Hold onto your hats, folks, because Michele Tafoya just dropped a bombshell that's got everyone talking! During a recent appearance on Fox's Gutfeld!, the Minnesota U.S. Senate candidate made a bold (and wildly inaccurate) statement that's got the internet in a frenzy.</p><p>Ready for this? Tafoya claimed that 'almost 30% of Californians are homeless.' Yep, you read that right - 30%! But before you start planning a mass exodus from the Golden State, let's get real for a second. The actual figure? A mere 0.47%. That's right, folks - Tafoya was off by a whopping 6,000%!</p><p>So, what gives? Is Tafoya living in some alternate universe where California has become a post-apocalyptic wasteland? Or maybe she's just trying to make Minnesota look extra appealing to potential residents. Either way, her claim has sparked a wildfire of reactions across social media, with many questioning her grasp on reality.</p><p>One thing's for sure - this gaffe is sure to follow Tafoya throughout her campaign. Will she address the elephant in the room, or will she double down on her claims? Only time will tell, but one thing's certain: this is one political blunder that's going to be tough to live down!</p>",
-        "celebrities": [],
-        "image_url": "https://www.mediaite.com/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-8-52-38-PM-scaled.jpg",
-        "date": "Feb 28, 2026",
-        "url": "https://www.mediaite.com/media/tv/senate-candidate-michele-tafoya-wildly-claims-almost-30-of-californians-are-homeless/"
-    },
-    {
-        "id": "5wnntgk4s",
-        "title": "Inside the Censored World: Shocking Deleted Content Revealed!",
-        "excerpt": "The latest scoop on what China’s censors don’t want you to see—exclusive deleted content uncovered!",
-        "content": "<p>Hold onto your hats, because we’ve got the inside scoop on what’s been getting the axe in China! CDT’s latest “404 Deleted Content Archive” is spilling the tea on all the juicy, censored content that’s been scrubbed from platforms like WeC. From scandalous posts to controversial takes, this monthly roundup is your VIP pass to the hidden world of online censorship. Spoiler alert: it’s juicier than you think!</p><p>Each month, CDT digs deep to uncover the content that’s been blocked or deleted, leaving users with that dreaded “404: content not found” message. But don’t worry—we’re here to fill you in on what you’ve been missing. Whether it’s celebrity drama, political hot takes, or just plain weird stuff, this archive is your one-stop shop for the gossip the censors don’t want you to see. Stay tuned, because this is just the beginning!</p>",
-        "celebrities": [],
-        "image_url": "https://chinadigitaltimes.net/wp-content/uploads/2026/02/Yang_Guifei_Statue.png",
-        "date": "Feb 28, 2026",
-        "url": "https://chinadigitaltimes.net/2026/02/cdts-404-deleted-content-archive-summary-for-january-2026-part-two/"
-    },
-    {
-        "id": "j9w3d3uvz",
-        "title": "Shocking Revelations: The 10 Biggest Photography Stories of February 2026 That Left the Industry Stunned",
-        "excerpt": "From unexpected comebacks to jaw-dropping announcements, February 2026 proved to be a month of seismic shifts in the photography world.",
-        "content": "<p>The photography industry emerged from its post-CES slumber in February 2026, and boy, did it deliver! With CP+ making its triumphant return to Yokohama, the stage was set for a month of groundbreaking announcements and surprising twists that had everyone talking.</p><p>From major camera manufacturers unveiling their most ambitious projects yet to industry veterans making unexpected career moves, February proved that the world of photography is anything but predictable. The buzz around CP+ was electric, with insiders whispering about revolutionary new technologies and long-awaited product launches that could change the game forever.</p><p>But it wasn't just about the gear. The month also saw some of the biggest names in photography making headlines for reasons beyond their work behind the lens. Whether it was controversial statements, shocking collaborations, or unexpected retirements, February 2026 kept the industry on its toes and left us all wondering what's next.</p>",
-        "celebrities": [],
-        "image_url": "https://fstoppers.com/s3/files/styles/medium/s3/lead/2026/02/iss_27836_00717.jpg?itok=cyutsaP9",
-        "date": "Feb 28, 2026",
-        "url": "https://fstoppers.com/news/10-biggest-photography-stories-february-2026-900372"
     }
 ];
