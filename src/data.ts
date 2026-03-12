@@ -11,6 +11,67 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "nvd86l8oz",
+        "title": "Mickey Rourke's Hollywood Nightmare: Evicted from LA Pad After Last-Ditch Drama",
+        "excerpt": "The actor's eviction saga takes a shocking turn as his LA home slips through his fingers.",
+        "content": "<p>Mickey Rourke's Hollywood dream has officially crashed and burned. The 68-year-old actor has been given the boot from his swanky Los Angeles rental, with court documents revealing that his former Drexel Ave. pad is now back in the landlord's hands.</p><p>This eviction drama has been months in the making, with Rourke reportedly scrambling to avoid the inevitable. Just when you thought things couldn't get messier, new details have emerged about the actor's desperate attempts to cling to his LA lifestyle. From rumored fundraisers to last-minute legal maneuvers, Rourke's eviction saga reads like a Hollywood script gone wrong.</p>",
+        "celebrities": [
+            "Mickey Rourke"
+        ],
+        "image_url": "https://pagesix.com/wp-content/uploads/sites/3/2026/03/123259629.jpg?quality=75&strip=all&w=1200",
+        "date": "Mar 11, 2026",
+        "url": "https://pagesix.com/2026/03/10/celebrity-news/mickey-rourke-officially-kicked-out-of-la-home/"
+    },
+    {
+        "id": "n5llmmnvx",
+        "title": "Esteban Mirol Exposes Wanda Nara's Alleged Bad Behavior on MasterChef Celebrity",
+        "excerpt": "Esteban Mirol drops shocking allegations about Wanda Nara's alleged mistreatment on MasterChef Celebrity!",
+        "content": "<p>In a bombshell revelation, journalist Esteban Mirol has come forward with explosive claims about Wanda Nara's behavior on the set of MasterChef Celebrity. The accusations come hot on the heels of a domestic employee's recent allegations against the Argentine socialite.</p><p>During an appearance on the talk show 'A la tarde,' Mirol didn't hold back, adding fuel to the fire of criticism surrounding Nara. 'I could say many things about Wanda,' he stated, leaving fans and followers buzzing with speculation about what other secrets might be lurking behind the scenes of the popular cooking competition.</p>",
+        "celebrities": [
+            "Wanda Nara",
+            "Esteban Mirol"
+        ],
+        "image_url": "https://resizer.glanacion.com/resizer/v2/el-periodista-esteban-mirol-participo-en-SGX5ACNJCRFQXGBWO4XX3KY52E.jpg?auth=f0115045ccedc3f911ce7cca3ff2d90f7d4848feb7c4f96f35f697161eac3168&width=1200&quality=85&smart=true&height=675",
+        "date": "Mar 11, 2026",
+        "url": "https://www.lanacion.com.ar/espectaculos/estaban-mirol-aseguro-que-wanda-nara-lo-maltrato-en-masterchef-celebrity-nid10032026/"
+    },
+    {
+        "id": "t3oy71d7q",
+        "title": "Shocking Meta Scam Alert: Celebs' Faces Used to Steal Your Money!",
+        "excerpt": "You won't believe how fake ads are using famous faces to trick you into losing everything!",
+        "content": "<p>Hold onto your wallets, folks! A massive global investment scam network is sweeping across Meta platforms, and it's using some seriously sneaky tactics to steal your hard-earned cash.</p><p>Picture this: you're scrolling through your feed when suddenly, you see an ad featuring your favorite celebrity endorsing a 'guaranteed' investment opportunity. Sounds legit, right? Wrong! These scammers are creating fake news stories and paid ads that look so real, even the savviest investors are falling for them.</p><p>But don't panic just yet! We've got the inside scoop on how to spot these scams before they spot you. From red flags to watch out for to expert tips on protecting your finances, we're breaking it all down.</p><p>Remember, if it sounds too good to be true, it probably is. Stay tuned as we dive deep into this Meta mess and show you how to keep your money where it belongs – in your pocket!</p>",
+        "celebrities": [
+            "Celebrity 1",
+            "Celebrity 2",
+            "Celebrity 3"
+        ],
+        "image_url": "https://www.zdnet.com/a/img/resize/91bf6e6b834239ec0ae50058e8445018a3c5f6dd/2026/03/10/ea27a261-51b5-4a14-9c40-b041f1502b8f/cashvortex-gettyimages-1412306415.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "date": "Mar 11, 2026",
+        "url": "https://www.zdnet.com/article/investment-scam-paid-social-media-ads/"
+    },
+    {
+        "id": "0c8hytj4x",
+        "title": "Stars and Spirits: How Athletes Are Fueling the Next Big Travel Craze",
+        "excerpt": "Move over wine tastings—fans are now sipping custom spirits crafted for their favorite sports heroes!",
+        "content": "<p>Imagine this: You’re halfway across the world, nursing a cocktail at a swanky bar, when you spot a bottle emblazoned with the name of your favorite athlete. Suddenly, you’re bonding with a stranger over your shared love of the game—and the drink in your hand. Welcome to the latest travel trend sweeping the globe: custom spirits brewed in honor of sports legends.</p><p>From whiskey distilleries in Scotland to trendy bars in Tokyo, fans are flocking to sip on limited-edition bottles inspired by their idols. Whether it’s a bold bourbon for a basketball star or a smooth vodka for a soccer sensation, these drinks are more than just alcohol—they’re a celebration of fandom. And let’s be honest, nothing says ‘I’m a die-hard fan’ like clinking glasses with a fellow traveler over a spirit named after your team’s MVP.</p><p>Travel experts say this trend is more than just a gimmick—it’s a cultural phenomenon. “It’s about creating connections,” says one distillery owner. “When people share a drink inspired by their favorite athlete, it’s like they’re part of a global community.” So, the next time you’re planning a trip, why not add a distillery tour to your itinerary? Who knows—you might just find your new favorite drink (and a new friend) along the way.</p>",
+        "celebrities": [],
+        "image_url": "https://cdn1.matadornetwork.com/blogs/1/2026/03/shutterstock_2314548917-1200x898.jpg",
+        "date": "Mar 11, 2026",
+        "url": "https://matadornetwork.com/read/travel-trend-blending-sports-fandom-custom-spirits/"
+    },
+    {
+        "id": "laabdhd2z",
+        "title": "Shocking Fallout: Noma's LA Pop-Up Canceled as Chef Faces Abuse Allegations",
+        "excerpt": "Renowned chef's past 'harmful' actions spark major sponsor exodus",
+        "content": "<p>In a dramatic turn of events, Noma's highly anticipated pop-up events in Los Angeles have been abruptly canceled as major sponsors withdraw their support. The acclaimed restaurant, known for its innovative cuisine and sky-high prices, is now facing a storm of controversy.</p><p>The chef at the center of the scandal has issued a public apology, acknowledging his 'harmful' actions from the past. This mea culpa comes as allegations of abuse have surfaced, sending shockwaves through the culinary world. Fans and foodies alike are left wondering how this will impact the chef's future endeavors and the fate of Noma itself.</p>",
+        "celebrities": [
+            "Noma Chef"
+        ],
+        "image_url": "https://static.the-independent.com/2021/05/27/12/GettyImages-598313514.jpg?width=1200&height=800&crop=1200:800",
+        "date": "Mar 11, 2026",
+        "url": "https://www.the-independent.com/news/world/americas/noma-la-rene-redzepi-abuse-allegations-b2935990.html"
+    },
+    {
         "id": "5hopqrlv5",
         "title": "Heated Rivalry Stars Call Out Fans: ‘Stop the Hate or Get Out!’",
         "excerpt": "The cast of Heated Rivalry just shut down toxic fans with a fiery message—don’t call yourself a supporter if you’re spreading bigotry!",
@@ -555,67 +616,5 @@ export const articles: Article[] = [
         "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-56540,resizemode-75,msid-128874382/wealth/plan/going-through-a-divorce-after-20-30-years-of-marriage-a-financial-survival-guide-for-women-in-their-40s-and-50s.jpg",
         "date": "Mar 2, 2026",
         "url": "https://economictimes.indiatimes.com/wealth/plan/going-through-a-divorce-after-20-30-years-of-marriage-a-financial-survival-guide-for-women-in-their-40s-and-50s/articleshow/128874382.cms"
-    },
-    {
-        "id": "urd3u7yvl",
-        "title": "BRITs 2026: The Wild Winners List That Has Everyone Talking!",
-        "excerpt": "From shocking upsets to unforgettable performances, the 2026 BRITs were a night to remember!",
-        "content": "<p>The 2026 BRIT Awards just wrapped, and let’s just say, the night was full of surprises! From unexpected wins to jaw-dropping performances, the music industry’s biggest night didn’t disappoint. But who took home the coveted trophies? And which moments had everyone buzzing?</p><p>Sources say the red carpet was a who’s who of A-listers, with some shocking collaborations and even a few surprise guests. Stay tuned as we break down the full winners list, the most talked-about performances, and all the drama that unfolded behind the scenes. Spoiler alert: it’s juicy!</p>",
-        "celebrities": [
-            "Rosalía",
-            "Olivia Dean"
-        ],
-        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
-        "date": "Mar 1, 2026",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180875902"
-    },
-    {
-        "id": "1xl75s090",
-        "title": "OMG! The 2026 NAACP Image Awards Are LIT! Who’s Winning Big?",
-        "excerpt": "The stars are out in full force, and the 2026 NAACP Image Awards are already serving major wins—but who’s taking home the gold?",
-        "content": "<p>The 2026 NAACP Image Awards are in full swing in Los Angeles, and the red carpet is buzzing with Hollywood’s finest! From jaw-dropping fashion to heartfelt speeches, the night is already shaping up to be unforgettable. As the winners are announced, fans are eagerly refreshing their feeds to see who’s taking home the coveted trophies.</p><p>Stay tuned as we update live with all the big moments, surprise wins, and celebrity reactions. Will your favorite stars dominate the night? Let’s find out together!</p>",
-        "celebrities": [
-            "Michael B. Jordan"
-        ],
-        "image_url": "https://imageio.forbes.com/specials-images/imageserve/69a3a9d53c6afb954f55f8d2/0x0.jpg?format=jpg&crop=3593,2020,x0,y10,safe&height=900&width=1600&fit=bounds",
-        "date": "Mar 1, 2026",
-        "url": "https://www.forbes.com/sites/timlammers/2026/02/28/2026-naacp-image-awards-list-of-winners-updating-live/"
-    },
-    {
-        "id": "zb2gla41y",
-        "title": "Is This the Secret Date? Graham Norton Drops a Bombshell About Taylor & Travis's Wedding",
-        "excerpt": "Could the pop queen and NFL heartthrob be tying the knot sooner than we think? Graham Norton just spilled a juicy clue!",
-        "content": "<p>Taylor Swift and Travis Kelce fans, get ready to lose it—because Graham Norton might have just let the cat out of the bag. The British talk show king dropped what some are calling a 'cryptic hint' about the superstar couple's wedding plans, and now the internet is spiraling.</p><p>During a recent episode of The Graham Norton Show, the host made a passing comment that eagle-eyed Swifties are convinced is a coded message about when Taylor and Travis will finally say 'I do.' Was it a joke? A slip-up? Or the confirmation we've all been waiting for? Let's break down the tea.</p>",
-        "celebrities": [
-            "Taylor Swift",
-            "Travis Kelce",
-            "Graham Norton"
-        ],
-        "image_url": "https://phantom.estaticos-marca.com/1139b3bb43974434e2a90479cb1082e8/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/19/17661680742110.jpg",
-        "date": "Mar 1, 2026",
-        "url": "https://www.marca.com/en/nfl/kansas-city-chiefs/2026/03/01/69a39097ca47412b1b8b456f.html"
-    },
-    {
-        "id": "0740dzjlq",
-        "title": "Michael B. Jordan Takes Home Entertainer of the Year at 2026 NAACP Image Awards",
-        "excerpt": "The night was full of glitz, glamour, and jaw-dropping moments as the stars came out to celebrate Black excellence.",
-        "content": "<p>The 2026 NAACP Image Awards lit up the Pasadena Civic Auditorium Saturday night, with host Deon Cole bringing his signature humor to the star-studded event. Airing live on BET and CBS, the ceremony celebrated the best in Black entertainment, with Michael B. Jordan stealing the show by winning the coveted Entertainer of the Year award.</p><p>From heartfelt speeches to show-stopping fashion, the red carpet was a who’s who of Hollywood’s finest. Fans and fellow celebrities alike took to social media to cheer on their favorites, making the 2026 NAACP Image Awards a night to remember.</p>",
-        "celebrities": [
-            "Michael B. Jordan",
-            "Deon Cole"
-        ],
-        "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/michael-b-jordan-golden-globes.jpg?w=1440&h=810&crop=1",
-        "date": "Mar 1, 2026",
-        "url": "http://www.hollywoodreporter.com/movies/movie-news/2026-naacp-image-awards-winners-list-1236518330/"
-    },
-    {
-        "id": "wuqa1mxtr",
-        "title": "OMG! 5 Wild 2000s Reality Shows That Deserve a Docuseries Revival ASAP",
-        "excerpt": "These chaotic shows from the early 2000s were so unhinged, they NEED a docuseries comeback!",
-        "content": "<p>Remember the wild, unhinged glory of early 2000s reality TV? While some shows played it safe, others pushed boundaries, creating unforgettable chaos. Now, after the success of docuseries like <em>Reality Check</em>, it’s time to revisit five iconic shows that deserve a second look.</p><p>From jaw-dropping drama to behind-the-scenes secrets, these series were the epitome of early-aughts entertainment. Imagine the tea spilled in a modern docuseries format—fans would eat it up! Which of these chaotic classics would you binge-watch first?</p>",
-        "celebrities": [],
-        "image_url": "https://cdn.mos.cms.futurecdn.net/zAR2LPcpQhkA7g7qfJwZDA-1280-80.jpg",
-        "date": "Mar 1, 2026",
-        "url": "https://www.cinemablend.com/television/after-watching-reality-check-5-2000s-reality-shows-need-docuseries-treatment"
     }
 ];
