@@ -11,6 +11,67 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "oszwfm7q4",
+        "title": "WWE Superstar Drops a Bombshell: Sabrina Carpenter Could Steal the Show at WrestleMania 42!",
+        "excerpt": "Could this be the pop-meets-wrestling collab we never knew we needed?",
+        "content": "<p>The road to WrestleMania is always paved with surprises, but this one might just take the cake. A WWE superstar has thrown out a wild idea that’s got fans buzzing: what if Sabrina Carpenter took the stage at WrestleMania 42?</p><p>Picture this: the pop sensation belting out her hits while the WWE Universe roars in the background. It’s the kind of crossover event that could break the internet. Whether it’s a bold move or a stroke of genius, one thing’s for sure—this proposal has everyone talking. Could we see a pop princess and wrestling royalty collide in the most unexpected way? Stay tuned, because WrestleMania just got a whole lot more interesting.</p>",
+        "celebrities": [
+            "Sabrina Carpenter"
+        ],
+        "image_url": "https://phantom.estaticos-marca.com/c08d59ba3667e8582c7750e3121240c6/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/12/17732783554937.jpg",
+        "date": "Mar 12, 2026",
+        "url": "https://www.marca.com/en/wwe/2026/03/12/69b214bee2704e70298b4571.html"
+    },
+    {
+        "id": "qaz99exw2",
+        "title": "Oscars 2026: Hollywood’s Biggest Night Under High Alert Amid Iran Threat!",
+        "excerpt": "As the stars prepare to shine, security takes center stage at the 2026 Oscars—but will the show go on without a hitch?",
+        "content": "<p>The 2026 Academy Awards are shaping up to be anything but ordinary! With an FBI alert warning of potential drone threats linked to Iran, Hollywood’s biggest night is now under unprecedented security measures. Oscars producer Raj Kapoor assures fans, 'We want everybody to feel safe and protected,' but the question on everyone’s mind is: will the red carpet still sparkle under such intense scrutiny?</p><p>While the threat looms, the A-list attendees are reportedly staying tight-lipped about their plans. Insiders say some stars are even considering backup outfits in case of last-minute changes. Will this be the most dramatic Oscars yet? Stay tuned as the drama unfolds both on and off the stage!</p>",
+        "celebrities": [
+            "Raj Kapoor"
+        ],
+        "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/2026-Oscars-getty-H-2026.png?w=1296&h=730&crop=1",
+        "date": "Mar 12, 2026",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/security-increased-2026-oscars-fbi-alert-iran-attack-ca-1236528194/"
+    },
+    {
+        "id": "bue9r0a5i",
+        "title": "Law & Order: SVU’s Captain Curry Faces the Ultimate Loyalty Test—Will She Stand By Benson or Betray Her Trust?",
+        "excerpt": "Captain Curry’s loyalty is about to be pushed to the breaking point in a case that’s as twisted as it gets.",
+        "content": "<p>Law & Order: SVU is gearing up for a jaw-dropping episode that puts Captain Renee Curry front and center. Known for her sharp instincts and unwavering dedication, Curry is about to face her toughest challenge yet—a case so heinous it could make even the most seasoned detective’s stomach turn.</p><p>But here’s the twist: while Curry has always been a team player, this time her loyalty is under the microscope. Will she have Benson’s back no matter what, or will the pressure of the case force her to make a choice that could shake the squad to its core? Fans are already speculating, and the suspense is killing us. Stay tuned—this one’s going to be a wild ride!</p>",
+        "celebrities": [
+            "Captain Renee Curry",
+            "Benson"
+        ],
+        "image_url": "https://cdn.mos.cms.futurecdn.net/7TwPrQmKwxPU7kXjgZfBW9-1280-80.jpg",
+        "date": "Mar 12, 2026",
+        "url": "https://www.cinemablend.com/interviews/law-and-order-svu-star-talks-learning-from-the-best-how-much-curry-have-bensons-back"
+    },
+    {
+        "id": "kyo7tl8n7",
+        "title": "Maxi López's Secret Weapon Revealed: How He Cooked His Way to MasterChef Celebrity Finals!",
+        "excerpt": "The former soccer star spills the beans on his surprising culinary superpower that kept him in the competition!",
+        "content": "<p>Move over, Gordon Ramsay—there's a new kitchen king in town! As MasterChef Celebrity heats up, former soccer sensation Maxi López has finally revealed the secret ingredient that helped him score a spot in the finals. And no, it's not his famous footwork!</p><p>The Argentine heartthrob took to social media to share a behind-the-scenes glimpse of his MasterChef journey, leaving fans and fellow contestants alike wondering: what's his recipe for success? From soccer fields to sizzling pans, López proves he's not just a one-trick pony. Stay tuned as we dish out all the delicious details of his culinary conquest!</p>",
+        "celebrities": [
+            "Maxi López"
+        ],
+        "image_url": "https://fotos.perfil.com/2026/03/12/trim/1140/641/maxi-lopez-2201204.jpg",
+        "date": "Mar 12, 2026",
+        "url": "https://caras.perfil.com/noticias/celebridades/la-extrana-habilidad-de-maxi-lopez-que-lo-llevo-a-la-final-de-masterchef-celebrity-gracias-a-mi.phtml"
+    },
+    {
+        "id": "hsbq4qqvz",
+        "title": "René Redzepi Steps Down from Noma Amid Scandal: Is This the End of His Culinary Reign?",
+        "excerpt": "Renowned chef René Redzepi resigns from Noma amid shocking abuse allegations and protests outside his L.A. pop-up.",
+        "content": "<p>René Redzepi, the celebrated chef behind the world-renowned Noma restaurant in Denmark, has shocked the culinary world by stepping down from his position. The move comes amid serious allegations of abuse and ongoing protests outside his Los Angeles pop-up location.</p><p>Noma, known for its innovative Nordic cuisine and impeccable reputation, has long been a crown jewel in the culinary world. But now, the spotlight has shifted from Redzepi's culinary genius to the controversy surrounding his leadership. Fans and critics alike are left wondering: is this the end of an era for one of the most influential chefs of our time?</p>",
+        "celebrities": [
+            "René Redzepi"
+        ],
+        "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/11/4ddab536-c1ea-442d-93cd-f252b42b976a/thumbnail/1200x630/d216c12fc4d4859033f4ef1f5fa617ae/gettyimages-1487638461.jpg",
+        "date": "Mar 12, 2026",
+        "url": "https://www.cbsnews.com/losangeles/news/rene-redzepi-resigns-noma-amid-abuse-protests-los-angeles/"
+    },
+    {
         "id": "nvd86l8oz",
         "title": "Mickey Rourke's Hollywood Nightmare: Evicted from LA Pad After Last-Ditch Drama",
         "excerpt": "The actor's eviction saga takes a shocking turn as his LA home slips through his fingers.",
@@ -559,62 +620,5 @@ export const articles: Article[] = [
         "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-299882,resizemode-75,msid-128952576/tech/artificial-intelligence/maid-of-honour-ai-joins-the-entourage-of-the-big-fat-indian-wedding.jpg",
         "date": "Mar 3, 2026",
         "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/maid-of-honour-ai-joins-the-entourage-of-the-big-fat-indian-wedding/articleshow/128952576.cms"
-    },
-    {
-        "id": "buiwyznn0",
-        "title": "Kristen Bell Sings, 'Abbott Elementary' Cast Roasts Nominees in Wild Actor Awards Opening!",
-        "excerpt": "The Actor Awards kicked off with a star-studded sketch that had everyone talking — and singing!",
-        "content": "<p>The Actor Awards just delivered one of the most entertaining openings in awards show history, and the internet is already obsessed. Hosted by Netflix, the ceremony kicked off with a pre-recorded sketch that brought together the hilarious ensemble of <em>Abbott Elementary</em> and the always-charming Kristen Bell for a night of laughs, roasts, and even a surprise musical number.</p><p>The sketch opened with the <em>Abbott Elementary</em> crew—in full character—breaking down the nominees for the evening, from the steamy drama <em>Sinners</em> to the buzzy hit <em>The White Lotus</em>. Lisa Ann Walter’s no-nonsense Melissa took the lead, cracking jokes about The Pitt and other standout performances, while Kristen Bell brought the house down with a show-stopping musical interlude that had everyone wondering, “Wait, when did she become a Broadway star?”</p><p>But the real MVP of the night? The tried-and-true “I’m An Actor” bit, which had the audience in stitches as the cast hilariously overacted their way through classic actor stereotypes. It was the perfect mix of self-aware humor and Hollywood glam, proving once again why these stars are the ones we can’t stop talking about.</p>",
-        "celebrities": [
-            "Kristen Bell",
-            "Lisa Ann Walter"
-        ],
-        "image_url": "https://deadline.com/wp-content/uploads/2026/03/GettyImages-2264290791.jpg?w=1024",
-        "date": "Mar 2, 2026",
-        "url": "http://deadline.com/2026/03/actor-awards-abbott-elementary-kristen-bell-opening-1236740740/"
-    },
-    {
-        "id": "nz9i52aig",
-        "title": "Kristen Bell & Hollywood's Elite Rock the First-Ever Actor Awards Dress Code!",
-        "excerpt": "The 2026 Actor Awards brought a fresh twist to the red carpet with its debut dress code—and the stars delivered in style!",
-        "content": "<p>Hollywood glamour was reimagined at the 2026 Actor Awards, where the March 1 ceremony (formerly known as the SAG Awards) made history by imposing a dress code for the first time in its 31-year history. The move sparked curiosity and excitement among fans and fashion critics alike, as stars like Kristen Bell stepped out in show-stopping ensembles that balanced elegance with the new rules. From sleek silhouettes to bold accessories, the red carpet was a masterclass in how to follow guidelines without sacrificing star power.</p><p>While some wondered if the dress code would stifle creativity, the evening proved otherwise. Celebrities embraced the challenge, delivering looks that were both sophisticated and daring. Whether it was a nod to classic Hollywood or a modern twist on red carpet fashion, the stars ensured the 2026 Actor Awards would be remembered for its style as much as its winners.</p>",
-        "celebrities": [
-            "Kristen Bell"
-        ],
-        "image_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20260301/49ba11da-270a-4450-ae17-29fb620a5cee_1772404849.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-        "date": "Mar 2, 2026",
-        "url": "https://www.eonline.com/news/1429143/actor-awards-2026-celebs-who-followed-dress-code"
-    },
-    {
-        "id": "1jctwn764",
-        "title": "Ben Johnson Pulls a Fast One on Bulls Fans – No Free Hot Dogs This Time!",
-        "excerpt": "Chicago’s favorite coach is at it again, but this time, he’s leaving fans hungry for more than just laughs.",
-        "content": "<p>Ben Johnson is already a bonafide celebrity in the Windy City, and it’s not just because of his coaching chops. The Bears’ head coach has won over Chicago with his larger-than-life personality and razor-sharp sense of humor, proving he’s as much a showman as he is a strategist.</p><p>During a recent appearance, Johnson had fans buzzing—though not for the reasons they might’ve hoped. Known for his playful antics, the coach teased Bulls fans with the promise of free hot dogs, only to leave them hanging. Classic Johnson! Whether he’s cracking jokes or keeping fans on their toes, one thing’s for sure: this guy knows how to keep Chicago entertained.</p>",
-        "celebrities": [
-            "Ben Johnson"
-        ],
-        "image_url": "https://phantom.estaticos-marca.com/a003e8f34341adfb7eb70ce4ee95a047/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/02/17724133975059.jpg",
-        "date": "Mar 2, 2026",
-        "url": "https://www.marca.com/en/nfl/dallas-cowboys/2026/03/02/69a4e208ca4741e01f8b458b.html"
-    },
-    {
-        "id": "fngnshoap",
-        "title": "German Comedy Surprise: NO HIT WONDER Steals the Show at Rotterdam 2026!",
-        "excerpt": "Move over Hollywood—this German comedy is making waves and stealing hearts at the International Film Festival Rotterdam!",
-        "content": "<p>Who says German comedies can’t be a hit? Florian Dietrich’s latest film, NO HIT WONDER, just proved the skeptics wrong at the International Film Festival Rotterdam. This charming comedy is turning heads and leaving audiences in stitches, showing that Germany’s humor game is stronger than ever.</p><p>With its witty dialogue and relatable characters, NO HIT WONDER is the kind of film that makes you laugh, cry, and maybe even rethink your stance on German cinema. If you thought German comedies were all about stereotypes, think again—this one’s a game-changer!</p>",
-        "celebrities": [],
-        "image_url": "https://screenanarchy.com/assets_c/2026/03/IFFR2026-NoHitWonder-review-main-thumb-200x200-102753.jpg",
-        "date": "Mar 2, 2026",
-        "url": "https://screenanarchy.com/2026/03/rotterdam-2026-review-no-hit-wonder-scores-a-few-hits.html"
-    },
-    {
-        "id": "a1vfdxv6c",
-        "title": "Love Gone Wrong: Inside the Shocking Divorce of a 55-Year-Old Woman After 29 Years of Marriage!",
-        "excerpt": "She walked away with nothing—no money, no assets, no alimony. Here’s why Megha Agarwal’s bold choice is leaving everyone speechless.",
-        "content": "<p>When 55-year-old Megha Agarwal filed for divorce in 2021 after 29 years of marriage, she stunned everyone—not because of the split, but because of what she left behind. With no steady income, no savings, and zero assets in her name, Megha made the jaw-dropping decision to walk away without a single rupee of alimony. Why? Her story is a wake-up call for every woman in her 40s or 50s who’s ever felt trapped in a long marriage.</p><p>From securing alimony to reskilling for a fresh start, here’s the ultimate financial survival guide for women ready to reclaim their independence. Spoiler alert: It’s not as simple as packing your bags and walking out. But if Megha can do it, so can you.</p>",
-        "celebrities": [],
-        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-56540,resizemode-75,msid-128874382/wealth/plan/going-through-a-divorce-after-20-30-years-of-marriage-a-financial-survival-guide-for-women-in-their-40s-and-50s.jpg",
-        "date": "Mar 2, 2026",
-        "url": "https://economictimes.indiatimes.com/wealth/plan/going-through-a-divorce-after-20-30-years-of-marriage-a-financial-survival-guide-for-women-in-their-40s-and-50s/articleshow/128874382.cms"
     }
 ];
