@@ -11,6 +11,67 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "nwfzdbunm",
+        "title": "Nicole Kidman Drops Bombshell: Which A-List Actor Was Her Worst On-Screen Kiss?",
+        "excerpt": "The Oscar winner spills the tea on a co-star's disastrous breath and a food ban that went viral!",
+        "content": "<p>Nicole Kidman just shocked fans by revealing the identity of her least favorite on-screen kisser — and the culprit's breath was so bad, she had to lay down some serious ground rules. The actress, known for her candor, admitted that one A-list leading man's love for falafel sandwiches nearly ruined their romantic scenes.</p><p>\"I'm sure he did not eat a falafel ever again,\" Kidman quipped. \"I said, 'No more falafel. Not before you kiss, not before you make love.'\" The Oscar winner told the hosts that poor oral hygiene is a major deal-breaker for her, no matter how famous or talented the actor might be. \"If you're going to lock lips with me, you'd better be fresh,\" she added with a laugh.</p>",
+        "celebrities": [
+            "Nicole Kidman"
+        ],
+        "image_url": "https://www.nzherald.co.nz/resizer/v2/VG4CX64OAFG43AC2YQPEI7GOIY.jpg?auth=b5705da88f257858b9f2307636009b6e8492c0e6630c6443b2fad8673e0b262c&width=1200&height=675&quality=70&focal=770%2C511&smart=false",
+        "date": "Mar 13, 2026",
+        "url": "https://www.nzherald.co.nz/entertainment/nicole-kidman-reveals-which-a-list-leading-man-was-the-worst-kisser/SWM2B34XGNFBXHHFD7EAQG4NGY/"
+    },
+    {
+        "id": "exp3aiz97",
+        "title": "Timothée Chalamet Jokes About Ballet and Opera: 'Keep This Thing Alive!'",
+        "excerpt": "Timothée Chalamet's latest quip about the performing arts has fans buzzing—did he just diss ballet and opera?",
+        "content": "<p>During a recent press tour, Timothée Chalamet cracked a joke about ballet and opera that’s got everyone talking. With a playful laugh, he said, 'Hey, keep this thing alive,' before adding that discussing these highbrow art forms probably cost him 14 cents in viewers. Classic Timothée, always keeping it real and relatable!</p><p>But wait, there’s more! The actor’s lighthearted comment has sparked a debate about the relevance of classical arts in today’s pop culture. Is Timothée subtly throwing shade, or is he just being his charming, self-deprecating self? Either way, we’re here for it.</p>",
+        "celebrities": [
+            "Timothée Chalamet"
+        ],
+        "image_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-03/pexels-marina-zvada-844583049-19987313.jpg?itok=ATVMvIfJ",
+        "date": "Mar 13, 2026",
+        "url": "https://www.psychologytoday.com/us/blog/resonant-minds/202603/art-as-a-biological-bedrock-of-shared-humanity"
+    },
+    {
+        "id": "7chgecuea",
+        "title": "Mookie Betts' Mysterious Absence Sparks Buzz: What's Really Going On?",
+        "excerpt": "Mookie Betts' absence from Dodgers' Spring Training camp has fans and insiders buzzing—what's keeping the superstar away?",
+        "content": "<p>The Dodgers' camp is abuzz with whispers about Mookie Betts' sudden absence from Spring Training. Manager Dave Roberts finally shed some light on the situation, but the details only left fans wanting more.</p><p>Betts, who's been juggling multiple high-profile commitments over the past few months, including a surprising coaching gig, seems to be keeping his cards close to his chest. Is it a strategic move, a personal matter, or something else entirely? One thing's for sure—Mookie knows how to keep the spotlight on him, even when he's not on the field.</p>",
+        "celebrities": [
+            "Mookie Betts",
+            "Dave Roberts"
+        ],
+        "image_url": "https://s.yimg.com/os/en/dodgers_nation_articles_337/50d9ead2ae0cd02ca23fd4fb1f0b7c4a",
+        "date": "Mar 13, 2026",
+        "url": "https://dodgersnation.com/dodgers-dave-roberts-reveals-reason-for-mookie-betts-absence/2026/03/12/"
+    },
+    {
+        "id": "f9cemr8bh",
+        "title": "David Protein Bar Founder Claps Back at Lawsuit: Is This the Next Big Wellness Scandal?",
+        "excerpt": "Wellness influencers’ favorite snack is under fire—could this be the biggest calorie controversy since the ‘Mean Girls’ burn book?",
+        "content": "<p>Move over, Regina George—there’s a new scandal brewing in the wellness world, and it’s got everyone talking. David protein bars, the go-to snack for influencers and gym rats alike, are at the center of a heated legal battle that’s drawing comparisons to the iconic Mean Girls burn book. A class action lawsuit filed in January alleges that the viral protein bars are misleading consumers about their calorie and fat content. Yikes!</p><p>The founder of David protein bars isn’t taking the accusations lying down, though. In a fiery response, they’ve pushed back against the claims, calling the lawsuit “baseless” and insisting their products are as advertised. But with wellness influencers’ reputations on the line, this controversy is quickly becoming the talk of the town. Will David protein bars survive this calorie-counting drama, or is this the beginning of the end for the beloved snack? Stay tuned, because this story is far from over.</p>",
+        "celebrities": [],
+        "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260311-David-Protein-ew-553p-52bf81.jpg",
+        "date": "Mar 13, 2026",
+        "url": "https://www.nbcnews.com/health/health-news/david-protein-bar-founder-lawsuit-calories-rcna263052"
+    },
+    {
+        "id": "fy2eynvtc",
+        "title": "Daniel Radcliffe Shines Bright on Broadway in 'Every Brilliant Thing'—Is This His Best Role Yet?",
+        "excerpt": "Broadway’s newest star-studded gem has everyone talking—and it’s not just about the magic tricks!",
+        "content": "<p>Move over, Harry Potter! Daniel Radcliffe is casting a new spell on Broadway, and this time, it’s all about gratitude, grief, and a whole lot of heart. In <em>Every Brilliant Thing</em>, Radcliffe isn’t just acting—he’s inviting the audience to join him on stage, making this interactive play a must-see for theater lovers and celebrity stalkers alike.</p><p>Critics are raving about Radcliffe’s charm and vulnerability, with some even comparing his performance to a warm hug from Miss Piggy (yes, really). But the real magic? It’s the way he connects with the crowd, turning everyday joys like ice cream and water fights into moments of pure Broadway brilliance. Could this be the role that finally dethrones his wizarding legacy? Only time—and ticket sales—will tell.</p>",
+        "celebrities": [
+            "Daniel Radcliffe",
+            "Miss Piggy",
+            "Christopher Walken"
+        ],
+        "image_url": "https://media.timeout.com/images/106382818/image.jpg",
+        "date": "Mar 13, 2026",
+        "url": "https://www.timeout.com/newyork/news/broadway-review-daniel-radcliffe-brings-his-shine-to-every-brilliant-thing-031326"
+    },
+    {
         "id": "oszwfm7q4",
         "title": "WWE Superstar Drops a Bombshell: Sabrina Carpenter Could Steal the Show at WrestleMania 42!",
         "excerpt": "Could this be the pop-meets-wrestling collab we never knew we needed?",
@@ -558,67 +619,5 @@ export const articles: Article[] = [
         "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/paula-deen-in-blue-sweater.jpg",
         "date": "Mar 3, 2026",
         "url": "https://www.foxnews.com/entertainment/paula-deen-speaks-out-about-horrifying-gunpoint-robbery-after-1987-attacker-found-dead-nyc"
-    },
-    {
-        "id": "hg709fuf4",
-        "title": "Zendaya and Tom Holland's Secret Wedding: Stylist Confirms the Big News!",
-        "excerpt": "The Spider-Man stars have reportedly tied the knot in a surprise ceremony!",
-        "content": "<p>Hold onto your hats, Hollywood! Zendaya and Tom Holland are officially off the market, and the internet is buzzing with the news. According to Zendaya's stylist, Law Roach, the couple has secretly said 'I do' in a hush-hush ceremony that no one saw coming. While neither Zendaya nor Tom has confirmed the rumors, the stylist's bold claim has fans and gossip columns alike in a frenzy.</p><p>This power couple, who first sparked dating rumors in 2021, has always kept their relationship under wraps, making this alleged wedding even more intriguing. Could this be the ultimate celebrity move to keep their love life private? Or is it just another twist in the ever-entertaining world of Hollywood romance? Stay tuned as we dig deeper into this juicy story!</p>",
-        "celebrities": [
-            "Zendaya",
-            "Tom Holland",
-            "Law Roach"
-        ],
-        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
-        "date": "Mar 3, 2026",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180896294"
-    },
-    {
-        "id": "5m6ag8sbf",
-        "title": "Simi Sparks Outrage: Is Being a Man in Nigeria Now a Crime?",
-        "excerpt": "The Simi controversy has ignited a fierce debate on whether men in Nigeria are being unfairly judged by association in the ongoing gender wars.",
-        "content": "<p>In the ever-dramatic world of Nigerian celebrity culture, Simi, born Simisola Ogunleye, has found herself at the center of a heated controversy that’s got everyone talking. The singer’s recent comments have sparked a fiery debate about the dangerous habit of judging men by association, leaving fans and critics alike divided.</p><p>Is being a man in Nigeria now akin to standing on trial? That’s the uncomfortable question Simi’s remarks have brought to the forefront. As the gender wars rage on, this latest drama has only added fuel to the fire, with opinions flying faster than you can say ‘cancel culture.’</p>",
-        "celebrities": [
-            "Simi"
-        ],
-        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/02/26231237/Simi-1200x630.jpg",
-        "date": "Mar 3, 2026",
-        "url": "https://punchng.com/dangerous-habit-of-judging-men-by-association/"
-    },
-    {
-        "id": "o32r7v6th",
-        "title": "Cardi B Unleashes Fiery Rant, Calls Out Ex Stefon Diggs in Concert: 'Who You Playin' With?'",
-        "excerpt": "Cardi B's concert rant takes a shocking turn as she seemingly blasts ex Stefon Diggs, leaving fans buzzing!",
-        "content": "<p>In a jaw-dropping moment during her 'Little Miss Drama Tour,' Cardi B appeared to throw some serious shade at her ex-boyfriend, New England Patriots wide receiver Stefon Diggs. The 'WAP' rapper, whose real name is Belcalis Almanzar, didn't hold back as she unleashed a fiery rant that had fans on their feet.</p><p>Sources close to the couple reveal that Cardi B and Diggs allegedly called it quits just before the Super Bowl, leaving many to speculate about the timing. During her concert, the Grammy-winning artist took a not-so-subtle jab at her former flame, declaring, 'I'm too sexy to be lonely!' The crowd erupted in cheers, clearly sensing the underlying message.</p><p>While neither party has officially confirmed the breakup, Cardi B's onstage antics have set social media ablaze with theories and hot takes. Fans are now eagerly awaiting a response from Diggs, who's been keeping a low profile since the alleged split. As the drama unfolds, one thing's for sure: Cardi B isn't afraid to speak her mind, especially when it comes to matters of the heart.</p>",
-        "celebrities": [
-            "Cardi B",
-            "Stefon Diggs"
-        ],
-        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/diggs-cardi-b.jpg",
-        "date": "Mar 3, 2026",
-        "url": "https://www.foxnews.com/sports/cardi-b-seemingly-takes-aim-ex-patriots-stefon-diggs-during-concert-rant-who-you-playin-with"
-    },
-    {
-        "id": "va9y6alr8",
-        "title": "Jesy Nelson's Shocking Pregnancy Reveal & Band Drama in New Docuseries!",
-        "excerpt": "From X Factor to Little Mix to solo life, Jesy Nelson's new Prime Video docuseries spills all the tea on her dramatic exit and unexpected pregnancy.",
-        "content": "<p>Jesy Nelson's life has been a whirlwind since her Little Mix days, and now she's spilling all the juicy details in her new Prime Video docuseries, 'Jesy Nelson: Life After Little Mix.' The six-episode series takes viewers on a rollercoaster ride through the former pop star's journey from X Factor hopeful to chart-topping success with the British girl group, and finally to her dramatic exit and life as a solo artist.</p><p>But that's not all - the docuseries also delves into Nelson's personal life, including her recent pregnancy announcement that sent shockwaves through the entertainment world. Fans are eager to see how the singer navigates motherhood while rebuilding her career outside of the band that made her famous. With exclusive behind-the-scenes footage and candid interviews, this docuseries promises to be a must-watch for any pop culture enthusiast or Little Mix devotee.</p>",
-        "celebrities": [
-            "Jesy Nelson",
-            "Simon Cowell"
-        ],
-        "image_url": "https://decider.com/wp-content/uploads/2026/01/GettyImages-1358460709.jpg?quality=75&strip=all&w=1156",
-        "date": "Mar 3, 2026",
-        "url": "https://decider.com/2026/03/02/jesy-nelson-life-after-little-mix-prime-video-review/"
-    },
-    {
-        "id": "fo42su135",
-        "title": "AI Steals the Spotlight: The New Star of Big Fat Indian Weddings!",
-        "excerpt": "Move over, wedding planners! AI is the latest VIP guest at the Big Fat Indian Wedding, and it’s here to stay.",
-        "content": "<p>The BIG fat Indian wedding has always been a grand affair, complete with planners, decorators, photographers, and opinionated cousins. But now, there’s a new VIP in town—AI! This tech-savvy newcomer is revolutionizing the wedding scene, from planning to execution and beyond.</p><p>AI is no longer just a behind-the-scenes player; it’s stepping into the spotlight, helping couples design dream weddings, manage guest lists, and even predict trends. With its ability to streamline processes and add a touch of innovation, AI is quickly becoming the ultimate wedding sidekick. So, if you thought your wedding was all about the human touch, think again—AI is here to make your big day even bigger and better!</p>",
-        "celebrities": [],
-        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-299882,resizemode-75,msid-128952576/tech/artificial-intelligence/maid-of-honour-ai-joins-the-entourage-of-the-big-fat-indian-wedding.jpg",
-        "date": "Mar 3, 2026",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/maid-of-honour-ai-joins-the-entourage-of-the-big-fat-indian-wedding/articleshow/128952576.cms"
     }
 ];
