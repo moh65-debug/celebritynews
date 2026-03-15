@@ -11,6 +11,69 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "3rvyk11q8",
+        "title": "The Makjang Madness Returns: Doctor Shin is TV Chosun's Latest Obsession!",
+        "excerpt": "Doctor Shin is here to prove that TV Chosun has a fever, and the only prescription is more drama!",
+        "content": "<p>Hold onto your seats, drama lovers, because TV Chosun is serving up another juicy slice of makjang with their latest offering, Doctor Shin! Set to air on Saturdays and Sundays, this melo-thriller-youth hybrid is already causing a stir in the K-drama world.</p><p>With 16 episodes and a global streamer yet to be announced, Doctor Shin is shaping up to be the talk of the town. TV Chosun seems to be doubling down on their love for over-the-top, addictive storylines, and we're here for it! Get ready for a wild ride filled with suspense, romance, and enough plot twists to make your head spin.</p>",
+        "celebrities": [],
+        "image_url": "https://dramabeans.com/wp-content/uploads/2026/03/pw_doctorshin.jpg",
+        "date": "Mar 14, 2026",
+        "url": "https://dramabeans.com/2026/03/premiere-watch-doctor-shin/"
+    },
+    {
+        "id": "6xfc9f4cs",
+        "title": "Katie Nolan's OMG Moment: Freaking Out Over Jeopardy! Legends Before Big Celebrity Showdown!",
+        "excerpt": "Katie Nolan's fangirl moment with Jeopardy! royalty has us all screaming 'Same!'",
+        "content": "<p>Katie Nolan, the sports media personality and longtime Jeopardy! enthusiast, couldn't contain her excitement after crossing paths with two of her favorite recent contestants just hours before stepping onto the Celebrity Jeopardy! stage for the All-Stars edition.</p><p>The sports commentator and podcast host was spotted looking absolutely starstruck as she ran into the trivia titans, her face lighting up like a scoreboard on Final Jeopardy. Sources say she was overheard gushing about their legendary runs and even asked for a quick photo to commemorate the epic pre-show encounter.</p>",
+        "celebrities": [
+            "Katie Nolan"
+        ],
+        "image_url": "https://d.ibtimes.com.au/en/full/1892333/katie-nolan.png",
+        "date": "Mar 14, 2026",
+        "url": "https://www.ibtimes.com.au/katie-nolan-has-epic-freak-out-meeting-jeopardy-all-stars-before-celebrity-showdown-1863247"
+    },
+    {
+        "id": "wwd769sb1",
+        "title": "Jeremy Vine's Celebrity Puzzling Showdown: Who Will Outsmart the Panel?",
+        "excerpt": "Can Carol Vorderman and Sally Lindsay's teams crack the code, or will Jason Mohammad and Ed Byrne steal the spotlight?",
+        "content": "<p>Jeremy Vine is back at the helm for another thrilling episode of Celebrity Puzzling, and this time, the stakes are higher than ever! Team captains Carol Vorderman and Sally Lindsay are joined by the quick-witted broadcaster Jason Mohammad and the hilariously sharp comedian Ed Byrne. With their brains and banter, this quartet is ready to tackle the trickiest puzzles yet.</p><p>But who will reign supreme? Will Carol’s mathematical genius give her team the edge, or will Ed’s comedic charm throw everyone off their game? Tune in to find out if Sally’s leadership can outsmart the competition in this battle of wits!</p>",
+        "celebrities": [
+            "Jeremy Vine",
+            "Carol Vorderman",
+            "Sally Lindsay",
+            "Jason Mohammad",
+            "Ed Byrne"
+        ],
+        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
+        "date": "Mar 14, 2026",
+        "url": "https://post.rlsbb.to/celebrity-puzzling-s02e15-1080p-web-dl-x264-7vfr33104d/"
+    },
+    {
+        "id": "7j6rl6krx",
+        "title": "Shots Fired at Rihanna's Mansion! What Really Happened?",
+        "excerpt": "A shocking incident at Rihanna's private residence has sparked a major investigation—find out what went down.",
+        "content": "<p>Law enforcement is diving deep into an alleged shooting at Rihanna's luxurious private residence, with reports claiming multiple rounds were fired into the property. The pop star's team is staying tight-lipped, but sources say the incident has left fans and neighbors stunned.</p><p>The person accused in the incident has reportedly been identified, though details remain under wraps as the investigation unfolds. Could this be connected to Rihanna's high-profile lifestyle, or is there more to the story? Stay tuned as we uncover the latest on this unfolding drama.</p>",
+        "celebrities": [
+            "Rihanna"
+        ],
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Mar 14, 2026",
+        "url": "https://alltoc.com/tabloid/what-triggered-the-rihanna-house-shooting-probe"
+    },
+    {
+        "id": "are86gz7f",
+        "title": "WWE SmackDown Tonight: Contract Signings, Title Matches & Drama That’ll Leave You Shook!",
+        "excerpt": "From shocking contract signings to title matches that could change everything, tonight’s SmackDown is shaping up to be unmissable!",
+        "content": "<p>Get ready, wrestling fans, because tonight’s WWE SmackDown is serving up a heaping helping of drama, action, and jaw-dropping moments that’ll have you on the edge of your seat. The Chadster is here to break it all down, and trust us, this episode is shaping up to be one for the history books.</p><p>First up, contract signings are taking center stage, and you know that means tension is at an all-time high. Will there be a surprise challenger? A shocking betrayal? Or maybe even a surprise appearance from someone we weren’t expecting? One thing’s for sure—these signings are never just about the paperwork.</p><p>But that’s not all! Title matches are also on the docket, and with championships on the line, the stakes couldn’t be higher. Will we see a new champion crowned tonight, or will the current titleholders prove why they’re at the top of their game? Either way, it’s guaranteed to be a night of high-octane action.</p><p>And let’s not forget the perfectly scripted promos that WWE is known for. Whether it’s a fiery mic drop moment or a heartfelt speech that tugs at your heartstrings, these promos are the glue that holds it all together. Sure, Tony Khan might have his own style, but WWE’s got the formula down to a science.</p><p>So, grab your snacks, settle in, and get ready for a night of wrestling that’s equal parts unpredictable and unforgettable. The Chadster promises you won’t want to miss a single second of tonight’s SmackDown!</p>",
+        "celebrities": [
+            "The Chadster",
+            "Tony Khan"
+        ],
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/Cody-Rhodes-celebrates-reuiniting-with-the-WWE-Championship-at-the-end-of-WWE-Smackdown-on-Friday-March-6-2026-2000x1125.jpg",
+        "date": "Mar 13, 2026",
+        "url": "https://bleedingcool.com/tv/wwe-smackdown-preview-contract-signings-press-conferences/"
+    },
+    {
         "id": "nwfzdbunm",
         "title": "Nicole Kidman Drops Bombshell: Which A-List Actor Was Her Worst On-Screen Kiss?",
         "excerpt": "The Oscar winner spills the tea on a co-star's disastrous breath and a food ban that went viral!",
@@ -559,65 +622,5 @@ export const articles: Article[] = [
         "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/kimmel-trump-2.jpg",
         "date": "Mar 5, 2026",
         "url": "https://www.foxnews.com/media/jimmy-kimmel-jokes-trump-should-let-him-host-white-house-correspondents-dinner-think-ratings"
-    },
-    {
-        "id": "3xx3f8r25",
-        "title": "Selena Gomez's Mystery DM Slide Revealed—Benny Blanco Spills the Tea!",
-        "excerpt": "Selena Gomez just dropped a juicy DM bombshell, and Benny Blanco couldn’t help but react!",
-        "content": "<p>Selena Gomez is serving up some serious tea, and her husband Benny Blanco is here for it! While scrolling through her direct messages on his podcast <em>Friends Keep Secrets</em>, the Only Murders in the Building star revealed a mystery celeb who slid into her DMs. Benny’s reaction? Pure gold.</p><p>The heart wants what it wants, and apparently, so does this mystery admirer! Selena kept the identity under wraps, but fans are already speculating. Could it be a fellow A-lister or someone from her past? One thing’s for sure—this DM drama has us all hooked!</p>",
-        "celebrities": [
-            "Selena Gomez",
-            "Benny Blanco"
-        ],
-        "image_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20260303/40bb072c-7db2-425e-8a3b-686365db61f3_1772581713.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-        "date": "Mar 4, 2026",
-        "url": "https://www.eonline.com/news/1429274/benny-blanco-reacts-to-celeb-in-selena-gomezs-dms"
-    },
-    {
-        "id": "iuw4hun62",
-        "title": "Lorne Michaels' Secret Gig: Writing for Comedy Icon Phyllis Diller Before SNL Stardom",
-        "excerpt": "Before he ruled Saturday Night Live, Lorne Michaels got his big break writing for the legendary Phyllis Diller on a short-lived variety show that history almost forgot.",
-        "content": "<p>Long before Lorne Michaels became the king of late-night comedy, he was a hungry young writer trying to make his mark in Hollywood. His big break? Writing for none other than comedy legend Phyllis Diller on her ill-fated variety show that barely lasted a season. Talk about humble beginnings!</p><p>While most fans know Michaels as the mastermind behind Saturday Night Live, few realize he cut his teeth in the trenches of network television, crafting jokes for one of comedy's pioneering women. The gig may have been short-lived, but it clearly set the stage for his future empire. From Diller's variety show to creating SNL in 1975, Michaels has proven he knows how to spot and nurture comedic talent - even if his own start came from writing for someone else's vision.</p>",
-        "celebrities": [
-            "Lorne Michaels",
-            "Phyllis Diller"
-        ],
-        "image_url": "https://www.tvline.com/img/gallery/snl-creator-lorne-michaels-got-his-start-writing-for-a-hollywood-legends-forgotten-tv-show/l-intro-1769011399.jpg",
-        "date": "Mar 4, 2026",
-        "url": "https://www.tvline.com/2113772/snl-creator-lorne-michaels-first-job-writing-hollywood-legend-phyllis-diller-show/"
-    },
-    {
-        "id": "nlysva3ho",
-        "title": "Surprise $8 Billion Deal: ‘The Traitors,’ ‘MasterChef,’ and ‘Peaky Blinders’ All Under One Roof Now!",
-        "excerpt": "Jeff Zucker and Marco Bassetti’s $8 billion power move is shaking up the TV world!",
-        "content": "<p>Jeff Zucker and Marco Bassetti were once rivals eyeing the same prize, but now they’re teaming up in a jaw-dropping $8 billion deal. RedBird IMI and Banijay have merged All3Media with Banijay, putting iconic shows like 'The Traitors,' 'MasterChef,' and 'Peaky Blinders' under one roof. This merger is a game-changer for the entertainment industry, and fans are buzzing about what’s next for their favorite shows.</p><p>Marco Bassetti, CEO of Banijay, and Jeff Zucker, the mastermind behind RedBird IMI, are now co-running this powerhouse. With this merger, they’re set to dominate the TV landscape, and insiders say the possibilities are endless. Could this mean more spin-offs, crossovers, or even bigger budgets for these beloved series? Only time will tell, but one thing’s for sure—this is a deal that’s got everyone talking!</p>",
-        "celebrities": [],
-        "image_url": "https://variety.com/wp-content/uploads/2026/03/bassetti-zucker-split.jpg?w=1000&h=563&crop=1",
-        "date": "Mar 4, 2026",
-        "url": "https://variety.com/2026/tv/news/marco-bassetti-jeff-zucker-traitors-banijay-all3media-deal-1236678502/"
-    },
-    {
-        "id": "fkc9xf31z",
-        "title": "Inside the Lavish $6 Million Calabasas Mansion of Celebrity Event Guru David Tutera",
-        "excerpt": "From A-list weddings to this jaw-dropping estate, David Tutera’s life is nothing short of spectacular.",
-        "content": "<p>Move over, Kardashians—there’s a new star in Calabasas! Celebrity event planner extraordinaire David Tutera is putting his sprawling 9-acre estate on the market for a cool $5.9 million.</p><p>Nestled in the exclusive Country Ridge neighborhood, this seven-bedroom masterpiece is as glamorous as the weddings Tutera himself has orchestrated for the stars. With only seven homes in the area, Tutera’s property is the ultimate slice of luxury living in the hills of Calabasas.</p>",
-        "celebrities": [
-            "David Tutera"
-        ],
-        "image_url": "https://robbreport.com/wp-content/uploads/2026/03/2691-Country-Ridge-Road_Landing.jpg?w=681&h=383&crop=1",
-        "date": "Mar 4, 2026",
-        "url": "http://robbreport.com/shelter/celebrity-homes/david-tutera-calabasas-home-1237621968/"
-    },
-    {
-        "id": "ic6pvefay",
-        "title": "Paula Deen’s 1987 Bank Robbery Nightmare: Masked Gunman Was a Customer She Helped!",
-        "excerpt": "Paula Deen thought her life was over during a terrifying gunpoint robbery—until the shocking truth about her attacker came to light.",
-        "content": "<p>Paula Deen has opened up about a harrowing 1987 bank robbery that left her convinced she was about to die. The celebrity chef, who was working at a bank in Georgia at the time, was held at gunpoint by a masked robber who turned out to be a customer she had helped in the past.</p><p>In a candid interview with Fox News Digital, Deen revealed the chilling details of the ordeal, describing how she collapsed in fear during the terrifying encounter. The incident, which occurred long before her rise to fame as a culinary icon, has haunted her for decades. Now, with the news that her attacker was recently found dead in New York City, Deen is speaking out about the lasting impact of that fateful day.</p>",
-        "celebrities": [
-            "Paula Deen"
-        ],
-        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/paula-deen-in-blue-sweater.jpg",
-        "date": "Mar 3, 2026",
-        "url": "https://www.foxnews.com/entertainment/paula-deen-speaks-out-about-horrifying-gunpoint-robbery-after-1987-attacker-found-dead-nyc"
     }
 ];
