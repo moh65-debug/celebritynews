@@ -11,6 +11,66 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "dkma5f1v6",
+        "title": "Jake Paul's Shocking Political Pivot? Trump's Endorsement Sparks Rumors!",
+        "excerpt": "Jake Paul’s latest move has everyone talking—could this social media star be eyeing a future in politics?",
+        "content": "<p>At a packed campaign rally in Hebron, Kentucky, Jake Paul found himself in the political spotlight this week, thanks to a surprising endorsement from former President Donald Trump. The social media-famous boxer and influencer, known for his controversial antics, was publicly praised by Trump, sparking wild speculation about Paul’s potential political ambitions.</p><p>While Paul has yet to confirm any plans to run for office, the endorsement has fans and critics alike buzzing. Could this be the start of a new chapter for the YouTube-turned-boxer, or is it just another headline-grabbing stunt? Stay tuned as the drama unfolds!</p>",
+        "celebrities": [
+            "Jake Paul",
+            "Donald Trump"
+        ],
+        "image_url": "https://phantom.estaticos-marca.com/0be215c64d48199a8fc8fd996f973488/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/14/17735287589214.jpg",
+        "date": "Mar 15, 2026",
+        "url": "https://www.marca.com/en/boxing/2026/03/15/69b5e6ebe2704e48528b45a1.html"
+    },
+    {
+        "id": "nnoasvuzp",
+        "title": "Alberta Town Scores Big Win: $50K Boost for Arena Rebuild After Devastating Explosion",
+        "excerpt": "Taber's comeback story takes a thrilling turn with a major cash prize for its beloved hockey arena!",
+        "content": "<p>Taber, Alberta, is skating into a brighter future after a devastating explosion left its aging hockey arena out of commission. The southern Alberta town was recently revealed as one of the provincial winners of the Kraft Hockeyville contest, securing a whopping $50,000 to aid in the arena's much-needed rebuild. This victory comes as a beacon of hope for the tight-knit community, which has been rallying together to restore its cherished local landmark.</p><p>The town celebrated its win with a spirited street hockey fundraiser, showcasing the resilience and determination of Taber's residents. While the road to recovery is still long, this financial boost is a game-changer for the community's efforts to bring back the roar of the crowd and the thrill of the game. Stay tuned as Taber turns this setback into a comeback story worth cheering for!</p>",
+        "celebrities": [],
+        "image_url": "https://i.cbc.ca/ais/673a2a00-03d7-4bd9-a653-766eaa61334e,1767826448907/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C740%2C1920%2C1080%29%3BResize%3D620",
+        "date": "Mar 15, 2026",
+        "url": "https://www.cbc.ca/news/canada/calgary/taber-arena-explosion-rebuild-fundraiser-9.7128259"
+    },
+    {
+        "id": "ttoeg49zi",
+        "title": "Emilia Attias and Daughter Gina Slay NYC in Style: Museums, Fashion, and Mommy-Daughter Bliss!",
+        "excerpt": "After six months of MasterChef Celebrity drama, Emilia Attias and her mini-me hit NYC for a glamorous getaway full of culture and couture!",
+        "content": "<p>Emilia Attias is living her best life! Fresh off six intense months of MasterChef Celebrity (Telefe), the actress hit pause on the drama and jetted off to NYC with her adorable daughter Gina. The duo has been turning heads with their chic outfits, museum-hopping, and picture-perfect moments across the Big Apple.</p><p>Emilia, who shares Gina with her ex Turco Naim, seems to be embracing the ultimate mommy-daughter getaway. From iconic landmarks to high-end shopping sprees, this vacation screams #Goals. Could this be a hint of a new chapter for the star? Stay tuned!</p>",
+        "celebrities": [
+            "Emilia Attias",
+            "Gina (daughter)",
+            "Turco Naim"
+        ],
+        "image_url": "https://fotos.perfil.com/2026/03/14/trim/1140/641/emilia-attias-y-su-hija-gina-2203039.jpg",
+        "date": "Mar 14, 2026",
+        "url": "https://caras.perfil.com/noticias/celebridades/mejores-fotos-vacaciones-emilia-attias-hija-gina-en-nueva-york-museos-relax-mucha-moda.phtml"
+    },
+    {
+        "id": "nk2l80a6d",
+        "title": "A&E's Shocking Week: Celebs, Scandals, and Secret Tapes!",
+        "excerpt": "From explosive auctions to jaw-dropping celebrity scandals, A&E's lineup this week is serving major drama!",
+        "content": "<p>Hold on to your remotes, because A&E is about to drop some seriously juicy content this week! The network is pulling out all the stops with a lineup that mixes high-stakes bidding wars, shocking celebrity secrets, and courtroom confessions that will leave you gasping.</p><p>First up, the fan-favorite auction show Quem Dá Mais? is back with brand-new episodes that promise even more intense bidding battles and jaw-dropping finds. But that's just the appetizer. The real headline-grabber? Segredos das Celebridades: Sex Tapes, a scandalous deep dive into the private lives of the rich and famous. Think you know your favorite stars? Think again. And if that's not enough drama for you, Acusado: Fui Eu Que Fiz Isso… brings you closer than ever to real-life courtroom confessions that are stranger than fiction.</p>",
+        "celebrities": [],
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInzGP717rccLMYH0W9tQ7RqHPeXRuxhYtmaebFqgNsWHO6qN9mauduxD0Bk1k4nYsnrYF8aAHlGkd4nO9IuC3kgf7g1S6j5f4sejZSSD8N4fqhDXB4jGIdbcncALlcTxcSBfUngA40GiKRsBW-ZInanQttEPRyHb-usZh99Dip1DRvk5Ax4FQmibp2VxN/w1600/qdm-s16ep2.jpg",
+        "date": "Mar 14, 2026",
+        "url": "https://www.ouniversodatv.com/2026/03/a-destaques-da-programacao-de-16-22-de.html"
+    },
+    {
+        "id": "n8siqb52f",
+        "title": "Internet Conspiracy Madness: Sydney Sweeney and Erika Kirk at the Center of Viral 'Transvestigation' Rumors",
+        "excerpt": "A wild online conspiracy theory is causing a stir, with fans and critics alike buzzing about bizarre claims targeting two high-profile women.",
+        "content": "<p>The internet is once again proving to be a breeding ground for wild conspiracy theories, and this time, it’s Hollywood star Sydney Sweeney and conservative figure Erika Kirk who find themselves at the center of the storm. A bizarre trend dubbed 'transvestigation' has gone viral, with baseless claims circulating that the two women were secretly born male. Fans and critics alike are scratching their heads, wondering how such outlandish rumors could gain traction in the first place.</p><p>While neither Sweeney nor Kirk has addressed the rumors directly, the online chatter has only intensified, with social media platforms buzzing over the absurdity of it all. From Hollywood to political circles, the theory has sparked debates about the lengths some will go to spread misinformation. One thing’s for sure: the internet never fails to deliver the unexpected, and this latest conspiracy is no exception.</p>",
+        "celebrities": [
+            "Sydney Sweeney",
+            "Erika Kirk"
+        ],
+        "image_url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/03/fb_image_69b5d944058ae.png",
+        "date": "Mar 14, 2026",
+        "url": "https://www.boredpanda.com/weird-theory-claims-erika-kirk-and-sydney-sweeney-were-born-male/"
+    },
+    {
         "id": "3rvyk11q8",
         "title": "The Makjang Madness Returns: Doctor Shin is TV Chosun's Latest Obsession!",
         "excerpt": "Doctor Shin is here to prove that TV Chosun has a fever, and the only prescription is more drama!",
@@ -562,65 +622,5 @@ export const articles: Article[] = [
         "image_url": "https://media.radaronline.com/brand-img/UcgYa4F01/1200x628/nicole-kidman-set-for-ultimate-nepo-baby-gift-to-trolled-daughter-to-make-her-feel-better-after-modeling-mockery-pp-1772738557409.jpg",
         "date": "Mar 6, 2026",
         "url": "https://radaronline.com/p/nicole-kidman-nepo-baby-gift-daughter-sunday-rose-modeling-backlash/"
-    },
-    {
-        "id": "2gfy2zk48",
-        "title": "Eggplant on 'The Masked Singer' Season 14: Who's Hiding Under That Costume?",
-        "excerpt": "The mystery of Eggplant on 'The Masked Singer' Season 14 has everyone guessing—could this be your favorite star?",
-        "content": "<p>The Masked Singer is back, and the drama is juicier than ever! Season 14 of the hit FOX singing competition series aired on Wednesday night (March 4), and fans are already buzzing about the latest celebrity to don a costume and mask.</p><p>The show, which began in South Korea, features celebrities singing songs while wearing costumes and face masks concealing their identities. This season, Eggplant has everyone guessing—who could it be? With clues, guesses, and spoilers swirling, the internet is on fire trying to unmask this mysterious performer.</p><p>Could Eggplant be a chart-topping singer, a Hollywood A-lister, or even a reality TV star? The clues are dropping fast, and fans are piecing together the puzzle. Stay tuned as we dive into the wild theories and shocking revelations about Eggplant’s true identity!</p>",
-        "celebrities": [],
-        "image_url": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/03/masked-eggplant.jpg",
-        "date": "Mar 5, 2026",
-        "url": "https://www.justjared.com/2026/03/04/who-is-eggplant-on-the-masked-singer-season-14-clues-guesses-spoilers/"
-    },
-    {
-        "id": "m9hngcu43",
-        "title": "Casino Drama: Former Celebrity Car Dealer Faces Jail Time Over Fiery MGM Feuds",
-        "excerpt": "Sparks are flying as a Nevada congressional hopeful gets banned from MGM Resorts nationwide after a social media showdown!",
-        "content": "<p>Talk about a high-stakes showdown! A Nevada congressional candidate and former celebrity car dealer is in hot water after MGM Resorts hit him with a sweeping ban from all their properties nationwide. The drama? Months of fiery social media attacks aimed at the casino giant, according to TMZ.</p><p>Sources say MGM fired off a cease-and-desist letter, and things are escalating fast. With jail time on the line, this political hopeful’s wild ride just took a detour into scandal territory. Stay tuned—this story’s far from over!</p>",
-        "celebrities": [
-            "Celebrity Car Dealer"
-        ],
-        "image_url": "https://www.rawstory.com/media-library/the-nevada-state-flag-photo-credit-rarrarorro-shutterstock.jpg?id=65153188&width=1200&height=600&coordinates=0%2C13%2C0%2C14",
-        "date": "Mar 5, 2026",
-        "url": "https://www.rawstory.com/republican-2675555814/"
-    },
-    {
-        "id": "mpdrml0j4",
-        "title": "Lou Holtz, Notre Dame's Legendary Coach and Trump Ally, Dies at 89",
-        "excerpt": "College football icon Lou Holtz, who revitalized Notre Dame and later became a vocal Trump supporter, has passed away at 89.",
-        "content": "<p>Lou Holtz, the charismatic college football coach who transformed Notre Dame into a powerhouse and later became a prominent TV analyst and outspoken political supporter of Donald Trump, has died at the age of 89. The news was confirmed by Notre Dame in a statement released on Wednesday.</p><p>Known for his fiery personality and motivational speeches, Holtz led the Fighting Irish to a national championship in 1988, cementing his legacy as one of the sport's most influential figures. Beyond the gridiron, he became a fixture on ESPN and a vocal advocate for conservative causes, often aligning himself with former President Trump. Holtz's larger-than-life persona and unwavering opinions made him a polarizing yet unforgettable figure in both sports and politics.</p>",
-        "celebrities": [
-            "Lou Holtz",
-            "Donald Trump"
-        ],
-        "image_url": "https://img1-azrcdn.newser.com/image/1668920-12-20260304184401.jpeg",
-        "date": "Mar 5, 2026",
-        "url": "https://www.newser.com/story/384820/lou-holtz-who-led-notre-dame-to-a-championship-dies-at-89.html"
-    },
-    {
-        "id": "jq4mjzhb6",
-        "title": "Susana Roccasalvo Drops Bombshell About Her Love Life: 'I Get a Collagen Shock Every Now and Then'",
-        "excerpt": "The veteran journalist spilled the tea on her romantic life during a Telefe stream, leaving fans stunned with her candid revelations.",
-        "content": "<p>Susana Roccasalvo, the ever-glamorous journalist, set tongues wagging this Wednesday, March 4th, during her appearance on the MasterChef react stream on Telefe. Known for her sharp wit and no-nonsense attitude, Roccasalvo took everyone by surprise when she opened up about her love life in a way that was both shocking and refreshingly honest.</p><p>\"Every now and then, I give myself a collagen shock,\" she quipped, leaving the audience both intrigued and amused. But that wasn’t all—Roccasalvo went on to reveal what she’s really looking for in a partner, and let’s just say, her standards are as high as her heels. With over 2,659 characters of juicy details, this is one interview you won’t want to miss!</p>",
-        "celebrities": [
-            "Susana Roccasalvo"
-        ],
-        "image_url": "https://fotos.perfil.com/2026/03/05/trim/1140/641/susana-roccasalvo-2196862.jpg",
-        "date": "Mar 5, 2026",
-        "url": "https://exitoina.perfil.com/noticias/corazon/susana-roccasalvo-sorprendio-al-hablar-de-su-vida-amorosa-cada-tanto-me-doy-un-shock-de-colageno.phtml"
-    },
-    {
-        "id": "5xdhi1n3z",
-        "title": "Jimmy Kimmel's Hilarious Pitch: Host the White House Correspondents' Dinner and 'Watch the Ratings Soar'!",
-        "excerpt": "Late-night star Jimmy Kimmel throws his hat in the ring to host the White House Correspondents' Dinner, promising 'ratings gold' with Trump in attendance.",
-        "content": "<p>Jimmy Kimmel is making a bold move that’s got everyone talking! The late-night host jokingly threw his name into the hat to host the White House Correspondents' Dinner, and his reasoning is pure gold. After learning that President Donald Trump will attend this year’s event, Kimmel quipped that he’d be the perfect choice to keep things entertaining—and, of course, to 'think of the ratings.' </p><p>During his Tuesday night monologue, Kimmel couldn’t resist poking fun at the idea of sharing a stage with the former president. 'If Trump’s going to be there, why not let me host?' he joked. 'It’s a win-win: he gets roasted, and I get to watch the ratings skyrocket.' The crowd erupted in laughter, and social media quickly caught fire with reactions to Kimmel’s playful pitch. Whether it’s a serious offer or just another hilarious bit, one thing’s for sure—Kimmel knows how to keep us entertained!</p>",
-        "celebrities": [
-            "Jimmy Kimmel",
-            "Donald Trump"
-        ],
-        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/kimmel-trump-2.jpg",
-        "date": "Mar 5, 2026",
-        "url": "https://www.foxnews.com/media/jimmy-kimmel-jokes-trump-should-let-him-host-white-house-correspondents-dinner-think-ratings"
     }
 ];
