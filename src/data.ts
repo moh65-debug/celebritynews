@@ -11,6 +11,59 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "39jmv5p36",
+        "title": "Mckenna Grace’s Pokémon Cards Steal the Show at the Oscars!",
+        "excerpt": "Mckenna Grace proves she’s the ultimate geek-chic icon with her Pokémon cards at the Oscars!",
+        "content": "<p>Move over, diamonds—Mckenna Grace just brought Pokémon cards to the Oscars, and we’re obsessed! The 17-year-old actress, known for her roles in The Handmaid’s Tale and Ghostbusters: Afterlife, strutted down the red carpet in a stunning gown, but it was her secret accessory that had fans buzzing.</p><p>While chatting with reporters, Mckenna revealed she tucked a deck of Pokémon cards into her clutch, proving she’s not just a Hollywood star but a total geek at heart. “I couldn’t leave home without them,” she said with a laugh, adding that the cards are her good-luck charm. Talk about a red-carpet power move!</p><p>Mckenna’s playful nod to her nerdy side has fans cheering, and honestly, we’re here for it. Who says you can’t be glamorous and a gaming queen at the same time? Keep slaying, Mckenna!</p>",
+        "celebrities": [
+            "Mckenna Grace"
+        ],
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/whos_that_pokemon_mckenna-2000x1125.jpg",
+        "date": "Mar 16, 2026",
+        "url": "https://bleedingcool.com/games/mckenna-grace-brought-pokemon-cards-to-the-oscars/"
+    },
+    {
+        "id": "ztr1brc2n",
+        "title": "Oscar Fashion Fails: The Most Shocking Red Carpet Disasters of 2026",
+        "excerpt": "From cringe-worthy couture to style slip-ups, these stars proved that even the biggest names can have an off night.",
+        "content": "<p>The 2026 Academy Awards brought the glitz and glamour we expect from Hollywood’s biggest night, but not every star hit the fashion bullseye. While the red carpet dazzled with bold statements and jaw-dropping looks, a few celebrities left us scratching our heads. From questionable choices to outright disasters, here’s a rundown of the most talked-about fashion fails that stole the spotlight for all the wrong reasons.</p><p>Timothée Chalamet, known for his daring style, seemed to miss the mark this time, opting for an avant-garde ensemble that left fans divided. Anne Hathaway’s gown, though elegant in theory, suffered from a questionable fit that had everyone buzzing. These and other stars proved that even the most stylish can have an off night. Let’s dive into the fashion faux pas that had us all talking!</p>",
+        "celebrities": [
+            "Timothée Chalamet",
+            "Anne Hathaway"
+        ],
+        "image_url": "https://i.insider.com/69b74de04d65ec51752a08c3?width=1200&format=jpeg",
+        "date": "Mar 16, 2026",
+        "url": "https://www.businessinsider.com/oscars-worst-dressed-celebrities-red-carpet-2026-3"
+    },
+    {
+        "id": "0zox5q4nn",
+        "title": "Arielle Kebbel Spills on the Pressure of Joining the ‘Yellowstone’ Universe: ‘We All Understood the Assignment’",
+        "excerpt": "Arielle Kebbel reveals the weight of stepping into the ‘Yellowstone’ legacy in CBS’s new drama Marshals.",
+        "content": "<p>Arielle Kebbel is opening up about the pressure of stepping into the world of ‘Yellowstone’ for her new CBS drama, Marshals. As a longtime fan of the hit series, Kebbel admits she felt the weight of the Dutton legacy and the responsibility to honor the franchise’s iconic storytelling.</p><p>‘I definitely felt the weight of and the obligation to respect the Y,’ Kebbel shared, hinting at the high expectations that come with joining such a beloved universe. The actress, known for her roles in ‘Ballers’ and ‘The Vampire Diaries,’ is ready to prove she’s up for the challenge.</p><p>Marshals promises to bring a fresh perspective to the Yellowstone saga, and Kebbel’s enthusiasm is palpable. ‘We all understood the assignment,’ she said, signaling that the cast is ready to deliver the drama and intensity fans crave. Will Kebbel’s character rise to the occasion? Only time will tell!</p>",
+        "celebrities": [
+            "Arielle Kebbel"
+        ],
+        "image_url": "https://decider.com/wp-content/uploads/2026/03/interview-Arielle-Kebbel.jpg?quality=75&strip=all&w=1200",
+        "date": "Mar 16, 2026",
+        "url": "https://decider.com/2026/03/15/marshals-arielle-kebbel-belle-skinner-interview/"
+    },
+    {
+        "id": "rutypv2d7",
+        "image_url": "https://consequence.net/wp-content/uploads/2025/12/rob-reiner-was-the-american-everyman.jpg",
+        "date": "Mar 16, 2026",
+        "url": "https://consequence.net/2026/03/rob-reiner-memorial-2026-oscars/"
+    },
+    {
+        "id": "mgg8lydze",
+        "title": "Star Wars' Secret Celebrity Wishlist: Who's Begging to Join the Galaxy?",
+        "excerpt": "From childhood dreams to Hollywood power moves, these A-listers are pulling out all the stops to land a role in the next Star Wars epic.",
+        "content": "<p>When a franchise has been running for 49 years, the kids who were fans from the start grow up, and some of them end up with enough clout to talk themselves into being in another movie. Casting a Star Wars film is a big job, but celebrity volunteers for the sm… [+612 chars]</p>",
+        "celebrities": [],
+        "image_url": "https://uploads.neatorama.com/images/posts/678/127/127678/1773621341-0.jpg",
+        "date": "Mar 16, 2026",
+        "url": "https://www.neatorama.com/2026/03/15/Everyone-Wants-to-Be-in-a-iStar-Warsi-Movie/"
+    },
+    {
         "id": "dkma5f1v6",
         "title": "Jake Paul's Shocking Political Pivot? Trump's Endorsement Sparks Rumors!",
         "excerpt": "Jake Paul’s latest move has everyone talking—could this social media star be eyeing a future in politics?",
@@ -562,65 +615,5 @@ export const articles: Article[] = [
         "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/MCDTRTH_EC117.jpg?w=1296&h=730&crop=1",
         "date": "Mar 6, 2026",
         "url": "http://www.hollywoodreporter.com/movies/movie-news/ben-stiller-white-house-tropic-thunder-from-video-1236524041/"
-    },
-    {
-        "id": "jzm3ohl1q",
-        "title": "Lamar Odom's Shocking New Career Move: From NBA Star to College Basketball Coach!",
-        "excerpt": "After a tumultuous battle with addiction, Lamar Odom is making a surprising comeback in the basketball world—this time, on the sidelines!",
-        "content": "<p>Hold onto your hats, folks, because Lamar Odom is back in the game—but not in the way you might expect! The former NBA superstar, known for his incredible versatility and two championship rings, is reportedly eyeing a new role in basketball. That's right, Lamar is trading in his jersey for a whistle and stepping into the world of college basketball coaching.</p><p>Sources close to the former Laker say that Lamar has been quietly exploring opportunities to mentor young athletes, drawing on his years of experience both on and off the court. After his highly publicized struggles with addiction, this new chapter could be just the fresh start he needs. Could we see Lamar Odom leading a team to victory in a whole new way? Stay tuned, because this story is just getting started!</p>",
-        "celebrities": [
-            "Lamar Odom"
-        ],
-        "image_url": "https://phantom.estaticos-marca.com/cb66392ffb92f8c38cbd2613804479f9/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/06/17727594890114.jpg",
-        "date": "Mar 6, 2026",
-        "url": "https://www.marca.com/en/ncaa/2026/03/06/69aa31ca46163f24538b45ef.html"
-    },
-    {
-        "id": "zwvycrn2y",
-        "title": "Kylie Jenner's Shocking Gen Z Move: Is She Ditching Alcohol for Good?",
-        "excerpt": "Is the reality star ready to swap vodka sodas for something a little more... sober?",
-        "content": "<p>Kylie Jenner, the ever-busy beauty mogul and reality TV star, is reportedly making a major lifestyle change that's got fans buzzing. Known for her hustle—juggling Kylie Cosmetics, her clothing line, and the family's hit reality show—Kylie might be adding a surprising new chapter to her already packed life.</p><p>Rumors are swirling that the 26-year-old is pivoting away from alcohol, a move that’s being hailed as a very Gen Z decision. Could this be the end of the vodka soda era for the youngest Jenner? While she’s always been the epitome of a multi-tasking mogul, this potential shift suggests Kylie is prioritizing her health and wellness in a big way. Stay tuned—this story is just getting started!</p>",
-        "celebrities": [
-            "Kylie Jenner"
-        ],
-        "image_url": "https://cdn.mos.cms.futurecdn.net/6WWwv2faeGrNUGkMXVRxBh-1280-80.jpg",
-        "date": "Mar 6, 2026",
-        "url": "https://www.cinemablend.com/streaming-news/very-gen-z-move-kylie-jenner-may-be-pivoting-away-alcohol"
-    },
-    {
-        "id": "cpxmlxbl2",
-        "title": "Elsbeth's Got a Hairy Situation! Carrie Preston Tackles Wild New Case",
-        "excerpt": "Carrie Preston's Elsbeth is diving into her wildest case yet—and it's seriously hairy!",
-        "content": "<p>Hold onto your hairbrushes, because Elsbeth is back with a mane event! In tonight's episode, S03E12: \"All's Hair,\" our favorite legal eagle, Carrie Preston, is about to get tangled up in a case that's anything but smooth. Showrunner Jonathan Tolins and EPs Robert King and Michelle King have cooked up a follicle-filled mystery that's sure to keep us on the edge of our seats.</p><p>Elsbeth (Preston) is taking on a client whose secrets are as wild as their mane, and it looks like this case will have her combing through more than just legal documents. Will she be able to untangle the truth, or will this hairy situation leave her in knots? Tune in to CBS tonight to find out!</p>",
-        "celebrities": [
-            "Carrie Preston"
-        ],
-        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/02/3142609_0397b-2000x1125.jpg",
-        "date": "Mar 6, 2026",
-        "url": "https://bleedingcool.com/tv/can-elsbeth-comb-through-a-hairy-case-s03e12-alls-hair-preview/"
-    },
-    {
-        "id": "ruxxb1hy8",
-        "title": "Logan Paul’s $1 Million Dare to NFL Stars: Who’s Brave Enough to Step in the Ring?",
-        "excerpt": "Logan Paul’s latest $1 million boxing challenge to NFL players is causing a social media frenzy—will any pro athlete take the bait?",
-        "content": "<p>Logan Paul is at it again, and this time he’s aiming for the NFL! The YouTube-turned-boxer has thrown down a jaw-dropping $1 million challenge to professional football players, daring them to trade their cleats for gloves and step into the boxing ring with him. The internet is buzzing, and reactions are pouring in faster than a viral TikTok trend.</p><p>Known for his high-profile bouts and controversial stunts, Logan’s latest move has fans and athletes alike questioning who, if anyone, will accept the challenge. Will it be a seasoned linebacker ready to prove his toughness, or a wide receiver looking to add a new title to their résumé? One thing’s for sure—Logan Paul knows how to keep the spotlight on himself, and this time, he’s got the entire sports world talking.</p>",
-        "celebrities": [
-            "Logan Paul"
-        ],
-        "image_url": "https://phantom.estaticos-marca.com/e93fa81399ef4e946a68d99f84b5156a/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/06/17727584495292.png",
-        "date": "Mar 6, 2026",
-        "url": "https://www.marca.com/en/wwe/2026/03/06/69aa25e946163fee088b45a6.html"
-    },
-    {
-        "id": "0kqu1k1gn",
-        "title": "Nicole Kidman's Shocking Plan to Spoil Trolled Daughter with 'Nepo Baby' Dream Gift!",
-        "excerpt": "After her teen daughter faced brutal online mockery for modeling, Nicole Kidman is reportedly planning a jaw-dropping surprise to lift her spirits.",
-        "content": "<p>Nicole Kidman is pulling out all the stops to cheer up her 17-year-old daughter, who recently became the target of online trolls after stepping into the fashion spotlight. The teenager, who made her runway debut at Paris Fashion Week in 2024, found herself at the center of a social media storm, with critics quick to mock her modeling debut.</p><p>But Mama Bear Kidman isn't letting the haters win. Sources say the Oscar-winning actress is planning a major 'nepo baby' gift to make her daughter feel like the star she is. Could it be a luxury getaway, a designer wardrobe, or something even more extravagant? Only time will tell, but one thing's for sure—Nicole's got her baby's back!</p>",
-        "celebrities": [
-            "Nicole Kidman"
-        ],
-        "image_url": "https://media.radaronline.com/brand-img/UcgYa4F01/1200x628/nicole-kidman-set-for-ultimate-nepo-baby-gift-to-trolled-daughter-to-make-her-feel-better-after-modeling-mockery-pp-1772738557409.jpg",
-        "date": "Mar 6, 2026",
-        "url": "https://radaronline.com/p/nicole-kidman-nepo-baby-gift-daughter-sunday-rose-modeling-backlash/"
     }
 ];
