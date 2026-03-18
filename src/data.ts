@@ -11,6 +11,67 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "hsygvptpk",
+        "title": "OMG! Rachel Dratch, Mark Duplass & Katie Nolan Battle It Out on Celebrity Jeopardy!",
+        "excerpt": "Can these A-listers handle the pressure of the iconic game show?",
+        "content": "<p>Get ready for some serious trivia action as the fourth season of Celebrity Jeopardy! kicks off with an all-star lineup. Rachel Dratch, Mark Duplass, and Katie Nolan are set to face off in what promises to be a hilarious and intense episode.</p><p>Will Rachel's comedic timing give her an edge? Can Mark's indie film charm translate to game show success? And will Katie's sports expertise pay off? Tune in to find out who will reign supreme in this battle of wits!</p>",
+        "celebrities": [
+            "Rachel Dratch",
+            "Mark Duplass",
+            "Katie Nolan"
+        ],
+        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
+        "date": "Mar 17, 2026",
+        "url": "https://post.rlsbb.to/celebrity-jeopardy-s04e01-720p-web-x264-ngp/"
+    },
+    {
+        "id": "lc5xhtbvy",
+        "title": "Harrison Ford’s Secret Mission: Saving the Planet with His Star Power",
+        "excerpt": "The Indiana Jones star is trading in his whip for a cause—and world leaders are finally listening.",
+        "content": "<p>Harrison Ford, the rugged Hollywood legend, has taken on a new kind of adventure—one that doesn’t involve dodging boulders or battling Nazis. This time, the 80-year-old actor is channeling his iconic status into a mission to save the planet. Known for his decades-long commitment to conservation, Ford is now using his star power to make world leaders sit up and take notice.</p><p>But here’s a fun fact that might surprise you: Ford has a snake named after him! Meet Tachymenoides harrisonfordi, a rare, harmless species of slender snake found in the Andes, measuring just 16 inches long. It’s a quirky honor for a man who’s spent his life battling villains on-screen and fighting for the environment off-screen. Could this be his most fascinating role yet?</p>",
+        "celebrities": [
+            "Harrison Ford"
+        ],
+        "image_url": "https://i.natgeofe.com/n/62db208a-54b1-4f7f-89b9-26b70c8fdcde/MM10355_H_260121_00124_16x9.jpg?w=1200",
+        "date": "Mar 17, 2026",
+        "url": "https://www.nationalgeographic.com/culture/nat-geo-33/article/harrison-ford-2026"
+    },
+    {
+        "id": "ebpl50e5a",
+        "title": "Sabrina and Idris Elba’s Secret Plan to Turn a Sierra Leone Island Into a Glamorous Eco-Haven",
+        "excerpt": "The power couple is taking on mass tourism with their bold vision for a sustainable tropical paradise.",
+        "content": "<p>Sabrina and Idris Elba are making waves off the coast of Sierra Leone with a bold and eco-friendly vision for Sherbro Island. Known for its lush landscapes and tight-knit community of farmers and fishermen, this tropical gem—roughly the size of Chicago—is about to get a glamorous makeover.</p><p>The couple’s plan? To transform the island into a futuristic eco-city that balances sustainability with luxury. While some may see it as a challenge to the typical tourist trap, the Elbas are determined to create a haven that celebrates both nature and innovation. With a population of just 40,000, Sherbro Island is poised to become a model for responsible tourism and community-driven development.</p><p>Could this be the next big celebrity-backed project to watch? Stay tuned as the Elbas bring their star power—and their passion for the planet—to this hidden paradise.</p>",
+        "celebrities": [
+            "Sabrina Elba",
+            "Idris Elba"
+        ],
+        "image_url": "https://i.natgeofe.com/n/90de1fa3-4408-446f-a80a-d3f4df07cf06/MM10355_L_260124_LOOK_2_0002_16x9.jpg?w=1200",
+        "date": "Mar 17, 2026",
+        "url": "https://www.nationalgeographic.com/culture/nat-geo-33/article/sabrina-idris-elba-2026"
+    },
+    {
+        "id": "nkx3r8x46",
+        "title": "Shailene Woodley Dives Deep: Hollywood’s New Ocean Crusader?",
+        "excerpt": "The star’s latest mission proves she’s not just another celeb jumping on a cause bandwagon.",
+        "content": "<p>Shailene Woodley is making waves—literally. The pragmatic actress, known for her eco-conscious lifestyle, is taking her activism to new depths. When Greenpeace came calling in 2019, she didn’t just slap her name on a campaign; she boarded an expedition to make a tangible impact. Because for Woodley, if she’s going to put her energy into something, it’s got to move the needle.</p><p>In an era where celebrity activism often feels like a hashtag afterthought, Woodley’s approach is refreshingly hands-on. Forget the red carpet—this star is diving into the trenches of ocean conservation, proving that her commitment to the cause is as deep as the seas she’s fighting to protect.</p>",
+        "celebrities": [
+            "Shailene Woodley"
+        ],
+        "image_url": "https://i.natgeofe.com/n/5c98dfe3-9afa-4466-891a-03dbc7606647/MM10355_B_251125_0261_16x9.jpg?w=1200",
+        "date": "Mar 17, 2026",
+        "url": "https://www.nationalgeographic.com/culture/nat-geo-33/article/shailene-woodley-2026"
+    },
+    {
+        "id": "74etlbrbk",
+        "title": "Sad News: Back to the Future III Star Matt Clark Dies at 89",
+        "excerpt": "Hollywood legend Matt Clark, beloved for his iconic roles, has passed away at 89.",
+        "content": "<p>Breaking news in Hollywood: Matt Clark, the talented actor known for his unforgettable role in Back to the Future III, has passed away at the age of 89. Clark's family shared the heartbreaking news with TMZ, revealing that he died peacefully, just as he had lived—dedicated to his craft and uninterested in the glitz and glamour of fame.</p><p>Clark was a true actor's actor, earning respect and admiration from his peers for his commitment to the art of storytelling. His career spanned decades, and he had the privilege of working alongside some of the biggest names in the Western genre, leaving an indelible mark on the industry. While he may not have sought the spotlight, his contributions to film and television will never be forgotten.</p>",
+        "celebrities": [],
+        "image_url": "https://www.nzherald.co.nz/resizer/v2/GD6GSRVVZ5B4HDAS2K3XCFZRXA.jpg?auth=66a1293c69bc8196b95661a8eb2853a59cab27ab72ccdffa26eda273645de348&width=1200&height=675&quality=70&focal=436%2C433&smart=false",
+        "date": "Mar 16, 2026",
+        "url": "https://www.nzherald.co.nz/entertainment/back-to-the-future-iii-actor-matt-clark-dead-aged-89/2CN4M3BHCNGXPD6CA4JZBCKKZA/"
+    },
+    {
         "id": "39jmv5p36",
         "title": "Mckenna Grace’s Pokémon Cards Steal the Show at the Oscars!",
         "excerpt": "Mckenna Grace proves she’s the ultimate geek-chic icon with her Pokémon cards at the Oscars!",
@@ -556,64 +617,5 @@ export const articles: Article[] = [
         "image_url": "https://phantom.estaticos-marca.com/d32f8c73bf92aad11f722709a73a7f54/crop/0x0/2047x1365/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/07/17729137486587.jpg",
         "date": "Mar 7, 2026",
         "url": "https://www.marca.com/en/nfl/washington-commanders/2026/03/07/69ac84cb268e3e972a8b45ad.html"
-    },
-    {
-        "id": "0us76oz7d",
-        "title": "Timothée Chalamet's Opera Snub Sparks Major Backlash—Did He Just Diss the Arts?",
-        "excerpt": "Timothée Chalamet's casual remark about opera and ballet has the fine arts community—and fans—up in arms!",
-        "content": "<p>Timothée Chalamet is feeling the heat after making a controversial comment about opera and ballet, suggesting that \"no one cares\" about the fine arts. The actor, known for his roles in films like <em>Call Me by Your Name</em> and <em>Dune</em>, faced immediate backlash online after his remarks went viral.</p><p>The Metropolitan Opera House didn't hold back, responding with a cheeky social media post that seemed to call out Chalamet directly. While the actor's comment may have been taken out of context, it's clear that his words struck a nerve with fans and art enthusiasts alike. The debate over whether his statement was a harmless opinion or a disrespectful jab at the arts continues to rage on.</p><p>Will Chalamet address the controversy? Stay tuned as this story develops!</p>",
-        "celebrities": [
-            "Timothée Chalamet"
-        ],
-        "image_url": "https://www.thewrap.com/wp-content/uploads/2026/02/TheWrap-Photos-10-6.jpg",
-        "date": "Mar 7, 2026",
-        "url": "https://www.thewrap.com/culture-lifestyle/social-trends/timothee-chalamet-online-backlash-opera-ballet-comment/"
-    },
-    {
-        "id": "vof6alzm7",
-        "title": "Delroy Lindo Shuts Down N-Word Drama & Spills Oscars Night Secrets!",
-        "excerpt": "Delroy Lindo reveals his surprising BAFTA stage thoughts while shutting down controversy to focus on Oscar night joy!",
-        "content": "<p>Delroy Lindo, the Sinners star, is keeping it classy while the Hollywood rumor mill churns. The veteran actor, known for his magnetic screen presence, has once again gracefully sidestepped the N-word incident that's been making waves in the industry.</p><p>But here's where it gets juicy - Lindo's not just deflecting; he's redirecting our attention to what really matters: Oscar night! Sources close to the star reveal he's been practicing his red carpet strut and perfecting his acceptance speech (just in case!).</p><p>The BAFTA stage incident? Apparently, Lindo's first thought was pure professionalism mixed with a dash of Hollywood magic. Our insider spills that the actor was more focused on delivering a powerful performance than dwelling on controversy.</p><p>Will this strategy pay off on Oscar night? Lindo's betting on it, and so are we! Stay tuned as we watch this class act navigate Hollywood's biggest night with style and grace.</p>",
-        "celebrities": [
-            "Delroy Lindo"
-        ],
-        "image_url": "https://bossip.com/wp-content/uploads/sites/28/2026/03/17728382528731.jpg?quality=80&strip=all&w=1024&crop=0,0,100,683px",
-        "date": "Mar 7, 2026",
-        "url": "https://bossip.com/4516416/sinners-delroy-lindo-reacts-baftas-n-word/"
-    },
-    {
-        "id": "620wnijeo",
-        "title": "Is Jack Schlossberg a Serious Politician, a Fantasist, or Just an Internet Troll? The Truth Revealed!",
-        "excerpt": "Jack Schlossberg claims he's his own campaign manager for New York's 12th Congressional District—but is he serious or just trolling us all?",
-        "content": "<p>Jack Schlossberg, the only grandson of President John F. Kennedy, is making waves with his bid for New York's 12th Congressional District. But who is the real Jack Schlossberg? Is he a serious politician following in the footsteps of his legendary family, a fantasist with big dreams, or just an internet troll playing games with the public?</p><p>With the Camelot legacy looming large, it's no surprise that Schlossberg is stepping into the political arena, just like so many of his family members before him. But as he claims to be his own campaign manager, we can't help but wonder: is this a genuine political move or just another headline-grabbing stunt?</p>",
-        "celebrities": [
-            "Jack Schlossberg",
-            "John F. Kennedy"
-        ],
-        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/03/newspress-collage-470iqex53-1772837557801.jpg?quality=75&strip=all&1772819679&w=1200",
-        "date": "Mar 7, 2026",
-        "url": "https://nypost.com/2026/03/06/us-news/who-is-the-real-schlossberg-serious-politician-fantasist-internet-troll-or-all-three/"
-    },
-    {
-        "id": "4e3fuxy94",
-        "title": "Portable didn’t beat me; it was paid advert, — Celebrity bodyguard, Kelvin Power",
-        "excerpt": "Meet Kelvin Power, the celebrity bodyguard for Kizz Daniel. He discusses his journey from law student to professional security, acting, and the truth about\n\nRead More: https://punchng.com/portable-didnt-beat-me-it-was-paid-advert-celebrity-bodyguard-kelvin-po…",
-        "content": "<p>Kelvin Atobiloye, popularly known as Kelvin Power, speaks with NAOMI CHIMA about his journey as a bodyguard, bodybuilder, and actor\r\nHow did the nickname, Kelvin Power come about?\r\nThey call me Kelvi… </p>",
-        "celebrities": [],
-        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/03/06205453/Kevin-Power-1-720x630.webp",
-        "date": "Mar 6, 2026",
-        "url": "https://punchng.com/portable-didnt-beat-me-it-was-paid-advert-celebrity-bodyguard-kelvin-power/"
-    },
-    {
-        "id": "o6203ykka",
-        "title": "Ben Stiller Slams White House for Using 'Tropic Thunder' in Iran War Promo Video",
-        "excerpt": "Ben Stiller is not laughing as the White House uses his hit comedy in a controversial war promo video.",
-        "content": "<p>Ben Stiller is firing back after the White House used clips from his hit comedy <em>Tropic Thunder</em> in a bombastic new video promoting the Trump Administration's stance on Iran. The actor-director took to social media to express his outrage, stating, 'War is not a movie,' and demanding the removal of his film from the controversial promo.</p><p>The video, which has sparked a firestorm on social media, features scenes from several major Hollywood films, including Stiller's 2008 satire. Critics argue the use of comedic clips in a serious political context is tone-deaf and inappropriate, while others question the administration's choice of media to convey its message. Stiller's bold move to call out the White House has reignited debates about the intersection of Hollywood and politics.</p>",
-        "celebrities": [
-            "Ben Stiller"
-        ],
-        "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/MCDTRTH_EC117.jpg?w=1296&h=730&crop=1",
-        "date": "Mar 6, 2026",
-        "url": "http://www.hollywoodreporter.com/movies/movie-news/ben-stiller-white-house-tropic-thunder-from-video-1236524041/"
     }
 ];
