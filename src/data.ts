@@ -11,6 +11,64 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "m3pxpwc36",
+        "title": "Malaysia’s Abnormal Studios Makes Hollywood Move with Wong Ka Kui Documentary at Hong Kong FilMart",
+        "excerpt": "The studio’s bold debut could put Wong Ka Kui’s legacy on the global stage—here’s what you need to know.",
+        "content": "<p>Malaysia’s Abnormal Studios is stepping into the spotlight with a major move at Hong Kong FilMart 2026, officially launching its international sales arm. Known previously as Westec Media, the company is making waves with its debut slate, headlined by the highly anticipated documentary <em>Because of You Ka Kui</em>.</p><p>The film, which explores the life and legacy of the late Wong Ka Kui, is already generating buzz as a potential breakout hit. With this strategic pivot, Abnormal Studios is positioning itself as a serious player in the global film market—and insiders say this could be just the beginning of bigger things to come.</p>",
+        "celebrities": [
+            "Wong Ka Kui"
+        ],
+        "image_url": "https://variety.com/wp-content/uploads/2026/03/Because-of-You-Ka-Kui.jpg?w=1000&h=563&crop=1",
+        "date": "Mar 18, 2026",
+        "url": "https://variety.com/2026/film/news/malaysia-abnormal-studios-sales-arm-hong-kong-filmart-wong-ka-kui-documentary-1236690959/"
+    },
+    {
+        "id": "freykde69",
+        "title": "JFK Jr. and Carolyn Bessette-Kennedy’s Iconic Sunglasses Are Back—And You Can Get Them Right Now!",
+        "excerpt": "Step into the timeless style of JFK Jr. and Carolyn Bessette-Kennedy with these must-have sunglasses—plus, the exact shades worn by the Kennedy legend himself!",
+        "content": "<p>Attention, fashion lovers! The iconic sunglasses of JFK Jr. and Carolyn Bessette-Kennedy are making a major comeback, and trust us, you’re going to want to get your hands on them ASAP. These shades aren’t just accessories—they’re a piece of history, a nod to the timeless elegance of one of America’s most beloved couples.</p><p>And here’s the best part: the exact sunglasses worn by JFK Jr. himself are available to shop right now. Whether you’re channeling Carolyn’s minimalist chic or JFK Jr.’s classic cool, these shades are the ultimate way to elevate your summer style. Don’t miss out—grab yours before they’re gone!</p>",
+        "celebrities": [
+            "JFK Jr.",
+            "Carolyn Bessette-Kennedy"
+        ],
+        "image_url": "https://wwd.com/wp-content/uploads/2026/03/sunglasses-worn-by-carolyn-bessette-kennedy-and-jfk-jr.jpg?w=1000&h=563&crop=1",
+        "date": "Mar 18, 2026",
+        "url": "http://wwd.com/shop/shop-fashion/carolyn-bessette-kennedy-jfk-jr-sunglasses-styles-shop-2026-1238680631/"
+    },
+    {
+        "id": "9ejxesd1t",
+        "title": "Gustavo Dudamel's Exit from L.A. Isn't Forever—Here's Why He's Still Coming Back!",
+        "excerpt": "The L.A. Phil’s upcoming season is packed with surprises, from classical legends to pop icons and even a festive favorite!",
+        "content": "<p>Gustavo Dudamel’s departure from the Los Angeles Philharmonic has left fans wondering if this is the end of an era. But don’t worry, Angelenos—he’s not saying goodbye for good! The maestro himself just confirmed he’ll be making regular visits to the City of Angels, keeping his connection to the iconic orchestra alive.</p><p>And while we’re on the topic of the L.A. Phil, their upcoming season is shaping up to be one for the books. From Beethoven’s timeless symphonies to indie darling Andrew Bird’s unique compositions, the lineup is as eclectic as it gets. Oh, and did we mention there’s a special performance inspired by the holiday classic Elf? Yes, you read that right—Buddy the Elf is coming to the symphony!</p>",
+        "celebrities": [
+            "Gustavo Dudamel",
+            "Andrew Bird"
+        ],
+        "image_url": "https://media.timeout.com/images/106384846/image.jpg",
+        "date": "Mar 18, 2026",
+        "url": "https://www.timeout.com/los-angeles/news/gustavo-dudamel-may-be-leaving-l-a-but-hell-be-visiting-again-soon-031826"
+    },
+    {
+        "id": "cvoh20y4v",
+        "title": "MasterChef Celebrity Finalists Revealed: The Stars Who Survived the Heat!",
+        "excerpt": "The kitchen drama reached its peak as two beloved celebrities sealed their spot in the grand finale!",
+        "content": "<p>The nation's most-watched reality show delivered a nail-biting semifinal that had fans on the edge of their seats. This Monday, MasterChef Celebrity (Telefe) crowned its finalists in a high-stakes battle where technique, pressure, and creativity collided in a whirlwind of culinary chaos.</p><p>With the clock ticking and the judges' expectations soaring, the semifinalists faced the ultimate test: crafting a sophisticated dish that would either catapult them to glory or send them packing. In a night filled with surprises, two fan-favorite celebrities managed to win over the tough panel with their bold flavors and flawless execution.</p><p>But who made the cut? And who crumbled under the heat? Stay tuned as we spill all the sizzling details from this unforgettable episode!</p>",
+        "celebrities": [],
+        "image_url": "https://fotos.perfil.com/2026/03/18/trim/1140/641/masterchef-celebrity-2204941.jpg",
+        "date": "Mar 18, 2026",
+        "url": "https://caras.perfil.com/noticias/celebridades/quienes-son-los-finalistas-de-masterchef-celebrity.phtml"
+    },
+    {
+        "id": "377c7iqce",
+        "title": "Brrr! New Trailer Drops for Romantic Japanese Drama That’s Melting Hearts",
+        "excerpt": "A snow-kissed romance unfolds in this Golden Leopard-winning Japanese drama that’s giving us major 'walk in the snow' vibes!",
+        "content": "<p>Love is in the air, and it's freezing cold! ❄️ The acclaimed Japanese filmmaker Shô Miyake is back with <em>Two Seasons, Two Strangers</em>, a Golden Leopard-winning drama that's making waves across the Pacific. The official US trailer just dropped, and let's just say... we're already planning our winter getaway to Japan!</p><p>With its dreamy snow-filled scenes and that hauntingly beautiful line about walking together in the snow, this film is serving up major romance-novel vibes. Will it be the next international sensation? Grab your coziest blanket and your significant other (or your cat) and get ready to swoon when it hits theaters!</p>",
+        "celebrities": [],
+        "image_url": "https://media2.firstshowing.net/firstshowing/img17/twoseasonstrangersposterTW1.jpg",
+        "date": "Mar 18, 2026",
+        "url": "https://www.firstshowing.net/2026/official-us-trailer-for-two-seasons-two-strangers-japanese-drama/"
+    },
+    {
         "id": "hsygvptpk",
         "title": "OMG! Rachel Dratch, Mark Duplass & Katie Nolan Battle It Out on Celebrity Jeopardy!",
         "excerpt": "Can these A-listers handle the pressure of the iconic game show?",
@@ -554,68 +612,5 @@ export const articles: Article[] = [
         "image_url": "https://www.thebiglead.com/wp-content/uploads/2026/03/default-573-scaled.jpg",
         "date": "Mar 9, 2026",
         "url": "https://www.thebiglead.com/nfl-star-joe-burrow-cozies-with-jessica-alba-las-vegas-casino/"
-    },
-    {
-        "id": "kiqwy3k0t",
-        "title": "Spider-Man's Dinner Disaster: Electro Crashes José Andrés' Star-Studded Restaurant Opening!",
-        "excerpt": "Spider-Man and celebrity chef José Andrés team up for a culinary adventure that goes hilariously wrong when Electro turns dinner into a shocking spectacle!",
-        "content": "<p>Move over, Michelin stars—there's a new kind of drama heating up in the kitchen! Spider-Man: Meals to Astonish #1 serves up a sizzling preview where webslinger meets world-renowned chef José Andrés in a culinary clash of epic proportions. But just as the champagne is popped and the amuse-bouche hits the table, Electro crashes the party, turning a glamorous restaurant opening into a shocking spectacle. Talk about a dinner disaster!</p><p>The buzz is already building around this star-studded comic, with foodies and comic fans alike eager to see how Spidey and Andrés handle the electrifying chaos. Will they save the soufflé? Will Electro get a taste of his own medicine? One thing's for sure: this isn't your average superhero showdown—it's a five-star fiasco that's got everyone talking.</p><p>With cameos from the culinary world's biggest names and a plot that's as spicy as Andrés' signature paella, Spider-Man: Meals to Astonish #1 is shaping up to be the must-read comic of the season. Grab your fork (and maybe a fork of lightning) and get ready for a meal that's anything but ordinary!</p>",
-        "celebrities": [
-            "José Andrés",
-            "Spider-Man"
-        ],
-        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/SMMEALSTA2026001_Preview-4-2000x1125.jpeg",
-        "date": "Mar 8, 2026",
-        "url": "https://bleedingcool.com/comics/spider-man-meals-to-astonish-1-preview-electro-ruins-dinner-plans/"
-    },
-    {
-        "id": "ik8jowok3",
-        "title": "Elizabeth Olsen Steals the Show in Givenchy’s Boudoir Bow Mules at Paris Fashion Week",
-        "excerpt": "Elizabeth Olsen’s latest Parisian look proves she’s the reigning queen of Givenchy’s front row.",
-        "content": "<p>Elizabeth Olsen turned heads at Givenchy’s fall 2026 Paris Fashion Week show, proving once again why she’s a style icon. The actress stepped out in the brand’s iconic black Boudoir Bow mules, pairing them with a cropped blazer and leather joggers for a look that was equal parts chic and edgy.</p><p>The star, who’s been a longtime fan of Givenchy, has been spotted rocking the brand’s designs throughout the Sarah Burton era. This time, she brought her A-game to the Hôtel des Invalides, where the brand’s latest collection was unveiled. With her effortless style and undeniable presence, Elizabeth Olsen reminded us all why she’s a front-row favorite.</p>",
-        "celebrities": [
-            "Elizabeth Olsen"
-        ],
-        "image_url": "https://wwd.com/wp-content/uploads/2026/03/elizabeth-olsen-givenchy-fall-2026-paris-fashion-week-shoes.jpg?w=1000&h=563&crop=1",
-        "date": "Mar 8, 2026",
-        "url": "http://wwd.com/footwear-news/shoe-trends/elizabeth-olsen-givenchy-boudoir-bow-mules-paris-1238656986/"
-    },
-    {
-        "id": "jqew5lkld",
-        "title": "The Shah's Secret Supercar: How Iran's King of Cool Created a 60s Legend",
-        "excerpt": "Before the revolution, Iran was a playground for the rich and famous—and one royal playboy sparked the creation of a supercar that seduced the world's elite.",
-        "content": "<p>Before Iran's 1979 Islamic Revolution, the country was a glitzy, jet-setting playground—especially in Tehran, where Western fashion, music, and fast cars ruled the streets. Under Shah Mohammad Reza Pahlavi, the elite lived like royalty, and one of them decided to take it to the next level.</p><p>Legend has it that the Shah himself was so frustrated by the unreliability of his Ferrari that he commissioned Maserati to build him something better. The result? The jaw-dropping Maserati 5000 GT—a sleek, growling beast of a machine that became the ultimate status symbol for the world's biggest celebrities and playboys in the 1960s. Think Sinatra, Brigitte Bardot, and the Monaco jet set tooling around in this Persian-powered dream car.</p><p>Today, the 5000 GT is a rare gem, a rolling reminder of a time when Iran glittered with excess and ambition. And yes, it all started with a king's whim—and a broken Ferrari.</p>",
-        "celebrities": [
-            "Mohammad Reza Pahlavi",
-            "Frank Sinatra",
-            "Brigitte Bardot"
-        ],
-        "image_url": "https://1gr.cz/tempimg/fb/2026/3/FDVb2a4c90fb6_46000_gt_scia_di_persia.jpeg",
-        "date": "Mar 7, 2026",
-        "url": "https://www.idnes.cz/auto/zpravodajstvi/maserati-5000.A260305_211805_automoto_fdv"
-    },
-    {
-        "id": "c4ar0pyk0",
-        "title": "A&E's Must-Watch Week: Celebrity Secrets & Shocking Bids!",
-        "excerpt": "From shocking storage auctions to Hollywood's deepest secrets, A&E is serving up a week of must-see TV!",
-        "content": "<p>Get ready for a week of jaw-dropping entertainment on A&E! The channel kicks things off with the explosive 16th season premiere of <em>Quem Dá Mais?</em> on March 9th, where fierce bidding wars and hidden treasures take center stage.</p><p>But that's not all—A&E is also rolling out brand-new episodes of <em>Cidade Confidencial</em> and <em>Segredos das Celebridades</em>, diving deep into the scandalous lives of the rich and famous. Think you know everything about your favorite stars? Think again! This week’s lineup promises to spill the tea on Hollywood’s most shocking secrets. Don’t miss out on the drama, the deals, and the dirt—A&E’s got it all!</p>",
-        "celebrities": [],
-        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAtpPYjCdlJ3v-U2apNSPHAdRMUXCpdttKn9uUqzC3rbJJSOrKCiFQvWeZKcD5gg7XpjjEEH04L21iF8vOFid0VtWrDoRdg5w3BV1QzEtLmVHSeMFR2xpPaYYDzrdePqdvsZ2kXSMPjqNh5wE8mcWRM2MYQIgRIfFPFJG036B785MetEK-pmsV6llCgMOz/w1600/QDM%20(5).jpg",
-        "date": "Mar 7, 2026",
-        "url": "https://www.ouniversodatv.com/2026/03/a-destaques-da-programacao-de-9-15-de.html"
-    },
-    {
-        "id": "e5lwuwpgk",
-        "title": "Cardi B Spotted Partying with Deebo Samuel After Stefon Diggs Split—Is This Her New Flame?",
-        "excerpt": "Cardi B's night out in Phoenix has tongues wagging—was it just a coincidence or a sizzling new romance?",
-        "content": "<p>Cardi B is back in the headlines, and this time it's not just her chart-topping hits making waves. The 'WAP' rapper was spotted vibing at the same Phoenix nightclub as San Francisco 49ers star Deebo Samuel, sparking fresh rumors about her love life. Just weeks after her split from Stefon Diggs, fans are wondering: is Cardi ready to move on with the NFL's hottest wide receiver?</p><p>The two were seen mingling in the same VIP section, laughing, and keeping the energy high all night. While neither has confirmed anything romantic, the timing—right after her breakup—has everyone speculating. Could this be a classic rebound, or is there something more brewing between the Bronx bombshell and the gridiron heartthrob? Stay tuned, because if anyone knows how to keep us guessing, it's Cardi B.</p>",
-        "celebrities": [
-            "Cardi B",
-            "Deebo Samuel",
-            "Stefon Diggs"
-        ],
-        "image_url": "https://phantom.estaticos-marca.com/d32f8c73bf92aad11f722709a73a7f54/crop/0x0/2047x1365/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/07/17729137486587.jpg",
-        "date": "Mar 7, 2026",
-        "url": "https://www.marca.com/en/nfl/washington-commanders/2026/03/07/69ac84cb268e3e972a8b45ad.html"
     }
 ];
