@@ -11,6 +11,71 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ja4ksibzt",
+        "title": "Kendall Jenner's Secret Weapon for Glowing Skin? I Tried It for a Month!",
+        "excerpt": "After just a few sessions, my skin was smoother, lifted, and totally red-carpet ready.",
+        "content": "<p>Move over, skincare routines—Kendall Jenner just dropped a glowing secret! The supermodel swears by the Therabody LED Face Mask, and I had to see what the hype was all about. After a month of using this celeb-approved gadget, my skin is smoother, lifted, and ready for its close-up.</p><p>But does it really work, or is it just another Hollywood gimmick? Spoiler alert: I’m obsessed. Here’s everything you need to know before you add this to your cart—and trust me, you’ll want to.</p>",
+        "celebrities": [
+            "Kendall Jenner"
+        ],
+        "image_url": "https://wwd.com/wp-content/uploads/2026/03/therabody-theraface-mask-glo-mask.jpg?w=1000&h=563&crop=1",
+        "date": "Mar 19, 2026",
+        "url": "http://wwd.com/shop/shop-beauty/therabody-theraface-mask-glo-led-face-mask-review-2026-1238682177/"
+    },
+    {
+        "id": "wxkrc9z04",
+        "title": "Zac Brown’s Epic 'Survivor' Adventure: Free-Diving, Spearfishing, and Total Fan-Boy Mode!",
+        "excerpt": "Zac Brown goes full superfan on 'Survivor'—cooking, singing, and geeking out with the cast in Fiji!",
+        "content": "<p>Picture this: a small gray boat slicing through the turquoise waters off Fiji’s Mana Island, and at the helm? None other than Zac Brown, the country music superstar turned 'Survivor' superfan. Yep, the Zac Brown Band frontman was living his best life, free-diving, spearfishing, and basically geeking out over the cast like a kid in a candy store.</p><p>”I’m tripping out as much as y’all are right now,” Zac confessed, clearly in awe of the whole experience. From cooking up a storm to serenading the cast, this wasn’t just a visit—it was a full-blown fanboy moment. And honestly, who could blame him? 'Survivor' has been a cultural phenomenon for years, and Zac was soaking it all in like a sponge.</p>",
+        "celebrities": [
+            "Zac Brown"
+        ],
+        "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/03/lead-survivor-zac-brown.jpg?crop=0px%2C33px%2C1800px%2C1015px&resize=1600%2C900",
+        "date": "Mar 19, 2026",
+        "url": "http://www.rollingstone.com/music/music-features/survivor-anniversary-zac-brown-superfan-1235532685/"
+    },
+    {
+        "id": "9limolvhn",
+        "title": "Shocking Double Elimination! Iconic TV Judge & Star Kid Sent Packing on The Masked Singer",
+        "excerpt": "Guess who's leaving the stage? Two big names just got unmasked in a jaw-dropping twist!",
+        "content": "<p>The Masked Singer just delivered a major shocker with a double elimination that left fans reeling. Stingray and 14 Karat Carrot were both sent packing after a dramatic showdown that had everyone guessing.</p><p>But here's the tea: one of these contestants isn't just any random singer—it's the offspring of a major Hollywood star, while the other is a legendary TV judge known for their sharp critiques. Talk about star power! Fans are already buzzing on social media, trying to piece together the clues and unmask the mystery identities.</p>",
+        "celebrities": [
+            "Stingray",
+            "14 Karat Carrot"
+        ],
+        "image_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20260313/4caf347f-812b-469b-b6b4-2777298631f6_1773421755.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "date": "Mar 19, 2026",
+        "url": "https://www.eonline.com/news/1413383/the-masked-singer-judge-greg-mathis-evan-ross-eliminated"
+    },
+    {
+        "id": "nk9wcsm71",
+        "title": "Jeremy Vine's Celebrity Puzzling Gets Even Wilder with Sally, Carol, Lucrezia & Mark!",
+        "excerpt": "This episode is serving major star power and unexpected twists!",
+        "content": "<p>Jeremy Vine is back and bringing the heat for another round of Celebrity Puzzling, and this time, he's got a dream team by his side. The brilliant Sally Lindsay and the ever-sharp Carol Vorderman join him to host an episode packed with charm, wit, and just the right amount of drama.</p><p>But the real stars of the show? The guests! News journalist Lucrezia Millarini and Emmerdale's very own Mark Charnock are stepping into the puzzle spotlight, and we're already guessing things are about to get spicy. Will Lucrezia's quick thinking give her the edge, or will Mark's soap opera skills help him crack the codes? Tune in to find out who takes the crown in this battle of brains and banter!</p>",
+        "celebrities": [
+            "Jeremy Vine",
+            "Sally Lindsay",
+            "Carol Vorderman",
+            "Lucrezia Millarini",
+            "Mark Charnock"
+        ],
+        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
+        "date": "Mar 19, 2026",
+        "url": "https://post.rlsbb.to/celebrity-puzzling-s02e18-1080p-web-dl-h264-p147ypu5/"
+    },
+    {
+        "id": "41aa61dbg",
+        "title": "Giannis Antetokounmpo Defies Injury, Bucks in Panic Mode!",
+        "excerpt": "Bucks superstar Giannis Antetokounmpo is pushing to play through a painful knee injury, but the team isn't so sure it's a slam dunk!",
+        "content": "<p>Milwaukee Bucks' MVP, Giannis Antetokounmpo, is proving he's as tough as they come, insisting he wants to finish the season despite nursing a sore knee. The Greek Freak was spotted post-game on March 15th with ice packs strapped to his knees and feet soaking in an ice bath—his signature recovery ritual after giving it his all on the court.</p><p>But here's the tea: while Giannis is ready to power through the pain, the Bucks' front office is sweating bullets. Sources say the team is worried about long-term damage and whether pushing through could cost them more than just a few games. Will Giannis' determination pay off, or is this a risky move that could sideline him for good? Stay tuned, because this drama is far from over!</p>",
+        "celebrities": [
+            "Giannis Antetokounmpo"
+        ],
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/Yupktohjj0PbIhB7n.eSVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05OTE7Y2Y9d2VicA--/https://media.zenfs.com/en/milwaukee_journal_sentinel_natl_articles_362/ff0fcb99efa110d850cc4fc02b385302",
+        "date": "Mar 19, 2026",
+        "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/03/18/giannis-antetokounmpo-wants-to-finish-regular-season-despite-knee-injury/89219703007/"
+    },
+    {
         "id": "m3pxpwc36",
         "title": "Malaysia’s Abnormal Studios Makes Hollywood Move with Wong Ka Kui Documentary at Hong Kong FilMart",
         "excerpt": "The studio’s bold debut could put Wong Ka Kui’s legacy on the global stage—here’s what you need to know.",
@@ -549,68 +614,5 @@ export const articles: Article[] = [
         "image_url": "https://robbreport.com/wp-content/uploads/2026/03/5261NE5th-Street_MIA_FI1.jpg?w=681&h=383&crop=1",
         "date": "Mar 10, 2026",
         "url": "http://robbreport.com/shelter/homes-for-sale/skyfin-miami-home-rufus-krum-gabriele-liebert-1237672303/"
-    },
-    {
-        "id": "7wrd5pfmt",
-        "title": "Natalia Oreiro, Celeste Cid, la China Suárez y Wanda Nara: Los Mensajes que Arrasaron en el Día de la Mujer",
-        "excerpt": "Las famosas más queridas y polémicas del país no se quedaron calladas y llenaron las redes de mensajes poderosos.",
-        "content": "<p>El 8 de marzo se vivió con intensidad en el mundo del espectáculo. Desde figuras consolidadas hasta las más polémicas, todas se sumaron al Día Internacional de la Mujer con publicaciones que generaron revuelo. Natalia Oreiro compartió un mensaje cargado de empoderamiento, mientras que Celeste Cid sorprendió con una reflexión profunda sobre la sororidad. Por supuesto, la China Suárez y Wanda Nara no se quedaron atrás: la primera publicó una foto en blanco y negro con un texto que encendió las redes, y la segunda, como siempre, generó debate con su particular forma de conmemorar la fecha.</p><p>El fenómeno no pasó desapercibido: cada posteo sumó miles de likes, comentarios y hasta polémicas entre seguidores. En una jornada que invita a la reflexión, las famosas demostraron que también tienen voz propia y que no temen usarla para hablar de igualdad, lucha y derechos. Sin dudas, el Día de la Mujer 2026 quedará marcado por las postales y palabras de estas celebridades que, una vez más, dieron que hablar.</p>",
-        "celebrities": [
-            "Natalia Oreiro",
-            "Celeste Cid",
-            "la China Suárez",
-            "Wanda Nara"
-        ],
-        "image_url": "https://fotos.perfil.com/2026/03/09/trim/1140/641/wanda-nara-natalia-oreiro-celeste-cid-china-suarez-2198932.jpg",
-        "date": "Mar 9, 2026",
-        "url": "https://caras.perfil.com/noticias/celebridades/natalia-oreiro-celeste-cid-china-suarez-wanda-nara-dia-internacional-de-la-mujer.phtml"
-    },
-    {
-        "id": "8k7jgxto0",
-        "title": "The Pitt Dominates the 2026 WGA Awards Despite Half the Show Being Canceled!",
-        "excerpt": "The Pitt steals the spotlight at the 2026 WGA Awards, but why was half the ceremony canceled?",
-        "content": "<p>The 2026 Writers Guild of America Awards turned into a tale of two ceremonies this year, with The Pitt emerging as the big winner despite the drama behind the scenes. While the WGA-East event went off without a hitch, the WGA-West awards were abruptly canceled due to an ongoing strike, leaving half the industry in the lurch.</p><p>Still, The Pitt managed to shine, snagging two major wins and proving that even in turbulent times, talent can't be silenced. Fans are already buzzing about what this means for the show's future and whether it’ll dominate the upcoming awards season. Stay tuned for more updates on this juicy Hollywood story!</p>",
-        "celebrities": [],
-        "image_url": "https://pyxis.nymag.com/v1/imgs/ce7/ac9/39957bb012f05009831acef31aa9a8b323-colbert-wgas.1x.rsocial.w1200.jpg",
-        "date": "Mar 9, 2026",
-        "url": "http://www.vulture.com/article/wga-awards-2026-full-winners-list.html"
-    },
-    {
-        "id": "e2mh0tdqh",
-        "title": "Jessica Alba & Joe Burrow Dating? Fans Are Buzzing, But Hold Up—Here's the Real Scoop!",
-        "excerpt": "Rumors are swirling that Jessica Alba and NFL star Joe Burrow are Hollywood's newest power couple—but is there any truth to the gossip?",
-        "content": "<p>Is Jessica Alba trading red carpets for the football field? That's what fans were asking after a viral moment sparked dating rumors between the actress and Cincinnati Bengals quarterback Joe Burrow. The buzz started when the two were spotted together, sending social media—especially X (formerly Twitter)—into a full-blown frenzy.</p><p>But before you start picturing a glamorous Hollywood-meets-NFL romance, hold the phone. According to TMZ, the rumors are officially shut down. Alba and Burrow are not dating, sources confirm. Still, the internet can't help but wonder—what were they doing together? Was it a friendly meet-up, a business connection, or just a case of being in the right place at the right time? Whatever the case, fans are already shipping them hard… even if it's just wishful thinking.</p>",
-        "celebrities": [
-            "Jessica Alba",
-            "Joe Burrow"
-        ],
-        "image_url": "https://phantom.estaticos-marca.com/293de88cc84f7c65243cac7a8e45da4d/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/09/17730184128441.jpg",
-        "date": "Mar 9, 2026",
-        "url": "https://www.marca.com/en/nfl/cincinnati-bengals/2026/03/09/69ae1d7be2704e47448b45b1.html"
-    },
-    {
-        "id": "db3mbihgl",
-        "title": "Travis Kelce's Big NFL Decision: Will He Stay or Go?",
-        "excerpt": "Travis Kelce is on the brink of a major career move that could change everything.",
-        "content": "<p>Travis Kelce is facing a pivotal moment this NFL offseason as he contemplates whether to continue his legendary career with the Kansas City Chiefs. The all-time great tight end has fans and analysts alike buzzing with speculation about his next move.</p><p>While some believe Kelce might hang up his cleats, insiders suggest there's a strong possibility he'll lace them up for another season. Stay tuned as this football icon weighs his options and keeps the sports world on the edge of their seats!</p>",
-        "celebrities": [
-            "Travis Kelce"
-        ],
-        "image_url": "https://s.yimg.com/os/en/the_big_lead_articles_114/238380b69b309775790a3652fb2f5c85",
-        "date": "Mar 9, 2026",
-        "url": "https://www.thebiglead.com/chiefs-star-travis-kelce-appears-motivated-continue-nfl-career/"
-    },
-    {
-        "id": "w59hs1bru",
-        "title": "Joe Burrow's Night Out: NFL Star Spotted Cozy with Jessica Alba in Vegas!",
-        "excerpt": "Cincinnati Bengals quarterback Joe Burrow is making headlines not just for his on-field prowess, but for his off-field rendezvous with Hollywood star Jessica Alba.",
-        "content": "<p>Joe Burrow, the Cincinnati Bengals' star quarterback, is proving he's as skilled in the social scene as he is on the football field. The former LSU standout, known for his elite NFL play, was recently spotted cozying up with none other than Hollywood icon Jessica Alba at a Las Vegas casino. This unexpected pairing has fans buzzing about the nature of their relationship.</p><p>Since being drafted in 2020, Burrow has been a powerhouse for the Bengals, leading them to new heights. But it seems his charm isn't limited to the gridiron. The sighting of Burrow and Alba together has sparked curiosity and speculation among fans and media alike, adding a dash of celebrity intrigue to the NFL star's already impressive resume.</p>",
-        "celebrities": [
-            "Joe Burrow",
-            "Jessica Alba"
-        ],
-        "image_url": "https://www.thebiglead.com/wp-content/uploads/2026/03/default-573-scaled.jpg",
-        "date": "Mar 9, 2026",
-        "url": "https://www.thebiglead.com/nfl-star-joe-burrow-cozies-with-jessica-alba-las-vegas-casino/"
     }
 ];
