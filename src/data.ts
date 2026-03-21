@@ -11,6 +11,74 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "nn5fg8pzx",
+        "title": "Ian Lucas Shocks Fans: MasterChef Celebrity Winner Reveals His Biggest Dream Came True!",
+        "excerpt": "The influencer's culinary journey took a surprising turn as he claimed the coveted title!",
+        "content": "<p>In a nail-biting finale that kept viewers on the edge of their seats, social media sensation Ian Lucas emerged victorious on MasterChef Celebrity, clinching the title with a dazzling three-course menu that left the judges speechless. The young chef's heartfelt victory was a dream come true, as he poured his heart and soul into every dish, showcasing his unique culinary identity.</p><p>Judges Germán Martitegui, Damián Betular, and Donato de Santis were left in awe of Lucas's culinary prowess, with each course reflecting his passion and creativity. As the confetti fell and the cheers erupted, Ian couldn't hold back his emotions, sharing how this win was the culmination of a lifelong dream. Fans and fellow contestants alike are buzzing about his unexpected triumph, making him the talk of the town!</p>",
+        "celebrities": [
+            "Ian Lucas",
+            "Germán Martitegui",
+            "Damián Betular",
+            "Donato de Santis"
+        ],
+        "image_url": "https://fotos.perfil.com/2026/03/20/trim/1140/641/ian-lucas-2206521.jpg",
+        "date": "Mar 20, 2026",
+        "url": "https://caras.perfil.com/noticias/celebridades/la-emocion-de-ian-lucas-tras-ganar-masterchef-celebrity-consegui-lo-que-tanto-sone.phtml"
+    },
+    {
+        "id": "2h6ldg19z",
+        "title": "Nigel Farage's Cameo Scandal: The Shocking Truth Behind His Controversial Videos!",
+        "excerpt": "From political statements to personal messages, why are celebrities flocking to Cameo? The truth might surprise you!",
+        "content": "<p>Former UKIP leader Nigel Farage is in hot water after controversial Cameo videos surfaced, sparking outrage and raising questions about his connections to far-right ideologies. The Guardian's investigation revealed Farage's willingness to make provocative statements for a price, leaving fans and critics alike stunned.</p><p>But Farage isn't alone in this digital gold rush. Celebrities from all walks of life are cashing in on personalized video messages, but at what cost to their public image? We dive deep into the world of Cameo and uncover the surprising truth about who's really behind those screens.</p>",
+        "celebrities": [
+            "Nigel Farage"
+        ],
+        "image_url": "https://freethoughtblogs.com/singham/wp-content/themes/ftb2-theme/images/logo.gif",
+        "date": "Mar 20, 2026",
+        "url": "https://freethoughtblogs.com/singham/2026/03/19/what-is-the-appeal-of-cameo/"
+    },
+    {
+        "id": "ixm3dsxyx",
+        "title": "Nelly & Ashanti Are Back for More Drama! Peacock Renews Hit Reality Show",
+        "excerpt": "The lovebirds are returning for another season of romance and reality TV chaos!",
+        "content": "<p>Get ready for another round of romance, drama, and behind-the-scenes action! Peacock has officially renewed Nelly and Ashanti: We Belong Together for a sizzling second season.</p><p>The reality series, which chronicles the on-again, off-again love story of hip-hop royalty Nelly and R&B sensation Ashanti, made waves during its debut this summer. Fans couldn’t get enough of the couple’s chemistry, heartfelt moments, and the occasional heated exchange. Now, they’re back to give us even more of their love story—and we’re here for it!</p><p>Will this season bring wedding bells, baby news, or more relationship twists? Only time will tell, but one thing’s for sure: Nelly and Ashanti are keeping us hooked!</p>",
+        "celebrities": [
+            "Nelly",
+            "Ashanti"
+        ],
+        "image_url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/03/peacock-logo_ea2834.jpg?resize=1200,630",
+        "date": "Mar 20, 2026",
+        "url": "https://www.comingsoon.net/tv/news/2110286-popular-peacock-tv-show-renewed-for-season-2"
+    },
+    {
+        "id": "f2vij74zr",
+        "title": "Rick Pitino's Transfer Portal Magic: The Coach Who's Shaking Up College Basketball!",
+        "excerpt": "Rick Pitino is the mastermind behind St. John's latest success, flipping the transfer portal like a pro and leaving fans in awe!",
+        "content": "<p>Rick Pitino, the legendary coach, is making waves in college basketball with his innovative use of the transfer portal. Much like Deion Sanders in football, Pitino has become a master at flipping rosters and building winning teams. His latest success at St. John's has fans buzzing and critics taking notice.</p><p>With a Hall of Fame career behind him, Pitino is proving that age is just a number when it comes to staying ahead of the game. His ability to adapt and thrive in the ever-changing landscape of college sports is nothing short of remarkable. As St. John's continues to rise, all eyes are on Pitino to see what he'll do next.</p>",
+        "celebrities": [
+            "Rick Pitino",
+            "Deion Sanders"
+        ],
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/NcUaHxKxC6U4FLriCoi9qw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05Njc7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/b384ab58b784a94af0da832de84641e9",
+        "date": "Mar 20, 2026",
+        "url": "https://www.usatoday.com/story/sports/ncaab/2026/03/19/rick-pitino-deion-sanders-st-johns-basketball-march-madness-transfer-portal-strategy/89235402007/"
+    },
+    {
+        "id": "22kis12uv",
+        "title": "Elsbeth Season 3 Shocker: 'Deadutante' Preview Drops Bombshell Guest Stars!",
+        "excerpt": "The Kings are cooking up something major for Carrie Preston's return—here's what we know so far!",
+        "content": "<p>Hold onto your hats, Elsbeth fans—April 2nd can't come soon enough! The Kings (Robert and Michelle) and showrunner Jonathan Tolins are pulling out all the stops for the April 2nd return of Carrie Preston's Emmy-winning legal dramedy. But before we dive into the April 2nd premiere, let's spill the tea on episode 14, titled 'Deadutante.' Spoiler alert: it's serving major drama with a side of star power.</p><p>Episode 14 is already shaping up to be a must-watch, thanks to some jaw-dropping guest casting that's got Hollywood buzzing. While we can't reveal everything just yet (we've got to keep some mystery alive!), let's just say the guest list reads like a who's who of TV royalty. Think familiar faces from your favorite crime dramas, plus a surprise comedy icon who's about to shake things up in Elsbeth's world. Trust us, you won't want to miss this one.</p><p>Carrie Preston, as always, is leading the charge with her signature blend of wit and warmth, but this time she's got some serious star-studded backup. Whether it's a high-stakes courtroom showdown or a hilarious detour into Elsbeth's quirky personal life, episode 14 promises to deliver the perfect mix of suspense and laughs. And with the Kings at the helm, you know it's going to be nothing short of brilliant.</p><p>So mark your calendars, set your DVRs, and get ready to binge-watch like it's your job. Elsbeth is back, and it's bringing the drama—and the guest stars—like never before. April 2nd, here we come!</p>",
+        "celebrities": [
+            "Carrie Preston",
+            "Robert King",
+            "Michelle King",
+            "Jonathan Tolins"
+        ],
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/3151634_0476b-2000x1125.jpg",
+        "date": "Mar 20, 2026",
+        "url": "https://bleedingcool.com/tv/elsbeth-our-early-s03e14-deadutante-preview-guest-stars-update/"
+    },
+    {
         "id": "ja4ksibzt",
         "title": "Kendall Jenner's Secret Weapon for Glowing Skin? I Tried It for a Month!",
         "excerpt": "After just a few sessions, my skin was smoother, lifted, and totally red-carpet ready.",
@@ -552,67 +620,5 @@ export const articles: Article[] = [
         "image_url": "https://static.the-independent.com/2021/05/27/12/GettyImages-598313514.jpg?width=1200&height=800&crop=1200:800",
         "date": "Mar 11, 2026",
         "url": "https://www.the-independent.com/news/world/americas/noma-la-rene-redzepi-abuse-allegations-b2935990.html"
-    },
-    {
-        "id": "5hopqrlv5",
-        "title": "Heated Rivalry Stars Call Out Fans: ‘Stop the Hate or Get Out!’",
-        "excerpt": "The cast of Heated Rivalry just shut down toxic fans with a fiery message—don’t call yourself a supporter if you’re spreading bigotry!",
-        "content": "<p>The stars of Heated Rivalry are firing back at online hate, and it’s getting spicy! Co-stars Hudson Williams, François Arnaud, and Ksenia Daniela Kharlamova took to social media to slam prejudiced comments from so-called fans.</p><p>Hudson didn’t hold back, calling out the hypocrisy of ‘supporters’ who hide behind keyboards to spew hate. François chimed in with a heartfelt plea for kindness, while Ksenia reminded everyone that fandom should be about love, not bigotry. The trio’s united front has fans cheering—and haters scrambling to log off.</p>",
-        "celebrities": [
-            "Hudson Williams",
-            "François Arnaud",
-            "Ksenia Daniela Kharlamova"
-        ],
-        "image_url": "https://deadline.com/wp-content/uploads/2026/01/Heated-Rivalry-Whole-Cast-2.jpg?w=1024",
-        "date": "Mar 10, 2026",
-        "url": "http://deadline.com/2026/03/heated-rivalry-cast-condemns-online-hate-1236748530/"
-    },
-    {
-        "id": "2ylpd60vh",
-        "title": "Portable Unleashes Savage Jabs at Carter Efe Ahead of Explosive Celebrity Boxing Showdown!",
-        "excerpt": "The feud heats up as Portable takes aim at Carter Efe and his trainer Small Doctor in a fiery pre-fight rant.",
-        "content": "<p>In a dramatic escalation of their ongoing rivalry, controversial Nigerian singer Portable has fired fresh shots at fellow entertainer Carter Efe ahead of their highly anticipated celebrity boxing match. The 'Zazuu' crooner didn't hold back, mocking Carter Efe's training partner Small Doctor in a series of scathing remarks that have set social media ablaze.</p><p>The bout, dubbed 'Chaos in the Ring,' is scheduled for May 1 at the prestigious Federal Palace Hotel in Lagos, and tensions are already running high. Portable's latest tirade has fans speculating whether this fight will be as entertaining outside the ring as it promises to be inside it. Will Carter Efe respond with his own verbal jabs, or will he let his fists do the talking on fight night?</p>",
-        "celebrities": [
-            "Portable",
-            "Carter Efe",
-            "Small Doctor"
-        ],
-        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/03/09215613/Portable-1200x630.jpg",
-        "date": "Mar 10, 2026",
-        "url": "https://punchng.com/portable-fires-carter-efe-warning-ahead-boxing-clash/"
-    },
-    {
-        "id": "s4ztpw1ut",
-        "title": "Inside Hollywood’s Wildest Oscar Week 2026 Party Marathon!",
-        "excerpt": "From Vanity Fair to Elton John, see which A-listers are turning Oscar week into a non-stop bash!",
-        "content": "<p>It's that time of year again—when Hollywood trades red carpets for champagne flutes and tuxes for dancing shoes. Oscar week is here, and the party circuit is hotter than ever, with A-listers flocking to the most exclusive soirées in town.</p><p>From the star-studded Vanity Fair bash to Elton John's legendary Oscar party, the glitterati are out in full force, sipping bubbly and rubbing elbows with the crème de la crème. But who's really stealing the spotlight this year? We've got the inside scoop on the can't-miss events and the celebs making waves.</p>",
-        "celebrities": [
-            "Elton John"
-        ],
-        "image_url": "https://deadline.com/wp-content/uploads/2026/03/Oscar-Parties-2026.jpg?w=1024",
-        "date": "Mar 10, 2026",
-        "url": "http://deadline.com/2026/03/oscar-party-list-2026-1236748228/"
-    },
-    {
-        "id": "niunynxpq",
-        "title": "Rihanna's Beverly Hills Home Under Attack: Shots Fired While She's Inside with Her Kids!",
-        "excerpt": "Pop icon Rihanna's Beverly Hills mansion becomes the target of a shocking drive-by shooting—and she was home with her children.",
-        "content": "<p>In a terrifying incident that has left fans and the entertainment world shaken, Rihanna's luxurious Beverly Hills home was targeted in a drive-by shooting on Sunday afternoon. Law enforcement sources confirm that multiple rounds were fired from a moving vehicle toward the global pop star's property while she was inside with her three children.</p><p>The Barbados-born singer, known for hits like 'Umbrella' and 'Diamonds,' has built a billion-dollar empire and remains one of the most influential figures in music and fashion. While details about the motive remain scarce, the brazen nature of the attack has raised serious concerns about the safety of high-profile celebrities and their families. Authorities are currently investigating the incident, reviewing security footage, and working to identify the suspects involved in this brazen act of violence.</p>",
-        "celebrities": [
-            "Rihanna"
-        ],
-        "image_url": "https://alltoc.com/cdn/1046/og.png",
-        "date": "Mar 10, 2026",
-        "url": "https://alltoc.com/tabloid/why-was-rihanna-s-house-shot-at"
-    },
-    {
-        "id": "vnkg1srf9",
-        "title": "Exclusive: $6.5 Million Miami Modernist Mansion Gets a Glamorous Makeover",
-        "excerpt": "A historic 1940s gem gets a bold, modern twist in this star-studded Miami enclave.",
-        "content": "<p>Just north of Miami’s buzzing Design District lies Morningside, a guard-gated waterfront paradise where Art Deco charm meets modern luxury. This leafy enclave, built in the 1920s and ’30s, has long been a magnet for the rich and famous—and now, a reimagined 1940s modernist masterpiece is turning heads.</p><p>Originally crafted by visionary architect Rufus Nims, this bold beauty has been given a fresh, contemporary edge by designer Gabriele Liebert. With sleek lines, open spaces, and a touch of old-school glam, it’s the kind of home that screams ‘A-list retreat.’</p><p>Priced at a cool $6.5 million, this Morningside stunner is already sparking whispers of who might be the next lucky owner. Could it be a Hollywood heavyweight, a chart-topping musician, or maybe even a reality TV royalty? One thing’s for sure—this home is ready for its close-up.</p>",
-        "celebrities": [],
-        "image_url": "https://robbreport.com/wp-content/uploads/2026/03/5261NE5th-Street_MIA_FI1.jpg?w=681&h=383&crop=1",
-        "date": "Mar 10, 2026",
-        "url": "http://robbreport.com/shelter/homes-for-sale/skyfin-miami-home-rufus-krum-gabriele-liebert-1237672303/"
     }
 ];
