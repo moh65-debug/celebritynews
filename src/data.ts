@@ -11,6 +11,66 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "jsez79yoy",
+        "title": "Valerie Cherish Is Back and AI Is the Punchline: HBO’s Comeback Returns After 11-Year Hiatus!",
+        "excerpt": "Valerie Cherish is making a comeback—literally—and this time, she’s taking on AI in the most Lisa Kudrow way possible.",
+        "content": "<p>Hold onto your sequined dresses, because Valerie Cherish is back, baby! After an 11.5-year hiatus, HBO’s cult comedy The Comeback is returning for its third season on March 22, and it’s bringing the drama, the laughs, and a whole lot of shade at AI. That’s right, Valerie’s tackling the hottest tech trend, and we can’t wait to see how she handles it.</p><p>But wait, there’s more! This isn’t just any comeback—it’s a meta-masterpiece. The show’s long gaps between seasons (9 years between Season 1 and 2, and now 11.5 years since then) are almost as legendary as Valerie herself. And if you thought the wait was brutal, just imagine how Valerie feels about being out of the spotlight for so long. Spoiler: She’s not thrilled.</p><p>Meanwhile, HBO’s comedy queen Amy Gravitt is spilling all the tea on what’s next for the network, including a Full Slate of new shows and even a Big Bang Theory spinoff. Oh, and let’s not forget the eternal question: Will Larry David ever stop being Larry David? Stay tuned, because this season of The Comeback is about to be as messy, fabulous, and unpredictable as Valerie herself.</p>",
+        "celebrities": [
+            "Lisa Kudrow",
+            "Valerie Cherish",
+            "Amy Gravitt",
+            "Larry David"
+        ],
+        "image_url": "https://deadline.com/wp-content/uploads/2026/03/HBO_58c651.jpg?w=1024",
+        "date": "Mar 21, 2026",
+        "url": "http://deadline.com/2026/03/hbo-comedy-amy-gravitt-qa-the-comeback-rooster-lary-david-1236761435/"
+    },
+    {
+        "id": "nujla0qqa",
+        "title": "Bling for All! Titan’s Tanishq Takes a Bold Step into Men’s & Kids’ Jewelry",
+        "excerpt": "The iconic brand is shaking up the jewelry scene with a dazzling new move—stay tuned!",
+        "content": "<p>Move over, ladies! Titan’s beloved Tanishq is stepping into uncharted territory with a sparkling new venture that’s got everyone talking. The brand’s Mia by Tanishq line, long celebrated for its chic and feminine designs, is now gearing up to dazzle men and kids alike. Yes, you heard that right—jewelry for the dapper gents and the little trendsetters is finally here!</p><p>While these categories have been somewhat overlooked in the past, Tanishq is betting big on the growing appetite for stylish accessories among younger consumers. With this bold expansion, the brand is not just redefining its identity but also setting the stage for a glittering new era in the jewelry market. Could this be the start of a jewelry revolution? Only time will tell, but one thing’s for sure—Tanishq is ready to shine brighter than ever!</p>",
+        "celebrities": [],
+        "image_url": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/Ring_1718103390188_1774010574613.jpg",
+        "date": "Mar 21, 2026",
+        "url": "https://www.livemint.com/industry/retail/jewellery-retailers-expand-into-men-s-kids-categories-to-unlock-new-demand-11773985717946.html"
+    },
+    {
+        "id": "q71qszlr3",
+        "title": "Margot Robbie's Gin Dreams Crushed as Bars Say 'No Thanks' to Her Boozy Venture",
+        "excerpt": "Margot Robbie's latest business venture hits a major snag as UK bars refuse to stock her gin over shellfish allergy fears.",
+        "content": "<p>Margot Robbie's foray into the celebrity drinks market has hit a major roadblock, and it's not the kind of drama she's used to on set. The A-list actress, known for her roles in blockbusters like Barbie and The Wolf of Wall Street, is facing a bitter setback with her new gin brand.</p><p>RadarOnline.com has learned that UK bars are giving Robbie's gin the cold shoulder, and it's not because they're not fans of her work. The issue? A potential shellfish allergy risk that's got bar owners shaking their heads and saying 'no thanks' to stocking her spirits.</p><p>This unexpected turn of events has left Robbie's team scrambling to find a solution. Will she be able to overcome this hurdle and make her mark in the oversaturated celebrity drinks market? Or will this be a case of 'bottoms up' for her gin dreams?</p><p>As the story develops, we'll be keeping a close eye on how Robbie navigates this boozy business blunder. Stay tuned for more updates on this cocktail of celebrity gossip and entrepreneurial challenges.</p>",
+        "celebrities": [
+            "Margot Robbie"
+        ],
+        "image_url": "https://media.radaronline.com/brand-img/5ycyx5Dzu/1200x628/margot-robbie-drinks-brand-business-blow-1774039732594.jpg",
+        "date": "Mar 21, 2026",
+        "url": "https://radaronline.com/p/margot-robbie-drinks-brand-business-blow/"
+    },
+    {
+        "id": "f94iz09zw",
+        "title": "OMG! Is Social Media Destroying Our Daughters' Lives? 😱",
+        "excerpt": "From toxic trends to celebrity obsessions, here's why every parent needs to step up NOW!",
+        "content": "<p>Hey Parents, listen up! While social media is undeniably one of the greatest inventions of our time, it's also wreaking havoc on the minds of our young girls—one scroll at a time. 😱</p><p>Think about it: from toxic beauty standards to the pressure of keeping up with influencers, our daughters are drowning in a sea of unrealistic expectations. And let’s not even get started on the dangers of oversharing and online predators. Yikes!</p><p>But don’t panic just yet! With the right guidance and a little vigilance, we can help our girls navigate this digital jungle safely. It’s time to take charge, set boundaries, and remind them that their worth isn’t defined by likes or followers. 💪</p>",
+        "celebrities": [],
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2018/02/16211437/Temilolu-Okeowo-.jpg",
+        "date": "Mar 20, 2026",
+        "url": "https://punchng.com/may-social-media-not-ruin-the-lives-of-your-daughters/"
+    },
+    {
+        "id": "rv0w5ujc2",
+        "title": "Nick Sícaro Drops Bombshell: What He Really Thinks About Ian Lucas After Leaving Gran Hermano",
+        "excerpt": "Nick Sícaro reveals shocking truth about his bond with Ian Lucas post-Gran Hermano exit!",
+        "content": "<p>Nick Sícaro, the latest evictee from Gran Hermano Edición Dorada, is spilling all the tea! In a candid appearance on Intrusos this Friday, March 20, Nick opened up about his friendship with Ian Lucas, the reigning MasterChef Celebrity champ. Spoiler alert: it’s all about the love!</p><p>While fans were left guessing about their dynamic, Nick didn’t hold back, describing Ian as “a very affectionate person.” But that’s not all—he also dropped a bombshell about his own support system during the reality show, revealing that his friends weren’t exactly there for him when it mattered most. Drama, much?</p>",
+        "celebrities": [
+            "Nick Sícaro",
+            "Ian Lucas"
+        ],
+        "image_url": "https://fotos.perfil.com/2026/03/20/trim/1140/641/nick-sicaro-2207281.jpg",
+        "date": "Mar 20, 2026",
+        "url": "https://exitoina.perfil.com/noticias/corazon/tras-su-salida-de-gran-hermano-nick-sicaro-se-sincero-sobre-su-amistad-con-ian-lucas-es-una-persona-muy-carinosa.phtml"
+    },
+    {
         "id": "nn5fg8pzx",
         "title": "Ian Lucas Shocks Fans: MasterChef Celebrity Winner Reveals His Biggest Dream Came True!",
         "excerpt": "The influencer's culinary journey took a surprising turn as he claimed the coveted title!",
@@ -559,66 +619,5 @@ export const articles: Article[] = [
         "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/11/4ddab536-c1ea-442d-93cd-f252b42b976a/thumbnail/1200x630/d216c12fc4d4859033f4ef1f5fa617ae/gettyimages-1487638461.jpg",
         "date": "Mar 12, 2026",
         "url": "https://www.cbsnews.com/losangeles/news/rene-redzepi-resigns-noma-amid-abuse-protests-los-angeles/"
-    },
-    {
-        "id": "nvd86l8oz",
-        "title": "Mickey Rourke's Hollywood Nightmare: Evicted from LA Pad After Last-Ditch Drama",
-        "excerpt": "The actor's eviction saga takes a shocking turn as his LA home slips through his fingers.",
-        "content": "<p>Mickey Rourke's Hollywood dream has officially crashed and burned. The 68-year-old actor has been given the boot from his swanky Los Angeles rental, with court documents revealing that his former Drexel Ave. pad is now back in the landlord's hands.</p><p>This eviction drama has been months in the making, with Rourke reportedly scrambling to avoid the inevitable. Just when you thought things couldn't get messier, new details have emerged about the actor's desperate attempts to cling to his LA lifestyle. From rumored fundraisers to last-minute legal maneuvers, Rourke's eviction saga reads like a Hollywood script gone wrong.</p>",
-        "celebrities": [
-            "Mickey Rourke"
-        ],
-        "image_url": "https://pagesix.com/wp-content/uploads/sites/3/2026/03/123259629.jpg?quality=75&strip=all&w=1200",
-        "date": "Mar 11, 2026",
-        "url": "https://pagesix.com/2026/03/10/celebrity-news/mickey-rourke-officially-kicked-out-of-la-home/"
-    },
-    {
-        "id": "n5llmmnvx",
-        "title": "Esteban Mirol Exposes Wanda Nara's Alleged Bad Behavior on MasterChef Celebrity",
-        "excerpt": "Esteban Mirol drops shocking allegations about Wanda Nara's alleged mistreatment on MasterChef Celebrity!",
-        "content": "<p>In a bombshell revelation, journalist Esteban Mirol has come forward with explosive claims about Wanda Nara's behavior on the set of MasterChef Celebrity. The accusations come hot on the heels of a domestic employee's recent allegations against the Argentine socialite.</p><p>During an appearance on the talk show 'A la tarde,' Mirol didn't hold back, adding fuel to the fire of criticism surrounding Nara. 'I could say many things about Wanda,' he stated, leaving fans and followers buzzing with speculation about what other secrets might be lurking behind the scenes of the popular cooking competition.</p>",
-        "celebrities": [
-            "Wanda Nara",
-            "Esteban Mirol"
-        ],
-        "image_url": "https://resizer.glanacion.com/resizer/v2/el-periodista-esteban-mirol-participo-en-SGX5ACNJCRFQXGBWO4XX3KY52E.jpg?auth=f0115045ccedc3f911ce7cca3ff2d90f7d4848feb7c4f96f35f697161eac3168&width=1200&quality=85&smart=true&height=675",
-        "date": "Mar 11, 2026",
-        "url": "https://www.lanacion.com.ar/espectaculos/estaban-mirol-aseguro-que-wanda-nara-lo-maltrato-en-masterchef-celebrity-nid10032026/"
-    },
-    {
-        "id": "t3oy71d7q",
-        "title": "Shocking Meta Scam Alert: Celebs' Faces Used to Steal Your Money!",
-        "excerpt": "You won't believe how fake ads are using famous faces to trick you into losing everything!",
-        "content": "<p>Hold onto your wallets, folks! A massive global investment scam network is sweeping across Meta platforms, and it's using some seriously sneaky tactics to steal your hard-earned cash.</p><p>Picture this: you're scrolling through your feed when suddenly, you see an ad featuring your favorite celebrity endorsing a 'guaranteed' investment opportunity. Sounds legit, right? Wrong! These scammers are creating fake news stories and paid ads that look so real, even the savviest investors are falling for them.</p><p>But don't panic just yet! We've got the inside scoop on how to spot these scams before they spot you. From red flags to watch out for to expert tips on protecting your finances, we're breaking it all down.</p><p>Remember, if it sounds too good to be true, it probably is. Stay tuned as we dive deep into this Meta mess and show you how to keep your money where it belongs – in your pocket!</p>",
-        "celebrities": [
-            "Celebrity 1",
-            "Celebrity 2",
-            "Celebrity 3"
-        ],
-        "image_url": "https://www.zdnet.com/a/img/resize/91bf6e6b834239ec0ae50058e8445018a3c5f6dd/2026/03/10/ea27a261-51b5-4a14-9c40-b041f1502b8f/cashvortex-gettyimages-1412306415.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "date": "Mar 11, 2026",
-        "url": "https://www.zdnet.com/article/investment-scam-paid-social-media-ads/"
-    },
-    {
-        "id": "0c8hytj4x",
-        "title": "Stars and Spirits: How Athletes Are Fueling the Next Big Travel Craze",
-        "excerpt": "Move over wine tastings—fans are now sipping custom spirits crafted for their favorite sports heroes!",
-        "content": "<p>Imagine this: You’re halfway across the world, nursing a cocktail at a swanky bar, when you spot a bottle emblazoned with the name of your favorite athlete. Suddenly, you’re bonding with a stranger over your shared love of the game—and the drink in your hand. Welcome to the latest travel trend sweeping the globe: custom spirits brewed in honor of sports legends.</p><p>From whiskey distilleries in Scotland to trendy bars in Tokyo, fans are flocking to sip on limited-edition bottles inspired by their idols. Whether it’s a bold bourbon for a basketball star or a smooth vodka for a soccer sensation, these drinks are more than just alcohol—they’re a celebration of fandom. And let’s be honest, nothing says ‘I’m a die-hard fan’ like clinking glasses with a fellow traveler over a spirit named after your team’s MVP.</p><p>Travel experts say this trend is more than just a gimmick—it’s a cultural phenomenon. “It’s about creating connections,” says one distillery owner. “When people share a drink inspired by their favorite athlete, it’s like they’re part of a global community.” So, the next time you’re planning a trip, why not add a distillery tour to your itinerary? Who knows—you might just find your new favorite drink (and a new friend) along the way.</p>",
-        "celebrities": [],
-        "image_url": "https://cdn1.matadornetwork.com/blogs/1/2026/03/shutterstock_2314548917-1200x898.jpg",
-        "date": "Mar 11, 2026",
-        "url": "https://matadornetwork.com/read/travel-trend-blending-sports-fandom-custom-spirits/"
-    },
-    {
-        "id": "laabdhd2z",
-        "title": "Shocking Fallout: Noma's LA Pop-Up Canceled as Chef Faces Abuse Allegations",
-        "excerpt": "Renowned chef's past 'harmful' actions spark major sponsor exodus",
-        "content": "<p>In a dramatic turn of events, Noma's highly anticipated pop-up events in Los Angeles have been abruptly canceled as major sponsors withdraw their support. The acclaimed restaurant, known for its innovative cuisine and sky-high prices, is now facing a storm of controversy.</p><p>The chef at the center of the scandal has issued a public apology, acknowledging his 'harmful' actions from the past. This mea culpa comes as allegations of abuse have surfaced, sending shockwaves through the culinary world. Fans and foodies alike are left wondering how this will impact the chef's future endeavors and the fate of Noma itself.</p>",
-        "celebrities": [
-            "Noma Chef"
-        ],
-        "image_url": "https://static.the-independent.com/2021/05/27/12/GettyImages-598313514.jpg?width=1200&height=800&crop=1200:800",
-        "date": "Mar 11, 2026",
-        "url": "https://www.the-independent.com/news/world/americas/noma-la-rene-redzepi-abuse-allegations-b2935990.html"
     }
 ];
