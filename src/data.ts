@@ -11,6 +11,67 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "3dun3peze",
+        "title": "OMG! A&E Drops Bombshell Finale This Week—Who’s Exposed?",
+        "excerpt": "The shocking truth behind the stars’ most scandalous secrets is finally coming to light—don’t miss it!",
+        "content": "<p>Hold onto your seats, because A&E is serving up a week of jaw-dropping drama that’ll have you glued to your screen! Kicking things off with a bang, the explosive finale of <em>Segredos das Celebridades: Sex Tapes</em> airs this Thursday, promising to spill the tea on some of Hollywood’s most infamous scandals. Who’s hiding what? You’ll have to tune in to find out!</p><p>But that’s not all—A&E is also bringing back the gripping crime saga <em>El Chapo</em> for a limited rerun run, giving fans another chance to dive into the twisted world of the notorious drug lord. Whether you’re here for the celebrity gossip or the high-stakes drama, this week’s lineup is stacked with must-watch moments. Grab your popcorn and get ready for a wild ride!</p>",
+        "celebrities": [],
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUPmSKPfKTl7eqS_BsD0v1gcFhG_lDpIugARpusB1ytYLmurgVMNWfh4VW-F2CEkvvxfk2kpMSIVYAO9Uo6o-0woJxtqYSaXgNEZ2ixJp0UECSZ9dDHcg8sIQsk3FQFaZoX55enfg_tyjgWiE0zzKsX5KpM9jSRKebtnGduS54Bk4cevFnWdYpxfZgkRiR/w1600/QDM%20(6).jpg",
+        "date": "Mar 22, 2026",
+        "url": "https://www.ouniversodatv.com/2026/03/a-destaques-da-programacao-de-23-29-de.html"
+    },
+    {
+        "id": "gfjdob9w0",
+        "title": "Hollywood Hunks Are Sparking a Men’s Jewellery Boom in India – Here’s Why!",
+        "excerpt": "From red carpets to wedding aisles, men’s bling is having a major glow-up in India, and it’s all thanks to these A-listers!",
+        "content": "<p>Move over, ladies – men’s jewellery is stealing the spotlight in India, and it’s all thanks to Hollywood’s hottest stars! Actor-producer Channing Tatum turned heads at this year’s Oscars, rocking a Tiffany & Co brooch that perfectly complemented his sharp suit. Not to be outdone, Timothee Chalamet made waves with his own bold accessory choices, proving that men’s jewellery is no longer just for weddings.</p><p>The trend is catching fire in India, with sales of men’s jewellery soaring by an impressive 25-30% in 2025. From sleek chains to statement brooches, Indian men are embracing the bling, inspired by their favorite celebrities and high-profile weddings. What was once reserved for special occasions is now becoming a staple in everyday fashion, and the numbers don’t lie – this category is shining brighter than ever!</p>",
+        "celebrities": [
+            "Channing Tatum",
+            "Timothee Chalamet"
+        ],
+        "image_url": "https://img.etimg.com/thumb/msid-129724583,width-1200,height-630,imgsize-139540,overlay-economictimes/articleshow.jpg",
+        "date": "Mar 22, 2026",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/mens-jewellery-market-shines-in-india-grows-2530-in-2025-on-rising-demand/articleshow/129724486.cms"
+    },
+    {
+        "id": "rzghyq56l",
+        "title": "City Boys vs Village Boys: The Epic Youth Battle Between Tinubu and Obi Heating Up for 2027",
+        "excerpt": "The political youth war is on! Tinubu and Obi are pulling out all the stops to win over Nigeria's young voters in this fierce 2027 showdown.",
+        "content": "<p>The political battlefield is heating up as Nigeria's youth are caught in a fierce tug-of-war between two powerhouse camps. On one side, you've got the slick, cosmopolitan City Boys backing Bola Tinubu, while the grassroots-savvy Village Boys are rallying behind Peter Obi. With the 2027 elections still on the horizon, this quiet mobilization war is already making serious noise.</p><p>Young voters are the ultimate prize, and both camps are pulling out all the stops to win their hearts. Tinubu's team is leaning into urban charm and modern appeal, while Obi's crew is doubling down on community roots and authenticity. Who will come out on top in this battle of vibes? Stay tuned—it's about to get wild.</p>",
+        "celebrities": [
+            "Bola Tinubu",
+            "Peter Obi"
+        ],
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2022/06/21040241/Tinubu-and-Obi.jpg",
+        "date": "Mar 22, 2026",
+        "url": "https://punchng.com/city-boys-vs-village-boys-inside-tinubu-obis-fight-for-young-voters/"
+    },
+    {
+        "id": "om33u8phh",
+        "title": "Afroman's Legal Victory: Grammy-Nominated Star Strikes Back Against Police Raid!",
+        "excerpt": "Afroman, the 'Because I Got High' singer, just won a major lawsuit over a controversial police raid—here's the shocking twist!",
+        "content": "<p>In a stunning legal victory, Afroman, the Grammy-nominated artist behind the iconic hit 'Because I Got High,' has emerged triumphant in a lawsuit tied to a controversial raid on his home. The case, which has been making waves in the entertainment world, saw the rapper-turned-activist take on law enforcement in a battle that’s now got everyone talking.</p><p>Sources close to the situation reveal that the lawsuit was filed after a dramatic raid on Afroman’s property, sparking debates about privacy, celebrity rights, and the limits of police authority. With this win, Afroman is proving he’s not just a chart-topping musician but also a force to be reckoned with in the courtroom. Stay tuned as this story develops—it’s clear Afroman’s not done making headlines!</p>",
+        "celebrities": [
+            "Afroman"
+        ],
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Mar 22, 2026",
+        "url": "https://alltoc.com/lifestyle/why-did-afroman-win-his-lawsuit"
+    },
+    {
+        "id": "9dpoofny6",
+        "title": "Zendaya and Tom Holland: Are They or Aren’t They? The Marriage Rumor That’s Got Everyone Talking!",
+        "excerpt": "The lovebirds are stirring up a frenzy with their latest antics—could wedding bells be on the horizon?",
+        "content": "<p>Could Zendaya and Tom Holland be tying the knot? The internet is buzzing with speculation after Zendaya playfully teased marriage rumors during a recent interview. The actress, known for her role in Euphoria, hinted at a deeper commitment to her Spider-Man co-star, Tom Holland, leaving fans swooning and speculating.</p><p>But Tom isn’t one to be left out of the fun! The British heartthrob recently reacted to Zendaya’s new movie, adding fuel to the fire with his adorable comments. The duo, who have been inseparable since their on-screen romance turned real-life, continue to keep us guessing about their relationship status. Are they just friends, or is there a wedding in their future? One thing’s for sure—this Hollywood pair knows how to keep us hooked!</p>",
+        "celebrities": [
+            "Zendaya",
+            "Tom Holland"
+        ],
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Mar 22, 2026",
+        "url": "https://alltoc.com/tabloid/what-happened-with-zendaya-and-tom-holland-marriage-rumors"
+    },
+    {
         "id": "jsez79yoy",
         "title": "Valerie Cherish Is Back and AI Is the Punchline: HBO’s Comeback Returns After 11-Year Hiatus!",
         "excerpt": "Valerie Cherish is making a comeback—literally—and this time, she’s taking on AI in the most Lisa Kudrow way possible.",
@@ -558,66 +619,5 @@ export const articles: Article[] = [
         "image_url": "https://media.timeout.com/images/106382818/image.jpg",
         "date": "Mar 13, 2026",
         "url": "https://www.timeout.com/newyork/news/broadway-review-daniel-radcliffe-brings-his-shine-to-every-brilliant-thing-031326"
-    },
-    {
-        "id": "oszwfm7q4",
-        "title": "WWE Superstar Drops a Bombshell: Sabrina Carpenter Could Steal the Show at WrestleMania 42!",
-        "excerpt": "Could this be the pop-meets-wrestling collab we never knew we needed?",
-        "content": "<p>The road to WrestleMania is always paved with surprises, but this one might just take the cake. A WWE superstar has thrown out a wild idea that’s got fans buzzing: what if Sabrina Carpenter took the stage at WrestleMania 42?</p><p>Picture this: the pop sensation belting out her hits while the WWE Universe roars in the background. It’s the kind of crossover event that could break the internet. Whether it’s a bold move or a stroke of genius, one thing’s for sure—this proposal has everyone talking. Could we see a pop princess and wrestling royalty collide in the most unexpected way? Stay tuned, because WrestleMania just got a whole lot more interesting.</p>",
-        "celebrities": [
-            "Sabrina Carpenter"
-        ],
-        "image_url": "https://phantom.estaticos-marca.com/c08d59ba3667e8582c7750e3121240c6/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/12/17732783554937.jpg",
-        "date": "Mar 12, 2026",
-        "url": "https://www.marca.com/en/wwe/2026/03/12/69b214bee2704e70298b4571.html"
-    },
-    {
-        "id": "qaz99exw2",
-        "title": "Oscars 2026: Hollywood’s Biggest Night Under High Alert Amid Iran Threat!",
-        "excerpt": "As the stars prepare to shine, security takes center stage at the 2026 Oscars—but will the show go on without a hitch?",
-        "content": "<p>The 2026 Academy Awards are shaping up to be anything but ordinary! With an FBI alert warning of potential drone threats linked to Iran, Hollywood’s biggest night is now under unprecedented security measures. Oscars producer Raj Kapoor assures fans, 'We want everybody to feel safe and protected,' but the question on everyone’s mind is: will the red carpet still sparkle under such intense scrutiny?</p><p>While the threat looms, the A-list attendees are reportedly staying tight-lipped about their plans. Insiders say some stars are even considering backup outfits in case of last-minute changes. Will this be the most dramatic Oscars yet? Stay tuned as the drama unfolds both on and off the stage!</p>",
-        "celebrities": [
-            "Raj Kapoor"
-        ],
-        "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/2026-Oscars-getty-H-2026.png?w=1296&h=730&crop=1",
-        "date": "Mar 12, 2026",
-        "url": "http://www.hollywoodreporter.com/movies/movie-news/security-increased-2026-oscars-fbi-alert-iran-attack-ca-1236528194/"
-    },
-    {
-        "id": "bue9r0a5i",
-        "title": "Law & Order: SVU’s Captain Curry Faces the Ultimate Loyalty Test—Will She Stand By Benson or Betray Her Trust?",
-        "excerpt": "Captain Curry’s loyalty is about to be pushed to the breaking point in a case that’s as twisted as it gets.",
-        "content": "<p>Law & Order: SVU is gearing up for a jaw-dropping episode that puts Captain Renee Curry front and center. Known for her sharp instincts and unwavering dedication, Curry is about to face her toughest challenge yet—a case so heinous it could make even the most seasoned detective’s stomach turn.</p><p>But here’s the twist: while Curry has always been a team player, this time her loyalty is under the microscope. Will she have Benson’s back no matter what, or will the pressure of the case force her to make a choice that could shake the squad to its core? Fans are already speculating, and the suspense is killing us. Stay tuned—this one’s going to be a wild ride!</p>",
-        "celebrities": [
-            "Captain Renee Curry",
-            "Benson"
-        ],
-        "image_url": "https://cdn.mos.cms.futurecdn.net/7TwPrQmKwxPU7kXjgZfBW9-1280-80.jpg",
-        "date": "Mar 12, 2026",
-        "url": "https://www.cinemablend.com/interviews/law-and-order-svu-star-talks-learning-from-the-best-how-much-curry-have-bensons-back"
-    },
-    {
-        "id": "kyo7tl8n7",
-        "title": "Maxi López's Secret Weapon Revealed: How He Cooked His Way to MasterChef Celebrity Finals!",
-        "excerpt": "The former soccer star spills the beans on his surprising culinary superpower that kept him in the competition!",
-        "content": "<p>Move over, Gordon Ramsay—there's a new kitchen king in town! As MasterChef Celebrity heats up, former soccer sensation Maxi López has finally revealed the secret ingredient that helped him score a spot in the finals. And no, it's not his famous footwork!</p><p>The Argentine heartthrob took to social media to share a behind-the-scenes glimpse of his MasterChef journey, leaving fans and fellow contestants alike wondering: what's his recipe for success? From soccer fields to sizzling pans, López proves he's not just a one-trick pony. Stay tuned as we dish out all the delicious details of his culinary conquest!</p>",
-        "celebrities": [
-            "Maxi López"
-        ],
-        "image_url": "https://fotos.perfil.com/2026/03/12/trim/1140/641/maxi-lopez-2201204.jpg",
-        "date": "Mar 12, 2026",
-        "url": "https://caras.perfil.com/noticias/celebridades/la-extrana-habilidad-de-maxi-lopez-que-lo-llevo-a-la-final-de-masterchef-celebrity-gracias-a-mi.phtml"
-    },
-    {
-        "id": "hsbq4qqvz",
-        "title": "René Redzepi Steps Down from Noma Amid Scandal: Is This the End of His Culinary Reign?",
-        "excerpt": "Renowned chef René Redzepi resigns from Noma amid shocking abuse allegations and protests outside his L.A. pop-up.",
-        "content": "<p>René Redzepi, the celebrated chef behind the world-renowned Noma restaurant in Denmark, has shocked the culinary world by stepping down from his position. The move comes amid serious allegations of abuse and ongoing protests outside his Los Angeles pop-up location.</p><p>Noma, known for its innovative Nordic cuisine and impeccable reputation, has long been a crown jewel in the culinary world. But now, the spotlight has shifted from Redzepi's culinary genius to the controversy surrounding his leadership. Fans and critics alike are left wondering: is this the end of an era for one of the most influential chefs of our time?</p>",
-        "celebrities": [
-            "René Redzepi"
-        ],
-        "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/11/4ddab536-c1ea-442d-93cd-f252b42b976a/thumbnail/1200x630/d216c12fc4d4859033f4ef1f5fa617ae/gettyimages-1487638461.jpg",
-        "date": "Mar 12, 2026",
-        "url": "https://www.cbsnews.com/losangeles/news/rene-redzepi-resigns-noma-amid-abuse-protests-los-angeles/"
     }
 ];
