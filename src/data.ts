@@ -11,6 +11,69 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "j0mi8audf",
+        "title": "Alex Rodriguez's GF Ditches the Pants and Turns Up the Heat on Vacation",
+        "excerpt": "Jaclyn Cordeiro proves she's the queen of vacation vibes in a sizzling bikini that's got everyone talking.",
+        "content": "<p>Alex Rodriguez's girlfriend, Jaclyn Cordeiro, is living her best life on a sun-soaked getaway, and she's not holding back on the glamour. The former MLB superstar's leading lady took to social media to share a series of jaw-dropping snaps, flaunting her flawless figure in a barely-there bikini that screams vacation goals.</p><p>From beachside lounging to poolside glam, Cordeiro is giving fans an all-access pass to her tropical escape, and let's just say, she's serving major 'hot girl summer' energy. Rodriguez, who's been enjoying some downtime himself, clearly approves of the view. Stay tuned—this getaway is just getting started!</p>",
+        "celebrities": [
+            "Alex Rodriguez",
+            "Jaclyn Cordeiro"
+        ],
+        "image_url": "https://phantom.estaticos-marca.com/b782788bbb1ebdbb18e37565ff920237/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/23/17742265532445.jpg",
+        "date": "Mar 23, 2026",
+        "url": "https://www.marca.com/en/mlb/new-york-yankees/2026/03/23/69c08cb2e2704e74448b45a0.html"
+    },
+    {
+        "id": "on7wcibpf",
+        "title": "Cat Cavelli Fires Back: Her Explosive Take on Chappell Roan’s Brazil Drama",
+        "excerpt": "Jude Law’s ex is finally speaking out—and it’s juicier than we thought.",
+        "content": "<p>Cat Cavelli, the ex-girlfriend of Hollywood heartthrob Jude Law, is breaking her silence in a way that’s got the internet buzzing. In a candid Instagram video posted Sunday, March 22, Cavelli addressed the swirling controversy surrounding singer Chappell Roan’s alleged interaction with her 11-year-old daughter in Brazil.</p><p>“Hi guys, good morning,” Cavelli began, setting the tone for what would become a must-watch moment. While she didn’t spill all the tea just yet, her cryptic message has fans and critics alike speculating about what really went down. Could this be the start of a full-blown celebrity feud? Stay tuned, because this story is just heating up.</p>",
+        "celebrities": [
+            "Jude Law",
+            "Cat Cavelli",
+            "Chappell Roan"
+        ],
+        "image_url": "https://www.usmagazine.com/wp-content/uploads/2026/03/GettyImages-2183620145-Jude-Law-Ex-Addresses-Chappell-Roan.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
+        "date": "Mar 23, 2026",
+        "url": "https://www.usmagazine.com/celebrity-news/news/jude-laws-ex-breaks-silence-on-chappell-roan-drama/"
+    },
+    {
+        "id": "5mzlwy7j8",
+        "title": "Is Our Media Missing the Real Story in the Middle East?",
+        "excerpt": "The truth behind the headlines is more shocking than you think.",
+        "content": "<p>Three weeks into the world-changing war on Iran, and the global US and UK news production line, where Australia's legacy media has embedded itself, is no longer fit for purpose—not Australia's purposes, anyway. It's time to look beyond the US-centred media if you want the real news out of the Middle East. Our news is being bent out of shape by its alignment with the daily talking points out of Washington and London, and the challenge is structural.</p><p>Could it be that our media is missing the bigger picture? With the world watching, the real story might be unfolding behind the scenes. Stay tuned as we dig deeper into what's really happening in the Middle East.</p>",
+        "celebrities": [],
+        "image_url": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/03/iran_787f79.jpg?quality=70&w=1024",
+        "date": "Mar 23, 2026",
+        "url": "http://www.crikey.com.au/2026/03/23/middle-east-news-sources-us-centric-media/"
+    },
+    {
+        "id": "b2uk5zfgv",
+        "title": "Ryan Gosling's Alien BFF in 'Project Hail Mary' — The Voice Behind Rocky Revealed!",
+        "excerpt": "The voice of Ryan Gosling's extraterrestrial buddy Rocky in 'Project Hail Mary' might surprise you!",
+        "content": "<p>Ryan Gosling's latest sci-fi adventure, 'Project Hail Mary,' has everyone buzzing, especially about his alien companion, Rocky. But who's the voice behind this lovable extraterrestrial? Spoiler alert: it's not a big-name celebrity, but someone much closer to home!</p><p>Directed by Phil Lord and Christopher Miller, the film follows scientist Ryland Grace (Gosling) as he makes first contact with Rocky, an alien whose quirky personality and unique voice steal the show. While fans speculated about A-list voice actors, the filmmakers opted for a more personal touch, keeping the identity of Rocky's voice actor under wraps until now. Could it be a family member or a close friend? The mystery adds an extra layer of intrigue to this already captivating film.</p>",
+        "celebrities": [
+            "Ryan Gosling",
+            "Phil Lord",
+            "Christopher Miller"
+        ],
+        "image_url": "https://www.slashfilm.com/img/gallery/who-voices-rocky-in-ryan-goslings-project-hail-mary/l-intro-1774219219.jpg",
+        "date": "Mar 23, 2026",
+        "url": "https://www.slashfilm.com/2129455/rocky-voice-actor-ryan-gosling-project-hail-mary-movie-james-ortiz/"
+    },
+    {
+        "id": "b81fmmpa9",
+        "title": "Justin Timberlake’s DWI Arrest Video: Pop Star Jokes His Way Through Sobriety Test!",
+        "excerpt": "Pop icon Justin Timberlake’s attempt to charm the cops during his Hamptons DWI arrest has everyone talking!",
+        "content": "<p>Pop sensation Justin Timberlake found himself in hot water after being arrested on suspicion of driving while intoxicated in the Hamptons this June. But instead of keeping a low profile, the 'SexyBack' crooner decided to turn his arrest into a stand-up routine!</p><p>In newly released footage, Timberlake can be seen bantering with the arresting officers, cracking jokes, and even complaining about being treated like a criminal. The video captures the star’s attempt to lighten the mood, as he tries to charm his way out of the situation. Fans and critics alike are buzzing about his unexpected sense of humor in the face of legal trouble.</p>",
+        "celebrities": [
+            "Justin Timberlake"
+        ],
+        "image_url": "https://img.huffingtonpost.com/asset/69c079d018000065451c5400.jpeg?cache=yytwE9D062&ops=1200_630",
+        "date": "Mar 22, 2026",
+        "url": "https://www.huffpost.com/entry/justin-timberlake-dwi-arrest-video_n_69c06ad8e4b0f2b395d5a71e"
+    },
+    {
         "id": "3dun3peze",
         "title": "OMG! A&E Drops Bombshell Finale This Week—Who’s Exposed?",
         "excerpt": "The shocking truth behind the stars’ most scandalous secrets is finally coming to light—don’t miss it!",
@@ -558,66 +621,5 @@ export const articles: Article[] = [
         "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/Cody-Rhodes-celebrates-reuiniting-with-the-WWE-Championship-at-the-end-of-WWE-Smackdown-on-Friday-March-6-2026-2000x1125.jpg",
         "date": "Mar 13, 2026",
         "url": "https://bleedingcool.com/tv/wwe-smackdown-preview-contract-signings-press-conferences/"
-    },
-    {
-        "id": "nwfzdbunm",
-        "title": "Nicole Kidman Drops Bombshell: Which A-List Actor Was Her Worst On-Screen Kiss?",
-        "excerpt": "The Oscar winner spills the tea on a co-star's disastrous breath and a food ban that went viral!",
-        "content": "<p>Nicole Kidman just shocked fans by revealing the identity of her least favorite on-screen kisser — and the culprit's breath was so bad, she had to lay down some serious ground rules. The actress, known for her candor, admitted that one A-list leading man's love for falafel sandwiches nearly ruined their romantic scenes.</p><p>\"I'm sure he did not eat a falafel ever again,\" Kidman quipped. \"I said, 'No more falafel. Not before you kiss, not before you make love.'\" The Oscar winner told the hosts that poor oral hygiene is a major deal-breaker for her, no matter how famous or talented the actor might be. \"If you're going to lock lips with me, you'd better be fresh,\" she added with a laugh.</p>",
-        "celebrities": [
-            "Nicole Kidman"
-        ],
-        "image_url": "https://www.nzherald.co.nz/resizer/v2/VG4CX64OAFG43AC2YQPEI7GOIY.jpg?auth=b5705da88f257858b9f2307636009b6e8492c0e6630c6443b2fad8673e0b262c&width=1200&height=675&quality=70&focal=770%2C511&smart=false",
-        "date": "Mar 13, 2026",
-        "url": "https://www.nzherald.co.nz/entertainment/nicole-kidman-reveals-which-a-list-leading-man-was-the-worst-kisser/SWM2B34XGNFBXHHFD7EAQG4NGY/"
-    },
-    {
-        "id": "exp3aiz97",
-        "title": "Timothée Chalamet Jokes About Ballet and Opera: 'Keep This Thing Alive!'",
-        "excerpt": "Timothée Chalamet's latest quip about the performing arts has fans buzzing—did he just diss ballet and opera?",
-        "content": "<p>During a recent press tour, Timothée Chalamet cracked a joke about ballet and opera that’s got everyone talking. With a playful laugh, he said, 'Hey, keep this thing alive,' before adding that discussing these highbrow art forms probably cost him 14 cents in viewers. Classic Timothée, always keeping it real and relatable!</p><p>But wait, there’s more! The actor’s lighthearted comment has sparked a debate about the relevance of classical arts in today’s pop culture. Is Timothée subtly throwing shade, or is he just being his charming, self-deprecating self? Either way, we’re here for it.</p>",
-        "celebrities": [
-            "Timothée Chalamet"
-        ],
-        "image_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-03/pexels-marina-zvada-844583049-19987313.jpg?itok=ATVMvIfJ",
-        "date": "Mar 13, 2026",
-        "url": "https://www.psychologytoday.com/us/blog/resonant-minds/202603/art-as-a-biological-bedrock-of-shared-humanity"
-    },
-    {
-        "id": "7chgecuea",
-        "title": "Mookie Betts' Mysterious Absence Sparks Buzz: What's Really Going On?",
-        "excerpt": "Mookie Betts' absence from Dodgers' Spring Training camp has fans and insiders buzzing—what's keeping the superstar away?",
-        "content": "<p>The Dodgers' camp is abuzz with whispers about Mookie Betts' sudden absence from Spring Training. Manager Dave Roberts finally shed some light on the situation, but the details only left fans wanting more.</p><p>Betts, who's been juggling multiple high-profile commitments over the past few months, including a surprising coaching gig, seems to be keeping his cards close to his chest. Is it a strategic move, a personal matter, or something else entirely? One thing's for sure—Mookie knows how to keep the spotlight on him, even when he's not on the field.</p>",
-        "celebrities": [
-            "Mookie Betts",
-            "Dave Roberts"
-        ],
-        "image_url": "https://s.yimg.com/os/en/dodgers_nation_articles_337/50d9ead2ae0cd02ca23fd4fb1f0b7c4a",
-        "date": "Mar 13, 2026",
-        "url": "https://dodgersnation.com/dodgers-dave-roberts-reveals-reason-for-mookie-betts-absence/2026/03/12/"
-    },
-    {
-        "id": "f9cemr8bh",
-        "title": "David Protein Bar Founder Claps Back at Lawsuit: Is This the Next Big Wellness Scandal?",
-        "excerpt": "Wellness influencers’ favorite snack is under fire—could this be the biggest calorie controversy since the ‘Mean Girls’ burn book?",
-        "content": "<p>Move over, Regina George—there’s a new scandal brewing in the wellness world, and it’s got everyone talking. David protein bars, the go-to snack for influencers and gym rats alike, are at the center of a heated legal battle that’s drawing comparisons to the iconic Mean Girls burn book. A class action lawsuit filed in January alleges that the viral protein bars are misleading consumers about their calorie and fat content. Yikes!</p><p>The founder of David protein bars isn’t taking the accusations lying down, though. In a fiery response, they’ve pushed back against the claims, calling the lawsuit “baseless” and insisting their products are as advertised. But with wellness influencers’ reputations on the line, this controversy is quickly becoming the talk of the town. Will David protein bars survive this calorie-counting drama, or is this the beginning of the end for the beloved snack? Stay tuned, because this story is far from over.</p>",
-        "celebrities": [],
-        "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260311-David-Protein-ew-553p-52bf81.jpg",
-        "date": "Mar 13, 2026",
-        "url": "https://www.nbcnews.com/health/health-news/david-protein-bar-founder-lawsuit-calories-rcna263052"
-    },
-    {
-        "id": "fy2eynvtc",
-        "title": "Daniel Radcliffe Shines Bright on Broadway in 'Every Brilliant Thing'—Is This His Best Role Yet?",
-        "excerpt": "Broadway’s newest star-studded gem has everyone talking—and it’s not just about the magic tricks!",
-        "content": "<p>Move over, Harry Potter! Daniel Radcliffe is casting a new spell on Broadway, and this time, it’s all about gratitude, grief, and a whole lot of heart. In <em>Every Brilliant Thing</em>, Radcliffe isn’t just acting—he’s inviting the audience to join him on stage, making this interactive play a must-see for theater lovers and celebrity stalkers alike.</p><p>Critics are raving about Radcliffe’s charm and vulnerability, with some even comparing his performance to a warm hug from Miss Piggy (yes, really). But the real magic? It’s the way he connects with the crowd, turning everyday joys like ice cream and water fights into moments of pure Broadway brilliance. Could this be the role that finally dethrones his wizarding legacy? Only time—and ticket sales—will tell.</p>",
-        "celebrities": [
-            "Daniel Radcliffe",
-            "Miss Piggy",
-            "Christopher Walken"
-        ],
-        "image_url": "https://media.timeout.com/images/106382818/image.jpg",
-        "date": "Mar 13, 2026",
-        "url": "https://www.timeout.com/newyork/news/broadway-review-daniel-radcliffe-brings-his-shine-to-every-brilliant-thing-031326"
     }
 ];
