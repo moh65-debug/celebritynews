@@ -11,6 +11,70 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "5fyrgj0l8",
+        "title": "JetBlue Flight Attendant's 'Cool' Gesture Turns Into a Fiery Legal Battle!",
+        "excerpt": "What was meant to soothe a passenger's swollen leg allegedly left her with painful burns and a lawsuit against JetBlue.",
+        "content": "<p>A JetBlue passenger is taking legal action after claiming a flight attendant's well-intentioned gesture turned into a painful ordeal. Patricia Matzenbacher alleges she was given dry ice instead of an ice pack for a swollen leg, resulting in severe burns and tissue damage to her left leg.</p><p>The incident, which occurred in March 2025, has sparked a civil complaint, with Matzenbacher seeking damages for her injuries. The case has raised eyebrows, with many questioning how such a mix-up could happen mid-flight. JetBlue has yet to comment on the matter, but this story is sure to keep the gossip mill spinning.</p>",
+        "celebrities": [],
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/6VtQJHWI6ZXwsZErPTgX5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/ed9c30e9ae5b3760276ba34b6d027462",
+        "date": "Mar 24, 2026",
+        "url": "https://people.com/passenger-sues-jetblue-after-flight-attendant-allegedly-gave-her-dry-ice-pack-by-mistake-11932777"
+    },
+    {
+        "id": "bqb8sqf5r",
+        "title": "Lorne Michaels’ Bold Move: Will ‘SNL UK’ Live Up to the Hype?",
+        "excerpt": "Can the British take on America’s comedy crown deliver the laughs—or is it a royal flop?",
+        "content": "<p>After 51 seasons of <em>Saturday Night Live</em> dominating late-night TV from 30 Rock, Lorne Michaels is taking his comedy empire global—but will it survive the journey across the pond?</p><p>At 81, the SNL overlord is betting big on a British clone of his iconic show, set to air on Peacock. But here’s the twist: while it’s live from London, American audiences will have to wait until Sunday night to catch the laughs. Is this a genius move or a recipe for disaster?</p><p>With the UK’s rich comedic talent pool, expectations are high. But can <em>SNL UK</em> capture the magic of its American counterpart, or will it feel like a pale imitation? One thing’s for sure: the comedy world is watching closely to see if this royal experiment can stand on its own merits.</p>",
+        "celebrities": [
+            "Lorne Michaels"
+        ],
+        "image_url": "https://decider.com/wp-content/uploads/2026/03/SNL-UK-PEACOCK-REVIEW.jpg?quality=75&strip=all&w=1200",
+        "date": "Mar 24, 2026",
+        "url": "https://decider.com/2026/03/23/saturday-night-live-uk-peacock-review/"
+    },
+    {
+        "id": "mdo7nouk1",
+        "title": "Sparks Fly! Portable and Carter Efe Gear Up for Explosive Face-Off in Lagos",
+        "excerpt": "The gloves are off as Portable and Carter Efe prepare to clash in Lagos—get ready for drama, tension, and a showdown you won’t want to miss!",
+        "content": "<p>The drama is heating up as Habeeb 'Portable' Badmus and Carter Efe prepare to come face-to-face in Lagos today, setting the stage for an explosive showdown ahead of their highly anticipated celebrity boxing match on May 1. The two social media titans, known for their fiery exchanges and larger-than-life personalities, are meeting in Ikeja, Lagos, where tensions are expected to run high.</p><p>Will this face-off be the spark that ignites their rivalry even further? Fans are on the edge of their seats, eager to see if the meeting will be all talk or if sparks will fly. With the clock ticking down to their big fight, Portable and Carter Efe are proving that their feud is far from over—and we’re here for every jaw-dropping moment!</p>",
+        "celebrities": [
+            "Portable",
+            "Carter Efe"
+        ],
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/03/07010902/OIP.webp",
+        "date": "Mar 24, 2026",
+        "url": "https://punchng.com/portable-carter-efe-face-off-in-lagos-today/"
+    },
+    {
+        "id": "ynzh9fc1u",
+        "title": "OMG! Jeremy Vine Hosts Epic Celebrity Showdown with Sally, Carol, Ore, and Susan!",
+        "excerpt": "Get ready for a night of hilarious chaos as these stars battle it out on Celebrity Puzzling!",
+        "content": "<p>Jeremy Vine is back at it again, and this time he’s got a star-studded lineup ready to test their wits! Sally Lindsay and Carol Vorderman are leading their teams into battle, but it’s the surprise additions that have everyone buzzing. Presenter and actor Ore Oduba is bringing his charm, while comedian Susan Calman is ready to crack everyone up. Will brains or banter win the day?</p><p>Expect plenty of laughs, a few heated debates, and maybe even a little drama as these celebs go head-to-head. Don’t miss the fun—this episode is guaranteed to be a wild ride!</p>",
+        "celebrities": [
+            "Jeremy Vine",
+            "Sally Lindsay",
+            "Carol Vorderman",
+            "Ore Oduba",
+            "Susan Calman"
+        ],
+        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
+        "date": "Mar 24, 2026",
+        "url": "https://post.rlsbb.to/celebrity-puzzling-s02e21-1080p-my5-web-dl-h264-7vfr33104d/"
+    },
+    {
+        "id": "1klv0rsyt",
+        "title": "Charlie Puth and Brooke Sansone Welcome Baby Boy – What’s His Adorable Name?",
+        "excerpt": "The pop star and his wife just shared the sweetest news of their lives!",
+        "content": "<p>Charlie Puth and his wife, Brooke Sansone, are officially parents! The Grammy-nominated crooner and his longtime love welcomed their first child together, a baby boy, and couldn't wait to share the big news with fans.</p><p>The couple posted a sweet joint announcement revealing their son's name, marking their first public milestone as a family. While they've kept their relationship relatively private in the past, this joyous moment has fans buzzing with excitement. Could we see more adorable family updates from the new dad soon? Stay tuned!</p>",
+        "celebrities": [
+            "Charlie Puth",
+            "Brooke Sansone"
+        ],
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Mar 24, 2026",
+        "url": "https://alltoc.com/tabloid/who-welcomed-charlie-puths-first-baby"
+    },
+    {
         "id": "j0mi8audf",
         "title": "Alex Rodriguez's GF Ditches the Pants and Turns Up the Heat on Vacation",
         "excerpt": "Jaclyn Cordeiro proves she's the queen of vacation vibes in a sizzling bikini that's got everyone talking.",
@@ -558,68 +622,5 @@ export const articles: Article[] = [
         "image_url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/03/fb_image_69b5d944058ae.png",
         "date": "Mar 14, 2026",
         "url": "https://www.boredpanda.com/weird-theory-claims-erika-kirk-and-sydney-sweeney-were-born-male/"
-    },
-    {
-        "id": "3rvyk11q8",
-        "title": "The Makjang Madness Returns: Doctor Shin is TV Chosun's Latest Obsession!",
-        "excerpt": "Doctor Shin is here to prove that TV Chosun has a fever, and the only prescription is more drama!",
-        "content": "<p>Hold onto your seats, drama lovers, because TV Chosun is serving up another juicy slice of makjang with their latest offering, Doctor Shin! Set to air on Saturdays and Sundays, this melo-thriller-youth hybrid is already causing a stir in the K-drama world.</p><p>With 16 episodes and a global streamer yet to be announced, Doctor Shin is shaping up to be the talk of the town. TV Chosun seems to be doubling down on their love for over-the-top, addictive storylines, and we're here for it! Get ready for a wild ride filled with suspense, romance, and enough plot twists to make your head spin.</p>",
-        "celebrities": [],
-        "image_url": "https://dramabeans.com/wp-content/uploads/2026/03/pw_doctorshin.jpg",
-        "date": "Mar 14, 2026",
-        "url": "https://dramabeans.com/2026/03/premiere-watch-doctor-shin/"
-    },
-    {
-        "id": "6xfc9f4cs",
-        "title": "Katie Nolan's OMG Moment: Freaking Out Over Jeopardy! Legends Before Big Celebrity Showdown!",
-        "excerpt": "Katie Nolan's fangirl moment with Jeopardy! royalty has us all screaming 'Same!'",
-        "content": "<p>Katie Nolan, the sports media personality and longtime Jeopardy! enthusiast, couldn't contain her excitement after crossing paths with two of her favorite recent contestants just hours before stepping onto the Celebrity Jeopardy! stage for the All-Stars edition.</p><p>The sports commentator and podcast host was spotted looking absolutely starstruck as she ran into the trivia titans, her face lighting up like a scoreboard on Final Jeopardy. Sources say she was overheard gushing about their legendary runs and even asked for a quick photo to commemorate the epic pre-show encounter.</p>",
-        "celebrities": [
-            "Katie Nolan"
-        ],
-        "image_url": "https://d.ibtimes.com.au/en/full/1892333/katie-nolan.png",
-        "date": "Mar 14, 2026",
-        "url": "https://www.ibtimes.com.au/katie-nolan-has-epic-freak-out-meeting-jeopardy-all-stars-before-celebrity-showdown-1863247"
-    },
-    {
-        "id": "wwd769sb1",
-        "title": "Jeremy Vine's Celebrity Puzzling Showdown: Who Will Outsmart the Panel?",
-        "excerpt": "Can Carol Vorderman and Sally Lindsay's teams crack the code, or will Jason Mohammad and Ed Byrne steal the spotlight?",
-        "content": "<p>Jeremy Vine is back at the helm for another thrilling episode of Celebrity Puzzling, and this time, the stakes are higher than ever! Team captains Carol Vorderman and Sally Lindsay are joined by the quick-witted broadcaster Jason Mohammad and the hilariously sharp comedian Ed Byrne. With their brains and banter, this quartet is ready to tackle the trickiest puzzles yet.</p><p>But who will reign supreme? Will Carol’s mathematical genius give her team the edge, or will Ed’s comedic charm throw everyone off their game? Tune in to find out if Sally’s leadership can outsmart the competition in this battle of wits!</p>",
-        "celebrities": [
-            "Jeremy Vine",
-            "Carol Vorderman",
-            "Sally Lindsay",
-            "Jason Mohammad",
-            "Ed Byrne"
-        ],
-        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
-        "date": "Mar 14, 2026",
-        "url": "https://post.rlsbb.to/celebrity-puzzling-s02e15-1080p-web-dl-x264-7vfr33104d/"
-    },
-    {
-        "id": "7j6rl6krx",
-        "title": "Shots Fired at Rihanna's Mansion! What Really Happened?",
-        "excerpt": "A shocking incident at Rihanna's private residence has sparked a major investigation—find out what went down.",
-        "content": "<p>Law enforcement is diving deep into an alleged shooting at Rihanna's luxurious private residence, with reports claiming multiple rounds were fired into the property. The pop star's team is staying tight-lipped, but sources say the incident has left fans and neighbors stunned.</p><p>The person accused in the incident has reportedly been identified, though details remain under wraps as the investigation unfolds. Could this be connected to Rihanna's high-profile lifestyle, or is there more to the story? Stay tuned as we uncover the latest on this unfolding drama.</p>",
-        "celebrities": [
-            "Rihanna"
-        ],
-        "image_url": "https://alltoc.com/cdn/1046/og.png",
-        "date": "Mar 14, 2026",
-        "url": "https://alltoc.com/tabloid/what-triggered-the-rihanna-house-shooting-probe"
-    },
-    {
-        "id": "are86gz7f",
-        "title": "WWE SmackDown Tonight: Contract Signings, Title Matches & Drama That’ll Leave You Shook!",
-        "excerpt": "From shocking contract signings to title matches that could change everything, tonight’s SmackDown is shaping up to be unmissable!",
-        "content": "<p>Get ready, wrestling fans, because tonight’s WWE SmackDown is serving up a heaping helping of drama, action, and jaw-dropping moments that’ll have you on the edge of your seat. The Chadster is here to break it all down, and trust us, this episode is shaping up to be one for the history books.</p><p>First up, contract signings are taking center stage, and you know that means tension is at an all-time high. Will there be a surprise challenger? A shocking betrayal? Or maybe even a surprise appearance from someone we weren’t expecting? One thing’s for sure—these signings are never just about the paperwork.</p><p>But that’s not all! Title matches are also on the docket, and with championships on the line, the stakes couldn’t be higher. Will we see a new champion crowned tonight, or will the current titleholders prove why they’re at the top of their game? Either way, it’s guaranteed to be a night of high-octane action.</p><p>And let’s not forget the perfectly scripted promos that WWE is known for. Whether it’s a fiery mic drop moment or a heartfelt speech that tugs at your heartstrings, these promos are the glue that holds it all together. Sure, Tony Khan might have his own style, but WWE’s got the formula down to a science.</p><p>So, grab your snacks, settle in, and get ready for a night of wrestling that’s equal parts unpredictable and unforgettable. The Chadster promises you won’t want to miss a single second of tonight’s SmackDown!</p>",
-        "celebrities": [
-            "The Chadster",
-            "Tony Khan"
-        ],
-        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/Cody-Rhodes-celebrates-reuiniting-with-the-WWE-Championship-at-the-end-of-WWE-Smackdown-on-Friday-March-6-2026-2000x1125.jpg",
-        "date": "Mar 13, 2026",
-        "url": "https://bleedingcool.com/tv/wwe-smackdown-preview-contract-signings-press-conferences/"
     }
 ];
