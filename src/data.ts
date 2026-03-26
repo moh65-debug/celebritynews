@@ -11,6 +11,67 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "x49ljm4fl",
+        "title": "Tom Cruise's Bombshell Quote: 'I Want a World Without War' Shakes Fans to Their Core",
+        "excerpt": "Tom Cruise's latest quote has fans buzzing—could this be his most profound statement yet?",
+        "content": "<p>Tom Cruise, the king of Hollywood action, just dropped a quote that’s got everyone talking. Known for his jaw-dropping stunts and blockbuster hits, Cruise took a moment to share his thoughts on a world without war and insanity. But is this just another PR move, or is there more to it?</p><p>In a recent interview, Cruise said, 'I want a world without war, a world without insanity. I want to see people do better.' Fans are divided—some see it as a heartfelt plea for peace, while others wonder if it’s a subtle dig at his high-profile divorce drama. Either way, Cruise’s words are sparking debates across social media. Could this be his way of rebranding his image, or is he genuinely trying to make the world a better place?</p>",
+        "celebrities": [
+            "Tom Cruise"
+        ],
+        "image_url": "https://img.etimg.com/thumb/msid-129789357,width-1200,height-630,imgsize-86260,overlay-economictimes/articleshow.jpg",
+        "date": "Mar 25, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-tom-cruise-i-want-a-world-without-war-a-world-withoutinspiring-quotes-by-the-incredible-actor/articleshow/129788997.cms"
+    },
+    {
+        "id": "ip359pz71",
+        "title": "Portable vs Carter Efe: Sparks Fly at Explosive Face-Off Before May 1 Boxing Showdown!",
+        "excerpt": "Portable and Carter Efe clash in a fiery pre-fight face-off, mixing charms, scripture, and verbal jabs ahead of their explosive May 1 boxing battle!",
+        "content": "<p>The tension was thicker than Lagos traffic as Nigerian music wild card Portable and comedian Carter Efe went head-to-head in a jaw-dropping face-off at Ikeja, Lagos, on Tuesday. With just days to go before their May 1 celebrity boxing match, the two social media heavyweights turned up the heat, trading barbs, biblical verses, and even a touch of juju!</p><p>Portable, known for his unpredictable antics, didn't hold back, while Carter Efe matched his energy with witty comebacks and signature humor. The showdown had fans buzzing, with some calling it the most entertaining pre-fight presser of the year. Will Portable's street swagger or Carter's comedic charm win the night? One thing's for sure—this fight is shaping up to be a must-watch!</p>",
+        "celebrities": [
+            "Portable",
+            "Carter Efe"
+        ],
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/03/25004528/Untitled-1200x630.jpg",
+        "date": "Mar 25, 2026",
+        "url": "https://punchng.com/portable-carter-efe-talk-tough-ahead-may-1-fight/"
+    },
+    {
+        "id": "0f7ab18jw",
+        "title": "OMG! 12 Canadian Illustrated Books That’ll Make Your Spring Reading List *So* Much Better",
+        "excerpt": "These must-read comics are serving up everything from scandalous memoirs to spine-chilling horror—get ready to binge!",
+        "content": "<p>Spring is here, and so is your excuse to curl up with a brand-new stack of Canadian illustrated gems! CBC Books has spilled the tea on the hottest comics dropping this season, and trust us, you’re going to want to bookmark this list ASAP.</p><p>From juicy historical dramas to jaw-dropping memoirs, and even a dash of satire and horror, there’s something for every kind of reader. Whether you’re into heart-pounding thrillers or laugh-out-loud satire, these titles are about to become your new obsession. So grab your favorite cozy blanket, pour yourself a latte, and get ready to dive into these must-reads that are *literally* too good to put down.</p>",
+        "celebrities": [],
+        "image_url": "https://i.cbc.ca/ais/5684e872-378c-47d5-a036-8979a57eb7f7,1772832882836/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1085%2C610%29%3BResize%3D620",
+        "date": "Mar 25, 2026",
+        "url": "https://www.cbc.ca/books/12-canadian-illustrated-books-coming-out-this-spring-we-can-t-wait-to-read-9.7117440"
+    },
+    {
+        "id": "ttv7rmt6j",
+        "title": "Ryan Gosling's Late-Night TV Rave Sends Small Florida Bakery Into 'Another Universe'",
+        "excerpt": "Ryan Gosling's unexpected shoutout on late-night TV has catapulted a small Florida bakery into the spotlight, leaving the owner in awe.",
+        "content": "<p>Ryan Gosling's unexpected shoutout on late-night TV has catapulted a small Florida bakery into the spotlight, leaving the owner in awe. The buzz began when Gosling appeared on 'Late …</p><p>The bakery, known for its unique Pop Tart treats, is now experiencing a surge of orders and a Hollywood moment, thanks to the actor's glowing praise. The owner described the business as being 'in another universe' after the celebrity shoutout.</p>",
+        "celebrities": [
+            "Ryan Gosling"
+        ],
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/ryan-gosling-with-seth-meyers.jpg",
+        "date": "Mar 25, 2026",
+        "url": "https://www.foxnews.com/food-drink/ryan-goslings-late-night-tv-rave-sends-small-florida-bakery-another-universe"
+    },
+    {
+        "id": "ho1qv35py",
+        "title": "Vince Gill Drops a Bombshell: Why He Has 'No Respect' for Trump",
+        "excerpt": "Vince Gill reveals shocking political stance during candid podcast chat!",
+        "content": "<p>Vince Gill, the legendary country crooner, is stirring up headlines after making a bold confession about his feelings toward former President Donald Trump. While the 68-year-old Grammy winner was thrilled to honor his pal George Strait at the Kennedy Center Honors, he didn't hold back when it came to sharing his true thoughts on Trump.</p><p>During a recent episode of the \"Nashville Now\" podcast, Gill admitted he had to \"think about s…\" before attending the event, hinting at his discomfort with the political climate. Known for his smooth voice and even smoother demeanor, Gill's candid remarks have fans and critics alike buzzing. Could this be the start of a new era of outspoken country stars? Only time will tell!</p>",
+        "celebrities": [
+            "Vince Gill",
+            "George Strait",
+            "Donald Trump"
+        ],
+        "image_url": "https://www.usmagazine.com/wp-content/uploads/2026/03/Country-Music-Star-Vince-Gill-Says-He-Doesnt-Have-Very-Much-Respect-for-President-Donald-Trump.jpg?crop=0px%2C10px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
+        "date": "Mar 25, 2026",
+        "url": "https://www.usmagazine.com/celebrity-news/news/vince-gill-doesnt-have-much-respect-for-president-trump/"
+    },
+    {
         "id": "5fyrgj0l8",
         "title": "JetBlue Flight Attendant's 'Cool' Gesture Turns Into a Fiery Legal Battle!",
         "excerpt": "What was meant to soothe a passenger's swollen leg allegedly left her with painful burns and a lawsuit against JetBlue.",
@@ -562,65 +623,5 @@ export const articles: Article[] = [
         "image_url": "https://uploads.neatorama.com/images/posts/678/127/127678/1773621341-0.jpg",
         "date": "Mar 16, 2026",
         "url": "https://www.neatorama.com/2026/03/15/Everyone-Wants-to-Be-in-a-iStar-Warsi-Movie/"
-    },
-    {
-        "id": "dkma5f1v6",
-        "title": "Jake Paul's Shocking Political Pivot? Trump's Endorsement Sparks Rumors!",
-        "excerpt": "Jake Paul’s latest move has everyone talking—could this social media star be eyeing a future in politics?",
-        "content": "<p>At a packed campaign rally in Hebron, Kentucky, Jake Paul found himself in the political spotlight this week, thanks to a surprising endorsement from former President Donald Trump. The social media-famous boxer and influencer, known for his controversial antics, was publicly praised by Trump, sparking wild speculation about Paul’s potential political ambitions.</p><p>While Paul has yet to confirm any plans to run for office, the endorsement has fans and critics alike buzzing. Could this be the start of a new chapter for the YouTube-turned-boxer, or is it just another headline-grabbing stunt? Stay tuned as the drama unfolds!</p>",
-        "celebrities": [
-            "Jake Paul",
-            "Donald Trump"
-        ],
-        "image_url": "https://phantom.estaticos-marca.com/0be215c64d48199a8fc8fd996f973488/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/14/17735287589214.jpg",
-        "date": "Mar 15, 2026",
-        "url": "https://www.marca.com/en/boxing/2026/03/15/69b5e6ebe2704e48528b45a1.html"
-    },
-    {
-        "id": "nnoasvuzp",
-        "title": "Alberta Town Scores Big Win: $50K Boost for Arena Rebuild After Devastating Explosion",
-        "excerpt": "Taber's comeback story takes a thrilling turn with a major cash prize for its beloved hockey arena!",
-        "content": "<p>Taber, Alberta, is skating into a brighter future after a devastating explosion left its aging hockey arena out of commission. The southern Alberta town was recently revealed as one of the provincial winners of the Kraft Hockeyville contest, securing a whopping $50,000 to aid in the arena's much-needed rebuild. This victory comes as a beacon of hope for the tight-knit community, which has been rallying together to restore its cherished local landmark.</p><p>The town celebrated its win with a spirited street hockey fundraiser, showcasing the resilience and determination of Taber's residents. While the road to recovery is still long, this financial boost is a game-changer for the community's efforts to bring back the roar of the crowd and the thrill of the game. Stay tuned as Taber turns this setback into a comeback story worth cheering for!</p>",
-        "celebrities": [],
-        "image_url": "https://i.cbc.ca/ais/673a2a00-03d7-4bd9-a653-766eaa61334e,1767826448907/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C740%2C1920%2C1080%29%3BResize%3D620",
-        "date": "Mar 15, 2026",
-        "url": "https://www.cbc.ca/news/canada/calgary/taber-arena-explosion-rebuild-fundraiser-9.7128259"
-    },
-    {
-        "id": "ttoeg49zi",
-        "title": "Emilia Attias and Daughter Gina Slay NYC in Style: Museums, Fashion, and Mommy-Daughter Bliss!",
-        "excerpt": "After six months of MasterChef Celebrity drama, Emilia Attias and her mini-me hit NYC for a glamorous getaway full of culture and couture!",
-        "content": "<p>Emilia Attias is living her best life! Fresh off six intense months of MasterChef Celebrity (Telefe), the actress hit pause on the drama and jetted off to NYC with her adorable daughter Gina. The duo has been turning heads with their chic outfits, museum-hopping, and picture-perfect moments across the Big Apple.</p><p>Emilia, who shares Gina with her ex Turco Naim, seems to be embracing the ultimate mommy-daughter getaway. From iconic landmarks to high-end shopping sprees, this vacation screams #Goals. Could this be a hint of a new chapter for the star? Stay tuned!</p>",
-        "celebrities": [
-            "Emilia Attias",
-            "Gina (daughter)",
-            "Turco Naim"
-        ],
-        "image_url": "https://fotos.perfil.com/2026/03/14/trim/1140/641/emilia-attias-y-su-hija-gina-2203039.jpg",
-        "date": "Mar 14, 2026",
-        "url": "https://caras.perfil.com/noticias/celebridades/mejores-fotos-vacaciones-emilia-attias-hija-gina-en-nueva-york-museos-relax-mucha-moda.phtml"
-    },
-    {
-        "id": "nk2l80a6d",
-        "title": "A&E's Shocking Week: Celebs, Scandals, and Secret Tapes!",
-        "excerpt": "From explosive auctions to jaw-dropping celebrity scandals, A&E's lineup this week is serving major drama!",
-        "content": "<p>Hold on to your remotes, because A&E is about to drop some seriously juicy content this week! The network is pulling out all the stops with a lineup that mixes high-stakes bidding wars, shocking celebrity secrets, and courtroom confessions that will leave you gasping.</p><p>First up, the fan-favorite auction show Quem Dá Mais? is back with brand-new episodes that promise even more intense bidding battles and jaw-dropping finds. But that's just the appetizer. The real headline-grabber? Segredos das Celebridades: Sex Tapes, a scandalous deep dive into the private lives of the rich and famous. Think you know your favorite stars? Think again. And if that's not enough drama for you, Acusado: Fui Eu Que Fiz Isso… brings you closer than ever to real-life courtroom confessions that are stranger than fiction.</p>",
-        "celebrities": [],
-        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInzGP717rccLMYH0W9tQ7RqHPeXRuxhYtmaebFqgNsWHO6qN9mauduxD0Bk1k4nYsnrYF8aAHlGkd4nO9IuC3kgf7g1S6j5f4sejZSSD8N4fqhDXB4jGIdbcncALlcTxcSBfUngA40GiKRsBW-ZInanQttEPRyHb-usZh99Dip1DRvk5Ax4FQmibp2VxN/w1600/qdm-s16ep2.jpg",
-        "date": "Mar 14, 2026",
-        "url": "https://www.ouniversodatv.com/2026/03/a-destaques-da-programacao-de-16-22-de.html"
-    },
-    {
-        "id": "n8siqb52f",
-        "title": "Internet Conspiracy Madness: Sydney Sweeney and Erika Kirk at the Center of Viral 'Transvestigation' Rumors",
-        "excerpt": "A wild online conspiracy theory is causing a stir, with fans and critics alike buzzing about bizarre claims targeting two high-profile women.",
-        "content": "<p>The internet is once again proving to be a breeding ground for wild conspiracy theories, and this time, it’s Hollywood star Sydney Sweeney and conservative figure Erika Kirk who find themselves at the center of the storm. A bizarre trend dubbed 'transvestigation' has gone viral, with baseless claims circulating that the two women were secretly born male. Fans and critics alike are scratching their heads, wondering how such outlandish rumors could gain traction in the first place.</p><p>While neither Sweeney nor Kirk has addressed the rumors directly, the online chatter has only intensified, with social media platforms buzzing over the absurdity of it all. From Hollywood to political circles, the theory has sparked debates about the lengths some will go to spread misinformation. One thing’s for sure: the internet never fails to deliver the unexpected, and this latest conspiracy is no exception.</p>",
-        "celebrities": [
-            "Sydney Sweeney",
-            "Erika Kirk"
-        ],
-        "image_url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/03/fb_image_69b5d944058ae.png",
-        "date": "Mar 14, 2026",
-        "url": "https://www.boredpanda.com/weird-theory-claims-erika-kirk-and-sydney-sweeney-were-born-male/"
     }
 ];
