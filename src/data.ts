@@ -11,6 +11,65 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "svc7h085s",
+        "title": "Perez Hilton Claims He Saw God After 21-Day Hospital Stay: 'My Stupidity Saved My Life'",
+        "excerpt": "The gossip king says his brush with death was 'the worst and best thing' that ever happened to him—and he's got a divine story to prove it.",
+        "content": "<p>Perez Hilton is back with a bang—and a near-death story that sounds straight out of a Hollywood script. The celebrity gossip blogger, known for his spicy takes and paparazzi snaps, revealed he spent 21 days in the hospital after what he calls 'my own stupidity' nearly cost him his life.</p><p>In a dramatic Instagram video he's calling his 'most important ever,' Hilton opened up about the terrifying health scare that left him bedridden for weeks. But here's the twist: he says it was also the best thing that ever happened to him. Why? Because during his hospital stay, he claims to have had a spiritual awakening and even saw God. Yep, you read that right.</p><p>The 45-year-old, who built his empire spilling celebrity tea, is now spilling his own—and it's a wild ride from gossip king to spiritual seeker. Fans are already buzzing, with many praising his honesty and others wondering if this is just another PR stunt. Either way, one thing's for sure: Perez Hilton's life just got a whole lot more interesting.</p>",
+        "celebrities": [],
+        "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Perez-Hilton-getty-H-2026.png?w=1296&h=730&crop=1",
+        "date": "Mar 26, 2026",
+        "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/perez-hilton-encountered-god-hospitalized-three-weeks-1236547570/"
+    },
+    {
+        "id": "rln98mqo8",
+        "title": "BAFTA TV Awards 2026: The Nominations Are In — And One Show Is About to Dominate",
+        "excerpt": "One show is sweeping the board — and its star might need a bigger trophy cabinet!",
+        "content": "<p>Move over, trophy shelves — Stephen Graham is about to need a whole new shed for his awards. The 2026 BAFTA TV nominations are here, and one show is stealing the spotlight in a big way.</p><p>Stephen Graham’s gripping drama Adolescence has swept the nominations, proving it’s still the talk of the town. With nods across multiple categories, the series is shaping up to be the one to beat this awards season. Could this be the year Graham finally clears out the garage for all that BAFTA gold?</p><p>From breakout performances to binge-worthy storytelling, the 2026 BAFTA TV Awards are shaping up to be a star-studded affair. Stay tuned as the countdown to the big night begins — and let’s see if Adolescence can keep its winning streak alive!</p>",
+        "celebrities": [
+            "Stephen Graham"
+        ],
+        "image_url": "https://pyxis.nymag.com/v1/imgs/65e/0a4/d70c0f252ea43ef66a2f591b12776d7c3d-stephen-graham.1x.rsocial.w1200.jpg",
+        "date": "Mar 26, 2026",
+        "url": "http://www.vulture.com/article/the-2026-bafta-tv-awards-full-nominees-list.html"
+    },
+    {
+        "id": "9s87bkfmc",
+        "title": "Rajisha Vijayan's Cyberpunk Thriller 'Masthishka Maranam' Drops OTT Release Date! Here's When & Where to Watch",
+        "excerpt": "Rajisha Vijayan steps into a futuristic world of memory trading in this mind-bending Malayalam sci-fi thriller!",
+        "content": "<p>Malayalam cinema's boldest experiment yet is finally coming to your screens! Director Krishand's highly anticipated film 'Masthishka Maranam' has announced its OTT release date, sending fans into a frenzy. The sci-fi drama, which has been making waves for its unusual blend of dark humor, emotional depth, and futuristic storytelling, stars the versatile Rajisha Vijayan in what could be her most daring role yet.</p><p>In this mind-bending thriller, Vijayan transforms into superstar Frida Soman, navigating a dystopian Kochi where memories aren't just precious—they're tradable commodities! The film promises to take viewers on a wild ride through a world where the line between reality and artificial recollection blurs. With its unique premise mixing cyberpunk aesthetics with raw human emotion, 'Masthishka Maranam' is shaping up to be the conversation starter Malayalam cinema desperately needed.</p>",
+        "celebrities": [
+            "Rajisha Vijayan",
+            "Krishand"
+        ],
+        "image_url": "https://img.etimg.com/thumb/msid-129814249,width-1200,height-630,imgsize-61568,overlay-etpanache/articleshow.jpg",
+        "date": "Mar 26, 2026",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/masthishka-maranam-ott-release-date-announced-when-and-where-to-watch-rajisha-vijayan-krishands-malayalam-cyberpunk-thriller-movie/articleshow/129814198.cms"
+    },
+    {
+        "id": "5xbi5dvxu",
+        "title": "Drama Alert! Chappell Roan's Bodyguard Speaks Out Amid Controversy with Jude Law's Daughter",
+        "excerpt": "The bodyguard at the center of the Chappell Roan security scandal finally breaks his silence—find out what he has to say!",
+        "content": "<p>In a shocking turn of events, the bodyguard involved in the Chappell Roan security drama has finally spoken out! The controversy erupted after an incident with none other than Jude Law's adorable 11-year-old daughter, Ada. Now, the 'Pink Pony Club' singer's protector is setting the record straight.</p><p>Sources close to the situation reveal that the security guard is backing up Chappell Roan's claims, insisting he was not acting on her behalf during the controversial encounter. What really went down? And why is this bodyguard taking full responsibility? Stay tuned as we dive into the juicy details of this unfolding celebrity saga!</p>",
+        "celebrities": [
+            "Chappell Roan",
+            "Jude Law",
+            "Ada Law"
+        ],
+        "image_url": "https://pagesix.com/wp-content/uploads/sites/3/2026/03/124398684.jpg?quality=75&strip=all&w=1200",
+        "date": "Mar 26, 2026",
+        "url": "https://pagesix.com/2026/03/25/celebrity-news/bodyguard-at-center-of-chappell-roan-security-drama-breaks-silence/"
+    },
+    {
+        "id": "mspj0iss5",
+        "title": "OMG! The Masked Singer Season 14 Semi-Finals Revealed Shocking Eliminations! Who's in the Finale?",
+        "excerpt": "The Masked Singer's semi-finals just dropped a bombshell elimination that's got everyone talking! 🎤✨",
+        "content": "<p>The Masked Singer season 14 semi-finals delivered the drama we've all been waiting for! The competition heated up as one fan-favorite contestant got the boot, leaving the final four to battle it out in the highly anticipated finale. 😲</p><p>Could it be the powerhouse vocalist who's been slaying every performance? Or maybe the comedic genius who's been keeping us laughing all season? One thing's for sure - the remaining contestants are giving us major finale FOMO! Who do you think will take home the Golden Mask trophy? 🏆</p><p>Keep reading to find out who made it through and who's heading home with their dreams shattered (or maybe just a little bruised). Trust us, you won't want to miss this! 🍿</p>",
+        "celebrities": [],
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/the-masked-singer-season-14-panelists-smiling-together-on-red-white-clue-night.jpg?w=1600&h=900&fit=crop",
+        "date": "Mar 26, 2026",
+        "url": "https://screenrant.com/the-masked-singer-season-14-who-made-it-to-the-finale-spoilers/"
+    },
+    {
         "id": "x49ljm4fl",
         "title": "Tom Cruise's Bombshell Quote: 'I Want a World Without War' Shakes Fans to Their Core",
         "excerpt": "Tom Cruise's latest quote has fans buzzing—could this be his most profound statement yet?",
@@ -570,58 +629,5 @@ export const articles: Article[] = [
         "image_url": "https://www.nzherald.co.nz/resizer/v2/GD6GSRVVZ5B4HDAS2K3XCFZRXA.jpg?auth=66a1293c69bc8196b95661a8eb2853a59cab27ab72ccdffa26eda273645de348&width=1200&height=675&quality=70&focal=436%2C433&smart=false",
         "date": "Mar 16, 2026",
         "url": "https://www.nzherald.co.nz/entertainment/back-to-the-future-iii-actor-matt-clark-dead-aged-89/2CN4M3BHCNGXPD6CA4JZBCKKZA/"
-    },
-    {
-        "id": "39jmv5p36",
-        "title": "Mckenna Grace’s Pokémon Cards Steal the Show at the Oscars!",
-        "excerpt": "Mckenna Grace proves she’s the ultimate geek-chic icon with her Pokémon cards at the Oscars!",
-        "content": "<p>Move over, diamonds—Mckenna Grace just brought Pokémon cards to the Oscars, and we’re obsessed! The 17-year-old actress, known for her roles in The Handmaid’s Tale and Ghostbusters: Afterlife, strutted down the red carpet in a stunning gown, but it was her secret accessory that had fans buzzing.</p><p>While chatting with reporters, Mckenna revealed she tucked a deck of Pokémon cards into her clutch, proving she’s not just a Hollywood star but a total geek at heart. “I couldn’t leave home without them,” she said with a laugh, adding that the cards are her good-luck charm. Talk about a red-carpet power move!</p><p>Mckenna’s playful nod to her nerdy side has fans cheering, and honestly, we’re here for it. Who says you can’t be glamorous and a gaming queen at the same time? Keep slaying, Mckenna!</p>",
-        "celebrities": [
-            "Mckenna Grace"
-        ],
-        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/whos_that_pokemon_mckenna-2000x1125.jpg",
-        "date": "Mar 16, 2026",
-        "url": "https://bleedingcool.com/games/mckenna-grace-brought-pokemon-cards-to-the-oscars/"
-    },
-    {
-        "id": "ztr1brc2n",
-        "title": "Oscar Fashion Fails: The Most Shocking Red Carpet Disasters of 2026",
-        "excerpt": "From cringe-worthy couture to style slip-ups, these stars proved that even the biggest names can have an off night.",
-        "content": "<p>The 2026 Academy Awards brought the glitz and glamour we expect from Hollywood’s biggest night, but not every star hit the fashion bullseye. While the red carpet dazzled with bold statements and jaw-dropping looks, a few celebrities left us scratching our heads. From questionable choices to outright disasters, here’s a rundown of the most talked-about fashion fails that stole the spotlight for all the wrong reasons.</p><p>Timothée Chalamet, known for his daring style, seemed to miss the mark this time, opting for an avant-garde ensemble that left fans divided. Anne Hathaway’s gown, though elegant in theory, suffered from a questionable fit that had everyone buzzing. These and other stars proved that even the most stylish can have an off night. Let’s dive into the fashion faux pas that had us all talking!</p>",
-        "celebrities": [
-            "Timothée Chalamet",
-            "Anne Hathaway"
-        ],
-        "image_url": "https://i.insider.com/69b74de04d65ec51752a08c3?width=1200&format=jpeg",
-        "date": "Mar 16, 2026",
-        "url": "https://www.businessinsider.com/oscars-worst-dressed-celebrities-red-carpet-2026-3"
-    },
-    {
-        "id": "0zox5q4nn",
-        "title": "Arielle Kebbel Spills on the Pressure of Joining the ‘Yellowstone’ Universe: ‘We All Understood the Assignment’",
-        "excerpt": "Arielle Kebbel reveals the weight of stepping into the ‘Yellowstone’ legacy in CBS’s new drama Marshals.",
-        "content": "<p>Arielle Kebbel is opening up about the pressure of stepping into the world of ‘Yellowstone’ for her new CBS drama, Marshals. As a longtime fan of the hit series, Kebbel admits she felt the weight of the Dutton legacy and the responsibility to honor the franchise’s iconic storytelling.</p><p>‘I definitely felt the weight of and the obligation to respect the Y,’ Kebbel shared, hinting at the high expectations that come with joining such a beloved universe. The actress, known for her roles in ‘Ballers’ and ‘The Vampire Diaries,’ is ready to prove she’s up for the challenge.</p><p>Marshals promises to bring a fresh perspective to the Yellowstone saga, and Kebbel’s enthusiasm is palpable. ‘We all understood the assignment,’ she said, signaling that the cast is ready to deliver the drama and intensity fans crave. Will Kebbel’s character rise to the occasion? Only time will tell!</p>",
-        "celebrities": [
-            "Arielle Kebbel"
-        ],
-        "image_url": "https://decider.com/wp-content/uploads/2026/03/interview-Arielle-Kebbel.jpg?quality=75&strip=all&w=1200",
-        "date": "Mar 16, 2026",
-        "url": "https://decider.com/2026/03/15/marshals-arielle-kebbel-belle-skinner-interview/"
-    },
-    {
-        "id": "rutypv2d7",
-        "image_url": "https://consequence.net/wp-content/uploads/2025/12/rob-reiner-was-the-american-everyman.jpg",
-        "date": "Mar 16, 2026",
-        "url": "https://consequence.net/2026/03/rob-reiner-memorial-2026-oscars/"
-    },
-    {
-        "id": "mgg8lydze",
-        "title": "Star Wars' Secret Celebrity Wishlist: Who's Begging to Join the Galaxy?",
-        "excerpt": "From childhood dreams to Hollywood power moves, these A-listers are pulling out all the stops to land a role in the next Star Wars epic.",
-        "content": "<p>When a franchise has been running for 49 years, the kids who were fans from the start grow up, and some of them end up with enough clout to talk themselves into being in another movie. Casting a Star Wars film is a big job, but celebrity volunteers for the sm… [+612 chars]</p>",
-        "celebrities": [],
-        "image_url": "https://uploads.neatorama.com/images/posts/678/127/127678/1773621341-0.jpg",
-        "date": "Mar 16, 2026",
-        "url": "https://www.neatorama.com/2026/03/15/Everyone-Wants-to-Be-in-a-iStar-Warsi-Movie/"
     }
 ];
