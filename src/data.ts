@@ -11,6 +11,72 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "zcayddcmb",
+        "title": "🚀 Blast Off with Season 5: Where to Watch For All Mankind Online Now!",
+        "excerpt": "The stars align as Apple TV's epic space saga returns for a thrilling fifth season—don’t miss your chance to watch it online!",
+        "content": "<p>Calling all space enthusiasts and drama lovers! Apple TV's beloved alternate history series, For All Mankind, is back with a bang for its highly anticipated fifth season. 🚀 Whether you're a die-hard fan or a curious newcomer, we've got the inside scoop on where to stream this out-of-this-world show online.</p><p>From jaw-dropping space missions to intense character drama, For All Mankind has been a fan favorite since its debut. Now, with Season 5, the stakes are higher than ever. Ready to dive into the cosmos? Here's everything you need to know to catch the latest episodes and join the galactic conversation!</p>",
+        "celebrities": [],
+        "image_url": "https://i.insider.com/69c5a1634133f63e1c778ca0?width=1200&format=jpeg",
+        "date": "Mar 27, 2026",
+        "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-for-all-mankind-online"
+    },
+    {
+        "id": "nteha19d9",
+        "title": "J. Smith-Cameron Joins the Drama! Elsbeth's Next Episodes Promise Scandal and Intrigue",
+        "excerpt": "The beloved legal drama is heating up with shocking guest appearances and unexpected twists that will leave fans reeling.",
+        "content": "<p>Buckle up, Elsbeth fans—your favorite legal eagle is back with a vengeance! CBS's hit series starring the incomparable Carrie Preston is serving up more than just courtroom drama this season. With EPs Robert King and Michelle King at the helm, the show's latest episodes are packed with jaw-dropping moments and star-studded cameos.</p><p>In S03E14: 'Deadutante,' prepare to be dazzled by the arrival of J. Smith-Cameron, who steps into the spotlight as a mysterious new character. But that's not all—S03E15: 'Otherwise Enraged' promises even more fireworks, with Showrunner Jonathan Tolins pulling out all the stops to keep us hooked. Could this be the season's most explosive storyline yet? Only one way to find out!</p><p>Whether you're Team Elsbeth or just here for the drama, these upcoming episodes are guaranteed to deliver the kind of gossip-worthy moments that keep us coming back for more. Don't miss out—set your DVRs and get ready to spill the tea!</p>",
+        "celebrities": [
+            "Carrie Preston",
+            "J. Smith-Cameron",
+            "Robert King",
+            "Michelle King",
+            "Jonathan Tolins"
+        ],
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/Elsbeth_314_SG_0001-2000x1125.jpg",
+        "date": "Mar 27, 2026",
+        "url": "https://bleedingcool.com/comics/elsbeth-s03e14-deadutante-s03e15-otherwise-enraged-previews/"
+    },
+    {
+        "id": "mqukq4icl",
+        "title": "Shocking Twist in 'Supervivientes 2026'! Contestant Begged to Leave and First Eviction Date Revealed!",
+        "excerpt": "Drama unfolds as 'Supervivientes 2026' sees another contestant desperate to quit, while the first official eviction date is finally set!",
+        "content": "<p>Another explosive night on 'Supervivientes 2026' as the fourth gala delivered a double dose of drama! Not only did the show reveal its first official eviction date, but one contestant was so eager to leave that they practically begged to be sent packing. The tension was palpable as Marisa Jara, Darío, and Borja faced the public vote, with one of them joining the growing list of desterrados.</p><p>But that wasn’t all! Host Jorge Javier Vázquez didn’t hold back, giving Teresa Seco a stern talking-to after she smashed the record for 20 hours of sleep. 'I’d love to see more of you,' he quipped, leaving her red-faced. Meanwhile, Juan José Ballesta opened up about his acting hiatus and his surprising salary as a marble worker on Cuatro. With so much happening, 'Supervivientes' is proving to be the must-watch show of the season!</p>",
+        "celebrities": [
+            "Marisa Jara",
+            "Darío",
+            "Borja",
+            "Teresa Seco",
+            "Jorge Javier Vázquez",
+            "Juan José Ballesta"
+        ],
+        "image_url": "https://static.eldiario.es/clip/24414d0f-aa52-4538-bb25-cf2239dcf4b9_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+        "date": "Mar 27, 2026",
+        "url": "https://www.eldiario.es/vertele/noticias/supervivientes-2026-desterro-concursante-deseaba-marcharse-puso-fecha-primera-expulsion-definitiva_1_13102069.html"
+    },
+    {
+        "id": "qyrljg45g",
+        "title": "OMG! Taylor Swift's Big Night at iHeartRadio Music Awards 2026 – Here's How to Watch Live!",
+        "excerpt": "Get ready for a star-studded night as Taylor Swift leads the pack with nine nominations at the iHeartRadio Music Awards 2026!",
+        "content": "<p>Hold onto your seats, music lovers! The iHeartRadio Music Awards 2026 is gearing up to be the hottest ticket in town, and we've got all the juicy details you need to know. Ludacris is back to host this year's extravaganza, promising a night filled with unforgettable performances and surprise appearances.</p><p>But let's talk about the real queen of the night – Taylor Swift! Our girl Taylor is absolutely dominating the nominations with a whopping nine nods. Could this be her biggest win yet? We're on the edge of our seats! And that's not all, folks. The awards show will be streaming live on FOX, so you won't miss a single moment of the glitz, glam, and maybe a few scandalous red carpet moments. Trust us, you won't want to miss this musical extravaganza!</p>",
+        "celebrities": [
+            "Taylor Swift",
+            "Ludacris"
+        ],
+        "image_url": "https://img.etimg.com/thumb/msid-129836538,width-1200,height-630,imgsize-142470,overlay-economictimes/articleshow.jpg",
+        "date": "Mar 27, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/us/how-to-watch-the-2026-iheartradio-music-awards-live-streaming-channel-full-details/articleshow/129836514.cms"
+    },
+    {
+        "id": "yefu8vcrs",
+        "title": "Love is in the Air: Heart Signal 5's Premiere Date Revealed in Emotional New Teaser!",
+        "excerpt": "Get ready for a rollercoaster of emotions as Heart Signal 5 returns with a brand new season!",
+        "content": "<p>The wait is finally over, Heart Signal fans! The beloved dating show is back with a bang, and we can't contain our excitement. Heart Signal 5 is set to premiere on [insert date], and it promises to be a season filled with love, drama, and plenty of surprises.</p><p>In this hit dating show, singles come together to live under one roof, hoping to find their perfect match. But that's not all – a celebrity panel is also on hand to analyze the contestants' every move and attempt to uncover their hidden feelings. With a mix of romance, suspense, and a dash of celebrity gossip, Heart Signal 5 is sure to keep us hooked from start to finish.</p>",
+        "celebrities": [],
+        "image_url": "https://0.soompi.io/wp-content/uploads/2026/03/26172829/Heart-Signal-5.jpg",
+        "date": "Mar 27, 2026",
+        "url": "http://www.soompi.com/article/1828194wpp/watch-heart-signal-5-announces-premiere-date-with-emotional-new-teaser"
+    },
+    {
         "id": "svc7h085s",
         "title": "Perez Hilton Claims He Saw God After 21-Day Hospital Stay: 'My Stupidity Saved My Life'",
         "excerpt": "The gossip king says his brush with death was 'the worst and best thing' that ever happened to him—and he's got a divine story to prove it.",
@@ -568,66 +634,5 @@ export const articles: Article[] = [
         "image_url": "https://media2.firstshowing.net/firstshowing/img17/twoseasonstrangersposterTW1.jpg",
         "date": "Mar 18, 2026",
         "url": "https://www.firstshowing.net/2026/official-us-trailer-for-two-seasons-two-strangers-japanese-drama/"
-    },
-    {
-        "id": "hsygvptpk",
-        "title": "OMG! Rachel Dratch, Mark Duplass & Katie Nolan Battle It Out on Celebrity Jeopardy!",
-        "excerpt": "Can these A-listers handle the pressure of the iconic game show?",
-        "content": "<p>Get ready for some serious trivia action as the fourth season of Celebrity Jeopardy! kicks off with an all-star lineup. Rachel Dratch, Mark Duplass, and Katie Nolan are set to face off in what promises to be a hilarious and intense episode.</p><p>Will Rachel's comedic timing give her an edge? Can Mark's indie film charm translate to game show success? And will Katie's sports expertise pay off? Tune in to find out who will reign supreme in this battle of wits!</p>",
-        "celebrities": [
-            "Rachel Dratch",
-            "Mark Duplass",
-            "Katie Nolan"
-        ],
-        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
-        "date": "Mar 17, 2026",
-        "url": "https://post.rlsbb.to/celebrity-jeopardy-s04e01-720p-web-x264-ngp/"
-    },
-    {
-        "id": "lc5xhtbvy",
-        "title": "Harrison Ford’s Secret Mission: Saving the Planet with His Star Power",
-        "excerpt": "The Indiana Jones star is trading in his whip for a cause—and world leaders are finally listening.",
-        "content": "<p>Harrison Ford, the rugged Hollywood legend, has taken on a new kind of adventure—one that doesn’t involve dodging boulders or battling Nazis. This time, the 80-year-old actor is channeling his iconic status into a mission to save the planet. Known for his decades-long commitment to conservation, Ford is now using his star power to make world leaders sit up and take notice.</p><p>But here’s a fun fact that might surprise you: Ford has a snake named after him! Meet Tachymenoides harrisonfordi, a rare, harmless species of slender snake found in the Andes, measuring just 16 inches long. It’s a quirky honor for a man who’s spent his life battling villains on-screen and fighting for the environment off-screen. Could this be his most fascinating role yet?</p>",
-        "celebrities": [
-            "Harrison Ford"
-        ],
-        "image_url": "https://i.natgeofe.com/n/62db208a-54b1-4f7f-89b9-26b70c8fdcde/MM10355_H_260121_00124_16x9.jpg?w=1200",
-        "date": "Mar 17, 2026",
-        "url": "https://www.nationalgeographic.com/culture/nat-geo-33/article/harrison-ford-2026"
-    },
-    {
-        "id": "ebpl50e5a",
-        "title": "Sabrina and Idris Elba’s Secret Plan to Turn a Sierra Leone Island Into a Glamorous Eco-Haven",
-        "excerpt": "The power couple is taking on mass tourism with their bold vision for a sustainable tropical paradise.",
-        "content": "<p>Sabrina and Idris Elba are making waves off the coast of Sierra Leone with a bold and eco-friendly vision for Sherbro Island. Known for its lush landscapes and tight-knit community of farmers and fishermen, this tropical gem—roughly the size of Chicago—is about to get a glamorous makeover.</p><p>The couple’s plan? To transform the island into a futuristic eco-city that balances sustainability with luxury. While some may see it as a challenge to the typical tourist trap, the Elbas are determined to create a haven that celebrates both nature and innovation. With a population of just 40,000, Sherbro Island is poised to become a model for responsible tourism and community-driven development.</p><p>Could this be the next big celebrity-backed project to watch? Stay tuned as the Elbas bring their star power—and their passion for the planet—to this hidden paradise.</p>",
-        "celebrities": [
-            "Sabrina Elba",
-            "Idris Elba"
-        ],
-        "image_url": "https://i.natgeofe.com/n/90de1fa3-4408-446f-a80a-d3f4df07cf06/MM10355_L_260124_LOOK_2_0002_16x9.jpg?w=1200",
-        "date": "Mar 17, 2026",
-        "url": "https://www.nationalgeographic.com/culture/nat-geo-33/article/sabrina-idris-elba-2026"
-    },
-    {
-        "id": "nkx3r8x46",
-        "title": "Shailene Woodley Dives Deep: Hollywood’s New Ocean Crusader?",
-        "excerpt": "The star’s latest mission proves she’s not just another celeb jumping on a cause bandwagon.",
-        "content": "<p>Shailene Woodley is making waves—literally. The pragmatic actress, known for her eco-conscious lifestyle, is taking her activism to new depths. When Greenpeace came calling in 2019, she didn’t just slap her name on a campaign; she boarded an expedition to make a tangible impact. Because for Woodley, if she’s going to put her energy into something, it’s got to move the needle.</p><p>In an era where celebrity activism often feels like a hashtag afterthought, Woodley’s approach is refreshingly hands-on. Forget the red carpet—this star is diving into the trenches of ocean conservation, proving that her commitment to the cause is as deep as the seas she’s fighting to protect.</p>",
-        "celebrities": [
-            "Shailene Woodley"
-        ],
-        "image_url": "https://i.natgeofe.com/n/5c98dfe3-9afa-4466-891a-03dbc7606647/MM10355_B_251125_0261_16x9.jpg?w=1200",
-        "date": "Mar 17, 2026",
-        "url": "https://www.nationalgeographic.com/culture/nat-geo-33/article/shailene-woodley-2026"
-    },
-    {
-        "id": "74etlbrbk",
-        "title": "Sad News: Back to the Future III Star Matt Clark Dies at 89",
-        "excerpt": "Hollywood legend Matt Clark, beloved for his iconic roles, has passed away at 89.",
-        "content": "<p>Breaking news in Hollywood: Matt Clark, the talented actor known for his unforgettable role in Back to the Future III, has passed away at the age of 89. Clark's family shared the heartbreaking news with TMZ, revealing that he died peacefully, just as he had lived—dedicated to his craft and uninterested in the glitz and glamour of fame.</p><p>Clark was a true actor's actor, earning respect and admiration from his peers for his commitment to the art of storytelling. His career spanned decades, and he had the privilege of working alongside some of the biggest names in the Western genre, leaving an indelible mark on the industry. While he may not have sought the spotlight, his contributions to film and television will never be forgotten.</p>",
-        "celebrities": [],
-        "image_url": "https://www.nzherald.co.nz/resizer/v2/GD6GSRVVZ5B4HDAS2K3XCFZRXA.jpg?auth=66a1293c69bc8196b95661a8eb2853a59cab27ab72ccdffa26eda273645de348&width=1200&height=675&quality=70&focal=436%2C433&smart=false",
-        "date": "Mar 16, 2026",
-        "url": "https://www.nzherald.co.nz/entertainment/back-to-the-future-iii-actor-matt-clark-dead-aged-89/2CN4M3BHCNGXPD6CA4JZBCKKZA/"
     }
 ];
