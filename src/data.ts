@@ -11,6 +11,67 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "aeteu8fv5",
+        "title": "Argentina vs. Mauritania: Shocking Ratings Explosion for the National Team Match!",
+        "excerpt": "The match captivated over two million viewers, according to new metrics released by Ibope!",
+        "content": "<p>Television ratings are in a slump, but the Argentina vs. Mauritania match brought a surprising twist! While the small screen struggles to keep audiences engaged, this thrilling encounter managed to capture the attention of over two million viewers, thanks to the latest metrics from Ibope. It seems that the allure of the national team still holds a special place in the hearts of fans, proving that football can still deliver a knockout punch in the ratings game.</p><p>Even with the recent struggles of shows like MasterChef Celebrity, which only managed to hit the 20-point mark in its finale, the excitement of live sports continues to shine. As the competition heats up, it’s clear that when it comes to captivating audiences, nothing beats the adrenaline of a national team match. Stay tuned as we keep an eye on how this trend unfolds in the world of entertainment!</p>",
+        "celebrities": [
+            "MasterChef Celebrity"
+        ],
+        "image_url": "https://resizer.glanacion.com/resizer/v2/la-seleccion-argentina-se-enfrento-a-mauritania-4GV3XU5ZDZGODM5JBDQRK2BG4A.JPG?auth=aeb44fcdac4f6eb6063a86b740d6d20a9cc17b8e289dfc4c5f5ac6c10ce3da17&width=1200&quality=85&smart=true&height=675",
+        "date": "Mar 28, 2026",
+        "url": "https://www.lanacion.com.ar/espectaculos/argentina-vs-mauritania-los-explosivos-numeros-de-rating-del-partido-de-la-seleccion-nid27032026/"
+    },
+    {
+        "id": "nlhr6qdiz",
+        "title": "Daniel Illescas Triumphs in 'El Desafío' Amid Influencer Controversy: 'We Bring Extra Visibility to the Show!'",
+        "excerpt": "Daniel Illescas, model and influencer, clinches victory in 'El Desafío' while defending his profession amid ongoing debates about influencer prominence.",
+        "content": "<p>Daniel Illescas, the charismatic model and influencer, has taken home the crown in the sixth season of Antena 3's hit show 'El Desafío.' The finale saw him go head-to-head with notable personalities like José Yélamo, Patricia Conde, and Jessica Bueno, but it was Illescas who emerged victorious, proving that influencers can indeed bring an extra spark to the screen.</p><p>In the midst of a heated debate about the growing presence of content creators in mainstream media, Illescas is unapologetically proud of his profession. 'We give the show more visibility,' he asserts, standing tall against critics who question the role of influencers in traditional entertainment. His win not only solidifies his status as a formidable competitor but also highlights the evolving landscape of television, where social media stars are becoming household names.</p><p>As the dust settles on this season of 'El Desafío,' one thing is clear: Daniel Illescas is here to stay, and he’s ready to continue breaking barriers and redefining what it means to be a modern-day celebrity.</p>",
+        "celebrities": [
+            "Daniel Illescas",
+            "José Yélamo",
+            "Patricia Conde",
+            "Jessica Bueno"
+        ],
+        "image_url": "https://static.eldiario.es/clip/ae8c2a18-b843-4c41-b56d-79f44d9b4cff_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+        "date": "Mar 28, 2026",
+        "url": "https://www.eldiario.es/vertele/entrevistas/daniel-illescas-ganador-el-desafio-polemica-influencers-damos-repercusion-programa_1_13101583.html"
+    },
+    {
+        "id": "bajfsrmcf",
+        "title": "Simon Williams' Shocking Hollywood Comeback! Wonder Man #1 Reveals Explosive Secrets!",
+        "excerpt": "The star's dark past comes back to haunt him in this must-read Marvel Comics preview!",
+        "content": "<p>Holy Hollywood drama, Batman! Simon Williams is back and better than ever in Wonder Man #1, hitting stores this Wednesday, April 1st. But just when you thought things were looking up for our favorite former actor-turned-superhero, his shady past comes knocking on his door.</p><p>That's right, folks - ex-cellmate Randolph Chancellor is back in the picture, and he's ready to stir up some serious trouble for Simon. Will our hero be able to keep his cool and save the day, or will his old demons finally catch up with him? Grab your copy of Wonder Man #1 to find out!</p>",
+        "celebrities": [
+            "Simon Williams"
+        ],
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/WONDERMAN2026001_Preview-4-2000x1125.jpeg",
+        "date": "Mar 28, 2026",
+        "url": "https://bleedingcool.com/comics/wonder-man-1-preview-simons-hollywood-drama-unfolds/"
+    },
+    {
+        "id": "jykzvag6l",
+        "title": "Tiger Woods' Past Legal Troubles Could Spell Jail Time This Time Around",
+        "excerpt": "Tiger Woods' 2017 arrest may come back to haunt him in a big way.",
+        "content": "<p>Typically, Tiger Woods wouldn't have to sweat a potential jail sentence if found guilty of his recent arrest, but a top Florida criminal defense attorney suggests that a prior charge could significantly up his odds of serving time.</p><p>Following his Friday arrest, the golf legend's past legal issues are now under the spotlight, and it seems his 2017 run-in with the law might just be the wildcard that changes everything. Will this be the scandal that finally puts Tiger in the slammer? Stay tuned as this story unfolds.</p>",
+        "celebrities": [
+            "Tiger Woods"
+        ],
+        "image_url": "https://s.yimg.com/os/en/golf_digest_articles_737/b01e133f37d5e471e6db26f037d9bb40",
+        "date": "Mar 28, 2026",
+        "url": "https://sports.yahoo.com/articles/tiger-woods-past-infractions-play-002405499.html"
+    },
+    {
+        "id": "x9md8h88t",
+        "title": "Captain's Epic 5-Hour Battle Nets 480-Pound Sea Monster, Feeds Entire Florida Town",
+        "excerpt": "Florida fisherman hooks jaw-dropping 480-pound swordfish after five-hour deep-sea showdown, leaving locals in awe.",
+        "content": "<p>Captain Jose Rodriguez Jr. of Cudjoe Key just pulled off the catch of a lifetime—and it's the stuff of fishing legend. After a grueling five-hour battle in the deep waters off the Florida Keys, Rodriguez reeled in a massive 480-pound swordfish that's got the entire town buzzing.</p><p>The epic showdown unfolded during a routine fishing charter, but this was anything but routine. With a family of onlookers cheering him on, Rodriguez fought the trophy fish with everything he had, turning what started as a regular day on the water into a five-hour marathon of pure adrenaline. And when it was all over? Well, let's just say there was enough fish to feed most of the town—talk about a seafood feast!</p>",
+        "celebrities": [],
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/500lb-marlin-2.jpg",
+        "date": "Mar 28, 2026",
+        "url": "https://www.foxnews.com/travel/captain-hauls-nearly-500-pound-sea-giant-after-grueling-battle-feeds-most-town"
+    },
+    {
         "id": "zcayddcmb",
         "title": "🚀 Blast Off with Season 5: Where to Watch For All Mankind Online Now!",
         "excerpt": "The stars align as Apple TV's epic space saga returns for a thrilling fifth season—don’t miss your chance to watch it online!",
@@ -576,63 +637,5 @@ export const articles: Article[] = [
         "image_url": "https://s.yimg.com/ny/api/res/1.2/Yupktohjj0PbIhB7n.eSVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05OTE7Y2Y9d2VicA--/https://media.zenfs.com/en/milwaukee_journal_sentinel_natl_articles_362/ff0fcb99efa110d850cc4fc02b385302",
         "date": "Mar 19, 2026",
         "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/03/18/giannis-antetokounmpo-wants-to-finish-regular-season-despite-knee-injury/89219703007/"
-    },
-    {
-        "id": "m3pxpwc36",
-        "title": "Malaysia’s Abnormal Studios Makes Hollywood Move with Wong Ka Kui Documentary at Hong Kong FilMart",
-        "excerpt": "The studio’s bold debut could put Wong Ka Kui’s legacy on the global stage—here’s what you need to know.",
-        "content": "<p>Malaysia’s Abnormal Studios is stepping into the spotlight with a major move at Hong Kong FilMart 2026, officially launching its international sales arm. Known previously as Westec Media, the company is making waves with its debut slate, headlined by the highly anticipated documentary <em>Because of You Ka Kui</em>.</p><p>The film, which explores the life and legacy of the late Wong Ka Kui, is already generating buzz as a potential breakout hit. With this strategic pivot, Abnormal Studios is positioning itself as a serious player in the global film market—and insiders say this could be just the beginning of bigger things to come.</p>",
-        "celebrities": [
-            "Wong Ka Kui"
-        ],
-        "image_url": "https://variety.com/wp-content/uploads/2026/03/Because-of-You-Ka-Kui.jpg?w=1000&h=563&crop=1",
-        "date": "Mar 18, 2026",
-        "url": "https://variety.com/2026/film/news/malaysia-abnormal-studios-sales-arm-hong-kong-filmart-wong-ka-kui-documentary-1236690959/"
-    },
-    {
-        "id": "freykde69",
-        "title": "JFK Jr. and Carolyn Bessette-Kennedy’s Iconic Sunglasses Are Back—And You Can Get Them Right Now!",
-        "excerpt": "Step into the timeless style of JFK Jr. and Carolyn Bessette-Kennedy with these must-have sunglasses—plus, the exact shades worn by the Kennedy legend himself!",
-        "content": "<p>Attention, fashion lovers! The iconic sunglasses of JFK Jr. and Carolyn Bessette-Kennedy are making a major comeback, and trust us, you’re going to want to get your hands on them ASAP. These shades aren’t just accessories—they’re a piece of history, a nod to the timeless elegance of one of America’s most beloved couples.</p><p>And here’s the best part: the exact sunglasses worn by JFK Jr. himself are available to shop right now. Whether you’re channeling Carolyn’s minimalist chic or JFK Jr.’s classic cool, these shades are the ultimate way to elevate your summer style. Don’t miss out—grab yours before they’re gone!</p>",
-        "celebrities": [
-            "JFK Jr.",
-            "Carolyn Bessette-Kennedy"
-        ],
-        "image_url": "https://wwd.com/wp-content/uploads/2026/03/sunglasses-worn-by-carolyn-bessette-kennedy-and-jfk-jr.jpg?w=1000&h=563&crop=1",
-        "date": "Mar 18, 2026",
-        "url": "http://wwd.com/shop/shop-fashion/carolyn-bessette-kennedy-jfk-jr-sunglasses-styles-shop-2026-1238680631/"
-    },
-    {
-        "id": "9ejxesd1t",
-        "title": "Gustavo Dudamel's Exit from L.A. Isn't Forever—Here's Why He's Still Coming Back!",
-        "excerpt": "The L.A. Phil’s upcoming season is packed with surprises, from classical legends to pop icons and even a festive favorite!",
-        "content": "<p>Gustavo Dudamel’s departure from the Los Angeles Philharmonic has left fans wondering if this is the end of an era. But don’t worry, Angelenos—he’s not saying goodbye for good! The maestro himself just confirmed he’ll be making regular visits to the City of Angels, keeping his connection to the iconic orchestra alive.</p><p>And while we’re on the topic of the L.A. Phil, their upcoming season is shaping up to be one for the books. From Beethoven’s timeless symphonies to indie darling Andrew Bird’s unique compositions, the lineup is as eclectic as it gets. Oh, and did we mention there’s a special performance inspired by the holiday classic Elf? Yes, you read that right—Buddy the Elf is coming to the symphony!</p>",
-        "celebrities": [
-            "Gustavo Dudamel",
-            "Andrew Bird"
-        ],
-        "image_url": "https://media.timeout.com/images/106384846/image.jpg",
-        "date": "Mar 18, 2026",
-        "url": "https://www.timeout.com/los-angeles/news/gustavo-dudamel-may-be-leaving-l-a-but-hell-be-visiting-again-soon-031826"
-    },
-    {
-        "id": "cvoh20y4v",
-        "title": "MasterChef Celebrity Finalists Revealed: The Stars Who Survived the Heat!",
-        "excerpt": "The kitchen drama reached its peak as two beloved celebrities sealed their spot in the grand finale!",
-        "content": "<p>The nation's most-watched reality show delivered a nail-biting semifinal that had fans on the edge of their seats. This Monday, MasterChef Celebrity (Telefe) crowned its finalists in a high-stakes battle where technique, pressure, and creativity collided in a whirlwind of culinary chaos.</p><p>With the clock ticking and the judges' expectations soaring, the semifinalists faced the ultimate test: crafting a sophisticated dish that would either catapult them to glory or send them packing. In a night filled with surprises, two fan-favorite celebrities managed to win over the tough panel with their bold flavors and flawless execution.</p><p>But who made the cut? And who crumbled under the heat? Stay tuned as we spill all the sizzling details from this unforgettable episode!</p>",
-        "celebrities": [],
-        "image_url": "https://fotos.perfil.com/2026/03/18/trim/1140/641/masterchef-celebrity-2204941.jpg",
-        "date": "Mar 18, 2026",
-        "url": "https://caras.perfil.com/noticias/celebridades/quienes-son-los-finalistas-de-masterchef-celebrity.phtml"
-    },
-    {
-        "id": "377c7iqce",
-        "title": "Brrr! New Trailer Drops for Romantic Japanese Drama That’s Melting Hearts",
-        "excerpt": "A snow-kissed romance unfolds in this Golden Leopard-winning Japanese drama that’s giving us major 'walk in the snow' vibes!",
-        "content": "<p>Love is in the air, and it's freezing cold! ❄️ The acclaimed Japanese filmmaker Shô Miyake is back with <em>Two Seasons, Two Strangers</em>, a Golden Leopard-winning drama that's making waves across the Pacific. The official US trailer just dropped, and let's just say... we're already planning our winter getaway to Japan!</p><p>With its dreamy snow-filled scenes and that hauntingly beautiful line about walking together in the snow, this film is serving up major romance-novel vibes. Will it be the next international sensation? Grab your coziest blanket and your significant other (or your cat) and get ready to swoon when it hits theaters!</p>",
-        "celebrities": [],
-        "image_url": "https://media2.firstshowing.net/firstshowing/img17/twoseasonstrangersposterTW1.jpg",
-        "date": "Mar 18, 2026",
-        "url": "https://www.firstshowing.net/2026/official-us-trailer-for-two-seasons-two-strangers-japanese-drama/"
     }
 ];
