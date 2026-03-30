@@ -11,6 +11,65 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "2t4ytwrcs",
+        "title": "Shocking CDC Secrets: The Cleanest Cruise Line Revealed!",
+        "excerpt": "Think cruises are just floating germ factories? Think again—here’s the one line that’s squeaky clean!",
+        "content": "<p>Let’s be real—cruises have a rep for being cramped, germy nightmares. I used to side-eye them too, picturing petri dishes with shuffleboard. But then I took the plunge (literally) in the ‘90s, and my mind was blown. Spoiler: not all ships are created equal.</p><p>Thanks to some juicy CDC data, we’ve got the inside scoop on which cruise line is basically the Marie Kondo of the seas. Spoiler alert: it’s not who you’d expect. So, if you’re ready to trade your germaphobe badge for a boarding pass, keep reading. Your next vacation might just be cleaner than your kitchen counter.</p>",
+        "celebrities": [],
+        "image_url": "https://johnnyjet.com/wp-content/uploads/2025/11/Cruise-Pic.jpg",
+        "date": "Mar 29, 2026",
+        "url": "https://johnnyjet.com/what-is-the-cleanest-cruise-line-according-to-cdc-data/"
+    },
+    {
+        "id": "g8q1ko61e",
+        "title": "Juan Roig's Epic Festival: The Billionaire's Secret Plan to Win Over Gen Z and Millennial Entrepreneurs!",
+        "excerpt": "While others are out partying, Juan Roig is pulling out all the stops to charm the next wave of innovators!",
+        "content": "<p>Move over, Silicon Valley! Juan Roig, the billionaire behind Mercadona, is shaking things up with a jaw-dropping festival designed to woo the brightest minds of Gen Z and millennial entrepreneurs. But here’s the tea: while most of us are out sipping cocktails on a Saturday, Roig is busy creating a space where big thinkers can connect, learn, and maybe even change the world.</p><p>Sources close to the event say it’s not just about networking—it’s a full-blown spectacle. Think TED Talks meets Coachella, with a sprinkle of Roig’s signature flair. And let’s be real, who wouldn’t want to trade a lazy Saturday for a chance to rub shoulders with the next generation of disruptors? If this is what it means to be ‘talent raro,’ sign us up!</p>",
+        "celebrities": [
+            "Juan Roig"
+        ],
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/cf691c217a22e5693def39c518ae84ec/crop/37x0/1000x642/f/webp/assets/multimedia/imagenes/2026/03/28/17747197757751.jpg",
+        "date": "Mar 29, 2026",
+        "url": "https://www.elmundo.es/economia/2026/03/29/69c81851fdddffe22b8b45b2.html"
+    },
+    {
+        "id": "rl7mqfxm8",
+        "title": "Mary Lambie Reveals Her Shocking Career Reinvention and How She's Embracing Aging",
+        "excerpt": "From morning TV to a surprising new chapter, Mary Lambie spills on her life’s twists and turns.",
+        "content": "<p>Mary Lambie, the beloved former host of Good Morning, is opening up about her incredible journey of career reinvention and how she’s embracing the aging process with grace and humor. Known for her warm presence on screen, Mary’s life has taken some unexpected turns since her days in front of the camera.</p><p>In a candid chat, Mary reflects on her idyllic childhood in Dunedin, where she grew up as the third of four children. With an older brother and sister and a younger brother six years her junior, her early years were filled with family adventures and fond memories. But it’s her post-TV life that’s truly captivating—Mary has carved out a new path that’s as inspiring as it is surprising.</p>",
+        "celebrities": [
+            "Mary Lambie"
+        ],
+        "image_url": "https://www.nzherald.co.nz/resizer/v2/BDCP7P7DWZEO5NFM5RONKKGWXY.jpg?auth=e48fd69ab09e70cfcd27868a5bcc685b549e219b7bf1c45d070bfa9153d23520&width=1200&height=675&quality=70&focal=1883%2C866&smart=false",
+        "date": "Mar 29, 2026",
+        "url": "https://www.nzherald.co.nz/lifestyle/former-good-morning-host-mary-lambie-on-career-reinvention-and-ageing/URSR6JP5VFBBJHAXPTCXHLHQF4/"
+    },
+    {
+        "id": "d7rl0v5h1",
+        "title": "Jessica Mauboy Spills the Tea on Her 'Horrific' Eurovision Nightmare",
+        "excerpt": "Jessica Mauboy finally breaks her silence on the behind-the-scenes drama of Eurovision 2018.",
+        "content": "<p>Jessica Mauboy is opening up about the 'horrific' aftermath of her 2018 Eurovision experience, and it’s not pretty. The Aussie pop star, who represented Australia on the iconic stage, is lifting the lid on the intense pressures and drama that followed her performance. From backstage meltdowns to post-show fallout, Mauboy’s revelations are giving us major tea.</p><p>In a candid new interview, Mauboy described the experience as nothing short of a nightmare, revealing how the spotlight and scrutiny took a toll on her mental health. Fans are shocked to hear the untold story behind the glitz and glamour of Eurovision. Stay tuned for all the juicy details!</p>",
+        "celebrities": [
+            "Jessica Mauboy"
+        ],
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Mar 29, 2026",
+        "url": "https://alltoc.com/tabloid/what-did-jessica-mauboy-say-on-eurovision-fallout"
+    },
+    {
+        "id": "dt0jp4n9z",
+        "title": "Kim Novak Slams Sydney Sweeney: 'She Doesn't Look Like Me!'",
+        "excerpt": "Kim Novak refuses to accept Sydney Sweeney as her movie doppelgänger.",
+        "content": "<p>Kim Novak is not here for the idea of Sydney Sweeney playing her in an upcoming film. The Hollywood legend has made it clear that she doesn’t think the Euphoria star is the right fit for the role, and she’s not holding back on why.</p><p>In a recent statement, Novak pointed out that Sweeney’s physical appearance doesn’t align with her own, sparking a debate about Hollywood’s casting choices. While some fans are defending Sweeney’s versatility as an actress, others are siding with Novak, arguing that certain roles require a closer resemblance to the real-life figure.</p><p>The controversy has left fans divided, with some calling Novak’s comments harsh and others agreeing that authenticity matters in biopics. Either way, this casting drama is far from over!</p>",
+        "celebrities": [
+            "Kim Novak",
+            "Sydney Sweeney"
+        ],
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Mar 29, 2026",
+        "url": "https://alltoc.com/tabloid/how-did-kim-novak-criticize-sydney-sweeney"
+    },
+    {
         "id": "aeteu8fv5",
         "title": "Argentina vs. Mauritania: Shocking Ratings Explosion for the National Team Match!",
         "excerpt": "The match captivated over two million viewers, according to new metrics released by Ibope!",
@@ -572,70 +631,5 @@ export const articles: Article[] = [
         "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/3151634_0476b-2000x1125.jpg",
         "date": "Mar 20, 2026",
         "url": "https://bleedingcool.com/tv/elsbeth-our-early-s03e14-deadutante-preview-guest-stars-update/"
-    },
-    {
-        "id": "ja4ksibzt",
-        "title": "Kendall Jenner's Secret Weapon for Glowing Skin? I Tried It for a Month!",
-        "excerpt": "After just a few sessions, my skin was smoother, lifted, and totally red-carpet ready.",
-        "content": "<p>Move over, skincare routines—Kendall Jenner just dropped a glowing secret! The supermodel swears by the Therabody LED Face Mask, and I had to see what the hype was all about. After a month of using this celeb-approved gadget, my skin is smoother, lifted, and ready for its close-up.</p><p>But does it really work, or is it just another Hollywood gimmick? Spoiler alert: I’m obsessed. Here’s everything you need to know before you add this to your cart—and trust me, you’ll want to.</p>",
-        "celebrities": [
-            "Kendall Jenner"
-        ],
-        "image_url": "https://wwd.com/wp-content/uploads/2026/03/therabody-theraface-mask-glo-mask.jpg?w=1000&h=563&crop=1",
-        "date": "Mar 19, 2026",
-        "url": "http://wwd.com/shop/shop-beauty/therabody-theraface-mask-glo-led-face-mask-review-2026-1238682177/"
-    },
-    {
-        "id": "wxkrc9z04",
-        "title": "Zac Brown’s Epic 'Survivor' Adventure: Free-Diving, Spearfishing, and Total Fan-Boy Mode!",
-        "excerpt": "Zac Brown goes full superfan on 'Survivor'—cooking, singing, and geeking out with the cast in Fiji!",
-        "content": "<p>Picture this: a small gray boat slicing through the turquoise waters off Fiji’s Mana Island, and at the helm? None other than Zac Brown, the country music superstar turned 'Survivor' superfan. Yep, the Zac Brown Band frontman was living his best life, free-diving, spearfishing, and basically geeking out over the cast like a kid in a candy store.</p><p>”I’m tripping out as much as y’all are right now,” Zac confessed, clearly in awe of the whole experience. From cooking up a storm to serenading the cast, this wasn’t just a visit—it was a full-blown fanboy moment. And honestly, who could blame him? 'Survivor' has been a cultural phenomenon for years, and Zac was soaking it all in like a sponge.</p>",
-        "celebrities": [
-            "Zac Brown"
-        ],
-        "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/03/lead-survivor-zac-brown.jpg?crop=0px%2C33px%2C1800px%2C1015px&resize=1600%2C900",
-        "date": "Mar 19, 2026",
-        "url": "http://www.rollingstone.com/music/music-features/survivor-anniversary-zac-brown-superfan-1235532685/"
-    },
-    {
-        "id": "9limolvhn",
-        "title": "Shocking Double Elimination! Iconic TV Judge & Star Kid Sent Packing on The Masked Singer",
-        "excerpt": "Guess who's leaving the stage? Two big names just got unmasked in a jaw-dropping twist!",
-        "content": "<p>The Masked Singer just delivered a major shocker with a double elimination that left fans reeling. Stingray and 14 Karat Carrot were both sent packing after a dramatic showdown that had everyone guessing.</p><p>But here's the tea: one of these contestants isn't just any random singer—it's the offspring of a major Hollywood star, while the other is a legendary TV judge known for their sharp critiques. Talk about star power! Fans are already buzzing on social media, trying to piece together the clues and unmask the mystery identities.</p>",
-        "celebrities": [
-            "Stingray",
-            "14 Karat Carrot"
-        ],
-        "image_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20260313/4caf347f-812b-469b-b6b4-2777298631f6_1773421755.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-        "date": "Mar 19, 2026",
-        "url": "https://www.eonline.com/news/1413383/the-masked-singer-judge-greg-mathis-evan-ross-eliminated"
-    },
-    {
-        "id": "nk9wcsm71",
-        "title": "Jeremy Vine's Celebrity Puzzling Gets Even Wilder with Sally, Carol, Lucrezia & Mark!",
-        "excerpt": "This episode is serving major star power and unexpected twists!",
-        "content": "<p>Jeremy Vine is back and bringing the heat for another round of Celebrity Puzzling, and this time, he's got a dream team by his side. The brilliant Sally Lindsay and the ever-sharp Carol Vorderman join him to host an episode packed with charm, wit, and just the right amount of drama.</p><p>But the real stars of the show? The guests! News journalist Lucrezia Millarini and Emmerdale's very own Mark Charnock are stepping into the puzzle spotlight, and we're already guessing things are about to get spicy. Will Lucrezia's quick thinking give her the edge, or will Mark's soap opera skills help him crack the codes? Tune in to find out who takes the crown in this battle of brains and banter!</p>",
-        "celebrities": [
-            "Jeremy Vine",
-            "Sally Lindsay",
-            "Carol Vorderman",
-            "Lucrezia Millarini",
-            "Mark Charnock"
-        ],
-        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
-        "date": "Mar 19, 2026",
-        "url": "https://post.rlsbb.to/celebrity-puzzling-s02e18-1080p-web-dl-h264-p147ypu5/"
-    },
-    {
-        "id": "41aa61dbg",
-        "title": "Giannis Antetokounmpo Defies Injury, Bucks in Panic Mode!",
-        "excerpt": "Bucks superstar Giannis Antetokounmpo is pushing to play through a painful knee injury, but the team isn't so sure it's a slam dunk!",
-        "content": "<p>Milwaukee Bucks' MVP, Giannis Antetokounmpo, is proving he's as tough as they come, insisting he wants to finish the season despite nursing a sore knee. The Greek Freak was spotted post-game on March 15th with ice packs strapped to his knees and feet soaking in an ice bath—his signature recovery ritual after giving it his all on the court.</p><p>But here's the tea: while Giannis is ready to power through the pain, the Bucks' front office is sweating bullets. Sources say the team is worried about long-term damage and whether pushing through could cost them more than just a few games. Will Giannis' determination pay off, or is this a risky move that could sideline him for good? Stay tuned, because this drama is far from over!</p>",
-        "celebrities": [
-            "Giannis Antetokounmpo"
-        ],
-        "image_url": "https://s.yimg.com/ny/api/res/1.2/Yupktohjj0PbIhB7n.eSVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05OTE7Y2Y9d2VicA--/https://media.zenfs.com/en/milwaukee_journal_sentinel_natl_articles_362/ff0fcb99efa110d850cc4fc02b385302",
-        "date": "Mar 19, 2026",
-        "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/03/18/giannis-antetokounmpo-wants-to-finish-regular-season-despite-knee-injury/89219703007/"
     }
 ];
