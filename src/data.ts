@@ -11,6 +11,61 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "fweisi2g4",
+        "title": "All the latest in AI ‘music’",
+        "excerpt": "AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush wor…",
+        "content": "<p>AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce et… </p>",
+        "celebrities": [],
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK467_AI_MUSIC_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "date": "Mar 30, 2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit"
+    },
+    {
+        "id": "jlwfj4hks",
+        "title": "Ian Lucas Slams Door Shut on Evangelina Anderson: 'No Second Chances!'",
+        "excerpt": "The 'MasterChef Celebrity' champ reveals why he's done talking about his past with Evangelina Anderson!",
+        "content": "<p>Ian Lucas, the charismatic winner of 'MasterChef Celebrity,' has finally put an end to the drama surrounding his past fling with fellow contestant Evangelina Anderson. In a no-holds-barred statement, the young influencer made it crystal clear that there's no going back, leaving fans buzzing about what really went down behind the scenes.</p><p>While the pair's chemistry during the show had everyone talking, Lucas now says he's 'tired of discussing the topic' and is ready to move on. Could this be the final chapter in their spicy saga, or is there more to the story? Stay tuned as we dig deeper into the drama that's got everyone gossiping!</p>",
+        "celebrities": [
+            "Ian Lucas",
+            "Evangelina Anderson"
+        ],
+        "image_url": "https://fotos.perfil.com/2026/03/30/trim/1140/641/ian-lucas-2211655.jpg",
+        "date": "Mar 30, 2026",
+        "url": "https://exitoina.perfil.com/noticias/escandalo/ian-lucas-revelo-por-que-no-le-daria-una-segunda-oportunidad-a-evangelina-anderson.phtml"
+    },
+    {
+        "id": "0x2sjqaow",
+        "title": "52TOYS Goes Big or Goes Home: 1,000 New Toys & 100+ IPs Set to Dominate 2026",
+        "excerpt": "The toy giant is pulling out all the stops—can they keep up with the hype?",
+        "content": "<p>Move over, Barbie—52TOYS is about to steal the spotlight with a jaw-dropping 2026 product launch that's sending shockwaves through the toy industry. With over 1,000 new products and 100+ fresh IPs in the pipeline, this Beijing-based powerhouse is playing for keeps.</p><p>Sources close to the company say the roadmap is their most ambitious yet, blending nostalgia with next-gen innovation. Think limited-edition collectibles, surprise collabs, and maybe even a few celebrity tie-ins (we're watching you, K-pop stans). Will 52TOYS' Play for Fun mantra survive the pressure? Stay tuned—this could be the comeback story of the year.</p>",
+        "celebrities": [],
+        "image_url": "https://mma.prnewswire.com/media/2943473/image1.jpg?p=facebook",
+        "date": "Mar 30, 2026",
+        "url": "https://www.prnewswire.co.uk/news-releases/52toys-unveils-ambitious-2026-product-roadmap-strengthening-long-term-growth-momentum-302728096.html"
+    },
+    {
+        "id": "mxw42e0a1",
+        "title": "Cynthia Nixon Unleashes on Trump: 'The World Is Horrified!'",
+        "excerpt": "Sex and the City star delivers a fiery takedown of Trump at No Kings rally!",
+        "content": "<p>Sex and the City alum Cynthia Nixon didn't hold back during the No Kings rally in NYC this weekend, unleashing a passionate rant about President Trump that's got everyone talking. The actress and activist took center stage to share her thoughts on how the international community is reacting to Trump's latest moves.</p><p>\"People around the world are absolutely horrified,\" Nixon declared to cheers from the crowd. \"They can't believe what's happening in America right now.\" The outspoken star, who's no stranger to political activism, didn't mince words as she called out what she sees as Trump's destabilizing influence on both domestic and global politics.</p>",
+        "celebrities": [
+            "Cynthia Nixon"
+        ],
+        "image_url": "https://img.huffingtonpost.com/asset/69c99a2e24000047a930a0ca.jpg?cache=9Gx1OnmKYR&ops=1200_630",
+        "date": "Mar 29, 2026",
+        "url": "https://www.huffpost.com/entry/cynthia-nixon-no-kings-rally_n_69c998d3e4b0a014076f7eda"
+    },
+    {
+        "id": "icgy25pfq",
+        "title": "OMG! Hellmann's is Bringing Back the OG 1762 Sandwich – 150 Freebies Up for Grabs!",
+        "excerpt": "Get ready, foodies! Hellmann's is taking us back in time with a mouth-watering 18th-century sandwich revival in Sandwich, Kent.",
+        "content": "<p>Hellmann's is serving up a slice of history on April 2nd, and it's all happening in Sandwich, Kent! The iconic brand is recreating the original 1762 sandwich, and trust us, it's a feast for the senses. Picture this: Kentish cob, period-style roast beef, a slice of plum pudding, and a generous dollop of Hellmann's Mayonnaise. Yum!</p><p>But wait, there's more! To celebrate this culinary throwback, Hellmann's is giving away 150 of these historic sandwiches for free. Yes, you read that right – FREE! So, if you're in the area, you better act fast because these bad boys are going to fly off the shelves faster than you can say 'Hellmann's'.</p><p>Don't miss out on this once-in-a-lifetime chance to taste a piece of history. Head to Sandwich, Kent, on April 2nd, and let your taste buds travel back in time. Trust us, your Instagram feed will thank you!</p>",
+        "celebrities": [],
+        "image_url": "https://mma.prnewswire.com/media/2943605/Hellmanns_logo.jpg?p=facebook",
+        "date": "Mar 29, 2026",
+        "url": "https://www.prnewswire.co.uk/news-releases/hellmanns-brings-the-original-1762-sandwich-home---with-150-given-away-free-302727919.html"
+    },
+    {
         "id": "2t4ytwrcs",
         "title": "Shocking CDC Secrets: The Cleanest Cruise Line Revealed!",
         "excerpt": "Think cruises are just floating germ factories? Think again—here’s the one line that’s squeaky clean!",
@@ -563,73 +618,5 @@ export const articles: Article[] = [
         "image_url": "https://fotos.perfil.com/2026/03/20/trim/1140/641/nick-sicaro-2207281.jpg",
         "date": "Mar 20, 2026",
         "url": "https://exitoina.perfil.com/noticias/corazon/tras-su-salida-de-gran-hermano-nick-sicaro-se-sincero-sobre-su-amistad-con-ian-lucas-es-una-persona-muy-carinosa.phtml"
-    },
-    {
-        "id": "nn5fg8pzx",
-        "title": "Ian Lucas Shocks Fans: MasterChef Celebrity Winner Reveals His Biggest Dream Came True!",
-        "excerpt": "The influencer's culinary journey took a surprising turn as he claimed the coveted title!",
-        "content": "<p>In a nail-biting finale that kept viewers on the edge of their seats, social media sensation Ian Lucas emerged victorious on MasterChef Celebrity, clinching the title with a dazzling three-course menu that left the judges speechless. The young chef's heartfelt victory was a dream come true, as he poured his heart and soul into every dish, showcasing his unique culinary identity.</p><p>Judges Germán Martitegui, Damián Betular, and Donato de Santis were left in awe of Lucas's culinary prowess, with each course reflecting his passion and creativity. As the confetti fell and the cheers erupted, Ian couldn't hold back his emotions, sharing how this win was the culmination of a lifelong dream. Fans and fellow contestants alike are buzzing about his unexpected triumph, making him the talk of the town!</p>",
-        "celebrities": [
-            "Ian Lucas",
-            "Germán Martitegui",
-            "Damián Betular",
-            "Donato de Santis"
-        ],
-        "image_url": "https://fotos.perfil.com/2026/03/20/trim/1140/641/ian-lucas-2206521.jpg",
-        "date": "Mar 20, 2026",
-        "url": "https://caras.perfil.com/noticias/celebridades/la-emocion-de-ian-lucas-tras-ganar-masterchef-celebrity-consegui-lo-que-tanto-sone.phtml"
-    },
-    {
-        "id": "2h6ldg19z",
-        "title": "Nigel Farage's Cameo Scandal: The Shocking Truth Behind His Controversial Videos!",
-        "excerpt": "From political statements to personal messages, why are celebrities flocking to Cameo? The truth might surprise you!",
-        "content": "<p>Former UKIP leader Nigel Farage is in hot water after controversial Cameo videos surfaced, sparking outrage and raising questions about his connections to far-right ideologies. The Guardian's investigation revealed Farage's willingness to make provocative statements for a price, leaving fans and critics alike stunned.</p><p>But Farage isn't alone in this digital gold rush. Celebrities from all walks of life are cashing in on personalized video messages, but at what cost to their public image? We dive deep into the world of Cameo and uncover the surprising truth about who's really behind those screens.</p>",
-        "celebrities": [
-            "Nigel Farage"
-        ],
-        "image_url": "https://freethoughtblogs.com/singham/wp-content/themes/ftb2-theme/images/logo.gif",
-        "date": "Mar 20, 2026",
-        "url": "https://freethoughtblogs.com/singham/2026/03/19/what-is-the-appeal-of-cameo/"
-    },
-    {
-        "id": "ixm3dsxyx",
-        "title": "Nelly & Ashanti Are Back for More Drama! Peacock Renews Hit Reality Show",
-        "excerpt": "The lovebirds are returning for another season of romance and reality TV chaos!",
-        "content": "<p>Get ready for another round of romance, drama, and behind-the-scenes action! Peacock has officially renewed Nelly and Ashanti: We Belong Together for a sizzling second season.</p><p>The reality series, which chronicles the on-again, off-again love story of hip-hop royalty Nelly and R&B sensation Ashanti, made waves during its debut this summer. Fans couldn’t get enough of the couple’s chemistry, heartfelt moments, and the occasional heated exchange. Now, they’re back to give us even more of their love story—and we’re here for it!</p><p>Will this season bring wedding bells, baby news, or more relationship twists? Only time will tell, but one thing’s for sure: Nelly and Ashanti are keeping us hooked!</p>",
-        "celebrities": [
-            "Nelly",
-            "Ashanti"
-        ],
-        "image_url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/03/peacock-logo_ea2834.jpg?resize=1200,630",
-        "date": "Mar 20, 2026",
-        "url": "https://www.comingsoon.net/tv/news/2110286-popular-peacock-tv-show-renewed-for-season-2"
-    },
-    {
-        "id": "f2vij74zr",
-        "title": "Rick Pitino's Transfer Portal Magic: The Coach Who's Shaking Up College Basketball!",
-        "excerpt": "Rick Pitino is the mastermind behind St. John's latest success, flipping the transfer portal like a pro and leaving fans in awe!",
-        "content": "<p>Rick Pitino, the legendary coach, is making waves in college basketball with his innovative use of the transfer portal. Much like Deion Sanders in football, Pitino has become a master at flipping rosters and building winning teams. His latest success at St. John's has fans buzzing and critics taking notice.</p><p>With a Hall of Fame career behind him, Pitino is proving that age is just a number when it comes to staying ahead of the game. His ability to adapt and thrive in the ever-changing landscape of college sports is nothing short of remarkable. As St. John's continues to rise, all eyes are on Pitino to see what he'll do next.</p>",
-        "celebrities": [
-            "Rick Pitino",
-            "Deion Sanders"
-        ],
-        "image_url": "https://s.yimg.com/ny/api/res/1.2/NcUaHxKxC6U4FLriCoi9qw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05Njc7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/b384ab58b784a94af0da832de84641e9",
-        "date": "Mar 20, 2026",
-        "url": "https://www.usatoday.com/story/sports/ncaab/2026/03/19/rick-pitino-deion-sanders-st-johns-basketball-march-madness-transfer-portal-strategy/89235402007/"
-    },
-    {
-        "id": "22kis12uv",
-        "title": "Elsbeth Season 3 Shocker: 'Deadutante' Preview Drops Bombshell Guest Stars!",
-        "excerpt": "The Kings are cooking up something major for Carrie Preston's return—here's what we know so far!",
-        "content": "<p>Hold onto your hats, Elsbeth fans—April 2nd can't come soon enough! The Kings (Robert and Michelle) and showrunner Jonathan Tolins are pulling out all the stops for the April 2nd return of Carrie Preston's Emmy-winning legal dramedy. But before we dive into the April 2nd premiere, let's spill the tea on episode 14, titled 'Deadutante.' Spoiler alert: it's serving major drama with a side of star power.</p><p>Episode 14 is already shaping up to be a must-watch, thanks to some jaw-dropping guest casting that's got Hollywood buzzing. While we can't reveal everything just yet (we've got to keep some mystery alive!), let's just say the guest list reads like a who's who of TV royalty. Think familiar faces from your favorite crime dramas, plus a surprise comedy icon who's about to shake things up in Elsbeth's world. Trust us, you won't want to miss this one.</p><p>Carrie Preston, as always, is leading the charge with her signature blend of wit and warmth, but this time she's got some serious star-studded backup. Whether it's a high-stakes courtroom showdown or a hilarious detour into Elsbeth's quirky personal life, episode 14 promises to deliver the perfect mix of suspense and laughs. And with the Kings at the helm, you know it's going to be nothing short of brilliant.</p><p>So mark your calendars, set your DVRs, and get ready to binge-watch like it's your job. Elsbeth is back, and it's bringing the drama—and the guest stars—like never before. April 2nd, here we come!</p>",
-        "celebrities": [
-            "Carrie Preston",
-            "Robert King",
-            "Michelle King",
-            "Jonathan Tolins"
-        ],
-        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/3151634_0476b-2000x1125.jpg",
-        "date": "Mar 20, 2026",
-        "url": "https://bleedingcool.com/tv/elsbeth-our-early-s03e14-deadutante-preview-guest-stars-update/"
     }
 ];
