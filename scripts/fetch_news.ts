@@ -23,8 +23,7 @@ const TRENDING_QUERIES = [
 const ARTICLES_PER_QUERY = 3;
 // Max new articles to enhance per run (AI calls are slow — keep reasonable)
 const MAX_NEW_PER_RUN = 10;
-// Total articles to keep in the file
-const MAX_TOTAL_ARTICLES = 60;
+// No cap on total articles — keep everything
 
 interface Article {
     id: string;
@@ -235,7 +234,7 @@ async function fetchAndEnhanceNews() {
     }
 
     // ── Merge, deduplicate, cap ──────────────────
-    const combined = [...newlyEnhanced, ...existingArticles].slice(0, MAX_TOTAL_ARTICLES);
+    const combined = [...newlyEnhanced, ...existingArticles];
 
     // ── Write back to data.ts ────────────────────
     const fileContent = `export interface Article {
@@ -254,7 +253,7 @@ export const articles: Article[] = ${JSON.stringify(combined, null, 4)};
 `;
 
     fs.writeFileSync(dataPath, fileContent);
-    console.log(`\n✅ Done! Added ${newlyEnhanced.length} new articles. Total: ${combined.length} (capped at ${MAX_TOTAL_ARTICLES}).`);
+    console.log(`\n✅ Done! Added ${newlyEnhanced.length} new articles. Total: ${combined.length}.`);
 }
 
 fetchAndEnhanceNews();
