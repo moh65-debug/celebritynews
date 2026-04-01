@@ -19,21 +19,31 @@ const TRENDING_QUERIES = [
     { q: 'world news conflict',        label: 'World' },
 ];
 
-// Fetch more per query so quality filter has enough to work with
 const ARTICLES_PER_QUERY = 5;
-// Max new articles to enhance per run
 const MAX_NEW_PER_RUN = 10;
-// No cap on total articles — keep everything
 
 // ─────────────────────────────────────────────
 // Quality filtering
 // ─────────────────────────────────────────────
-const JUNK_KEYWORDS = [
-    'male enhancement', 'weight loss supplement', 'keto gummies', 'cbd gummies',
-    'crypto presale', 'presale', 'affiliate', 'sponsored', 'buy now', 'limited offer',
-    'game pass', 'playstation plus', 'xbox game pass', 'free trial',
-    'review roundup', 'best vpn', 'best antivirus', 'penis', 'erect',
-    'earn money', 'work from home', 'make money online',
+const JUNK_PATTERNS = [
+    // supplements / health spam
+    /male enhancement/i, /weight loss (supplement|pill|gummy)/i, /keto gummies/i,
+    /cbd gummies/i, /testosterone boost/i, /libido/i, /erect/i, /penis/i,
+    // finance spam
+    /crypto presale/i, /presale/i, /meme coin/i, /token sale/i,
+    /earn money online/i, /work from home/i, /make money/i,
+    // gaming / streaming deals (not real news)
+    /game pass/i, /playstation plus/i, /xbox (game pass|play anywhere)/i,
+    /free trial/i, /now streaming/i, /where to watch/i, /how to watch/i,
+    /ott release date/i, /tickets (are )?on sale/i,
+    // pr / promo
+    /press release/i, /globe newswire/i, /pr newswire/i, /sponsored/i,
+    /affiliate/i, /buy now/i, /limited (offer|time)/i,
+    // sport betting / predictions
+    /best bets/i, /betting odds/i, /prediction.*odds/i,
+    // misc low quality
+    /best vpn/i, /best antivirus/i, /review roundup/i,
+    /researchbuzz/i, /comics preview/i, /\[preview\]/i,
 ];
 
 const TRUSTED_SOURCES = new Set([
@@ -47,7 +57,9 @@ const TRUSTED_SOURCES = new Set([
     'nature', 'science', 'new scientist',
     'fortune', 'forbes', 'business insider', 'wall street journal',
     'time', 'newsweek', 'usa today', 'los angeles times', 'the independent',
-    'huffpost', 'vice', 'buzzfeed news', 'the atlantic',
+    'huffpost', 'the atlantic', 'vice', 'new york post',
+    'fox news', 'cnbc', 'marketwatch', 'the verge',
+    'boston herald', 'silicon angle', 'toms hardware',
 ]);
 
 interface NewsArticle {
@@ -63,14 +75,15 @@ interface NewsArticle {
 function isQualityArticle(a: NewsArticle): boolean {
     if (!a.title || a.title === '[Removed]') return false;
     if (!a.urlToImage) return false;
-    if (!a.description || a.description.length < 40) return false;
+    if (!a.description || a.description.length < 60) return false;
 
-    const text = `${a.title} ${a.description}`.toLowerCase();
-    if (JUNK_KEYWORDS.some(kw => text.includes(kw))) return false;
+    const text = `${a.title} ${a.description} ${a.url}`;
+    if (JUNK_PATTERNS.some(p => p.test(text))) return false;
 
-    // Allow unlisted sources only if description is substantial (>100 chars)
+    // Require either a trusted source OR a long description (sign of real article)
     const sourceName = (a.source?.name ?? '').toLowerCase();
-    if (!TRUSTED_SOURCES.has(sourceName) && a.description.length < 100) return false;
+    const isTrusted = TRUSTED_SOURCES.has(sourceName);
+    if (!isTrusted && a.description.length < 120) return false;
 
     return true;
 }
@@ -80,29 +93,20 @@ function isQualityArticle(a: NewsArticle): boolean {
 // ─────────────────────────────────────────────
 function safeParseAIJson(raw: string): Record<string, any> | null {
     if (!raw) return null;
-
-    // Strip markdown fences
     let cleaned = raw
-        .replace(/^```json\s*/i, '')
-        .replace(/^```\s*/i, '')
-        .replace(/```\s*$/i, '')
-        .trim();
+        .replace(/^```json\s*/i, '').replace(/^```\s*/i, '').replace(/```\s*$/i, '').trim();
 
-    // Attempt 1: direct parse
     try { return JSON.parse(cleaned); } catch (_) {}
 
-    // Attempt 2: extract first { ... } block
     const start = cleaned.indexOf('{');
     const end   = cleaned.lastIndexOf('}');
     if (start !== -1 && end > start) {
         try { return JSON.parse(cleaned.slice(start, end + 1)); } catch (_) {}
     }
 
-    // Attempt 3: truncated JSON — close open strings/arrays/object
     if (start !== -1) {
         try {
             let partial = cleaned.slice(start);
-            // Drop an incomplete trailing key or value
             partial = partial.replace(/,\s*"[^"]*$/, '');
             partial = partial.replace(/:\s*"[^"]*$/, ': ""');
             const openArrays = (partial.match(/\[/g) ?? []).length - (partial.match(/\]/g) ?? []).length;
@@ -121,7 +125,7 @@ interface Article {
     content: string;
     image_url: string;
     date: string;
-    celebrities: string[];   // repurposed as general topic tags
+    celebrities: string[];
     category: string;
     url?: string;
 }
@@ -158,30 +162,31 @@ async function fetchForQuery(q: string, pageSize: number): Promise<NewsArticle[]
 }
 
 // ─────────────────────────────────────────────
-// AI enhancement — topic-agnostic
+// AI enhancement — deep, insightful content
 // ─────────────────────────────────────────────
 async function enhanceWithAI(article: NewsArticle, category: string): Promise<EnhancedContent> {
-    // Sanitise inputs so the AI does not produce broken JSON
     const sanitise = (s: string) => (s ?? '')
         .replace(/\[\+\d+ chars\]/g, '')
-        .replace(/[\u0000-\u001F\u007F]/g, ' ')  // strip control chars
+        .replace(/[\u0000-\u001F\u007F]/g, ' ')
         .trim()
-        .slice(0, 800);                            // cap length to avoid truncation
+        .slice(0, 1000);
 
-    const prompt = `You are a sharp news editor for a trending news website.
+    const prompt = `You are a senior journalist writing for a high-quality news website. Your goal is to write a deep, insightful, well-structured article that genuinely informs the reader.
 
 Category: ${category}
 Source: ${article.source?.name || 'Unknown'}
 Title: ${sanitise(article.title)}
 Description: ${sanitise(article.description)}
-Content: ${sanitise(article.content)}
+Content snippet: ${sanitise(article.content)}
 
-Rewrite this into a compelling news article. Rules:
-- Use ONLY ASCII characters — no curly quotes, em-dashes, or special symbols.
-- Keep content paragraphs short (2-3 sentences each).
-- Return ONLY a JSON object with keys: title, excerpt, content, tags.
-- content value: 2-3 <p> tags with plain ASCII text inside.
-- tags value: array of up to 5 proper noun strings.`;
+Write a full article following these strict rules:
+- Title: punchy, factual, not clickbait.
+- Excerpt: one compelling sentence summarising the story.
+- Content: EXACTLY 4 to 6 paragraphs wrapped in <p> tags. Each paragraph must be 3-5 sentences. Cover: (1) what happened and why it matters, (2) background/context, (3) key details and quotes/data, (4) reactions or implications, (5-6) broader significance or what to watch next. Make it feel like a real, in-depth news article, not a summary.
+- Tags: up to 5 proper noun tags (people, organisations, places).
+- Use ONLY plain ASCII characters — no curly quotes, em-dashes, or Unicode symbols.
+
+Return ONLY a valid JSON object with keys: title, excerpt, content, tags.`;
 
     try {
         const response = await fetch(OPENROUTER_URL, {
@@ -194,7 +199,7 @@ Rewrite this into a compelling news article. Rules:
             },
             body: JSON.stringify({
                 model: 'nvidia/nemotron-3-super-120b-a12b:free',
-                max_tokens: 1024,
+                max_tokens: 1500,
                 messages: [{ role: 'user', content: prompt }],
                 response_format: { type: 'json_object' }
             })
@@ -204,9 +209,11 @@ Rewrite this into a compelling news article. Rules:
         const raw = data.choices?.[0]?.message?.content ?? '';
         const result = safeParseAIJson(raw);
 
-        if (!result) {
-            throw new Error(`Unparseable response: ${raw.slice(0, 100)}`);
-        }
+        if (!result) throw new Error(`Unparseable: ${raw.slice(0, 100)}`);
+
+        // Enforce minimum content depth — reject if fewer than 3 <p> tags
+        const pCount = (result.content?.match(/<p>/g) ?? []).length;
+        if (pCount < 3) throw new Error(`Content too short (${pCount} paragraphs)`);
 
         return {
             title:   typeof result.title   === 'string' && result.title   ? result.title   : article.title,
@@ -215,10 +222,11 @@ Rewrite this into a compelling news article. Rules:
             tags:    Array.isArray(result.tags) ? result.tags.filter((t: any) => typeof t === 'string') : [],
         };
     } catch (error) {
-        console.warn(`  ⚠ AI fallback used: ${(error as Error).message}`);
+        console.warn(`  ⚠ AI fallback: ${(error as Error).message}`);
+        // Fallback: use original description — at least honest
         return {
             title:   article.title,
-            excerpt: article.description || 'No excerpt available.',
+            excerpt: article.description || '',
             content: `<p>${(article.description || '').trim()}</p>`,
             tags:    [],
         };
@@ -267,7 +275,6 @@ async function fetchAndEnhanceNews() {
         }
     }
 
-    // Most recent first
     candidates.sort((a, b) =>
         new Date(b.art.publishedAt).getTime() - new Date(a.art.publishedAt).getTime()
     );
