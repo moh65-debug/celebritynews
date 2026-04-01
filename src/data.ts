@@ -12,6 +12,170 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "vzq85lkau",
+        "title": "Typewriters vs. ChatGPT: How One Professor Is Banning AI From the Classroom",
+        "excerpt": "In an era of AI-generated essays, one professor is making students type the old-fashioned way—no copy, no paste, no chatbots.",
+        "content": "<p>Facing a wave of AI-written assignments, college instructor Grit M. has deployed a decidedly low-tech solution: manual typewriters. Once each semester, students in her class must complete an in-person writing test on vintage machines, a move designed to ensure the work is authentically their own in an age where tools like ChatGPT can instantly generate polished essays.</p><p>The analog test, which produces a physical copy with no possibility of digital editing or AI assistance, has become a stark lesson in academic integrity. Students initially baffled by the clack of keys now see it as a fair guarantee that their critical thinking—not an algorithm—is being evaluated, sparking campus-wide conversation about the future of writing and assessment.</p><p>While some students grumble about the pressure of typing without a backspace, many acknowledge the test’s purpose in an educational landscape increasingly saturated with generative AI. The experiment underscores a growing dilemma for educators: how to uphold genuine learning when artificial intelligence can mimic human thought with eerie precision.</p>",
+        "celebrities": [
+            "Grit M",
+            "Boston Herald",
+            "ChatGPT",
+            "AP",
+            "Boston"
+        ],
+        "category": "Tech",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2026/03/Education_Typewriter_Comeback_38995-1.jpg?w=1024&h=682",
+        "date": "Mar 31, 2026",
+        "url": "https://www.bostonherald.com/2026/03/31/college-instructor-typewriters-ai/"
+    },
+    {
+        "id": "vk4jru822",
+        "title": "Fake Google Meet Update Scam Grants Hackers Full Control Over Windows PCs",
+        "excerpt": "A deceptive phishing attack disguised as a Google Meet update is enabling hackers to remotely manage and exploit Windows computers without users' consent.",
+        "content": "<p>You might think the biggest danger online is downloading a virus or handing over your password, but a new phishing trick shows how attackers can take complete control of your computer without either. Cybercriminals are leveraging a fake Google Meet update page to trick Windows users into enrolling their PCs in attacker-controlled remote management systems, effectively handing over the keys to their digital kingdom.</p><p>The scam begins with a malicious website that perfectly replicates Google's official Meet update prompt. When users click to \"install\" the update, they unknowingly download software that connects their computer to a remote management system controlled by the attacker. This grants real-time access to everything on the machine—from sensitive files to webcams and microphones—all without triggering traditional antivirus alerts.</p><p>This evolution in phishing underscores a worrying trend: attacks are shifting from stealing data to seizing devices outright. To protect yourself, always download updates directly from official app stores or websites, and never install software from unsolicited pop-ups. Regularly check for unauthorized remote access tools in your system settings and enable multi-factor authentication where possible. Stay vigilant, because in today's cyber landscape, even a routine update can be a trap.</p>",
+        "celebrities": [
+            "Google Meet",
+            "Microsoft Windows",
+            "Phishing",
+            "Remote Access",
+            "Cybersecurity"
+        ],
+        "category": "Tech",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/google-meet-windows-hack-1.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.foxnews.com/tech/fake-google-meet-update-lets-hackers-control-your-windows-pcs"
+    },
+    {
+        "id": "w86cfxygf",
+        "title": "The Elder Scrolls Online is coming to PC Game Pass in June, and it's free right now with PlayStation Plus",
+        "excerpt": "Zenimax Online Studios has announced huge plans for The Elder Scrolls Online, including a PC Game Pass and PlayStation Plus release.",
+        "content": "<p><ul><li>The Elder Scrolls Online Collection: Gold Road is now available for free on PS Plus</li><li>The game is also coming to PC Game Pass and Xbox Play Anywhere in June</li><li>New content will be … </p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Ar96qcpdnYv7No4wqDJcK4-2000-80.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.techradar.com/gaming/the-elder-scrolls-online-is-coming-to-pc-game-pass-in-june-and-its-free-right-now-with-playstation-plus"
+    },
+    {
+        "id": "zq07sd012",
+        "title": "Disney Cruise Line Reveals Major Details on Next-Generation Ship in Breaking Update",
+        "excerpt": "Disney has just dropped groundbreaking specifics about its upcoming cruise ship, promising a leap in family-friendly maritime entertainment.",
+        "content": "<p>In a highly anticipated announcement, Disney Cruise Line has officially unveiled extensive details about its newest vessel, marking a significant milestone in the company's expansion and setting the stage for a new chapter in cruise innovation.</p><p>The update, which follows intense speculation among travel buffs, showcases a host of pioneering features—from immersive Disney-themed environments and cutting-edge interactive technologies to redesigned accommodations that cater to modern family dynamics, all aimed at elevating the onboard experience beyond anything currently at sea.</p><p>While the iconic Disney Adventure continues to sail proudly, this next ship is positioned as a futuristic flagship, integrating beloved Disney narratives with advanced amenities to redefine what a family cruise can offer. Industry analysts predict this move will intensify competition in the cruise sector and draw even more guests to Disney's vacation ecosystem.</p>",
+        "celebrities": [
+            "Disney Cruise Line",
+            "Disney Adventure",
+            "Cruise Industry",
+            "Family Travel",
+            "Entertainment"
+        ],
+        "category": "Breaking",
+        "image_url": "https://allears.net/wp-content/uploads/2026/03/2026-dcl-disney-adventure-cruise-atmo-12-700x525.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://allears.net/2026/03/31/we-have-a-huge-disney-cruise-line-update/"
+    },
+    {
+        "id": "1jbvhog8j",
+        "title": "Next Siri May Handle Multiple Requests in One Prompt",
+        "excerpt": "Apple is testing a major Siri upgrade that lets the assistant execute several tasks from one spoken sentence—just say 'Set a timer, text Mom I'll be late, and play my workout playlist.'",
+        "content": "<p>Apple is preparing a significant leap for its virtual assistant. According to a Bloomberg report, the next version of Siri will understand and act on compound voice commands containing multiple requests, a long-awaited feature that finally brings the assistant closer to the seamless, conversational AI users expect.</p><p>Currently, Siri often halts after the first command in a string, forcing users to repeat the wake word for each new task. This new capability, being tested in upcoming versions of iOS and macOS, would allow a single prompt like 'What's the weather tomorrow and remind me to bring an umbrella at 8 AM?' to trigger both actions instantly. The feature is expected to debut with the operating systems Apple plans to release later this year, likely iOS 18 and macOS Sequoia.</p><p>This update represents Apple's push to close the gap with competitors like Amazon's Alexa and Google Assistant, which have offered similar multi-intent processing. By enabling more natural, uninterrupted dialogue, Apple aims to make Siri a more powerful and efficient hands-free tool, directly addressing a persistent user frustration and enhancing the overall ecosystem experience.</p>",
+        "celebrities": [
+            "Apple",
+            "Siri",
+            "iOS",
+            "macOS",
+            "Bloomberg"
+        ],
+        "category": "Tech",
+        "image_url": "https://www.pymnts.com/wp-content/uploads/2025/06/Apple-Siri.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.pymnts.com/apple/2026/next-siri-may-handle-multiple-requests-in-one-prompt/"
+    },
+    {
+        "id": "3u2kercvp",
+        "title": "Black Wood Tea's Male Enhancement Claims: A Science-Based Review",
+        "excerpt": "A 2026 report critically assesses Black Wood Tea's 19-ingredient herbal blend and the venous leakage science behind its performance support promises.",
+        "content": "<p>Male performance supplements are booming, with Black Wood Tea emerging as a talked-about herbal brew promising enhanced vitality. A new 2026 informational report has taken a deep dive into these claims, examining the product's rising popularity and the scientific validity behind its marketing.</p><p>The evaluation focuses on venous leakage—a key physiological factor in male performance—and scrutinizes Black Wood Tea's proprietary 19-herb formula. It questions whether the ingredient transparency and traditional herbal uses align with modern evidence, or if consumer interest outpaces proven results.</p><p>With bold advertising touting performance support, the report separates hype from hard science, offering readers a balanced look at what's backed by research. For anyone navigating the crowded supplement market, this analysis provides a crucial checkpoint on the journey from herbal tradition to clinical proof.</p>",
+        "celebrities": [
+            "Black Wood Tea",
+            "Venous Leakage",
+            "Herbal Supplements",
+            "Male Enhancement",
+            "North Woodstock"
+        ],
+        "category": "Science",
+        "image_url": "https://ml.globenewswire.com/Resource/Download/5bae71ae-1b7d-4cb9-903c-a90a15da8a4f",
+        "date": "Mar 31, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/03/31/3265956/0/en/Black-Wood-Tea-Claims-Evaluated-The-Male-Enhancement-Brew-for-Men-s-Performance-Support.html"
+    },
+    {
+        "id": "8lwsn25nh",
+        "title": "Conspiracy Theories Surge as Middle East Fuel Crisis Mirrors Pandemic Lockdowns",
+        "excerpt": "As fuel shortages grip the Middle East, conspiracy theorists are recycling pandemic-era claims about government overreach, threatening public trust and crisis management.",
+        "content": "<p>The specter of pandemic lockdowns is haunting the Middle East yet again, but this time, it's driven by a crippling fuel crisis. Across several nations, soaring prices and supply disruptions have led to long queues at pumps and emergency government controls, instantly evoking memories of the Covid-19 restrictions that dominated life just a few years ago.</p><p>In this charged atmosphere, conspiracy theorists are having a field day. They're pushing the same worn-out narratives about attacks on civil liberties, from sinister plots to depopulate regions to baseless claims that the crisis is manufactured to impose 'new world order' controls. Social media is ablaze with such theories, mirroring the misinformation ecosystem that thrived during the pandemic.</p><p>This parallel is more than coincidental; it highlights a dangerous pattern where crises are exploited to sow discord. Experts caution that such conspiracy thinking can paralyze effective policy responses, fuel social tensions, and undermine science-based solutions. As governments scramble to stabilize fuel supplies, they must also combat the viral spread of falsehoods that could worsen the situation.</p>",
+        "celebrities": [
+            "Middle East",
+            "Fuel Crisis",
+            "Covid-19",
+            "Conspiracy Theories",
+            "Civil Liberties"
+        ],
+        "category": "World",
+        "image_url": "https://img2.thejournal.ie/article/6999760/river/?height=400&version=6999778",
+        "date": "Mar 31, 2026",
+        "url": "https://www.thejournal.ie/conspiracy-theorists-are-exploiting-the-fuel-crisis-to-spread-fear-6999760-Mar2026/"
+    },
+    {
+        "id": "8m9nck3rb",
+        "title": "RAM Prices Plummet as AI Hype Fades: Bubble or Blip?",
+        "excerpt": "Plummeting RAM prices and shuttered AI projects suggest the artificial intelligence bubble may be deflating, but industry insiders urge caution before declaring victory.",
+        "content": "<p>Memory chip stocks are taking a beating. Shares of major RAM manufacturers like Samsung and SK Hynix have fallen sharply this week, mirroring a sudden drop in DDR5 module prices that has PC builders and data centers alike buzzing. The downturn marks a stark reversal from the AI-driven surge that sent memory prices soaring over the past two years.</p><p>Adding fuel to the fire, OpenAI quietly shut down its Sora video generation platform on March 24 amid reports the service was burning through $1 million daily. The closure—tied to mounting costs and shifting priorities—has become a symbol of the broader strain on AI ventures as investors grow warier of unsustainable cash burns.</p><p>Yet analysts warn against premature celebration. While short-term oversupply and softening demand have triggered the current slide, long-term AI infrastructure—from training models to real-time inference—still requires vast memory resources. The sector could easily rebound if enterprise adoption accelerates or new applications emerge.</p>",
+        "celebrities": [
+            "OpenAI",
+            "Sora",
+            "Samsung",
+            "SK Hynix",
+            "DDR5"
+        ],
+        "category": "Breaking",
+        "image_url": "https://kotaku.com/app/uploads/2026/03/screammanpc.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://kotaku.com/ram-ai-stock-prices-bubble-openai-nvidia-chatgpt-2000683539"
+    },
+    {
+        "id": "l3jfyioxp",
+        "title": "Trump Deflects U.S. Role as Iran Chokes Strait of Hormuz",
+        "excerpt": "With oil prices surging due to Iran's blockade of a critical global oil chokepoint, President Trump is absolving the U.S. of any duty to intervene.",
+        "content": "<p>Global oil markets are roiling as Iran tightens its stranglehold on the Strait of Hormuz, through which a fifth of the world's oil flows, sparking a sharp spike in energy prices and raising alarms about potential supply shocks.</p><p>Amid the crisis, President Donald Trump and his administration are explicitly shifting responsibility, suggesting that safeguarding this vital waterway falls to regional allies or the broader international community—not America alone—marking a departure from decades of U.S. naval dominance in the region.</p><p>This deflection, framed as a push for equitable burden-sharing, risks undermining U.S. credibility and may incentivize Iran to escalate its aggressive tactics, leaving global economies vulnerable to further volatility.</p>",
+        "celebrities": [
+            "Iran",
+            "Strait of Hormuz",
+            "Donald Trump",
+            "Oil Prices",
+            "United States"
+        ],
+        "category": "World",
+        "image_url": "https://i.abcnewsfe.com/a/df3b6258-6e41-41c8-bf2e-499809c3982c/donald-trump-6-rt-gmh-260330_1774875235386_hpMain_16x9.jpg?w=1600",
+        "date": "Mar 31, 2026",
+        "url": "https://abcnews.com/Politics/reopening-strait-hormuz-trump-shift-responsibility-us/story?id=131579105"
+    },
+    {
+        "id": "gq0ncyl3u",
+        "title": "NBA Player Jaden Ivey Waived by Bulls After Criticizing Pride Month",
+        "excerpt": "The Chicago Bulls have released second-year guard Jaden Ivey following his social media stream where he condemned the NBA's promotion of Pride Month as conflicting with his Christian faith.",
+        "content": "<p>The Chicago Bulls have parted ways with guard Jaden Ivey, a rising young star, after he used a social media livestream to criticize the league’s widespread Pride Month celebrations. Ivey, 22, stated the NBA’s advocacy for LGBTQ+ initiatives represented a proclamation of “unrighteousness” that conflicted with his personal Christian beliefs.</p><p>The remarks, which were recorded and widely shared, put the Bulls in a difficult position amid the NBA’s robust, league-wide support for Pride Month. The organization has historically partnered with LGBTQ+ advocacy groups and prominently features Pride-themed programming and merchandise. While the team did not cite a single reason for the waiver, the timing and context of Ivey’s public dissent on a core league initiative made his roster spot untenable.</p><p>This incident highlights the increasing cultural tensions within professional sports, where athlete activism and personal belief statements can collide with league and team business interests and partnership obligations. The Bulls’ decision sends a clear message about the boundaries of acceptable public discourse for its players regarding the NBA’s established social advocacy platforms.</p>",
+        "celebrities": [
+            "Jaden Ivey",
+            "Chicago Bulls",
+            "NBA",
+            "Pride Month",
+            "LGBTQ+ Advocacy"
+        ],
+        "category": "Sports",
+        "image_url": "https://legalinsurrection.com/wp-content/uploads/2026/03/Jaden-Ivey.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://legalinsurrection.com/2026/03/nba-player-jaden-ivey-waived-by-bulls-after-criticizing-pride-month/"
+    },
+    {
         "id": "xqgxdkzxl",
         "title": "Ardie Savea's Shock Request: Why the All Black Star Walked Away from New Zealand Rugby",
         "excerpt": "In a stunning move that sent shockwaves through rugby, All Black loose forward Ardie Savea revealed he requested to terminate his New Zealand Rugby contract to prioritize his mental health and family.",
