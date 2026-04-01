@@ -12,6 +12,158 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "xqgxdkzxl",
+        "title": "Ardie Savea's Shock Request: Why the All Black Star Walked Away from New Zealand Rugby",
+        "excerpt": "In a stunning move that sent shockwaves through rugby, All Black loose forward Ardie Savea revealed he requested to terminate his New Zealand Rugby contract to prioritize his mental health and family.",
+        "content": "<p>The echoes of England's fans singing 'Swing Low, Sweet Chariot' had long faded into the Twickenham night, leaving behind a cavernous, empty stadium that mirrored a profound shift in New Zealand rugby. At the center of this changing landscape is Ardie Savea, the electrifying All Black loose forward whose recent decision to seek release from his New Zealand Rugby (NZR) contract has ignited a league-wide conversation about the human cost of professional sport. Far from a simple retirement, Savea’s move is a calculated pause, a plea for space from a game that has defined his identity but began to drain his joy.</p><p>Savea’s request, described privately as a necessary break rather than an end, stems from a deep desire to reconnect with himself and his family after years of relentless physical and mental pressure. Sources close to the player reveal a man who felt increasingly contracted by the expectations of being a franchise cornerstone for both the All Blacks and Wellington, leading to a quiet crisis of fulfillment. His journey—from a raw talent in Wellington to a World Player of the Year and a pivotal figure in the All Blacks' 2023 World Cup run—has been marked by immense pride, but also by a growing awareness that the machine of professional rugby can consume the very passion that made a player great.</p><p>The ripple effects of Savea’s decision are already being felt within NZR and globally, challenging the archaic notion that athlete well-being is a secondary concern to performance. For the All Blacks, losing a player of his dynamic impact and locker-room leadership forces a reckoning with how they sustain their talent. For Savea, this is not an end but a reset—a chance to rediscover the 'why' that once made running onto the park a privilege, not a burden. His move transcends a single contract dispute; it's a pivotal moment where the psyche of a modern athlete takes center stage in a sport that has rarely prioritized it.</p>",
+        "celebrities": [
+            "Ardie Savea",
+            "All Blacks",
+            "New Zealand Rugby",
+            "Mental Health",
+            "Twickenham"
+        ],
+        "category": "World",
+        "image_url": "https://www.nzherald.co.nz/resizer/v2/6OMBFMABNJE27IKKWKOD6FT6GM.jpg?auth=ff7a934182957361f7d2e91f727d07e2eafb6f3c14936412327f9455a1778a0c&width=1200&height=675&quality=70&smart=true",
+        "date": "Mar 31, 2026",
+        "url": "https://www.nzherald.co.nz/sport/rugby/all-blacks/ardie-savea-inside-the-all-blacks-loosies-relationship-with-the-team-and-new-zealand-rugby/premium/WOJ7W6MXHBAY5CTQAKRXZDXY3U/"
+    },
+    {
+        "id": "5mibnmmyc",
+        "title": "A once-fantastical collider could answer physics’ biggest mysteries",
+        "excerpt": "The muon collider was once dismissed as impossible, but is now gaining steam as the successor to the Large Hadron Collider. If built, it could offer a new window to reality",
+        "content": "<p>It began with a T-shirt. In 2022, particle physicist Tova Holmes, then a postdoc at Fermilab, designed a cheeky garment declaring, \"I survived the muon collider workshop,\" anticipating the inevitable scrutiny her nascent idea would face. She was right to be cautious. For decades, the notion of a muon collider—a particle accelerator using muons, heavier cousins of electrons—was dismissed as technically impossible. Muons decay in a mere 2.2 microseconds, seemingly dooming any chance to accelerate and collide them. Yet today, Holmes’s hypothetical machine is no longer a fringe fantasy but the leading candidate to become the Large Hadron Collider’s successor, promising a leap in energy and precision that could unravel dark matter, extra dimensions, and other towering mysteries.</p><p>The appeal lies in muons' brute physics. Unlike protons, which are messy composites, muons are fundamental particles. Colliding them would produce cleaner, more energetic collisions in a far smaller ring than the LHC’s 27-kilometer circumference, slashing cost and complexity. The catch?Capturing, cooling, and accelerating microsecond-lived particles requires superconducting magnets and faultless timing of breathtaking precision. Recent breakthroughs in ion cooling and rapid acceleration have galvanized the field. A coordinated global push, led by U.S. labs like Fermilab and involving CERN and others, is now racing to prove the concept. If built, this \"once fantastical\" collider wouldn't just find new particles—it would offer a pristine new window into the fabric of reality itself.</p>",
+        "celebrities": [
+            "Tova Holmes",
+            "Fermilab",
+            "Large Hadron Collider",
+            "Muon Collider",
+            "CERN"
+        ],
+        "category": "Science",
+        "image_url": "https://images.newscientist.com/wp-content/uploads/2026/03/26110001/SEI_290230987.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.newscientist.com/article/2519026-a-once-fantastical-collider-could-answer-physics-biggest-mysteries/"
+    },
+    {
+        "id": "07brnxyhm",
+        "title": "Tickets Are Live: Ignite Your Gaming Passion at IGN Live 2026!",
+        "excerpt": "Don't miss the ultimate two-day gaming and entertainment extravaganza with exclusive reveals, celebrity panels, and hands-on demos—tickets for IGN Live 2026 are now on sale!",
+        "content": "<p>The hottest event in gaming and entertainment is here: tickets for IGN Live 2026 are officially on sale! Hosted by the legendary media brand IGN, this two-day celebration promises a packed lineup of exclusive content, celebrity appearances, and immersive experiences that every fan won't want to miss.</p><p>Get ready for groundbreaking game reveals, star-studded panels featuring top developers and Hollywood names, and live stage shows that bring the virtual world to life. Attendees can also go hands-on with upcoming titles, catch special screenings, snag limited-edition merch, and enter thousands of giveaways—it's a paradise for gamers and pop culture enthusiasts alike.</p><p>With community vibes and once-in-a-lifetime moments, IGN Live 2026 is the place where the future of entertainment unfolds. Act fast and secure your passes today to join the action, connect with fellow fans, and be among the first to experience the next big things in gaming and beyond.</p>",
+        "celebrities": [
+            "IGN",
+            "IGN Live 2026",
+            "Gaming",
+            "Entertainment",
+            "Celebrity Panels"
+        ],
+        "category": "Entertainment",
+        "image_url": "https://assets-prd.ignimgs.com/2026/03/31/ign-live-25-1-blogroll-1774972827101.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "date": "Mar 31, 2026",
+        "url": "https://www.ign.com/articles/ign-live-2026-tickets-now-on-sale"
+    },
+    {
+        "id": "24h00f36y",
+        "title": "Attacks from our immune system are a cause of long covid",
+        "excerpt": "The immune system going rogue and attacking healthy tissue seems to behind some cases of long covid, a discovery that could open doors towards treatments",
+        "content": "<p>Our immune cells usually fight off covid-19, but in some cases, things go rogue\r\nSCIENCE PHOTO LIBRARY\r\nEvidence is mounting that long covid can be caused by the immune system attacking the body. The… [+5090 chars]</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://images.newscientist.com/wp-content/uploads/2026/03/30171310/SEI_291151130.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.newscientist.com/article/2521476-attacks-from-our-immune-system-are-a-cause-of-long-covid/"
+    },
+    {
+        "id": "aircwbmsm",
+        "title": "AWS Deploys AI Agents as 24/7 Teammates to Automate DevOps and Security",
+        "excerpt": "Amazon Web Services has launched two AI-powered agents designed to serve as always-on assistants for DevOps and security teams, automating critical tasks like application monitoring and penetration testing.",
+        "content": "<p>Amazon Web Services has officially launched two game-changing AI tools—the AWS DevOps Agent and the AWS Security Agent—now available to transform how enterprises manage their cloud infrastructure. These agents are engineered to operate as tireless, always-on teammates, seamlessly integrating with existing workflows to handle routine but vital operations without human intervention.</p><p>The DevOps Agent continuously monitors application performance, spotting anomalies and recommending optimizations in real-time, while the Security Agent automates penetration testing to proactively identify and flag vulnerabilities. By offloading these tasks, the tools empower engineers to concentrate on innovation and complex problem-solving, boosting both efficiency and security resilience across development cycles.</p><p>This strategic push highlights AWS's commitment to leveraging artificial intelligence for operational excellence, potentially reshaping industry standards. As cyber threats grow more sophisticated and deployment speeds accelerate, such autonomous agents could become essential for organizations aiming to maintain agility without compromising on safety or reliability.</p>",
+        "celebrities": [
+            "Amazon Web Services",
+            "AWS DevOps Agent",
+            "AWS Security Agent",
+            "DevOps",
+            "Cybersecurity"
+        ],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-30-07-40-55.png",
+        "date": "Mar 31, 2026",
+        "url": "https://siliconangle.com/2026/03/31/aws-pushes-automate-application-monitoring-penetration-testing-ai-agents/"
+    },
+    {
+        "id": "4p8tvajdq",
+        "title": "Fujitsu Bets on Japan-Made 1.4nm AI Chip in Strategic Tech Push",
+        "excerpt": "In a bold bid to control its AI destiny, Fujitsu will design and manufacture a cutting-edge 1.4nm inference chip entirely within Japan.",
+        "content": "<p>Fujitsu is making a major play for technological sovereignty, announcing plans to develop a next-generation AI inference processor using an advanced 1.4nm process—all designed and fabricated domestically by the Japanese startup Rapidus. According to a Nikkei Asia report, this move is a direct response to global supply chain vulnerabilities and a strategic effort to secure Japan's foothold in the critical AI hardware arena, where companies like Nvidia currently dominate.</p><p>The Neural Processing Unit (NPU) is specifically engineered for the high-efficiency computation required in AI inference tasks within data centers and servers. The choice of the ultra-miniature 1.4nm node, a process technology still on the bleeding edge, underscores Japan's ambition to leapfrog competitors. This collaboration between established IT giant Fujitsu and the pioneering foundry Rapidus, targeting a 2027 launch, represents a concerted national effort to rebuild a complete domestic semiconductor ecosystem for the AI era.</p>",
+        "celebrities": [
+            "Fujitsu",
+            "Rapidus",
+            "Japan",
+            "NPU",
+            "AI inference"
+        ],
+        "category": "Tech",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/KbsM9a3vBs4wvW8HkkdHQV-1600-80.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.tomshardware.com/tech-industry/fujitsu-plans-dedicated-1-4nm-ai-chip-manufactured-entirely-in-japan-by-rapidus"
+    },
+    {
+        "id": "34gxarbwd",
+        "title": "DIY investing v managed funds: Why many investors miss market gains – Greg Smith",
+        "excerpt": "OPINION: Over 20 years, average DIY investors earned only about 5-6% a year.",
+        "content": "<p>One of the most common mistakes is trying to time the market. It sounds sensible: sell when things feel risky then buy back when conditions improve. In reality, it rarely works. Markets tend to recov… [+6722 chars]</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.nzherald.co.nz/resizer/v2/MQRXJBPLAZMVHZAR7CJ2YUBO2I.jpg?auth=35cf68e3cac3f30581c0f5e7e4da0d48a7dc6571c7de128c6eded2e4fa36aab5&width=1200&height=675&quality=70&smart=true",
+        "date": "Mar 31, 2026",
+        "url": "https://www.nzherald.co.nz/business/personal-finance/investment/diy-investing-vs-managed-funds-why-many-investors-miss-market-gains-greg-smith/6LDQ2M6PFRGYZMSHLZP7LWMJOE/"
+    },
+    {
+        "id": "c16f9l9t4",
+        "title": "Prawduct Framework: Bringing Discipline to AI-Powered Development with Claude Code",
+        "excerpt": "Claude Code generates code rapidly but often from vague specs—Prawduct fixes this with structured planning, independent reviews, and continuous learning for reliable software.",
+        "content": "<p>Claude Code has dazzled developers with its ability to whip up code in seconds, but left unchecked, it can build from underspecified requirements, produce inconsistent implementations, and overlook critical tests. This wild creativity, while impressive, often leads to fragile codebases and rework. Enter Prawduct, an open-source framework designed to tame this potential chaos by injecting rigor into every stage of AI-assisted development.</p><p>Prawduct acts as a virtual project manager for Claude Code, mandating structured planning phases to clarify goals, inserting independent quality reviews to catch issues early, and implementing a per-project learning loop that captures insights to refine future outputs. It’s not about limiting AI’s ingenuity—it’s about channeling it through proven product development practices, ensuring that speed doesn’t sacrifice stability.</p><p>For teams harnessing AI in software creation, Prawduct transforms Claude Code from a brilliant but unpredictable coder into a disciplined partner. By enforcing standards and fostering continuous improvement, it makes AI-powered development not just faster, but fundamentally more trustworthy. Explore the framework on GitHub to start building with confidence.</p>",
+        "celebrities": [
+            "Claude Code",
+            "Anthropic",
+            "Prawduct",
+            "GitHub",
+            "Product Development"
+        ],
+        "category": "Science",
+        "image_url": "https://opengraph.githubassets.com/0e77034934dcbd12e907ccb837641a613d7405374a89dfe32c2161ff4f84ae09/brookstalley/prawduct",
+        "date": "Mar 31, 2026",
+        "url": "https://github.com/brookstalley/prawduct"
+    },
+    {
+        "id": "fap307x1e",
+        "title": "Cuba crisis explained: Who holds power, and could Diaz-Canel be replaced?",
+        "excerpt": "As Cuba faces one of the worst humanitarian crises in its history, questions have emerged about the island's leadership.",
+        "content": "<p>Cuba is facing one of its worst crises in decades, as the Caribbean island contends with nationwide blackouts, fuel shortages and growing political uncertainty.\r\nThe crisis comes as the United States… [+17338 chars]</p>",
+        "celebrities": [
+            "Miguel Díaz-Canel",
+            "Raúl Castro",
+            "Communist Party of Cuba",
+            "U.S. embargo",
+            "Cuba"
+        ],
+        "category": "World",
+        "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/AP26076101825033-1774648502.jpg?resize=1920%2C1440",
+        "date": "Mar 31, 2026",
+        "url": "https://www.aljazeera.com/news/2026/3/31/cuba-crisis-explained-who-holds-power-and-could-diaz-canel-be-replaced"
+    },
+    {
+        "id": "fna187698",
+        "title": "Netflix Reveals Spring 2026 Anime Slate, Including ‘Jujutsu Kaisen’ Season 2, ‘Spy x Family’ Season 3 & More",
+        "excerpt": "Netflix is expanding its anime lineup this spring. The streamer just unveiled a packed slate of new and returning titles during AnimeJapan 2026, including major fan-favorite series and brand new originals. From action and fantasy to romance and sports, the pl…",
+        "content": "<p>Netflix is expanding its anime lineup this spring.\r\nThe streamer just unveiled a packed slate of new and returning titles during AnimeJapan 2026, including major fan-favorite series and brand new ori… [+480 chars]</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/03/netflix-anime-spring-2026-social.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.justjared.com/2026/03/31/netflix-spring-2026-anime-slate-jujutsu-kaisen-spy-family/"
+    },
+    {
         "id": "52y14fqad",
         "title": "Two physicists and a curious host walk into a studio…",
         "excerpt": "On GBH’s new show The Curiosity Desk, MIT LIGO researchers revel in the beauties of fundamental discovery science and MIT astronomers talk planetary defense.",
@@ -605,129 +757,5 @@ export const articles: Article[] = [
         "image_url": "https://alltoc.com/cdn/1046/og.png",
         "date": "Mar 24, 2026",
         "url": "https://alltoc.com/tabloid/who-welcomed-charlie-puths-first-baby"
-    },
-    {
-        "id": "j0mi8audf",
-        "title": "Alex Rodriguez's GF Ditches the Pants and Turns Up the Heat on Vacation",
-        "excerpt": "Jaclyn Cordeiro proves she's the queen of vacation vibes in a sizzling bikini that's got everyone talking.",
-        "content": "<p>Alex Rodriguez's girlfriend, Jaclyn Cordeiro, is living her best life on a sun-soaked getaway, and she's not holding back on the glamour. The former MLB superstar's leading lady took to social media to share a series of jaw-dropping snaps, flaunting her flawless figure in a barely-there bikini that screams vacation goals.</p><p>From beachside lounging to poolside glam, Cordeiro is giving fans an all-access pass to her tropical escape, and let's just say, she's serving major 'hot girl summer' energy. Rodriguez, who's been enjoying some downtime himself, clearly approves of the view. Stay tuned—this getaway is just getting started!</p>",
-        "celebrities": [
-            "Alex Rodriguez",
-            "Jaclyn Cordeiro"
-        ],
-        "image_url": "https://phantom.estaticos-marca.com/b782788bbb1ebdbb18e37565ff920237/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/23/17742265532445.jpg",
-        "date": "Mar 23, 2026",
-        "url": "https://www.marca.com/en/mlb/new-york-yankees/2026/03/23/69c08cb2e2704e74448b45a0.html"
-    },
-    {
-        "id": "on7wcibpf",
-        "title": "Cat Cavelli Fires Back: Her Explosive Take on Chappell Roan’s Brazil Drama",
-        "excerpt": "Jude Law’s ex is finally speaking out—and it’s juicier than we thought.",
-        "content": "<p>Cat Cavelli, the ex-girlfriend of Hollywood heartthrob Jude Law, is breaking her silence in a way that’s got the internet buzzing. In a candid Instagram video posted Sunday, March 22, Cavelli addressed the swirling controversy surrounding singer Chappell Roan’s alleged interaction with her 11-year-old daughter in Brazil.</p><p>“Hi guys, good morning,” Cavelli began, setting the tone for what would become a must-watch moment. While she didn’t spill all the tea just yet, her cryptic message has fans and critics alike speculating about what really went down. Could this be the start of a full-blown celebrity feud? Stay tuned, because this story is just heating up.</p>",
-        "celebrities": [
-            "Jude Law",
-            "Cat Cavelli",
-            "Chappell Roan"
-        ],
-        "image_url": "https://www.usmagazine.com/wp-content/uploads/2026/03/GettyImages-2183620145-Jude-Law-Ex-Addresses-Chappell-Roan.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
-        "date": "Mar 23, 2026",
-        "url": "https://www.usmagazine.com/celebrity-news/news/jude-laws-ex-breaks-silence-on-chappell-roan-drama/"
-    },
-    {
-        "id": "5mzlwy7j8",
-        "title": "Is Our Media Missing the Real Story in the Middle East?",
-        "excerpt": "The truth behind the headlines is more shocking than you think.",
-        "content": "<p>Three weeks into the world-changing war on Iran, and the global US and UK news production line, where Australia's legacy media has embedded itself, is no longer fit for purpose—not Australia's purposes, anyway. It's time to look beyond the US-centred media if you want the real news out of the Middle East. Our news is being bent out of shape by its alignment with the daily talking points out of Washington and London, and the challenge is structural.</p><p>Could it be that our media is missing the bigger picture? With the world watching, the real story might be unfolding behind the scenes. Stay tuned as we dig deeper into what's really happening in the Middle East.</p>",
-        "celebrities": [],
-        "image_url": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/03/iran_787f79.jpg?quality=70&w=1024",
-        "date": "Mar 23, 2026",
-        "url": "http://www.crikey.com.au/2026/03/23/middle-east-news-sources-us-centric-media/"
-    },
-    {
-        "id": "b2uk5zfgv",
-        "title": "Ryan Gosling's Alien BFF in 'Project Hail Mary' — The Voice Behind Rocky Revealed!",
-        "excerpt": "The voice of Ryan Gosling's extraterrestrial buddy Rocky in 'Project Hail Mary' might surprise you!",
-        "content": "<p>Ryan Gosling's latest sci-fi adventure, 'Project Hail Mary,' has everyone buzzing, especially about his alien companion, Rocky. But who's the voice behind this lovable extraterrestrial? Spoiler alert: it's not a big-name celebrity, but someone much closer to home!</p><p>Directed by Phil Lord and Christopher Miller, the film follows scientist Ryland Grace (Gosling) as he makes first contact with Rocky, an alien whose quirky personality and unique voice steal the show. While fans speculated about A-list voice actors, the filmmakers opted for a more personal touch, keeping the identity of Rocky's voice actor under wraps until now. Could it be a family member or a close friend? The mystery adds an extra layer of intrigue to this already captivating film.</p>",
-        "celebrities": [
-            "Ryan Gosling",
-            "Phil Lord",
-            "Christopher Miller"
-        ],
-        "image_url": "https://www.slashfilm.com/img/gallery/who-voices-rocky-in-ryan-goslings-project-hail-mary/l-intro-1774219219.jpg",
-        "date": "Mar 23, 2026",
-        "url": "https://www.slashfilm.com/2129455/rocky-voice-actor-ryan-gosling-project-hail-mary-movie-james-ortiz/"
-    },
-    {
-        "id": "b81fmmpa9",
-        "title": "Justin Timberlake’s DWI Arrest Video: Pop Star Jokes His Way Through Sobriety Test!",
-        "excerpt": "Pop icon Justin Timberlake’s attempt to charm the cops during his Hamptons DWI arrest has everyone talking!",
-        "content": "<p>Pop sensation Justin Timberlake found himself in hot water after being arrested on suspicion of driving while intoxicated in the Hamptons this June. But instead of keeping a low profile, the 'SexyBack' crooner decided to turn his arrest into a stand-up routine!</p><p>In newly released footage, Timberlake can be seen bantering with the arresting officers, cracking jokes, and even complaining about being treated like a criminal. The video captures the star’s attempt to lighten the mood, as he tries to charm his way out of the situation. Fans and critics alike are buzzing about his unexpected sense of humor in the face of legal trouble.</p>",
-        "celebrities": [
-            "Justin Timberlake"
-        ],
-        "image_url": "https://img.huffingtonpost.com/asset/69c079d018000065451c5400.jpeg?cache=yytwE9D062&ops=1200_630",
-        "date": "Mar 22, 2026",
-        "url": "https://www.huffpost.com/entry/justin-timberlake-dwi-arrest-video_n_69c06ad8e4b0f2b395d5a71e"
-    },
-    {
-        "id": "3dun3peze",
-        "title": "OMG! A&E Drops Bombshell Finale This Week—Who’s Exposed?",
-        "excerpt": "The shocking truth behind the stars’ most scandalous secrets is finally coming to light—don’t miss it!",
-        "content": "<p>Hold onto your seats, because A&E is serving up a week of jaw-dropping drama that’ll have you glued to your screen! Kicking things off with a bang, the explosive finale of <em>Segredos das Celebridades: Sex Tapes</em> airs this Thursday, promising to spill the tea on some of Hollywood’s most infamous scandals. Who’s hiding what? You’ll have to tune in to find out!</p><p>But that’s not all—A&E is also bringing back the gripping crime saga <em>El Chapo</em> for a limited rerun run, giving fans another chance to dive into the twisted world of the notorious drug lord. Whether you’re here for the celebrity gossip or the high-stakes drama, this week’s lineup is stacked with must-watch moments. Grab your popcorn and get ready for a wild ride!</p>",
-        "celebrities": [],
-        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUPmSKPfKTl7eqS_BsD0v1gcFhG_lDpIugARpusB1ytYLmurgVMNWfh4VW-F2CEkvvxfk2kpMSIVYAO9Uo6o-0woJxtqYSaXgNEZ2ixJp0UECSZ9dDHcg8sIQsk3FQFaZoX55enfg_tyjgWiE0zzKsX5KpM9jSRKebtnGduS54Bk4cevFnWdYpxfZgkRiR/w1600/QDM%20(6).jpg",
-        "date": "Mar 22, 2026",
-        "url": "https://www.ouniversodatv.com/2026/03/a-destaques-da-programacao-de-23-29-de.html"
-    },
-    {
-        "id": "gfjdob9w0",
-        "title": "Hollywood Hunks Are Sparking a Men’s Jewellery Boom in India – Here’s Why!",
-        "excerpt": "From red carpets to wedding aisles, men’s bling is having a major glow-up in India, and it’s all thanks to these A-listers!",
-        "content": "<p>Move over, ladies – men’s jewellery is stealing the spotlight in India, and it’s all thanks to Hollywood’s hottest stars! Actor-producer Channing Tatum turned heads at this year’s Oscars, rocking a Tiffany & Co brooch that perfectly complemented his sharp suit. Not to be outdone, Timothee Chalamet made waves with his own bold accessory choices, proving that men’s jewellery is no longer just for weddings.</p><p>The trend is catching fire in India, with sales of men’s jewellery soaring by an impressive 25-30% in 2025. From sleek chains to statement brooches, Indian men are embracing the bling, inspired by their favorite celebrities and high-profile weddings. What was once reserved for special occasions is now becoming a staple in everyday fashion, and the numbers don’t lie – this category is shining brighter than ever!</p>",
-        "celebrities": [
-            "Channing Tatum",
-            "Timothee Chalamet"
-        ],
-        "image_url": "https://img.etimg.com/thumb/msid-129724583,width-1200,height-630,imgsize-139540,overlay-economictimes/articleshow.jpg",
-        "date": "Mar 22, 2026",
-        "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/mens-jewellery-market-shines-in-india-grows-2530-in-2025-on-rising-demand/articleshow/129724486.cms"
-    },
-    {
-        "id": "rzghyq56l",
-        "title": "City Boys vs Village Boys: The Epic Youth Battle Between Tinubu and Obi Heating Up for 2027",
-        "excerpt": "The political youth war is on! Tinubu and Obi are pulling out all the stops to win over Nigeria's young voters in this fierce 2027 showdown.",
-        "content": "<p>The political battlefield is heating up as Nigeria's youth are caught in a fierce tug-of-war between two powerhouse camps. On one side, you've got the slick, cosmopolitan City Boys backing Bola Tinubu, while the grassroots-savvy Village Boys are rallying behind Peter Obi. With the 2027 elections still on the horizon, this quiet mobilization war is already making serious noise.</p><p>Young voters are the ultimate prize, and both camps are pulling out all the stops to win their hearts. Tinubu's team is leaning into urban charm and modern appeal, while Obi's crew is doubling down on community roots and authenticity. Who will come out on top in this battle of vibes? Stay tuned—it's about to get wild.</p>",
-        "celebrities": [
-            "Bola Tinubu",
-            "Peter Obi"
-        ],
-        "image_url": "https://cdn.punchng.com/wp-content/uploads/2022/06/21040241/Tinubu-and-Obi.jpg",
-        "date": "Mar 22, 2026",
-        "url": "https://punchng.com/city-boys-vs-village-boys-inside-tinubu-obis-fight-for-young-voters/"
-    },
-    {
-        "id": "om33u8phh",
-        "title": "Afroman's Legal Victory: Grammy-Nominated Star Strikes Back Against Police Raid!",
-        "excerpt": "Afroman, the 'Because I Got High' singer, just won a major lawsuit over a controversial police raid—here's the shocking twist!",
-        "content": "<p>In a stunning legal victory, Afroman, the Grammy-nominated artist behind the iconic hit 'Because I Got High,' has emerged triumphant in a lawsuit tied to a controversial raid on his home. The case, which has been making waves in the entertainment world, saw the rapper-turned-activist take on law enforcement in a battle that’s now got everyone talking.</p><p>Sources close to the situation reveal that the lawsuit was filed after a dramatic raid on Afroman’s property, sparking debates about privacy, celebrity rights, and the limits of police authority. With this win, Afroman is proving he’s not just a chart-topping musician but also a force to be reckoned with in the courtroom. Stay tuned as this story develops—it’s clear Afroman’s not done making headlines!</p>",
-        "celebrities": [
-            "Afroman"
-        ],
-        "image_url": "https://alltoc.com/cdn/1046/og.png",
-        "date": "Mar 22, 2026",
-        "url": "https://alltoc.com/lifestyle/why-did-afroman-win-his-lawsuit"
-    },
-    {
-        "id": "9dpoofny6",
-        "title": "Zendaya and Tom Holland: Are They or Aren’t They? The Marriage Rumor That’s Got Everyone Talking!",
-        "excerpt": "The lovebirds are stirring up a frenzy with their latest antics—could wedding bells be on the horizon?",
-        "content": "<p>Could Zendaya and Tom Holland be tying the knot? The internet is buzzing with speculation after Zendaya playfully teased marriage rumors during a recent interview. The actress, known for her role in Euphoria, hinted at a deeper commitment to her Spider-Man co-star, Tom Holland, leaving fans swooning and speculating.</p><p>But Tom isn’t one to be left out of the fun! The British heartthrob recently reacted to Zendaya’s new movie, adding fuel to the fire with his adorable comments. The duo, who have been inseparable since their on-screen romance turned real-life, continue to keep us guessing about their relationship status. Are they just friends, or is there a wedding in their future? One thing’s for sure—this Hollywood pair knows how to keep us hooked!</p>",
-        "celebrities": [
-            "Zendaya",
-            "Tom Holland"
-        ],
-        "image_url": "https://alltoc.com/cdn/1046/og.png",
-        "date": "Mar 22, 2026",
-        "url": "https://alltoc.com/tabloid/what-happened-with-zendaya-and-tom-holland-marriage-rumors"
     }
 ];
