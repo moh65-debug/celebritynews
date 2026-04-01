@@ -12,6 +12,164 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "95b78ukvr",
+        "title": "Super Micro Computer Investors Seek Exit Amid Self-Inflicted Setbacks",
+        "excerpt": "Despite record‑high sales, shareholders are pressing for a way out after a series of missteps that have eroded confidence in the server maker.",
+        "content": "<p>Super Micro Computer reported another quarter of soaring revenue, driven by strong demand for its AI‑optimized servers.</p><p>However, a string of self‑inflicted wounds — including delayed product launches, supply chain hiccups, and accounting concerns — has left investors uneasy.</p><p>Analysts say the mismatch between robust top‑line growth and deteriorating trust is prompting many to look for exits before the situation worsens.</p>",
+        "celebrities": [
+            "Super Micro Computer",
+            "NASDAQ",
+            "SMCI",
+            "Wall Street",
+            "Tech Sector"
+        ],
+        "category": "Tech",
+        "image_url": "https://catenaa.com/wp-content/uploads/2025/11/Baidu-Unveils-Two-New-AI-Chips-To-Replace-US-Chips-scaled.webp",
+        "date": "Mar 31, 2026",
+        "url": "https://catenaa.com/markets/equities/super-micro-computer-investors-look-for-exits/"
+    },
+    {
+        "id": "t11vh25tr",
+        "title": "Visa and Ramp Launch AI Agents to Automate Corporate Bill Pay",
+        "excerpt": "Visa and financial operations platform Ramp have unveiled AI-powered agents that streamline corporate bill payments, cut manual effort, and drive cost savings for businesses.",
+        "content": "<p>Visa and financial operations platform Ramp are introducing artificial intelligence (AI) agents that automate corporate bill pay, reduce manual work, curb spend and unlock savings, the companies said in a Tuesday (March 31) press release. These agents will pr…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/Visa-ramp-b2b-payments-AI-agents.jpeg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.pymnts.com/news/b2b-payments/2026/visa-and-ramp-develop-ai-agents-for-corporate-bill-pay/"
+    },
+    {
+        "id": "okfltt2vf",
+        "title": "Delta Picks Amazon Leo to Offer Up To 1Gbps Internet on Planes While Crossing the Ocean",
+        "excerpt": "The post Delta Picks Amazon Leo to Offer Up To 1Gbps Internet on Planes While Crossing the Ocean appeared first on Android Headlines.",
+        "content": "<p>The post Delta Picks Amazon Leo to Offer Up To 1Gbps Internet on Planes While Crossing the Ocean appeared first on Android Headlines.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.androidheadlines.com/wp-content/uploads/2026/03/Amazon-Leo-Delta-Air-Lines-Wi-Fi-deal-partnership.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.androidheadlines.com/2026/03/delta-amazon-leo-satellite-wi-fi-planes-2028-launch.html"
+    },
+    {
+        "id": "o9vdq0ju5",
+        "title": "AI Already Hiding in Your Favorite Apps, Here's How",
+        "excerpt": "Artificial intelligence is no longer confined to labs; it powers many of the apps you open every day without you even noticing.",
+        "content": "<p>Streaming services like Netflix and Spotify use AI to recommend shows and songs that match your taste.</p><p>Navigation<p>Navigation apps such as Google Maps and Waze rely on machine learning to predict traffic and suggest the fastest routes.</p><p>Online retailers including Amazon and eBay apply AI for product suggestions, dynamic pricing, and fraud detection.</p>",
+        "celebrities": [
+            "Netflix",
+            "Spotify",
+            "Google Maps",
+            "Amazon",
+            "eBay"
+        ],
+        "category": "Tech",
+        "image_url": "https://i0.wp.com/www.gottabemobile.com/wp-content/uploads/2026/03/Apps-open-e1774986390680.jpg?resize=1000%2C600&ssl=1",
+        "date": "Mar 31, 2026",
+        "url": "https://www.gottabemobile.com/ai-in-everyday-apps/"
+    },
+    {
+        "id": "fbjvi7q2t",
+        "title": "PolyU launches accredited MSc in Dietetics programme to train next generation of nutrition leaders",
+        "excerpt": "The Hong Kong Polytechnic University has introduced a new accredited Master of Science in Dietetics to meet rising demand for skilled nutrition professionals. The programme aims to equip graduates with advanced clinical and public health expertise.",
+        "content": "<p>The PolyU MSc in Dietetics received accreditation from the Hong Kong Council for Accreditation of Academic and Vocational Qualifications. It combines coursework in nutritional science, clinical practice, and research methods with supervised placements in hospitals and community settings.</p><p>Graduates will be eligible to apply for registration as dietitians and pursue careers in healthcare, food industry, or public health policy. The university says the programme supports Hong Kong's goal of strengthening its healthcare workforce amid an ageing population.</p>",
+        "celebrities": [
+            "The Hong Kong Polytechnic University",
+            "PolyU",
+            "MSc in Dietetics",
+            "Hong Kong",
+            "March 2026"
+        ],
+        "category": "Science",
+        "image_url": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/03/media2_2946585_image_5010259_23920857_FB.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.bastillepost.com/global/article/5735903-polyu-launches-accredited-msc-in-dietetics-programme-to-train-next-generation-of-nutrition-leaders"
+    },
+    {
+        "id": "nmvlu0zvm",
+        "title": "Combat Veteran and Lifestyle Medicine Physician Shapes Digital Health",
+        "excerpt": "Regan A. Stiegmann, DO, MPH, blends military service, osteopathic medicine and lifestyle expertise to drive digital health innovation. His work bridges veteran care and technology to improve patient outcomes.",
+        "content": "<p>Regan A. Stiegmann, DO, MPH, commissioned into the U.S. Air Force in 2011 and served as a flight surgeon, bringing osteopathic principles to military medicine.</p><p>Today he leverages his background in lifestyle medicine and digital innovation to help design health technologies that support veterans and improve preventive care.</p>",
+        "celebrities": [
+            "Regan A. Stiegmann",
+            "U.S. Air Force",
+            "Osteopathic.org",
+            "Lifestyle Medicine",
+            "Digital Health"
+        ],
+        "category": "Sports",
+        "image_url": "http://thedo.osteopathic.org/wp-content/uploads/2025/12/Stiegmann-DOs-to-Know.png",
+        "date": "Mar 31, 2026",
+        "url": "https://thedo.osteopathic.org/columns/how-this-combat-veteran-and-lifestyle-medicine-physician-is-helping-shape-digital-health/"
+    },
+    {
+        "id": "2i1ksatwa",
+        "title": "IGEL Partners with Exclusive Networks to Expand Security Channel Ecosystem",
+        "excerpt": "The agreement strengthens IGEL's security-led distribution strategy and channel reach while using Exclusive Networks' CyberLAB validation environment to improve partner enablement.",
+        "content": "<p>IGEL announced a partnership with Exclusive Networks to expand its security channel ecosystem.</p><p>The deal leverages Exclusive Networks' CyberLAB validation environment to enhance partner enablement and support IGEL's security-led distribution strategy.</p><p>Both companies said the collaboration will strengthen IGEL's global reach and provide partners with validated security solutions.</p>",
+        "celebrities": [
+            "IGEL",
+            "Exclusive Networks",
+            "CyberLAB",
+            "Security",
+            "Channel"
+        ],
+        "category": "Breaking",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/igel-announces-new-partnership-with-exclusive-networks-at-no.png",
+        "date": "Mar 31, 2026",
+        "url": "https://financialpost.com/globe-newswire/igel-partners-with-exclusive-networks-to-expand-its-security-channel-ecosystem"
+    },
+    {
+        "id": "2lpnbdixf",
+        "title": "Fans Voice Uniform Frustration as Super Bowl 2029 Returns to Las Vegas",
+        "excerpt": "After the NFL confirmed Las Vegas will host the 2029 Super Bowl, fans flooded social media with a shared sense of disappointment.",
+        "content": "<p>The league announced that Allegiant Stadium will once again serve as the venue for football's championship game, marking the second time Las Vegas has been chosen in recent years.</p><p>Online reactions highlighted concerns over rising travel costs, limited hotel availability, and the perception that the city prioritizes spectacle over tradition, with many users echoing the same frustration across platforms.</p>",
+        "celebrities": [
+            "NFL",
+            "Las Vegas",
+            "Super Bowl",
+            "Allegiant Stadium",
+            "Twitter"
+        ],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/hitc_articles_832/354fef59e6ff31b3910c4590b89a2bf0",
+        "date": "Mar 31, 2026",
+        "url": "https://www.hitc.com/nfl-fans-all-feel-the-same-about-super-bowl-2029-returning-to-las-vegas/"
+    },
+    {
+        "id": "yg8wp56p4",
+        "title": "Berserk's Legacy Continues as New Chapters Head to America",
+        "excerpt": "Following Kentaro Miura's passing, writer Kouji Mori and Studio Gaga have kept Berserk alive, and the series is now set for an American release.",
+        "content": "<p>Since the death of legendary creator Kentaro Miura, the dark fantasy series Berserk has been carried forward by writer Kouji Mori and the artists at Studio Gaga. Their collaboration has produced new chapters that stay true to Miura's vision while adding fresh momentum to the saga.</p><p>After a hiatus of several months, the latest installments are preparing for debut in North America through a partnership with GEMBA. Fans can expect the grim tale of Guts and his companions to reach American shelves soon, marking a significant milestone for the franchise.</p>",
+        "celebrities": [
+            "Berserk",
+            "Kentaro Miura",
+            "Kouji Mori",
+            "Studio Gaga",
+            "GEMBA"
+        ],
+        "category": "World",
+        "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2026/03/Berserk.jpg?resize=2000,1125",
+        "date": "Mar 31, 2026",
+        "url": "http://comicbook.com/anime/news/berserk-writers-classic-series-finally-coming-to-america/"
+    },
+    {
+        "id": "50u030mw8",
+        "title": "United Airlines Gives Hated CRJ200 a Premium Makeover with First Class and Bigger Bins",
+        "excerpt": "The carrier is transforming its aging 50-seat Bombardier CRJ-200 fleet into the new CRJ450, adding a first-class cabin and overhead bins that finally fit standard carry-on luggage.",
+        "content": "<p>United Airlines announced in March that it would refurbish its two-decade-old Bombardier CRJ-200 aircraft, a model long criticized for cramped seats and tiny storage.</p><p>The revamp, dubbed the CRJ450, introduces a small first-class section with extra legroom and redesigned overhead bins that accommodate today’s standard carry-on bags.</p><p>By adding these premium touches, United hopes to improve passenger perception and make its regional flights more competitive on short-haul routes.</p>",
+        "celebrities": [
+            "United Airlines",
+            "CRJ450",
+            "Bombardier",
+            "Business Insider",
+            "Regional Jet"
+        ],
+        "category": "Business",
+        "image_url": "https://i.insider.com/69cc07bcc02a678bd7e469c1?width=954&format=jpeg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.businessinsider.com/united-airlines-regional-jet-crj200-revamp-photos-crj450-new-2026-3"
+    },
+    {
         "id": "vzq85lkau",
         "title": "Typewriters vs. ChatGPT: How One Professor Is Banning AI From the Classroom",
         "excerpt": "In an era of AI-generated essays, one professor is making students type the old-fashioned way—no copy, no paste, no chatbots.",
