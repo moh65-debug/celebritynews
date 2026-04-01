@@ -5,11 +5,122 @@ export interface Article {
     content: string;
     image_url: string;
     date: string;
-    celebrities: string[];
+    celebrities: string[];   // repurposed as general topic tags
+    category: string;
     url?: string;
 }
 
 export const articles: Article[] = [
+    {
+        "id": "52y14fqad",
+        "title": "Two physicists and a curious host walk into a studio…",
+        "excerpt": "On GBH’s new show The Curiosity Desk, MIT LIGO researchers revel in the beauties of fundamental discovery science and MIT astronomers talk planetary defense.",
+        "content": "<p>This March on The Curiosity Desk, GBHs daily science show with host Edgar B. Herwick III, MIT scientists dropped by to address the questions: How close are we to observing the dark universe? (Thursda… [+5691 chars]</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://news.mit.edu/sites/default/files/images/202603/Nergis%20GBH.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://news.mit.edu/2026/two-physicists-and-curious-host-walk-studio"
+    },
+    {
+        "id": "6f8gj6llk",
+        "title": "Trail Blazers at Clippers Prediction: Odds, recent stats, trends, and best bets for March 31",
+        "excerpt": "Portland Trail Blazers at Los Angeles Clippers Game Preview",
+        "content": "<p>The Portland Trail Blazers (38-38) and Los Angeles Clippers (39-36) meet on NBC and Peacock at 11 PM Eastern for their second to last meeting of the season. Los Angeles is 2-0 against Portland this s… [+4658 chars]</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/iTPZnJ2OLJgjJT17.6oofQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/nbcsports.com/89fd43580862001b645e6710e6913615",
+        "date": "Mar 31, 2026",
+        "url": "https://www.nbcsports.com/betting/nba/news/trail-blazers-at-clippers-prediction-odds-recent-stats-trends-and-best-bets-for-march-31"
+    },
+    {
+        "id": "1n65ak535",
+        "title": "Afro Index, National Poetry Month, Snapchat, More: Tuesday ResearchBuzz, March 31, 2026",
+        "excerpt": "NEW RESOURCES Found in my RSS feeds: Afro Index. From the About page: “Afro Index is an attempt to build a structured, culturally informed reference system: one that reflects the real range, […]",
+        "content": "<p>NEW RESOURCES \r\nFound in my RSS feeds: Afro Index. From the About page: “Afro Index is an attempt to build a structured, culturally informed reference system: one that reflects the real range, techni… [+5028 chars]</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
+        "date": "Mar 31, 2026",
+        "url": "https://researchbuzz.me/2026/03/31/afro-index-national-poetry-month-snapchat-more-tuesday-researchbuzz-march-31-2026/"
+    },
+    {
+        "id": "uzjct3y9i",
+        "title": "2 years after Musk challenged Zuckerberg to a cage match, they were texting about DOGE and a joint OpenAI bid, court records reveal",
+        "excerpt": "\"Looks like DOGE is making progress,\" Zuckerberg wrote to Musk, according to newly unredacted court filings. “Let me know if there's anything else I can do to help.”",
+        "content": "<p>Mark Zuckerberg texted Elon Musk asking if he could assist him with Department of Government Efficiency (DOGE) efforts last year, according to newly released court documents.The newly unredacted fili… [+3713 chars]</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2194353935-e1774972037999.jpg?resize=1200,600",
+        "date": "Mar 31, 2026",
+        "url": "https://fortune.com/2026/03/31/elon-musk-mark-zuckerberg-doge-openai-takeover-court-documents/"
+    },
+    {
+        "id": "d4yg8qr5y",
+        "title": "Missiles and misses: The Iran war is rewriting the future of war",
+        "excerpt": "America's Precision Strike Missile and AI targeting systems are being tested in the Iran conflict.  New drones are adapting enemy tech. Iran demonstrated long-range strike capability. This war is a laboratory for future warfare, shaping how weapons are develo…",
+        "content": "<p>The arrival of America's Precision Strike Missile (PrSM) on the Iran battlefield has quietly marked a turning point in the ongoing war. What began as a regional escalation is now doubling as a provin… [+8002 chars]</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://img.etimg.com/thumb/msid-129930830,width-1200,height-630,imgsize-41992,overlay-etdefence/articleshow.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://economictimes.indiatimes.com/news/defence/missiles-and-misses-missile-crude-israel-kharg-the-iran-war-is-rewriting-the-future-of-war/articleshow/129930718.cms"
+    },
+    {
+        "id": "bsfiyuknc",
+        "title": "US pump prices hit $4 a gallon",
+        "excerpt": "The US national average retail price of gasoline crossed $4 a gallon for the first time in more than three years on Monday, data from price tracking services GasBuddy showed, as the US-Israeli war with Iran continued to roil global energy markets.",
+        "content": "<p>The US national average retail price of gasoline crossed $4 a gallon for the first time in more than three years on Monday, data from price tracking services GasBuddy showed, as the US-Israeli war wi… [+2797 chars]</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.rte.ie/images/002425b6-1600.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.rte.ie/news/business/2026/0331/1566126-us-petrol-prices/"
+    },
+    {
+        "id": "7mstbt5i4",
+        "title": "Meet the 21-year-old media exec who wants TikTok shows to be taken seriously",
+        "excerpt": "Rowan Winch, Fallen Media's cofounder, manages viral TikTok shows. He's had an \"unorthodox\" career path.",
+        "content": "<p>Rowan Winch cofounded Fallen Media at TKage.Sydney Bradley\r\n<ul><li>Fallen Media is the company behind many viral TikTok shows, like \"What's Poppin? With Davis!\"</li><li>Its cofounder, Rowan Winch, s… [+5714 chars]</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://i.insider.com/69c1b3c55b58f1f0f93366aa?width=1200&format=jpeg",
+        "date": "Mar 31, 2026",
+        "url": "https://www.businessinsider.com/fallen-media-young-cofounder-rowan-winch-tiktok-viral-shows-2026-3"
+    },
+    {
+        "id": "bvv6v28mg",
+        "title": "Pentagon Demands Retraction Over Hegseth Investment Claim",
+        "excerpt": "The Pentagon is demanding a retraction of a ‘Financial Times’ report that Pete Hegseth’s broker inquired about investing millions in defense contractors just before the Iran war began.",
+        "content": "<p>The Pentagon is demanding a retraction after a FinancialTimes report alleged that Defense secretary Pete Hegseths broker attempted to make a sizable investment in some of Americas largest defense com… [+2168 chars]</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://pyxis.nymag.com/v1/imgs/688/8b7/a63f13972b9380db37c9c68a4b8ee85b1a-hegseth-lawyer.1x.rsocial.w1200.jpg",
+        "date": "Mar 31, 2026",
+        "url": "http://nymag.com/intelligencer/article/dod-denies-hegseths-broker-sought-preiran-war-investment.html"
+    },
+    {
+        "id": "bjry6upnt",
+        "title": "Canada takes over the world! Okay… just the movie screens",
+        "excerpt": "National Canadian Film Day returns on April 15 with more international screenings than ever before TORONTO, March 31, 2026 (GLOBE NEWSWIRE) — There’s no better way to understand each other and our place in the world, than by sharing our stories. Case in point…",
+        "content": "<p>National Canadian Film Day returns on April 15 with more international screenings than ever before\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city a… [+6427 chars]</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/national-canadian-film-day-is-april-15-2026.jpeg",
+        "date": "Mar 31, 2026",
+        "url": "https://financialpost.com/globe-newswire/canada-takes-over-the-world-okay-just-the-movie-screens"
+    },
+    {
+        "id": "8xqjxr72l",
+        "title": "Dexter: Resurrection Season 2 Filming Starts in Less Than 2 Weeks",
+        "excerpt": "\"We've been greenlit for another season. There's more to come. The writers' room is assembling now. Details will be forthcoming, but I wanted to be the first to let you know that the story continues.\" That's what series star and EP Michael C. Hall had to shar…",
+        "content": "<p>Posted in: Paramount+, Showtime, TV | Tagged: dexter, dexter: resurrection\r\nDirector/EP Marcos Siega announced that filming on Michael C. Hall-starring Dexter: Resurrection Season 2 begins in less th… [+4929 chars]</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2025/10/DXR_110_ZD_0610_0502_RT-1-2000x1125.jpg",
+        "date": "Mar 31, 2026",
+        "url": "https://bleedingcool.com/tv/dexter-resurrection-season-2-filming-starts-in-less-than-2-weeks/"
+    },
     {
         "id": "ph7fcpprf",
         "title": "Football Stars' Secret Obsession: How Chess Is Taking Over the Premier League!",
