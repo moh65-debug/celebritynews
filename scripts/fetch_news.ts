@@ -193,7 +193,7 @@ Rewrite this into a compelling news article. Rules:
                 'X-Title': 'Trending News'
             },
             body: JSON.stringify({
-                model: 'stepfun/step-3.5-flash:free',
+                model: 'nvidia/nemotron-3-super-120b-a12b:free',
                 max_tokens: 1024,
                 messages: [{ role: 'user', content: prompt }],
                 response_format: { type: 'json_object' }
