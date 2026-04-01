@@ -19,11 +19,100 @@ const TRENDING_QUERIES = [
     { q: 'world news conflict',        label: 'World' },
 ];
 
-// How many articles to fetch per query (total budget: ARTICLES_PER_QUERY × queries)
-const ARTICLES_PER_QUERY = 3;
-// Max new articles to enhance per run (AI calls are slow — keep reasonable)
+// Fetch more per query so quality filter has enough to work with
+const ARTICLES_PER_QUERY = 5;
+// Max new articles to enhance per run
 const MAX_NEW_PER_RUN = 10;
 // No cap on total articles — keep everything
+
+// ─────────────────────────────────────────────
+// Quality filtering
+// ─────────────────────────────────────────────
+const JUNK_KEYWORDS = [
+    'male enhancement', 'weight loss supplement', 'keto gummies', 'cbd gummies',
+    'crypto presale', 'presale', 'affiliate', 'sponsored', 'buy now', 'limited offer',
+    'game pass', 'playstation plus', 'xbox game pass', 'free trial',
+    'review roundup', 'best vpn', 'best antivirus', 'penis', 'erect',
+    'earn money', 'work from home', 'make money online',
+];
+
+const TRUSTED_SOURCES = new Set([
+    'bbc news', 'reuters', 'associated press', 'the guardian', 'the new york times',
+    'washington post', 'bloomberg', 'financial times', 'al jazeera', 'npr',
+    'cnn', 'abc news', 'nbc news', 'cbs news', 'sky news', 'the economist',
+    'techcrunch', 'the verge', 'wired', 'ars technica', 'mit technology review',
+    'espn', 'sports illustrated', 'the athletic',
+    'rolling stone', 'variety', 'the hollywood reporter', 'entertainment weekly',
+    'politico', 'axios', 'the hill', 'foreign policy',
+    'nature', 'science', 'new scientist',
+    'fortune', 'forbes', 'business insider', 'wall street journal',
+    'time', 'newsweek', 'usa today', 'los angeles times', 'the independent',
+    'huffpost', 'vice', 'buzzfeed news', 'the atlantic',
+]);
+
+interface NewsArticle {
+    title: string;
+    description: string;
+    content: string;
+    urlToImage: string;
+    publishedAt: string;
+    url: string;
+    source: { name: string };
+}
+
+function isQualityArticle(a: NewsArticle): boolean {
+    if (!a.title || a.title === '[Removed]') return false;
+    if (!a.urlToImage) return false;
+    if (!a.description || a.description.length < 40) return false;
+
+    const text = `${a.title} ${a.description}`.toLowerCase();
+    if (JUNK_KEYWORDS.some(kw => text.includes(kw))) return false;
+
+    // Allow unlisted sources only if description is substantial (>100 chars)
+    const sourceName = (a.source?.name ?? '').toLowerCase();
+    if (!TRUSTED_SOURCES.has(sourceName) && a.description.length < 100) return false;
+
+    return true;
+}
+
+// ─────────────────────────────────────────────
+// Robust JSON extraction from AI response
+// ─────────────────────────────────────────────
+function safeParseAIJson(raw: string): Record<string, any> | null {
+    if (!raw) return null;
+
+    // Strip markdown fences
+    let cleaned = raw
+        .replace(/^```json\s*/i, '')
+        .replace(/^```\s*/i, '')
+        .replace(/```\s*$/i, '')
+        .trim();
+
+    // Attempt 1: direct parse
+    try { return JSON.parse(cleaned); } catch (_) {}
+
+    // Attempt 2: extract first { ... } block
+    const start = cleaned.indexOf('{');
+    const end   = cleaned.lastIndexOf('}');
+    if (start !== -1 && end > start) {
+        try { return JSON.parse(cleaned.slice(start, end + 1)); } catch (_) {}
+    }
+
+    // Attempt 3: truncated JSON — close open strings/arrays/object
+    if (start !== -1) {
+        try {
+            let partial = cleaned.slice(start);
+            // Drop an incomplete trailing key or value
+            partial = partial.replace(/,\s*"[^"]*$/, '');
+            partial = partial.replace(/:\s*"[^"]*$/, ': ""');
+            const openArrays = (partial.match(/\[/g) ?? []).length - (partial.match(/\]/g) ?? []).length;
+            partial += ']'.repeat(Math.max(0, openArrays)) + '}';
+            return JSON.parse(partial);
+        } catch (_) {}
+    }
+
+    return null;
+}
 
 interface Article {
     id: string;
@@ -37,16 +126,6 @@ interface Article {
     url?: string;
 }
 
-interface NewsArticle {
-    title: string;
-    description: string;
-    content: string;
-    urlToImage: string;
-    publishedAt: string;
-    url: string;
-    source: { name: string };
-}
-
 interface EnhancedContent {
     title: string;
     excerpt: string;
@@ -58,7 +137,6 @@ interface EnhancedContent {
 // Fetch trending articles for a single query
 // ─────────────────────────────────────────────
 async function fetchForQuery(q: string, pageSize: number): Promise<NewsArticle[]> {
-    // Use 'publishedAt' sorting and a short lookback (last 48 h) for maximum recency
     const since = new Date(Date.now() - 48 * 60 * 60 * 1000).toISOString();
     const url =
         `https://newsapi.org/v2/everything` +
@@ -76,40 +154,34 @@ async function fetchForQuery(q: string, pageSize: number): Promise<NewsArticle[]
         console.warn(`  ⚠ NewsAPI error for "${q}": ${data.message}`);
         return [];
     }
-    return (data.articles as NewsArticle[]).filter(
-        a => a.title && a.title !== '[Removed]' && a.urlToImage
-    );
+    return (data.articles as NewsArticle[]).filter(isQualityArticle);
 }
 
 // ─────────────────────────────────────────────
-// AI enhancement — now topic-agnostic
+// AI enhancement — topic-agnostic
 // ─────────────────────────────────────────────
 async function enhanceWithAI(article: NewsArticle, category: string): Promise<EnhancedContent> {
-    const prompt = `
-You are a sharp, engaging news editor for a trending news website that covers everything — politics, tech, sports, entertainment, science, business, and world affairs.
+    // Sanitise inputs so the AI does not produce broken JSON
+    const sanitise = (s: string) => (s ?? '')
+        .replace(/\[\+\d+ chars\]/g, '')
+        .replace(/[\u0000-\u001F\u007F]/g, ' ')  // strip control chars
+        .trim()
+        .slice(0, 800);                            // cap length to avoid truncation
 
-Enhance the following article. Make it compelling, accurate, and reader-friendly.
+    const prompt = `You are a sharp news editor for a trending news website.
 
 Category: ${category}
 Source: ${article.source?.name || 'Unknown'}
-Original Title: ${article.title}
-Original Description: ${article.description || ''}
-Original Content: ${article.content || ''}
+Title: ${sanitise(article.title)}
+Description: ${sanitise(article.description)}
+Content: ${sanitise(article.content)}
 
-Tasks:
-1. Rewrite the Title to be punchy and click-worthy (but not clickbait — keep it factual).
-2. Write a one-sentence Excerpt that hooks the reader immediately.
-3. Rewrite the Content as 2–4 engaging paragraphs in a lively, professional tone.
-4. Extract up to 5 Tags — key people, companies, topics, or places mentioned (e.g. "Elon Musk", "OpenAI", "NBA", "Gaza", "Federal Reserve"). Use proper names/nouns only.
-
-Return ONLY a valid JSON object — no markdown, no extra text:
-{
-  "title": "New Title",
-  "excerpt": "One-sentence hook.",
-  "content": "<p>Paragraph 1</p><p>Paragraph 2</p>",
-  "tags": ["Tag1", "Tag2"]
-}
-`.trim();
+Rewrite this into a compelling news article. Rules:
+- Use ONLY ASCII characters — no curly quotes, em-dashes, or special symbols.
+- Keep content paragraphs short (2-3 sentences each).
+- Return ONLY a JSON object with keys: title, excerpt, content, tags.
+- content value: 2-3 <p> tags with plain ASCII text inside.
+- tags value: array of up to 5 proper noun strings.`;
 
     try {
         const response = await fetch(OPENROUTER_URL, {
@@ -122,27 +194,32 @@ Return ONLY a valid JSON object — no markdown, no extra text:
             },
             body: JSON.stringify({
                 model: 'stepfun/step-3.5-flash:free',
+                max_tokens: 700,
                 messages: [{ role: 'user', content: prompt }],
                 response_format: { type: 'json_object' }
             })
         });
 
         const data: any = await response.json();
-        const raw = data.choices?.[0]?.message?.content ?? '{}';
-        const result = JSON.parse(raw);
+        const raw = data.choices?.[0]?.message?.content ?? '';
+        const result = safeParseAIJson(raw);
+
+        if (!result) {
+            throw new Error(`Unparseable response: ${raw.slice(0, 100)}`);
+        }
 
         return {
-            title:   result.title   || article.title,
-            excerpt: result.excerpt || article.description || '',
-            content: result.content || `<p>${article.content || ''}</p>`,
-            tags:    Array.isArray(result.tags) ? result.tags : [],
+            title:   typeof result.title   === 'string' && result.title   ? result.title   : article.title,
+            excerpt: typeof result.excerpt === 'string' && result.excerpt ? result.excerpt : article.description,
+            content: typeof result.content === 'string' && result.content ? result.content : `<p>${article.description}</p>`,
+            tags:    Array.isArray(result.tags) ? result.tags.filter((t: any) => typeof t === 'string') : [],
         };
     } catch (error) {
-        console.error('  ✗ AI enhancement failed:', error);
+        console.warn(`  ⚠ AI fallback used: ${(error as Error).message}`);
         return {
             title:   article.title,
             excerpt: article.description || 'No excerpt available.',
-            content: `<p>${(article.content || '').replace(/\[\+\d+ chars\]/, '')}</p>`,
+            content: `<p>${(article.description || '').trim()}</p>`,
             tags:    [],
         };
     }
@@ -155,7 +232,6 @@ async function fetchAndEnhanceNews() {
     const dataPath = path.resolve('src/data.ts');
     let existingArticles: Article[] = [];
 
-    // ── Load existing articles ──────────────────
     if (fs.existsSync(dataPath)) {
         try {
             const content = fs.readFileSync(dataPath, 'utf8');
@@ -165,11 +241,11 @@ async function fetchAndEnhanceNews() {
             console.error('Failed to read existing articles:', e);
         }
     }
-    const existingUrls  = new Set(existingArticles.map(a => a.url));
+
+    const existingUrls   = new Set(existingArticles.map(a => a.url));
     const existingTitles = new Set(existingArticles.map(a => a.title));
     console.log(`📰 Currently have ${existingArticles.length} articles.\n`);
 
-    // ── Fetch from all topic queries in parallel ─
     console.log('🌐 Fetching trending news from NewsAPI across all topics...');
     const fetchResults = await Promise.allSettled(
         TRENDING_QUERIES.map(({ q, label }) =>
@@ -177,7 +253,6 @@ async function fetchAndEnhanceNews() {
         )
     );
 
-    // Collect unique raw articles, preserving their category label
     const seen = new Set<string>();
     const candidates: Array<{ art: NewsArticle; label: string }> = [];
 
@@ -185,21 +260,16 @@ async function fetchAndEnhanceNews() {
         if (result.status !== 'fulfilled') continue;
         const { arts, label } = result.value;
         for (const art of arts) {
-            if (
-                !seen.has(art.url) &&
-                !existingUrls.has(art.url) &&
-                !existingTitles.has(art.title)
-            ) {
+            if (!seen.has(art.url) && !existingUrls.has(art.url) && !existingTitles.has(art.title)) {
                 seen.add(art.url);
                 candidates.push({ art, label });
             }
         }
     }
 
-    // Sort candidates by publishedAt descending (most recent first)
-    candidates.sort(
-        (a, b) =>
-            new Date(b.art.publishedAt).getTime() - new Date(a.art.publishedAt).getTime()
+    // Most recent first
+    candidates.sort((a, b) =>
+        new Date(b.art.publishedAt).getTime() - new Date(a.art.publishedAt).getTime()
     );
 
     const toProcess = candidates.slice(0, MAX_NEW_PER_RUN);
@@ -209,9 +279,8 @@ async function fetchAndEnhanceNews() {
         return;
     }
 
-    console.log(`\n✨ Found ${candidates.length} new unique articles. Enhancing ${toProcess.length} with AI...\n`);
+    console.log(`\n✨ Found ${candidates.length} quality candidates. Enhancing top ${toProcess.length} with AI...\n`);
 
-    // ── Enhance each article with AI ────────────
     const newlyEnhanced: Article[] = [];
 
     for (const [i, { art, label }] of toProcess.entries()) {
@@ -219,24 +288,22 @@ async function fetchAndEnhanceNews() {
         const enhanced = await enhanceWithAI(art, label);
 
         newlyEnhanced.push({
-            id:         Math.random().toString(36).substr(2, 9),
-            title:      enhanced.title,
-            excerpt:    enhanced.excerpt,
-            content:    enhanced.content,
-            celebrities: enhanced.tags,   // field kept for backward-compat with existing UI
-            category:   label,
-            image_url:  art.urlToImage || 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=2670&auto=format&fit=crop',
-            date:       new Date(art.publishedAt).toLocaleDateString('en-US', {
-                            month: 'short', day: 'numeric', year: 'numeric'
-                        }),
-            url:        art.url,
+            id:          Math.random().toString(36).substr(2, 9),
+            title:       enhanced.title,
+            excerpt:     enhanced.excerpt,
+            content:     enhanced.content,
+            celebrities: enhanced.tags,
+            category:    label,
+            image_url:   art.urlToImage || 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=2670&auto=format&fit=crop',
+            date:        new Date(art.publishedAt).toLocaleDateString('en-US', {
+                             month: 'short', day: 'numeric', year: 'numeric'
+                         }),
+            url:         art.url,
         });
     }
 
-    // ── Merge, deduplicate, cap ──────────────────
     const combined = [...newlyEnhanced, ...existingArticles];
 
-    // ── Write back to data.ts ────────────────────
     const fileContent = `export interface Article {
     id: string;
     title: string;
