@@ -11,6 +11,66 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ph7fcpprf",
+        "title": "Football Stars' Secret Obsession: How Chess Is Taking Over the Premier League!",
+        "excerpt": "From the pitch to the chessboard, football's biggest names are hooked on a game that's captivating the world.",
+        "content": "<p>Move over, football! Chess is making a major comeback, and it’s all thanks to some of the Premier League’s biggest stars. Manchester City’s Erling Haaland and Liverpool’s Mohamed Salah are just two of the football icons who’ve admitted to being \"addicted\" to the strategic board game. And let’s be real, if it’s good enough for these legends, it’s got to be worth checking out, right?</p><p>Haaland, known for his lightning-fast goals, has been spotted diving into chess matches during downtime, proving that even the most athletic minds crave a mental challenge. Salah, on the other hand, has been sharing his chess victories on social media, inspiring fans to pick up a board and join the craze. It’s not just about the game—it’s about the strategy, the focus, and the thrill of outsmarting your opponent.</p><p>But Haaland and Salah aren’t the only ones. Reports suggest that other Premier League stars are also getting in on the action, turning chess into the latest trend among footballers. Could this be the secret to their success on the field? Or maybe it’s just a fun way to unwind after a high-pressure match. Either way, chess is officially cool again, and it’s all thanks to these football superstars.</p><p>So, what’s next? Will we see chess tournaments replacing post-match interviews? Or maybe a celebrity chess league featuring your favorite athletes? One thing’s for sure: the chess boom is here, and it’s got the football world buzzing. Time to dust off that old chessboard and see if you’ve got what it takes to compete with the pros!</p>",
+        "celebrities": [
+            "Erling Haaland",
+            "Mohamed Salah"
+        ],
+        "image_url": "https://s.yimg.com/os/en/afp.com/5e5f3efd925460bbabf4091a7152aae8",
+        "date": "Mar 31, 2026",
+        "url": "https://sports.yahoo.com/articles/mind-games-football-stars-fuelling-020746903.html"
+    },
+    {
+        "id": "8tuc7f0x7",
+        "title": "Kangaroo's Wild Getaway Ends in Cozy Homecoming After Three Days on the Run",
+        "excerpt": "The denim-diaper-clad marsupial's daring escape from a Wisconsin zoo has come to a heartwarming conclusion.",
+        "content": "<p>The search is over! Chesney, the denim-diaper-wearing kangaroo who staged a dramatic prison break from a small-town Wisconsin petting zoo, has been found safe and sound after three days on the lam.</p><p>The adventurous marsupial managed to hop over an eight-foot fence, sparking a three-day manhunt that had locals and animal lovers on high alert. Chesney's daring escape and subsequent capture have become the talk of the town, with many marveling at the kangaroo's Houdini-like abilities.</p>",
+        "celebrities": [],
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/03/COMP-2-4.jpg?quality=75&strip=all&w=1200",
+        "date": "Mar 31, 2026",
+        "url": "https://nypost.com/2026/03/30/us-news/denim-diaper-wearing-kangaroo-found-safe-and-sound-three-days-after-daring-escape-from-wisconsin-zoo/"
+    },
+    {
+        "id": "eba2zhca2",
+        "title": "Crypto Chaos: Pepeto's $8.5M Presale Ignites Frenzy as XRP Eyes $20 and Trump Fuels Bull Run Hype",
+        "excerpt": "Pepeto’s DeFi exchange just got a major security glow-up, and the presale is breaking records—could this be the next big crypto romance?",
+        "content": "<p>Move over, Hollywood—crypto’s stealing the spotlight! Pepeto’s DeFi exchange just dropped a major security upgrade, and the presale is breaking hearts (and records) with a jaw-dropping $8.5 million raised in record time. This isn’t just a presale—it’s a full-blown crypto love affair.</p><p>But wait, there’s more! XRP is flirting with a $20 price target, and Trump’s gearing up to fuel a bull run that could make Wall Street blush. Is this the start of a crypto fairy tale, or just another plot twist in the wild world of digital assets? Stay tuned, because this drama is far from over.</p>",
+        "celebrities": [
+            "Trump"
+        ],
+        "image_url": "https://images.unsplash.com/photo-1519671482538-518b760640aa?q=80&w=2669&auto=format&fit=crop",
+        "date": "Mar 31, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/03/31/3265125/0/en/Crypto-News-Pepeto-Announces-Security-Upgrade-While-XRP-Price-Prediction-Targets-20-and-Trump-Prepares-for-Bull-Run.html"
+    },
+    {
+        "id": "a10rc4mjw",
+        "title": "Taylor Swift's Wedding Drama: Love, Lawsuits, and the Big Day with Travis Kelce",
+        "excerpt": "As Taylor Swift prepares for her fairy-tale wedding to Travis Kelce, a shocking legal battle threatens to steal the spotlight from her happily ever after.",
+        "content": "<p>While fans eagerly await Taylor Swift's highly anticipated wedding to NFL star Travis Kelce, the global pop sensation finds herself entangled in a legal dispute that could overshadow her big day. Sources close to the couple reveal that the legal challenge has thrown a wrench into their meticulously planned nuptials, leaving Swifties wondering if the drama will delay the dream wedding.</p><p>Despite the looming lawsuit, insiders say Swift and Kelce remain committed to their love story, with wedding preparations reportedly still in full swing. Will the legal drama be resolved in time for Swift to walk down the aisle in style? Stay tuned as this celebrity saga unfolds!</p>",
+        "celebrities": [
+            "Taylor Swift",
+            "Travis Kelce"
+        ],
+        "image_url": "https://phantom.estaticos-marca.com/ccc3ac4450f2e2ec2fa43af3e79c0bd2/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/31/17749185104296.png",
+        "date": "Mar 31, 2026",
+        "url": "https://www.marca.com/en/nfl/kansas-city-chiefs/2026/03/31/69cb1b95268e3e383e8b4597.html"
+    },
+    {
+        "id": "1389z0dfl",
+        "title": "Cardi B Wins Big as Judge Tosses Lawsuit Accusing Her of Stealing Beats",
+        "excerpt": "Cardi B just scored a major legal win, shutting down claims her hit 'Enough (Miami)' ripped off beats from another artist’s song.",
+        "content": "<p>Cardi B is celebrating another courtroom victory after a federal judge in Texas dismissed a copyright infringement lawsuit that accused her of stealing beats for her hit song 'Enough (Miami)' from the 2021 track 'Greasy Fr…'</p><p>The lawsuit, which claimed the rapper lifted the beats from the song featured in the show 'Reservation Dogs,' was thrown out, giving Cardi B yet another reason to keep her crown as the queen of the charts. The judge’s decision is a major win for the 'WAP' rapper, who continues to dominate both the music and legal worlds.</p>",
+        "celebrities": [
+            "Cardi B"
+        ],
+        "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/03/cardi-b-copyright-beats.jpg?crop=60px%2C0px%2C1740px%2C979px&resize=1600%2C900",
+        "date": "Mar 31, 2026",
+        "url": "http://www.rollingstone.com/music/music-news/cardi-b-lawsuit-enough-miami-reservation-dogs-song-1235539284/"
+    },
+    {
         "id": "fweisi2g4",
         "title": "All the latest in AI ‘music’",
         "excerpt": "AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush wor…",
@@ -558,65 +618,5 @@ export const articles: Article[] = [
         "image_url": "https://alltoc.com/cdn/1046/og.png",
         "date": "Mar 22, 2026",
         "url": "https://alltoc.com/tabloid/what-happened-with-zendaya-and-tom-holland-marriage-rumors"
-    },
-    {
-        "id": "jsez79yoy",
-        "title": "Valerie Cherish Is Back and AI Is the Punchline: HBO’s Comeback Returns After 11-Year Hiatus!",
-        "excerpt": "Valerie Cherish is making a comeback—literally—and this time, she’s taking on AI in the most Lisa Kudrow way possible.",
-        "content": "<p>Hold onto your sequined dresses, because Valerie Cherish is back, baby! After an 11.5-year hiatus, HBO’s cult comedy The Comeback is returning for its third season on March 22, and it’s bringing the drama, the laughs, and a whole lot of shade at AI. That’s right, Valerie’s tackling the hottest tech trend, and we can’t wait to see how she handles it.</p><p>But wait, there’s more! This isn’t just any comeback—it’s a meta-masterpiece. The show’s long gaps between seasons (9 years between Season 1 and 2, and now 11.5 years since then) are almost as legendary as Valerie herself. And if you thought the wait was brutal, just imagine how Valerie feels about being out of the spotlight for so long. Spoiler: She’s not thrilled.</p><p>Meanwhile, HBO’s comedy queen Amy Gravitt is spilling all the tea on what’s next for the network, including a Full Slate of new shows and even a Big Bang Theory spinoff. Oh, and let’s not forget the eternal question: Will Larry David ever stop being Larry David? Stay tuned, because this season of The Comeback is about to be as messy, fabulous, and unpredictable as Valerie herself.</p>",
-        "celebrities": [
-            "Lisa Kudrow",
-            "Valerie Cherish",
-            "Amy Gravitt",
-            "Larry David"
-        ],
-        "image_url": "https://deadline.com/wp-content/uploads/2026/03/HBO_58c651.jpg?w=1024",
-        "date": "Mar 21, 2026",
-        "url": "http://deadline.com/2026/03/hbo-comedy-amy-gravitt-qa-the-comeback-rooster-lary-david-1236761435/"
-    },
-    {
-        "id": "nujla0qqa",
-        "title": "Bling for All! Titan’s Tanishq Takes a Bold Step into Men’s & Kids’ Jewelry",
-        "excerpt": "The iconic brand is shaking up the jewelry scene with a dazzling new move—stay tuned!",
-        "content": "<p>Move over, ladies! Titan’s beloved Tanishq is stepping into uncharted territory with a sparkling new venture that’s got everyone talking. The brand’s Mia by Tanishq line, long celebrated for its chic and feminine designs, is now gearing up to dazzle men and kids alike. Yes, you heard that right—jewelry for the dapper gents and the little trendsetters is finally here!</p><p>While these categories have been somewhat overlooked in the past, Tanishq is betting big on the growing appetite for stylish accessories among younger consumers. With this bold expansion, the brand is not just redefining its identity but also setting the stage for a glittering new era in the jewelry market. Could this be the start of a jewelry revolution? Only time will tell, but one thing’s for sure—Tanishq is ready to shine brighter than ever!</p>",
-        "celebrities": [],
-        "image_url": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/Ring_1718103390188_1774010574613.jpg",
-        "date": "Mar 21, 2026",
-        "url": "https://www.livemint.com/industry/retail/jewellery-retailers-expand-into-men-s-kids-categories-to-unlock-new-demand-11773985717946.html"
-    },
-    {
-        "id": "q71qszlr3",
-        "title": "Margot Robbie's Gin Dreams Crushed as Bars Say 'No Thanks' to Her Boozy Venture",
-        "excerpt": "Margot Robbie's latest business venture hits a major snag as UK bars refuse to stock her gin over shellfish allergy fears.",
-        "content": "<p>Margot Robbie's foray into the celebrity drinks market has hit a major roadblock, and it's not the kind of drama she's used to on set. The A-list actress, known for her roles in blockbusters like Barbie and The Wolf of Wall Street, is facing a bitter setback with her new gin brand.</p><p>RadarOnline.com has learned that UK bars are giving Robbie's gin the cold shoulder, and it's not because they're not fans of her work. The issue? A potential shellfish allergy risk that's got bar owners shaking their heads and saying 'no thanks' to stocking her spirits.</p><p>This unexpected turn of events has left Robbie's team scrambling to find a solution. Will she be able to overcome this hurdle and make her mark in the oversaturated celebrity drinks market? Or will this be a case of 'bottoms up' for her gin dreams?</p><p>As the story develops, we'll be keeping a close eye on how Robbie navigates this boozy business blunder. Stay tuned for more updates on this cocktail of celebrity gossip and entrepreneurial challenges.</p>",
-        "celebrities": [
-            "Margot Robbie"
-        ],
-        "image_url": "https://media.radaronline.com/brand-img/5ycyx5Dzu/1200x628/margot-robbie-drinks-brand-business-blow-1774039732594.jpg",
-        "date": "Mar 21, 2026",
-        "url": "https://radaronline.com/p/margot-robbie-drinks-brand-business-blow/"
-    },
-    {
-        "id": "f94iz09zw",
-        "title": "OMG! Is Social Media Destroying Our Daughters' Lives? 😱",
-        "excerpt": "From toxic trends to celebrity obsessions, here's why every parent needs to step up NOW!",
-        "content": "<p>Hey Parents, listen up! While social media is undeniably one of the greatest inventions of our time, it's also wreaking havoc on the minds of our young girls—one scroll at a time. 😱</p><p>Think about it: from toxic beauty standards to the pressure of keeping up with influencers, our daughters are drowning in a sea of unrealistic expectations. And let’s not even get started on the dangers of oversharing and online predators. Yikes!</p><p>But don’t panic just yet! With the right guidance and a little vigilance, we can help our girls navigate this digital jungle safely. It’s time to take charge, set boundaries, and remind them that their worth isn’t defined by likes or followers. 💪</p>",
-        "celebrities": [],
-        "image_url": "https://cdn.punchng.com/wp-content/uploads/2018/02/16211437/Temilolu-Okeowo-.jpg",
-        "date": "Mar 20, 2026",
-        "url": "https://punchng.com/may-social-media-not-ruin-the-lives-of-your-daughters/"
-    },
-    {
-        "id": "rv0w5ujc2",
-        "title": "Nick Sícaro Drops Bombshell: What He Really Thinks About Ian Lucas After Leaving Gran Hermano",
-        "excerpt": "Nick Sícaro reveals shocking truth about his bond with Ian Lucas post-Gran Hermano exit!",
-        "content": "<p>Nick Sícaro, the latest evictee from Gran Hermano Edición Dorada, is spilling all the tea! In a candid appearance on Intrusos this Friday, March 20, Nick opened up about his friendship with Ian Lucas, the reigning MasterChef Celebrity champ. Spoiler alert: it’s all about the love!</p><p>While fans were left guessing about their dynamic, Nick didn’t hold back, describing Ian as “a very affectionate person.” But that’s not all—he also dropped a bombshell about his own support system during the reality show, revealing that his friends weren’t exactly there for him when it mattered most. Drama, much?</p>",
-        "celebrities": [
-            "Nick Sícaro",
-            "Ian Lucas"
-        ],
-        "image_url": "https://fotos.perfil.com/2026/03/20/trim/1140/641/nick-sicaro-2207281.jpg",
-        "date": "Mar 20, 2026",
-        "url": "https://exitoina.perfil.com/noticias/corazon/tras-su-salida-de-gran-hermano-nick-sicaro-se-sincero-sobre-su-amistad-con-ian-lucas-es-una-persona-muy-carinosa.phtml"
     }
 ];
