@@ -193,7 +193,7 @@ Rewrite this into a compelling news article. Rules:
                 'X-Title': 'Trending News'
             },
             body: JSON.stringify({
-                model: 'stepfun/step-3.5-flash:free',
+                model: 'qwen/qwen3.6-plus-preview:free',
                 max_tokens: 700,
                 messages: [{ role: 'user', content: prompt }],
                 response_format: { type: 'json_object' }
