@@ -66,7 +66,7 @@ async function enhanceWithAI(article: NewsArticle): Promise<EnhancedContent> {
                 'X-Title': 'Celebrity News'
             },
             body: JSON.stringify({
-                model: 'arcee-ai/trinity-large-preview:free',
+                model: 'stepfun/step-3.5-flash:free',
                 messages: [{ role: 'user', content: prompt }],
                 response_format: { type: 'json_object' }
             })
