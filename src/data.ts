@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "fj9lu72qj",
+        "title": "Breaking News Live Updates: Amit Shah to move the Central Armed Police Forces (General Administration) Bill, 2026 in Lok Sabha today",
+        "excerpt": "Breaking News Live Updates: Union Home Minister Amit Shah to move the Central Armed Police Forces (General Administration) Bill, 2026 in Lok Sabha today. The Bill was passed by Rajya Sabha yesterday.",
+        "content": "<p>Breaking News Live Updates: Union Home Minister Amit Shah to move the Central Armed Police Forces (General Administration) Bill, 2026 in Lok Sabha today. The Bill was passed by Rajya Sabha yesterday.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://economictimes.indiatimes.com/thumb/msid-129965244,width-1200,height-900,resizemode-4,imglength-25338/news/newsblogs/breaking-news-live-updates-parliament-updates-lok-sabha-rajya-sabha-delhi-news-weather-news-pm-modi-rahul-gandhi-elections-in-india.jpg",
+        "date": "Apr 2, 2026",
+        "url": "https://m.economictimes.com/news/newsblogs/breaking-news-live-updates-parliament-updates-lok-sabha-rajya-sabha-delhi-news-weather-news-pm-modi-rahul-gandhi-elections-in-india/liveblog/129965244.cms"
+    },
+    {
+        "id": "cor8sap9e",
+        "title": "Iran: Thousands of Prisoners at Risk",
+        "excerpt": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n An external view of the destruction of buildings in Evin prison's northern premises after the Israeli strikes on June 23, 2025 in Tehran, Iran. Photo taken on July 1, 2025. \n © 2025 Majid Saeedi/Getty Images\n \n \n\n\n \n…",
+        "content": "<p>Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n An external view of the destruction of buildings in Evin prison's northern premises after the Israeli strikes on June 23, 2025 in Tehran, Iran. Photo taken on July 1, 2025. \n © 2025 Majid Saeedi/Getty Images\n \n \n\n\n \n…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2025/08/202508mena_iran_evin_prison.jpg?h=ac778ff2&itok=GesraIlD",
+        "date": "Apr 2, 2026",
+        "url": "https://www.hrw.org/news/2026/04/01/iran-thousands-of-prisoners-at-risk"
+    },
+    {
+        "id": "6ij1frish",
+        "title": "Trump’s speech today: President Trump addresses the nation on Iran War – here are the key takeaways",
+        "excerpt": "Trump news: President Donald Trump addressed the nation on the ongoing war with Iran. He stated Operation Epic Fury could conclude in two to three weeks. The US president highlighted significant damage to Iran's military and leadership. He also warned of furt…",
+        "content": "<p>Trump news: President Donald Trump addressed the nation on the ongoing war with Iran. He stated Operation Epic Fury could conclude in two to three weeks. The US president highlighted significant damage to Iran's military and leadership. He also warned of furt…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://img.etimg.com/thumb/msid-129965161,width-1200,height-630,imgsize-72258,overlay-economictimes/articleshow.jpg",
+        "date": "Apr 2, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/us/trumps-speech-today-president-trump-addresses-the-nation-on-iran-war-here-are-the-key-takeaways/articleshow/129965107.cms"
+    },
+    {
+        "id": "oivoatzwu",
+        "title": "Oracle cuts 20% of India staff; War jitters stall fintech IPOs",
+        "excerpt": "Happy Thursday! Oracle’s global job cuts have impacted 10,000 employees in India. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Thursday! Oracle’s global job cuts have impacted 10,000 employees in India. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-129964415,width-1070,height-580,imgsize-61708,overlay-ettech/editionshow.jpg",
+        "date": "Apr 2, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/oracle-cuts-20-of-india-staff-war-jitters-stall-fintech-ipos/articleshow/129964415.cms"
+    },
+    {
+        "id": "7samnput2",
+        "title": "Billy Porter blames Trump as jobs dry up after 'performative wokeness' wave",
+        "excerpt": "Billy Porter said the era of \"performative wokeness\" is over and arts job opportunities are drying up, speaking out on the shifting entertainment landscape.",
+        "content": "<p>Billy Porter said the era of \"performative wokeness\" is over and arts job opportunities are drying up, speaking out on the shifting entertainment landscape.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/bill-porter-trump-no-kings-fox-news.jpg",
+        "date": "Apr 2, 2026",
+        "url": "https://www.foxnews.com/media/billy-porter-blames-trump-jobs-dry-up-after-performative-wokeness-wave"
+    },
+    {
+        "id": "v0bq7wkjw",
+        "title": "Trump is right about NATO’s weakness — the real question is how does America fix it",
+        "excerpt": "The Strait of Hormuz crisis exposed NATO's deep fault lines as Germany refused to act and Spain denied airspace, revealing burden-sharing failures.",
+        "content": "<p>The Strait of Hormuz crisis exposed NATO's deep fault lines as Germany refused to act and Spain denied airspace, revealing burden-sharing failures.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/trump-rutte-hague.jpg",
+        "date": "Apr 2, 2026",
+        "url": "https://www.foxnews.com/opinion/trump-right-about-natos-weakness-real-question-how-does-america-fix"
+    },
+    {
+        "id": "dcie48wt6",
+        "title": "NASA Artemis II astronauts “safe” and “secure\" as they journey toward the moon, officials say",
+        "excerpt": "NASA launched the Artemis II moon mission on Wednesday, April 1—a date that will enable the crew to observe the moon pass in front of the sun from space",
+        "content": "<p>NASA launched the Artemis II moon mission on Wednesday, April 1—a date that will enable the crew to observe the moon pass in front of the sun from space</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.scientificamerican.com/dam/asset/c87c3ce1-258b-4c15-8080-24fa9b84c145/nasa-launch-post.jpg?m=1775091999.587&w=1200",
+        "date": "Apr 2, 2026",
+        "url": "https://www.scientificamerican.com/article/nasa-artemis-ii-astronauts-safe-and-secure-officials-say/"
+    },
+    {
+        "id": "o8dh7kunl",
+        "title": "Airplane crashes today in Northeast Philadelphia: Two injured after emergency landing goes wrong - here's what happened",
+        "excerpt": "Airplane crashes today: A small training plane crashed in Fluehr Park, Northeast Philadelphia. The incident occurred during a routine flight, resulting in injuries to the instructor and student. The aircraft lost engine power over the Delaware River. Emergenc…",
+        "content": "<p>Airplane crashes today: A small training plane crashed in Fluehr Park, Northeast Philadelphia. The incident occurred during a routine flight, resulting in injuries to the instructor and student. The aircraft lost engine power over the Delaware River. Emergenc…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://img.etimg.com/thumb/msid-129964163,width-1200,height-630,imgsize-222349,overlay-economictimes/articleshow.jpg",
+        "date": "Apr 2, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/us/airplane-crashes-today-in-northeast-philadelphia-two-injured-after-emergency-landing-goes-wrong-heres-what-happened/articleshow/129964137.cms"
+    },
+    {
+        "id": "bg87w6eda",
+        "title": "Global market today | Asian stocks rise on hopes Iran war nearing end",
+        "excerpt": "Asian markets are rallying as investors anticipate an end to the Iran conflict. Hopes for de-escalation are boosting stocks and lowering oil prices. President Trump is set to address the nation, with expectations of reduced US military action. This shift in s…",
+        "content": "<p>Asian markets are rallying as investors anticipate an end to the Iran conflict. Hopes for de-escalation are boosting stocks and lowering oil prices. President Trump is set to address the nation, with expectations of reduced US military action. This shift in s…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-129964168,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+        "date": "Apr 2, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-hopes-iran-war-nearing-end/articleshow/129964169.cms"
+    },
+    {
+        "id": "mj28migf1",
+        "title": "2026 April Fool’s Day jokes that broke the internet",
+        "excerpt": "In the digital age, April 1 has evolved into a high-stakes obstacle course of misinformation, where the line between a “breaking news” alert and a well-orchestrated prank is thinner than a referee’s patience. This year was no exception, as the…",
+        "content": "<p>In the digital age, April 1 has evolved into a high-stakes obstacle course of misinformation, where the line between a “breaking news” alert and a well-orchestrated prank is thinner than a referee’s patience. This year was no exception, as the…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/the_big_lead_articles_114/32834be3ffc7af9d72adc1ffa98decca",
+        "date": "Apr 2, 2026",
+        "url": "https://www.thebiglead.com/2026-april-fools-day-jokes-that-broke-the-internet/"
+    },
+    {
         "id": "ygby8fxby",
         "title": "Lee Tae Ri Announces Marriage",
         "excerpt": "Actor Lee Tae Ri is getting married next month! On April 1, Lee Tae Ri’s agency Y1 Entertainment announced the happy news through the following official statement: Hello, this is Y1 Entertainment. Actor Lee Tae Ri will be tying the knot this coming May to som…",
