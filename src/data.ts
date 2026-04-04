@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "iye5yac3f",
+        "title": "Penguins/Lightning Recap: Pens swamped by Tampa, lose 6-3",
+        "excerpt": "Pregame The Penguins welcome back Bryan Rust from injury and shake up the lines a little to put Rickard Rakell back at center and put Ben Kindel up with Evgeni Malkin. Stuart Skinner gets a second-straight game in net. Their hosts are rolling with this lineup…",
+        "content": "<p>Pregame The Penguins welcome back Bryan Rust from injury and shake up the lines a little to put Rickard Rakell back at center and put Ben Kindel up with Evgeni Malkin. Stuart Skinner gets a second-straight game in net. Their hosts are rolling with this lineup…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/FAS3LGyrUBKazw1sB4ZZdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/544604e6242604016c8b004af92ce00f",
+        "date": "Apr 3, 2026",
+        "url": "https://www.pensburgh.com/game-recaps/75003/penguins-lightning-recap-pens-swamped-by-tampa-lose-6-3"
+    },
+    {
+        "id": "l9g0qbhqi",
+        "title": "Qlean Dataset、「日本人・新卒採用選考の自己PR動画データセット」を提供開始",
+        "excerpt": "[Visual Bank株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/108024/165/108024-165-d7798598bec759afb5017a51fbad69ad-1200x630.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+        "content": "<p>[Visual Bank株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/108024/165/108024-165-d7798598bec759afb5017a51fbad69ad-1200x630.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/108024/165/108024-165-d7798598bec759afb5017a51fbad69ad-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "date": "Apr 3, 2026",
+        "url": "https://prtimes.jp/main/html/rd/p/000000165.000108024.html"
+    },
+    {
+        "id": "hwirlnlc5",
+        "title": "AEW Dynamite Review: Speedball Mike Bailey Disappoints Canada",
+        "excerpt": "Greetings, comrades! It is I, your El Presidente, reporting to you live from my luxury bunker in Winnipeg (I won it in a poker game with Fidel Castro back in '87), and I have just witnessed AEW Dynamite in all its glorious Canadian chaos! If there is one thin…",
+        "content": "<p>Greetings, comrades! It is I, your El Presidente, reporting to you live from my luxury bunker in Winnipeg (I won it in a poker game with Fidel Castro back in '87), and I have just witnessed AEW Dynamite in all its glorious Canadian chaos! If there is one thin…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/04/Speedball-Mike-Bailey-writhes-in-agony-while-wrestling-MJF-on-AEW-Dynamite-2000x1125.jpg",
+        "date": "Apr 3, 2026",
+        "url": "https://bleedingcool.com/tv/aew-dynamite-review-speedball-mike-bailey-disappoints-canada/"
+    },
+    {
+        "id": "sb6k6yv7i",
+        "title": "$7.1M in federal funding announced to support Brandon innovators",
+        "excerpt": "Several projects from Brandon businesses and institutions are receiving more than $7 million in grant funding from the federal government. They include Assiniboine College, Bushel Plus and Behlen Industries, the largest steel building manufacturer in Canada.",
+        "content": "<p>Several projects from Brandon businesses and institutions are receiving more than $7 million in grant funding from the federal government. They include Assiniboine College, Bushel Plus and Behlen Industries, the largest steel building manufacturer in Canada.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://i.cbc.ca/ais/89cd896e-4be0-44db-87a2-1103f4010280,1775172753012/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C12%2C1062%2C597%29%3BResize%3D620",
+        "date": "Apr 3, 2026",
+        "url": "https://www.cbc.ca/news/canada/manitoba/federal-funding-brandon-technology-9.7152541"
+    },
+    {
+        "id": "f7bisxkl3",
+        "title": "BigBasket, 1mg founders plan transition; QED's Morris flags credit tightening",
+        "excerpt": "Happy Friday! BigBasket and 1mg founders are preparing to step back from day-to-day roles. This and more in today's ETtech Morning Dispatch.",
+        "content": "<p>Happy Friday! BigBasket and 1mg founders are preparing to step back from day-to-day roles. This and more in today's ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-129992094,width-1070,height-580,imgsize-1721689,overlay-ettech/editionshow.jpg",
+        "date": "Apr 3, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/bigbasket-1mg-founders-plan-transition-qeds-morris-flags-credit-tightening/articleshow/129992094.cms"
+    },
+    {
+        "id": "cgqcq0ofu",
+        "title": "Tata Digital's leadership reset; QED's fintech caution",
+        "excerpt": "Happy Friday! Founders at BigBasket and 1mg are preparing to step back from day-to-day roles amid a broader Tata Digital reset. This and more in today's ETtech Morning Dispatch.",
+        "content": "<p>Happy Friday! Founders at BigBasket and 1mg are preparing to step back from day-to-day roles amid a broader Tata Digital reset. This and more in today's ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-129992094,width-1070,height-580,imgsize-1721689,overlay-ettech/editionshow.jpg",
+        "date": "Apr 3, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/tata-digitals-leadership-reset-qeds-fintech-caution/articleshow/129992094.cms"
+    },
+    {
+        "id": "dfa9wzg76",
+        "title": "Some TSA officers say they're still hurting after receiving backpay",
+        "excerpt": "Transportation Security Administration officers are still \"in the hole\" even though they received their backpay, according to TSA employees who spoke with ABC News.",
+        "content": "<p>Transportation Security Administration officers are still \"in the hole\" even though they received their backpay, according to TSA employees who spoke with ABC News.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://i.abcnewsfe.com/a/4bc8b29f-ec2b-4bfa-843c-ce772175a781/tsa-gty-jef-260319_1773928522539_hpMain_16x9.jpg?w=1600",
+        "date": "Apr 3, 2026",
+        "url": "https://abcnews.com/US/tsa-officers-hurting-after-receiving-backpay/story?id=131609300"
+    },
+    {
+        "id": "v6xtehuwv",
+        "title": "Chemical Signature Hidden in Lunar Rocks Hints at Oxygen in The Ancient Moon",
+        "excerpt": "A snapshot from billions of years ago.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+        "content": "<p>A snapshot from billions of years ago.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.sciencealert.com/images/2026/04/lunar-rocks.jpg",
+        "date": "Apr 3, 2026",
+        "url": "https://www.sciencealert.com/chemical-signature-hidden-in-lunar-rocks-hints-at-oxygen-in-the-ancient-moon"
+    },
+    {
+        "id": "cgt67j1t4",
+        "title": "Pete Hegseth asks the US Army's top uniformed officer to step down",
+        "excerpt": "The ousting comes nearly five weeks into US-Israeli attacks on Iran and with no clear timeline from President Donald Trump on when the war may end.",
+        "content": "<p>The ousting comes nearly five weeks into US-Israeli attacks on Iran and with no clear timeline from President Donald Trump on when the war may end.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/101d68ceb9b3cd8ec83f6439c385902c?impolicy=wcms_watermark_news&cropH=2741&cropW=4872&xPos=0&yPos=226&width=862&height=485&imformat=generic",
+        "date": "Apr 3, 2026",
+        "url": "https://www.abc.net.au/news/2026-04-03/hegseth-sacks-army-general-coalition-strait-of-hormuz/106529858"
+    },
+    {
+        "id": "de5jy637n",
+        "title": "AI disruption, inflation risks could tighten lending environment: QED’s Nigel Morris",
+        "excerpt": "Nigel Morris, cofounder of QED Investors, expects lending companiess to tighten credit amid rising inflation and geopolitical tensions. While cautious in the short term, he remains positive on India’s fintech growth. However, according to CreditSights, a prol…",
+        "content": "<p>Nigel Morris, cofounder of QED Investors, expects lending companiess to tighten credit amid rising inflation and geopolitical tensions. While cautious in the short term, he remains positive on India’s fintech growth. However, according to CreditSights, a prol…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2115909,resizemode-75,msid-129988150/tech/technology/ai-disruption-inflation-risks-could-tighten-lending-environment-qeds-nigel-morris.jpg",
+        "date": "Apr 3, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/ai-disruption-inflation-risks-could-tighten-lending-environment-qeds-nigel-morris/articleshow/129988150.cms"
+    },
+    {
         "id": "fj9lu72qj",
         "title": "Breaking News Live Updates: Amit Shah to move the Central Armed Police Forces (General Administration) Bill, 2026 in Lok Sabha today",
         "excerpt": "Breaking News Live Updates: Union Home Minister Amit Shah to move the Central Armed Police Forces (General Administration) Bill, 2026 in Lok Sabha today. The Bill was passed by Rajya Sabha yesterday.",
