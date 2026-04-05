@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "a075cj1w9",
+        "title": "White House seeks massive increase in defense spending and looks to slash housing, social services and health care",
+        "excerpt": "(CNN) — The White House is seeking roughly $1.5 trillion for defense as part of a fiscal 2027 budget request — a proposal that would boost military spending to its",
+        "content": "<p>(CNN) — The White House is seeking roughly $1.5 trillion for defense as part of a fiscal 2027 budget request — a proposal that would boost military spending to its</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://bloximages.newyork1.vip.townnews.com/crossroadstoday.com/content/tncms/assets/v3/editorial/4/31/4318c18a-5509-5582-a17a-d3efa4ae5ec7/69cfecc454b6d.image.jpg?crop=1766%2C927%2C0%2C123&resize=1200%2C630&order=crop%2Cresize",
+        "date": "Apr 4, 2026",
+        "url": "https://www.crossroadstoday.com/news/politics/national-politics/white-house-seeks-massive-increase-in-defense-spending-and-looks-to-slash-housing-social-services/article_cae4823b-2f93-5d84-9112-6697454a549b.html"
+    },
+    {
+        "id": "6xquwholu",
+        "title": "Apple's Next iPad Mini 8 Rumored for Late 2026 OLED Upgrade and Performance Boost",
+        "excerpt": "Apple's ultraportable iPad mini remains unchanged since its October 2024 refresh, but strong rumors point to a significant iPad mini 8 arriving in the second half of 2026, potentially featuring an OLED display, faster chip and other enhancements that could ma…",
+        "content": "<p>Apple's ultraportable iPad mini remains unchanged since its October 2024 refresh, but strong rumors point to a significant iPad mini 8 arriving in the second half of 2026, potentially featuring an OLED display, faster chip and other enhancements that could ma…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.ibtimes.com.au/en/full/1891337/ipad-mini.jpg",
+        "date": "Apr 4, 2026",
+        "url": "https://www.ibtimes.com.au/apples-next-ipad-mini-8-rumored-late-2026-oled-upgrade-performance-boost-1865361"
+    },
+    {
+        "id": "4rvswy5ge",
+        "title": "(VIDEO) Luka Doncic Hamstring Injury Update: Hamstring Strain Sidelines Lakers Star for Rest of Regular Season",
+        "excerpt": "Los Angeles Lakers superstar Luka Doncic will miss the remainder of the 2025-26 NBA regular season after an MRI on Friday confirmed a Grade 2 strain in his left hamstring, the team announced.",
+        "content": "<p>Los Angeles Lakers superstar Luka Doncic will miss the remainder of the 2025-26 NBA regular season after an MRI on Friday confirmed a Grade 2 strain in his left hamstring, the team announced.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://d.ibtimes.com.au/en/full/1893313/luka-doncic-hamstring-injury-update-hamstring-strain-sidelines-lakers-star.jpg",
+        "date": "Apr 4, 2026",
+        "url": "https://www.ibtimes.com.au/video-luka-doncic-hamstring-injury-update-hamstring-strain-sidelines-lakers-star-rest-regular-1865360"
+    },
+    {
+        "id": "9kmytzz1o",
+        "title": "Online attacks and Luigi Mangione-inspired death threats in ugly brawl to build California AI megaproject",
+        "excerpt": "The defamation lawsuit, filed by Imperial Valley Computer Manufacturing and its attorney, Sebastian Rucci, claims nonprofit Comite Civico del Valle (CCV) is attempting to stall the data center project in a bid to force a financial settlement.",
+        "content": "<p>The defamation lawsuit, filed by Imperial Valley Computer Manufacturing and its attorney, Sebastian Rucci, claims nonprofit Comite Civico del Valle (CCV) is attempting to stall the data center project in a bid to force a financial settlement.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/124974077.jpg?quality=75&strip=all&w=1200",
+        "date": "Apr 4, 2026",
+        "url": "https://nypost.com/2026/04/03/tech/online-attacks-and-luigi-mangione-inspired-death-threats-in-ugly-brawl-to-build-california-ai-megaproject/"
+    },
+    {
+        "id": "ujr537gko",
+        "title": "Patrick Mahomes Says Meeting Taylor Swift Was 1 of His Top Chiefs Moments",
+        "excerpt": "Patrick Mahomes has had a lot of career highlights but forming a bond with Taylor Swift was one of the most memorable moments. “It would be to play at Arrowhead Stadium and just have all the fans and Chiefs Kingdom out there,” the quarterback, 30, said of his…",
+        "content": "<p>Patrick Mahomes has had a lot of career highlights but forming a bond with Taylor Swift was one of the most memorable moments. “It would be to play at Arrowhead Stadium and just have all the fans and Chiefs Kingdom out there,” the quarterback, 30, said of his…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://www.usmagazine.com/wp-content/uploads/2026/04/GettyImages-2170230253.jpg?crop=184px%2C49px%2C1816px%2C953px&resize=1200%2C630&quality=86&strip=all",
+        "date": "Apr 4, 2026",
+        "url": "https://www.usmagazine.com/celebrity-news/news/patrick-mahomes-says-sweetest-thing-about-meeting-taylor-swift/"
+    },
+    {
+        "id": "660pobkos",
+        "title": "Trump is considering more changes to his Cabinet in the coming weeks",
+        "excerpt": "In his first year back in the White House, President Donald Trump avoided using his famous “You’re fired” phrase when it came to members of his Cabinet.",
+        "content": "<p>In his first year back in the White House, President Donald Trump avoided using his famous “You’re fired” phrase when it came to members of his Cabinet.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260107-pam-bondi-donald-trump-vl-1122a-d2a314.jpg",
+        "date": "Apr 4, 2026",
+        "url": "https://www.nbcnews.com/politics/trump-administration/trump-considering-changes-cabinet-coming-weeks-rcna266624"
+    },
+    {
+        "id": "2jzi18js1",
+        "title": "Defense Witnesses & 'Intimidation' Claim - Celebrity & Entertainment News - Current News World",
+        "excerpt": "Defense Witnesses & ‘Intimidation’ Claim İçerik Tablosu Related Related Related Why this matters Latest Entertainment News: In the fourth week of Live Nation’s antitrust trial, key defense witnesses took the stand as the concert giant continued to make its ca…",
+        "content": "<p>Defense Witnesses & ‘Intimidation’ Claim İçerik Tablosu Related Related Related Why this matters Latest Entertainment News: In the fourth week of Live Nation’s antitrust trial, key defense witnesses took the stand as the concert giant continued to make its ca…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://currentnewsworld.com/wp-content/uploads/2026/04/1775264413_Defense-Witnesses-Intimidation-Claim-Celebrity-Entertainment-News.jpg",
+        "date": "Apr 4, 2026",
+        "url": "https://currentnewsworld.com/2026/04/04/defense-witnesses-intimidation-claim-celebrity-entertainment-news/"
+    },
+    {
+        "id": "vvl9u5k9j",
+        "title": "Leading through complexity: How Trinity Life Sciences CEO Scott Evangelista is redefining strategy in the age of AI",
+        "excerpt": "In an industry defined by uncertainty, few leaders have built their careers as deliberately around navigating complexity as Scott Evangelista. As CEO of Trinity Life Sciences, a firm at the intersection of biopharma strategy, data, and commercialization, Evan…",
+        "content": "<p>In an industry defined by uncertainty, few leaders have built their careers as deliberately around navigating complexity as Scott Evangelista. As CEO of Trinity Life Sciences, a firm at the intersection of biopharma strategy, data, and commercialization, Evan…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/04/TechTO-8-11.png",
+        "date": "Apr 4, 2026",
+        "url": "https://www.digitaljournal.com/tech-science/leading-through-complexity-how-trinity-life-sciences-ceo-scott-evangelista-is-redefining-strategy-in-the-age-of-ai/article"
+    },
+    {
+        "id": "tnvwdwppz",
+        "title": "Madhya Pradesh assembly disqualifies Congress MLA Rajendra Bharti at midnight, opposition cries foul",
+        "excerpt": "Madhya Pradesh assembly disqualified Congress MLA Rajendra Bharti at midnight after a Delhi court sentenced him in a bank fraud case. The opposition slammed the move as a democratic violation, especially as the court stayed the sentence for 60 days for appeal…",
+        "content": "<p>Madhya Pradesh assembly disqualified Congress MLA Rajendra Bharti at midnight after a Delhi court sentenced him in a bank fraud case. The opposition slammed the move as a democratic violation, especially as the court stayed the sentence for 60 days for appeal…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-130011334,width-1280,height-720,imgsize-34920,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Apr 4, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/bhopal/mp-assembly-disqualifies-cong-mla-at-midnight-oppn-cries-foul/articleshow/130008895.cms"
+    },
+    {
+        "id": "2stdld9q9",
+        "title": "WHO warns about attacks on Iran health facilities, regional threat",
+        "excerpt": "\"Multiple attacks on health have been reported in the Iranian capital, Tehran,\" World Health Organization chief Tedros Adhanom Ghebreyesus wrote on X.",
+        "content": "<p>\"Multiple attacks on health have been reported in the Iranian capital, Tehran,\" World Health Organization chief Tedros Adhanom Ghebreyesus wrote on X.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--8nTOr4vN--/c_crop,h_449,w_799,x_1,y_73/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-03T100058Z_1_LYNXMPEM120IW_RTROPTP_3_HEALTH-WHO-USA.JPG?itok=YR1VZ1lm",
+        "date": "Apr 4, 2026",
+        "url": "https://www.channelnewsasia.com/world/world-health-organization-israel-united-states-iran-health-facilities-attacks-6036166"
+    },
+    {
         "id": "iye5yac3f",
         "title": "Penguins/Lightning Recap: Pens swamped by Tampa, lose 6-3",
         "excerpt": "Pregame The Penguins welcome back Bryan Rust from injury and shake up the lines a little to put Rickard Rakell back at center and put Ben Kindel up with Evgeni Malkin. Stuart Skinner gets a second-straight game in net. Their hosts are rolling with this lineup…",
