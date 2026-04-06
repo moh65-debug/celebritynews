@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "8cqwf1j30",
+        "title": "Pattaya launches 5-minute AI health check stations in push toward Smart Health City - Pattaya Mail",
+        "excerpt": "PATTAYA, Thailand – Pattaya has officially launched new automated “Health Station” kiosks that allow residents to complete basic health checks in under five minutes, as part of a broader drive to transform the city into a Smart Health City using AI and Big Da…",
+        "content": "<p>PATTAYA, Thailand – Pattaya has officially launched new automated “Health Station” kiosks that allow residents to complete basic health checks in under five minutes, as part of a broader drive to transform the city into a Smart Health City using AI and Big Da…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.pattayamail.com/wp-content/uploads/2026/04/Pattaya-10-Pattaya-launches-5-minute-AI-health-check-stations-in-push-toward-Smart-Health-City-1-copy.jpg",
+        "date": "Apr 5, 2026",
+        "url": "https://www.pattayamail.com/news/pattaya-launches-5-minute-ai-health-check-stations-in-push-toward-smart-health-city-542166"
+    },
+    {
+        "id": "gzq2212rd",
+        "title": "Yaxel Lendeborg injury update: Michigan leaves Final Four game, getting ankle, knee checked",
+        "excerpt": "Yaxel Lendeborg left Michigan's Final Four game vs. Arizona and is reportedly getting his ankle and knee checked. Latest updates here:",
+        "content": "<p>Yaxel Lendeborg left Michigan's Final Four game vs. Arizona and is reportedly getting his ankle and knee checked. Latest updates here:</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/Yadqh8hvpYSXOG7.fwa7sg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/8bd362fcde6e23199b932743f2ecf99d",
+        "date": "Apr 5, 2026",
+        "url": "https://www.usatoday.com/story/sports/ncaab/2026/04/04/yaxel-lendeborg-injury-update-ankle-knee-final-four-michigan/89472681007/"
+    },
+    {
+        "id": "qhllpcnz8",
+        "title": "At least three killed, two injured in US-Israeli air strike on Iran's Black Mountain",
+        "excerpt": "At least three people were killed and two wounded in a US-Israeli air strike on Black Mountain, Al Jazeera reported. The Governor of Kohgiluyeh told Tasnim news agency the \"casualty toll could rise\" as emergency teams assess the site, marking a significant es…",
+        "content": "<p>At least three people were killed and two wounded in a US-Israeli air strike on Black Mountain, Al Jazeera reported. The Governor of Kohgiluyeh told Tasnim news agency the \"casualty toll could rise\" as emergency teams assess the site, marking a significant es…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-130032113,width-1200,height-630,imgsize-12386,overlay-etdefence/articleshow.jpg",
+        "date": "Apr 5, 2026",
+        "url": "https://economictimes.indiatimes.com/news/defence/at-least-three-killed-two-injured-in-us-israeli-air-strike-on-irans-black-mountain/articleshow/130032080.cms"
+    },
+    {
+        "id": "9imm4uvoj",
+        "title": "'Are They Booing?' See Dan Hurley's funny reaction after UConn win vs Illinois",
+        "excerpt": "Following UConn basketball's Final Four win over Illinois, Huskies coach Dan Hurley was greeted with boos by fans inside Lucas Oil Stadium:",
+        "content": "<p>Following UConn basketball's Final Four win over Illinois, Huskies coach Dan Hurley was greeted with boos by fans inside Lucas Oil Stadium:</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/OD.XhTqyKMlKeMKI6kbdzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODc7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/596efc46c7f5a0abe1e6159579848503",
+        "date": "Apr 5, 2026",
+        "url": "https://www.usatoday.com/story/sports/ncaab/bigeast/2026/04/04/dan-hurley-boos-final-four-uconn-march-madness-win-illinois/89471984007/"
+    },
+    {
+        "id": "twc5chnbl",
+        "title": "Bessent makes stunning claim about Iran and its oil",
+        "excerpt": "With oil prices surging past $100 per barrel and the Strait of Hormuz effectively closed, the Trump administration reached for an unusual lever. It decided...",
+        "content": "<p>With oil prices surging past $100 per barrel and the Strait of Hormuz effectively closed, the Trump administration reached for an unusual lever. It decided...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://s.yimg.com/os/en/thestreet_881/adfeb8c7d16e0f1c4a52dfaccc495a9b",
+        "date": "Apr 5, 2026",
+        "url": "https://www.thestreet.com/economy/bessent-makes-stunning-claim-about-iran-and-its-oil"
+    },
+    {
+        "id": "rouj6q0b0",
+        "title": "DJ Izzy blends music, technology to inspire communities",
+        "excerpt": "Discover how UK-based DJ Izzy combines music, technology, and social impact to empower communities through charity and AI music production workshops.\n\nRead More: https://punchng.com/dj-izzy-blends-music-technology-to-inspire-communities/",
+        "content": "<p>Discover how UK-based DJ Izzy combines music, technology, and social impact to empower communities through charity and AI music production workshops.\n\nRead More: https://punchng.com/dj-izzy-blends-music-technology-to-inspire-communities/</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/04/04232005/10.jpg",
+        "date": "Apr 5, 2026",
+        "url": "https://punchng.com/dj-izzy-blends-music-technology-to-inspire-communities/"
+    },
+    {
+        "id": "wtsvgur63",
+        "title": "Tech4Dev names Abraham Akpan country manager",
+        "excerpt": "Tech4Dev has appointed Abraham Akpan as Country Manager for Nigeria and Sub-Saharan Africa to support its vision of increasing economic opportunities.\n\nRead More: https://punchng.com/tech4dev-names-abraham-akpan-country-manager/",
+        "content": "<p>Tech4Dev has appointed Abraham Akpan as Country Manager for Nigeria and Sub-Saharan Africa to support its vision of increasing economic opportunities.\n\nRead More: https://punchng.com/tech4dev-names-abraham-akpan-country-manager/</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/04/04225654/Abraham-Akpan-912x630.jpeg",
+        "date": "Apr 5, 2026",
+        "url": "https://punchng.com/tech4dev-names-abraham-akpan-country-manager/"
+    },
+    {
+        "id": "s5il2c4nh",
+        "title": "Why did a 150-year-old math law fail? #science",
+        "excerpt": "The geometry “donut” discovery that broke a 150 year old rule A surprising result in geometry has overturned a principle that had stood for more than 150 years. Researchers found that two different torus surfaces can share the same metric and the same curvatu…",
+        "content": "<p>The geometry “donut” discovery that broke a 150 year old rule A surprising result in geometry has overturned a principle that had stood for more than 150 years. Researchers found that two different torus surfaces can share the same metric and the same curvatu…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Apr 5, 2026",
+        "url": "https://alltoc.com/science/why-did-a-150-year-old-math-law-fail"
+    },
+    {
+        "id": "pnvfyxcw7",
+        "title": "Hollywood High Forever: Mitski’s Residency Shines a Fresh Light on the Famed School’s Rich Show-Biz History",
+        "excerpt": "When Mitski wraps up a five-night residency at Hollywood High School this weekend, it will conclude an engagement that follows in a very limited tradition of rock or pop stars doing shows in the school’s 1,900-seat auditorium, preceded most famously by Elvis …",
+        "content": "<p>When Mitski wraps up a five-night residency at Hollywood High School this weekend, it will conclude an engagement that follows in a very limited tradition of rock or pop stars doing shows in the school’s 1,900-seat auditorium, preceded most famously by Elvis …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://variety.com/wp-content/uploads/2026/04/IMG_3946.jpeg?w=1000&h=563&crop=1",
+        "date": "Apr 4, 2026",
+        "url": "https://variety.com/2026/music/news/hollywood-high-school-mitski-concerts-entertainment-history-1236708567/"
+    },
+    {
+        "id": "sm61rmkjn",
+        "title": "NYT Connections hints and answers for Sunday, April 5 (game #1029)",
+        "excerpt": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
+        "content": "<p>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
+        "date": "Apr 4, 2026",
+        "url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-5-april-2026"
+    },
+    {
         "id": "a075cj1w9",
         "title": "White House seeks massive increase in defense spending and looks to slash housing, social services and health care",
         "excerpt": "(CNN) — The White House is seeking roughly $1.5 trillion for defense as part of a fiscal 2027 budget request — a proposal that would boost military spending to its",
