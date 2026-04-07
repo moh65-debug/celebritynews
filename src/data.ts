@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "q0t3rf5jd",
+        "title": "UK Trade envoy visits Dhaka to strengthen two-way trade and economic ties",
+        "excerpt": "The UK Trade Envoy to Bangladesh Rt. Hon. the Baroness Winterton of Doncaster, DBE is visiting Dhaka this week to reinforce and expand the longstanding and mutually beneficial UK–Bangladesh trade and economic partnership.",
+        "content": "<p>The UK Trade Envoy to Bangladesh Rt. Hon. the Baroness Winterton of Doncaster, DBE is visiting Dhaka this week to reinforce and expand the longstanding and mutually beneficial UK–Bangladesh trade and economic partnership.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+        "date": "Apr 6, 2026",
+        "url": "https://www.gov.uk/government/news/uk-trade-envoy-visits-dhaka-to-strengthen-two-way-trade-and-economic-ties"
+    },
+    {
+        "id": "g6j4twn4w",
+        "title": "Top 50 Best Universities for AI Studies 2026: Global Rankings Guide Students Worldwide",
+        "excerpt": "Demand for artificial intelligence education has surged in 2026 as industries from healthcare to autonomous vehicles seek talent skilled in machine learning, robotics, ethics and large language models. Leading global rankings from QS, Times Higher Education a…",
+        "content": "<p>Demand for artificial intelligence education has surged in 2026 as industries from healthcare to autonomous vehicles seek talent skilled in machine learning, robotics, ethics and large language models. Leading global rankings from QS, Times Higher Education a…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.ibtimes.com.au/en/full/1893358/top-50-best-universities-ai-studies-2026-global-rankings.png",
+        "date": "Apr 6, 2026",
+        "url": "https://www.ibtimes.com.au/top-50-best-universities-ai-studies-2026-global-rankings-guide-students-worldwide-1865499"
+    },
+    {
+        "id": "pe0ocgjcr",
+        "title": "NVIDIA's DLSS 5 trailer has been taken down due to 'copyright' infringement",
+        "excerpt": "NVIDIA's DLSS 5 announcement trailer is currently offline on YouTube due to a copyright infringement claim from an unlikely source.Continue reading at TweakTown",
+        "content": "<p>NVIDIA's DLSS 5 announcement trailer is currently offline on YouTube due to a copyright infringement claim from an unlikely source.Continue reading at TweakTown</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.tweaktown.com/news/1/1/110891_2_nvidias-dlss-5-trailer-has-been-taken-down-due-to-copyright-infringement_full.jpg",
+        "date": "Apr 6, 2026",
+        "url": "https://www.tweaktown.com/news/110891/nvidias-dlss-5-trailer-has-been-taken-down-due-to-copyright-infringement/index.html"
+    },
+    {
+        "id": "m2qnkdjpj",
+        "title": "Google Maps Hidden Features 2026: 10 Lesser-Known Tools Boost Navigation and Discovery",
+        "excerpt": "Google Maps, used by more than 2 billion people worldwide, continues to evolve with artificial intelligence enhancements in 2026, unveiling powerful yet often overlooked functions that transform routine navigation into a smarter, more intuitive experience.",
+        "content": "<p>Google Maps, used by more than 2 billion people worldwide, continues to evolve with artificial intelligence enhancements in 2026, unveiling powerful yet often overlooked functions that transform routine navigation into a smarter, more intuitive experience.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.ibtimes.com.au/en/full/1891572/google-maps.jpg",
+        "date": "Apr 6, 2026",
+        "url": "https://www.ibtimes.com.au/google-maps-hidden-features-2026-10-lesser-known-tools-boost-navigation-discovery-1865497"
+    },
+    {
+        "id": "38jhefwrd",
+        "title": "Answering the 10 most important questions about the Iran war",
+        "excerpt": "Allow me, good reader, to cut through the Trumpian boasts, the fog of war, Democratic hysteria and media falsifications, and offer you simple answers to the 10 most important questions about the Iran war.",
+        "content": "<p>Allow me, good reader, to cut through the Trumpian boasts, the fog of war, Democratic hysteria and media falsifications, and offer you simple answers to the 10 most important questions about the Iran war.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/10-most-asked-questions-about-the-us-israel-war-with-iran.jpg?quality=75&strip=all&1775425636&w=1200",
+        "date": "Apr 6, 2026",
+        "url": "https://nypost.com/2026/04/05/opinion/answering-the-10-most-important-questions-about-the-iran-war/"
+    },
+    {
+        "id": "q0o9swvx3",
+        "title": "Quote of the Day by Nvidia CEO Jensen Huang: 'If you want to do something new, you have to be willing to fail'. Here what it means",
+        "excerpt": "Quote of the Day by Nvidia CEO Jensen Huang: Trying something new always carries risk, and failure is a natural step toward learning and growth. Without embracing the possibility of failure, you can’t achieve innovation or progress. Jensen Huang has used thes…",
+        "content": "<p>Quote of the Day by Nvidia CEO Jensen Huang: Trying something new always carries risk, and failure is a natural step toward learning and growth. Without embracing the possibility of failure, you can’t achieve innovation or progress. Jensen Huang has used thes…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-130039696,width-1200,height-630,imgsize-910600,overlay-economictimes/articleshow.jpg",
+        "date": "Apr 6, 2026",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/quote-of-the-day-by-nvidia-ceo-jensen-huang-if-you-want-to-do-something-new-you-have-to-be-willing-to-fail-here-what-it-means/articleshow/130039504.cms"
+    },
+    {
+        "id": "akmecfiav",
+        "title": "Platforms brace for gig worker crunch; Indian IT steady amid war clouds",
+        "excerpt": "Happy Monday! Quick commerce, ecommerce and home service platforms are facing gig worker shortages. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Monday! Quick commerce, ecommerce and home service platforms are facing gig worker shortages. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-130048730,width-1070,height-580,imgsize-106750,overlay-ettech/editionshow.jpg",
+        "date": "Apr 6, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/platforms-brace-for-gig-worker-crunch-indian-it-steady-amid-war-clouds/articleshow/130048730.cms"
+    },
+    {
+        "id": "ak6yomqvl",
+        "title": "Lifelong Dodgers fan left devastated by brutal new policy",
+        "excerpt": "The Los Angeles Dodgers are facing backlash after refusing to provide paper tickets to Errol Segal, a season ticket holder of 50 years who doesn't own a smartphone.",
+        "content": "<p>The Los Angeles Dodgers are facing backlash after refusing to provide paper tickets to Errol Segal, a season ticket holder of 50 years who doesn't own a smartphone.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/dodgers-comp.jpg?quality=75&strip=all&w=1200",
+        "date": "Apr 6, 2026",
+        "url": "https://nypost.com/2026/04/05/us-news/81-year-old-dodgers-super-fan-cant-access-digital-tickets/"
+    },
+    {
+        "id": "opyntkkcy",
+        "title": "What do gut bacteria reveal about early cancer? #science",
+        "excerpt": "Gut microbes as signals for early cancer Researchers report that the microscopic ecosystem in the digestive tract may contain repeatable patterns that could flag cancer earlier than traditional symptoms or many standard screening approaches. The central idea …",
+        "content": "<p>Gut microbes as signals for early cancer Researchers report that the microscopic ecosystem in the digestive tract may contain repeatable patterns that could flag cancer earlier than traditional symptoms or many standard screening approaches. The central idea …</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Apr 6, 2026",
+        "url": "https://alltoc.com/science/what-do-gut-bacteria-reveal-about-early-cancer"
+    },
+    {
+        "id": "yvf0w6ucc",
+        "title": "What happened in the Tulsa vs Auburn NIT final? #sports",
+        "excerpt": "Tulsa vs. Auburn NIT title game: matchup set, key defensive angle flagged The NIT men’s basketball championship game is set between the Tulsa Golden Hurricane and the Auburn Tigers at Gainbridge Fieldhouse in Indianapolis. A central storyline heading into the…",
+        "content": "<p>Tulsa vs. Auburn NIT title game: matchup set, key defensive angle flagged The NIT men’s basketball championship game is set between the Tulsa Golden Hurricane and the Auburn Tigers at Gainbridge Fieldhouse in Indianapolis. A central storyline heading into the…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Apr 6, 2026",
+        "url": "https://alltoc.com/sports/what-happened-in-the-tulsa-vs-auburn-nit-final"
+    },
+    {
         "id": "8cqwf1j30",
         "title": "Pattaya launches 5-minute AI health check stations in push toward Smart Health City - Pattaya Mail",
         "excerpt": "PATTAYA, Thailand – Pattaya has officially launched new automated “Health Station” kiosks that allow residents to complete basic health checks in under five minutes, as part of a broader drive to transform the city into a Smart Health City using AI and Big Da…",
