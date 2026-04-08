@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ii87t7bil",
+        "title": "David Schwimmer Says Kanye West Hasn’t Properly Apologized, Thanks Wireless Festival Sponsors for Pulling Out: ‘I Believe in Forgiveness, but It Takes Much More Than This’",
+        "excerpt": "Actor David Schwimmer took to social media Monday to thank several corporate sponsors who have pulled their support from the U.K.’s Wireless Festival, where Ye, formerly Kanye West, is set to headline for three nights in June. He is asking the remaining spons…",
+        "content": "<p>Actor David Schwimmer took to social media Monday to thank several corporate sponsors who have pulled their support from the U.K.’s Wireless Festival, where Ye, formerly Kanye West, is set to headline for three nights in June. He is asking the remaining spons…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://variety.com/wp-content/uploads/2025/02/MixCollage-09-Feb-2025-09-01-AM-3888.jpg?w=1000&h=563&crop=1",
+        "date": "Apr 7, 2026",
+        "url": "https://variety.com/2026/music/news/david-schwimmer-kanye-west-thanks-wireless-festival-sponsors-1236710039/"
+    },
+    {
+        "id": "29uvpgb17",
+        "title": "China’s Coal Giants Bet on Chemicals as War Curbs Oil Supplies",
+        "excerpt": "Chinese coal companies are turning to chemicals manufacturing for growth, as war in the Persian Gulf constrains supply of the liquid fossil fuels more commonly used by the industry.",
+        "content": "<p>Chinese coal companies are turning to chemicals manufacturing for growth, as war in the Persian Gulf constrains supply of the liquid fossil fuels more commonly used by the industry.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/shenhua-shifts-spending-to-chemicals-firm-has-cut-overall-b.jpg",
+        "date": "Apr 7, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/chinas-coal-giants-bet-on-chemicals-as-war-curbs-oil-supplies"
+    },
+    {
+        "id": "hb4pmoax8",
+        "title": "Bayan Capital Review: Real Trading Software or Scam? Facts Uncovered",
+        "excerpt": "Bayan Capital stands out as a freshly created digital asset trading solution built to make easier and upgrade the overall investing process for individuals interested in digital asset investors. The platform claims that it uses high-level technologies such as…",
+        "content": "<p>Bayan Capital stands out as a freshly created digital asset trading solution built to make easier and upgrade the overall investing process for individuals interested in digital asset investors. The platform claims that it uses high-level technologies such as…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/01/user-1.png",
+        "date": "Apr 7, 2026",
+        "url": "https://whatjapanthinks.com/bayan-capital-review/"
+    },
+    {
+        "id": "mxxau1d7m",
+        "title": "Oracle appoints Hilary Maxson as CFO amid major layoffs — What we know about her salary, stock options",
+        "excerpt": "Hilary Maxson has been named Oracle's CFO, effective immediately, after the company laid off nearly thousands of employees. Here's her compensation breakdown and all we know about the executive so far.",
+        "content": "<p>Hilary Maxson has been named Oracle's CFO, effective immediately, after the company laid off nearly thousands of employees. Here's her compensation breakdown and all we know about the executive so far.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/04/07/1600x900/logo/hilary-maxson-2024_1775524827398_1775524835236.jpg",
+        "date": "Apr 7, 2026",
+        "url": "https://www.livemint.com/companies/news/oracle-appoints-hilary-maxson-as-cfo-amid-major-layoffs-what-we-know-about-her-salary-stock-options-11775522646947.html"
+    },
+    {
+        "id": "eoociolnk",
+        "title": "Anthropic tops $30 billion run rate, seals deal with Broadcom",
+        "excerpt": "Anthropic PBC said its revenue run rate has now topped $30 billion, up from $9 billion at the end of 2025, and confirmed plans to work with Broadcom and Google to power its burgeoning operations.",
+        "content": "<p>Anthropic PBC said its revenue run rate has now topped $30 billion, up from $9 billion at the end of 2025, and confirmed plans to work with Broadcom and Google to power its burgeoning operations.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-55322,resizemode-75,msid-130073830/tech/artificial-intelligence/anthropic-tops-30-billion-run-rate-seals-deal-with-broadcom.jpg",
+        "date": "Apr 7, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-tops-30-billion-run-rate-seals-deal-with-broadcom/articleshow/130073830.cms"
+    },
+    {
+        "id": "glgjgyw6j",
+        "title": "Dusk Fundholm Review: Scam or Legit Trading Platform? Truth Revealed",
+        "excerpt": "Dusk Fundholm presents itself as a newly developed online trading program developed to smooth and enhance the overall investing process for individuals interested in cryptocurrency markets. The platform states that it uses high-level systems such as AI and au…",
+        "content": "<p>Dusk Fundholm presents itself as a newly developed online trading program developed to smooth and enhance the overall investing process for individuals interested in cryptocurrency markets. The platform states that it uses high-level systems such as AI and au…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/01/user-1.png",
+        "date": "Apr 7, 2026",
+        "url": "https://whatjapanthinks.com/dusk-fundholm-review/"
+    },
+    {
+        "id": "2my6eejcr",
+        "title": "US special operators involved in rescue mission of downed jet crew: report",
+        "excerpt": "US special operators took part in a risky mission to recover a downed jet crew amid Iran tensions, as officials praise the operation and avoid details.",
+        "content": "<p>US special operators took part in a risky mission to recover a downed jet crew amid Iran tensions, as officials praise the operation and avoid details.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bl-i.thgim.com/public/incoming/8tyio4/article70832736.ece/alternates/LANDSCAPE_1200/2026-04-06T173958Z_1200281432_RC2TJKA2EVZH_RTRMADP_3_IRAN-CRISIS-USA-TRUMP.JPG",
+        "date": "Apr 7, 2026",
+        "url": "https://www.thehindubusinessline.com/news/world/us-special-operators-involved-in-rescue-mission-of-downed-jet-crew-report/article70832725.ece"
+    },
+    {
+        "id": "l6nnzjkyq",
+        "title": "3 Games From the 2000s That Have Aged Incredibly Well",
+        "excerpt": "Time does not walk gently through video games a lot of the time. Controls stiffen like old joints, visuals lose their spark, and ideas that once felt revolutionary start to feel like artifacts from stranger timelines. The 2000s were especially chaotic, a deca…",
+        "content": "<p>Time does not walk gently through video games a lot of the time. Controls stiffen like old joints, visuals lose their spark, and ideas that once felt revolutionary start to feel like artifacts from stranger timelines. The 2000s were especially chaotic, a deca…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2025/10/The-Orange-Box-Half-Life-2-Add-2.jpg?resize=2000,1125",
+        "date": "Apr 7, 2026",
+        "url": "http://comicbook.com/gaming/list/3-games-from-the-2000s-that-have-aged-incredibly-well/"
+    },
+    {
+        "id": "dka3pmla4",
+        "title": "Stanford Steve: Internal conflicts threaten Eagles’ success, Jalen Hurts faces unfair criticism, and Kirk Cousins’ mentorship could shape young talent | Pardon My Take",
+        "excerpt": "Eagles' internal conflicts and leaks could undermine team morale and impact their season performance.\nThe post Stanford Steve: Internal conflicts threaten Eagles’ success, Jalen Hurts faces unfair criticism, and Kirk Cousins’ mentorship could shape young tale…",
+        "content": "<p>Eagles' internal conflicts and leaks could undermine team morale and impact their season performance.\nThe post Stanford Steve: Internal conflicts threaten Eagles’ success, Jalen Hurts faces unfair criticism, and Kirk Cousins’ mentorship could shape young tale…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/03020744/podcast-cover-pardon-my-take-1-800x420.jpg",
+        "date": "Apr 7, 2026",
+        "url": "https://cryptobriefing.com/stanford-steve-internal-conflicts-threaten-eagles-success-jalen-hurts-faces-unfair-criticism-and-kirk-cousins-mentorship-could-shape-young-talent-pardon-my-take/"
+    },
+    {
+        "id": "yrvkazens",
+        "title": "Economist editor says European leaders now fear a true NATO 'divorce' after Trump pullout threat",
+        "excerpt": "Trump is reportedly considering pulling the U.S. out of NATO, and European leaders are coming to terms with what may be a true divorce, says an editor.",
+        "content": "<p>Trump is reportedly considering pulling the U.S. out of NATO, and European leaders are coming to terms with what may be a true divorce, says an editor.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/president-donald-trump-NATO-fox-news.jpeg",
+        "date": "Apr 7, 2026",
+        "url": "https://www.foxnews.com/media/economist-editor-says-european-leaders-fear-true-nato-divorce-trump-pullout-threat"
+    },
+    {
         "id": "q0t3rf5jd",
         "title": "UK Trade envoy visits Dhaka to strengthen two-way trade and economic ties",
         "excerpt": "The UK Trade Envoy to Bangladesh Rt. Hon. the Baroness Winterton of Doncaster, DBE is visiting Dhaka this week to reinforce and expand the longstanding and mutually beneficial UK–Bangladesh trade and economic partnership.",
