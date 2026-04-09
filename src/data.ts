@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "8d63yelkm",
+        "title": "Pope Leo calls out Trump’s Iran rhetoric before last-minute ceasefire emerges",
+        "excerpt": "Pope Leo called President Trump's threat against Iran 'truly unacceptable,' urging world leaders to return to the negotiating table and reject war always.",
+        "content": "<p>Pope Leo called President Trump's threat against Iran 'truly unacceptable,' urging world leaders to return to the negotiating table and reject war always.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/pope-leo-war-iran-us.jpg",
+        "date": "Apr 8, 2026",
+        "url": "https://www.foxnews.com/politics/pope-leo-calls-out-trumps-iran-rhetoric-before-last-minute-ceasefire-emerges"
+    },
+    {
+        "id": "9zrbaydes",
+        "title": "Optical networks to bridge the AI compute-consumption gap",
+        "excerpt": "With AI spurring gigawatt-scale datacentre builds across APAC, Ciena is deploying ultra-fast, energy-efficient optical networking and AI-driven automation to ensure AI services can reach consumers",
+        "content": "<p>With AI spurring gigawatt-scale datacentre builds across APAC, Ciena is deploying ultra-fast, energy-efficient optical networking and AI-driven automation to ensure AI services can reach consumers</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/digital-cables-fibre-optic-adobe.jpeg",
+        "date": "Apr 8, 2026",
+        "url": "https://www.computerweekly.com/news/366641460/Optical-networks-to-bridge-the-AI-compute-consumption-gap"
+    },
+    {
+        "id": "tt2w37jt8",
+        "title": "【無料体験受付開始】システム運用の「見えない負債」を資産に変えるAIエージェント「Mill」が登場",
+        "excerpt": "[株式会社 MSOL Digital]\n[画像1: https://prcdn.freetls.fastly.net/release_image/179955/1/179955-1-2472d7d83c3f2883d351016cbe3ac2b1-3900x1948.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+        "content": "<p>[株式会社 MSOL Digital]\n[画像1: https://prcdn.freetls.fastly.net/release_image/179955/1/179955-1-2472d7d83c3f2883d351016cbe3ac2b1-3900x1948.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/179955/1/179955-1-2472d7d83c3f2883d351016cbe3ac2b1-3900x1948.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "date": "Apr 8, 2026",
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000179955.html"
+    },
+    {
+        "id": "0kkgs1cic",
+        "title": "Top 10 Tools for Recruitment Marketing Automation in 2026 - Kondo",
+        "excerpt": "Top 10 recruitment marketing automation tools for 2026: Compare features, pricing, and capabilities of leading ATS, CRM, and AI-powered recruitment solutions for modern talent acquisition teams.",
+        "content": "<p>Top 10 recruitment marketing automation tools for 2026: Compare features, pricing, and capabilities of leading ATS, CRM, and AI-powered recruitment solutions for modern talent acquisition teams.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://framerusercontent.com/images/NKkxmcdk3qp2F5kABHibpGMV2k.png?width=1280&height=720",
+        "date": "Apr 8, 2026",
+        "url": "https://www.trykondo.com/blog/best-recruitment-tools"
+    },
+    {
+        "id": "5yapfxvvc",
+        "title": "Migrating from Sitecore to Optimizely — smarter with Opal AI",
+        "excerpt": "Thinking about leaving Sitecore? See how Optimizely's Opal AI, handles the heavy lifting — from content audits to bulk metadata — so your team ships faster.",
+        "content": "<p>Thinking about leaving Sitecore? See how Optimizely's Opal AI, handles the heavy lifting — from content audits to bulk metadata — so your team ships faster.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.optimizely.com/contentassets/9c48e088c36a49a39690371a2face6b7/teaser-placeholders_articles.jpg",
+        "date": "Apr 8, 2026",
+        "url": "https://www.optimizely.com/insights/blog/leaving-sitecore/"
+    },
+    {
+        "id": "jd4dxmit9",
+        "title": "Rock League strategy, 'organized chaos' keeping curlers on their toes in early going",
+        "excerpt": "Rock League has not been perfect through two days. But if the goal of this one-week Rock League preview season is proof of concept, then you can see how it all might come together.",
+        "content": "<p>Rock League has not been perfect through two days. But if the goal of this one-week Rock League preview season is proof of concept, then you can see how it all might come together.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://i.cbc.ca/ais/878c43d1-09a1-46c7-bf31-907bd14483d1,1775607253533/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D620",
+        "date": "Apr 8, 2026",
+        "url": "https://www.cbc.ca/sports/olympics/winter/curling/rock-league-launch-9.7155672"
+    },
+    {
+        "id": "26uw7ccn0",
+        "title": "The Pentagon Has 268 Days to Replace America’s Most Critical Supply Chain",
+        "excerpt": "Oil is surging on the Iran strikes. Gas costs more. Everything costs more. That pain is real. But here’s what most Americans don’t realize. Oil and gas have dozens of global suppliers. When one source gets disrupted, others fill the gap. Prices spike, then st…",
+        "content": "<p>Oil is surging on the Iran strikes. Gas costs more. Everything costs more. That pain is real. But here’s what most Americans don’t realize. Oil and gas have dozens of global suppliers. When one source gets disrupted, others fill the gap. Prices spike, then st…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-07_2z8sdkcepv.jpg",
+        "date": "Apr 8, 2026",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Pentagon-Has-268-Days-to-Replace-Americas-Most-Critical-Supply-Chain.html"
+    },
+    {
+        "id": "svnoyg0vq",
+        "title": "The Economic Price Of War",
+        "excerpt": "How does war affect national output, productivity, and consumer prices in belligerent countries and economies worldwide?",
+        "content": "<p>How does war affect national output, productivity, and consumer prices in belligerent countries and economies worldwide?</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.hoover.org/sites/default/files/styles/facebook/public/2026-04/Economics-Applied_product-img-4-7.jpg?h=6481b22c&itok=dKkWeeC8",
+        "date": "Apr 8, 2026",
+        "url": "https://www.hoover.org/research/economic-price-war"
+    },
+    {
+        "id": "bhllaab5q",
+        "title": "Building Strategic Resilience Amid The Iran War's Ripple Effects",
+        "excerpt": "Hoover Institution fellows Condoleezza Rice and Amy Zegart propose a four-step framework to deal with political risks: “Understand, analyze, mitigate, and respond.”",
+        "content": "<p>Hoover Institution fellows Condoleezza Rice and Amy Zegart propose a four-step framework to deal with political risks: “Understand, analyze, mitigate, and respond.”</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://mexicobusiness.news/sites/default/files/styles/crop_16_9/public/pictures/2024-09/FrontierView-img-2024-PabloReynoso-1-MBN.jpg?h=fc34ddd7&itok=aLQpH585",
+        "date": "Apr 8, 2026",
+        "url": "https://mexicobusiness.news/policyandeconomy/news/building-strategic-resilience-amid-iran-wars-ripple-effects"
+    },
+    {
+        "id": "vqt9zapze",
+        "title": "Satellite imagery reveals increasing volatility in human night-time activity",
+        "excerpt": "Daily satellite data reveal that Earth’s artificial lights at night are highly volatile, with frequent brightening and dimming between 2014 and 2022.",
+        "content": "<p>Daily satellite data reveal that Earth’s artificial lights at night are highly volatile, with frequent brightening and dimming between 2014 and 2022.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10260-w/MediaObjects/41586_2026_10260_Fig1_HTML.png",
+        "date": "Apr 8, 2026",
+        "url": "https://www.nature.com/articles/s41586-026-10260-w"
+    },
+    {
         "id": "ii87t7bil",
         "title": "David Schwimmer Says Kanye West Hasn’t Properly Apologized, Thanks Wireless Festival Sponsors for Pulling Out: ‘I Believe in Forgiveness, but It Takes Much More Than This’",
         "excerpt": "Actor David Schwimmer took to social media Monday to thank several corporate sponsors who have pulled their support from the U.K.’s Wireless Festival, where Ye, formerly Kanye West, is set to headline for three nights in June. He is asking the remaining spons…",
