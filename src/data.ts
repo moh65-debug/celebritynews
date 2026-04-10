@@ -12,6 +12,122 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "mqbhp6ydb",
+        "title": "Appeals court rejects Anthropic’s bid to block Pentagon blacklisting",
+        "excerpt": "A federal appeals court in Washington DC today rejected Anthropic PBC’s request for a stay in its lawsuit against the Department of Defense. A panel of three judges said the artificial intelligence start-up had failed to meet the strict requirements for an em…",
+        "content": "<p>A federal appeals court in Washington DC today rejected Anthropic PBC’s request for a stay in its lawsuit against the Department of Defense. A panel of three judges said the artificial intelligence start-up had failed to meet the strict requirements for an em…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-2026-04-09-091444.png",
+        "date": "Apr 9, 2026",
+        "url": "https://siliconangle.com/2026/04/08/appeals-court-rejects-anthropics-bid-block-pentagon-blacklisting/"
+    },
+    {
+        "id": "w8qv27o00",
+        "title": "Iran Says Peace Talks Would Be 'Unreasonable' Following Israeli Strikes",
+        "excerpt": "The warning from Iran's lead negotiator laid bare the continued volatility in the region following Tuesday's ceasefire announcement by President Donald Trump.",
+        "content": "<p>The warning from Iran's lead negotiator laid bare the continued volatility in the region following Tuesday's ceasefire announcement by President Donald Trump.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.huffingtonpost.com/asset/69d70ab81800003087a15645.jpeg?ops=1200_630",
+        "date": "Apr 9, 2026",
+        "url": "https://www.huffpost.com/entry/iran-us-israel-strikes-ceasefire_n_69d7099ce4b048dba44b39ba"
+    },
+    {
+        "id": "8idojdva8",
+        "title": "How A Fake Iranian Terror Group Was Invented To Proscribe IRGC in Europe – The story of Ashab al-Yamin",
+        "excerpt": "Investigative Analysis – A series of arson attacks and alleged incidents targeting alleged Jewish-linked sites across Europe have been attributed to a little-known group called Harakat Ashab al-Yamin al-Islamia (HAYI), or Ashab al-Yamin. The group has been wi…",
+        "content": "<p>Investigative Analysis – A series of arson attacks and alleged incidents targeting alleged Jewish-linked sites across Europe have been attributed to a little-known group called Harakat Ashab al-Yamin al-Islamia (HAYI), or Ashab al-Yamin. The group has been wi…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.activistpost.com/wp-content/uploads/2026/04/5075907846838357028_121.jpg",
+        "date": "Apr 9, 2026",
+        "url": "https://www.activistpost.com/how-a-fake-iranian-terror-group-was-invented-to-proscribe-irgc-in-europe-the-story-of-ashab-al-yamin/"
+    },
+    {
+        "id": "aykpvlyj8",
+        "title": "Donald Trump has truly been the Teflon President — until now",
+        "excerpt": "Donald Trump has survived what may have brought down many presidents before him. But the \"end of civilisation\" threat, as it's become known, has exposed a vulnerability he has not faced before.",
+        "content": "<p>Donald Trump has survived what may have brought down many presidents before him. But the \"end of civilisation\" threat, as it's become known, has exposed a vulnerability he has not faced before.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/e0c3878a824f0180458cdec5fdcd5b3c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=266&width=862&height=485&imformat=generic",
+        "date": "Apr 9, 2026",
+        "url": "https://www.abc.net.au/news/2026-04-09/donald-trump-iran-war-truth-post-makes-him-vulnerable/106541196"
+    },
+    {
+        "id": "7h6b44epa",
+        "title": "Sophie Cunningham Expands Her Impact On and Off the Court with Indiana Fever",
+        "excerpt": "After joining the Indiana Fever, Sophie Cunningham is leveraging her platform to advocate for social causes while maintaining her elite performance in the WNBA.",
+        "content": "<p>Sophie Cunningham signed with the Indiana Fever ahead of the 2024 WNBA season, marking a new chapter in her professional career.</p><p>The move came after she spent three seasons with the Phoenix Mercury, where she established herself as a reliable scorer and defender.</p><p>Her arrival in Indianapolis has already increased media attention on the Fever, a franchise seeking to raise its profile.</p><p>Analysts say her presence could help the team attract more fans and sponsors in a competitive market.</p>",
+        "celebrities": [
+            "Sophie Cunningham",
+            "Indiana Fever",
+            "WNBA",
+            "Phoenix Mercury",
+            "University of Missouri"
+        ],
+        "category": "Sports",
+        "image_url": "https://phantom.estaticos-marca.com/da882c57f7a6912f630da9a00efb3748/crop/0x0/1978x1318/resize/1200/f/webp/assets/multimedia/imagenes/2026/04/09/17756986004456.jpg",
+        "date": "Apr 9, 2026",
+        "url": "https://www.marca.com/en/basketball/wnba/indiana-fever/2026/04/09/69d70175ca474132738b4585.html"
+    },
+    {
+        "id": "5c43agtqg",
+        "title": "How Dartmouth College’s VMware migration became an unexpected infrastructure playbook",
+        "excerpt": "VMware migration is infamously laborious. But for Dartmouth College, it turned out to be the best infrastructure decision the university never planned to make. The university completed its migration to Nutanix Inc. infrastructure — including its Acropolis Hyp…",
+        "content": "<p>VMware migration is infamously laborious. But for Dartmouth College, it turned out to be the best infrastructure decision the university never planned to make. The university completed its migration to Nutanix Inc. infrastructure — including its Acropolis Hyp…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/IMG_9214-e1775682797947.jpg",
+        "date": "Apr 9, 2026",
+        "url": "https://siliconangle.com/2026/04/08/dartmouths-vmware-migration-now-ai-ready-blueprint-nutanixnext/"
+    },
+    {
+        "id": "30ua3mcpf",
+        "title": "CNBC Daily Open: Markets love a ceasefire — but can it last?",
+        "excerpt": "The Iran-U.S. ceasefire has lifted markets, but some cracks are already showing in the 'fragile truce.'",
+        "content": "<p>The Iran-U.S. ceasefire has lifted markets, but some cracks are already showing in the 'fragile truce.'</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://image.cnbcfm.com/api/v1/image/108288964-1775687517946-108288964-1775687378605-gettyimages-2248969384-nikoubazl-iranianp251202_npN8U.jpeg?v=1775687551&w=1920&h=1080",
+        "date": "Apr 9, 2026",
+        "url": "https://www.cnbc.com/2026/04/09/-fragile-truce-pauses-iran-conflict-but-cracks-are-showing.html"
+    },
+    {
+        "id": "duyn0emk0",
+        "title": "IT cos slash US teams; Luggage brands hit turbulence",
+        "excerpt": "Happy Thursday! Indian IT firms have begun cutting jobs in their US teams, according to filings. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Thursday! Indian IT firms have begun cutting jobs in their US teams, according to filings. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-130126861,width-1070,height-580,imgsize-21232,overlay-ettech/editionshow.jpg",
+        "date": "Apr 9, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/it-cos-slash-us-teams-luggage-brands-hit-turbulence/articleshow/130126861.cms"
+    },
+    {
+        "id": "o50n8nh0v",
+        "title": "Was China responsible for achieving '11th-hour' ceasefire?",
+        "excerpt": "China's Foreign Minister Wang Yi says he held 26 phone calls with his counterparts in Iran, Israel, Russia and Gulf countries before the ceasefire was reached.",
+        "content": "<p>China's Foreign Minister Wang Yi says he held 26 phone calls with his counterparts in Iran, Israel, Russia and Gulf countries before the ceasefire was reached.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/503859b7c017ca7ad4df5c9ebfddf2e4?impolicy=wcms_watermark_news&cropH=1376&cropW=2447&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "date": "Apr 9, 2026",
+        "url": "https://www.abc.net.au/news/2026-04-09/chinas-role-in-negotiating-ceasefire/106544290"
+    },
+    {
+        "id": "f6zyaj51t",
+        "title": "Goldman Sachs private credit fund narrowly misses a redemption crisis",
+        "excerpt": "Goldman Sachs Private Credit Corp. just dodged a bullet. The firm's non-traded business development company (BDC) reported in a recent filing that redemption...",
+        "content": "<p>Goldman Sachs Private Credit Corp. just dodged a bullet. The firm's non-traded business development company (BDC) reported in a recent filing that redemption...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s.yimg.com/os/en/thestreet_881/55a727c612cff51f688e540a9d419ba9",
+        "date": "Apr 9, 2026",
+        "url": "https://www.thestreet.com/crypto/markets/goldman-sachs-private-credit-fund-narrowly-escapes-a-blue-owl-situation"
+    },
+    {
         "id": "8d63yelkm",
         "title": "Pope Leo calls out Trump’s Iran rhetoric before last-minute ceasefire emerges",
         "excerpt": "Pope Leo called President Trump's threat against Iran 'truly unacceptable,' urging world leaders to return to the negotiating table and reject war always.",
