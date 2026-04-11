@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "lcuyyi1wh",
+        "title": "Mythos AI threat prompts Bessent, Powell to convene bank CEOs for urgent talks",
+        "excerpt": "Mythos can rapidly spot software flaws and craft sophisticated exploits, raising fears of systemic risks in the banking system.",
+        "content": "<p>Mythos can rapidly spot software flaws and craft sophisticated exploits, raising fears of systemic risks in the banking system.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/b1d6ea7b7aec491803836b0fa81e4742ba3b8285-1280x854.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "date": "Apr 10, 2026",
+        "url": "https://www.coindesk.com/markets/2026/04/10/mythos-ai-threat-sees-bessent-powell-call-urgent-meeting-with-bank-ceos"
+    },
+    {
+        "id": "jni0y50xr",
+        "title": "Moscow champions digital sovereignty and AI-driven city management",
+        "excerpt": "By ensuring strategic technology capabilities are developed in-house, megacities can protect their critical infrastructure from cyber threats and global unpredictability, says Moscow government minister",
+        "content": "<p>By ensuring strategic technology capabilities are developed in-house, megacities can protect their critical infrastructure from cyber threats and global unpredictability, says Moscow government minister</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Moscow-Russia-1-fotolia.jpg",
+        "date": "Apr 10, 2026",
+        "url": "https://www.computerweekly.com/news/366641555/Moscow-champions-digital-sovereignty-and-AI-driven-city-management"
+    },
+    {
+        "id": "3dt824c9f",
+        "title": "Meta Platforms says it will spend an additional $21B on CoreWeave’s AI infrastructure",
+        "excerpt": "Meta Platforms Inc. said today it’s going to throw an additional $21 billion at the cloud artificial intelligence infrastructure provider CoreWeave Inc. as it strives to keep pace with rival AI developers. The deal expands the social media giant’s partnership…",
+        "content": "<p>Meta Platforms Inc. said today it’s going to throw an additional $21 billion at the cloud artificial intelligence infrastructure provider CoreWeave Inc. as it strives to keep pace with rival AI developers. The deal expands the social media giant’s partnership…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2025-10-01-06-41-02.png",
+        "date": "Apr 10, 2026",
+        "url": "https://siliconangle.com/2026/04/09/meta-platforms-says-will-spend-additional-21b-coreweaves-ai-infrastructure/"
+    },
+    {
+        "id": "82w34y5rr",
+        "title": "Florida AG opens probe into ChatGPT alleging connection to FSU shooting",
+        "excerpt": "Florida’s Attorney General James Uthmeier announced today that his office will open a probe into OpenAI over a number of concerns including alleged harm to children, threats to national security, and a possible connection to a mass shooting at Florida State U…",
+        "content": "<p>Florida’s Attorney General James Uthmeier announced today that his office will open a probe into OpenAI over a number of concerns including alleged harm to children, threats to national security, and a possible connection to a mass shooting at Florida State U…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/emiliano-vittoriosi-fvxNerA8uk0-unsplash-1.jpg",
+        "date": "Apr 10, 2026",
+        "url": "https://siliconangle.com/2026/04/09/florida-ag-opens-probe-chatgpt-alleging-connection-fsu-shooting/"
+    },
+    {
+        "id": "3ebc8hyz5",
+        "title": "Unleashing the Advantage of Quantum AI",
+        "excerpt": "As experimental capabilities advance rapidly, the quantum computing community faces a critical elephant in the room: What will these quantum machines eventually be useful for? Will they deliver the promised broad societal impact, or will they remain highly sp…",
+        "content": "<p>As experimental capabilities advance rapidly, the quantum computing community faces a critical elephant in the room: What will these quantum machines eventually be useful for? Will they deliver the promised broad societal impact, or will they remain highly sp…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://quantumfrontiers.com/wp-content/uploads/2026/04/quantum-frontiers-69d522b94779b.jpg",
+        "date": "Apr 10, 2026",
+        "url": "https://quantumfrontiers.com/2026/04/09/unleashing-the-advantage-of-quantum-ai/"
+    },
+    {
+        "id": "8eqlcbvbo",
+        "title": "Underexposed? Social Anxiety and School Closure",
+        "excerpt": "For teens with social anxiety, pandemic-related school closures may have felt like a relief. But in many cases, it might have made symptoms worse.",
+        "content": "<p>For teens with social anxiety, pandemic-related school closures may have felt like a relief. But in many cases, it might have made symptoms worse.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-04/ad_4nxfnjbjjhynxj8l_ynmn4kmtn9tgswqtdamgheyspfohjk9ojoga2eqjkpezakwoduihnok4ugzvnhio7h9ozltsjhobyket-jjfd7s3phmhndcnhviieruza6sksfzblqofkt14jw.jpeg.jpg?itok=JPlnbMGX",
+        "date": "Apr 10, 2026",
+        "url": "https://www.psychologytoday.com/us/blog/home-base/202604/underexposed-social-anxiety-and-school-closure"
+    },
+    {
+        "id": "dfgektfd3",
+        "title": "Lalong’s lone voice in Plateau",
+        "excerpt": "Former Plateau Governor Simon Lalong suggests internal dialogue, not blame, is the key to resolving the long-standing Plateau State crisis and attacks.\n\nRead More: https://punchng.com/lalongs-lone-voice-in-plateau/",
+        "content": "<p>Former Plateau Governor Simon Lalong suggests internal dialogue, not blame, is the key to resolving the long-standing Plateau State crisis and attacks.\n\nRead More: https://punchng.com/lalongs-lone-voice-in-plateau/</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2024/03/14204456/Tunji-Ajibade.jpg",
+        "date": "Apr 10, 2026",
+        "url": "https://punchng.com/lalongs-lone-voice-in-plateau/"
+    },
+    {
+        "id": "gftk3ecns",
+        "title": "The Empire State Building To Celebrate Its 95th Anniversary With a Sweet New Pop-Up Experience From Ghirardelli",
+        "excerpt": "ESB-exclusive Ghirardelli Kong Sundae available on the 86th Floor Observation Deck from April 10 through May 10 NEW YORK — Something sweet comes to the top attraction in NYC. The Empire State Building (ESB) announced today that it will partner with Ghirardell…",
+        "content": "<p>ESB-exclusive Ghirardelli Kong Sundae available on the 86th Floor Observation Deck from April 10 through May 10 NEW YORK — Something sweet comes to the top attraction in NYC. The Empire State Building (ESB) announced today that it will partner with Ghirardell…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/776482751.jpeg",
+        "date": "Apr 10, 2026",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/the-empire-state-building-to-celebrate-its-95th-anniversary-with-a-sweet-new-pop-up-experience-from-ghirardelli"
+    },
+    {
+        "id": "6n5b67cgb",
+        "title": "WHO says next pandemic could be closer than we think as 800 health centres unite",
+        "excerpt": "The World Health Organisation, WHO, on Thursday warned that the world may be edging closer to another major pandemic, even as it strengthens one of the largest global health networks ever assembled to confront such threats.\nThe post WHO says next pandemic cou…",
+        "content": "<p>The World Health Organisation, WHO, on Thursday warned that the world may be edging closer to another major pandemic, even as it strengthens one of the largest global health networks ever assembled to confront such threats.\nThe post WHO says next pandemic cou…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2025/05/WHO.jpg",
+        "date": "Apr 10, 2026",
+        "url": "https://www.vanguardngr.com/2026/04/who-says-next-pandemic-could-be-closer-than-we-think-as-800-health-centres-unite/"
+    },
+    {
+        "id": "jkyrtxukv",
+        "title": "Best ACV Gummies Claims Evaluated: What Ingredient Labels Actually Disclose vs. What Marketing Pages Emphasize — 2026 Consumer Transparency Update",
+        "excerpt": "ACV gummy label analysis: what ingredient panels disclose, where research-supported dosages diverge from proprietary blends, and what to check...",
+        "content": "<p>ACV gummy label analysis: what ingredient panels disclose, where research-supported dosages diverge from proprietary blends, and what to check...</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://ml.globenewswire.com/Resource/Download/f6c69df0-c478-4730-82c5-32c75d5ddcd3",
+        "date": "Apr 10, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/04/10/3271490/0/en/Best-ACV-Gummies-Claims-Evaluated-What-Ingredient-Labels-Actually-Disclose-vs-What-Marketing-Pages-Emphasize-2026-Consumer-Transparency-Update.html"
+    },
+    {
         "id": "mqbhp6ydb",
         "title": "Appeals court rejects Anthropic’s bid to block Pentagon blacklisting",
         "excerpt": "A federal appeals court in Washington DC today rejected Anthropic PBC’s request for a stay in its lawsuit against the Department of Defense. A panel of three judges said the artificial intelligence start-up had failed to meet the strict requirements for an em…",
