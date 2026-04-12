@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "qakxse8n9",
+        "title": "Economic Digest: Nepal’s Business News in a Snap",
+        "excerpt": "KATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. Nepal’s current economic landscape reflects a mix of short-term stress and underlying structural adju…",
+        "content": "<p>KATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. Nepal’s current economic landscape reflects a mix of short-term stress and underlying structural adju…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+        "date": "Apr 11, 2026",
+        "url": "https://english.khabarhub.com/2026/11/543632/"
+    },
+    {
+        "id": "6s5256tt0",
+        "title": "Kai Trump shares photos from Augusta National after Tiger Woods' DUI arrest, treatment departure",
+        "excerpt": "Kai Trump attended the Masters at Augusta National after the public fallout from Tiger Woods' DUI arrest and treatment seeking abroad.",
+        "content": "<p>Kai Trump attended the Masters at Augusta National after the public fallout from Tiger Woods' DUI arrest and treatment seeking abroad.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/Kai-Trump-Pelican-Golf-club.jpeg",
+        "date": "Apr 11, 2026",
+        "url": "https://www.foxnews.com/sports/kai-trump-shares-photos-augusta-national-tiger-woods-dui-arrest-treatment-departure"
+    },
+    {
+        "id": "ziseqge7z",
+        "title": "NEXT LEVEL BREAKTHROUGHS for AI, Space and Tesla Technology",
+        "excerpt": "There are huge breakthroughs coming in 2026 for space, Tesla technology and AI. SPACE BREAKTHROUGHS Early May SpaceX Starship V3 Flight 12 June SpaceX Flight 13 Orbital Second Half V3 Satellites 10-20 Flights, 400-1000 Satellites $100-200 Per Kg with 10+ boos…",
+        "content": "<p>There are huge breakthroughs coming in 2026 for space, Tesla technology and AI. SPACE BREAKTHROUGHS Early May SpaceX Starship V3 Flight 12 June SpaceX Flight 13 Orbital Second Half V3 Satellites 10-20 Flights, 400-1000 Satellites $100-200 Per Kg with 10+ boos…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/04/Screenshot-2026-04-10-at-7.00.55-PM.jpg",
+        "date": "Apr 11, 2026",
+        "url": "https://www.nextbigfuture.com/2026/04/next-level-breakthroughs-for-ai-space-and-tesla-technology.html"
+    },
+    {
+        "id": "pyn9w1o2w",
+        "title": "Hello Sunshine’s President Of Film & Television Lauren Neustadter Previews Upcoming TV Shows ‘Elle’ & ‘Lucky’ And ‘The Nightingale’ Film As Production Gets Underway",
+        "excerpt": "With the second season of Apple TV and Hello Sunshine’s The Last Thing He Told Me drama series drawing to a close today, it only made sense that Deadline got to chat via phone with Lauren Neustadter, President of Film & TV at Reese Witherspoon’s production co…",
+        "content": "<p>With the second season of Apple TV and Hello Sunshine’s The Last Thing He Told Me drama series drawing to a close today, it only made sense that Deadline got to chat via phone with Lauren Neustadter, President of Film & TV at Reese Witherspoon’s production co…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://deadline.com/wp-content/uploads/2026/04/Lauren-Neustadter-Hello-Sunshine-Updates.jpg?w=1024",
+        "date": "Apr 11, 2026",
+        "url": "http://deadline.com/2026/04/hello-sunshine-film-tv-slate-lauren-neustadter-elle-lucky-1236821878/"
+    },
+    {
+        "id": "wn1bioiza",
+        "title": "Liter-class superbike gets car-level aids to analyze the tarmac for you",
+        "excerpt": "The very first motorcycle from a relatively new company is often a stepping stone. More often than not, it would likely be a small displacement street bike made for the masses with white-labeled components, barebones tech, and definitely not a liter-class eng…",
+        "content": "<p>The very first motorcycle from a relatively new company is often a stepping stone. More often than not, it would likely be a small displacement street bike made for the masses with white-labeled components, barebones tech, and definitely not a liter-class eng…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://assets.newatlas.com/dims4/default/9c2259b/2147483647/strip/true/crop/1510x793+141+0/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F7a%2F80%2F5aa181e34626914313e91663f88a%2Fscreenshot-2026-04-09-121430.png&na.image_optimisation=0",
+        "date": "Apr 11, 2026",
+        "url": "https://newatlas.com/motorcycles/guruma-1000-rr/"
+    },
+    {
+        "id": "ekfzmytpb",
+        "title": "Abu Dhabi’s Kill List: Inside the Israel–UAE Mercenary Death Squads from Yemen to Serbia",
+        "excerpt": "Freddie Ponton21st Century Wire A Gulf monarchy hired an Israeli‑Hungarian mercenary and a team of American special forces veterans to run a black‑budget assassination program against a civilian political party in Yemen. It did this while posing in Washington…",
+        "content": "<p>Freddie Ponton21st Century Wire A Gulf monarchy hired an Israeli‑Hungarian mercenary and a team of American special forces veterans to run a black‑budget assassination program against a civilian political party in Yemen. It did this while posing in Washington…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://www.activistpost.com/wp-content/uploads/2026/04/Golan.jpg",
+        "date": "Apr 11, 2026",
+        "url": "https://www.activistpost.com/abu-dhabis-kill-list-inside-the-israel-uae-mercenary-death-squads-from-yemen-to-serbia/"
+    },
+    {
+        "id": "zzws5nqsi",
+        "title": "China’s K-pop worries: The reasons why a ban on Korean entertainment has lasted a decade",
+        "excerpt": "BEIJING (AP) — As mega K-pop group BTS returns to the stage after a hiatus of more than three years, one major market is conspicuously missing from its 12-month world tour: China. The omission of one of the group’s biggest fan bases comes as no surprise. In f…",
+        "content": "<p>BEIJING (AP) — As mega K-pop group BTS returns to the stage after a hiatus of more than three years, one major market is conspicuously missing from its 12-month world tour: China. The omission of one of the group’s biggest fan bases comes as no surprise. In f…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://digital-stage.wavy.com/wp-content/uploads/sites/3/2026/04/69d84eda52b497.48471640.jpeg?w=1280",
+        "date": "Apr 11, 2026",
+        "url": "https://digital-stage.wavy.com/news/world/ap-chinas-k-pop-worries-the-reasons-why-a-ban-on-korean-entertainment-has-lasted-a-decade/"
+    },
+    {
+        "id": "prptwolmk",
+        "title": "Suspect arrested after Molotov cocktail attack at OpenAI CEO Sam Altman's home",
+        "excerpt": "San ​Francisco police arrested a person ​for allegedly throwing a Molotov cocktail at OpenAI ​CEO Sam Altman's home and for making threats outside the artificial intelligence startup's headquarters, the company said on Friday.",
+        "content": "<p>San ​Francisco police arrested a person ​for allegedly throwing a Molotov cocktail at OpenAI ​CEO Sam Altman's home and for making threats outside the artificial intelligence startup's headquarters, the company said on Friday.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-59836,resizemode-75,msid-130182837/tech/technology/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altmans-home.jpg",
+        "date": "Apr 11, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altmans-home/articleshow/130182837.cms"
+    },
+    {
+        "id": "6u4po4v05",
+        "title": "Molotov thrown at Sam Altman’s home; OpenAI CEO raises concerns",
+        "excerpt": "Altman has linked the incident to rising tensions around AI, public narratives about his role, and a recent critical article about him. Saying that the fear and anxiety about AI is justified, he called for a policy initiative to lead the AI transition in soci…",
+        "content": "<p>Altman has linked the incident to rising tensions around AI, public narratives about his role, and a recent critical article about him. Saying that the fear and anxiety about AI is justified, he called for a policy initiative to lead the AI transition in soci…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-59836,resizemode-75,msid-130185766/tech/artificial-intelligence/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altmans-home.jpg",
+        "date": "Apr 11, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altmans-home/articleshow/130185766.cms"
+    },
+    {
+        "id": "thow671ua",
+        "title": "Tesla's supervised self-driving software gets Dutch okay, first in Europe",
+        "excerpt": "Dutch regulators approved the ​use of Tesla's self-driving software with required human supervision on highways and city streets in a European first for the electric car maker, which hopes to see similar action from the rest of the European Union.",
+        "content": "<p>Dutch regulators approved the ​use of Tesla's self-driving software with required human supervision on highways and city streets in a European first for the electric car maker, which hopes to see similar action from the rest of the European Union.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-47378,resizemode-75,msid-130182821/tech/technology/teslas-supervised-self-driving-software-gets-dutch-okay-first-in-europe.jpg",
+        "date": "Apr 11, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/teslas-supervised-self-driving-software-gets-dutch-okay-first-in-europe/articleshow/130182821.cms"
+    },
+    {
         "id": "lcuyyi1wh",
         "title": "Mythos AI threat prompts Bessent, Powell to convene bank CEOs for urgent talks",
         "excerpt": "Mythos can rapidly spot software flaws and craft sophisticated exploits, raising fears of systemic risks in the banking system.",
