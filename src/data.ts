@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "dzlyc5kfl",
+        "title": "The End of Eleventy",
+        "excerpt": "Build Awesome is a rebrand of 11ty/Eleventy, backed by a successful $40k Kickstarter. But this attempt to monetize static site generators repeats the same mistakes that killed Gatsby and Stackbit—and misunderstands who actually builds static sites.",
+        "content": "<p>Build Awesome is a rebrand of 11ty/Eleventy, backed by a successful $40k Kickstarter. But this attempt to monetize static site generators repeats the same mistakes that killed Gatsby and Stackbit—and misunderstands who actually builds static sites.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://brennan.day/assets/images/blog/11ty.jpg",
+        "date": "Apr 12, 2026",
+        "url": "https://brennan.day/the-end-of-eleventy/"
+    },
+    {
+        "id": "f0turndbr",
+        "title": "How Oracle’s huge AI build-out is causing a cash crunch and layoffs",
+        "excerpt": "Once a cash-generating software stalwart, Oracle has transformed into a debt-heavy infrastructure builder. The strain is showing.",
+        "content": "<p>Once a cash-generating software stalwart, Oracle has transformed into a debt-heavy infrastructure builder. The strain is showing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/logo/COMBO-US-BUSINESS-WEALTH-ELLISON-0_1760074892783_1760074906324_1775832731656.jpg",
+        "date": "Apr 12, 2026",
+        "url": "https://www.livemint.com/companies/news/oracle-layoffs-india-oracle-job-cuts-11775824138456.html"
+    },
+    {
+        "id": "lxirkvp43",
+        "title": "AJ Chronicles: How to Fight the Slop",
+        "excerpt": "Old systems of certification are failing from every direction: technological, legal, institutional and political. So what's left when you can't just say \"trust us\"? You have to show your work and construct a context, making the case not by institutional crede…",
+        "content": "<p>Old systems of certification are failing from every direction: technological, legal, institutional and political. So what's left when you can't just say \"trust us\"? You have to show your work and construct a context, making the case not by institutional crede…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i0.wp.com/www.artsjournal.com/diacritical/wordpress/wp-content/uploads/2026/04/designtrickacademy-amber-7327252_1280-1.jpg?fit=1024%2C365&ssl=1",
+        "date": "Apr 12, 2026",
+        "url": "https://www.artsjournal.com/diacritical/2026/04/aj-chronicles-how-to-fight-the-slop.html"
+    },
+    {
+        "id": "83bizk6gv",
+        "title": "Wisconsin Badgers fall to Denver in NCAA men's hockey championship",
+        "excerpt": "The Wisconsin Badgers men's hockey team lost to the Denver Pioneers in the NCAA championship game on Saturday, April 11.",
+        "content": "<p>The Wisconsin Badgers men's hockey team lost to the Denver Pioneers in the NCAA championship game on Saturday, April 11.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2026/04/1200/630/gettyimages-2270914684.jpg?ve=1&tl=1",
+        "date": "Apr 12, 2026",
+        "url": "https://www.fox6now.com/sports/wisconsin-badgers-hockey-score-denver-041126"
+    },
+    {
+        "id": "tplyrnbp4",
+        "title": "Three word secret code revealed that would pull Savannah Guthrie off the air",
+        "excerpt": "NBC has reportedly got a contingency plan in place for Savannah Guthrie in the event that a break in her mother Nancy's disappearance case happens live on the Today show, a new report revealed.",
+        "content": "<p>NBC has reportedly got a contingency plan in place for Savannah Guthrie in the event that a break in her mother Nancy's disappearance case happens live on the Today show, a new report revealed.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/Comp_-3-1.jpg?quality=75&strip=all&w=1200",
+        "date": "Apr 12, 2026",
+        "url": "https://nypost.com/2026/04/11/us-news/three-word-secret-code-revealed-that-would-pull-savannah-guthrie-off-the-air/"
+    },
+    {
+        "id": "f6dnrbypn",
+        "title": "Fans enjoy rivalry among artistes — African China",
+        "excerpt": "Veteran singer African China discusses how fan fascination with conflict and artiste rivalry has become a defining part of today’s entertainment culture.\n\nRead More: https://punchng.com/fans-enjoy-rivalry-among-artistes-african-china/",
+        "content": "<p>Veteran singer African China discusses how fan fascination with conflict and artiste rivalry has become a defining part of today’s entertainment culture.\n\nRead More: https://punchng.com/fans-enjoy-rivalry-among-artistes-african-china/</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2025/06/20201924/African-China.jpg",
+        "date": "Apr 12, 2026",
+        "url": "https://punchng.com/fans-enjoy-rivalry-among-artistes-african-china/"
+    },
+    {
+        "id": "jg6ubsebf",
+        "title": "Apple TV’s 10-part crime drama title? #entertainment",
+        "excerpt": "What Apple’s standout 2024 crime drama is doing right Apple TV+ continues to quietly build a reputation for prestige storytelling across genres, and a new 10 part crime drama highlighted in 2024 is being positioned as one of the streamer’s best entries. The c…",
+        "content": "<p>What Apple’s standout 2024 crime drama is doing right Apple TV+ continues to quietly build a reputation for prestige storytelling across genres, and a new 10 part crime drama highlighted in 2024 is being positioned as one of the streamer’s best entries. The c…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Apr 12, 2026",
+        "url": "https://alltoc.com/entertainment/apple-tvs-10-part-crime-drama-title"
+    },
+    {
+        "id": "ltpvsxd2b",
+        "title": "Election of the Weekend IV: Hungary",
+        "excerpt": "Our story begins almost 20 years ago, in 2006, when two ambitious 25 year old Hungarian baby lawyers got married. The bride, Judit Varga, had already joined Fidesz, the main opposition party at the time. Fidesz had emerged from 1980’s student movement as a se…",
+        "content": "<p>Our story begins almost 20 years ago, in 2006, when two ambitious 25 year old Hungarian baby lawyers got married. The bride, Judit Varga, had already joined Fidesz, the main opposition party at the time. Fidesz had emerged from 1980’s student movement as a se…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/04/image-4-scaled.png",
+        "date": "Apr 11, 2026",
+        "url": "https://www.lawyersgunsmoneyblog.com/2026/04/election-of-the-weekend-iv-hungary"
+    },
+    {
+        "id": "qc2dqxpou",
+        "title": "Financial illiteracy weakens microfinance effectiveness – Microbiz boss",
+        "excerpt": "Discover why Nigeria’s microfinance sector struggles with effectiveness despite growth. Financial illiteracy is a key barrier to true financial inclusion.\n\nRead More: https://punchng.com/financial-illiteracy-weakens-microfinance-effectiveness-microbiz-boss/",
+        "content": "<p>Discover why Nigeria’s microfinance sector struggles with effectiveness despite growth. Financial illiteracy is a key barrier to true financial inclusion.\n\nRead More: https://punchng.com/financial-illiteracy-weakens-microfinance-effectiveness-microbiz-boss/</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/04/11212137/Mr.-Joseph-Onyeabor.jpg",
+        "date": "Apr 11, 2026",
+        "url": "https://punchng.com/financial-illiteracy-weakens-microfinance-effectiveness-microbiz-boss/"
+    },
+    {
+        "id": "h0z39t2oj",
+        "title": "NYT Connections hints and answers for Sunday, April 12 (game #1036)",
+        "excerpt": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
+        "content": "<p>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
+        "date": "Apr 11, 2026",
+        "url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-12-april-2026"
+    },
+    {
         "id": "qakxse8n9",
         "title": "Economic Digest: Nepal’s Business News in a Snap",
         "excerpt": "KATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. Nepal’s current economic landscape reflects a mix of short-term stress and underlying structural adju…",
