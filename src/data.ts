@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "wyutokmkx",
+        "title": "Blumhouse founder says he got on 'destroyed' on social media for teaming up with Meta, but it changed how he sees AI and Hollywood",
+        "excerpt": "Jason Blum said he thinks AI-generated content is more likely to compete with scrolling on social media, rather than watching a movie.",
+        "content": "<p>Jason Blum said he thinks AI-generated content is more likely to compete with scrolling on social media, rather than watching a movie.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.insider.com/69def15dbb50bc96d0b4d31b?width=1200&format=jpeg",
+        "date": "Apr 15, 2026",
+        "url": "https://www.businessinsider.com/jason-blum-blumhouse-productions-ai-hollywood-meta-deal-lesson-2026-4"
+    },
+    {
+        "id": "1i2uwdj43",
+        "title": "From punch lines to death threats: Jewish comics no longer safe in Hollywood",
+        "excerpt": "There’s nothing funny about what Jewish comics have faced in the post-Oct. 7 world.",
+        "content": "<p>There’s nothing funny about what Jewish comics have faced in the post-Oct. 7 world.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/newspress-collage-tkgfnsjhg-1776218597986.jpg?quality=75&strip=all&1776204230&w=1200",
+        "date": "Apr 15, 2026",
+        "url": "https://nypost.com/2026/04/14/opinion/jewish-comics-no-longer-safe-in-hollywood/"
+    },
+    {
+        "id": "x69ppg54a",
+        "title": "GSMA Report Urges Japan to Take Bold Action to Convert Technical Excellence into Global Digital Leadership",
+        "excerpt": "New study highlights urgent priorities for Japan's digital transformation, with industry signaling shared 6G ambition through the Tokyo Accord TOKYO, April 15, 2026 /PRNewswire/ -- Japan must take bold, coordinated action to translate its world-class technolo…",
+        "content": "<p>New study highlights urgent priorities for Japan's digital transformation, with industry signaling shared 6G ambition through the Tokyo Accord TOKYO, April 15, 2026 /PRNewswire/ -- Japan must take bold, coordinated action to translate its world-class technolo…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mma.prnewswire.com/media/1882833/5915941/GSMA_Logo.jpg?p=facebook",
+        "date": "Apr 15, 2026",
+        "url": "https://www.prnewswire.co.uk/news-releases/gsma-report-urges-japan-to-take-bold-action-to-convert-technical-excellence-into-global-digital-leadership-302742287.html"
+    },
+    {
+        "id": "19s5avj9o",
+        "title": "Breaking News Live Updates: BJP leader Samrat Choudhary to be sworn in as Bihar Chief Minister today",
+        "excerpt": "Breaking News Live Updates: Bihar’s Deputy Chief Minister and BJP leader Samrat Choudhary will take oath as the new Chief Minister of the state today. The swearing-in ceremony is scheduled to take place at Lok Bhavan in Patna at 11 AM.",
+        "content": "<p>Breaking News Live Updates: Bihar’s Deputy Chief Minister and BJP leader Samrat Choudhary will take oath as the new Chief Minister of the state today. The swearing-in ceremony is scheduled to take place at Lok Bhavan in Patna at 11 AM.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://economictimes.indiatimes.com/thumb/msid-130271094,width-1200,height-900,resizemode-4,imglength-31138/news/newsblogs/news-live-updates-bihar-nitish-kumar-bihar-new-cm-samrat-choudhary-womens-reservation-bill-parliament-pm-modi-news-rahul-gandhi.jpg",
+        "date": "Apr 15, 2026",
+        "url": "https://m.economictimes.com/news/newsblogs/news-live-updates-bihar-nitish-kumar-bihar-new-cm-samrat-choudhary-womens-reservation-bill-parliament-pm-modi-news-rahul-gandhi/liveblog/130271094.cms"
+    },
+    {
+        "id": "3ap53hamg",
+        "title": "Microsoft’s MAI-Image-2-Efficient model accelerates company’s move away from OpenAI",
+        "excerpt": "Microsoft Corp.’s push for artificial intelligence independence is gaining traction with today’s release of MAI-Image-2-Efficient, a lean and mean version of its flagship image generation model that debuted earlier this month. The new version is meant to deli…",
+        "content": "<p>Microsoft Corp.’s push for artificial intelligence independence is gaining traction with today’s release of MAI-Image-2-Efficient, a lean and mean version of its flagship image generation model that debuted earlier this month. The new version is meant to deli…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2026-04-15-08-55-46.png",
+        "date": "Apr 15, 2026",
+        "url": "https://siliconangle.com/2026/04/14/microsofts-mai-image-2-efficient-model-accelerates-companys-move-away-openai/"
+    },
+    {
+        "id": "rz5lk1v2t",
+        "title": "Prabowo-Macron talks in Paris focus on bilateral ties, global issues",
+        "excerpt": "President Prabowo Subianto and French President Emmanuel Macron discussed ways to strengthen bilateral cooperation in various sectors during their meeting at ...",
+        "content": "<p>President Prabowo Subianto and French President Emmanuel Macron discussed ways to strengthen bilateral cooperation in various sectors during their meeting at ...</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/04/15/WhatsApp-Image-2026-04-14-at-23.02.26.jpeg",
+        "date": "Apr 15, 2026",
+        "url": "https://en.antaranews.com/news/412289/prabowo-macron-talks-in-paris-focus-on-bilateral-ties-global-issues"
+    },
+    {
+        "id": "vmb3xpro6",
+        "title": "Former UCLA gynecologist sentenced after pleading guilty to sexually assaulting patients at school",
+        "excerpt": "James Heaps, a former UCLA OB-GYN, pleaded guilty to 13 felony counts and was sentenced to 11 years in prison for sexually assaulting his patients.",
+        "content": "<p>James Heaps, a former UCLA OB-GYN, pleaded guilty to 13 felony counts and was sentenced to 11 years in prison for sexually assaulting his patients.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/james-heaps.jpg",
+        "date": "Apr 15, 2026",
+        "url": "https://www.foxnews.com/us/former-ucla-gynecologist-sentenced-pleading-guilty-sexually-assaulting-patients-school"
+    },
+    {
+        "id": "kx6korxxg",
+        "title": "Meta extends custom chips deal with Broadcom to power AI ambitions",
+        "excerpt": "As part of the deal, Broadcom CEO Hock Tan would leave Meta's board and ​move to an advisory role on its custom chip strategy, the companies said in a joint statement. That ​custom chip boom has made Broadcom one of the ⁠biggest winners of generative AI. The …",
+        "content": "<p>As part of the deal, Broadcom CEO Hock Tan would leave Meta's board and ​move to an advisory role on its custom chip strategy, the companies said in a joint statement. That ​custom chip boom has made Broadcom one of the ⁠biggest winners of generative AI. The …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-31638,resizemode-75,msid-130270999/tech/artificial-intelligence/meta-extends-custom-chips-deal-with-broadcom-to-power-ai-ambitions.jpg",
+        "date": "Apr 15, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-extends-custom-chips-deal-with-broadcom-to-power-ai-ambitions/articleshow/130270999.cms"
+    },
+    {
+        "id": "5f902evwh",
+        "title": "Omewa bags WSL2 Player of The Month nomination",
+        "excerpt": "Nottingham Forest’s Joy Omewa is nominated for the WSL2 Player of the Month award for March after scoring two goals in four games for the club.\n\nRead More: https://punchng.com/omewa-bags-wsl2-player-of-the-month-nomination/",
+        "content": "<p>Nottingham Forest’s Joy Omewa is nominated for the WSL2 Player of the Month award for March after scoring two goals in four games for the club.\n\nRead More: https://punchng.com/omewa-bags-wsl2-player-of-the-month-nomination/</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/03/29234819/Omewa-1200x630.jpg",
+        "date": "Apr 15, 2026",
+        "url": "https://punchng.com/omewa-bags-wsl2-player-of-the-month-nomination/"
+    },
+    {
+        "id": "p4z5mozx2",
+        "title": "Softball: ECU drops home game to UNC 7-3",
+        "excerpt": "GREENVILLE, N.C. (WNCT) — The Tar Heels scored six runs late over two innings as UNC takes the win on the road over the Pirates 7-3. Tune into the 11pm show for highlights and more.",
+        "content": "<p>GREENVILLE, N.C. (WNCT) — The Tar Heels scored six runs late over two innings as UNC takes the win on the road over the Pirates 7-3. Tune into the 11pm show for highlights and more.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/wnct_greenville_articles_424/48e2ea05ff5a997751533f52d5d99947",
+        "date": "Apr 15, 2026",
+        "url": "https://www.wnct.com/sports/softball-ecu-drops-home-game-to-unc-7-3/"
+    },
+    {
         "id": "lavd7j1lr",
         "title": "EnterpriseSG opens new Austin office to help Singapore companies expand in the US",
         "excerpt": "EnterpriseSG opens a new Austin office to provide Singapore companies with market intelligence and advisory services for US expansion. Read more at straitstimes.com. Read more at straitstimes.com.",
