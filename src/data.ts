@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "0z6t4twfn",
+        "title": "Breaking News Live Updates: Women's Reservation Bill, Delimitation Bill to be tabled in Parliament today",
+        "excerpt": "Breaking News Live Updates: The historic bills to implement 33 per cent women's quota in legislature, delimitation and the one to increase the seats for Union Territories, will be tabled in parliament today. The government plans to implement quota before 2029…",
+        "content": "<p>Breaking News Live Updates: The historic bills to implement 33 per cent women's quota in legislature, delimitation and the one to increase the seats for Union Territories, will be tabled in parliament today. The government plans to implement quota before 2029…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://economictimes.indiatimes.com/thumb/msid-130296049,width-1200,height-900,resizemode-4,imglength-8684/news/newsblogs/news-live-updates-parliament-session-womens-reservation-bill-news-special-session-delimitation-bill-pm-modi-opposition-congress-on-bill-parliament-news.jpg",
+        "date": "Apr 16, 2026",
+        "url": "https://m.economictimes.com/news/newsblogs/news-live-updates-parliament-session-womens-reservation-bill-news-special-session-delimitation-bill-pm-modi-opposition-congress-on-bill-parliament-news/liveblog/130296049.cms"
+    },
+    {
+        "id": "lpwl97vtg",
+        "title": "Cisco goes to the races with new Churchill Downs multi-year partnership",
+        "excerpt": "Cisco Systems Inc. today announced that it had landed a new multi-year partnership with Churchill Downs Inc. to modernize the network infrastructure across its racing venues and casinos, with work set to begin in late 2026. Churchill Downs is best known for t…",
+        "content": "<p>Cisco Systems Inc. today announced that it had landed a new multi-year partnership with Churchill Downs Inc. to modernize the network infrastructure across its racing venues and casinos, with work set to begin in late 2026. Churchill Downs is best known for t…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/ciscokentuckyderby.png",
+        "date": "Apr 16, 2026",
+        "url": "https://siliconangle.com/2026/04/15/cisco-goes-races-new-churchill-downs-multi-year-partnership/"
+    },
+    {
+        "id": "3lx37kuqw",
+        "title": "World’s leading construction manufacturer makes bold move to acquire little-known California startup",
+        "excerpt": "The world’s largest manufacturer of construction equipment is making a bet on a little-known California startup that specializes in AI. Caterpillar acquired Monarch Tractor last month, a venture-backed startup, developing electric and autonomous off-road vehi…",
+        "content": "<p>The world’s largest manufacturer of construction equipment is making a bet on a little-known California startup that specializes in AI. Caterpillar acquired Monarch Tractor last month, a venture-backed startup, developing electric and autonomous off-road vehi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/125730653.jpg?quality=75&strip=all&w=1200",
+        "date": "Apr 16, 2026",
+        "url": "https://nypost.com/2026/04/15/us-news/worlds-leading-construction-manufacturer-makes-bold-move-to-acquire-little-known-california-startup/"
+    },
+    {
+        "id": "bcqnfkh5w",
+        "title": "Allbirds shares soar after pivot from footwear to AI",
+        "excerpt": "The company is selling off its shoe brand as it plans to shift to providing technology infrastructure.",
+        "content": "<p>The company is selling off its shoe brand as it plans to shift to providing technology infrastructure.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3905/live/0cec19e0-392c-11f1-be5e-b7a5a0708255.jpg",
+        "date": "Apr 16, 2026",
+        "url": "https://www.bbc.com/news/articles/c98mrepzgj7o"
+    },
+    {
+        "id": "d898rxqwa",
+        "title": "Why is Tesla Up $28",
+        "excerpt": "All the Tesla and MAcRO fundamental changes that are driving up Tesla and the market. Other changes in AI. AI5 chip tapeout, Tesla FSD 14.3.1 and more.",
+        "content": "<p>All the Tesla and MAcRO fundamental changes that are driving up Tesla and the market. Other changes in AI. AI5 chip tapeout, Tesla FSD 14.3.1 and more.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/04/teslaup.jpg",
+        "date": "Apr 16, 2026",
+        "url": "https://www.nextbigfuture.com/2026/04/why-is-tesla-up-28.html"
+    },
+    {
+        "id": "poraot59q",
+        "title": "Can AI fix your credit score? Krutrim shuts down assistant Kruti",
+        "excerpt": "Happy Thursday! Fintechs are building AI solutions to help boost the creditworthiness of borrowers. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Thursday! Fintechs are building AI solutions to help boost the creditworthiness of borrowers. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-130295630,width-1070,height-580,imgsize-1342204,overlay-ettech/editionshow.jpg",
+        "date": "Apr 16, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ai-rewrites-credit-scores-consolidation-bug-hits-ai-firms/articleshow/130295630.cms"
+    },
+    {
+        "id": "1ugyjiiki",
+        "title": "From dropping bombs to pressuring banks: US pivots to economic warfare on Iran",
+        "excerpt": "The Trump administration is shifting its Iran strategy towards economic pressure, threatening secondary sanctions on countries doing business with Tehran. Treasury Secretary Scott Bessent stated these moves are the \"financial equivalent\" of a bombing campaign…",
+        "content": "<p>The Trump administration is shifting its Iran strategy towards economic pressure, threatening secondary sanctions on countries doing business with Tehran. Treasury Secretary Scott Bessent stated these moves are the \"financial equivalent\" of a bombing campaign…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-130295698,width-1200,height-630,imgsize-127828,overlay-etdefence/articleshow.jpg",
+        "date": "Apr 16, 2026",
+        "url": "https://economictimes.indiatimes.com/news/defence/from-dropping-bombs-to-pressuring-banks-us-pivots-to-economic-warfare-on-iran/articleshow/130295676.cms"
+    },
+    {
+        "id": "ulrpkbyam",
+        "title": "Samsung Electronics Showcases 2026 AI-Powered TV Innovations Ahead of Market Launch at European Tech Seminar",
+        "excerpt": "Samsung Electronics is hosting its 2026 European Tech Seminar in Frankfurt, Germany, from April 15–16, offering media and industry professionals an early, hands-on look at its latest AI-powered TV, display and audio innovations ahead of their global rollout. …",
+        "content": "<p>Samsung Electronics is hosting its 2026 European Tech Seminar in Frankfurt, Germany, from April 15–16, offering media and industry professionals an early, hands-on look at its latest AI-powered TV, display and audio innovations ahead of their global rollout. …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/04/15140437/Samsung-TVs-and-Displays-2026-European-Tech-Seminar-Vision-AI-Companion-AI-Powered-TV-Innovations_Thumb932.jpg",
+        "date": "Apr 16, 2026",
+        "url": "https://news.samsung.com/global/samsung-electronics-showcases-2026-ai-powered-tv-innovations-ahead-of-market-launch-at-european-tech-seminar"
+    },
+    {
+        "id": "8d97521ar",
+        "title": "Tax Oil Companies’ Windfall Profits, Says European Civil Society",
+        "excerpt": "European NGOs call on Ursula von der Leyen to tax excess oil profits to support vulnerable households, industry and the clean energy transition. A group of 31 European NGOs, including Oxfam, WWF, CAN Europe and T&E, have called on the EU to tax excess oil pro…",
+        "content": "<p>European NGOs call on Ursula von der Leyen to tax excess oil profits to support vulnerable households, industry and the clean energy transition. A group of 31 European NGOs, including Oxfam, WWF, CAN Europe and T&E, have called on the EU to tax excess oil pro…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cleantechnica.com/wp-content/uploads/2023/04/Fossil-Fuels-Oil-CleanTechnica-Watermark.png",
+        "date": "Apr 16, 2026",
+        "url": "https://cleantechnica.com/2026/04/15/tax-oil-companies-windfall-profits-says-european-civil-society/"
+    },
+    {
+        "id": "hhkil0vzk",
+        "title": "Breaking: Former US Marine pilot Dan Duggan to be extradited from Australia",
+        "excerpt": "Former United States Marine pilot Daniel Duggan, who is accused of unlawfully aiding the Chinese military, will be extradited from Australia, after a ruling by the Federal Court.",
+        "content": "<p>Former United States Marine pilot Daniel Duggan, who is accused of unlawfully aiding the Chinese military, will be extradited from Australia, after a ruling by the Federal Court.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/380602bc478cc2b8abb41ff7f4b70c43?impolicy=wcms_watermark_news&cropH=995&cropW=1768&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "date": "Apr 16, 2026",
+        "url": "https://www.abc.net.au/news/2026-04-16/former-us-marine-pilot-dan-duggan-to-be-extradited-australia/106570508"
+    },
+    {
         "id": "wyutokmkx",
         "title": "Blumhouse founder says he got on 'destroyed' on social media for teaming up with Meta, but it changed how he sees AI and Hollywood",
         "excerpt": "Jason Blum said he thinks AI-generated content is more likely to compete with scrolling on social media, rather than watching a movie.",
