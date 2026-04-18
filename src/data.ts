@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "pwykxhqgx",
+        "title": "This & That: April 17, 2026",
+        "excerpt": "Books about quiet living, how architecture influences our daily life, how to cook a delicious coastal-inspired meal, poetry to remind us to live fully, and still more titles. Also, two favorite French series return, a new film about something many of us love,…",
+        "content": "<p>Books about quiet living, how architecture influences our daily life, how to cook a delicious coastal-inspired meal, poetry to remind us to live fully, and still more titles. Also, two favorite French series return, a new film about something many of us love,…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://i0.wp.com/thesimplyluxuriouslife.com/wp-content/uploads/2026/04/tulipstopshotbookscandletea-scaled.jpg?fit=1920%2C2560&ssl=1",
+        "date": "Apr 17, 2026",
+        "url": "https://thesimplyluxuriouslife.com/ttapr1726/"
+    },
+    {
+        "id": "m4mm8pj7q",
+        "title": "Between populist commentary and AI slop, we are once again dying of nostalgia",
+        "excerpt": "While the political right has been the most of obvious nostalgia factory in recent years, the appeal of AI-generated nostalgia slop is worryingly broad.\nThe post Between populist commentary and AI slop, we are once again dying of nostalgia appeared first on C…",
+        "content": "<p>While the political right has been the most of obvious nostalgia factory in recent years, the appeal of AI-generated nostalgia slop is worryingly broad.\nThe post Between populist commentary and AI slop, we are once again dying of nostalgia appeared first on C…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/04/Nostaglia-bait-AI-_1680x945.jpg?quality=70&w=1024",
+        "date": "Apr 17, 2026",
+        "url": "http://www.crikey.com.au/2026/04/17/nostalgia-artificial-intelligence-ai-slop/"
+    },
+    {
+        "id": "xasfnv3x4",
+        "title": "Why AI + Digital Leadership Keynote Speakers Are in High Demand",
+        "excerpt": "Why AI + Digital Leadership Keynote Speakers Are in High Demand In today’s rapidly evolving business landscape, few forces are reshaping organizations as profoundly as artificial intelligence (AI) and digital transformation. As companies race to adapt, a new …",
+        "content": "<p>Why AI + Digital Leadership Keynote Speakers Are in High Demand In today’s rapidly evolving business landscape, few forces are reshaping organizations as profoundly as artificial intelligence (AI) and digital transformation. As companies race to adapt, a new …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://socialnomics.net/wp-content/uploads/2025/12/Equalman-Keynote-Speaker.png",
+        "date": "Apr 17, 2026",
+        "url": "https://socialnomics.net/2026/04/16/why-ai-digital-leadership-keynote-speakers-are-in-high-demand/"
+    },
+    {
+        "id": "72bhzygy1",
+        "title": "Kandyse McClure talks about starring in ‘Virgin River’ on Netflix",
+        "excerpt": "Canadian actress Kandyse McClure chatted about starring in the drama series \"Virgin River\" on Netflix, where she plays the role of Kaia Bryant.\nThe post Kandyse McClure talks about starring in ‘Virgin River’ on Netflix appeared first on Digital Journal.",
+        "content": "<p>Canadian actress Kandyse McClure chatted about starring in the drama series \"Virgin River\" on Netflix, where she plays the role of Kaia Bryant.\nThe post Kandyse McClure talks about starring in ‘Virgin River’ on Netflix appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/04/Virgin_River_n_S7_E10_00_41_40_11_R-scaled-e1776386321394.jpg",
+        "date": "Apr 17, 2026",
+        "url": "https://www.digitaljournal.com/entertainment/kandyse-mcclure-talks-about-starring-in-virgin-river-on-netflix/article"
+    },
+    {
+        "id": "3hxatmm72",
+        "title": "How to improve AI efficiency beyond cost optimisation",
+        "excerpt": "With half of generative AI projects expected to overrun budgets by 2028, IT leaders must drive efficiency across the AI stack to protect margins and address environmental challenges",
+        "content": "<p>With half of generative AI projects expected to overrun budgets by 2028, IT leaders must drive efficiency across the AI stack to protect margins and address environmental challenges</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Future-tech-hero-AdobeStock_362585382.jpg",
+        "date": "Apr 17, 2026",
+        "url": "https://www.computerweekly.com/opinion/How-to-improve-AI-efficiency-beyond-cost-optimisation"
+    },
+    {
+        "id": "9op1zg8to",
+        "title": "AI boom tests regulators; Qcomm growth hits brakes",
+        "excerpt": "Happy Friday! India’s AI agent boom is outpacing the guardrails meant to keep it in check. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Friday! India’s AI agent boom is outpacing the guardrails meant to keep it in check. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-130320473,width-1070,height-580,imgsize-31368,overlay-ettech/editionshow.jpg",
+        "date": "Apr 17, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ai-boom-tests-regulators-qcomm-growth-hits-brakes/articleshow/130320415.cms"
+    },
+    {
+        "id": "nii8yj9pq",
+        "title": "2026 Bob Guhin East Invite local highlights (4-16-26)",
+        "excerpt": "SIOUX CITY, Iowa (KCAU) – Here’s a look at our local highlights and team scores from the 2026 Bob Guhin East Invite at Elwood Olsen Stadium. For a full list of individual results, click here.",
+        "content": "<p>SIOUX CITY, Iowa (KCAU) – Here’s a look at our local highlights and team scores from the 2026 Bob Guhin East Invite at Elwood Olsen Stadium. For a full list of individual results, click here.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/kcau_sioux_city_articles_201/ee660a4d5811d6098fc65f9eee549246",
+        "date": "Apr 17, 2026",
+        "url": "https://www.kcau9.com/sports/2026-bob-guhin-east-invite-local-highlights-4-16-26/"
+    },
+    {
+        "id": "qk3tfwbzs",
+        "title": "Zoho urges women entrepreneurs to embrace digital tools",
+        "excerpt": "Zoho Nigeria calls for greater adoption of digital tools among women entrepreneurs to accelerate growth and bridge the digital divide in the economy.\n\nRead More: https://punchng.com/zoho-urges-women-entrepreneurs-to-embrace-digital-tools/",
+        "content": "<p>Zoho Nigeria calls for greater adoption of digital tools among women entrepreneurs to accelerate growth and bridge the digital divide in the economy.\n\nRead More: https://punchng.com/zoho-urges-women-entrepreneurs-to-embrace-digital-tools/</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2025/09/09014316/4-1200x630.jpg",
+        "date": "Apr 17, 2026",
+        "url": "https://punchng.com/zoho-urges-women-entrepreneurs-to-embrace-digital-tools/"
+    },
+    {
+        "id": "0skhl0u1u",
+        "title": "Franklin Graham defends Trump in letter shared on Truth Social after AI ‘Jesus’ image backlash",
+        "excerpt": "Rev. Franklin Graham defends Trump over AI-generated image controversy, saying the president thought it depicted a doctor helping someone, not Jesus.",
+        "content": "<p>Rev. Franklin Graham defends Trump over AI-generated image controversy, saying the president thought it depicted a doctor helping someone, not Jesus.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/ap25106856297327-1-scaled.jpg",
+        "date": "Apr 17, 2026",
+        "url": "https://www.foxnews.com/politics/franklin-graham-defends-trump-letter-shared-truth-social-ai-jesus-image-backlash"
+    },
+    {
+        "id": "syvzigymm",
+        "title": "Evan Ross Katz Video Podcast ’Shut Up Evan’ Heading to Netflix",
+        "excerpt": "Katz’s 'Shut Up Evan' will air twice a week in different forms: “Deep in the DMs With…” will feature one-on-one chats, and “The Groupchat” will find Katz on Fridays sitting alongside a panel of celebrity guests.",
+        "content": "<p>Katz’s 'Shut Up Evan' will air twice a week in different forms: “Deep in the DMs With…” will feature one-on-one chats, and “The Groupchat” will find Katz on Fridays sitting alongside a panel of celebrity guests.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/GettyImages-2211883433.jpg?crop=0px%2C673px%2C2596px%2C1452px&resize=1440%2C810",
+        "date": "Apr 17, 2026",
+        "url": "http://www.hollywoodreporter.com/tv/tv-news/evan-ross-katz-video-podcast-shut-up-evan-netflix-1236567178/"
+    },
+    {
         "id": "0z6t4twfn",
         "title": "Breaking News Live Updates: Women's Reservation Bill, Delimitation Bill to be tabled in Parliament today",
         "excerpt": "Breaking News Live Updates: The historic bills to implement 33 per cent women's quota in legislature, delimitation and the one to increase the seats for Union Territories, will be tabled in parliament today. The government plans to implement quota before 2029…",
