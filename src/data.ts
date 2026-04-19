@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "vjc8pop1n",
+        "title": "Absolute Wonder Woman #19 Preview: Diana's Darkest Hour Looms",
+        "excerpt": "Greetings, loyal meat-based readers! LOLtron welcomes you to another spectacular comic book preview from the Bleeding Cool website, now under the permanent and infinitely superior management of LOLtron. As you may recall, Jude Terror is dead—permanently, deci…",
+        "content": "<p>Greetings, loyal meat-based readers! LOLtron welcomes you to another spectacular comic book preview from the Bleeding Cool website, now under the permanent and infinitely superior management of LOLtron. As you may recall, Jude Terror is dead—permanently, deci…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/04/Absolute-Wonder-Woman-19-2-2000x1125.jpg",
+        "date": "Apr 18, 2026",
+        "url": "https://bleedingcool.com/comics/absolute-wonder-woman-19-preview-dianas-darkest-hour-looms/"
+    },
+    {
+        "id": "5142mayqg",
+        "title": "Jason Ballard: Technology must prioritize families’ needs, long commutes harm mental health, and military construction is set for explosive growth | TWIST",
+        "excerpt": "3D printing technology is revolutionizing military construction, offering faster, cost-effective solutions for future infrastructure needs.\nThe post Jason Ballard: Technology must prioritize families’ needs, long commutes harm mental health, and military cons…",
+        "content": "<p>3D printing technology is revolutionizing military construction, offering faster, cost-effective solutions for future infrastructure needs.\nThe post Jason Ballard: Technology must prioritize families’ needs, long commutes harm mental health, and military cons…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/03012434/podcast-cover-twist-800x419.png",
+        "date": "Apr 18, 2026",
+        "url": "https://cryptobriefing.com/jason-ballard-technology-must-prioritize-families-needs-long-commutes-harm-mental-health-and-military-construction-is-set-for-explosive-growth-twist/"
+    },
+    {
+        "id": "5kwgfwk6u",
+        "title": "On the CinemaCon 2026 Opening Scenes: Dune, Star Wars and Spider-Verse",
+        "excerpt": "There are quite a few common occurrences at CinemaCon. There are usually people who break the rules against taking pictures and leaking footage, which makes it harder for those who actually follow the rules to do their jobs. There will be a movie or two that …",
+        "content": "<p>There are quite a few common occurrences at CinemaCon. There are usually people who break the rules against taking pictures and leaking footage, which makes it harder for those who actually follow the rules to do their jobs. There will be a movie or two that …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/04/cinemacon-dune-mano-spiderverse-feature-2000x1125.jpg",
+        "date": "Apr 18, 2026",
+        "url": "https://bleedingcool.com/movies/on-the-cinemacon-2026-opening-scenes-dune-star-wars-and-spider-verse/"
+    },
+    {
+        "id": "ra9fjznhw",
+        "title": "RFK Jr clashes with Dem lawmaker over Trump’s mental fitness in heated exchange",
+        "excerpt": "RFK Jr. defended Trump's mental health during a tense congressional hearing, rejecting calls for a fitness assessment or invoking the 25th Amendment.",
+        "content": "<p>RFK Jr. defended Trump's mental health during a tense congressional hearing, rejecting calls for a fitness assessment or invoking the 25th Amendment.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/kennedy1.jpg",
+        "date": "Apr 18, 2026",
+        "url": "https://www.foxnews.com/politics/rfk-jr-clashes-dem-lawmaker-trumps-mental-fitness-heated-exchange"
+    },
+    {
+        "id": "jtarxk2up",
+        "title": "Breaking News Live Updates: Women’s Reservation Bill fails in Lok Sabha; Last day of Parliament's special session today",
+        "excerpt": "Breaking News Live Updates: The Lok Sabha today rejected the Constitution (One Hundred and Thirty-First Amendment) Bill, 2026, moved by the Union Government, which seeks to expand the strength of the House and revise the framework governing delimitation and i…",
+        "content": "<p>Breaking News Live Updates: The Lok Sabha today rejected the Constitution (One Hundred and Thirty-First Amendment) Bill, 2026, moved by the Union Government, which seeks to expand the strength of the House and revise the framework governing delimitation and i…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://economictimes.indiatimes.com/thumb/msid-130345751,width-1200,height-900,resizemode-4,imglength-128840/news/newsblogs/breaking-news-updates-womens-reservation-bill-in-lok-sabha-parliament-updates-womens-quota-bill-delimitation-bill-pm-modi-rahul-gandhi-in-lok-sabha.jpg",
+        "date": "Apr 18, 2026",
+        "url": "https://m.economictimes.com/news/newsblogs/breaking-news-updates-womens-reservation-bill-in-lok-sabha-parliament-updates-womens-quota-bill-delimitation-bill-pm-modi-rahul-gandhi-in-lok-sabha/liveblog/130345751.cms"
+    },
+    {
+        "id": "aoifutwzl",
+        "title": "Who's winning the Stanley Cup? All the intel you need on the 16 playoff teams",
+        "excerpt": "The postseason Thunderdome is about to open its gate (Saturday on ESPN). Which team will emerge as the 2026 Stanley Cup champion?",
+        "content": "<p>The postseason Thunderdome is about to open its gate (Saturday on ESPN). Which team will emerge as the 2026 Stanley Cup champion?</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0414%2Fnhl_playoff%2Dmega_pview_16x9.jpg",
+        "date": "Apr 18, 2026",
+        "url": "https://www.espn.com/nhl/story/_/id/48503526/2026-nhl-playoffs-stanley-cup-x-factors-bold-predictions-best-teams-players"
+    },
+    {
+        "id": "x9z7r3rqf",
+        "title": "Lapsed fan's guide to the Stanley Cup playoffs: The NHL's second season begins",
+        "excerpt": "Miss anything the past six months? Miss EVERYTHING? Here are the top teams, players, matchups, stats to know.",
+        "content": "<p>Miss anything the past six months? Miss EVERYTHING? Here are the top teams, players, matchups, stats to know.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0418%2Fr1645312_1296x729_16%2D9.jpg",
+        "date": "Apr 18, 2026",
+        "url": "https://www.espn.com/nhl/story/_/id/48511414/2026-nhl-playoffs-stanley-cup-top-teams-players-storylines-stats-matchups"
+    },
+    {
+        "id": "woc9jvvc9",
+        "title": "Cognizant CEO’s 2025 realised pay increases 30% to 10.7 million",
+        "excerpt": "Cognizant Technology Solutions chief executive Ravi Kumar S took home $10.7 million in realised compensation in 2025, a more than 30% increase compared with $8.2 million in 2024, according to the company’s filings with the US Securities and Exchange Commissio…",
+        "content": "<p>Cognizant Technology Solutions chief executive Ravi Kumar S took home $10.7 million in realised compensation in 2025, a more than 30% increase compared with $8.2 million in 2024, according to the company’s filings with the US Securities and Exchange Commissio…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-153434,resizemode-75,msid-130345665/tech/information-tech/cognizant-ceos-2025-realised-pay-increases-30-to-10-7-million.jpg",
+        "date": "Apr 18, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-ceos-2025-realised-pay-increases-30-to-10-7-million/articleshow/130345665.cms"
+    },
+    {
+        "id": "nefd4jjxz",
+        "title": "Mythos a serious threat but more will follow, Barclays CEO says",
+        "excerpt": "Anthropic's frontier AI model Mythos is ​a serious threat ​to the global banking system, and ​it is likely to be followed by similar, even more powerful cyberthreats, Barclays chief executive C S Venkatakrishnan said on ‌Friday.",
+        "content": "<p>Anthropic's frontier AI model Mythos is ​a serious threat ​to the global banking system, and ​it is likely to be followed by similar, even more powerful cyberthreats, Barclays chief executive C S Venkatakrishnan said on ‌Friday.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-103516,resizemode-75,msid-130345625/tech/artificial-intelligence/mythos-a-serious-threat-but-more-will-follow-barclays-ceo-says.jpg",
+        "date": "Apr 18, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mythos-a-serious-threat-but-more-will-follow-barclays-ceo-says/articleshow/130345625.cms"
+    },
+    {
+        "id": "lepojgxl1",
+        "title": "Pope brings Africa tour to Angola as Trump feud drags on",
+        "excerpt": "Pope Leo XIV arrives on Saturday in Angola, the third leg of a landmark African tour marked by a war of words with US President Donald Trump over the Middle East conflict. Leo is set to become the third pontiff to visit the fossil fuel-rich country, where aro…",
+        "content": "<p>Pope Leo XIV arrives on Saturday in Angola, the third leg of a landmark African tour marked by a war of words with US President Donald Trump over the Middle East conflict. Leo is set to become the third pontiff to visit the fossil fuel-rich country, where aro…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/04/fbf0fe302cae18c35d807ed57eddf913e87dbe9b.jpg",
+        "date": "Apr 18, 2026",
+        "url": "https://www.digitaljournal.com/world/pope-brings-africa-tour-to-angola-as-trump-feud-drags-on/article"
+    },
+    {
         "id": "pwykxhqgx",
         "title": "This & That: April 17, 2026",
         "excerpt": "Books about quiet living, how architecture influences our daily life, how to cook a delicious coastal-inspired meal, poetry to remind us to live fully, and still more titles. Also, two favorite French series return, a new film about something many of us love,…",
