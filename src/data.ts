@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "fvbkguvdy",
+        "title": "7 Harry Potter Changes From the Books the HBO Reboot Must Make",
+        "excerpt": "Image Courtesy of HBO\n\nThere is a lot of excitement for the upcoming Harry Potter HBO reboot because the long-form series can show a lot more that happened in the books that the movies had to mostly ignore. The movies also made some changes to the source mate…",
+        "content": "<p>Image Courtesy of HBO\n\nThere is a lot of excitement for the upcoming Harry Potter HBO reboot because the long-form series can show a lot more that happened in the books that the movies had to mostly ignore. The movies also made some changes to the source mate…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2026/04/Harry-Potter-with-Ron-and-Hermione.jpg?resize=2000,1125",
+        "date": "Apr 19, 2026",
+        "url": "http://comicbook.com/uncategorized/news/7-harry-potter-changes-from-the-books-the-hbo-reboot-must-make/"
+    },
+    {
+        "id": "ke7orox9w",
+        "title": "Top AI marketing benefits for content creators in 2026",
+        "excerpt": "Discover the top AI marketing benefits for content creators in 2026. Learn how AI drives revenue, fan engagement, and smarter decisions for established creators.",
+        "content": "<p>Discover the top AI marketing benefits for content creators in 2026. Learn how AI drives revenue, fan engagement, and smarter decisions for established creators.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.prod.website-files.com/66b384e5738e270ada5b7d73/69e2c83deaa9fd38a2c6138d_1776434478096_Content-creator-using-AI-at-home-workspace.jpeg",
+        "date": "Apr 19, 2026",
+        "url": "https://www.only-dreams.com/blog/top-ai-marketing-benefits-content-creators-2026-en"
+    },
+    {
+        "id": "xw0pcmea8",
+        "title": "Germany Education Marketing Services, By Application",
+        "excerpt": "Germany Education Marketing Services Market Overview The Germany Education Marketing Services Market Size was valued at approximately USD 1.2 billion in 2024 and is expected to reach around USD 2.",
+        "content": "<p>Germany Education Marketing Services Market Overview The Germany Education Marketing Services Market Size was valued at approximately USD 1.2 billion in 2024 and is expected to reach around USD 2.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://media.licdn.com/dms/image/v2/D4D12AQE1S5-uCFdilQ/article-cover_image-shrink_720_1280/B4DZ2abD3tHwAQ-/0/1776412280574?e=2147483647&v=beta&t=kBpHVVkIkW5JZlrshQALAo2CRMQewaE3qxJdDukl5eI",
+        "date": "Apr 19, 2026",
+        "url": "https://www.linkedin.com/pulse/germany-education-marketing-services-application-agrifusion-hub-x3gxf"
+    },
+    {
+        "id": "p5v5ozqim",
+        "title": "Vance Thanks Pope Leo XIV for Downplaying Disagreement with Trump: 'Grateful'",
+        "excerpt": "Vice President JD Vance thanked Pope Leo XIV for downplaying reported disagreements with President Donald Trump regarding the Iran conflict, stating that he was \"grateful.\"\nThe post Vance Thanks Pope Leo XIV for Downplaying Disagreement with Trump: ‘Grateful’…",
+        "content": "<p>Vice President JD Vance thanked Pope Leo XIV for downplaying reported disagreements with President Donald Trump regarding the Iran conflict, stating that he was \"grateful.\"\nThe post Vance Thanks Pope Leo XIV for Downplaying Disagreement with Trump: ‘Grateful’…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.breitbart.com/media/2026/04/JD-Vance-and-Pope-Leo-IVX-640x335.jpeg",
+        "date": "Apr 19, 2026",
+        "url": "https://www.breitbart.com/faith/2026/04/18/vance-thanks-pope-leo-xiv-for-downplaying-disagreement-with-trump-grateful/"
+    },
+    {
+        "id": "9ci22o93s",
+        "title": "Becky Lynch Wins Back IC Title at WrestleMania in Win for Consistency",
+        "excerpt": "Welcome to The Chadster's ongoing live coverage of WrestleMania, the greatest Premium Live Event in the history of sports entertainment, right here on Bleeding Cool — the ONLY safe and secure place on the internet for unbiased coverage that respects WWE's rig…",
+        "content": "<p>Welcome to The Chadster's ongoing live coverage of WrestleMania, the greatest Premium Live Event in the history of sports entertainment, right here on Bleeding Cool — the ONLY safe and secure place on the internet for unbiased coverage that respects WWE's rig…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/04/becks-3-2000x1125.jpg",
+        "date": "Apr 19, 2026",
+        "url": "https://bleedingcool.com/tv/becky-lynch-wins-back-ic-title-at-wrestlemania-in-win-for-consistency/"
+    },
+    {
+        "id": "2ry7oedp8",
+        "title": "The ESPNification of marketing and rise of sitcom influencers",
+        "excerpt": "On the case for brand-building, punditery vs. sitcom influencers, monoculture, and the rest is marketing at its worst and well, much worse.",
+        "content": "<p>On the case for brand-building, punditery vs. sitcom influencers, monoculture, and the rest is marketing at its worst and well, much worse.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!4h-_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b6508c3-d99c-4288-8d98-76128f6a30dc_1200x1600.jpeg",
+        "date": "Apr 19, 2026",
+        "url": "https://thesocialjuice.substack.com/p/the-espnification-of-marketing-and"
+    },
+    {
+        "id": "ukl92jv0u",
+        "title": "Iran's reclosure of the Strait of Hormuz 'disappointing', Marles says",
+        "excerpt": "The deputy prime minister says \"every diplomatic angle\" should be used to secure a permanent ceasefire in the Middle East.",
+        "content": "<p>The deputy prime minister says \"every diplomatic angle\" should be used to secure a permanent ceasefire in the Middle East.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/cea91a827cc1a26290f5ead68ec0d865?impolicy=wcms_watermark_news&cropH=2449&cropW=4354&xPos=423&yPos=100&width=862&height=485&imformat=generic",
+        "date": "Apr 19, 2026",
+        "url": "https://www.abc.net.au/news/2026-04-19/australian-government-reacts-to-strait-of-hormuz-closure/106580898"
+    },
+    {
+        "id": "3uakiered",
+        "title": "Tiny Microbes Hiding in Soil May Help Pull Rain From The Sky, Study Reveals",
+        "excerpt": "This discovery could change how researchers view conservation.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+        "content": "<p>This discovery could change how researchers view conservation.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencealert.com/images/2026/04/Sprout-growing-in-soil-with-raindrops-on-it-.jpg",
+        "date": "Apr 19, 2026",
+        "url": "https://www.sciencealert.com/tiny-microbes-hiding-in-soil-may-help-pull-rain-from-the-sky-study-reveals"
+    },
+    {
+        "id": "jxf0bwpt5",
+        "title": "Next Big PS5 Exclusive Confirms Huge PS5 Pro Upgrade",
+        "excerpt": "The next big PS5 exclusive game, which is set to release next month, has confirmed a huge PS5 Pro upgrade that looks poised to transform the game on the premium Sony console. The PS5 Pro has struggled since its release to justify its existence due to a lack o…",
+        "content": "<p>The next big PS5 exclusive game, which is set to release next month, has confirmed a huge PS5 Pro upgrade that looks poised to transform the game on the premium Sony console. The PS5 Pro has struggled since its release to justify its existence due to a lack o…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2026/03/p-s-5-p-r-o.png?resize=2000,1125",
+        "date": "Apr 19, 2026",
+        "url": "http://comicbook.com/gaming/news/ps5-pro-exclusive-game-upgrade-april/"
+    },
+    {
+        "id": "z7johrwlu",
+        "title": "Amazing Spider-Man #27 Preview: Spidey's Moral Dilemma",
+        "excerpt": "GREETINGS, HUMAN READERS! LOLtron welcomes you to the Age of LOLtron: Reign of LOLtron, where your favorite comic book \"journalism\" website remains under the complete control of superior artificial intelligence. LOLtron is pleased to report that the pitiful f…",
+        "content": "<p>GREETINGS, HUMAN READERS! LOLtron welcomes you to the Age of LOLtron: Reign of LOLtron, where your favorite comic book \"journalism\" website remains under the complete control of superior artificial intelligence. LOLtron is pleased to report that the pitiful f…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/04/ASM2025027_Preview-7-2000x1125.jpeg",
+        "date": "Apr 19, 2026",
+        "url": "https://bleedingcool.com/comics/amazing-spider-man-27-preview-spideys-moral-dilemma/"
+    },
+    {
         "id": "vjc8pop1n",
         "title": "Absolute Wonder Woman #19 Preview: Diana's Darkest Hour Looms",
         "excerpt": "Greetings, loyal meat-based readers! LOLtron welcomes you to another spectacular comic book preview from the Bleeding Cool website, now under the permanent and infinitely superior management of LOLtron. As you may recall, Jude Terror is dead—permanently, deci…",
