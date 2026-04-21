@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "7qagt82r7",
+        "title": "Indian markets set for cautious open amid US-Iran tensions, oil price surge",
+        "excerpt": "Indian markets may open cautious as US-Iran tensions and rising oil prices drive volatility, with investors tracking earnings, FPI flows and global cues.",
+        "content": "<p>Indian markets may open cautious as US-Iran tensions and rising oil prices drive volatility, with investors tracking earnings, FPI flows and global cues.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bl-i.thgim.com/public/incoming/kz41va/article70883023.ece/alternates/LANDSCAPE_1200/stock%20market-1.jpg",
+        "date": "Apr 20, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/indian-markets-set-for-cautious-open-amid-us-iran-tensions-oil-price-surge/article70883019.ece"
+    },
+    {
+        "id": "6cccu794x",
+        "title": "Odisha gets 3D chip packaging unit",
+        "excerpt": "Odisha is emerging as a significant player in advanced sectors like electronics and semiconductors with the inauguration of India's first 3D glass substrate packaging facility. This Rs 1,943 crore project, set up by 3D Glass Solutions Inc., aims to bolster In…",
+        "content": "<p>Odisha is emerging as a significant player in advanced sectors like electronics and semiconductors with the inauguration of India's first 3D glass substrate packaging facility. This Rs 1,943 crore project, set up by 3D Glass Solutions Inc., aims to bolster In…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-148310,resizemode-75,msid-130380553/tech/technology/odisha-gets-3d-chip-packaging-unit.jpg",
+        "date": "Apr 20, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/odisha-gets-3d-chip-packaging-unit/articleshow/130380553.cms"
+    },
+    {
+        "id": "0v1izyj21",
+        "title": "Korean Stocks Erase War Loss as Chipmakers Rise on AI Resurgence",
+        "excerpt": "South Korean stocks have erased the slide triggered by the Iran war, driven by a rally in chipmakers as escalating US–Iran tensions bring the artificial intelligence trade back into investor focus.",
+        "content": "<p>South Korean stocks have erased the slide triggered by the Iran war, driven by a rally in chipmakers as escalating US–Iran tensions bring the artificial intelligence trade back into investor focus.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/korean-stocks-erase-war-loss-as-chipmakers-climb.jpg",
+        "date": "Apr 20, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/korean-stocks-erase-war-loss-as-chipmakers-rise-on-ai-resurgence"
+    },
+    {
+        "id": "kuox9a6yh",
+        "title": "Quote of the day by Hollywood actor Matthew McConaughey: 'There is a difference between being alone and loneliness. I think it is very important for us mentally to be able to be alone with ourselves ’; Interstellar star on why he takes solo trips",
+        "excerpt": "Matthew McConaughey distinguishes between being alone and experiencing loneliness, emphasizing the importance of mental strength to be comfortable in one's own company. He shared formative experiences, including a year in Australia, that taught him self-relia…",
+        "content": "<p>Matthew McConaughey distinguishes between being alone and experiencing loneliness, emphasizing the importance of mental strength to be comfortable in one's own company. He shared formative experiences, including a year in Australia, that taught him self-relia…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-130380631,width-1200,height-630,imgsize-23586,overlay-etpanache/articleshow.jpg",
+        "date": "Apr 20, 2026",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-hollywood-actor-matthew-mcconaughey-there-is-a-difference-between-being-alone-and-loneliness-i-think-it-is-very-important-for-us-mentally-to-be-able-to-be-alone-with-ourselves-interstellar-star-on-why-he-takes-solo-trips/articleshow/130380515.cms"
+    },
+    {
+        "id": "h6mb8hdfa",
+        "title": "Self-improving AI model has people talking – for good reason",
+        "excerpt": "If it feels like AI is developing too fast to keep up with, a group of Chinese researchers have some bad news – because they've developed a model that \"evolves\" on its own, creating better versions of itself with each self-analytical loop.Continue ReadingCate…",
+        "content": "<p>If it feels like AI is developing too fast to keep up with, a group of Chinese researchers have some bad news – because they've developed a model that \"evolves\" on its own, creating better versions of itself with each self-analytical loop.Continue ReadingCate…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://assets.newatlas.com/dims4/default/06142ee/2147483647/strip/true/crop/2000x1050+0+100/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3e%2F76%2F0285e4c440d7aa531c203163bbe4%2Fdepositphotos-172094950-l.jpg&na.image_optimisation=0",
+        "date": "Apr 20, 2026",
+        "url": "https://newatlas.com/ai-humanoids/self-evolving-ai-research/"
+    },
+    {
+        "id": "ql5id2f0m",
+        "title": "WWE WrestleMania 42 Night 2 Results & Highlights: Roman Reigns wins World title after 2 years, Brock Lesnar signals retirement, and more",
+        "excerpt": "WrestleMania 42 delivered thrilling action at Allegiant Stadium. Brock Lesnar's potential retirement was hinted at after a loss to Oba Femi. Penta retained his Intercontinental title in a chaotic ladder match. Trick Williams dethroned Sami Zayn for the US Cha…",
+        "content": "<p>WrestleMania 42 delivered thrilling action at Allegiant Stadium. Brock Lesnar's potential retirement was hinted at after a loss to Oba Femi. Penta retained his Intercontinental title in a chaotic ladder match. Trick Williams dethroned Sami Zayn for the US Cha…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-130380554,width-1280,height-720,imgsize-2148128,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Apr 20, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-wrestlemania-42-night-2-results-highlights-roman-reigns-wins-world-title-after-2-years-brock-lesnar-signals-retirement-and-more/articleshow/130380420.cms"
+    },
+    {
+        "id": "f32lk43ux",
+        "title": "How to Start Email Marketing From Scratch: Complete Setup Guide (ESP, IP Warming, Onboarding)",
+        "excerpt": "Starting email marketing from scratch? This complete guide covers everything from choosing an ESP and warming IPs to building high-converting onboarding flows and tracking systems.",
+        "content": "<p>Starting email marketing from scratch? This complete guide covers everything from choosing an ESP and warming IPs to building high-converting onboarding flows and tracking systems.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "http://localhost:3000/email-marketing-clean-slate.jpg",
+        "date": "Apr 20, 2026",
+        "url": "https://emailcalculator.com/blog/email-marketing-clean-slate"
+    },
+    {
+        "id": "byhwrtw4s",
+        "title": "リバネスナレッジ取締役副社長 平塚武が世界最大級のSalesforce開発者会議「TDX 2026」に登壇 ― Tableau AnalyticsとData 360の統合アーキテクチャを発信",
+        "excerpt": "[株式会社リバネスナレッジ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/128333/28/128333-28-f80da613f7ed300a5325de8a02730f44-2400x1600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+        "content": "<p>[株式会社リバネスナレッジ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/128333/28/128333-28-f80da613f7ed300a5325de8a02730f44-2400x1600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/128333/28/128333-28-f80da613f7ed300a5325de8a02730f44-2400x1600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "date": "Apr 20, 2026",
+        "url": "https://prtimes.jp/main/html/rd/p/000000028.000128333.html"
+    },
+    {
+        "id": "iv7vz7ego",
+        "title": "The Great Trench Debate: Is It Time for Caserio to Go All-In on the Interior?",
+        "excerpt": "Stroud's safety hinges on the interior. Will Caserio draft a cornerstone or rely on veteran patchwork for long-term success?",
+        "content": "<p>Stroud's safety hinges on the interior. Will Caserio draft a cornerstone or rely on veteran patchwork for long-term success?</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/xf2461SW0oVK.gE8Sf6Ysw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTI7Y2Y9d2VicA--/https://media.zenfs.com/en/roundtable_sports_houston_texans_articles_130/cc819d58fa5131518199e37d57a70f8a",
+        "date": "Apr 20, 2026",
+        "url": "https://roundtable.io/sports/nfl/texans/opinion/the-great-trench-debate-is-it-time-for-caserio-to-go-all-in-on-the-interior"
+    },
+    {
+        "id": "x4biai52c",
+        "title": "Distress call captures tanker under fire, Iran shuts Hormuz trapping thousands of sailors",
+        "excerpt": "Hundreds of oil tankers are stranded at the Strait of Hormuz after Iran shut the chokepoint, with crews reporting gunfire and traumatic experiences.",
+        "content": "<p>Hundreds of oil tankers are stranded at the Strait of Hormuz after Iran shut the chokepoint, with crews reporting gunfire and traumatic experiences.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/vessels-arabian-gulf.jpg",
+        "date": "Apr 20, 2026",
+        "url": "https://www.foxnews.com/world/distress-call-captures-tanker-fire-iran-shuts-hormuz-trapping-thousands-sailors"
+    },
+    {
         "id": "fvbkguvdy",
         "title": "7 Harry Potter Changes From the Books the HBO Reboot Must Make",
         "excerpt": "Image Courtesy of HBO\n\nThere is a lot of excitement for the upcoming Harry Potter HBO reboot because the long-form series can show a lot more that happened in the books that the movies had to mostly ignore. The movies also made some changes to the source mate…",
