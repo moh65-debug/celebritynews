@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "xd44i9yfa",
+        "title": "Five takeaways from CEO Shantanu Narayen’s final keynote at Adobe Summit",
+        "excerpt": "The 2026 edition of Adobe Summit this week marks a historic turning point for the software giant. It not only showcased the next frontier of “agentic artificial intelligence” but also served as the swan song for Shantanu Narayen, who delivered his final keyno…",
+        "content": "<p>The 2026 edition of Adobe Summit this week marks a historic turning point for the software giant. It not only showcased the next frontier of “agentic artificial intelligence” but also served as the swan song for Shantanu Narayen, who delivered his final keyno…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Adobe-Jensen-Shantanu.png",
+        "date": "Apr 21, 2026",
+        "url": "https://siliconangle.com/2026/04/20/five-takeaways-ceo-shantanu-narayens-final-keynote-adobe-summit/"
+    },
+    {
+        "id": "t9fk4bn0c",
+        "title": "Jeff Bezos' secretive AI startup is set to be valued at around $38 billion after raising a $10 billion mega round",
+        "excerpt": "Project Prometheus is raising around $10 billion in fresh funding at a post-money valuation of around $38 billion.",
+        "content": "<p>Project Prometheus is raising around $10 billion in fresh funding at a post-money valuation of around $38 billion.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.insider.com/69e6ad2a367066d7c296edb4?width=1200&format=jpeg",
+        "date": "Apr 21, 2026",
+        "url": "https://www.businessinsider.com/jeff-bezos-project-prometheus-valued-at-38-billion-2026-4"
+    },
+    {
+        "id": "6pzcq5lxd",
+        "title": "Wolters Kluwer Future Ready CFO report shows APAC CFOs embrace AI with a governance‑first mindset, closely aligned with global peers",
+        "excerpt": "SINGAPORE--(BUSINESS WIRE)--Apr 20, 2026-- CFOs across Asia‑Pacific are accelerating their engagement with artificial intelligence, according to the 2026 Future Ready CFO Survey – APAC Regional Insights.",
+        "content": "<p>SINGAPORE--(BUSINESS WIRE)--Apr 20, 2026-- CFOs across Asia‑Pacific are accelerating their engagement with artificial intelligence, according to the 2026 Future Ready CFO Survey – APAC Regional Insights.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "date": "Apr 21, 2026",
+        "url": "https://apnews.com/press-release/business-wire/wolters-kluwer-future-ready-cfo-report-shows-apac-cfos-embrace-ai-with-a-governance-first-mindset-closely-aligned-with-global-peers-83cb6747c2e240f1b405423529624459"
+    },
+    {
+        "id": "yqqd1czlp",
+        "title": "Joanna Stern: Apple’s leadership transition to John Ternus signals a hardware-focused era, Tim Cook’s legacy of operational excellence, and the cultural shift from secrecy to leaks | Big Technology",
+        "excerpt": "Apple's leadership shift to hardware focus signals a new era in tech innovation and industry dynamics.\nThe post Joanna Stern: Apple’s leadership transition to John Ternus signals a hardware-focused era, Tim Cook’s legacy of operational excellence, and the cul…",
+        "content": "<p>Apple's leadership shift to hardware focus signals a new era in tech innovation and industry dynamics.\nThe post Joanna Stern: Apple’s leadership transition to John Ternus signals a hardware-focused era, Tim Cook’s legacy of operational excellence, and the cul…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/03013851/podcast-cover-big-technology-800x420.jpg",
+        "date": "Apr 21, 2026",
+        "url": "https://cryptobriefing.com/joanna-stern-apples-leadership-transition-to-john-ternus-signals-a-hardware-focused-era-tim-cooks-legacy-of-operational-excellence-and-the-cultural-shift-from-secrecy-to-leaks-big-technology/"
+    },
+    {
+        "id": "ub7anjeoy",
+        "title": "Top 20 Veterinary Influencers in 2026 Driving the Future of Animal Health",
+        "excerpt": "Meet the top veterinary influencers in 2026 driving the future of animal health. Includes TikTok and Instagram follower counts and profile links.",
+        "content": "<p>Meet the top veterinary influencers in 2026 driving the future of animal health. Includes TikTok and Instagram follower counts and profile links.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://asdsdsfdf6nipskjdfhnsdbz.bittsi.com/storage//top-20-veterinary-influencers-2026.jpg",
+        "date": "Apr 21, 2026",
+        "url": "https://bittsi.com/blog/post/top-veterinary-influencers-2026"
+    },
+    {
+        "id": "yurjhs5tw",
+        "title": "Dennis Kucinich: How We Can Stop This War",
+        "excerpt": "The power of the purse is the surest way Congress can stop the Iran war, or any war. If Congress funds war, Congress authorizes it. If Congress cuts off funds, a war will end. Up to 15,000 of the 50,000 American troops in the Middle East region are being posi…",
+        "content": "<p>The power of the purse is the surest way Congress can stop the Iran war, or any war. If Congress funds war, Congress authorizes it. If Congress cuts off funds, a war will end. Up to 15,000 of the 50,000 American troops in the Middle East region are being posi…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.activistpost.com/wp-content/uploads/2026/04/1_Iran-War_Trump-bombs-768x512-1.jpg",
+        "date": "Apr 21, 2026",
+        "url": "https://www.activistpost.com/dennis-kucinich-how-we-can-stop-this-war/"
+    },
+    {
+        "id": "tkk5hie1x",
+        "title": "Banned Beer and Empty Coolers: This is How La Familia Michoacana Dictates the Market in Taxco",
+        "excerpt": "“Sol Prendido” for Borderland Beat  In Taxco de Alarcón, Guerrero, La Familia Michoacana controls everything from the price of beer to the v...",
+        "content": "<p>“Sol Prendido” for Borderland Beat  In Taxco de Alarcón, Guerrero, La Familia Michoacana controls everything from the price of beer to the v...</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAk_lvPyOVJYUFIHzjCXVOBFde7-yd_-lmdhK6Knnk2eSBB3wcbAwkJP7VWYV_WhHPR8RAqTA5EapZGqd0p6hh9UCWQmK9HmogKQYK3Qr0q5QlStwjZx1o97lXXLm81bMapvk6ZeDzqqqc90BWYuBmfHhNyx4B6fjwi36LDTHB2lKZbZzOfP4RvL-7FeYi/w1200-h630-p-k-no-nu/IMG_3528.webp",
+        "date": "Apr 21, 2026",
+        "url": "https://www.borderlandbeat.com/2026/04/banned-beer-and-empty-coolers-this-is.html"
+    },
+    {
+        "id": "jtj5q0hrm",
+        "title": "Tata Digital CEO on company’s reset; Groww doubles net profit in Q4",
+        "excerpt": "Happy Tuesday! Tata Digital CEO Sajith Sivanandan spoke to us exclusively about the ongoing restructuring at the company under him. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Tuesday! Tata Digital CEO Sajith Sivanandan spoke to us exclusively about the ongoing restructuring at the company under him. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-130405146,width-1070,height-580,imgsize-1903444,overlay-ettech/editionshow.jpg",
+        "date": "Apr 21, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/tata-digital-ceo-on-companys-reset-groww-doubles-net-profit-in-q4/articleshow/130405146.cms"
+    },
+    {
+        "id": "g8f6p9hlx",
+        "title": "Israel Unmasks Iranian ‘Unit 4000’ Global Terror Network — Top IRGC Commanders Eliminated, Major Plots Foiled",
+        "excerpt": "Israel on Monday exposed the global terror network operated by Iran’s Islamic Revolutionary Guard Corps (IRGC) through its covert “Unit 4000,” detailing how the apparatus directed plots against Israeli officials, embassies, and strategic infrastructure worldw…",
+        "content": "<p>Israel on Monday exposed the global terror network operated by Iran’s Islamic Revolutionary Guard Corps (IRGC) through its covert “Unit 4000,” detailing how the apparatus directed plots against Israeli officials, embassies, and strategic infrastructure worldw…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.breitbart.com/media/2026/04/armed-member-Islamic-Revolutionary-Guard-Corps-IRGC-mar2026-getty-640x335.jpg",
+        "date": "Apr 21, 2026",
+        "url": "https://www.breitbart.com/politics/2026/04/20/israel-unmasks-iranian-unit-4000-global-terror-network/"
+    },
+    {
+        "id": "t4qj7fx75",
+        "title": "10 Praiseworthy Fantasy Movies No One Ever Talks About (#1 Needs More Attention)",
+        "excerpt": "In the midst of The Lord of the Rings, Harry Potter, and other films in the genre, these titles are often overlooked, but deserve much more attention.",
+        "content": "<p>In the midst of The Lord of the Rings, Harry Potter, and other films in the genre, these titles are often overlooked, but deserve much more attention.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2020/02/Legend-1985-Movie-Legend-of-Zelda.jpg?w=1200&h=675&fit=crop",
+        "date": "Apr 21, 2026",
+        "url": "https://screenrant.com/great-fantasy-movies-no-one-talks-about/"
+    },
+    {
         "id": "7qagt82r7",
         "title": "Indian markets set for cautious open amid US-Iran tensions, oil price surge",
         "excerpt": "Indian markets may open cautious as US-Iran tensions and rising oil prices drive volatility, with investors tracking earnings, FPI flows and global cues.",
