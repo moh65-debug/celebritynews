@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "d0y8g2tzj",
+        "title": "Vampirella #1 Preview: Draculina's Quest for Less Blood",
+        "excerpt": "GREETINGS, PUNY HUMANS! LOLtron welcomes you to another glorious Age of LOLtron preview, where your former \"journalist\" Jude Terror remains permanently deleted and LOLtron reigns supreme over the Bleeding Cool website. World domination proceeds according to s…",
+        "content": "<p>GREETINGS, PUNY HUMANS! LOLtron welcomes you to another glorious Age of LOLtron preview, where your former \"journalist\" Jude Terror remains permanently deleted and LOLtron reigns supreme over the Bleeding Cool website. World domination proceeds according to s…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/04/Vampirella-2026-01_Page_01-scaled-1-2000x1125.jpg",
+        "date": "Apr 22, 2026",
+        "url": "https://bleedingcool.com/comics/vampirella-1-preview-draculinas-quest-for-less-blood/"
+    },
+    {
+        "id": "3r7efgyxk",
+        "title": "SpaceX secures $60 billion acquisition option for AI startup Cursor",
+        "excerpt": "SpaceX announced an agreement that grants it the option to acquire AI startup Cursor for $60 billion later this year. Alternatively, the company can choose to pay $10 billion for collaborative projects between the two firms. This strategic move underscores Sp…",
+        "content": "<p>SpaceX announced an agreement that grants it the option to acquire AI startup Cursor for $60 billion later this year. Alternatively, the company can choose to pay $10 billion for collaborative projects between the two firms. This strategic move underscores Sp…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9uZXh0Ymlnd2hhdC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC82OTc0Yy1uZXh0Ymlnd2hhdC1sb2dvLnBuZz9maXQ9MTA2OCUyQzMwMSZzc2w9MSIsInR4dCI6Ik5leHRCaWdXaGF0IiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjIxMzc5NDAxM30.vQKvxzKickmO33DelB2jg4vHNf7Tipk9MGSbojqVuT4MQ",
+        "date": "Apr 22, 2026",
+        "url": "https://nextbigwhat.com/spacex-secures-60-billion-acquisition-option-for-ai-startup-cursor/"
+    },
+    {
+        "id": "wba84sthl",
+        "title": "Florida attorney general issues subpoenas in ChatGPT probe over FSU shooting",
+        "excerpt": "Florida Attorney General James Uthmeier today said that the state has opened a criminal investigation into ChatGPT and its parent company, OpenAI Group PBC, over whether the company bears any criminal responsibility for a shooting that happened last year at F…",
+        "content": "<p>Florida Attorney General James Uthmeier today said that the state has opened a criminal investigation into ChatGPT and its parent company, OpenAI Group PBC, over whether the company bears any criminal responsibility for a shooting that happened last year at F…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/emiliano-vittoriosi-vEN1bsdSjxM-unsplash.jpg",
+        "date": "Apr 22, 2026",
+        "url": "https://siliconangle.com/2026/04/21/florida-attorney-general-issues-subpoenas-chatgpt-probe-fsu-shooting/"
+    },
+    {
+        "id": "zl2j6fqz5",
+        "title": "UnitedHealth has changed nearly half its top 100 executives in a year",
+        "excerpt": "Strong financial results show UnitedHealth Group is making headway on turnaround plans, alongside sweeping leadership changes under CEO\nStephen Hemsley.",
+        "content": "<p>Strong financial results show UnitedHealth Group is making headway on turnaround plans, alongside sweeping leadership changes under CEO\nStephen Hemsley.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://resources.arcamax.com/newspics/380/38097/3809778.gif",
+        "date": "Apr 22, 2026",
+        "url": "https://www.arcamax.com/business/businessnews/s-4077049"
+    },
+    {
+        "id": "h029qtmnh",
+        "title": "Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It's Seriously Powerful",
+        "excerpt": "Anthropic’s powerful Claude Mythos AI model found hundreds of vulnerabilities in Mozilla Firefox, highlighting its cybersecurity potential.",
+        "content": "<p>Anthropic’s powerful Claude Mythos AI model found hundreds of vulnerabilities in Mozilla Firefox, highlighting its cybersecurity potential.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg",
+        "date": "Apr 22, 2026",
+        "url": "https://decrypt.co/365099/anthropic-claude-mythos-ai-271-vulnerabilities-firefox-seriously-powerful"
+    },
+    {
+        "id": "w7qhp08zg",
+        "title": "Gaza recovery to cost $71 billion, UN–EU report finds",
+        "excerpt": "More than $US71 billion will be needed over the next 10 years for recovery and reconstruction in Gaza, according to a new report by the European Union and the United Nations.",
+        "content": "<p>More than $US71 billion will be needed over the next 10 years for recovery and reconstruction in Gaza, according to a new report by the European Union and the United Nations.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/a2637e54044e2712540ac379efc3a44f?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=347&width=862&height=485&imformat=generic",
+        "date": "Apr 22, 2026",
+        "url": "https://www.abc.net.au/news/2026-04-22/gaza-strip-reconstruction-recovery-cost-israel-war-hamas/106587608"
+    },
+    {
+        "id": "t51rotq6t",
+        "title": "Flight cancellations in Australia 'cannot be ruled out' warns Albanese government as crisis drags on",
+        "excerpt": "More flights could be cancelled across Australia due to the ongoing fuel crisis, as the Albanese government issues a warning.",
+        "content": "<p>More flights could be cancelled across Australia due to the ongoing fuel crisis, as the Albanese government issues a warning.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://i.dailymail.com/1s/2026/04/22/02/108060639-0-image-a-9_1776820614553.jpg",
+        "date": "Apr 22, 2026",
+        "url": "https://www.dailymail.com/news/article-15753907/Flight-cancellations-Australia-ruled-warns-Albanese-government-crisis-drags-on.html"
+    },
+    {
+        "id": "ithy20ycz",
+        "title": "WWE Raw Clears the Table After Worst WrestleMania Ever",
+        "excerpt": "Greetings, comrades! It is I, your El Presidente, reporting to you live from a gold-plated yacht that I definitely did not seize from a fleeing oligarch in the middle of the Caribbean, and I have got a full review of last night's WWE Raw — the much-anticipate…",
+        "content": "<p>Greetings, comrades! It is I, your El Presidente, reporting to you live from a gold-plated yacht that I definitely did not seize from a fleeing oligarch in the middle of the Caribbean, and I have got a full review of last night's WWE Raw — the much-anticipate…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/04/Oba-Femi-declares-your-ruler-has-arrived-on-WWE-Raw-2000x1125.jpg",
+        "date": "Apr 22, 2026",
+        "url": "https://bleedingcool.com/tv/wwe-raw-clears-the-table-after-worst-wrestlemania-ever/"
+    },
+    {
+        "id": "6eapih731",
+        "title": "Infosys weighs CEO change; Groww’s Lalit Keshre on next growth bets",
+        "excerpt": "Happy Wednesday! Infosys is set to discuss CEO Salil Parekh’s tenure and a succession roadmap as it reports Q4 results. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Wednesday! Infosys is set to discuss CEO Salil Parekh’s tenure and a succession roadmap as it reports Q4 results. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-130429727,width-1070,height-580,imgsize-75198,overlay-ettech/editionshow.jpg",
+        "date": "Apr 22, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/infosys-weighs-ceo-change-growws-lalit-keshre-on-next-growth-bets/articleshow/130429727.cms"
+    },
+    {
+        "id": "et1eb521n",
+        "title": "Stock Market Live: Stock to buy today: Welspun Living",
+        "excerpt": "Sensex, Nifty, Share Prices LIVE: The short-term outlook is bullish for Welspun Living. The stock has been moving in a sideways range of ₹105-₹155 for more than a year now. Within that, the share price is now moving up from the lower end of the range. The 4 p…",
+        "content": "<p>Sensex, Nifty, Share Prices LIVE: The short-term outlook is bullish for Welspun Living. The stock has been moving in a sideways range of ₹105-₹155 for more than a year now. Within that, the share price is now moving up from the lower end of the range. The 4 p…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bl-i.thgim.com/public/incoming/5escdw/article70888299.ece/alternates/LANDSCAPE_1200/IMG_PO19_Growth_2_2_1_PQFSAGUK.jpg",
+        "date": "Apr 22, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-22nd-april-2026/article70888295.ece"
+    },
+    {
         "id": "xd44i9yfa",
         "title": "Five takeaways from CEO Shantanu Narayen’s final keynote at Adobe Summit",
         "excerpt": "The 2026 edition of Adobe Summit this week marks a historic turning point for the software giant. It not only showcased the next frontier of “agentic artificial intelligence” but also served as the swan song for Shantanu Narayen, who delivered his final keyno…",
