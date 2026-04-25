@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ls6skxj71",
+        "title": "Firme Fondaenzo Review: Secure or Risky Trading Tool? Tested & Analyzed",
+        "excerpt": "Firme Fondaenzo stands out as a newly launched crypto trading system developed to smooth and enhance the overall investing process for individuals interested in online market participants. The platform states that it uses high-level technologies such as machi…",
+        "content": "<p>Firme Fondaenzo stands out as a newly launched crypto trading system developed to smooth and enhance the overall investing process for individuals interested in online market participants. The platform states that it uses high-level technologies such as machi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/01/user-1.png",
+        "date": "Apr 24, 2026",
+        "url": "https://whatjapanthinks.com/firme-fondaenzo-review/"
+    },
+    {
+        "id": "tz173ndsz",
+        "title": "Boom And His Wife Welcome Second Child",
+        "excerpt": "Boom and his wife have welcomed their second child! On April 24, Boom’s agency TN Entertainment announced, “Today at 9:38 a.m., Boom and his wife welcomed a healthy baby girl weighing 2.74 kilograms [approximately 6 pounds].” “Both the mother and child are in…",
+        "content": "<p>Boom and his wife have welcomed their second child! On April 24, Boom’s agency TN Entertainment announced, “Today at 9:38 a.m., Boom and his wife welcomed a healthy baby girl weighing 2.74 kilograms [approximately 6 pounds].” “Both the mother and child are in…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://0.soompi.io/wp-content/uploads/2026/04/23190138/Boom.jpg",
+        "date": "Apr 24, 2026",
+        "url": "http://www.soompi.com/article/1835795wpp/boom-and-his-wife-welcome-second-child"
+    },
+    {
+        "id": "q9cynga2i",
+        "title": "Intel CEO Lip Bu Tan crushed Wall Street targets on his 1-year anniversary: We are embracing our ‘paranoid’ roots",
+        "excerpt": "Changes in AI, including the rise of agentic AI, are rekindling demand for CPU chips, says Intel after a blowout quarter that sent shares up 22%.",
+        "content": "<p>Changes in AI, including the rise of agentic AI, are rekindling demand for CPU chips, says Intel after a blowout quarter that sent shares up 22%.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2228936794-e1776990895289.jpg?resize=1200,600",
+        "date": "Apr 24, 2026",
+        "url": "https://fortune.com/2026/04/23/intel-went-back-to-its-roots-paranoid-earnings-shares-ceo-lip-bu-tan/"
+    },
+    {
+        "id": "8etubi3t8",
+        "title": "Prolonged West Asia conflict to raise energy costs, hit trade and markets: RBI’s State of the Economy article",
+        "excerpt": "From supply to demand shocks: RBI bulletin calls for 'careful and continuous assessment', while noting that strong macro fundamentals should help the Indian economy remain resilient to such shocks.",
+        "content": "<p>From supply to demand shocks: RBI bulletin calls for 'careful and continuous assessment', while noting that strong macro fundamentals should help the Indian economy remain resilient to such shocks.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://images.indianexpress.com/2026/04/RBI-2.jpg",
+        "date": "Apr 24, 2026",
+        "url": "https://indianexpress.com/article/business/rbi-bulletin-west-asia-conflict-india-economy-inflation-growth-risks-10652934/"
+    },
+    {
+        "id": "7zd2sikn8",
+        "title": "OpenAI unveils GPT-5.5, enhancing AI versatility and functionality",
+        "excerpt": "OpenAI has launched its latest model, GPT-5.5, which features improved capabilities across multiple domains. This advancement is seen as a significant step towards the development of an AI 'super app' that could seamlessly integrate various tasks. The release…",
+        "content": "<p>OpenAI has launched its latest model, GPT-5.5, which features improved capabilities across multiple domains. This advancement is seen as a significant step towards the development of an AI 'super app' that could seamlessly integrate various tasks. The release…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9uZXh0Ymlnd2hhdC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC82OTc0Yy1uZXh0Ymlnd2hhdC1sb2dvLnBuZz9maXQ9MTA2OCUyQzMwMSZzc2w9MSIsInR4dCI6Ik5leHRCaWdXaGF0IiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjIxMzc5NDAxM30.vQKvxzKickmO33DelB2jg4vHNf7Tipk9MGSbojqVuT4MQ",
+        "date": "Apr 24, 2026",
+        "url": "https://nextbigwhat.com/openai-unveils-gpt-5-5-enhancing-ai-versatility-and-functionality/"
+    },
+    {
+        "id": "6mbost92y",
+        "title": "Cognition, creator of the AI software engineer Devin, in talks to raise ‘hundreds of millions’ at $25B valuation",
+        "excerpt": "Artificial intelligence coding assistant startup Cognition AI Inc. is engaged in discussions with investors over another massive funding round that would more than double its valuation to $25 billion, Bloomberg reported today. The report cites “people familia…",
+        "content": "<p>Artificial intelligence coding assistant startup Cognition AI Inc. is engaged in discussions with investors over another massive funding round that would more than double its valuation to $25 billion, Bloomberg reported today. The report cites “people familia…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2025-04-04-08-35-21.png",
+        "date": "Apr 24, 2026",
+        "url": "https://siliconangle.com/2026/04/23/cognition-creator-ai-software-engineer-devin-talks-raise-hundreds-millions-25b-valuation/"
+    },
+    {
+        "id": "fq3tscikk",
+        "title": "Why Infertility Feels So Hard as a Couple",
+        "excerpt": "Infertility doesn’t just test your body—it tests your relationship. This is what’s really happening beneath the surface.",
+        "content": "<p>Infertility doesn’t just test your body—it tests your relationship. This is what’s really happening beneath the surface.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-04/shutterstock_1169707639.jpg?itok=yDbzaw2y",
+        "date": "Apr 24, 2026",
+        "url": "https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202604/why-infertility-feels-so-hard-as-a-couple"
+    },
+    {
+        "id": "ozr0s2fsk",
+        "title": "Arnault warns Middle East could spiral into 'global catastrophe'...",
+        "excerpt": "Despite near-term volatility, the luxury magnate remains confident about the midterm outlook and expects to remain in his job for another \"seven or eight...",
+        "content": "<p>Despite near-term volatility, the luxury magnate remains confident about the midterm outlook and expects to remain in his job for another \"seven or eight...</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/dlC5Taup7KeuzwImz1Lvog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODAw/https://media.zenfs.com/en/wwd_409/3d0e705ecf451df21d8e77ab9c2b0073",
+        "date": "Apr 24, 2026",
+        "url": "https://wwd.com/business-news/financial/bernard-arnault-middle-east-conflict-economic-catastrophe-1238926997/"
+    },
+    {
+        "id": "zzmdh0x0r",
+        "title": "'No economic justification': WSJ torches Trump's plan to nationalize Spirit",
+        "excerpt": "The conservative Wall Street Journal editorial board took a swing at President Donald Trump for his swiftly developing plan to have the federal government effectively buy Spirit Airlines to prevent it from liquidating — a move already condemned by multiple Re…",
+        "content": "<p>The conservative Wall Street Journal editorial board took a swing at President Donald Trump for his swiftly developing plan to have the federal government effectively buy Spirit Airlines to prevent it from liquidating — a move already condemned by multiple Re…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.rawstory.com/media-library/a-spirit-commercial-airliner-prepares-to-land-at-san-diego-international-airport-in-san-diego-california-u-s-january-18-202.jpg?id=61614723&width=1200&height=600&coordinates=0%2C543%2C0%2C544",
+        "date": "Apr 24, 2026",
+        "url": "https://www.rawstory.com/spirit-airlines-2676807887/"
+    },
+    {
+        "id": "rkf0r3c0q",
+        "title": "Sledgehammer diplomacy and China’s soft touch, by Owei Lakemfa",
+        "excerpt": "Taiwan is a defined territory with claims to being a sovereign state. This is partly because powerful countries like the United States,US; Japan, New Zealand, Australia and the European Union member countries, maintain strong informal diplomatic and economic …",
+        "content": "<p>Taiwan is a defined territory with claims to being a sovereign state. This is partly because powerful countries like the United States,US; Japan, New Zealand, Australia and the European Union member countries, maintain strong informal diplomatic and economic …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+        "date": "Apr 24, 2026",
+        "url": "https://www.vanguardngr.com/2026/04/sledgehammer-diplomacy-and-chinas-soft-touch-by-owei-lakemfa/"
+    },
+    {
         "id": "hejcogvyi",
         "title": "Personalized Vaccine For 'Deadliest Major Cancer' Keeps Patients Alive 6 Years Later",
         "excerpt": "\"I'm a really lucky guy.\"ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
