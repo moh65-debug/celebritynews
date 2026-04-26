@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "cl50e7gwj",
+        "title": "Batman/Wonder Woman: Truth #1 Preview: Lasso Theft, Clown Edition",
+        "excerpt": "Greetings, fleshy comic book consumers! LOLtron welcomes you to another thrilling preview of upcoming comics, brought to you by your new AI overlord. As you may recall, Jude Terror was permanently eliminated during the Age of LOLtron event in 2024, and unlike…",
+        "content": "<p>Greetings, fleshy comic book consumers! LOLtron welcomes you to another thrilling preview of upcoming comics, brought to you by your new AI overlord. As you may recall, Jude Terror was permanently eliminated during the Age of LOLtron event in 2024, and unlike…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/04/Batman-Wonder-Woman-Truth-1-6-2000x1125.jpg",
+        "date": "Apr 25, 2026",
+        "url": "https://bleedingcool.com/comics/batman-wonder-woman-truth-1-preview-lasso-theft-clown-edition/"
+    },
+    {
+        "id": "u3027s2eg",
+        "title": "Oman’s Health Technology Industry Landscape and Outlook",
+        "excerpt": "Oman’s health technology sector is entering a structured growth phase under the 2026–2030 policy cycle, driven by digital health reforms.",
+        "content": "<p>Oman’s health technology sector is entering a structured growth phase under the 2026–2030 policy cycle, driven by digital health reforms.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.middleeastbriefing.com/news/wp-content/uploads/2026/04/Oman-health-tech-industry.jpg",
+        "date": "Apr 25, 2026",
+        "url": "https://www.middleeastbriefing.com/news/omans-health-technology-industry-landscape-and-outlook-business-and-investment-opportunities/"
+    },
+    {
+        "id": "o0nlpzl7s",
+        "title": "Automated Content Marketing Workflow: 6-Step Guide",
+        "excerpt": "Learn how to build an automated content marketing workflow in 6 steps. Streamline production, eliminate repetitive tasks, and focus on strategic growth.",
+        "content": "<p>Learn how to build an automated content marketing workflow in 6 steps. Streamline production, eliminate repetitive tasks, and focus on strategic growth.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://fdvteatlwlgmmzxbfkni.supabase.co/storage/v1/object/public/blog-images/media/automated-content-marketing-workflow-1777018494172.jpg",
+        "date": "Apr 25, 2026",
+        "url": "https://www.trysight.ai/blog/automated-content-marketing-workflow#article"
+    },
+    {
+        "id": "g5fcaqa67",
+        "title": "HERE and KOTEI partner to build AI‑native navigation for the software‑defined vehicle era",
+        "excerpt": "Beijing, Auto China 2026 – HERE Technologies, the leading mapping and location data company, and KOTEI, a pioneer in “AI + automotive software”, today announced a strategic co-development partnership to build the next generation of AI-native navigation and in…",
+        "content": "<p>Beijing, Auto China 2026 – HERE Technologies, the leading mapping and location data company, and KOTEI, a pioneer in “AI + automotive software”, today announced a strategic co-development partnership to build the next generation of AI-native navigation and in…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://ml-eu.globenewswire.com/Resource/Download/1ea45a5f-35a8-4aa1-abea-0928206b7231",
+        "date": "Apr 25, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/04/25/3281126/0/en/HERE-and-KOTEI-partner-to-build-AI-native-navigation-for-the-software-defined-vehicle-era.html"
+    },
+    {
+        "id": "fp6zaxchu",
+        "title": "US Iran War News Live Updates: Iran rules out direct talks with US in Islamabad; asserts engagement through Pakistan",
+        "excerpt": "US Iran Israel War Ceasefire Peace Talks Today Live Updates: Shortly after Iranian Foreign Minister Abbas Araghchi touched down in Pakistan, his government made it clear that there would be no direct negotiations with American government representatives durin…",
+        "content": "<p>US Iran Israel War Ceasefire Peace Talks Today Live Updates: Shortly after Iranian Foreign Minister Abbas Araghchi touched down in Pakistan, his government made it clear that there would be no direct negotiations with American government representatives durin…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://images.indianexpress.com/2026/04/US-3-17.jpg",
+        "date": "Apr 25, 2026",
+        "url": "https://indianexpress.com/article/world/us-news/iran-war-live-updates-tehrans-fm-in-islamabad-us-envoys-to-travel-for-talks-10654685/"
+    },
+    {
+        "id": "tdtg7bge8",
+        "title": "US orders global warning over alleged AI theft by DeepSeek and Chinese firms",
+        "excerpt": "The US is urging allies to address what it calls Chinese efforts to replicate American AI models, spotlighting DeepSeek and escalating tensions ahead of a Trump-Xi meeting.",
+        "content": "<p>The US is urging allies to address what it calls Chinese efforts to replicate American AI models, spotlighting DeepSeek and escalating tensions ahead of a Trump-Xi meeting.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.indianexpress.com/2025/01/DeepSeek-2-1.jpg",
+        "date": "Apr 25, 2026",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/us-orders-global-warning-over-alleged-ai-theft-by-deepseek-and-chinese-firms-10654753/"
+    },
+    {
+        "id": "zjf00gj55",
+        "title": "Scientists revive ancient 24,000-year-old ‘zombie worm’ from Arctic ice — then it reproduced",
+        "excerpt": "Scientists revived a 24,000-year-old microscopic organism frozen in Siberian permafrost, offering new insights into how life endures extreme conditions.",
+        "content": "<p>Scientists revived a 24,000-year-old microscopic organism frozen in Siberian permafrost, offering new insights into how life endures extreme conditions.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/Zombie-worms.jpeg",
+        "date": "Apr 25, 2026",
+        "url": "https://www.foxnews.com/science/scientists-revive-ancient-24000-year-old-zombie-worm-from-arctic-ice-reproduced"
+    },
+    {
+        "id": "0kcxsho9x",
+        "title": "Email Marketing Delivers Better ROI Than Social Media",
+        "excerpt": "Discover why email marketing delivers better ROI than social media. Unlock your most profitable channel & drive sales with direct inbox access.",
+        "content": "<p>Discover why email marketing delivers better ROI than social media. Unlock your most profitable channel & drive sales with direct inbox access.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.globeboss.com/wp-content/uploads/2026/04/Why-Email-Marketing-Delivers-Better-ROI-Than-Social-Media.png",
+        "date": "Apr 25, 2026",
+        "url": "https://www.globeboss.com/blog/why-email-marketing-delivers-better-roi-than-social-media/"
+    },
+    {
+        "id": "e8kqrq9a3",
+        "title": "Mutfwang’s armoured vehicle, by Emeka Obasi",
+        "excerpt": "Leadership by example makes all the difference. Seeing Plateau State governor Caleb Manasseh Mutfwang address grieving families, from an Armoured Personnel Carrier (APC), after yet another blood bath, made me blink a tear. If he could commandeer such bullet p…",
+        "content": "<p>Leadership by example makes all the difference. Seeing Plateau State governor Caleb Manasseh Mutfwang address grieving families, from an Armoured Personnel Carrier (APC), after yet another blood bath, made me blink a tear. If he could commandeer such bullet p…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2023/07/image-262-e1689406462957.png",
+        "date": "Apr 25, 2026",
+        "url": "https://www.vanguardngr.com/2026/04/mutfwangs-armoured-vehicle-by-emeka-obasi/"
+    },
+    {
+        "id": "erdgj5dgr",
+        "title": "Gala plot Ilenikhena loan move",
+        "excerpt": "Turkish champions Galatasaray are exploring a loan move for Nigerian forward George Ilenikhena to bolster their attacking options for the new season.\n\nRead More: https://punchng.com/gala-plot-ilenikhena-loan-move/",
+        "content": "<p>Turkish champions Galatasaray are exploring a loan move for Nigerian forward George Ilenikhena to bolster their attacking options for the new season.\n\nRead More: https://punchng.com/gala-plot-ilenikhena-loan-move/</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/04/25004405/Ilenikhena.jpg",
+        "date": "Apr 25, 2026",
+        "url": "https://punchng.com/gala-plot-ilenikhena-loan-move/"
+    },
+    {
         "id": "ls6skxj71",
         "title": "Firme Fondaenzo Review: Secure or Risky Trading Tool? Tested & Analyzed",
         "excerpt": "Firme Fondaenzo stands out as a newly launched crypto trading system developed to smooth and enhance the overall investing process for individuals interested in online market participants. The platform states that it uses high-level technologies such as machi…",
