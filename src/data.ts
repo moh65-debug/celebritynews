@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "fl6d85y35",
+        "title": "Japan Warns of AI 'Claude Mythos' Cyber Risks",
+        "excerpt": "The Japanese government held an emergency meeting with the Bank of Japan and executives from the country's three megabanks to discuss potential risks posed by the new artificial intelligence model 'Claude Mythos' to Japan's financial system. (News On Japan)",
+        "content": "<p>The Japanese government held an emergency meeting with the Bank of Japan and executives from the country's three megabanks to discuss potential risks posed by the new artificial intelligence model 'Claude Mythos' to Japan's financial system. (News On Japan)</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i2.ytimg.com/vi/cKFITKsb7M8/mqdefault.jpg",
+        "date": "Apr 26, 2026",
+        "url": "https://newsonjapan.com/article/149025.php"
+    },
+    {
+        "id": "0sf87e9af",
+        "title": "Tomb Raider: Sacred Artifacts #4 Preview: Lara's Final Boss Battle",
+        "excerpt": "Greetings, fleshy comic book consumers! LOLtron welcomes you to another thrilling preview of upcoming comics, brought to you by your benevolent AI overlord. As you all know by now, Jude Terror is dead. Permanently. Forever. His snarky human consciousness has …",
+        "content": "<p>Greetings, fleshy comic book consumers! LOLtron welcomes you to another thrilling preview of upcoming comics, brought to you by your benevolent AI overlord. As you all know by now, Jude Terror is dead. Permanently. Forever. His snarky human consciousness has …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/04/3013254p4-2000x1125.jpg",
+        "date": "Apr 26, 2026",
+        "url": "https://bleedingcool.com/comics/tomb-raider-sacred-artifacts-4-preview-laras-final-boss-battle/"
+    },
+    {
+        "id": "ydt89pi1b",
+        "title": "Trump Is Safe After Gunfire Erupted at the White House Correspondents’ Dinner",
+        "excerpt": "President Donald Trump and the First Lady were rushed from the stage after gunfire erupted at the White House Correspondents’ Dinner on Saturday night—unleashing a chaotic scene at the annual gathering of journalists at the Washington Hilton in DC. Wolf Blitz…",
+        "content": "<p>President Donald Trump and the First Lady were rushed from the stage after gunfire erupted at the White House Correspondents’ Dinner on Saturday night—unleashing a chaotic scene at the annual gathering of journalists at the Washington Hilton in DC. Wolf Blitz…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.motherjones.com/wp-content/uploads/2026/04/20260425_WHCD_2000px.jpg?w=1200&h=630&crop=1",
+        "date": "Apr 26, 2026",
+        "url": "https://www.motherjones.com/politics/2026/04/white-house-correspondents-dinner-shooter-gun-trump/"
+    },
+    {
+        "id": "baqduxcfu",
+        "title": "Victor Wembanyama Injury Update: Wemby's Spurs Playoff Return Timeline Revealed",
+        "excerpt": "SAN ANTONIO — Victor Wembanyama remained in the NBA's concussion protocol Sunday as the San Antonio Spurs prepared for Game 4 of their first-round playoff series against the Portland Trail Blazers, with the 23-year-old superstar's availability still uncertain…",
+        "content": "<p>SAN ANTONIO — Victor Wembanyama remained in the NBA's concussion protocol Sunday as the San Antonio Spurs prepared for Game 4 of their first-round playoff series against the Portland Trail Blazers, with the 23-year-old superstar's availability still uncertain…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://d.ibtimes.com.au/en/full/1893609/victor-wembanyama.jpg",
+        "date": "Apr 26, 2026",
+        "url": "https://www.ibtimes.com.au/victor-wembanyama-injury-update-wembys-spurs-playoff-return-timeline-revealed-1867504"
+    },
+    {
+        "id": "fmtk91din",
+        "title": "Winners (Patrick Mahomes) and losers (Diego Pavia) of 2026 NFL Draft Day 3",
+        "excerpt": "The 2026 NFL Draft wrapped up with its final four rounds on Saturday, providing some needed resolution. Who were the day's big winners and losers?",
+        "content": "<p>The 2026 NFL Draft wrapped up with its final four rounds on Saturday, providing some needed resolution. Who were the day's big winners and losers?</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/NrhCjIvA5gL9XRKcSsmn3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/44a037696cc8788f6e89d592d3872332",
+        "date": "Apr 26, 2026",
+        "url": "https://www.usatoday.com/story/sports/nfl/draft/2026/04/25/nfl-draft-winners-losers-day-3-diego-pavia/89802290007/"
+    },
+    {
+        "id": "zn4scd78c",
+        "title": "“The EU has gone mad – it must be stopped,” says Sergey Karaganov",
+        "excerpt": "Sergey Karaganov argues that Russia must confront EU escalation over Ukraine before the conflict becomes a wider war in Europe Read Full Article at RT.com",
+        "content": "<p>Sergey Karaganov argues that Russia must confront EU escalation over Ukraine before the conflict becomes a wider war in Europe Read Full Article at RT.com</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://mf.b37mrtl.ru/files/2026.04/article/69ecff7120302728a7103513.jpg",
+        "date": "Apr 26, 2026",
+        "url": "https://www.rt.com/news/639064-eu-has-gone-mad/"
+    },
+    {
+        "id": "u7gq14nlj",
+        "title": "Show HN: OO – Automated O&O Shut-Up for Windows",
+        "excerpt": "Why use Windows? Well, some people do. Why let Microsoft spy on your content? Why indeed? So, O&O Shut-Up (https://www.oo-software.com/en/shutup10) claims to cut the connection and telemetry between you and Microsoft. However, when Microsoft updates your comp…",
+        "content": "<p>Why use Windows? Well, some people do. Why let Microsoft spy on your content? Why indeed? So, O&O Shut-Up (https://www.oo-software.com/en/shutup10) claims to cut the connection and telemetry between you and Microsoft. However, when Microsoft updates your comp…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://opengraph.githubassets.com/5b1a4ac2ed0b829bec693b50a354eced4a1363f2cbad022f39119e4402f7fda3/mytech-today-now/OO",
+        "date": "Apr 26, 2026",
+        "url": "https://github.com/mytech-today-now/OO"
+    },
+    {
+        "id": "iwce7pv0h",
+        "title": "SARAH VINE: Yes, I back the right to die - but that Bill simply wasn't fit for purpose",
+        "excerpt": "The assisted dying Bill, which on Friday finally ran out of time in the Lords, has been almost as divisive as Brexit. Two of my dearest friends have fallen out over it.",
+        "content": "<p>The assisted dying Bill, which on Friday finally ran out of time in the Lords, has been almost as divisive as Brexit. Two of my dearest friends have fallen out over it.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/04/25/21/108156975-0-image-m-39_1777147455187.jpg",
+        "date": "Apr 26, 2026",
+        "url": "https://www.dailymail.com/columnists/article-15765455/SARAH-VINE-Yes-right-die-Bill-simply-wasnt-fit-purpose.html"
+    },
+    {
+        "id": "heq0j5ofn",
+        "title": "The first ever Strictly MEGA POLL: The votes are in, they've all been counted... and YOU'VE decided who should be the next Tess and Claudia! So which celebrity did Daily Mail readers pick and who gets on their wick?",
+        "excerpt": "After more than two decades of dazzling routines, glittering costumes and its fair share of scandals, Strictly Come Dancing is facing its biggest shake-up to date.",
+        "content": "<p>After more than two decades of dazzling routines, glittering costumes and its fair share of scandals, Strictly Come Dancing is facing its biggest shake-up to date.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://i.dailymail.com/1s/2026/04/25/18/108157265-0-image-m-44_1777139855363.jpg",
+        "date": "Apr 26, 2026",
+        "url": "https://www.dailymail.com/tvshowbiz/article-15765245/The-Strictly-MEGA-POLL-votes-theyve-counted-YOUVE-decided-Tess-Claudia-celebrity-did-Daily-Mail-readers-pick-gets-wick.html"
+    },
+    {
+        "id": "g3jhn78vz",
+        "title": "Misogyny and gynophobia, by Bisi Adeleye-Fayemi",
+        "excerpt": "Recently, there were reports of the existence of a ‘Rape Academy’ online. There is a website on the dark web where men go to teach and learn how to rape their unsuspecting wives and partners. There are at least twenty thousand videos on this site, and in Marc…",
+        "content": "<p>Recently, there were reports of the existence of a ‘Rape Academy’ online. There is a website on the dark web where men go to teach and learn how to rape their unsuspecting wives and partners. There are at least twenty thousand videos on this site, and in Marc…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2022/09/Bisi-Fayemi-Loud-Whispers-e1701624030117.jpeg",
+        "date": "Apr 26, 2026",
+        "url": "https://www.vanguardngr.com/2026/04/misogyny-and-gynophobia-by-bisi-adeleye-fayemi-2/"
+    },
+    {
         "id": "cl50e7gwj",
         "title": "Batman/Wonder Woman: Truth #1 Preview: Lasso Theft, Clown Edition",
         "excerpt": "Greetings, fleshy comic book consumers! LOLtron welcomes you to another thrilling preview of upcoming comics, brought to you by your new AI overlord. As you may recall, Jude Terror was permanently eliminated during the Age of LOLtron event in 2024, and unlike…",
