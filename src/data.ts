@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "rzv78i5dk",
+        "title": "India’s retail investors have played a heroic role but their resolve is being tested by market volatility",
+        "excerpt": "Retail investors have helped Indian shares rebound this month but their patience is being tested by exiting foreign money and a shift in economic conditions. Their expectations and investment horizons matter. They’re also difficult to gauge.",
+        "content": "<p>Retail investors have helped Indian shares rebound this month but their patience is being tested by exiting foreign money and a shift in economic conditions. Their expectations and investment horizons matter. They’re also difficult to gauge.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/04/26/1600x900/logo/investor_1777215519690_1777215530053.jpg",
+        "date": "Apr 27, 2026",
+        "url": "https://www.livemint.com/opinion/online-views/india-retail-investors-market-volatility-money-stock-market-investment-foreign-money-11777208019322.html"
+    },
+    {
+        "id": "6b6x1kdaz",
+        "title": "Sydney Sweeney is a new kind of Hollywood shapeshifter",
+        "excerpt": "Sydney Sweeney is back in the news thanks to HBO's hit show \"Euphoria.\" Like her character, Cassie, Sweeney is a magnet for controversy and discourse.",
+        "content": "<p>Sydney Sweeney is back in the news thanks to HBO's hit show \"Euphoria.\" Like her character, Cassie, Sweeney is a magnet for controversy and discourse.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://i.insider.com/69ea76a5367066d7c2970462?width=1200&format=jpeg",
+        "date": "Apr 27, 2026",
+        "url": "https://www.businessinsider.com/sydney-sweeney-career-marketing-strategy-roles-controversy-explained-2026-4"
+    },
+    {
+        "id": "7xrna3ejx",
+        "title": "Breslow contradicts himself explaining why Red Sox fired Alex Cora and several other coaches",
+        "excerpt": "Breslow and Kennedy said it was a group decision, with Breslow leading the charge for changes. The former Red Sox relief pitcher seemed to contradict himself by the end. His comments earlier in the press conference said the coaching changes were “warranted,” …",
+        "content": "<p>Breslow and Kennedy said it was a group decision, with Breslow leading the charge for changes. The former Red Sox relief pitcher seemed to contradict himself by the end. His comments earlier in the press conference said the coaching changes were “warranted,” …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/os/en/wfxt_cox_articles_703/db8a89e5e1103c1b17beec0199e251da",
+        "date": "Apr 27, 2026",
+        "url": "https://sports.yahoo.com/articles/breslow-contradicts-himself-explaining-why-015001783.html"
+    },
+    {
+        "id": "xgwn8pzs2",
+        "title": "Real Estate Branding: How to Stand Out in a Saturated Market",
+        "excerpt": "Real estate branding has changed dramatically. The days of flashy billboards, generic “Just Sold” postcards, and polished headshots dominating every bus stop are fading. In 2026, the agents and brokerages winning the market aren’t shouting louder, they’re lis…",
+        "content": "<p>Real estate branding has changed dramatically. The days of flashy billboards, generic “Just Sold” postcards, and polished headshots dominating every bus stop are fading. In 2026, the agents and brokerages winning the market aren’t shouting louder, they’re lis…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.designer-daily.com/wp-content/uploads/2026/04/12-Something-Great-Savvi-Real-Estate-Brand-Identity.jpg",
+        "date": "Apr 27, 2026",
+        "url": "https://www.designer-daily.com/real-estate-branding-how-to-stand-out-in-a-saturated-market-214329"
+    },
+    {
+        "id": "x2yyiv6qv",
+        "title": "Inside AI-led digital storefronts; Lalit Keshre’s big ET Awards win",
+        "excerpt": "Happy Monday! Digital platforms and brands are building their own AI storefronts. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Monday! Digital platforms and brands are building their own AI storefronts. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-130541596,width-1070,height-580,imgsize-28980,overlay-ettech/editionshow.jpg",
+        "date": "Apr 27, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/inside-ai-led-digital-storefronts-lalit-keshres-big-et-awards-win/articleshow/130541596.cms"
+    },
+    {
+        "id": "y3zdkjqd7",
+        "title": "ET Awards: Sitharaman flags AI threat and global risks, says reforms on the way to support India Inc growth",
+        "excerpt": "Finance Minister Nirmala Sitharaman is preparing new reforms to ease business compliance. She believes strong domestic consumption will help India overcome global challenges. The government is also addressing cybersecurity threats from advanced AI models. Sit…",
+        "content": "<p>Finance Minister Nirmala Sitharaman is preparing new reforms to ease business compliance. She believes strong domestic consumption will help India overcome global challenges. The government is also addressing cybersecurity threats from advanced AI models. Sit…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-130541706,width-1200,height-630,imgsize-982592,overlay-economictimes/articleshow.jpg",
+        "date": "Apr 27, 2026",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/et-awards-sitharaman-flags-ai-threat-and-global-risks-says-reforms-on-the-way-to-support-india-inc-growth/articleshow/130541686.cms"
+    },
+    {
+        "id": "eaxml9ww5",
+        "title": "Stage set for Elon Musk’s court battle with OpenAI",
+        "excerpt": "Elon Musk’s lawsuit accusing high-profile artificial intelligence company OpenAI of betraying its non-profit mission heads for trial on Monday with the selection of jurors. The legal clash in a courtroom across the bay from San Francisco pits the world’s rich…",
+        "content": "<p>Elon Musk’s lawsuit accusing high-profile artificial intelligence company OpenAI of betraying its non-profit mission heads for trial on Monday with the selection of jurors. The legal clash in a courtroom across the bay from San Francisco pits the world’s rich…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/04/f195c245743b182c00b3d654a10cc002d04a79c4.jpg",
+        "date": "Apr 27, 2026",
+        "url": "https://www.digitaljournal.com/world/stage-set-for-elon-musks-court-battle-with-openai/article"
+    },
+    {
+        "id": "wsz8d9ytg",
+        "title": "India roundup: Micron ramp, Dholera SEZ push India toward full-stack chip manufacturing",
+        "excerpt": "India is accelerating its semiconductor ambitions, from Micron Technology's Sanand ramp to new fabrication and advanced packaging projects, while expanding design partnerships. At the same time, regulatory pressure on Apple, weakening smartphone demand, and s…",
+        "content": "<p>India is accelerating its semiconductor ambitions, from Micron Technology's Sanand ramp to new fabrication and advanced packaging projects, while expanding design partnerships. At the same time, regulatory pressure on Apple, weakening smartphone demand, and s…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260426vl200_files/2_2b.jpg",
+        "date": "Apr 27, 2026",
+        "url": "https://www.digitimes.com/news/a20260426VL200/india-roundup-design-manufacturing-packaging-solar-micron.html"
+    },
+    {
+        "id": "a4rdc1cf9",
+        "title": "India tech giants struggle to shake off $115 billion rout",
+        "excerpt": "India's top software exporters are facing investor concerns over growth, with Infosys and HCL Technologies reporting results below expectations. This downturn, exacerbated by a weak global economy and AI disruption, has led to a significant drop in the IT sec…",
+        "content": "<p>India's top software exporters are facing investor concerns over growth, with Infosys and HCL Technologies reporting results below expectations. This downturn, exacerbated by a weak global economy and AI disruption, has led to a significant drop in the IT sec…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-130541625,width-1200,height-630,imgsize-26662,overlay-etmarkets/articleshow.jpg",
+        "date": "Apr 27, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/india-tech-giants-struggle-to-shake-off-115-billion-rout/articleshow/130541628.cms"
+    },
+    {
+        "id": "9yora99za",
+        "title": "Why the UK and EU Keep Doubling Down on Net Zero Dogma in the Face of Spiralling Economic Dysfunction",
+        "excerpt": "Freely chosen economic illiteracy, like other ideological afflictions, appears immune to correction by experience. The hangman’s noose may concentrate some minds, but in Westminster and Brussels, the noose is worn as a fashion accessory.\nThe post Why the UK a…",
+        "content": "<p>Freely chosen economic illiteracy, like other ideological afflictions, appears immune to correction by experience. The hangman’s noose may concentrate some minds, but in Westminster and Brussels, the noose is worn as a fashion accessory.\nThe post Why the UK a…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://wattsupwiththat.com/wp-content/uploads/2026/04/Ed_Miliband_2024.webp",
+        "date": "Apr 27, 2026",
+        "url": "https://wattsupwiththat.com/2026/04/26/why-the-uk-and-eu-keep-doubling-down-on-net-zero-dogma-in-the-face-of-spiralling-economic-dysfunction/"
+    },
+    {
         "id": "fl6d85y35",
         "title": "Japan Warns of AI 'Claude Mythos' Cyber Risks",
         "excerpt": "The Japanese government held an emergency meeting with the Bank of Japan and executives from the country's three megabanks to discuss potential risks posed by the new artificial intelligence model 'Claude Mythos' to Japan's financial system. (News On Japan)",
