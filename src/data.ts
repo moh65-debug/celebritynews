@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "f0fewe9x0",
+        "title": "WWE RAW Results & Highlights 27-april-2026: Roman Reigns grants Jacob Fatu a huge opportunity, IC title open challenge and more",
+        "excerpt": "Seth Rollins opened RAW, setting up a match with Bron Breakker at Backlash. Intercontinental Champion Penta defeated Rusev, while Becky Lynch retained her title against IYO Sky with Asuka's interference. The show concluded with Jacob Fatu attacking Roman Reig…",
+        "content": "<p>Seth Rollins opened RAW, setting up a match with Bron Breakker at Backlash. Intercontinental Champion Penta defeated Rusev, while Becky Lynch retained her title against IYO Sky with Asuka's interference. The show concluded with Jacob Fatu attacking Roman Reig…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-130567654,width-1280,height-720,imgsize-2331233,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Apr 28, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-raw-results-highlights-27-april-2026-roman-reigns-grants-jacob-fatu-a-huge-opportunity-ic-title-open-challenge-and-more/articleshow/130567487.cms"
+    },
+    {
+        "id": "xqyyn2kz6",
+        "title": "These AI-powered billboards know the weather and your outfit (but not your face)",
+        "excerpt": "When Mercado Libre, Latin America's largest e-commerce platform, installed a series of AI-powered billboards across Buenos Aires, it turned a static medium into something reactive.",
+        "content": "<p>When Mercado Libre, Latin America's largest e-commerce platform, installed a series of AI-powered billboards across Buenos Aires, it turned a static medium into something reactive.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.trendwatching.com/hubfs/mercato-libre-ai-billboards.jpeg",
+        "date": "Apr 28, 2026",
+        "url": "https://www.trendwatching.com/innovations/these-ai-powered-billboards-know-the-weather-and-your-outfit-but-not-your-face"
+    },
+    {
+        "id": "1cxpfw221",
+        "title": "How Asia-Pacific is fighting a fuel shock that could get worse",
+        "excerpt": "Asian nations are grappling with prolonged energy supply strains due to the Middle East conflict, prompting governments to implement costly subsidies and fuel-use restrictions. Diversifying energy sources and tapping reserves are key strategies, but deeper tr…",
+        "content": "<p>Asian nations are grappling with prolonged energy supply strains due to the Middle East conflict, prompting governments to implement costly subsidies and fuel-use restrictions. Diversifying energy sources and tapping reserves are key strategies, but deeper tr…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-130567530,width-1200,height-630,imgsize-74756,overlay-economictimes/articleshow.jpg",
+        "date": "Apr 28, 2026",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/how-asia-pacific-is-fighting-a-fuel-shock-that-could-get-worse/articleshow/130567466.cms"
+    },
+    {
+        "id": "9lios54nt",
+        "title": "10 stocks in focus on Tuesday: Railtel, SAMIL, M&M, TCS, Vipul Organics, Jindal Saw, Imzo and others",
+        "excerpt": "Discover key stock movements and strategic developments in telecom, automotive, and chemical sectors for Tuesday's market focus.",
+        "content": "<p>Discover key stock movements and strategic developments in telecom, automotive, and chemical sectors for Tuesday's market focus.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/spjpmm/article70912505.ece/alternates/LANDSCAPE_1200/PO20_Abstract_chart.jpg",
+        "date": "Apr 28, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/10-stocks-in-focus-on-tuesday-railtel-samil-mm-tcs-vipul-organics-jindal-saw-imzo-and-others/article70914648.ece"
+    },
+    {
+        "id": "8rt2bc0kn",
+        "title": "Opening remarks Tuesday in Elon Musk versus OpenAI trial",
+        "excerpt": "A courtroom showdown begins Tuesday between billionaire Elon Musk and OpenAI. Musk alleges the artificial intelligence company betrayed its non-profit mission. OpenAI counters that Musk sought absolute control. The legal battle spotlights the debate on AI's b…",
+        "content": "<p>A courtroom showdown begins Tuesday between billionaire Elon Musk and OpenAI. Musk alleges the artificial intelligence company betrayed its non-profit mission. OpenAI counters that Musk sought absolute control. The legal battle spotlights the debate on AI's b…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-62608,resizemode-75,msid-130567408/tech/artificial-intelligence/opening-remarks-tuesday-in-elon-musk-versus-openai-trial.jpg",
+        "date": "Apr 28, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/opening-remarks-tuesday-in-elon-musk-versus-openai-trial/articleshow/130567408.cms"
+    },
+    {
+        "id": "8bb8kb0ri",
+        "title": "Private sector targets $3bn livestock market expansion",
+        "excerpt": "Private sector-led investment aims to unlock $3bn in Nigeria’s livestock market, addressing bottlenecks and boosting growth across the entire value chain.\n\nRead More: https://punchng.com/private-sector-targets-3bn-livestock-market-expansion/",
+        "content": "<p>Private sector-led investment aims to unlock $3bn in Nigeria’s livestock market, addressing bottlenecks and boosting growth across the entire value chain.\n\nRead More: https://punchng.com/private-sector-targets-3bn-livestock-market-expansion/</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2023/12/12095007/Livestock.jpg",
+        "date": "Apr 28, 2026",
+        "url": "https://punchng.com/private-sector-targets-3bn-livestock-market-expansion/"
+    },
+    {
+        "id": "mlhm8a5f5",
+        "title": "Op-Ed: Beyond dumb – Dismissing the National Science Board is bad strategy of the potentially fatal kind",
+        "excerpt": "You can’t privatize reality.\nThe post Op-Ed: Beyond dumb – Dismissing the National Science Board is bad strategy of the potentially fatal kind appeared first on Digital Journal.",
+        "content": "<p>You can’t privatize reality.\nThe post Op-Ed: Beyond dumb – Dismissing the National Science Board is bad strategy of the potentially fatal kind appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/02/20240921_155729-EDIT.jpg",
+        "date": "Apr 28, 2026",
+        "url": "https://www.digitaljournal.com/world/op-ed-beyond-dumb-dismissing-the-national-science-board-is-bad-strategy-of-the-potentially-fatal-kind/article"
+    },
+    {
+        "id": "nkeqshngq",
+        "title": "Op-Ed: Beyond dumb – Dismissing the National Science Board is bad strategy of the potentially fatal kind",
+        "excerpt": "You can’t privatize reality.\nThe post Op-Ed: Beyond dumb – Dismissing the National Science Board is bad strategy of the potentially fatal kind appeared first on Digital Journal.",
+        "content": "<p>You can’t privatize reality.\nThe post Op-Ed: Beyond dumb – Dismissing the National Science Board is bad strategy of the potentially fatal kind appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/02/20240921_155729-EDIT.jpg",
+        "date": "Apr 28, 2026",
+        "url": "https://www.digitaljournal.com/tech-science/op-ed-beyond-dumb-dismissing-the-national-science-board-is-bad-strategy-of-the-potentially-fatal-kind/article"
+    },
+    {
+        "id": "6j9wxvn24",
+        "title": "Did Trump stage assassination attempt during White House correspondents dinner? Trump shooting scare fuels conspiracy theory debate",
+        "excerpt": "Did Trump stage assassination attempt during White House correspondents dinner? The question spread across social media after gunfire outside the White House Correspondents’ Dinner triggered evacuation. False claims gained millions of views. Fact-checkers say…",
+        "content": "<p>Did Trump stage assassination attempt during White House correspondents dinner? The question spread across social media after gunfire outside the White House Correspondents’ Dinner triggered evacuation. False claims gained millions of views. Fact-checkers say…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://img.etimg.com/thumb/msid-130567270,width-1200,height-630,imgsize-143602,overlay-economictimes/articleshow.jpg",
+        "date": "Apr 28, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/us/did-trump-stage-assassination-attempt-during-white-house-correspondents-dinner-trump-shooting-scare-fuels-conspiracy-theory-debate/articleshow/130567257.cms"
+    },
+    {
+        "id": "bj4d5vp1x",
+        "title": "Jet fuel crisis: FG seeks 30-day credit window for airlines",
+        "excerpt": "Explore Nigeria’s escalating jet fuel crisis as airlines struggle with soaring prices. Learn about government interventions and the impact on domestic flig\n\nRead More: https://punchng.com/jet-fuel-crisis-fg-seeks-30-day-credit-window-for-airlines-2/",
+        "content": "<p>Explore Nigeria’s escalating jet fuel crisis as airlines struggle with soaring prices. Learn about government interventions and the impact on domestic flig\n\nRead More: https://punchng.com/jet-fuel-crisis-fg-seeks-30-day-credit-window-for-airlines-2/</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2024/07/24011950/Festus-Keyamo.jpg",
+        "date": "Apr 28, 2026",
+        "url": "https://punchng.com/jet-fuel-crisis-fg-seeks-30-day-credit-window-for-airlines-2/"
+    },
+    {
         "id": "rzv78i5dk",
         "title": "India’s retail investors have played a heroic role but their resolve is being tested by market volatility",
         "excerpt": "Retail investors have helped Indian shares rebound this month but their patience is being tested by exiting foreign money and a shift in economic conditions. Their expectations and investment horizons matter. They’re also difficult to gauge.",
