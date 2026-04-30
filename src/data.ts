@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "mfghw5tsh",
+        "title": "Covid Cover-Up: Hiding Star Researcher Ralph Baric's Ties",
+        "excerpt": "In March 2020, a couple of months after the Centers for Disease Control and Prevention reported the first confirmed case of COVID-19 in the United States, editors at the journal Nature Medicine append",
+        "content": "<p>In March 2020, a couple of months after the Centers for Disease Control and Prevention reported the first confirmed case of COVID-19 in the United States, editors at the journal Nature Medicine append</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://assets.realclear.com/images/71/715843_6_.jpg",
+        "date": "Apr 29, 2026",
+        "url": "https://www.realclearinvestigations.com/articles/2026/04/28/covid_cover-up_campaign_to_hide_star_researcher_ralph_barics_ties_to_global_pandemic_1179562.html"
+    },
+    {
+        "id": "wjwmcdz5p",
+        "title": "TSMC accelerates 2nm expansion, targets record five-fab ramp in 2026",
+        "excerpt": "At its recent North America Technology Symposium, TSMC said it is doubling the pace of advanced-node capacity expansion to meet booming demand for AI and high-performance computing (HPC). Senior Vice President Hou Yongqing said five 2nm fabs are set to enter …",
+        "content": "<p>At its recent North America Technology Symposium, TSMC said it is doubling the pace of advanced-node capacity expansion to meet booming demand for AI and high-performance computing (HPC). Senior Vice President Hou Yongqing said five 2nm fabs are set to enter …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://technode.com/wp-content/uploads/2024/06/3nm.png",
+        "date": "Apr 29, 2026",
+        "url": "http://technode.com/2026/04/29/tsmc-accelerates-2nm-expansion-as-ai-demand-surges-targets-record-five-fab-ramp-in-2026/"
+    },
+    {
+        "id": "8di969szx",
+        "title": "Parag Agrawal’s startup raises $100M to build a parallel web for AI agents",
+        "excerpt": "Former Twitter Inc. Chief Executive Parag Agrawal has raised $100 million to fund his new startup Parallel Web Systems Inc., which is focused on enabling artificial intelligence agents to search the web more efficiently. Sequoia Capital led today’s Series B r…",
+        "content": "<p>Former Twitter Inc. Chief Executive Parag Agrawal has raised $100 million to fund his new startup Parallel Web Systems Inc., which is focused on enabling artificial intelligence agents to search the web more efficiently. Sequoia Capital led today’s Series B r…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2026-04-29-09-28-22.png",
+        "date": "Apr 29, 2026",
+        "url": "https://siliconangle.com/2026/04/28/parag-agrawals-startup-raises-100m-build-parallel-web-ai-agents/"
+    },
+    {
+        "id": "rl8lgq7ok",
+        "title": "Monday.com targets third wave of AI with OpenClaw service",
+        "excerpt": "The work management software firm’s Globster service brings OpenClaw to consumers and businesses in a bid to democratise access to agentic AI capabilities",
+        "content": "<p>The work management software firm’s Globster service brings OpenClaw to consumers and businesses in a bid to democratise access to agentic AI capabilities</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/lobster-cooked-red-food-bajita111122-adobe.jpg",
+        "date": "Apr 29, 2026",
+        "url": "https://www.computerweekly.com/news/366642592/Mondaycom-targets-third-wave-of-AI-with-OpenClaw-service"
+    },
+    {
+        "id": "ce9ngbzan",
+        "title": "Trump issues praise on King Charles for doing what he's 'never been able to do' during speech to Congress",
+        "excerpt": "At a state dinner held hours later, Trump was welcoming King Charles and Queen Camilla before praising his speech and joking that the king got the Democrats to applaud in a way they refuse to for him.",
+        "content": "<p>At a state dinner held hours later, Trump was welcoming King Charles and Queen Camilla before praising his speech and joking that the king got the Democrats to applaud in a way they refuse to for him.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://i.dailymail.com/1s/2026/04/29/02/108236143-0-image-a-8_1777427389141.jpg",
+        "date": "Apr 29, 2026",
+        "url": "https://www.dailymail.com/news/article-15774215/Trump-King-Charles-Democrats-speech.html"
+    },
+    {
+        "id": "r8z1znoeb",
+        "title": "Sports-tech startup SportVot raises Rs 32.7 crore led by IAN Alpha Fund",
+        "excerpt": "Sports-tech firm SportVot has secured Rs 32.7 crore in a new funding round. The investment will fuel international expansion and enhance AI-led production and distribution. SportVot aims to make professional broadcasting accessible for all sports. The platfor…",
+        "content": "<p>Sports-tech firm SportVot has secured Rs 32.7 crore in a new funding round. The investment will fuel international expansion and enhance AI-led production and distribution. SportVot aims to make professional broadcasting accessible for all sports. The platfor…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-977734,resizemode-75,msid-130587716/tech/funding/sports-tech-startup-sportvot-raises-rs-32-7-crore-led-by-ian-alpha-fund.jpg",
+        "date": "Apr 29, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/funding/sports-tech-startup-sportvot-raises-rs-32-7-crore-led-by-ian-alpha-fund/articleshow/130587716.cms"
+    },
+    {
+        "id": "rzbopj8zc",
+        "title": "Creature Commandos: Lorey Offers Season 2 Update, Drops \"Starry\" Tease",
+        "excerpt": "Earlier today, we reported on DC Studios co-CEO and writer/director James Gunn letting folks know that he likes what he sees so far regarding the animatics for the second season of HBO Max's Creature Commandos, and Warner Bros. Animation and DC Studios' upcom…",
+        "content": "<p>Earlier today, we reported on DC Studios co-CEO and writer/director James Gunn letting folks know that he likes what he sees so far regarding the animatics for the second season of HBO Max's Creature Commandos, and Warner Bros. Animation and DC Studios' upcom…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2025/05/dr-phosphorus-the-bride-weasel-2000x1125.jpg",
+        "date": "Apr 29, 2026",
+        "url": "https://bleedingcool.com/tv/creature-commandos-lorey-offers-season-2-update-drops-starry-tease/"
+    },
+    {
+        "id": "6gdn3wg9r",
+        "title": "What happened at Trump’s White House dinner shooting? #lifestyle",
+        "excerpt": "What happened during the White House correspondents’ dinner On the night of the White House Correspondents’ Dinner, President Donald Trump was abruptly rushed away from the event after gunshots were reported nearby. Multiple posts describe the moment as a sud…",
+        "content": "<p>What happened during the White House correspondents’ dinner On the night of the White House Correspondents’ Dinner, President Donald Trump was abruptly rushed away from the event after gunshots were reported nearby. Multiple posts describe the moment as a sud…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Apr 29, 2026",
+        "url": "https://alltoc.com/lifestyle/what-happened-at-trumps-white-house-dinner-shooting"
+    },
+    {
+        "id": "2ijy5thsz",
+        "title": "Do jet fuel shortages affect summer Europe flights? #travel",
+        "excerpt": "Jet fuel shortages and summer travel: what to expect A major issue for travelers planning summer trips is the possibility that jet fuel shortages and sharply higher jet fuel prices could disrupt schedules and raise fares. Multiple reports in the travel news s…",
+        "content": "<p>Jet fuel shortages and summer travel: what to expect A major issue for travelers planning summer trips is the possibility that jet fuel shortages and sharply higher jet fuel prices could disrupt schedules and raise fares. Multiple reports in the travel news s…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Apr 29, 2026",
+        "url": "https://alltoc.com/travel/do-jet-fuel-shortages-affect-summer-europe-flights"
+    },
+    {
+        "id": "lk08n1lg8",
+        "title": "What happened to the White House dinner? #tabloid",
+        "excerpt": "White House Correspondents’ Dinner chaos and fallout A shooting and ensuing security response erupted around the White House Correspondents’ Dinner, with multiple updates focused on evacuations and the scramble to respond once shots were fired. Several storie…",
+        "content": "<p>White House Correspondents’ Dinner chaos and fallout A shooting and ensuing security response erupted around the White House Correspondents’ Dinner, with multiple updates focused on evacuations and the scramble to respond once shots were fired. Several storie…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "Apr 29, 2026",
+        "url": "https://alltoc.com/tabloid/what-happened-to-the-white-house-dinner"
+    },
+    {
         "id": "f0fewe9x0",
         "title": "WWE RAW Results & Highlights 27-april-2026: Roman Reigns grants Jacob Fatu a huge opportunity, IC title open challenge and more",
         "excerpt": "Seth Rollins opened RAW, setting up a match with Bron Breakker at Backlash. Intercontinental Champion Penta defeated Rusev, while Becky Lynch retained her title against IYO Sky with Asuka's interference. The show concluded with Jacob Fatu attacking Roman Reig…",
