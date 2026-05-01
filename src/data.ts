@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "sniglrr5m",
+        "title": "Hospitals and Chatbots: How AI is rewriting medical consultation in Nigeria",
+        "excerpt": "Discover how AI in healthcare is changing medical consultations in Nigeria as patients turn to chatbots for answers amid a strained system.\n\nRead More: https://punchng.com/hospitals-and-chatbots-how-ai-is-rewriting-medical-consultation-in-nigeria/",
+        "content": "<p>Discover how AI in healthcare is changing medical consultations in Nigeria as patients turn to chatbots for answers amid a strained system.\n\nRead More: https://punchng.com/hospitals-and-chatbots-how-ai-is-rewriting-medical-consultation-in-nigeria/</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/04/30032312/health-matter.jpg",
+        "date": "Apr 30, 2026",
+        "url": "https://punchng.com/hospitals-and-chatbots-how-ai-is-rewriting-medical-consultation-in-nigeria/"
+    },
+    {
+        "id": "owfvmn3ij",
+        "title": "Secret Pentagon project to merge soldiers and machines exposed amid fears of futuristic military tech",
+        "excerpt": "A futuristic project to allow soldiers to control modern technology with their minds has gone strangely quiet after reaching a critical stage of development.",
+        "content": "<p>A futuristic project to allow soldiers to control modern technology with their minds has gone strangely quiet after reaching a critical stage of development.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/04/29/22/108260941-0-image-a-54_1777497698785.jpg",
+        "date": "Apr 30, 2026",
+        "url": "https://www.dailymail.com/sciencetech/article-15776865/pentagon-darpa-soldier-machine-brain-interface.html"
+    },
+    {
+        "id": "48t2fwnyp",
+        "title": "The world's most destructive industry is dying — and taking democracy with it",
+        "excerpt": "The fossil fuel industry is the most powerful and destructive industry in the history of the world. Right now the fate of our planet hangs on our ability to defeat the political power of that industry. It is ready to do anything, including making alliances wi…",
+        "content": "<p>The fossil fuel industry is the most powerful and destructive industry in the history of the world. Right now the fate of our planet hangs on our ability to defeat the political power of that industry. It is ready to do anything, including making alliances wi…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.rawstory.com/media-library/a-specialist-scoops-up-oil-with-his-hands-from-a-reservoir-while-posing-for-a-picture-at-the-airankol-oil-field-operated-by-casp.jpg?id=66656604&width=1200&height=600&coordinates=0%2C66%2C0%2C67",
+        "date": "Apr 30, 2026",
+        "url": "https://www.rawstory.com/big-oil-2676831094/"
+    },
+    {
+        "id": "33e6rtd2q",
+        "title": "Nepal: Transgender Rights Progress Stalls",
+        "excerpt": "Nepali authorities have stopped processing applications for transgender people to change their legal gender on identity documents.The authorities’ actions are regressing on years of progress and undermining the fundamental right of recognition before the law.…",
+        "content": "<p>Nepali authorities have stopped processing applications for transgender people to change their legal gender on identity documents.The authorities’ actions are regressing on years of progress and undermining the fundamental right of recognition before the law.…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/04/202212asia_nepal_transrights.jpeg?h=9c86ceb9&itok=47u2dQ7o",
+        "date": "Apr 30, 2026",
+        "url": "https://www.hrw.org/news/2026/04/29/nepal-transgender-rights-progress-stalls"
+    },
+    {
+        "id": "bfob0z9ik",
+        "title": "EU investigators say Meta isn’t doing enough to keep children off its platforms",
+        "excerpt": "European Union regulators today said that Meta Platforms Inc. has violated the Digital Services Act by failing to keep under-13s from accessing its platforms. The European Commission, the executive branch of the European Union, said in a preliminary investiga…",
+        "content": "<p>European Union regulators today said that Meta Platforms Inc. has violated the Digital Services Act by failing to keep under-13s from accessing its platforms. The European Commission, the executive branch of the European Union, said in a preliminary investiga…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/alexandre-lallemand-Pcs3mOL14Sk-unsplash-1.jpg",
+        "date": "Apr 30, 2026",
+        "url": "https://siliconangle.com/2026/04/29/eu-investigators-say-meta-isnt-enough-keep-children-off-platforms/"
+    },
+    {
+        "id": "r9atasgjt",
+        "title": "Report: Head of LIV Golf Yasir Al-Rumayyan is stepping down as league's future in doubt",
+        "excerpt": "Yasir Al-Rumayyan, the chairman of Saudi Arabia's Public Investment Fund and the architect of LIV Golf, is reportedly stepping down from his position as chairman of the LIV board",
+        "content": "<p>Yasir Al-Rumayyan, the chairman of Saudi Arabia's Public Investment Fund and the architect of LIV Golf, is reportedly stepping down from his position as chairman of the LIV board</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://s.yimg.com/os/en/golf_digest_articles_737/02cf97ca443a5c64b26523797afa52ca",
+        "date": "Apr 30, 2026",
+        "url": "https://sports.yahoo.com/articles/report-head-liv-golf-yasir-020929987.html"
+    },
+    {
+        "id": "3tssj9ffa",
+        "title": "Survivor Recap: The Mr. Beast Within",
+        "excerpt": "It’s an action-packed episode with the Survivor auction, an immediate immunity challenge, a monumental twist from Mr. Beast, a live Tribal, and a surprisingly satisfying ending.",
+        "content": "<p>It’s an action-packed episode with the Survivor auction, an immediate immunity challenge, a monumental twist from Mr. Beast, a live Tribal, and a surprisingly satisfying ending.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://pyxis.nymag.com/v1/imgs/b49/de9/6521016292cb5189201148bc8b272eb413-survivor50-ep10.1x.rsocial.w1200.jpg",
+        "date": "Apr 30, 2026",
+        "url": "http://www.vulture.com/article/survivor-50-recap-episode-10-cbs-mr-beast.html"
+    },
+    {
+        "id": "8n7uaoq8s",
+        "title": "Charles Leclerc and Chivas Regal Unveil Their First 16-Year-Old Whisky – an Expression of True Mastery",
+        "excerpt": "Chivas Regal 16 is Leclerc’s debut whisky – a bold 16-year-old blend that brings his defining number to life. Co-created with Master Blender Sandy Hyslop, built on shared craft and belief in constantly challenging yourself. LONDON, April 29, 2026 (GLOBE NEWSW…",
+        "content": "<p>Chivas Regal 16 is Leclerc’s debut whisky – a bold 16-year-old blend that brings his defining number to life. Co-created with Master Blender Sandy Hyslop, built on shared craft and belief in constantly challenging yourself. LONDON, April 29, 2026 (GLOBE NEWSW…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/launch-of-chivas-regal-16.jpeg",
+        "date": "Apr 30, 2026",
+        "url": "https://financialpost.com/globe-newswire/charles-leclerc-and-chivas-regal-unveil-their-first-16-year-old-whisky-an-expression-of-true-mastery"
+    },
+    {
+        "id": "12f3s9xhw",
+        "title": "Ant International serves 150m merchants, 2b consumers, bets on AI commerce infrastructure",
+        "excerpt": "Ant International, the overseas spin-off of Chinese fintech giant Ant Group, has connected more than 150 million merchants with over 2 billion consumer accounts around the world, as it positions its payments network as core infrastructure for the emerging AI …",
+        "content": "<p>Ant International, the overseas spin-off of Chinese fintech giant Ant Group, has connected more than 150 million merchants with over 2 billion consumer accounts around the world, as it positions its payments network as core infrastructure for the emerging AI …</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/30/dd8273bd-ddc7-4ab1-ad55-50086ed681e8_4977b536.jpg?itok=aorIVaoj&v=1777512677",
+        "date": "Apr 30, 2026",
+        "url": "https://www.scmp.com/tech/big-tech/article/3351926/ant-international-serves-150m-merchants-2b-consumers-bets-ai-commerce-infrastructure"
+    },
+    {
+        "id": "baakdgtf1",
+        "title": "Planned defence bank to be headquartered in Canada: report",
+        "excerpt": "A source with direct knowledge confirmed the decision but added that there's still a lot to discuss and sort through — and cautioned there's still a world in which it doesn't happen. Toronto, Ottawa, Vancouver and Montreal are all competing to have the bank l…",
+        "content": "<p>A source with direct knowledge confirmed the decision but added that there's still a lot to discuss and sort through — and cautioned there's still a world in which it doesn't happen. Toronto, Ottawa, Vancouver and Montreal are all competing to have the bank l…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.nationalobserver.com/sites/default/files/img/2026/04/29/5c6b080a-b1de-4fd2-be6a-e52e72847ddd.jpg",
+        "date": "Apr 30, 2026",
+        "url": "https://www.nationalobserver.com/2026/04/29/news/planned-defence-bank-be-headquartered-canada-report"
+    },
+    {
         "id": "mfghw5tsh",
         "title": "Covid Cover-Up: Hiding Star Researcher Ralph Baric's Ties",
         "excerpt": "In March 2020, a couple of months after the Centers for Disease Control and Prevention reported the first confirmed case of COVID-19 in the United States, editors at the journal Nature Medicine append",
