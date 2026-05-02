@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "g3cxe2i72",
+        "title": "Agentic engineering startup JuliaHub lands $65M to automate the design and testing of industrial products",
+        "excerpt": "JuliaHub Inc., an “agentic” industrial engineering startup that’s trying to automate complex manufacturing processes with artificial intelligence, said today it has raised $65 million in Series B funding. Today’s round was led by Dorilton Capital and saw the …",
+        "content": "<p>JuliaHub Inc., an “agentic” industrial engineering startup that’s trying to automate complex manufacturing processes with artificial intelligence, said today it has raised $65 million in Series B funding. Today’s round was led by Dorilton Capital and saw the …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2026-05-01-09-27-27.png",
+        "date": "May 1, 2026",
+        "url": "https://siliconangle.com/2026/04/30/agentic-engineering-startup-juliahub-lands-65m-automate-design-testing-industrial-products/"
+    },
+    {
+        "id": "vs8r5gl8s",
+        "title": "How Emily Blunt & Stanley Tucci Are Related in Real-Life: Yes, They’re Actually Family!",
+        "excerpt": "Emily Blunt and Stanley Tucci met while working on the 2006 movie The Devil Wears Prada and they later became […]\nThe post How Emily Blunt & Stanley Tucci Are Related in Real-Life: Yes, They’re Actually Family! appeared first on Just Jared - Celebrity News an…",
+        "content": "<p>Emily Blunt and Stanley Tucci met while working on the 2006 movie The Devil Wears Prada and they later became […]\nThe post How Emily Blunt & Stanley Tucci Are Related in Real-Life: Yes, They’re Actually Family! appeared first on Just Jared - Celebrity News an…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/04/emily-blunt-stanley-tucci-are-related.jpg",
+        "date": "May 1, 2026",
+        "url": "https://www.justjared.com/2026/04/30/how-emily-blunt-stanley-tucci-are-related-in-real-life-yes-theyre-actually-family/"
+    },
+    {
+        "id": "e3zq4yevi",
+        "title": "AI disruption will 'open new doors' as NTUC expands training committees to help workers",
+        "excerpt": "NTUC secretary-general Ng Chee Meng set out in his May Day Rally speech the labour movement’s plans to spur “collective action” through its new tripartite council.",
+        "content": "<p>NTUC secretary-general Ng Chee Meng set out in his May Day Rally speech the labour movement’s plans to spur “collective action” through its new tripartite council.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--P6PcCagC--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/01/sya_0305.jpg?itok=LvaKeagz",
+        "date": "May 1, 2026",
+        "url": "https://www.channelnewsasia.com/singapore/may-day-rally-ng-chee-meng-artificial-intelligence-tripartite-6093806"
+    },
+    {
+        "id": "izhio82b3",
+        "title": "The MCU Has Already Set Up A Major Spider-Man: Brand New Day Villain Rivalry",
+        "excerpt": "A previous MCU project may have secretly set up a major villain rivalry in Spider-Man: Brand New Day, one that could have some major consequences.",
+        "content": "<p>A previous MCU project may have secretly set up a major villain rivalry in Spider-Man: Brand New Day, one that could have some major consequences.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/spider-man-in-brand-new-day.jpg?w=1600&h=900&fit=crop",
+        "date": "May 1, 2026",
+        "url": "https://screenrant.com/the-mcu-set-up-spiderman-brand-new-day-rivalry-scorpion-tombstone/"
+    },
+    {
+        "id": "xhlp9vob3",
+        "title": "Dove Cameron & Damiano David Share Kiss at Birthday Dinner for Maneskin’s Victoria De Angelis",
+        "excerpt": "Dove Cameron and Damiano David stepped out in Rome this week! The engaged couple were seen joining a group friends […]\nThe post Dove Cameron & Damiano David Share Kiss at Birthday Dinner for Maneskin’s Victoria De Angelis appeared first on Just Jared - Celebr…",
+        "content": "<p>Dove Cameron and Damiano David stepped out in Rome this week! The engaged couple were seen joining a group friends […]\nThe post Dove Cameron & Damiano David Share Kiss at Birthday Dinner for Maneskin’s Victoria De Angelis appeared first on Just Jared - Celebr…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/04/dove-damiano-dinner-kiss.jpg",
+        "date": "May 1, 2026",
+        "url": "https://www.justjared.com/2026/04/30/dove-cameron-damiano-david-share-kiss-at-birthday-dinner-for-maneskins-victoria-de-angelis/"
+    },
+    {
+        "id": "gcby7co22",
+        "title": "Senate votes to ban its members and staff from using prediction platforms",
+        "excerpt": "Following concern over insider trading, the U.S. Senate today voted unanimously to ban its members and staff from using prediction markets that can be used to make anonymous bets on future events, including geopolitical events involving the U.S. This comes a …",
+        "content": "<p>Following concern over insider trading, the U.S. Senate today voted unanimously to ban its members and staff from using prediction markets that can be used to make anonymous bets on future events, including geopolitical events involving the U.S. This comes a …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/pexels-dibert-16151394.jpg",
+        "date": "May 1, 2026",
+        "url": "https://siliconangle.com/2026/04/30/senate-votes-ban-members-staff-using-prediction-platforms/"
+    },
+    {
+        "id": "i8metpr5s",
+        "title": "Which MLB teams relocated the most",
+        "excerpt": "Franchise movement has always been part of MLB’s evolving story, even if fans often wish their teams would stay put forever. While the league is rich in tradition, its history also reflects changing markets, growing cities, and the constant push…",
+        "content": "<p>Franchise movement has always been part of MLB’s evolving story, even if fans often wish their teams would stay put forever. While the league is rich in tradition, its history also reflects changing markets, growing cities, and the constant push…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/the_big_lead_articles_114/70e37e2059cd3b2079d3222071db3116",
+        "date": "May 1, 2026",
+        "url": "https://www.thebiglead.com/which-mlb-teams-relocated-the-most/"
+    },
+    {
+        "id": "nqvnh2jjj",
+        "title": "Unauthorized Remote Access",
+        "excerpt": "Unauthorized Remote Access - posted in Virus, Trojan, Spyware, and Malware Removal Help: Hello,\n \nIm attempting to help a friend remediate what they describe as someone gaining unauthorized remote access to their machine.  From what they have told me, they we…",
+        "content": "<p>Unauthorized Remote Access - posted in Virus, Trojan, Spyware, and Malware Removal Help: Hello,\n \nIm attempting to help a friend remediate what they describe as someone gaining unauthorized remote access to their machine.  From what they have told me, they we…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+        "date": "May 1, 2026",
+        "url": "https://www.bleepingcomputer.com/forums/t/815792/unauthorized-remote-access/"
+    },
+    {
+        "id": "t5soap8cz",
+        "title": "Surprising obesity discovery rewrites decades of fat metabolism science",
+        "excerpt": "A key protein involved in fat metabolism has been found to do more than scientists once thought. Instead of just releasing fat, it helps maintain healthy fat tissue and balance in the body. When it’s missing or disrupted, the results can be surprisingly harmf…",
+        "content": "<p>A key protein involved in fat metabolism has been found to do more than scientists once thought. Instead of just releasing fat, it helps maintain healthy fat tissue and balance in the body. When it’s missing or disrupted, the results can be surprisingly harmf…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
+        "date": "May 1, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260430213503.htm"
+    },
+    {
+        "id": "esog8rzqr",
+        "title": "‘The Blair Witch Project’ Reboot in the Works with Original Stars Involved",
+        "excerpt": "New details about the upcoming reboot of The Blair Witch Project have been revealed after the project was originally announced […]\nThe post ‘The Blair Witch Project’ Reboot in the Works with Original Stars Involved appeared first on Just Jared - Celebrity New…",
+        "content": "<p>New details about the upcoming reboot of The Blair Witch Project have been revealed after the project was originally announced […]\nThe post ‘The Blair Witch Project’ Reboot in the Works with Original Stars Involved appeared first on Just Jared - Celebrity New…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/04/blair-witch-reboot.jpg",
+        "date": "May 1, 2026",
+        "url": "https://www.justjared.com/2026/04/30/the-blair-witch-project-reboot-in-the-works-with-original-stars-involved/"
+    },
+    {
         "id": "sniglrr5m",
         "title": "Hospitals and Chatbots: How AI is rewriting medical consultation in Nigeria",
         "excerpt": "Discover how AI in healthcare is changing medical consultations in Nigeria as patients turn to chatbots for answers amid a strained system.\n\nRead More: https://punchng.com/hospitals-and-chatbots-how-ai-is-rewriting-medical-consultation-in-nigeria/",
