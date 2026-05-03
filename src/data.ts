@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "6ctcj3hrs",
+        "title": "Ranjan Roy: OpenAI’s billion-user goal remains unmet, consumer sentiment towards AI is extremely negative, and crypto app growth is slowing in a saturated market | Big Technology",
+        "excerpt": "OpenAI's struggle to hit a billion users highlights challenges in consumer AI adoption and growth strategies.\nThe post Ranjan Roy: OpenAI’s billion-user goal remains unmet, consumer sentiment towards AI is extremely negative, and crypto app growth is slowing …",
+        "content": "<p>OpenAI's struggle to hit a billion users highlights challenges in consumer AI adoption and growth strategies.\nThe post Ranjan Roy: OpenAI’s billion-user goal remains unmet, consumer sentiment towards AI is extremely negative, and crypto app growth is slowing …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/03013851/podcast-cover-big-technology-800x420.jpg",
+        "date": "May 2, 2026",
+        "url": "https://cryptobriefing.com/ranjan-roy-openais-billion-user-goal-remains-unmet-consumer-sentiment-towards-ai-is-extremely-negative-and-crypto-app-growth-is-slowing-in-a-saturated-market-big-technology/"
+    },
+    {
+        "id": "d2gpaswur",
+        "title": "AI actors and writers will be ineligible for Oscars",
+        "excerpt": "The Academy Awards will now require acting and writing to be human-created for Oscar eligibility. New rules clarify that artificial intelligence cannot be used for these categories. This change applies to submissions for the March 2027 ceremony. The move addr…",
+        "content": "<p>The Academy Awards will now require acting and writing to be human-created for Oscar eligibility. New rules clarify that artificial intelligence cannot be used for these categories. This change applies to submissions for the March 2027 ceremony. The move addr…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-166420,resizemode-75,msid-130708656/tech/artificial-intelligence/ai-actors-and-writers-will-be-ineligible-for-oscars.jpg",
+        "date": "May 2, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-actors-and-writers-will-be-ineligible-for-oscars/articleshow/130708656.cms"
+    },
+    {
+        "id": "v9a46xcro",
+        "title": "Hailey Bieber, Alix Earle and more stars party at elite night 1 of Carbone beach in Miami",
+        "excerpt": "The evening's surprise performer was Ludacris, who took to the stage with an energetic set featuring his biggest hits like \"My Chick Bad\" and \"Money Maker.\"",
+        "content": "<p>The evening's surprise performer was Ludacris, who took to the stage with an energetic set featuring his biggest hits like \"My Chick Bad\" and \"Money Maker.\"</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://pagesix.com/wp-content/uploads/sites/3/2026/05/126820557.jpg?quality=75&strip=all&w=1200",
+        "date": "May 2, 2026",
+        "url": "https://pagesix.com/2026/05/01/celebrity-news/hailey-bieber-alix-earle-and-more-stars-party-at-elite-night-1-of-carbone-beach-in-miami/"
+    },
+    {
+        "id": "l645tkzmt",
+        "title": "2 Years Later, Jujutsu Kaisen’s Sequel Gave a Perfect Conclusion to a Major Character",
+        "excerpt": "Image Courtesy of MAPPA\n\nWarning: This article contains spoilers from the Jujutsu Kaisen Modulo manga! Although Jujutsu Kaisen Modulo is focused on new characters, it also unveils the fate and status of some of the beloved characters from the main story. Modu…",
+        "content": "<p>Image Courtesy of MAPPA\n\nWarning: This article contains spoilers from the Jujutsu Kaisen Modulo manga! Although Jujutsu Kaisen Modulo is focused on new characters, it also unveils the fate and status of some of the beloved characters from the main story. Modu…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2026/05/Jujutsu-Kaisen-Modulo-Anime-Yuji.jpeg?resize=2000,1125",
+        "date": "May 2, 2026",
+        "url": "http://comicbook.com/anime/feature/2-years-later-jujutsu-kaisens-sequel-gave-a-perfect-conclusion-to-a-major-character/"
+    },
+    {
+        "id": "qcj3a814x",
+        "title": "Here's our first look at the Seahawks rookie minicamp roster",
+        "excerpt": "After subtracting the draft picks, UDFAs, and returners, we’re left with 44 tryout players.",
+        "content": "<p>After subtracting the draft picks, UDFAs, and returners, we’re left with 44 tryout players.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/Hc9i1ltkKO9TOM_itx_B0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/seattle_seahawks_wire_usa_today_sports_articles_798/f5680023e92f5da8d5f98593a97cded9",
+        "date": "May 2, 2026",
+        "url": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2026/05/01/seahawks-rookie-minicamp-roster-includes-44-tryout-players/89900887007/"
+    },
+    {
+        "id": "gkfs3l4vb",
+        "title": "Ciara Miller Stuns in Sheer Black Lace Gown at CULT100 Party",
+        "excerpt": "Ciara Miller wears a stunning sheer gown to CULTURED Magazine‘s celebration of the third annual CULT100 list. The 30-year-old Summer […]\nThe post Ciara Miller Stuns in Sheer Black Lace Gown at CULT100 Party appeared first on Just Jared - Celebrity News and Go…",
+        "content": "<p>Ciara Miller wears a stunning sheer gown to CULTURED Magazine‘s celebration of the third annual CULT100 list. The 30-year-old Summer […]\nThe post Ciara Miller Stuns in Sheer Black Lace Gown at CULT100 Party appeared first on Just Jared - Celebrity News and Go…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/ciara-miller-cult100.jpg",
+        "date": "May 2, 2026",
+        "url": "https://www.justjared.com/2026/05/01/ciara-miller-stuns-in-sheer-black-lace-gown-at-cult100-party/"
+    },
+    {
+        "id": "rdtf08ck0",
+        "title": "Who would make the ultimate celebrity starting five for the Lakers and Knicks?",
+        "excerpt": "Who makes the ultimate celebrity starting five for the Lakers and Knicks? From Denzel Washington and Leonardo DiCaprio to Ben Stiller and Spike Lee, explore the star-studded lineups and courtside culture defining both franchises.",
+        "content": "<p>Who makes the ultimate celebrity starting five for the Lakers and Knicks? From Denzel Washington and Leonardo DiCaprio to Ben Stiller and Spike Lee, explore the star-studded lineups and courtside culture defining both franchises.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/QWkRYQf4FZiCxcVWWozPNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ny_post_sports_articles_389/9912e6a77fb67962d263ab6a8e4954e6",
+        "date": "May 2, 2026",
+        "url": "https://nypost.com/2026/05/01/sports/inside-the-lakers-and-knicks-celebrity-courtside-scene/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral"
+    },
+    {
+        "id": "1gibi1zfu",
+        "title": "LEGO Garden Oasis in Portland This Weekend",
+        "excerpt": "If you're in Portland, Oregon, here's a fun way to start your Mother's Day celebrations a little early!\nClick through to read all of \"LEGO Garden Oasis in Portland This Weekend\" at GeekMom.If you value content from GeekMom, please support us via Patreon or us…",
+        "content": "<p>If you're in Portland, Oregon, here's a fun way to start your Mother's Day celebrations a little early!\nClick through to read all of \"LEGO Garden Oasis in Portland This Weekend\" at GeekMom.If you value content from GeekMom, please support us via Patreon or us…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://geekmom.com/wp-content/uploads/2026/05/LEGO-GardenOasis-close-up.jpg",
+        "date": "May 2, 2026",
+        "url": "https://geekmom.com/2026/05/lego-garden-oasis-in-portland-this-weekend/"
+    },
+    {
+        "id": "40ltqogfw",
+        "title": "Pentagon orders withdrawal of 5,000 U.S. troops from Germany as Trump escalates feud with Merz",
+        "excerpt": "The Pentagon confirmed the withdrawal of approximately 5,000 U.S. troops from Germany as tensions between Trump and Chancellor Merz intensify.",
+        "content": "<p>The Pentagon confirmed the withdrawal of approximately 5,000 U.S. troops from Germany as tensions between Trump and Chancellor Merz intensify.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/friedrich-merz-donald-trump-white-house.jpg",
+        "date": "May 2, 2026",
+        "url": "https://www.foxnews.com/politics/pentagon-orders-withdrawal-5000-us-troops-germany-trump-escalates-feud-merz"
+    },
+    {
+        "id": "0pgqfrtxx",
+        "title": "WA has enough fuel for May amid 'growing confidence' for June, minister says",
+        "excerpt": "As the Middle East conflict drags on, Minister Amber-Jade Sanderson she's confident about May supplies, and has \"growing confidence\" for June's outlook.",
+        "content": "<p>As the Middle East conflict drags on, Minister Amber-Jade Sanderson she's confident about May supplies, and has \"growing confidence\" for June's outlook.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/8ebaf5b7e454730f309e632b5f7ff661?impolicy=wcms_watermark_news&cropH=2592&cropW=4608&xPos=0&yPos=240&width=862&height=485&imformat=generic",
+        "date": "May 2, 2026",
+        "url": "https://www.abc.net.au/news/2026-05-02/wa-government-confident-of-fuel-supply-may-and-june/106621568"
+    },
+    {
         "id": "g3cxe2i72",
         "title": "Agentic engineering startup JuliaHub lands $65M to automate the design and testing of industrial products",
         "excerpt": "JuliaHub Inc., an “agentic” industrial engineering startup that’s trying to automate complex manufacturing processes with artificial intelligence, said today it has raised $65 million in Series B funding. Today’s round was led by Dorilton Capital and saw the …",
