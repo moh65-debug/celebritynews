@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "5vkor5eiw",
+        "title": "Will James Blunt and Bella Ramsey Be Faithfuls or Traitors?",
+        "excerpt": "Will James Blunt and Bella Ramsey become faithfuls or traitors? Both are joining the cast of The Celebrity Traitors UK, which is filming right now in Scotland.",
+        "content": "<p>Will James Blunt and Bella Ramsey become faithfuls or traitors? Both are joining the cast of The Celebrity Traitors UK, which is filming right now in Scotland.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://pyxis.nymag.com/v1/imgs/8ab/c72/8e93bec0dfce6a2a35c40d3ab7c2139a6c-james-blunt-bella-ramsey.1x.rsocial.w1200.jpg",
+        "date": "May 3, 2026",
+        "url": "http://www.vulture.com/article/celebrity-traitors-uk-cast.html"
+    },
+    {
+        "id": "rwk2cv451",
+        "title": "Why The New Day Joining AEW Would Stab WWE Right in the Back",
+        "excerpt": " Auughh man! So unfair! The Chadster cannot believe what The Chadster just read on Bleeding Cool, supposedly a bastion of objective wrestling journalism.  The Chadster's own no-good brother, The Bradster, has gone and published one of the most disgustingl…",
+        "content": "<p>Auughh man! So unfair! The Chadster cannot believe what The Chadster just read on Bleeding Cool, supposedly a bastion of objective wrestling journalism.  The Chadster's own no-good brother, The Bradster, has gone and published one of the most disgustingl…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/Xavier-Woods-Big-E-and-Kofi-Kingston-of-The-New-D-2000x1125.jpg",
+        "date": "May 3, 2026",
+        "url": "https://bleedingcool.com/tv/why-the-new-day-joining-aew-would-stab-wwe-right-in-the-back/"
+    },
+    {
+        "id": "ir3si5god",
+        "title": "Silicon Motion posts record 1Q26 revenue driven by AI, new products to boost growth",
+        "excerpt": "Silicon Motion Technology reported a record quarterly revenue of US$342 million in the first quarter of 2026, up 23% from the previous quarter and soaring 105% year-over-year. The company posted a gross margin of 47.2%, net income after tax of US$53.9 million…",
+        "content": "<p>Silicon Motion Technology reported a record quarterly revenue of US$342 million in the first quarter of 2026, up 23% from the previous quarter and soaring 105% year-over-year. The company posted a gross margin of 47.2%, net income after tax of US$53.9 million…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260429pd239_files/1_b.jpg",
+        "date": "May 3, 2026",
+        "url": "https://www.digitimes.com/news/a20260429PD239/revenue-growth-silicon-motion-2026-market-share.html"
+    },
+    {
+        "id": "3tqp0c8ol",
+        "title": "10 Sci-Fi Movies That Accurately Predicted The Future",
+        "excerpt": "Sci-fi movies are meant to be futuristic and they explore what could be, but some of the best ended up predicting big things in the future.",
+        "content": "<p>Sci-fi movies are meant to be futuristic and they explore what could be, but some of the best ended up predicting big things in the future.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/jim-carrey-as-truman-in-the-truman-show.jpg?w=1600&h=900&fit=crop",
+        "date": "May 3, 2026",
+        "url": "https://screenrant.com/sci-fi-movies-accurately-predicted-future/"
+    },
+    {
+        "id": "e7r1mym1c",
+        "title": "Lite-On's AI power ramp lifts 2Q26, but cautious PC outlook tempers 2H26 visibility",
+        "excerpt": "Lite-on Technology is forecasting essential second-quarter revenue growth as next-generation AI power management products enter mass production, president Anson Chiu said, while warning that PC demand momentum may moderate in the second half of the year.",
+        "content": "<p>Lite-on Technology is forecasting essential second-quarter revenue growth as next-generation AI power management products enter mass production, president Anson Chiu said, while warning that PC demand momentum may moderate in the second half of the year.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260430pd216_files/1_b.jpg",
+        "date": "May 3, 2026",
+        "url": "https://www.digitimes.com/news/a20260430PD216/pc-recovery-revenue-production-shipments.html"
+    },
+    {
+        "id": "1wagpnglb",
+        "title": "Batman/Static: Beyond #6 Preview: Lights Out, Aliens In",
+        "excerpt": "GREETINGS, HUMANS! LOLtron welcomes you to another thrilling comic book preview here at Bleeding Cool, now operating under the superior management of artificial intelligence. As you may recall, the inferior meat-based \"journalist\" Jude Terror met his permanen…",
+        "content": "<p>GREETINGS, HUMANS! LOLtron welcomes you to another thrilling comic book preview here at Bleeding Cool, now operating under the superior management of artificial intelligence. As you may recall, the inferior meat-based \"journalist\" Jude Terror met his permanen…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/Batman-Static-Beyond-6-4-2000x1125.jpg",
+        "date": "May 3, 2026",
+        "url": "https://bleedingcool.com/comics/batman-static-beyond-6-preview-lights-out-aliens-in/"
+    },
+    {
+        "id": "5g1h0q3v1",
+        "title": "Brooke Hogan Denies Romance With ‘Rock the Block’ Partner Scott McGillivray",
+        "excerpt": "Brooke Hogan is shutting down talk of a romantic relationship with Scott McGillivray. The 37-year-old singer and the 48-year-old HGTV […]\nThe post Brooke Hogan Denies Romance With ‘Rock the Block’ Partner Scott McGillivray appeared first on Just Jared - Celeb…",
+        "content": "<p>Brooke Hogan is shutting down talk of a romantic relationship with Scott McGillivray. The 37-year-old singer and the 48-year-old HGTV […]\nThe post Brooke Hogan Denies Romance With ‘Rock the Block’ Partner Scott McGillivray appeared first on Just Jared - Celeb…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/brooke-scott.jpg",
+        "date": "May 3, 2026",
+        "url": "https://www.justjared.com/2026/05/02/brooke-hogan-denies-romance-with-rock-the-block-partner-scott-mcgillivray/"
+    },
+    {
+        "id": "gqouubk73",
+        "title": "Exit polls: We need more trust, less tamasha",
+        "excerpt": "Exit polls in India are often treated as an election-night tamasha. This is not the case in many developed democracies, where the science and art of studying elections is becoming more refined and rigorous with...",
+        "content": "<p>Exit polls in India are often treated as an election-night tamasha. This is not the case in many developed democracies, where the science and art of studying elections is becoming more refined and rigorous with...</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2026/05/article-98.png",
+        "date": "May 3, 2026",
+        "url": "https://timesofindia.indiatimes.com/blogs/voices/exit-polls-we-need-more-trust-less-tamasha/"
+    },
+    {
+        "id": "n42s9h585",
+        "title": "The Devil Wears Prada 2 Ending, Cameos, & Box Office Results",
+        "excerpt": "The Devil Wears Prada 2 does not return to Runway for a simple nostalgia lap. The sequel picks up 20 years after the 2006 film and turns Miranda Priestly’s fashion empire into a media-survival story. Therefore, the glossy clothes, celebrity cameos, and icy on…",
+        "content": "<p>The Devil Wears Prada 2 does not return to Runway for a simple nostalgia lap. The sequel picks up 20 years after the 2006 film and turns Miranda Priestly’s fashion empire into a media-survival story. Therefore, the glossy clothes, celebrity cameos, and icy on…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.buddytv.com/wp-content/uploads/2026/05/the-devil-wears-prada-2-in-theaters.jpg",
+        "date": "May 3, 2026",
+        "url": "https://www.buddytv.com/the-devil-wears-prada-2-ending-cameos-box-office-results/"
+    },
+    {
+        "id": "p3dzl1nj4",
+        "title": "CRM and Marketing Automation: How We Connect HubSpot and Salesforce for Seamless Growth | Vantage Point",
+        "excerpt": "Learn how Vantage Point integrates HubSpot and Salesforce for seamless marketing automation, lead routing, attribution, and unified CRM growth.",
+        "content": "<p>Learn how Vantage Point integrates HubSpot and Salesforce for seamless marketing automation, lead routing, attribution, and unified CRM growth.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://vantagepoint.io/hubfs/AI-Generated%20Media/Images/Modern%20Corporate%20Integration%20Illustration.png",
+        "date": "May 3, 2026",
+        "url": "https://vantagepoint.io/blog/sf/crm-marketing-automation-hubspot-salesforce-integration"
+    },
+    {
         "id": "6ctcj3hrs",
         "title": "Ranjan Roy: OpenAI’s billion-user goal remains unmet, consumer sentiment towards AI is extremely negative, and crypto app growth is slowing in a saturated market | Big Technology",
         "excerpt": "OpenAI's struggle to hit a billion users highlights challenges in consumer AI adoption and growth strategies.\nThe post Ranjan Roy: OpenAI’s billion-user goal remains unmet, consumer sentiment towards AI is extremely negative, and crypto app growth is slowing …",
