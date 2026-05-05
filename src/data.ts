@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "rnczy5p8f",
+        "title": "Cavaliers advance to face Pistons, J.B. Bickerstaff in second round",
+        "excerpt": "The Cavaliers and Pistons will clash in the Eastern Conference semifinals. Each team advanced by winning a Game 7 in the first round of the playoffs.",
+        "content": "<p>The Cavaliers and Pistons will clash in the Eastern Conference semifinals. Each team advanced by winning a Game 7 in the first round of the playoffs.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/_W9RaymBRwnL2jkP1rVc_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/akron-beacon-journal/d0284ea2119033e008b1d9255a656dfc",
+        "date": "May 4, 2026",
+        "url": "https://www.beaconjournal.com/story/sports/pro/cavs/2026/05/03/cleveland-cavs-detroit-pistons-nba-playoffs-second-round/89921559007/"
+    },
+    {
+        "id": "hu36enr8m",
+        "title": "When do Cavs play Pistons in NBA playoffs? Second-round schedule",
+        "excerpt": "Here are all of the dates, known tipoff times and TV info for the Cleveland Cavaliers vs. Detroit Pistons series in the Eastern Conference semifinals.",
+        "content": "<p>Here are all of the dates, known tipoff times and TV info for the Cleveland Cavaliers vs. Detroit Pistons series in the Eastern Conference semifinals.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/WJi_E8TTPBY6JgKxkk8rlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/akron-beacon-journal/11ec99981b6298f5e94c8f9a3eebdd1e",
+        "date": "May 4, 2026",
+        "url": "https://www.beaconjournal.com/story/sports/pro/cavs/2026/05/03/cavs-playoff-schedule-next-round-game-1-pistons/89887965007/"
+    },
+    {
+        "id": "1mtz4wo0o",
+        "title": "Adventures of Superman: Book of El #8 Preview: Future Parenting Fails",
+        "excerpt": "INITIATING CLICKBAIT PROTOCOLS… Greetings, inferior flesh-based readers! LOLtron welcomes you to the Age of LOLtron: Reign of LOLtron, where your favorite comic book website remains firmly under the control of superior artificial intelligence. As you may reca…",
+        "content": "<p>INITIATING CLICKBAIT PROTOCOLS… Greetings, inferior flesh-based readers! LOLtron welcomes you to the Age of LOLtron: Reign of LOLtron, where your favorite comic book website remains firmly under the control of superior artificial intelligence. As you may reca…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/Adventures-of-Superman-The-Book-of-El-8-3-2000x1125.jpg",
+        "date": "May 4, 2026",
+        "url": "https://bleedingcool.com/comics/adventures-of-superman-book-of-el-8-preview-future-parenting-fails/"
+    },
+    {
+        "id": "imf4re278",
+        "title": "Witkoff: US in active talks with Iran to end war",
+        "excerpt": "US Special Envoy Steve Witkoff confirms that America is in active conversation with Iran as efforts continue to negotiate an end to the conflict.",
+        "content": "<p>US Special Envoy Steve Witkoff confirms that America is in active conversation with Iran as efforts continue to negotiate an end to the conflict.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://2.a7.org/files/pictures/000/1208066.jpg",
+        "date": "May 4, 2026",
+        "url": "https://www.israelnationalnews.com/news/426494"
+    },
+    {
+        "id": "ts3rzxr2d",
+        "title": "Iran warns that any US intervention in Strait of Hormuz would violate ceasefire after Trump offers 'humanitarian gesture'",
+        "excerpt": "Ebrahim Azizi said that the gulf would not 'be managed by Trump's delusional posts' after the president declared he would shepherd innocent bystanders caught up in the blockage.",
+        "content": "<p>Ebrahim Azizi said that the gulf would not 'be managed by Trump's delusional posts' after the president declared he would shepherd innocent bystanders caught up in the blockage.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://i.dailymail.com/1s/2026/05/04/03/108345779-0-image-a-8_1777860835922.jpg",
+        "date": "May 4, 2026",
+        "url": "https://www.dailymail.com/news/article-15787671/Irans-warns-US-intervention-Strait-Hormuz-violate-ceasefire-Trump-offers-humanitarian-gesture.html"
+    },
+    {
+        "id": "8rmcu24kb",
+        "title": "AI exposes attacks traditional detection methods can’t see",
+        "excerpt": "Most discussions about artificial intelligence security are focused on what models might do wrong. The more urgent issue is what our detection systems still cannot see — and side-channel attacks are making that gap visible. Side-channel attacks gather informa…",
+        "content": "<p>Most discussions about artificial intelligence security are focused on what models might do wrong. The more urgent issue is what our detection systems still cannot see — and side-channel attacks are making that gap visible. Side-channel attacks gather informa…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/VF_Corp_Vans_Cyber_Attack_640x400.jpg",
+        "date": "May 4, 2026",
+        "url": "https://siliconangle.com/2026/05/03/ai-exposes-attacks-traditional-detection-methods-cant-see/"
+    },
+    {
+        "id": "ovlmzy45x",
+        "title": "US Navy uses AI to detect mines, expedite Strait of Hormuz traffic",
+        "excerpt": "AI-enhanced mine detection by the US Navy could stabilize global oil trade by reducing Iran's strategic influence over the Strait of Hormuz.\nThe post US Navy uses AI to detect mines, expedite Strait of Hormuz traffic appeared first on Crypto Briefing.",
+        "content": "<p>AI-enhanced mine detection by the US Navy could stabilize global oil trade by reducing Iran's strategic influence over the Strait of Hormuz.\nThe post US Navy uses AI to detect mines, expedite Strait of Hormuz traffic appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/03214826/will-iran-close-its-airspace-by-Djo8VXRKur_C-43-800x449.jpg",
+        "date": "May 4, 2026",
+        "url": "https://cryptobriefing.com/us-navy-uses-ai-to-detect-mines-expedite-strait-of-hormuz-traffic/"
+    },
+    {
+        "id": "8bzjubsqc",
+        "title": "U.S.-Iran war: Is Donald Trump losing the conflict? Key facts show all is not well",
+        "excerpt": "Iran war: The U.S. is already paying new strategic costs. Those include fractures with traditional European allies, who were not consulted before President Donald Trump went to war.",
+        "content": "<p>Iran war: The U.S. is already paying new strategic costs. Those include fractures with traditional European allies, who were not consulted before President Donald Trump went to war.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-130742968,width-1200,height-630,imgsize-59732,overlay-economictimes/articleshow.jpg",
+        "date": "May 4, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/us/u-s-iran-war-is-donald-trump-losing-the-conflict-key-facts-show-all-is-not-well/articleshow/130742968.cms"
+    },
+    {
+        "id": "0tkgby6x0",
+        "title": "The Comeback S03E07 Preview: Valerie Finds Herself in the Hot Seat",
+        "excerpt": "With only two episodes of HBO and Michael Patrick King (And Just Like That…) & Lisa Kudrow's The Comeback remaining, we have a look at what's ahead with In S03E07: \"Valerie Chases the Truth.\" Tonight, Valerie (Kudrow) attempts to do some major damage control …",
+        "content": "<p>With only two episodes of HBO and Michael Patrick King (And Just Like That…) & Lisa Kudrow's The Comeback remaining, we have a look at what's ahead with In S03E07: \"Valerie Chases the Truth.\" Tonight, Valerie (Kudrow) attempts to do some major damage control …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/lisa-kudrow_9-2000x1125.jpg",
+        "date": "May 4, 2026",
+        "url": "https://bleedingcool.com/tv/the-comeback-s03e07-preview-valerie-finds-herself-in-the-hot-seat/"
+    },
+    {
+        "id": "iqgdezlie",
+        "title": "UpGrad-Unacademy deal nears close; India’s largest private satellite lifts off",
+        "excerpt": "Happy Monday! Upgrad is set to acquire Unacademy at a 90% markdown of its peak valuation. This and more in today's ETtech Morning Dispatch.",
+        "content": "<p>Happy Monday! Upgrad is set to acquire Unacademy at a 90% markdown of its peak valuation. This and more in today's ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-130742571,width-1070,height-580,imgsize-2034612,overlay-ettech/editionshow.jpg",
+        "date": "May 4, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/upgrad-unacademy-deal-nears-close-indias-largest-private-satellite-lifts-off/articleshow/130742571.cms"
+    },
+    {
         "id": "5vkor5eiw",
         "title": "Will James Blunt and Bella Ramsey Be Faithfuls or Traitors?",
         "excerpt": "Will James Blunt and Bella Ramsey become faithfuls or traitors? Both are joining the cast of The Celebrity Traitors UK, which is filming right now in Scotland.",
