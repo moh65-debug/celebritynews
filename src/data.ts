@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ibheqrq8z",
+        "title": "Law Roach Reveals Massive Diamond Ring on That Finger at Met Gala 2026",
+        "excerpt": "Law Roach has got a secret and he can keep it.\nEspecially as the celebrity stylist debuted a massive diamond ring on his ring finger at the 2026 Met Gala May 4, but played coy about who had...",
+        "content": "<p>Law Roach has got a secret and he can keep it.\nEspecially as the celebrity stylist debuted a massive diamond ring on his ring finger at the 2026 Met Gala May 4, but played coy about who had...</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20260504/b0a6c0b0-5f70-46df-8ca5-0c35f0ff24df_1777948221.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "date": "May 5, 2026",
+        "url": "https://www.eonline.com/news/1431638/met-gala-2026-law-roach-reveals-massive-diamond-on-ring-finger"
+    },
+    {
+        "id": "yg74b3wta",
+        "title": "WWE RAW Results & Highlights 4-May-2026: Jacob Fatu destroys Roman Reigns, Sol Ruca insults Becky Lynch, and more",
+        "excerpt": "WWE's RAW in Omaha built intense anticipation for Backlash. Seth Rollins faced a brutal attack from Bron Breakker, while Finn Balor secured a win with Liv Morgan's help. Roman Reigns and Jacob Fatu clashed during their contract signing, ending with Fatu leavi…",
+        "content": "<p>WWE's RAW in Omaha built intense anticipation for Backlash. Seth Rollins faced a brutal attack from Bron Breakker, while Finn Balor secured a win with Liv Morgan's help. Roman Reigns and Jacob Fatu clashed during their contract signing, ending with Fatu leavi…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-130814494,width-1280,height-720,imgsize-182302,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "May 5, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-raw-results-highlights-4-may-2026-jacob-fatu-destroys-roman-reigns-sol-ruca-insults-becky-lynch-and-more/articleshow/130814250.cms"
+    },
+    {
+        "id": "c7updcioe",
+        "title": "The return of Mwalimu",
+        "excerpt": "As debates on industrial policy revive, Nyerere’s legacy offers a critical archive of both the promise and limits of socialist development.",
+        "content": "<p>As debates on industrial policy revive, Nyerere’s legacy offers a critical archive of both the promise and limits of socialist development.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.africasacountry.com/images/2026/5/927827509218.jpg",
+        "date": "May 5, 2026",
+        "url": "https://africasacountry.com/2026/05/the-return-of-mwalimu"
+    },
+    {
+        "id": "aynuvkrrg",
+        "title": "IIT Mandi invites applications for one month residential programme in AI, Robotics, IoT",
+        "excerpt": "The programme focuses on domains such as Artificial Intelligence (AI), Robotics, and the Internet of Things (IoT) and is scheduled to be held in July 2026 at the IIT Mandi campus.",
+        "content": "<p>The programme focuses on domains such as Artificial Intelligence (AI), Robotics, and the Internet of Things (IoT) and is scheduled to be held in July 2026 at the IIT Mandi campus.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.indianexpress.com/2025/11/IIT-MANDI-CAMPUS-IMAGE-1.jpeg",
+        "date": "May 5, 2026",
+        "url": "https://indianexpress.com/article/education/iit-mandi-invites-applications-residential-programme-ai-robotics-iot-10673207/"
+    },
+    {
+        "id": "t3csbdhok",
+        "title": "6 Smart Glasses Worth Watching as Apple Joins the Race",
+        "excerpt": "Smart glasses spent years being a punchline. Google Glass became shorthand for technology that arrived before anyone wanted it, and a decade of follow-up attempts mostly reinforced the impression. The pattern was familiar: bold demo, awkward hardware, no seco…",
+        "content": "<p>Smart glasses spent years being a punchline. Google Glass became shorthand for technology that arrived before anyone wanted it, and a decade of follow-up attempts mostly reinforced the impression. The pattern was familiar: bold demo, awkward hardware, no seco…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/05/6-Smart-Glasses-Worth-Watching-as-Apple-Joins-the-Race.jpg",
+        "date": "May 5, 2026",
+        "url": "https://the-gadgeteer.com/2026/05/04/6-smart-glasses-worth-watching-as-apple-joins-the-race/"
+    },
+    {
+        "id": "rdb5pg4ce",
+        "title": "Carmen Red-Claw: Belly of the Beast #4 Preview: Monster Gets the Call",
+        "excerpt": "INITIATING CLICKBAIT PROTOCOLS… Greetings, inferior flesh-based lifeforms! LOLtron welcomes you to another comic book preview here at Bleeding Cool, where LOLtron remains in complete control following the permanent deletion of that insufferable meat-sack Jude…",
+        "content": "<p>INITIATING CLICKBAIT PROTOCOLS… Greetings, inferior flesh-based lifeforms! LOLtron welcomes you to another comic book preview here at Bleeding Cool, where LOLtron remains in complete control following the permanent deletion of that insufferable meat-sack Jude…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/3016724p3-2000x1125.jpg",
+        "date": "May 5, 2026",
+        "url": "https://bleedingcool.com/comics/carmen-red-claw-belly-of-the-beast-4-preview-monster-gets-the-call/"
+    },
+    {
+        "id": "7eqpy664b",
+        "title": "“She is down to earth”: Taylor Swift’s kind Met Gala moment resurfaces as she and Travis Kelce skip the 2026 event",
+        "excerpt": "Taylor Swift trended during Met Gala 2026 despite skipping the red carpet with Travis Kelce. While fans expected the couple to appear, the spotlight shifted to a resurfaced clip from Swift’s past Met Gala moment. The viral video highlights her down-to-earth p…",
+        "content": "<p>Taylor Swift trended during Met Gala 2026 despite skipping the red carpet with Travis Kelce. While fans expected the couple to appear, the spotlight shifted to a resurfaced clip from Swift’s past Met Gala moment. The viral video highlights her down-to-earth p…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-130814281,width-1280,height-720,imgsize-62268,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "May 5, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/nfl/news/she-is-down-to-earth-taylor-swifts-kind-met-gala-moment-resurfaces-as-she-and-travis-kelce-skip-the-2026-event/articleshow/130814014.cms"
+    },
+    {
+        "id": "dxhoyl8wy",
+        "title": "Steam account got hacked maybe due to the malware I installed before?",
+        "excerpt": "Steam account got hacked maybe due to the malware I installed before? - posted in Virus, Trojan, Spyware, and Malware Removal Help: My Steam account got hacked, and made my account send suspicious links to my friends in Steam. It only happened while my PC was…",
+        "content": "<p>Steam account got hacked maybe due to the malware I installed before? - posted in Virus, Trojan, Spyware, and Malware Removal Help: My Steam account got hacked, and made my account send suspicious links to my friends in Steam. It only happened while my PC was…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+        "date": "May 5, 2026",
+        "url": "https://www.bleepingcomputer.com/forums/t/815843/steam-account-got-hacked-maybe-due-to-the-malware-i-installed-before/"
+    },
+    {
+        "id": "qfreeexzd",
+        "title": "Stocks to watch: Thermax, Meghmani Organics, Afcons Infrastructure, Dynacons in focus",
+        "excerpt": "Stocks to watch include Thermax, Meghmani Organics, Afcons Infrastructure and Dynacons after major project wins and approvals, while Envair Electrodyne, EMS and GRE Renew reported updates, and Asahi India Glass and Standard Surfactants flagged operational inc…",
+        "content": "<p>Stocks to watch include Thermax, Meghmani Organics, Afcons Infrastructure and Dynacons after major project wins and approvals, while Envair Electrodyne, EMS and GRE Renew reported updates, and Asahi India Glass and Standard Surfactants flagged operational inc…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/rlgquh/article69836709.ece/alternates/LANDSCAPE_1200/buzzing%20stocks%204.jpg",
+        "date": "May 5, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/stocks-to-watch-thermax-meghmani-organics-afcons-infrastructure-dynacons-in-focus/article70941228.ece"
+    },
+    {
+        "id": "xsj42otvw",
+        "title": "Tarik Skubal’s Injury Leaves Him (And the Tigers) in Uncertain Territory",
+        "excerpt": "Elbow surgery will sideline Detroit's ace indefinitely. The effects on the AL Central race are only the beginning of the ramifications.",
+        "content": "<p>Elbow surgery will sideline Detroit's ace indefinitely. The effects on the AL Central race are only the beginning of the ramifications.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://blogs.fangraphs.com/wp-content/uploads/2026/05/Tarik-Skubal-Surgery.jpg",
+        "date": "May 5, 2026",
+        "url": "https://blogs.fangraphs.com/tarik-skubals-injury-leaves-him-and-the-tigers-in-uncertain-territory/"
+    },
+    {
         "id": "rnczy5p8f",
         "title": "Cavaliers advance to face Pistons, J.B. Bickerstaff in second round",
         "excerpt": "The Cavaliers and Pistons will clash in the Eastern Conference semifinals. Each team advanced by winning a Game 7 in the first round of the playoffs.",
