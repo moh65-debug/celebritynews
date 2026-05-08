@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "1vmp6m8qv",
+        "title": "US, China weigh launch of official discussions on AI: WSJ",
+        "excerpt": "Washington and Beijing are reportedly considering official discussions on artificial intelligence. This topic may be placed on the agenda for an upcoming summit between President Trump and Chinese leader Xi Jinping in Beijing next week. Treasury Secretary Sco…",
+        "content": "<p>Washington and Beijing are reportedly considering official discussions on artificial intelligence. This topic may be placed on the agenda for an upcoming summit between President Trump and Chinese leader Xi Jinping in Beijing next week. Treasury Secretary Sco…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-45032,resizemode-75,msid-130876732/tech/artificial-intelligence/us-china-weigh-launch-of-official-discussions-on-ai-wsj.jpg",
+        "date": "May 7, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-china-weigh-launch-of-official-discussions-on-ai-wsj/articleshow/130876732.cms"
+    },
+    {
+        "id": "eywd08g0u",
+        "title": "T-Mobile Says Its Network, T-Satellite, and Response Teams Are Ready for Storm Season",
+        "excerpt": "T-Mobile is putting a big spotlight on the work it is doing to keep customers connected when severe weather and other emergencies hit. The carrier says it is continuing to strengthen its network with smarter automation, more backup equipment, satellite-based …",
+        "content": "<p>T-Mobile is putting a big spotlight on the work it is doing to keep customers connected when severe weather and other emergencies hit. The carrier says it is continuing to strengthen its network with smarter automation, more backup equipment, satellite-based …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.tmonews.com/wp-content/uploads/2026/05/t-mobile-emergency-response-team-210x131.jpg",
+        "date": "May 7, 2026",
+        "url": "https://www.tmonews.com/2026/05/t-mobile-says-its-network-t-satellite-and-response-teams-are-ready-for-storm-season/"
+    },
+    {
+        "id": "hq88xqs1b",
+        "title": "AI disinfo tests South Korean laws ahead of local elections",
+        "excerpt": "In an airy office in South Korea, workers comb through social media, uncovering AI-generated content whose growing sophistication is testing toughened election laws ahead of local polls. Experts warn that cheaper, more advanced artificial intelligence models …",
+        "content": "<p>In an airy office in South Korea, workers comb through social media, uncovering AI-generated content whose growing sophistication is testing toughened election laws ahead of local polls. Experts warn that cheaper, more advanced artificial intelligence models …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/05/223a6dde7bc2940534ed9cf1866e007b0ef1a2ec.jpg",
+        "date": "May 7, 2026",
+        "url": "https://www.digitaljournal.com/world/ai-disinfo-tests-south-korean-laws-ahead-of-local-elections/article"
+    },
+    {
+        "id": "y5um356sj",
+        "title": "Sam Altman's management style comes under the microscope at OpenAI trial",
+        "excerpt": "From complaints of \"chaos\" to poor communication, see what 3 witnesses said about Sam Altman's management style at the Musk v. Altman trial.",
+        "content": "<p>From complaints of \"chaos\" to poor communication, see what 3 witnesses said about Sam Altman's management style at the Musk v. Altman trial.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.insider.com/69fbb5d1e1443b8dc48e2954?width=1200&format=jpeg",
+        "date": "May 7, 2026",
+        "url": "https://www.businessinsider.com/openai-execs-testify-about-sam-altman-management-style-2026-5"
+    },
+    {
+        "id": "gp7n05qz5",
+        "title": "Musk’s SpaceX strikes data center deal with Anthropic",
+        "excerpt": "AI startup Anthropic announced Wednesday it has agreed to a major computing partnership with Elon Musk’s SpaceX, securing access to a vast data center as the Claude maker scrambles to keep pace with surging demand for its AI services. Under the deal, Anthropi…",
+        "content": "<p>AI startup Anthropic announced Wednesday it has agreed to a major computing partnership with Elon Musk’s SpaceX, securing access to a vast data center as the Claude maker scrambles to keep pace with surging demand for its AI services. Under the deal, Anthropi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/05/aa15979af5b0818d5b268ba439af517255e09845.jpg",
+        "date": "May 7, 2026",
+        "url": "https://www.digitaljournal.com/world/musks-spacex-strikes-data-center-deal-with-anthropic/article"
+    },
+    {
+        "id": "yq2yyy5nw",
+        "title": "Toshiba Releases 2:1 Multiplexer / 1:2 Demultiplexer Switches Supporting High-Speed Differential Signals such as PCIe® 6.0 and USB4® Version 2.0",
+        "excerpt": "— Suitable for Industrial applications with operating temperatures up to 125°C — KAWASAKI, Japan — Toshiba Electronic Devices & Storage Corporation (“Toshiba”) has launched “ TDS5C212MX” and “ TDS5B212MX,” 2:1 multiplexer (Mux) / 1:2 demultiplexer (De‑Mux) sw…",
+        "content": "<p>— Suitable for Industrial applications with operating temperatures up to 125°C — KAWASAKI, Japan — Toshiba Electronic Devices & Storage Corporation (“Toshiba”) has launched “ TDS5C212MX” and “ TDS5B212MX,” 2:1 multiplexer (Mux) / 1:2 demultiplexer (De‑Mux) sw…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/05/bw20260506857843_1200_628_switches_tds5.jpeg",
+        "date": "May 7, 2026",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/toshiba-releases-21-multiplexer-12-demultiplexer-switches-supporting-high-speed-differential-signals-such-as-pcie-6-0-and-usb4-version-2-0"
+    },
+    {
+        "id": "t9immaa0j",
+        "title": "Britons set to punish Starmer’s Labour in local polls",
+        "excerpt": "Millions of Britons vote Thursday in local elections set to heap more pressure on beleaguered Labour Prime Minister Keir Starmer and showcase the rise of hard-right and left-wing populists. Voters across Scotland, England and Wales head to the ballot box in S…",
+        "content": "<p>Millions of Britons vote Thursday in local elections set to heap more pressure on beleaguered Labour Prime Minister Keir Starmer and showcase the rise of hard-right and left-wing populists. Voters across Scotland, England and Wales head to the ballot box in S…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/05/5764ae7795061652698a66ea893c36c1ee754bb0.jpg",
+        "date": "May 7, 2026",
+        "url": "https://www.digitaljournal.com/world/britons-set-to-punish-starmers-labour-in-local-polls/article"
+    },
+    {
+        "id": "tfaoliny7",
+        "title": "Fortuna Reports Results for the First Quarter 2026",
+        "excerpt": "(All amounts are expressed in US dollars, tabular amounts in millions, unless otherwise stated) Fortuna generates record quarterly free cash flow1 of...",
+        "content": "<p>(All amounts are expressed in US dollars, tabular amounts in millions, unless otherwise stated) Fortuna generates record quarterly free cash flow1 of...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://ml.globenewswire.com/Resource/Download/9f8d25cf-d061-40c8-a13d-e8074a0c6143",
+        "date": "May 7, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/05/07/3289547/0/en/Fortuna-Reports-Results-for-the-First-Quarter-2026.html"
+    },
+    {
+        "id": "wgurq92mg",
+        "title": "Midterm handicapper unveils new House ratings for pivotal 2026 races across the US",
+        "excerpt": "“Our overall House ratings show 213 districts rated as Safe, Likely, or Leans Democratic, 207 rated Safe, Likely, or Leans Republican, and 15 rated as Toss-ups,” the Center for Politics noted.",
+        "content": "<p>“Our overall House ratings show 213 districts rated as Safe, Likely, or Leans Democratic, 207 rated Safe, Likely, or Leans Republican, and 15 rated as Toss-ups,” the Center for Politics noted.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/05/127151480.jpg?quality=75&strip=all&w=1200",
+        "date": "May 7, 2026",
+        "url": "https://nypost.com/2026/05/06/us-news/midterm-handicapper-unveils-new-house-ratings/"
+    },
+    {
+        "id": "5zns25rip",
+        "title": "Feature: A People Who Do Not Cherish Animal Life, Will Fail Human Life",
+        "excerpt": "I am in deepest agreement with Dr. Martin Luther King Jnr when he said, “we are called to speak for the weak, for the voiceless, for the victims of our nation.” And I recognize the enormous wisdom worded by Mahatma Gandhi that, “the greatness of a nation can …",
+        "content": "<p>I am in deepest agreement with Dr. Martin Luther King Jnr when he said, “we are called to speak for the weak, for the voiceless, for the victims of our nation.” And I recognize the enormous wisdom worded by Mahatma Gandhi that, “the greatness of a nation can …</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://thechronicle.com.gh/wp-content/uploads/2026/05/Barima-Sarpong.jpeg",
+        "date": "May 7, 2026",
+        "url": "https://thechronicle.com.gh/feature-a-people-who-do-not-cherish-animal-life-will-fail-human-life/"
+    },
+    {
         "id": "rpadsglyr",
         "title": "India orders infosec red alert in case Mythos sparks crime spree",
         "excerpt": ": Securities regulator urges market players to develop new strategies and nail cyber-basics before AI models fuel mass attacks",
