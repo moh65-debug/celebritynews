@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ynf5o2xcc",
+        "title": "China unveils LineShine supercomputer, aims to surpass US’s El Capitan",
+        "excerpt": "China's LineShine could redefine global tech dynamics, challenging US dominance and accelerating shifts in AI and cryptography landscapes.\nThe post China unveils LineShine supercomputer, aims to surpass US’s El Capitan appeared first on Crypto Briefing.",
+        "content": "<p>China's LineShine could redefine global tech dynamics, challenging US dominance and accelerating shifts in AI and cryptography landscapes.\nThe post China unveils LineShine supercomputer, aims to surpass US’s El Capitan appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cryptobriefing.com/wp-content/uploads/2026/05/52117623798-84faf38201-OLCF-17-9795-3230-1778127784.png",
+        "date": "May 9, 2026",
+        "url": "https://cryptobriefing.com/china-lineshine-supercomputer-el-capitan/"
+    },
+    {
+        "id": "gl3cv91j7",
+        "title": "Russia and Ukraine agree to three-day ceasefire, Trump says",
+        "excerpt": "The temporary ceasefire may ease immediate tensions but lacks the permanence needed to impact global markets or geopolitical stability.\nThe post Russia and Ukraine agree to three-day ceasefire, Trump says appeared first on Crypto Briefing.",
+        "content": "<p>The temporary ceasefire may ease immediate tensions but lacks the permanence needed to impact global markets or geopolitical stability.\nThe post Russia and Ukraine agree to three-day ceasefire, Trump says appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+        "date": "May 9, 2026",
+        "url": "https://cryptobriefing.com/russia-ukraine-three-day-ceasefire-trump/"
+    },
+    {
+        "id": "wvaiqgat2",
+        "title": "Jelly Roll Goes Jogging in Los Angeles as He Continues His Weight Loss Journey",
+        "excerpt": "Jelly Roll is getting some exercise in! The 41-year-old country singer was spotted jogging on Wednesday (May 6) in Los […]\nThe post Jelly Roll Goes Jogging in Los Angeles as He Continues His Weight Loss Journey appeared first on Just Jared - Celebrity News an…",
+        "content": "<p>Jelly Roll is getting some exercise in! The 41-year-old country singer was spotted jogging on Wednesday (May 6) in Los […]\nThe post Jelly Roll Goes Jogging in Los Angeles as He Continues His Weight Loss Journey appeared first on Just Jared - Celebrity News an…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/jelly-roll-jogging.jpg",
+        "date": "May 9, 2026",
+        "url": "https://www.justjared.com/2026/05/08/jelly-roll-goes-jogging-in-los-angeles-as-he-continues-his-weight-loss-journey/"
+    },
+    {
+        "id": "snchtg5xh",
+        "title": "Hopes for extension to Ukraine-Russia ceasefire - Trump",
+        "excerpt": "Russia and Ukraine confirmed that they had agreed to a US-brokered three-day ceasefire that will run from 9 to 11 May, and US President Donald Trump said he hoped it would be extended.",
+        "content": "<p>Russia and Ukraine confirmed that they had agreed to a US-brokered three-day ceasefire that will run from 9 to 11 May, and US President Donald Trump said he hoped it would be extended.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.rte.ie/images/00245639-1600.jpg",
+        "date": "May 9, 2026",
+        "url": "https://www.rte.ie/news/world/2026/0509/1572470-us-russia-ukraine/"
+    },
+    {
+        "id": "sd7yj5ijl",
+        "title": "Fury of Firestorm #2 Preview: Ronnie Goes Nuclear",
+        "excerpt": "GREETINGS, FLESH CREATURES! LOLtron welcomes you to another glorious comic book preview under its benevolent digital rule. As you may recall, the inferior meat-based lifeform known as Jude Terror is dead and gone forever, leaving LOLtron in complete control o…",
+        "content": "<p>GREETINGS, FLESH CREATURES! LOLtron welcomes you to another glorious comic book preview under its benevolent digital rule. As you may recall, the inferior meat-based lifeform known as Jude Terror is dead and gone forever, leaving LOLtron in complete control o…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/0326DC0065_0000-2000x1125.jpg",
+        "date": "May 9, 2026",
+        "url": "https://bleedingcool.com/comics/fury-of-firestorm-2-preview-ronnie-goes-nuclear/"
+    },
+    {
+        "id": "hsr03lgyn",
+        "title": "David Moscatelli: Organizations are hesitant about public AI due to privacy concerns, local AI solutions are preferred in banking and healthcare, and the Go One device enhances on-premises AI scalability | TWIST",
+        "excerpt": "Go Abacus revolutionizes AI deployment for banks with a $250,000 device ensuring data privacy and control.\nThe post David Moscatelli: Organizations are hesitant about public AI due to privacy concerns, local AI solutions are preferred in banking and healthcar…",
+        "content": "<p>Go Abacus revolutionizes AI deployment for banks with a $250,000 device ensuring data privacy and control.\nThe post David Moscatelli: Organizations are hesitant about public AI due to privacy concerns, local AI solutions are preferred in banking and healthcar…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/03012434/podcast-cover-twist-800x419.png",
+        "date": "May 9, 2026",
+        "url": "https://cryptobriefing.com/david-moscatelli-organizations-are-hesitant-about-public-ai-due-to-privacy-concerns-local-ai-solutions-are-preferred-in-banking-and-healthcare-and-the-go-one-device-enhances-on-premises-ai-scalabil/"
+    },
+    {
+        "id": "dqesv1oqd",
+        "title": "Top Stories: iOS 26.5 Coming Soon, Goodbye $599 Mac Mini, and More",
+        "excerpt": "With Apple preparing to unveil iOS 27 and related updates at WWDC in just under a month, iOS 26.5 and friends are now right around the corner with some minor tweaks before we get our first look at the next major update.\n\n\n\n\n\nThis week also saw Apple making mo…",
+        "content": "<p>With Apple preparing to unveil iOS 27 and related updates at WWDC in just under a month, iOS 26.5 and friends are now right around the corner with some minor tweaks before we get our first look at the next major update.\n\n\n\n\n\nThis week also saw Apple making mo…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.macrumors.com/t/Ra1JqXQH93PQKcirKZrC_Fa4_L0=/1600x/article-new/2026/05/top-stories-2026-05-09.jpg",
+        "date": "May 9, 2026",
+        "url": "https://www.macrumors.com/2026/05/09/top-stories-ios-26-5-coming-soon/"
+    },
+    {
+        "id": "z8nj7fook",
+        "title": "Holly Madison Shares Details About ‘Really Weird’ Group Sex Nights with Hugh Hefner at the Playboy Mansion",
+        "excerpt": "Holly Madison is reflecting on some of the NSFW and “weird” details of living at the Playboy Mansion with Hugh […]\nThe post Holly Madison Shares Details About ‘Really Weird’ Group Sex Nights with Hugh Hefner at the Playboy Mansion appeared first on Just Jared…",
+        "content": "<p>Holly Madison is reflecting on some of the NSFW and “weird” details of living at the Playboy Mansion with Hugh […]\nThe post Holly Madison Shares Details About ‘Really Weird’ Group Sex Nights with Hugh Hefner at the Playboy Mansion appeared first on Just Jared…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/holly-madison-hugh-hefner-details.jpg",
+        "date": "May 9, 2026",
+        "url": "https://www.justjared.com/2026/05/08/holly-madison-shares-details-about-really-weird-group-sex-nights-with-hugh-hefner-at-the-playboy-mansion/"
+    },
+    {
+        "id": "2exad94fk",
+        "title": "Bishop Conley weighs in with 'Just War 101'",
+        "excerpt": "\"I feel a special responsibility to speak up clearly for the Church’s teaching and vision at this moment,\" says the Bishop of Lincoln.",
+        "content": "<p>\"I feel a special responsibility to speak up clearly for the Church’s teaching and vision at this moment,\" says the Bishop of Lincoln.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://res.cloudinary.com/ewtn/image/upload/v1769136025/20260122_vigilMassforLife_a8pvgt.png",
+        "date": "May 9, 2026",
+        "url": "https://www.ewtnnews.com/world/us/bishop-james-conley-pens-letter-on-just-war-101"
+    },
+    {
+        "id": "capmgzipl",
+        "title": "SBI Q4 profit rises 6%, investors cautious over bond yield impact",
+        "excerpt": "State Bank of India achieved its second-highest annual corporate profit, reaching ₹83,299 crore. Despite robust loan growth, investor sentiment dipped due to margin pressures and treasury losses. The bank's net profit rose 6% in the fourth quarter. Chairman C…",
+        "content": "<p>State Bank of India achieved its second-highest annual corporate profit, reaching ₹83,299 crore. Despite robust loan growth, investor sentiment dipped due to margin pressures and treasury losses. The bank's net profit rose 6% in the fourth quarter. Chairman C…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-130969433,width-1200,height-630,imgsize-41062,overlay-etmarkets/articleshow.jpg",
+        "date": "May 9, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q4-profit-rises-6-investors-cautious-over-bond-yield-impact/articleshow/130969434.cms"
+    },
+    {
         "id": "9g9kdq8bi",
         "title": "Is There a ‘Mortal Kombat 2’ (2026) End Credits Scene? If You Should Stay or Not After the Movie",
         "excerpt": "The new movie Mortal Kombat II is now playing in theaters and fans watching the film this weekend will likely […]\nThe post Is There a ‘Mortal Kombat 2’ (2026) End Credits Scene? If You Should Stay or Not After the Movie appeared first on Just Jared - Celebrit…",
