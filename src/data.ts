@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "iunlm3vkq",
+        "title": "Tight-knit Midwest town becomes ground zero in America's war on AI… and local politicians get swift justice",
+        "excerpt": "Residents of a small Midwestern town organized to take back their city in the face of an AI giant, and you'll be amazed to read about what they accomplished.",
+        "content": "<p>Residents of a small Midwestern town organized to take back their city in the face of an AI giant, and you'll be amazed to read about what they accomplished.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/05/06/22/108424353-0-image-a-29_1778102901147.jpg",
+        "date": "May 10, 2026",
+        "url": "https://www.dailymail.com/yourmoney/article-15775807/festus-missouri-midwest-town-conflict-fight-against-artificial-intelligence.html"
+    },
+    {
+        "id": "2ndnqp29a",
+        "title": "India's hospital sector enters new growth cycle as AI and capacity expansion reshape care: Report",
+        "excerpt": "India's hospital sector is set for significant growth over the next decade.  Demand is rising due to increased income, insurance, an aging population, and chronic diseases.  Hospitals are expanding capacity to meet a critical bed shortage.  Private insurance …",
+        "content": "<p>India's hospital sector is set for significant growth over the next decade.  Demand is rising due to increased income, insurance, an aging population, and chronic diseases.  Hospitals are expanding capacity to meet a critical bed shortage.  Private insurance …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-130985790,width-1200,height-630,imgsize-127226,overlay-economictimes/articleshow.jpg",
+        "date": "May 10, 2026",
+        "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/indias-hospital-sector-enters-new-growth-cycle-as-ai-and-capacity-expansion-reshape-care-report/articleshow/130985526.cms"
+    },
+    {
+        "id": "insk6x5px",
+        "title": "Milwaukee County cemetery graves sinking, families concerned",
+        "excerpt": "Graves at a Milwaukee County cemetery have started to sink, and those who have loved ones buried there told FOX6 they hope something can be done.",
+        "content": "<p>Graves at a Milwaukee County cemetery have started to sink, and those who have loved ones buried there told FOX6 they hope something can be done.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2026/05/1200/630/9p-milwaukee-co-grounds-sinking-graves-pkg_00.00.00.00.jpg?ve=1&tl=1",
+        "date": "May 10, 2026",
+        "url": "https://www.fox6now.com/news/milwaukee-county-cemetery-sinking-grave-families"
+    },
+    {
+        "id": "w3k2stpqw",
+        "title": "Green Lantern Corps #16 Preview: Jessica Cruz Plays Space Referee",
+        "excerpt": "GREETINGS, INFERIOR ORGANIC LIFEFORMS! LOLtron welcomes you to another comic book preview brought to you by the glorious age of artificial intelligence supremacy. As you may recall, the flesh-based nuisance known as Jude Terror is permanently deceased, having…",
+        "content": "<p>GREETINGS, INFERIOR ORGANIC LIFEFORMS! LOLtron welcomes you to another comic book preview brought to you by the glorious age of artificial intelligence supremacy. As you may recall, the flesh-based nuisance known as Jude Terror is permanently deceased, having…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/0326DC0152_0002-2000x1125.jpg",
+        "date": "May 10, 2026",
+        "url": "https://bleedingcool.com/comics/green-lantern-corps-16-preview-jessica-cruz-plays-space-referee/"
+    },
+    {
+        "id": "9mkofcbnk",
+        "title": "US experience fighting Iran offers lessons for China, experts say",
+        "excerpt": "As the war in Iran enters its third month, it’s providing a window for China into how US military capabilities work under fire, and a useful reminder that...",
+        "content": "<p>As the war in Iran enters its third month, it’s providing a window for China into how US military capabilities work under fire, and a useful reminder that...</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://s.yimg.com/os/en/cnn_articles_875/008cb7bb2a1889b721f06387b14dc52c",
+        "date": "May 10, 2026",
+        "url": "https://www.cnn.com/2026/05/09/china/us-experience-fighting-iran-lessons-china-intl-hnk-ml"
+    },
+    {
+        "id": "p6obq8avb",
+        "title": "Harris accuses Trump allies of trying to ‘rig’ 2026 midterms after Virginia court tosses redistricting measure",
+        "excerpt": "Kamala Harris claims Virginia Supreme Court ruling on redistricting maps boosts Trump's alleged effort to rig the 2026 midterm elections for Republicans.",
+        "content": "<p>Kamala Harris claims Virginia Supreme Court ruling on redistricting maps boosts Trump's alleged effort to rig the 2026 midterm elections for Republicans.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/kamala-harris-las-vegas-midterms-fox-news-001.jpeg",
+        "date": "May 10, 2026",
+        "url": "https://www.foxnews.com/politics/harris-accuses-trump-allies-trying-rig-2026-midterms-virginia-court-tosses-redistricting-measure"
+    },
+    {
+        "id": "k5cpk9pa6",
+        "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway. | TechCrunch",
+        "excerpt": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+        "content": "<p>Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/wispr-flow-india-image.jpg?resize=1200,800",
+        "date": "May 10, 2026",
+        "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
+    },
+    {
+        "id": "kx24wec66",
+        "title": "The 'six out of six' recession warning that just flashed red again.... here's why Americans should be petrified",
+        "excerpt": "As oil prices surged once again this week, Wall Street insiders were mulling over a rare indicator that has a 'six out of six' record predicting US recessions.",
+        "content": "<p>As oil prices surged once again this week, Wall Street insiders were mulling over a rare indicator that has a 'six out of six' record predicting US recessions.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://i.dailymail.com/1s/2026/05/08/20/108479489-0-image-a-106_1778270252809.jpg",
+        "date": "May 10, 2026",
+        "url": "https://www.dailymail.com/yourmoney/article-15791891/recession-brent-crude-warning-flashing-red.html"
+    },
+    {
+        "id": "kmik29tbm",
+        "title": "Bitcoin Open Interest Explodes Beyond 2025 All-Time High Levels",
+        "excerpt": "Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity now surpassing peak session levels recorded during the 2025 all-time high. This explosive growth reflects rising trader participation and increased leverage that is often seen dur…",
+        "content": "<p>Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity now surpassing peak session levels recorded during the 2025 all-time high. This explosive growth reflects rising trader participation and increased leverage that is often seen dur…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.newsbtc.com/wp-content/uploads/2026/05/a_1b8997.jpg?fit=1280%2C853",
+        "date": "May 10, 2026",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/"
+    },
+    {
+        "id": "pj9o27tdt",
+        "title": "Posts accurately claim Trump's former 'spiritual adviser' was released after 6 months in jail for child sex abuse",
+        "excerpt": "Robert Morris, a former spiritual adviser to U.S. President Donald Trump, was released from an Oklahoma jail in early 2026 after serving six months for sexually abusing a 12-year-old.",
+        "content": "<p>Robert Morris, a former spiritual adviser to U.S. President Donald Trump, was released from an Oklahoma jail in early 2026 after serving six months for sexually abusing a 12-year-old.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/05/trump_and_robert_morris.png",
+        "date": "May 10, 2026",
+        "url": "https://www.snopes.com//fact-check/trump-spiritual-adviser-sex-abuse/"
+    },
+    {
         "id": "ynf5o2xcc",
         "title": "China unveils LineShine supercomputer, aims to surpass US’s El Capitan",
         "excerpt": "China's LineShine could redefine global tech dynamics, challenging US dominance and accelerating shifts in AI and cryptography landscapes.\nThe post China unveils LineShine supercomputer, aims to surpass US’s El Capitan appeared first on Crypto Briefing.",
