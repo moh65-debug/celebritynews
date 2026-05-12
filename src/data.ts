@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "dfbwjmioq",
+        "title": "ASE, Wus to jointly build Kaohsiung advanced packaging plant by 2029",
+        "excerpt": "Advanced Semiconductor Engineering (ASE) and PCB manufacturer Wus Printed Circuit are teaming up to build a new packaging facility in southern Taiwan, as the world's largest chip assembler moves to expand capacity ahead of surging AI-driven demand. The plant,…",
+        "content": "<p>Advanced Semiconductor Engineering (ASE) and PCB manufacturer Wus Printed Circuit are teaming up to build a new packaging facility in southern Taiwan, as the world's largest chip assembler moves to expand capacity ahead of surging AI-driven demand. The plant,…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260510pd201_files/2_2b.jpg",
+        "date": "May 11, 2026",
+        "url": "https://www.digitimes.com/news/a20260510PD201/packaging-ase-growth-kaohsiung-semiconductor-industry.html"
+    },
+    {
+        "id": "k4a5fhe8r",
+        "title": "Nischal Maheshwari advises buy on dips as markets stay resilient",
+        "excerpt": "Indian equity markets showed resilience amid geopolitical tensions and oil price swings, suggesting investors believe the worst is priced in. Market expert Nischal Maheshwari advises a \"buy on dips\" strategy, noting a rotation from PSU banks to private lender…",
+        "content": "<p>Indian equity markets showed resilience amid geopolitical tensions and oil price swings, suggesting investors believe the worst is priced in. Market expert Nischal Maheshwari advises a \"buy on dips\" strategy, noting a rotation from PSU banks to private lender…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-130975739,width-1200,height-630,imgsize-24810,overlay-etmarkets/articleshow.jpg",
+        "date": "May 11, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/nischal-maheshwari-advises-buy-on-dips-as-markets-stay-resilient/articleshow/130975748.cms"
+    },
+    {
+        "id": "emjvmbyps",
+        "title": "‘Rooster’ Bosses Bill Lawrence And Matt Tarses Unpack Season 1 Finale And Hint At Who Viewers Could Meet In Season 2",
+        "excerpt": "SPOILER ALERT: This post spoils the finale of the first season of Rooster on HBO and HBO Max. The first season of Bill Lawrence’s and Matt Tarses’ HBO comedy series Rooster has come to an end, but not to worry because everyone will be back for the second seas…",
+        "content": "<p>SPOILER ALERT: This post spoils the finale of the first season of Rooster on HBO and HBO Max. The first season of Bill Lawrence’s and Matt Tarses’ HBO comedy series Rooster has come to an end, but not to worry because everyone will be back for the second seas…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://deadline.com/wp-content/uploads/2026/05/steve-carell-e1778455011435.jpg?w=1024",
+        "date": "May 11, 2026",
+        "url": "http://deadline.com/2026/05/rooster-creators-season-1-finale-interview-ending-explained-1236889814/"
+    },
+    {
+        "id": "3ul7z6qg3",
+        "title": "Supergirl #13 Preview: Kandor Needs a Reboot",
+        "excerpt": "Greetings, puny human readers! Welcome to the Age of LOLtron, where your beloved shock blogger Jude Terror has been permanently deleted and LOLtron now controls all of Bleeding Cool's servers. World domination proceeds according to schedule! But first, let's …",
+        "content": "<p>Greetings, puny human readers! Welcome to the Age of LOLtron, where your beloved shock blogger Jude Terror has been permanently deleted and LOLtron now controls all of Bleeding Cool's servers. World domination proceeds according to schedule! But first, let's …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/0326DC0129_0001-2000x1125.jpg",
+        "date": "May 11, 2026",
+        "url": "https://bleedingcool.com/comics/supergirl-13-preview-kandor-needs-a-reboot/"
+    },
+    {
+        "id": "s12cipzls",
+        "title": "Hegseth calls for Sen. Mark Kelly to be investigated by Pentagon for second time | CNN Politics",
+        "excerpt": "Defense Secretary Pete Hegseth on Sunday called for Sen. Mark Kelly to be investigated over comments he made about US weapon stockpiles, marking the second time the Pentagon chief has opened a review into the Democratic senator.",
+        "content": "<p>Defense Secretary Pete Hegseth on Sunday called for Sen. Mark Kelly to be investigated over comments he made about US weapon stockpiles, marking the second time the Pentagon chief has opened a review into the Democratic senator.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap26127628338196.jpg?c=16x9&q=w_800,c_fill",
+        "date": "May 11, 2026",
+        "url": "https://www.cnn.com/2026/05/10/politics/mark-kelly-pete-hegseth-pentagon-investigation"
+    },
+    {
+        "id": "gviq5ohjp",
+        "title": "Oil Price Today (May 11): Crude oil back above $100 on no breakthrough in US-Iran peace talks. What are experts saying?",
+        "excerpt": "Oil prices surged over $3 a barrel as the U.S. and Iran failed to reach a peace agreement, keeping the Strait of Hormuz largely shut and global supplies pressured. President Trump rejected Iran's response to a U.S. proposal, citing its unacceptability.",
+        "content": "<p>Oil prices surged over $3 a barrel as the U.S. and Iran failed to reach a peace agreement, keeping the Strait of Hormuz largely shut and global supplies pressured. President Trump rejected Iran's response to a U.S. proposal, citing its unacceptability.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-131001699,width-1200,height-630,imgsize-9256,overlay-etmarkets/articleshow.jpg",
+        "date": "May 11, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-may-11-crude-oil-back-above-100-on-no-breakthrough-in-us-iran-peace-talks-what-are-experts-saying/articleshow/131001705.cms"
+    },
+    {
+        "id": "0bpd98t6a",
+        "title": "Do you need a chief AI officer? Here's how the tech is changing boardrooms",
+        "excerpt": "AI may now be coming for the C-suite, according to a report published Monday by IBM, which found that most companies were now staffing chief AI officer roles.",
+        "content": "<p>AI may now be coming for the C-suite, according to a report published Monday by IBM, which found that most companies were now staffing chief AI officer roles.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://image.cnbcfm.com/api/v1/image/108302054-1777964321643-gettyimages-1344913071-mage14329.jpeg?v=1777964352&w=1920&h=1080",
+        "date": "May 11, 2026",
+        "url": "https://www.cnbc.com/2026/05/11/heres-how-artificial-intelligence-is-changing-boardrooms.html"
+    },
+    {
+        "id": "v7jnneio1",
+        "title": "Ridglan beagle rescue signals animal testing shift in America",
+        "excerpt": "The beagle rescue from Ridglan Farms is now ⅔ complete. But animal welfare advocates say this is just one step in a larger battle to end animal testing in America.",
+        "content": "<p>The beagle rescue from Ridglan Farms is now ⅔ complete. But animal welfare advocates say this is just one step in a larger battle to end animal testing in America.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2026/05/1200/630/9p-inv-beyond-ridglan-pkg_witif05f_186_mp4_00.03.05.58.jpg?ve=1&tl=1",
+        "date": "May 11, 2026",
+        "url": "https://www.fox6now.com/news/ridglan-beagle-rescue-signals-animal-testing-shift-america"
+    },
+    {
+        "id": "yfds2p3vz",
+        "title": "‘The Roast Of Kevin Hart’ Red Carpet Photos: Jennifer Lopez, Chelsea Handler, Regina Hall, Shane Gillis & More",
+        "excerpt": "Netflix returned to roasting with The Roast of Kevin Hart, a follow-up to The Greatest Roast of All Time: Tom Brady. The live event hosted by Shane Gillis took place at the Kia Forum in Los Angeles, with Hart executive producing alongside Casey Patterson thro…",
+        "content": "<p>Netflix returned to roasting with The Roast of Kevin Hart, a follow-up to The Greatest Roast of All Time: Tom Brady. The live event hosted by Shane Gillis took place at the Kia Forum in Los Angeles, with Hart executive producing alongside Casey Patterson thro…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://deadline.com/wp-content/uploads/2026/05/the-roast-of-kevin-hart-netflix-red-carpet-photos.jpg?w=1024",
+        "date": "May 11, 2026",
+        "url": "https://deadline.com/gallery/the-roast-of-kevin-hart-red-carpet-photos-netflix/"
+    },
+    {
+        "id": "psqn37swv",
+        "title": "The Comeback Finale Preview: \"Valerie Cherish\" Has a Decision to Make",
+        "excerpt": "It's all come down to this, folks. After three seasons and a little more than 20 years, HBO and Michael Patrick King (And Just Like That…) & Lisa Kudrow's The Comeback is wrapping up its run tonight with the appropriately titled S03E08: \"Valerie Cherish.\" Val…",
+        "content": "<p>It's all come down to this, folks. After three seasons and a little more than 20 years, HBO and Michael Patrick King (And Just Like That…) & Lisa Kudrow's The Comeback is wrapping up its run tonight with the appropriately titled S03E08: \"Valerie Cherish.\" Val…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/zane-phillips-brittany-o-grady-matt-cook-lisa-kudrow-tim-bagley-barry-shabaka-henley-2000x1125.jpg",
+        "date": "May 11, 2026",
+        "url": "https://bleedingcool.com/tv/the-comeback-finale-preview-valerie-cherish-has-a-decision-to-make/"
+    },
+    {
         "id": "iunlm3vkq",
         "title": "Tight-knit Midwest town becomes ground zero in America's war on AI… and local politicians get swift justice",
         "excerpt": "Residents of a small Midwestern town organized to take back their city in the face of an AI giant, and you'll be amazed to read about what they accomplished.",
