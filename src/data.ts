@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "t6le2eavj",
+        "title": "Katharine McPhee, Tony Winner Stephanie J. Block, & More Set as Guest Artists for Tabernacle Choir’s Hollywood Bowl Concerts",
+        "excerpt": "The Tabernacle Choir at Temple Square will be joined by some very special guests for two benefit concerts happening at […]\nThe post Katharine McPhee, Tony Winner Stephanie J. Block, & More Set as Guest Artists for Tabernacle Choir’s Hollywood Bowl Concerts ap…",
+        "content": "<p>The Tabernacle Choir at Temple Square will be joined by some very special guests for two benefit concerts happening at […]\nThe post Katharine McPhee, Tony Winner Stephanie J. Block, & More Set as Guest Artists for Tabernacle Choir’s Hollywood Bowl Concerts ap…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/katharine-mcphee-stephanie-j-block-tabernacle.jpg",
+        "date": "May 12, 2026",
+        "url": "https://www.justjared.com/2026/05/11/katharine-mcphee-tony-winner-stephanie-j-block-more-set-as-guest-artists-for-tabernacle-choirs-hollywood-bowl-concerts/"
+    },
+    {
+        "id": "pwsi4rv3q",
+        "title": "THE FEARLESS BLUEPRINT: How Joshua Van’s Victory Ignites the Fight for a Federal Myanmar",
+        "excerpt": "In the high-stakes world of mixed martial arts, a victory is usually measured in seconds, rounds, or a single knockout. But on the night of May 10, 2026, when Joshua Van secured his second title defense against Tatsuro Taira at UFC 328, the stakes were far hi…",
+        "content": "<p>In the high-stakes world of mixed martial arts, a victory is usually measured in seconds, rounds, or a single knockout. But on the night of May 10, 2026, when Joshua Van secured his second title defense against Tatsuro Taira at UFC 328, the stakes were far hi…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://english.shannews.org/wp-content/uploads/2026/05/Myanmars-Joshua-Van-reacts-after-defeating-Japans-Tatsuro-Taira-by-TKO.jpg",
+        "date": "May 12, 2026",
+        "url": "https://english.shannews.org/archives/29720"
+    },
+    {
+        "id": "q5bcb389o",
+        "title": "Sierra Club: Toyota Isn’t Delivering for U.S. Families",
+        "excerpt": "Washington, DC — On Friday, Toyota Motor reported its earnings for the fiscal year ending in March 2026. Toyota sold approximately 9.6 million units globally and touted that over 5 million units were “electrified vehicles.” While the full-year earnings from T…",
+        "content": "<p>Washington, DC — On Friday, Toyota Motor reported its earnings for the fiscal year ending in March 2026. Toyota sold approximately 9.6 million units globally and touted that over 5 million units were “electrified vehicles.” While the full-year earnings from T…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cleantechnica.com/wp-content/uploads/2026/04/bz-e1776090855401.jpg",
+        "date": "May 12, 2026",
+        "url": "https://cleantechnica.com/2026/05/11/sierra-club-toyota-isnt-delivering-for-u-s-families/"
+    },
+    {
+        "id": "amx46kufm",
+        "title": "Intel CEO confirms ongoing collaboration with NVIDIA on new products",
+        "excerpt": "The two companies are reportedly working on custom x86 CPUs for NVIDIA's AI infrastructure and x86 SoCs with integrated RTX GPU chiplets for consumer PCs.Continue reading at TweakTown",
+        "content": "<p>The two companies are reportedly working on custom x86 CPUs for NVIDIA's AI infrastructure and x86 SoCs with integrated RTX GPU chiplets for consumer PCs.Continue reading at TweakTown</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.tweaktown.com/news/1/1/111546_333_intel-ceo-confirms-ongoing-collaboration-with-nvidia-on-new-products_full.jpg",
+        "date": "May 12, 2026",
+        "url": "https://www.tweaktown.com/news/111546/intel-ceo-confirms-ongoing-collaboration-with-nvidia-on-new-products/index.html"
+    },
+    {
+        "id": "zq1an7w6q",
+        "title": "WWE RAW Results & Highlights 11-May-2026: Jacob Fatu decimates Roman Reigns & The Usos, former NXT star makes in-ring debut, and more",
+        "excerpt": "WWE RAW in Knoxville featured a chaotic six-man tag, Sol Ruca's debut, and Dominik Mysterio retaining his title. The show culminated with Jacob Fatu making a shocking appearance, decimating Roman Reigns and The Usos, leaving a trail of destruction and setting…",
+        "content": "<p>WWE RAW in Knoxville featured a chaotic six-man tag, Sol Ruca's debut, and Dominik Mysterio retaining his title. The show culminated with Jacob Fatu making a shocking appearance, decimating Roman Reigns and The Usos, leaving a trail of destruction and setting…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-131026992,width-1280,height-720,imgsize-1880257,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "May 12, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-raw-results-highlights-11-may-2026-jacob-fatu-decimates-roman-reigns-the-usos-former-nxt-star-makes-in-ring-debut-and-more/articleshow/131026693.cms"
+    },
+    {
+        "id": "s2i5z0cfh",
+        "title": "Economic Digest: A Snapshot of Nepal’s Business News",
+        "excerpt": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s latest economic and policy developments reflect a mixed picture of expansionary ambitions, stru…",
+        "content": "<p>KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s latest economic and policy developments reflect a mixed picture of expansionary ambitions, stru…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+        "date": "May 12, 2026",
+        "url": "https://english.khabarhub.com/2026/12/548331/"
+    },
+    {
+        "id": "ggyi7cmia",
+        "title": "Exclusive – Sec. Burgum on Economy-Crushing Bureaucratic Creep: '80% of What People Were Being Held Accountable for' Not Original Law",
+        "excerpt": "Interior Secretary Doug Burgum argued while speaking at a Breitbart News policy event that the vast majority of the legal hoops the American energy industry has to jump through are setting the U.S. back, while China skips over bureaucracy in the race for AI d…",
+        "content": "<p>Interior Secretary Doug Burgum argued while speaking at a Breitbart News policy event that the vast majority of the legal hoops the American energy industry has to jump through are setting the U.S. back, while China skips over bureaucracy in the race for AI d…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://media.breitbart.com/media/2026/05/Interior-Secretary-Doug-Burgum-BBNevent-PerdieBBN-640x335.jpg",
+        "date": "May 12, 2026",
+        "url": "https://www.breitbart.com/tech/2026/05/11/exclusive-sec-doug-burgum-economy-crushing-bureaucratic-creep/"
+    },
+    {
+        "id": "8ly4ddndl",
+        "title": "Kuaishou Technology may spin off King AI in bid to capture AI market frenzy",
+        "excerpt": "Chinese tech company Kuaishou Technology is considering spinning off its AI video-generation unit Kling AI for a separate initial public offering next year, according to market sources, as investor enthusiasm surrounding AI continues to fuel demand for AI-rel…",
+        "content": "<p>Chinese tech company Kuaishou Technology is considering spinning off its AI video-generation unit Kling AI for a separate initial public offering next year, according to market sources, as investor enthusiasm surrounding AI continues to fuel demand for AI-rel…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://technode.com/wp-content/uploads/2022/09/下載.png",
+        "date": "May 12, 2026",
+        "url": "http://technode.com/2026/05/12/kuaishou-technology-may-spin-off-king-ai-in-bid-to-capture-ai-market-frenzy/"
+    },
+    {
+        "id": "zwf8pqvy4",
+        "title": "HoYoverse Says It Wants to Build a “Self-Evolving AI Civilisation”",
+        "excerpt": "HoYoverse has outlined a long-term vision centered around what it describes as a “self-evolving autonomous AI civilisation” as the company continues expanding its AI-related projects across gaming and research initiatives. The company discussed the concept du…",
+        "content": "<p>HoYoverse has outlined a long-term vision centered around what it describes as a “self-evolving autonomous AI civilisation” as the company continues expanding its AI-related projects across gaming and research initiatives. The company discussed the concept du…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://news.sankakucomplex.com/wp-content/uploads/2024/03/KisaragiChihaya-Gyaru-Art-by-JabaraTornado-2024-Thumb.jpg",
+        "date": "May 12, 2026",
+        "url": "https://news.sankakucomplex.com/n/r2rI80FfyUCcfPfUjrwv1g"
+    },
+    {
+        "id": "s0ils568r",
+        "title": "Anna Faris Joins Wayans Brothers in Mexico City to Kick Off ‘Scary Movie’ Press Tour",
+        "excerpt": "The press tour for Scary Movie, the sixth installment in the beloved franchise, has begun! Anna Faris, Marlon Wayans, and […]\nThe post Anna Faris Joins Wayans Brothers in Mexico City to Kick Off ‘Scary Movie’ Press Tour appeared first on Just Jared - Celebrit…",
+        "content": "<p>The press tour for Scary Movie, the sixth installment in the beloved franchise, has begun! Anna Faris, Marlon Wayans, and […]\nThe post Anna Faris Joins Wayans Brothers in Mexico City to Kick Off ‘Scary Movie’ Press Tour appeared first on Just Jared - Celebrit…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/scary-movie-photo-call-mexico.jpg",
+        "date": "May 12, 2026",
+        "url": "https://www.justjared.com/2026/05/11/anna-faris-joins-wayans-brothers-in-mexico-city-to-kick-off-scary-movie-press-tour/"
+    },
+    {
         "id": "dfbwjmioq",
         "title": "ASE, Wus to jointly build Kaohsiung advanced packaging plant by 2029",
         "excerpt": "Advanced Semiconductor Engineering (ASE) and PCB manufacturer Wus Printed Circuit are teaming up to build a new packaging facility in southern Taiwan, as the world's largest chip assembler moves to expand capacity ahead of surging AI-driven demand. The plant,…",
