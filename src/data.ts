@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "k8el7hrhq",
+        "title": "Shield AI expands Hivemind maritime autonomy in Taiwan with Thunder Tiger partnership",
+        "excerpt": "TAIPEI, Taiwan, May 12, 2026 /PRNewswire/ -- Shield AI, the defense-tech company building the world's best AI pilots and next-generation aircraft, and Thunder Tiger Corp., one of Taiwan's leading manufacturers of unmanned surface and aerial systems, announced…",
+        "content": "<p>TAIPEI, Taiwan, May 12, 2026 /PRNewswire/ -- Shield AI, the defense-tech company building the world's best AI pilots and next-generation aircraft, and Thunder Tiger Corp., one of Taiwan's leading manufacturers of unmanned surface and aerial systems, announced…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mma.prnewswire.com/media/2978725/Shield_AI_and_Thunder_Tiger_Corp.jpg?p=facebook",
+        "date": "May 13, 2026",
+        "url": "https://www.prnewswire.com/news-releases/shield-ai-expands-hivemind-maritime-autonomy-in-taiwan-with-thunder-tiger-partnership-302770287.html"
+    },
+    {
+        "id": "x4u21xa9n",
+        "title": "NVIDIA’s CEO Jensen Huang Secretly Boards Air Force One for Trump’s China Visit, Defying Earlier Reports He’d Skip the Trip",
+        "excerpt": "NVIDIA CEO, Jensen Huang, is now confirmed to accompany President Trump on his China visit along with Elon Musk, Tim Cook & other tech execs. US President Trump's High-Profile China Visit Can't Be Complete Without The Country's Leading Tech CEOs, & That's Exa…",
+        "content": "<p>NVIDIA CEO, Jensen Huang, is now confirmed to accompany President Trump on his China visit along with Elon Musk, Tim Cook & other tech execs. US President Trump's High-Profile China Visit Can't Be Complete Without The Country's Leading Tech CEOs, & That's Exa…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.wccftech.com/wp-content/uploads/2026/05/US-China-Talks-May-2026-1-1920x1073.jpg",
+        "date": "May 13, 2026",
+        "url": "https://wccftech.com/nvidia-ceo-jensen-huang-boards-air-force-one-for-trumps-china-visit/"
+    },
+    {
+        "id": "0mg6w23iy",
+        "title": "Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company",
+        "excerpt": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Br…",
+        "content": "<p>OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Br…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/jonathan-kemper-UF3vfhV04SA-unsplash.jpg",
+        "date": "May 13, 2026",
+        "url": "https://siliconangle.com/2026/05/12/sam-altman-testifies-landmark-openai-trial-says-musk-wanted-control-company/"
+    },
+    {
+        "id": "fxlvkz5qm",
+        "title": "Ryan Lochte Looks Nearly Unrecognizable In New Video Announcing His New Job",
+        "excerpt": "Ryan Lochte is showing off a different look! The 41-year-old Olympic gold medal winning swimmer took to his Instagram this […]\nThe post Ryan Lochte Looks Nearly Unrecognizable In New Video Announcing His New Job appeared first on Just Jared - Celebrity News a…",
+        "content": "<p>Ryan Lochte is showing off a different look! The 41-year-old Olympic gold medal winning swimmer took to his Instagram this […]\nThe post Ryan Lochte Looks Nearly Unrecognizable In New Video Announcing His New Job appeared first on Just Jared - Celebrity News a…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/ryan-unrecognizable.jpg",
+        "date": "May 13, 2026",
+        "url": "https://www.justjared.com/2026/05/12/ryan-lochte-looks-nearly-unrecognizable-in-new-video-announcing-his-new-job/"
+    },
+    {
+        "id": "szskw0jz1",
+        "title": "Data centers are coming for rural America",
+        "excerpt": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to close permanently. In 2023, the 1.4 million-square-foot facili…",
+        "content": "<p>At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to close permanently. In 2023, the 1.4 million-square-foot facili…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "date": "May 13, 2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine"
+    },
+    {
+        "id": "g947ubv98",
+        "title": "A rare cancer-fighting plant compound has been decoded",
+        "excerpt": "Scientists at UBC Okanagan have uncovered how plants produce mitraphylline, a rare natural compound with promising anti cancer potential. The team identified two enzymes that work together to build the molecule’s unusual twisted structure, solving a mystery t…",
+        "content": "<p>Scientists at UBC Okanagan have uncovered how plants produce mitraphylline, a rare natural compound with promising anti cancer potential. The team identified two enzymes that work together to build the molecule’s unusual twisted structure, solving a mystery t…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/cancer-cell-self-destructing.webp",
+        "date": "May 13, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm"
+    },
+    {
+        "id": "3rrade9s5",
+        "title": "Your Old Film Camera Can Now Shoot 4K Video and 26MP RAW Files Without Any Modifications. Here’s How.",
+        "excerpt": "Your Old Film Camera Can Now Shoot 4K Video and 26MP RAW Files Without Any Modifications. Here’s How.Somewhere in your home, there’s likely a camera that used to mean something. A Nikon FM2 inherited from a parent, a Canon AE-1 found at...",
+        "content": "<p>Your Old Film Camera Can Now Shoot 4K Video and 26MP RAW Files Without Any Modifications. Here’s How.Somewhere in your home, there’s likely a camera that used to mean something. A Nikon FM2 inherited from a parent, a Canon AE-1 found at...</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.yankodesign.com/images/design_news/2026/05/draft-im-back/digital_roll_for_analog_cameras_hero.jpg",
+        "date": "May 13, 2026",
+        "url": "https://www.yankodesign.com/2026/05/12/your-old-film-camera-can-now-shoot-4k-video-and-26mp-raw-files-without-any-modifications-heres-how/"
+    },
+    {
+        "id": "9h5ji9i9d",
+        "title": "Dodgers will honor Glenn Burke & Billy Bean on Pride Night June 5",
+        "excerpt": "LOS ANGELES — The Dodgers on Tuesday announced the details of their annual LGBTQ+ Pride Night, which will be held on Friday, June 5 for the opener of a weekend series against the Angels. Among the highlights is the unveiling a permanent display in the center …",
+        "content": "<p>LOS ANGELES — The Dodgers on Tuesday announced the details of their annual LGBTQ+ Pride Night, which will be held on Friday, June 5 for the opener of a weekend series against the Angels. Among the highlights is the unveiling a permanent display in the center …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/PBO9ochaiYpwANqkicPRqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/dc17c492914391bf4a3bf14d92c451f0",
+        "date": "May 13, 2026",
+        "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/115675/glenn-burke-billy-bean-pride-night-dodger-stadium"
+    },
+    {
+        "id": "e783px9hq",
+        "title": "Scientists discover a weak spot shared by polio and common cold viruses",
+        "excerpt": "Scientists at the University of Maryland, Baltimore County, have uncovered a crucial trick used by enteroviruses—the group behind diseases like polio, myocarditis, encephalitis, and even the common cold—to reproduce inside human cells. The team captured, in u…",
+        "content": "<p>Scientists at the University of Maryland, Baltimore County, have uncovered a crucial trick used by enteroviruses—the group behind diseases like polio, myocarditis, encephalitis, and even the common cold—to reproduce inside human cells. The team captured, in u…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/mrna-vaccine-viral-particle-destruction.webp",
+        "date": "May 13, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260512202320.htm"
+    },
+    {
+        "id": "5w8o1sd7x",
+        "title": "International Healthcare Week opens today, fuelling healthcare breakthroughs",
+        "excerpt": "The fifth International Healthcare Week (IHW), organised by the Hong Kong Trade Development Council (HKTDC), opens today, featuring two flagship events. The ...",
+        "content": "<p>The fifth International Healthcare Week (IHW), organised by the Hong Kong Trade Development Council (HKTDC), opens today, featuring two flagship events. The ...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2025/04/20/WhatsApp-Image-2025-04-20-at-17.41.45.jpeg",
+        "date": "May 13, 2026",
+        "url": "https://en.antaranews.com/news/415576/international-healthcare-week-opens-today-fuelling-healthcare-breakthroughs"
+    },
+    {
         "id": "t6le2eavj",
         "title": "Katharine McPhee, Tony Winner Stephanie J. Block, & More Set as Guest Artists for Tabernacle Choir’s Hollywood Bowl Concerts",
         "excerpt": "The Tabernacle Choir at Temple Square will be joined by some very special guests for two benefit concerts happening at […]\nThe post Katharine McPhee, Tony Winner Stephanie J. Block, & More Set as Guest Artists for Tabernacle Choir’s Hollywood Bowl Concerts ap…",
