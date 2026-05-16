@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "d2vgqdjtf",
+        "title": "The Latest: Trump wraps up China visit and holds private meeting with Chinese leader Xi Jinping",
+        "excerpt": "U.S. President Donald Trump wraps up his visit to Beijing on Friday with a private meeting at Chinese leader Xi Jinping's official residence before he...",
+        "content": "<p>U.S. President Donald Trump wraps up his visit to Beijing on Friday with a private meeting at Chinese leader Xi Jinping's official residence before he...</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/RjW7WTfxAto2KFpTzQUh9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/8b6f1a617c9b9b85a72e27bdc27cb80d",
+        "date": "May 15, 2026",
+        "url": "https://www.yahoo.com/news/articles/latest-trump-wraps-china-visit-021905840.html"
+    },
+    {
+        "id": "2lxks4vle",
+        "title": "5 Reasons to Learn Digital Marketing from Industry Experts",
+        "excerpt": "Discover 5 powerful reasons to learn digital marketing from industry experts and gain practical skills, real-world insights, and career-ready knowledge.",
+        "content": "<p>Discover 5 powerful reasons to learn digital marketing from industry experts and gain practical skills, real-world insights, and career-ready knowledge.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitalnest.in/blog/wp-content/uploads/2026/05/ChatGPT-Image-May-14-2026-06_45_00-PM.png",
+        "date": "May 15, 2026",
+        "url": "https://www.digitalnest.in/blog/learn-digital-marketing-from-industry-experts/"
+    },
+    {
+        "id": "oqfvcw046",
+        "title": "Trump says Xi agreed US became a ‘declining nation’ during Biden years",
+        "excerpt": "President Donald Trump turns Xi Jinping's apparent swipe at Western decline into an attack on Biden, saying the U.S. \"suffered immeasurably\" under the prior administration.",
+        "content": "<p>President Donald Trump turns Xi Jinping's apparent swipe at Western decline into an attack on Biden, saying the U.S. \"suffered immeasurably\" under the prior administration.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/trump-xi-warning.jpg",
+        "date": "May 15, 2026",
+        "url": "https://www.foxnews.com/politics/trump-says-xi-agreed-us-became-declining-nation-during-biden-years"
+    },
+    {
+        "id": "q7a1tnf3p",
+        "title": "Applied Materials scales manufacturing and innovation to meet AI demand",
+        "excerpt": "Following record second-quarter 2026 financial results, Applied Materials has detailed an extensive strategy to scale its global manufacturing capacity and accelerate technology commercialization through new collaborative platforms. As the semiconductor indus…",
+        "content": "<p>Following record second-quarter 2026 financial results, Applied Materials has detailed an extensive strategy to scale its global manufacturing capacity and accelerate technology commercialization through new collaborative platforms. As the semiconductor indus…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260515vl204_files/1_2b.jpg",
+        "date": "May 15, 2026",
+        "url": "https://www.digitimes.com/news/a20260515VL204/applied-materials-manufacturing-demand-capacity-supply-chain.html"
+    },
+    {
+        "id": "fucm6cn90",
+        "title": "TECNO Unveils Shot On CAMON Contest 2026 Jointly with Lonely Planet",
+        "excerpt": "Calling on TECNO CAMON users worldwide to capture real life moments under the theme \"Seeing is Believing\" — with global travel awards and premium prizes up for grabs HONG KONG, May 14, 2026 /PRNewswire/ -- TECNO, the AI-driven innovative technology brand, and…",
+        "content": "<p>Calling on TECNO CAMON users worldwide to capture real life moments under the theme \"Seeing is Believing\" — with global travel awards and premium prizes up for grabs HONG KONG, May 14, 2026 /PRNewswire/ -- TECNO, the AI-driven innovative technology brand, and…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mma.prnewswire.com/media/2979973/16_9.jpg?p=facebook",
+        "date": "May 15, 2026",
+        "url": "https://www.prnewswire.com/news-releases/tecno-unveils-shot-on-camon-contest-2026-jointly-with-lonely-planet-302772066.html"
+    },
+    {
+        "id": "96mym0xoc",
+        "title": "Dollar poised for largest weekly rise in two months as Fed hike bets increase",
+        "excerpt": "Dollar surged to a two-month high, fueled by rising energy prices and shipping disruptions, intensifying inflation fears and boosting expectations for a Federal Reserve rate hike.  Meanwhile, cautious optimism surrounds U.S.-China talks, with leaders discussi…",
+        "content": "<p>Dollar surged to a two-month high, fueled by rising energy prices and shipping disruptions, intensifying inflation fears and boosting expectations for a Federal Reserve rate hike.  Meanwhile, cautious optimism surrounds U.S.-China talks, with leaders discussi…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-131106147,width-1200,height-630,imgsize-165698,overlay-etmarkets/articleshow.jpg",
+        "date": "May 15, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/forex/dollar-poised-for-largest-weekly-rise-in-two-months-as-fed-hike-bets-increase/articleshow/131106143.cms"
+    },
+    {
+        "id": "bpcad3igs",
+        "title": "AI tools unveiled for civic participation",
+        "excerpt": "FactCheckAfrica launches new AI-powered civic technology tools to boost public accountability and democratic participation in Nigeria before the 2027 elect\n\nRead More: https://punchng.com/ai-tools-unveiled-for-civic-participation/",
+        "content": "<p>FactCheckAfrica launches new AI-powered civic technology tools to boost public accountability and democratic participation in Nigeria before the 2027 elect\n\nRead More: https://punchng.com/ai-tools-unveiled-for-civic-participation/</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2025/09/18035016/artificial-intelligence.webp",
+        "date": "May 15, 2026",
+        "url": "https://punchng.com/ai-tools-unveiled-for-civic-participation/"
+    },
+    {
+        "id": "ugpdfy6nh",
+        "title": "Rockies Notes: Dollander, Herget, Criswell",
+        "excerpt": "The Rockies are dealing with an injury concern for their top young pitcher. Chase Dollander left this afternoon’s start in Pittsburgh in the second inning on account of right arm tightness. Dollander told Thomas Harding of MLB.com postgame that the club had n…",
+        "content": "<p>The Rockies are dealing with an injury concern for their top young pitcher. Chase Dollander left this afternoon’s start in Pittsburgh in the second inning on account of right arm tightness. Dollander told Thomas Harding of MLB.com postgame that the club had n…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.mlbtraderumors.com/files/2026/05/USATSI_28867777-1024x683.jpg",
+        "date": "May 15, 2026",
+        "url": "https://www.mlbtraderumors.com/2026/05/rockies-notes-dollander-herget-criswell.html"
+    },
+    {
+        "id": "5ou7qwrs0",
+        "title": "Spencer Pratt’s Reps Deny He’s Filming New Reality Show Centered Around LA Mayoral Run",
+        "excerpt": "Spencer Pratt has been reported to be making a reality TV return. TMZ and Deadline both shared that The Hills […]\nThe post Spencer Pratt’s Reps Deny He’s Filming New Reality Show Centered Around LA Mayoral Run appeared first on Just Jared - Celebrity News and…",
+        "content": "<p>Spencer Pratt has been reported to be making a reality TV return. TMZ and Deadline both shared that The Hills […]\nThe post Spencer Pratt’s Reps Deny He’s Filming New Reality Show Centered Around LA Mayoral Run appeared first on Just Jared - Celebrity News and…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/spencer-reality.jpg",
+        "date": "May 15, 2026",
+        "url": "https://www.justjared.com/2026/05/14/spencer-pratts-reps-deny-hes-filming-new-reality-show-centered-around-la-mayoral-run/"
+    },
+    {
+        "id": "2i7ju5zk1",
+        "title": "Trans athlete AB Hernandez's mother says criticism is politically motivated ahead of midterm elections",
+        "excerpt": "California's transgender athlete debate intensifies as AB Hernandez dominates girls' events at CIF Southern Section Division 3 preliminaries.",
+        "content": "<p>California's transgender athlete debate intensifies as AB Hernandez dominates girls' events at CIF Southern Section Division 3 preliminaries.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/ab-hernandez-jurupa-valley-womens-sports.jpeg",
+        "date": "May 15, 2026",
+        "url": "https://www.foxnews.com/outkick-sports/trans-athlete-ab-hernandezs-mother-says-criticism-politically-motivated-ahead-midterm-elections"
+    },
+    {
         "id": "k8el7hrhq",
         "title": "Shield AI expands Hivemind maritime autonomy in Taiwan with Thunder Tiger partnership",
         "excerpt": "TAIPEI, Taiwan, May 12, 2026 /PRNewswire/ -- Shield AI, the defense-tech company building the world's best AI pilots and next-generation aircraft, and Thunder Tiger Corp., one of Taiwan's leading manufacturers of unmanned surface and aerial systems, announced…",
