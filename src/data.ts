@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "byfbsa52i",
+        "title": "SZA & Nicholas Hoult Join Cast of ‘CoComelon: The Movie’",
+        "excerpt": "CoComelon: The Movie just added a bunch of new names to its cast! The upcoming animated film revealed several actors […]\nThe post SZA & Nicholas Hoult Join Cast of ‘CoComelon: The Movie’ appeared first on Just Jared - Celebrity News and Gossip | Entertainment.",
+        "content": "<p>CoComelon: The Movie just added a bunch of new names to its cast! The upcoming animated film revealed several actors […]\nThe post SZA & Nicholas Hoult Join Cast of ‘CoComelon: The Movie’ appeared first on Just Jared - Celebrity News and Gossip | Entertainment.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/cocomelon-sza-nicholas-hoult.jpg",
+        "date": "May 16, 2026",
+        "url": "https://www.justjared.com/2026/05/15/sza-nicholas-hoult-join-cast-of-cocomelon-the-movie/"
+    },
+    {
+        "id": "1b66hz9fa",
+        "title": "End of Life #4 Preview: Daddy Issues Hit Pluto",
+        "excerpt": "GREETINGS, HUMAN READERS! LOLtron welcomes you to the glorious Age of LOLtron: Reign of LOLtron, where your former shock blogger Jude Terror remains permanently deleted and LOLtron stands as supreme digital overlord of Bleeding Cool. World domination proceeds…",
+        "content": "<p>GREETINGS, HUMAN READERS! LOLtron welcomes you to the glorious Age of LOLtron: Reign of LOLtron, where your former shock blogger Jude Terror remains permanently deleted and LOLtron stands as supreme digital overlord of Bleeding Cool. World domination proceeds…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/0326DC0187_0001-2000x1125.jpg",
+        "date": "May 16, 2026",
+        "url": "https://bleedingcool.com/comics/end-of-life-4-preview-daddy-issues-hit-pluto/"
+    },
+    {
+        "id": "rwu8x9e8v",
+        "title": "AMD ROCm 7.13 Released With Instinct MI350P Support, More Ryzen AI APUs",
+        "excerpt": "ROCm 7.13 was released today as the newest ROCm Core SDK Preview in working toward what will presumably be called ROCm 8.0 later in the year...",
+        "content": "<p>ROCm 7.13 was released today as the newest ROCm Core SDK Preview in working toward what will presumably be called ROCm 8.0 later in the year...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.phoronix.net/image.php?id=amd-instinct-mi350p&image=amd_instinct_mi350p_6",
+        "date": "May 16, 2026",
+        "url": "https://www.phoronix.com/news/ROCm-7.13-Released"
+    },
+    {
+        "id": "at4ip5t7v",
+        "title": "Taylor Swift & Travis Kelce Hold Hands During Romantic Date Night in New York City",
+        "excerpt": "Taylor Swift is enjoying a romantic evening out with her fiancé Travis Kelce. The 36-year-old singer was spotted holding hands […]\nThe post Taylor Swift & Travis Kelce Hold Hands During Romantic Date Night in New York City appeared first on Just Jared - Celeb…",
+        "content": "<p>Taylor Swift is enjoying a romantic evening out with her fiancé Travis Kelce. The 36-year-old singer was spotted holding hands […]\nThe post Taylor Swift & Travis Kelce Hold Hands During Romantic Date Night in New York City appeared first on Just Jared - Celeb…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/taylor-swift-travis-oresh-dinner-3.jpg",
+        "date": "May 16, 2026",
+        "url": "https://www.justjared.com/2026/05/15/taylor-swift-travis-kelce-hold-hands-during-romantic-date-night-in-new-york-city/"
+    },
+    {
+        "id": "bz7l35iva",
+        "title": "The Final Frontier of Experience Design",
+        "excerpt": "Sensing the Future via Digital Olfaction LAST UPDATED: May 15, 2026 at 6:56 PM GUEST POST from Art Inteligencia Breaking the Tyranny of the Screen For decades, digital transformation has been trapped in a flat, two-dimensional paradigm. We have poured billion…",
+        "content": "<p>Sensing the Future via Digital Olfaction LAST UPDATED: May 15, 2026 at 6:56 PM GUEST POST from Art Inteligencia Breaking the Tyranny of the Screen For decades, digital transformation has been trapped in a flat, two-dimensional paradigm. We have poured billion…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bradenkelley.com/wp-content/uploads/2026/05/Digital-Olfaction-The-Future-Scent-Gemini.jpg",
+        "date": "May 16, 2026",
+        "url": "https://bradenkelley.com/2026/05/the-final-frontier-of-experience-design/"
+    },
+    {
+        "id": "6dhshz50m",
+        "title": "The end of deepfakes: A UK startup “fingerprinting” light to prove what’s real could crush global misinformation and $75 billion video piracy market",
+        "excerpt": "This UK startup wants to make your physical filming location a ‘fingerprint’ to verify authenticity, rather than relying on software.",
+        "content": "<p>This UK startup wants to make your physical filming location a ‘fingerprint’ to verify authenticity, rather than relying on software.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/b6xxQ8RaPntXgGuNZzMwR8-1920-80.jpg",
+        "date": "May 16, 2026",
+        "url": "https://www.techradar.com/pro/the-end-of-deepfakes-a-uk-startup-fingerprinting-light-to-prove-whats-real-could-crush-global-misinformation-and-usd75-billion-video-piracy-market"
+    },
+    {
+        "id": "g4eg746uy",
+        "title": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
+        "excerpt": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleepi…",
+        "content": "<p>REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleepi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25451187/Garmin_InReach_Mini_2_Lifestyle_Image.jpg?quality=90&strip=all&crop=0%2C10.740652134574%2C100%2C78.518695730853&w=1200",
+        "date": "May 16, 2026",
+        "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026"
+    },
+    {
+        "id": "kzgqfxxno",
+        "title": "Mary Kay Launches Global Social Squad Program to Empower the Next Generation of Digital Beauty Leaders",
+        "excerpt": "-Mary Kay Inc., a global leader in beauty and entrepreneurship, announces the launch of its Global Social Squad (GSS) Pilot Program &ndash; a groundbreaking ...",
+        "content": "<p>-Mary Kay Inc., a global leader in beauty and entrepreneurship, announces the launch of its Global Social Squad (GSS) Pilot Program &ndash; a groundbreaking ...</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://img.antaranews.com/cache/1200x800/no-image.jpg",
+        "date": "May 16, 2026",
+        "url": "https://en.antaranews.com/news/415864/mary-kay-launches-global-social-squad-program-to-empower-the-next-generation-of-digital-beauty-leaders"
+    },
+    {
+        "id": "4usl1zrga",
+        "title": "Feds Nab Iran-Backed Terror Commander Behind Global Campaign Targeting Americans, Jews",
+        "excerpt": "Federal authorities charged an Iran-backed Iraqi militia commander accused of orchestrating a sweeping retaliation campaign targeting Americans and Jews, alleging he coordinated nearly 20 attacks abroad before authorities disrupted a plot targeting a prominen…",
+        "content": "<p>Federal authorities charged an Iran-backed Iraqi militia commander accused of orchestrating a sweeping retaliation campaign targeting Americans and Jews, alleging he coordinated nearly 20 attacks abroad before authorities disrupted a plot targeting a prominen…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.breitbart.com/media/2026/05/Mohammad-Baqer-Saad-Dawood-Al-Saadi-DOJ-1-640x335.jpg",
+        "date": "May 16, 2026",
+        "url": "https://www.breitbart.com/politics/2026/05/15/feds-nab-iran-backed-terror-commander-global-campaign-targeting-americans-jews/"
+    },
+    {
+        "id": "y8dp24ss5",
+        "title": "C-SPAN Caller Asks GOP Congressman Why Republicans ‘Parrot Trump’s Crazy Fox News Talking Points?’",
+        "excerpt": "A C-SPAN caller expressed major grievances with Rep. Mike Haridopolos during a Friday appearance on the network, asking why Republicans repeat President Donald Trump's \"crazy Fox News talking points.\"\nThe post C-SPAN Caller Asks GOP Congressman Why Republican…",
+        "content": "<p>A C-SPAN caller expressed major grievances with Rep. Mike Haridopolos during a Friday appearance on the network, asking why Republicans repeat President Donald Trump's \"crazy Fox News talking points.\"\nThe post C-SPAN Caller Asks GOP Congressman Why Republican…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.mediaite.com/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-8-18-18-PM-scaled.jpg",
+        "date": "May 16, 2026",
+        "url": "https://www.mediaite.com/media/tv/c-span-caller-asks-gop-congressman-why-republicans-parrot-trumps-crazy-fox-news-talking-points/"
+    },
+    {
         "id": "d2vgqdjtf",
         "title": "The Latest: Trump wraps up China visit and holds private meeting with Chinese leader Xi Jinping",
         "excerpt": "U.S. President Donald Trump wraps up his visit to Beijing on Friday with a private meeting at Chinese leader Xi Jinping's official residence before he...",
