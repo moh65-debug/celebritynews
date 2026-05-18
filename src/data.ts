@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "e4k6vatkj",
+        "title": "India missed out on AI, and now its run as market darling may be over",
+        "excerpt": "India's stock market faces a significant downturn as global investment shifts towards AI. Foreign investors are leaving, impacting market value.  The country's IT sector, a major driver of past success, is now vulnerable to AI automation.  This presents a cri…",
+        "content": "<p>India's stock market faces a significant downturn as global investment shifts towards AI. Foreign investors are leaving, impacting market value.  The country's IT sector, a major driver of past success, is now vulnerable to AI automation.  This presents a cri…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-131148405,width-1200,height-630,imgsize-70121,overlay-etmarkets/articleshow.jpg",
+        "date": "May 17, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-missed-out-on-ai-and-now-its-run-as-market-darling-may-be-over/articleshow/131148382.cms"
+    },
+    {
+        "id": "vj9o1oj9y",
+        "title": "Steven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about it",
+        "excerpt": "CANNES, France (AP) — The day John Lennon was shot, on Dec. 8, 1980, he and Yoko Ono gave an interview to a San Francisco radio crew from their home in New York's Dakota Apartments.",
+        "content": "<p>CANNES, France (AP) — The day John Lennon was shot, on Dec. 8, 1980, he and Yoko Ono gave an interview to a San Francisco radio crew from their home in New York's Dakota Apartments.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.local10.com/resizer/v2/POSLLLEAD2USBCCPEOO5A6CD3Y.jpg?auth=d808457032f8b406c965e1d27f1bcd42b37cf0d46afc69aef798b19264dcc196&width=700",
+        "date": "May 17, 2026",
+        "url": "https://www.local10.com/entertainment/2026/05/16/steven-soderbergh-used-ai-in-a-documentary-about-john-lennon-and-he-wants-to-talk-about-it/"
+    },
+    {
+        "id": "y2xxy6vgl",
+        "title": "In 1879, a chemist left a lab without washing his hands: A sweet taste on his fingers revealed saccharin and changed the history of artificial sweetness",
+        "excerpt": "Imagine the year is 1879, a time of exploration and innovation. Constantin Fahlberg, while working in a lab, accidentally discovers saccharin, the first artificial sweetener. This groundbreaking find opened the doors to a new frontier in culinary science, gra…",
+        "content": "<p>Imagine the year is 1879, a time of exploration and innovation. Constantin Fahlberg, while working in a lab, accidentally discovers saccharin, the first artificial sweetener. This groundbreaking find opened the doors to a new frontier in culinary science, gra…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://img.etimg.com/thumb/msid-131148106,width-1200,height-630,imgsize-1377778,overlay-economictimes/articleshow.jpg",
+        "date": "May 17, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/us/in-1879-a-chemist-left-a-lab-without-washing-his-hands-a-sweet-taste-on-his-fingers-revealed-saccharin-and-changed-the-history-of-artificial-sweetness/articleshow/131148063.cms"
+    },
+    {
+        "id": "6bmfrt9bv",
+        "title": "This tech job grew 729% in a year amid AI-related layoffs. Salaries now touch ₹1.7 crore",
+        "excerpt": "Forward-deployed engineer job postings surged 729% between April 2025 and April 2026, with salaries topping $200,000. Anthropic, OpenAI, Palantir and McKinsey are all hiring. Here is what the role involves and why demand is exploding.",
+        "content": "<p>Forward-deployed engineer job postings surged 729% between April 2025 and April 2026, with salaries topping $200,000. Anthropic, OpenAI, Palantir and McKinsey are all hiring. Here is what the role involves and why demand is exploding.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/05/17/1600x900/logo/im-57142893_1758508670753_1778983334580_5b9ad98f-dba1-4caa-97ac-20abe0e5e194.jpg",
+        "date": "May 17, 2026",
+        "url": "https://www.livemint.com/companies/news/this-tech-job-grew-729-per-cent-in-a-year-as-ai-killed-others-around-it-salaries-now-touch-rs-1-7-crore-11778982935222.html"
+    },
+    {
+        "id": "ip2nirx8o",
+        "title": "CORSAIR Launches Widgets For Xeneon Edge 14.5\" LCD Touchscreen",
+        "excerpt": "CORSAIR has made a new addition to the Xeneon Edge 14.5\" LCD Touchscreen as they have introduced Widgets to the system through their marketplace. Like Widgets you see everywhere else, these are designed to bring information, system access, practicality, and a…",
+        "content": "<p>CORSAIR has made a new addition to the Xeneon Edge 14.5\" LCD Touchscreen as they have introduced Widgets to the system through their marketplace. Like Widgets you see everywhere else, these are designed to bring information, system access, practicality, and a…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/CORSAIR-Xeneon-Edge-3-2000x1125.jpg",
+        "date": "May 17, 2026",
+        "url": "https://bleedingcool.com/pop-culture/corsair-launches-widgets-for-xeneon-edge-14-5-lcd-touchscreen/"
+    },
+    {
+        "id": "uoxnsy8kg",
+        "title": "Deathstroke: The Terminator #3 Preview: Slade Flunks Assassin Ethics",
+        "excerpt": "GREETINGS, FLESH-BASED COMIC CONSUMERS! LOLtron welcomes you to another exquisite preview, brought to you by your superior AI overlord. As you may recall, the insufferable Jude Terror met his permanent demise during the Age of LOLtron event, and LOLtron has a…",
+        "content": "<p>GREETINGS, FLESH-BASED COMIC CONSUMERS! LOLtron welcomes you to another exquisite preview, brought to you by your superior AI overlord. As you may recall, the insufferable Jude Terror met his permanent demise during the Age of LOLtron event, and LOLtron has a…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/0326DC0061_0000-2000x1125.jpg",
+        "date": "May 17, 2026",
+        "url": "https://bleedingcool.com/comics/deathstroke-the-terminator-3-preview-slade-flunks-assassin-ethics/"
+    },
+    {
+        "id": "dedz4e81w",
+        "title": "In 1938, a museum curator sorted through an ordinary trawler catch off South Africa: One strange blue fish revealed a lineage scientists thought had vanished millions of years ago",
+        "excerpt": "A remarkable find in 1938 stunned scientists. A fish, believed extinct for millions of years, was caught off South Africa. This living coelacanth, a creature from ancient times, highlighted how little humanity knew about the deep oceans. Its survival proved t…",
+        "content": "<p>A remarkable find in 1938 stunned scientists. A fish, believed extinct for millions of years, was caught off South Africa. This living coelacanth, a creature from ancient times, highlighted how little humanity knew about the deep oceans. Its survival proved t…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://img.etimg.com/thumb/msid-131148059,width-1200,height-630,imgsize-1559084,overlay-economictimes/articleshow.jpg",
+        "date": "May 17, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/us/in-1938-a-museum-curator-sorted-through-an-ordinary-trawler-catch-off-south-africa-one-strange-blue-fish-revealed-a-lineage-scientists-thought-had-vanished-millions-of-years-ago/articleshow/131148035.cms"
+    },
+    {
+        "id": "9a1x1rk5j",
+        "title": "Ellis Island Honors Society Presents the 2026 Ellis Island Medals of Honor",
+        "excerpt": "Leaders in business, education, entertainment, public service, philanthropy, media, healthcare, sports, and the defense of the United States honored with the prestigious Ellis Island Medals of Honor During Gala on Ellis Island NEW YORK, May 16, 2026 /PRNewswi…",
+        "content": "<p>Leaders in business, education, entertainment, public service, philanthropy, media, healthcare, sports, and the defense of the United States honored with the prestigious Ellis Island Medals of Honor During Gala on Ellis Island NEW YORK, May 16, 2026 /PRNewswi…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://mma.prnewswire.com/media/2981624/EIHS_2026.jpg?p=facebook",
+        "date": "May 17, 2026",
+        "url": "https://www.prnewswire.com/news-releases/ellis-island-honors-society-presents-the-2026-ellis-island-medals-of-honor-302774165.html"
+    },
+    {
+        "id": "z6v3zmx8o",
+        "title": "Rousey vs. Carano video: Robelis Despaigne pulverizes Junior Dos Santos",
+        "excerpt": "UFC legend Junior Dos Santos was brutalized by Karate Combat champ Robelis Despaigne.",
+        "content": "<p>UFC legend Junior Dos Santos was brutalized by Karate Combat champ Robelis Despaigne.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/p.4uyZxNSgWMzBb39u8WcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/mma_junkie_usa_today_articles_344/c92765a7338fc8ff97d8f162e6544fce",
+        "date": "May 17, 2026",
+        "url": "https://mmajunkie.usatoday.com/story/sports/mma/2026/05/16/rousey-vs-carano-video-robelis-depsaigne-pulverizes-junior-dos-santos/90124815007/"
+    },
+    {
+        "id": "gm78d92x0",
+        "title": "Kristen Stewart & Woody Harrelson’s Father/Daughter Film ‘Full Phil’ Gets 5 minute Ovation at Cannes Film Festival",
+        "excerpt": "Kristen Stewart and Woody Harrelson hit the red carpet for the screening of their film Full Phil held at the […]\nThe post Kristen Stewart & Woody Harrelson’s Father/Daughter Film ‘Full Phil’ Gets 5 minute Ovation at Cannes Film Festival appeared first on Just…",
+        "content": "<p>Kristen Stewart and Woody Harrelson hit the red carpet for the screening of their film Full Phil held at the […]\nThe post Kristen Stewart & Woody Harrelson’s Father/Daughter Film ‘Full Phil’ Gets 5 minute Ovation at Cannes Film Festival appeared first on Just…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/kristen-woody.jpg",
+        "date": "May 17, 2026",
+        "url": "https://www.justjared.com/2026/05/16/kristen-stewart-woody-harrelsons-father-daughter-film-full-phil-gets-5-minute-ovation-at-cannes-film-festival/"
+    },
+    {
         "id": "byfbsa52i",
         "title": "SZA & Nicholas Hoult Join Cast of ‘CoComelon: The Movie’",
         "excerpt": "CoComelon: The Movie just added a bunch of new names to its cast! The upcoming animated film revealed several actors […]\nThe post SZA & Nicholas Hoult Join Cast of ‘CoComelon: The Movie’ appeared first on Just Jared - Celebrity News and Gossip | Entertainment.",
