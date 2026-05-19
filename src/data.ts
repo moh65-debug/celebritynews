@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "un6aydnkb",
+        "title": "Revisiting Last Week: Governance and Growing Tensions",
+        "excerpt": "KATHMANDU: Last week’s political and institutional developments in Nepal revealed a government attempting to project itself as reformist, decisive, and transformational, while simultaneously exposing the tensions, contradictions, and resistance that accompany…",
+        "content": "<p>KATHMANDU: Last week’s political and institutional developments in Nepal revealed a government attempting to project itself as reformist, decisive, and transformational, while simultaneously exposing the tensions, contradictions, and resistance that accompany…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://english.khabarhub.com/wp-content/uploads/2026/05/Khabarhub-_Saata-Ko-Khabar-English_1200px-630X-px-Final_2026.05.17.jpg",
+        "date": "May 18, 2026",
+        "url": "https://english.khabarhub.com/2026/18/549210/"
+    },
+    {
+        "id": "iob4ptw5c",
+        "title": "ファストファッション大手のSHEINがアメリカのファッションブランド・Everlaneを買収",
+        "excerpt": "「持続可能性」や「透明性」を掲げて2011年に創業したファッションブランド・Everlaneが、中国のファストファッション大手として知られるSHEINに売却されることがわかりました。Everlane Is Selling Out… to Shein - Puckhttps://puck.news/everlane-is-selling-out-to-shein/'Cleaner Fashion' Brand Everlane Reportedly Being Sold to Fast-Fashion Compan…",
+        "content": "<p>「持続可能性」や「透明性」を掲げて2011年に創業したファッションブランド・Everlaneが、中国のファストファッション大手として知られるSHEINに売却されることがわかりました。Everlane Is Selling Out… to Shein - Puckhttps://puck.news/everlane-is-selling-out-to-shein/'Cleaner Fashion' Brand Everlane Reportedly Being Sold to Fast-Fashion Compan…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://image.news.livedoor.com/newsimage/stf/e/c/ec4cd_88_289fe7c5c1f963de87a6adadcb3119c5.png",
+        "date": "May 18, 2026",
+        "url": "https://news.livedoor.com/article/detail/31302922/"
+    },
+    {
+        "id": "kydsgjjnt",
+        "title": "Nigerian schoolgirls earn global AI recognition",
+        "excerpt": "Nigerian schoolgirls from Ado Girls Secondary School earn a global AI award, highlighting the impact of digital and STEM education for girls in Nigeria.\n\nRead More: https://punchng.com/nigerian-schoolgirls-earn-global-ai-recognition/",
+        "content": "<p>Nigerian schoolgirls from Ado Girls Secondary School earn a global AI award, highlighting the impact of digital and STEM education for girls in Nigeria.\n\nRead More: https://punchng.com/nigerian-schoolgirls-earn-global-ai-recognition/</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2019/01/31111416/artificial-intelligence-e1548929675751.jpg",
+        "date": "May 18, 2026",
+        "url": "https://punchng.com/nigerian-schoolgirls-earn-global-ai-recognition/"
+    },
+    {
+        "id": "91xuwespz",
+        "title": "Moniepoint deepens women’s participation in tech",
+        "excerpt": "Moniepoint partners with Women Techmakers to boost women in tech in Nigeria. The programme offers leadership development, training, and AI workshops.\n\nRead More: https://punchng.com/moniepoint-deepens-womens-participation-in-tech/",
+        "content": "<p>Moniepoint partners with Women Techmakers to boost women in tech in Nigeria. The programme offers leadership development, training, and AI workshops.\n\nRead More: https://punchng.com/moniepoint-deepens-womens-participation-in-tech/</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2023/09/03011717/IMAGE-2023-09-03-011712.jpg",
+        "date": "May 18, 2026",
+        "url": "https://punchng.com/moniepoint-deepens-womens-participation-in-tech/"
+    },
+    {
+        "id": "2sxfa9iif",
+        "title": "Ennoconn outlines Kontron integration and physical AI push to target 20% ROE by 2030",
+        "excerpt": "Ennoconn Technology held a quarterly investor briefing, during which executives said the first-quarter results were weighed down by deferred, high-margin orders for intelligent software and solutions, memory price fluctuations, and one-time costs tied to inte…",
+        "content": "<p>Ennoconn Technology held a quarterly investor briefing, during which executives said the first-quarter results were weighed down by deferred, high-margin orders for intelligent software and solutions, memory price fluctuations, and one-time costs tied to inte…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260518pd218_files/3_b.jpg",
+        "date": "May 18, 2026",
+        "url": "https://www.digitimes.com/news/a20260518PD218/ennoconn-kontron-2030-revenue-software.html"
+    },
+    {
+        "id": "feeyuqhl2",
+        "title": "Infected with TDSS and Google Keeps redirecting",
+        "excerpt": "Infected with TDSS and Google Keeps redirecting - posted in Virus, Trojan, Spyware, and Malware Removal Help: Malwarebytes keeps scanning new trojans in my files and says there is 3 registry keys in my HKLM, I removed Temp Files and Cache Files of the python.…",
+        "content": "<p>Infected with TDSS and Google Keeps redirecting - posted in Virus, Trojan, Spyware, and Malware Removal Help: Malwarebytes keeps scanning new trojans in my files and says there is 3 registry keys in my HKLM, I removed Temp Files and Cache Files of the python.…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+        "date": "May 18, 2026",
+        "url": "https://www.bleepingcomputer.com/forums/t/816189/infected-with-tdss-and-google-keeps-redirecting/"
+    },
+    {
+        "id": "mbki6c9h3",
+        "title": "Genetic discovery could change how rice is grown around the world, but at a cost",
+        "excerpt": "Rice is one of the most widely grown staple crops, providing around 20% of the daily calorie intake for more than half of the world’s population.Continue ReadingCategory: Biology, ScienceTags: Crops, Chinese Academy of Sciences, Genetic engineering, Agricultu…",
+        "content": "<p>Rice is one of the most widely grown staple crops, providing around 20% of the daily calorie intake for more than half of the world’s population.Continue ReadingCategory: Biology, ScienceTags: Crops, Chinese Academy of Sciences, Genetic engineering, Agricultu…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://assets.newatlas.com/dims4/default/446d1e5/2147483647/strip/true/crop/2000x1050+0+225/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb8%2F71%2Ff214c25a42bfb41937f192c128d2%2Frice-crop-with-hand.jpg&rf.image_optimisation=0",
+        "date": "May 18, 2026",
+        "url": "https://refractor.io/biology/genetic-discovery-changes-how-rice-is-grown/"
+    },
+    {
+        "id": "um3ztiwcr",
+        "title": "wheeler added to PyPI",
+        "excerpt": "Reliable, trustworthy, trackable AI workflows for science. A Claude Code-native research assistant with a provenance-tracked knowledge graph.",
+        "content": "<p>Reliable, trustworthy, trackable AI workflows for science. A Claude Code-native research assistant with a provenance-tracked knowledge graph.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+        "date": "May 18, 2026",
+        "url": "https://pypi.org/project/wheeler/"
+    },
+    {
+        "id": "7f1t8u7fh",
+        "title": "Gift Nifty signals weak start as Middle East tensions rattle global market",
+        "excerpt": "Gift Nifty indicated a gap-down opening of around 120 points, while rising crude oil prices, rupee weakness and foreign investor outflows continued to pressure market sentiment",
+        "content": "<p>Gift Nifty indicated a gap-down opening of around 120 points, while rising crude oil prices, rupee weakness and foreign investor outflows continued to pressure market sentiment</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-states/o57m5q/article69646723.ece/alternates/LANDSCAPE_1200/GIFT-Nifty-hitsGJ8EESIAI.4.jpg.jpg",
+        "date": "May 18, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/gift-nifty-signals-weak-start-as-middle-east-tensions-rattle-global-market/article70992341.ece"
+    },
+    {
+        "id": "odbcg2v2a",
+        "title": "‘Clock Is Ticking’ for Iran to Accept a Deal, Trump Warns: ‘Get Moving, FAST, or There Won’t Be Anything Left’",
+        "excerpt": "President Donald Trump warned Sunday that the “clock is ticking” for Iran to strike a deal to bring the conflict to an end, urging Tehran to move quickly toward an agreement as he warned the regime risks being “hit badly” if negotiations continue to stall ami…",
+        "content": "<p>President Donald Trump warned Sunday that the “clock is ticking” for Iran to strike a deal to bring the conflict to an end, urging Tehran to move quickly toward an agreement as he warned the regime risks being “hit badly” if negotiations continue to stall ami…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.breitbart.com/media/2026/02/trump-pointing-american-flags-white-house-flickr-640x335.jpg",
+        "date": "May 18, 2026",
+        "url": "https://www.breitbart.com/politics/2026/05/17/clock-ticking-iran-accept-deal-trump-warns/"
+    },
+    {
         "id": "e4k6vatkj",
         "title": "India missed out on AI, and now its run as market darling may be over",
         "excerpt": "India's stock market faces a significant downturn as global investment shifts towards AI. Foreign investors are leaving, impacting market value.  The country's IT sector, a major driver of past success, is now vulnerable to AI automation.  This presents a cri…",
