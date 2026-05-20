@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "dmd979eh3",
+        "title": "Indigenous Amazonian shamans identified the specific combination of two plants required to make ayahuasca active orally — a pairing that stands as what may be one of the most unlikely discoveries in the history of human botany, given there are roughly 80,000 plant species in the Amazon",
+        "excerpt": "The Amazon contains roughly 80,000 plant species, and ayahuasca requires precisely two of them combined in a way that defies straightforward botanical reasoning — a fact that has puzzled pharmacologists for decades.\nThe post Indigenous Amazonian shamans ident…",
+        "content": "<p>The Amazon contains roughly 80,000 plant species, and ayahuasca requires precisely two of them combined in a way that defies straightforward botanical reasoning — a fact that has puzzled pharmacologists for decades.\nThe post Indigenous Amazonian shamans ident…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/05/j-indigenous-amazonian-shamans-identified-the-spec.jpg",
+        "date": "May 19, 2026",
+        "url": "https://spacedaily.com/j-indigenous-amazonian-shamans-identified-the-specific-combination-of-two-plants-required-to-make-ayahuasca-active-orally-a-pairing-that-modern-pharmacology-calls-one-of-the-most-unlikely-discoveries/"
+    },
+    {
+        "id": "3l92vc0my",
+        "title": "7 Months Before Doomsday, Marvel Reveals Major Doctor Doom Twists As Wild As Casting RDJ",
+        "excerpt": "Months before Doctor Doom is set to make his epic MCU debut, Marvel continues to introduce major changes to Victor von Doom's typical status quo.",
+        "content": "<p>Months before Doctor Doom is set to make his epic MCU debut, Marvel continues to introduce major changes to Victor von Doom's typical status quo.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/robert-downey-junior-holding-doctor-doom-mask.jpg?w=1600&h=900&fit=crop",
+        "date": "May 19, 2026",
+        "url": "https://screenrant.com/marvel-reveals-major-doctor-doom-twist-before-doomsday-clone/"
+    },
+    {
+        "id": "z155jrigx",
+        "title": "Tobey Maguire's pregnant ex Jennifer Meyer, 49, steps out before welcoming new baby with billionaire toy boy",
+        "excerpt": "Jennifer Meyer looked as if she was ready to give birth any day now when she was spotted venturing out in Los Angeles on Monday.",
+        "content": "<p>Jennifer Meyer looked as if she was ready to give birth any day now when she was spotted venturing out in Los Angeles on Monday.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://i.dailymail.com/1s/2026/05/19/03/108706143-0-image-m-38_1779158603067.jpg",
+        "date": "May 19, 2026",
+        "url": "https://www.dailymail.com/tvshowbiz/article-15829357/Tobey-Maguire-pregnant-ex-Jennifer-Meyer-baby-billionaire.html"
+    },
+    {
+        "id": "ru32t0mm1",
+        "title": "Fangzhou Ranked among 2025 Guangzhou AI Innovation “Most Promising Enterprises” for AI‑Powered Chronic Disease Services",
+        "excerpt": "This recognition underscored growing industry recognition of fangzhou’s technological capabilities and service innovation....",
+        "content": "<p>This recognition underscored growing industry recognition of fangzhou’s technological capabilities and service innovation....</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://ml.globenewswire.com/Resource/Download/c2774e85-7115-4320-ad5e-ff2704381fe3",
+        "date": "May 19, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/05/19/3297113/0/en/Fangzhou-Ranked-among-2025-Guangzhou-AI-Innovation-Most-Promising-Enterprises-for-AI-Powered-Chronic-Disease-Services.html"
+    },
+    {
+        "id": "j42pbp85e",
+        "title": "Galaxy S26 Ultra vs Galaxy S25 Ultra: What’s new and should you upgrade?",
+        "excerpt": "Deciding whether to upgrade to the latest flagship usually comes down to whether the new features actually change your daily experience. With the Galaxy S26 Ultra, Samsung is focusing on two main areas: a massive hardware upgrade for the camera and new Galaxy…",
+        "content": "<p>Deciding whether to upgrade to the latest flagship usually comes down to whether the new features actually change your daily experience. With the Galaxy S26 Ultra, Samsung is focusing on two main areas: a massive hardware upgrade for the camera and new Galaxy…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.sammobile.com/wp-content/uploads/2026/05/006-product-galaxy-s26ultra-cobaltviolet-black-skyblue-white-1200x900.jpg",
+        "date": "May 19, 2026",
+        "url": "https://www.sammobile.com/news/galaxy-s26-ultra-vs-s25-ultra-whats-new-should-you-upgrade/"
+    },
+    {
+        "id": "gn4p08ra7",
+        "title": "Imagine Dragons’ Dan Reynolds Spotted in Tank Top for Tanning Session Ahead of Final ‘Loom’ Tour Show",
+        "excerpt": "Dan Reynolds is kicking off his week with some self-care! The 38-year-old singer, who is the frontman of the rock […]\nThe post Imagine Dragons’ Dan Reynolds Spotted in Tank Top for Tanning Session Ahead of Final ‘Loom’ Tour Show appeared first on Just Jared -…",
+        "content": "<p>Dan Reynolds is kicking off his week with some self-care! The 38-year-old singer, who is the frontman of the rock […]\nThe post Imagine Dragons’ Dan Reynolds Spotted in Tank Top for Tanning Session Ahead of Final ‘Loom’ Tour Show appeared first on Just Jared -…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/dan-reynolds-tanning-session.jpg",
+        "date": "May 19, 2026",
+        "url": "https://www.justjared.com/2026/05/18/imagine-dragons-dan-reynolds-spotted-in-tight-tank-top-for-tanning-session-ahead-of-final-loom-tour-show/"
+    },
+    {
+        "id": "3wz18wy4e",
+        "title": "PH could miss out on PHP 2.8T by not improving AI infra",
+        "excerpt": "The Philippines’ best and brightest recently expressed their opinions on Artificial Intelligence (AI) in the Philippines. Led by Department of...\nThe post PH could miss out on PHP 2.8T by not improving AI infra appeared first on YugaTech | Philippines Tech Ne…",
+        "content": "<p>The Philippines’ best and brightest recently expressed their opinions on Artificial Intelligence (AI) in the Philippines. Led by Department of...\nThe post PH could miss out on PHP 2.8T by not improving AI infra appeared first on YugaTech | Philippines Tech Ne…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.yugatech.com/wp-content/uploads/2026/05/NEWS-ARTICLE-5.webp",
+        "date": "May 19, 2026",
+        "url": "https://www.yugatech.com/news/ph-could-miss-out-on-php-2-8t-by-not-improving-ai-infra/"
+    },
+    {
+        "id": "rvhwdhdb1",
+        "title": "Anthropic to let partners share Mythos cybersecurity findings with others",
+        "excerpt": "Anthropic is now allowing users of its Mythos cybersecurity model to share cyber threat information. This change benefits organisations in Project Glasswing, including tech giants like Amazon and Microsoft. The model can identify and exploit vulnerabilities. …",
+        "content": "<p>Anthropic is now allowing users of its Mythos cybersecurity model to share cyber threat information. This change benefits organisations in Project Glasswing, including tech giants like Amazon and Microsoft. The model can identify and exploit vulnerabilities. …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-52006,resizemode-75,msid-131188903/tech/artificial-intelligence/anthropic-to-let-partners-share-mythos-cybersecurity-findings-with-others.jpg",
+        "date": "May 19, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-to-let-partners-share-mythos-cybersecurity-findings-with-others/articleshow/131188903.cms"
+    },
+    {
+        "id": "ctr8v9hif",
+        "title": "Noah Schnapp Celebrates University of Pennsylvania Graduation with Family Photos",
+        "excerpt": "Noah Schnapp has graduated from college! The 21-year-old Stranger Things star is celebrating a huge milestone. He shared snapshots from […]\nThe post Noah Schnapp Celebrates University of Pennsylvania Graduation with Family Photos appeared first on Just Jared …",
+        "content": "<p>Noah Schnapp has graduated from college! The 21-year-old Stranger Things star is celebrating a huge milestone. He shared snapshots from […]\nThe post Noah Schnapp Celebrates University of Pennsylvania Graduation with Family Photos appeared first on Just Jared …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/noah-schnapp-graduates.jpg",
+        "date": "May 19, 2026",
+        "url": "https://www.justjared.com/2026/05/18/noah-schnapp-celebrates-university-of-pennsylvania-graduation-with-family-photos/"
+    },
+    {
+        "id": "30qjg8dc5",
+        "title": "Petrol, Diesel prices increased by 90 paise per litre after 3-rupee hike. Check fuel rates in Delhi, Mumbai, Kolkata and other cities",
+        "excerpt": "Petrol, Diesel prices today: Fuel prices have seen another surge, with petrol and diesel rates increasing by approximately 90 paise per litre. This marks the second hike in under a week, pushing petrol prices in Delhi to Rs 98.64 and diesel to Rs 91.58. The h…",
+        "content": "<p>Petrol, Diesel prices today: Fuel prices have seen another surge, with petrol and diesel rates increasing by approximately 90 paise per litre. This marks the second hike in under a week, pushing petrol prices in Delhi to Rs 98.64 and diesel to Rs 91.58. The h…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-131188645,width-1200,height-630,imgsize-43578,overlay-economictimes/articleshow.jpg",
+        "date": "May 19, 2026",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/petrol-diesel-prices-hiked-by-90-paise-per-litre-after-3-rupee-hike-check-fuel-rates-in-delhi-mumbai-kolkata-and-other-cities/articleshow/131188641.cms"
+    },
+    {
         "id": "un6aydnkb",
         "title": "Revisiting Last Week: Governance and Growing Tensions",
         "excerpt": "KATHMANDU: Last week’s political and institutional developments in Nepal revealed a government attempting to project itself as reformist, decisive, and transformational, while simultaneously exposing the tensions, contradictions, and resistance that accompany…",
