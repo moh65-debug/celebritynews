@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "5mb965kxe",
+        "title": "Quanta Cloud Technology commits US$61.71 million for California facility lease amid AI server buildout",
+        "excerpt": "Quanta Cloud Technology announced that its subsidiary QMN purchased a 10-year right-of-use asset for a California facility lease for US$61.71 million to support expanding manufacturing capacity for AI servers and other operations in the US. The transaction wa…",
+        "content": "<p>Quanta Cloud Technology announced that its subsidiary QMN purchased a 10-year right-of-use asset for a California facility lease for US$61.71 million to support expanding manufacturing capacity for AI servers and other operations in the US. The transaction wa…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260520pd233_files/2_b.jpg",
+        "date": "May 20, 2026",
+        "url": "https://www.digitimes.com/news/a20260520PD233/qct-subsidiary-california-ai-server-manufacturing.html"
+    },
+    {
+        "id": "ia3pxvvy4",
+        "title": "Fiscal, FX reforms push Nigeria’s credit rating higher",
+        "excerpt": "S&P Global Ratings has upgraded Nigeria’s credit rating from ‘B-‘ to ‘B’, citing successful fiscal and FX reforms that have boosted investor confidence.\n\nRead More: https://punchng.com/fiscal-fx-reforms-push-nigerias-credit-rating-higher/",
+        "content": "<p>S&P Global Ratings has upgraded Nigeria’s credit rating from ‘B-‘ to ‘B’, citing successful fiscal and FX reforms that have boosted investor confidence.\n\nRead More: https://punchng.com/fiscal-fx-reforms-push-nigerias-credit-rating-higher/</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2025/05/20142248/n.jpeg",
+        "date": "May 20, 2026",
+        "url": "https://punchng.com/fiscal-fx-reforms-push-nigerias-credit-rating-higher/"
+    },
+    {
+        "id": "33nmy62wb",
+        "title": "Google DeepMind hires staff from Contextual AI in licensing deal, source says",
+        "excerpt": "Google DeepMind is reportedly acquiring over 20 researchers and licensing technology from AI startup Contextual AI for $80 million to $90 million. This move follows Alphabet's strategy of talent acquisition through licensing deals, similar to past agreements …",
+        "content": "<p>Google DeepMind is reportedly acquiring over 20 researchers and licensing technology from AI startup Contextual AI for $80 million to $90 million. This move follows Alphabet's strategy of talent acquisition through licensing deals, similar to past agreements …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-378000,resizemode-75,msid-131215541/tech/technology/google-deepmind-hires-staff-from-contextual-ai-in-licensing-deal-source-says.jpg",
+        "date": "May 20, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/google-deepmind-hires-staff-from-contextual-ai-in-licensing-deal-source-says/articleshow/131215541.cms"
+    },
+    {
+        "id": "xu4j905gw",
+        "title": "Worm living in a 'glass castle' among thousands of new marine species",
+        "excerpt": "Thousands of species have been discovered lurking and thriving in our oceans, as part of an effort to catalogue 100,000 new species.",
+        "content": "<p>Thousands of species have been discovered lurking and thriving in our oceans, as part of an effort to catalogue 100,000 new species.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/dfdbe8448a7d982323a6bc063c442153?impolicy=wcms_watermark_news&cropH=934&cropW=1660&xPos=0&yPos=176&width=862&height=485&imformat=generic",
+        "date": "May 20, 2026",
+        "url": "https://www.abc.net.au/news/2026-05-20/ocean-census-marine-scientists-discover-thousands-of-new-species/106700356"
+    },
+    {
+        "id": "t39tnrd41",
+        "title": "‘I’m working in my own grave’: Workers in India are training robots that may replace them",
+        "excerpt": "In another textile factory in Tamil Nadu, several women workers are wearing smart glasses made by Meta to record their hand movements as they neatly pack items in plastic covers, one after the other.",
+        "content": "<p>In another textile factory in Tamil Nadu, several women workers are wearing smart glasses made by Meta to record their hand movements as they neatly pack items in plastic covers, one after the other.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.indianexpress.com/2026/05/workers_cf3a13.jpg",
+        "date": "May 20, 2026",
+        "url": "https://indianexpress.com/article/business/workers-india-training-robots-replace-factory-10698712/"
+    },
+    {
+        "id": "pbpjkvg2g",
+        "title": "Humpback whale breaks migration record with 15,000 kilometer ocean journey",
+        "excerpt": "Scientists have uncovered an astonishing new chapter in humpback whale migration: two whales were found to have traveled between breeding grounds in Australia and Brazil, crossing more than 14,000 kilometers of open ocean. One whale shattered records by cover…",
+        "content": "<p>Scientists have uncovered an astonishing new chapter in humpback whale migration: two whales were found to have traveled between breeding grounds in Australia and Brazil, crossing more than 14,000 kilometers of open ocean. One whale shattered records by cover…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/humpback-whale-on-rurutu-island-french-polynesia.webp",
+        "date": "May 20, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260519224303.htm"
+    },
+    {
+        "id": "2vlubxj3m",
+        "title": "10 Nigerian firms secure $560,000 to fight extreme heat",
+        "excerpt": "Ten Nigerian firms receive $560,000 in funding to develop innovative extreme heat solutions for agriculture, healthcare, and energy systems in Nigeria.\n\nRead More: https://punchng.com/10-nigerian-firms-secure-560000-to-fight-extreme-heat/",
+        "content": "<p>Ten Nigerian firms receive $560,000 in funding to develop innovative extreme heat solutions for agriculture, healthcare, and energy systems in Nigeria.\n\nRead More: https://punchng.com/10-nigerian-firms-secure-560000-to-fight-extreme-heat/</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2025/09/01011431/TECA-Heat-Action-1200x630.webp",
+        "date": "May 20, 2026",
+        "url": "https://punchng.com/10-nigerian-firms-secure-560000-to-fight-extreme-heat/"
+    },
+    {
+        "id": "619ti2lla",
+        "title": "Google launches Gemini 3.5 and AI agent that works proactively for users",
+        "excerpt": "The company also unveiled Gemini 3.5 models, the new Gemini Omni video-generation system, upgraded AI-powered search features, and an intelligent shopping cart tool",
+        "content": "<p>The company also unveiled Gemini 3.5 models, the new Gemini Omni video-generation system, upgraded AI-powered search features, and an intelligent shopping cart tool</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/76utkl/article71000597.ece/alternates/LANDSCAPE_1200/2026-05-19T171656Z_640488942_RC2HCLAZVFHW_RTRMADP_3_ALPHABET-CONFERENCE.JPG",
+        "date": "May 20, 2026",
+        "url": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-35-and-ai-agent-that-works-proactively-for-users/article71000533.ece"
+    },
+    {
+        "id": "jr6wiblbr",
+        "title": "AI, energy and demographic shifts to redefine global business hubs",
+        "excerpt": "Colliers Global Occupier Services megatrends report outlines five forces reshaping corporate real estate and location strategy Colliers Global Occupier Services megatrends report outlines five forces reshaping corporate real estate and location strategy",
+        "content": "<p>Colliers Global Occupier Services megatrends report outlines five forces reshaping corporate real estate and location strategy Colliers Global Occupier Services megatrends report outlines five forces reshaping corporate real estate and location strategy</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://ml.globenewswire.com/Resource/Download/d49c2bd1-b495-4fde-ac81-9a64c6940c5f",
+        "date": "May 20, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/05/20/3298128/0/en/AI-energy-and-demographic-shifts-to-redefine-global-business-hubs.html"
+    },
+    {
+        "id": "a12iyny17",
+        "title": "Olivia Culpo Shares Glimpse at Baby Bump After Announcing Second Pregnancy",
+        "excerpt": "Olivia Culpo is showing off her growing baby bump! The 34-year-old past Miss USA winner stepped out to run a […]\nThe post Olivia Culpo Shares Glimpse at Baby Bump After Announcing Second Pregnancy appeared first on Just Jared - Celebrity News and Gossip | Ent…",
+        "content": "<p>Olivia Culpo is showing off her growing baby bump! The 34-year-old past Miss USA winner stepped out to run a […]\nThe post Olivia Culpo Shares Glimpse at Baby Bump After Announcing Second Pregnancy appeared first on Just Jared - Celebrity News and Gossip | Ent…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/olivia-culpo-shops-in-brentwood.jpg",
+        "date": "May 20, 2026",
+        "url": "https://www.justjared.com/2026/05/19/olivia-culpo-shares-glimpse-at-baby-bump-after-announcing-second-pregnancy/"
+    },
+    {
         "id": "dmd979eh3",
         "title": "Indigenous Amazonian shamans identified the specific combination of two plants required to make ayahuasca active orally — a pairing that stands as what may be one of the most unlikely discoveries in the history of human botany, given there are roughly 80,000 plant species in the Amazon",
         "excerpt": "The Amazon contains roughly 80,000 plant species, and ayahuasca requires precisely two of them combined in a way that defies straightforward botanical reasoning — a fact that has puzzled pharmacologists for decades.\nThe post Indigenous Amazonian shamans ident…",
