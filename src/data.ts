@@ -12,6 +12,119 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "vr7dgnx2x",
+        "title": "SpaceX IPO Filing Lays Bare Losses And Musk Control As It Stakes Future On AI",
+        "excerpt": "Much of the outlook relies on SpaceX dominating technologies and markets that do not yet exist – from Mars missions to AI data centers in space.",
+        "content": "<p>Much of the outlook relies on SpaceX dominating technologies and markets that do not yet exist – from Mars missions to AI data centers in space.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.huffingtonpost.com/asset/6a0e7b3a160000bfa4c1931b.jpeg?cache=hJ1aOCwxWZ&ops=1200_630",
+        "date": "May 21, 2026",
+        "url": "https://www.huffpost.com/entry/spacex-ipo-filing-elon-musk_n_6a0e7a84e4b06d9c25b8b6ee"
+    },
+    {
+        "id": "dk1m99yj7",
+        "title": "Tata semiconductor plant in Assam to begin production soon: CM Himanta Sarma",
+        "excerpt": "The Tata semiconductor plant in Assam is set to start production soon, according to Assam Chief Minister Himanta Biswa Sarma. It marks a critical step forward for the industrial sector of the state and supports the broader national framework for advanced semi…",
+        "content": "<p>The Tata semiconductor plant in Assam is set to start production soon, according to Assam Chief Minister Himanta Biswa Sarma. It marks a critical step forward for the industrial sector of the state and supports the broader national framework for advanced semi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-87398,resizemode-75,msid-131238995/tech/information-tech/tata-semiconductor-plant-in-assam-to-begin-production-soon-cm-himanta-sarma.jpg",
+        "date": "May 21, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/information-tech/tata-semiconductor-plant-in-assam-to-begin-production-soon-cm-himanta-sarma/articleshow/131238995.cms"
+    },
+    {
+        "id": "0aygx3xye",
+        "title": "Chatting with Michael Cassidy: Film and TV actor",
+        "excerpt": "Film and television actor Michael Cassidy chatted about his career in the entertainment industry, and being a part of the digital age.\nThe post Chatting with Michael Cassidy: Film and TV actor appeared first on Digital Journal.",
+        "content": "<p>Film and television actor Michael Cassidy chatted about his career in the entertainment industry, and being a part of the digital age.\nThe post Chatting with Michael Cassidy: Film and TV actor appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/05/IMG_9615.jpg",
+        "date": "May 21, 2026",
+        "url": "https://www.digitaljournal.com/entertainment/chatting-with-michael-cassidy-film-and-tv-actor/article"
+    },
+    {
+        "id": "lamu7au2t",
+        "title": "OpenAI-makers of ChatGPT, preparing to file for an IPO in coming weeks: Report",
+        "excerpt": "OpenAI plans to file for an IPO soon, intensifying the AI industry's competition amid rising valuations and public scrutiny.",
+        "content": "<p>OpenAI plans to file for an IPO soon, intensifying the AI industry's competition amid rising valuations and public scrutiny.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/id421t/article71004779.ece/alternates/LANDSCAPE_1200/2026-05-12T180600Z_1682146124_RC2MKHA8B92T_RTRMADP_3_OPENAI-LAWSUIT-OVERDOSE.JPG",
+        "date": "May 21, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/openai-makers-of-chatgpt-preparing-to-file-for-an-ipo-in-coming-weeks-report/article71004770.ece"
+    },
+    {
+        "id": "kskpma65t",
+        "title": "Asian shares surge after oil prices slip and Wall Street resumes its AI rally",
+        "excerpt": "NEW YORK (AP) — Hour-to-hour swings for oil prices keep jerking financial markets around, and U.S. stocks wavered Thursday following the latest reversal.",
+        "content": "<p>NEW YORK (AP) — Hour-to-hour swings for oil prices keep jerking financial markets around, and U.S. stocks wavered Thursday following the latest reversal.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F05-21-2026%2Ft_abc0730ed49d4512bf0017bff14c7bc6_name_46090998181_hdtv.jpg?auth=bbdab9a031152fe86a458412edcab1b34bc8d321f35ff0536bdc2230a44f719b&width=700",
+        "date": "May 21, 2026",
+        "url": "https://www.local10.com/business/2026/05/21/us-stocks-edge-higher-following-the-latest-u-turn-for-oil-prices/"
+    },
+    {
+        "id": "7tyjsdpzl",
+        "title": "Bolt CEO fires entire HR team — blames them for ‘creating’ non-existent problems",
+        "excerpt": "The 31-year-old CEO of a historically troubled fintech company, Bolt Financial, has fired his entire HR department as a component of a 30% reduction in headcount, reports People.",
+        "content": "<p>The 31-year-old CEO of a historically troubled fintech company, Bolt Financial, has fired his entire HR department as a component of a 30% reduction in headcount, reports People.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/05/bolt-comp.jpg?quality=75&strip=all&w=1200",
+        "date": "May 21, 2026",
+        "url": "https://nypost.com/2026/05/20/business/bolt-ceo-fires-entire-hr-team-blames-them-for-creating-non-existent-problems/"
+    },
+    {
+        "id": "nd7jtl8a8",
+        "title": "The Hubble Space Telescope’s main mirror was ground to the wrong shape by 2.2 micrometers, about one-fiftieth the width of a human hair, and the error was only caught after launch because the device used to verify the mirror on the ground had itself been built wrong",
+        "excerpt": "Hubble's primary mirror was polished to perfection, just to the wrong shape, because the device built to measure it had a chipped flake of paint that threw its internal geometry off by 1.3 millimeters. The mirror was checked against a ruler that was itself br…",
+        "content": "<p>Hubble's primary mirror was polished to perfection, just to the wrong shape, because the device built to measure it had a chipped flake of paint that threw its internal geometry off by 1.3 millimeters. The mirror was checked against a ruler that was itself br…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/05/the-hubble-space-telescope-s-main-mirror.jpg",
+        "date": "May 21, 2026",
+        "url": "https://spacedaily.com/sd-the-hubble-space-telescopes-main-mirror-was-ground-to-the-wrong-shape-by-2-2-micrometers-roughly-one-fiftieth-the-width-of-a-human-hair-and-the-flaw-was-only-caught-after-launch-because-the-testing/"
+    },
+    {
+        "id": "i44xnse74",
+        "title": "Trump Claims Secret Military Complex Under White House Ballroom",
+        "excerpt": "President Donald Trump says hundreds of millions have been spent building a drone‑proof, underground facility beneath the White House ballroom for military operations.",
+        "content": "<p>President Donald Trump asserted that a massive, secret military complex is being constructed beneath the White House ballroom, with hundreds of millions of dollars already spent on the project. He said the work has mostly occurred below ground level and will culminate in a flat, drone‑proof roof that offers a clear 360‑degree view for U.S. military operations. The claim raises immediate questions about the scale, cost, and purpose of the renovation, especially given the White House’s historic role as a civilian residence and symbol of democratic governance.</p><p>The White House has undergone numerous upgrades over the decades, including reinforced bunkers and communication centers added after the September 11 attacks. However, most of those projects were disclosed to Congress and subject to oversight, whereas Trump’s description suggests a largely clandestine effort funded outside the usual appropriations process. Historical precedents for underground presidential facilities exist, but none have been described as a drone‑proof platform intended for active military use.</p><p>Trump told reporters, “Hundreds of millions of dollars have already been spent on the construction of the new White House ballroom, according to President Donald Trump. To date, it has mostly occurred below ground level.” He added that the roof will be “drone‑proof” and designed to give commanders an unobstructed view in all directions. No independent verification of the cost or the contractor involved has been made public, and the administration has not released detailed plans or budget documents.</p><p>Reactions have been mixed, with some lawmakers expressing alarm over potential violations of congressional oversight and the use of taxpayer money for undisclosed military projects. Defense analysts warn that creating a visible, elevated platform atop the White House could compromise its security profile and set a problematic precedent for future administrations. Watchdog groups have called for an immediate audit by the Government Accountability Office and for the Department of Defense to clarify any involvement.</p><p>The broader significance lies in the tension between presidential authority over national security and the constitutional requirement for congressional oversight of spending. If the claims are substantiated, the episode could trigger investigations into how funds were allocated and whether proper reporting procedures were followed. Moving forward, observers will watch for any official statements from the White House, potential leaks from contractors, and the response of congressional committees tasked with monitoring defense expenditures.",
+        "celebrities": [
+            "Donald Trump",
+            "White House"
+        ],
+        "category": "Breaking",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/05/2277112253_303238873.jpg",
+        "date": "May 21, 2026",
+        "url": "https://nationalpost.com/news/world/white-house-ballroom-military-complex-donald-trump"
+    },
+    {
+        "id": "u21q90ijs",
+        "title": "The Pioneer 10 and 11 spacecraft were found to be decelerating slightly more than gravity could explain, and for thirty years physicists wondered if Newton was wrong before realizing in 2012 that the answer was the probes’ own waste heat gently pushing them backward at a billionth of Earth’s gravity.",
+        "excerpt": "For three decades, two NASA probes drifting toward interstellar space appeared to be decelerating by an amount that gravity alone could not explain. The resolution turned out to be the spacecraft warming themselves.\nThe post The Pioneer 10 and 11 spacecraft w…",
+        "content": "<p>For three decades, two NASA probes drifting toward interstellar space appeared to be decelerating by an amount that gravity alone could not explain. The resolution turned out to be the spacecraft warming themselves.\nThe post The Pioneer 10 and 11 spacecraft w…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/05/the-pioneer-10-and-11-spacecraft-were-fo.jpg",
+        "date": "May 21, 2026",
+        "url": "https://spacedaily.com/sd-the-pioneer-10-and-11-spacecraft-were-found-to-be-decelerating-slightly-more-than-gravity-could-explain-and-for-thirty-years-physicists-wondered-if-newton-was-wrong-before-realizing-in-2012-that-th/"
+    },
+    {
+        "id": "9rsnfxjxt",
+        "title": "NVIDIA Confirms Vera Rubin Launch In Q3 With Volume Ramp by Q4, As Blackwell Continues To See Massive Demand",
+        "excerpt": "NVIDIA confirms its next-gen Vera Rubin AI platform timeline, but existing GPUs continue to see major traction from AI firms, leading to price hikes. NVIDIA Vera Rubin Is All Prepped To Power Agentic AI Factories In Q3, Volume Ramp In Q4 2026 & Bigger Numbers…",
+        "content": "<p>NVIDIA confirms its next-gen Vera Rubin AI platform timeline, but existing GPUs continue to see major traction from AI firms, leading to price hikes. NVIDIA Vera Rubin Is All Prepped To Power Agentic AI Factories In Q3, Volume Ramp In Q4 2026 & Bigger Numbers…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.wccftech.com/wp-content/uploads/2026/04/nvidia-ceo-jensen-huang-spotlights-vera-rubin.jpg",
+        "date": "May 21, 2026",
+        "url": "https://wccftech.com/nvidia-confirms-vera-rubin-launch-in-q3-volume-ramp-q4-blackwell-continues-to-see-massive-demand/"
+    },
+    {
         "id": "5mb965kxe",
         "title": "Quanta Cloud Technology commits US$61.71 million for California facility lease amid AI server buildout",
         "excerpt": "Quanta Cloud Technology announced that its subsidiary QMN purchased a 10-year right-of-use asset for a California facility lease for US$61.71 million to support expanding manufacturing capacity for AI servers and other operations in the US. The transaction wa…",
