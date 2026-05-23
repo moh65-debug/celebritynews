@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "esn64hyrv",
+        "title": "James Webb discovers a rare giant planet with surprisingly Earth-like temperatures",
+        "excerpt": "Astronomers using NASA’s James Webb Space Telescope have uncovered a rare world unlike anything in our solar system — a giant planet about the size of Saturn with surprisingly Earth-like temperatures and an atmosphere packed with methane. The planet, TOI-199b…",
+        "content": "<p>Astronomers using NASA’s James Webb Space Telescope have uncovered a rare world unlike anything in our solar system — a giant planet about the size of Saturn with surprisingly Earth-like temperatures and an atmosphere packed with methane. The planet, TOI-199b…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/gas-giant-planet-orbiting-host-star.webp",
+        "date": "May 22, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260521072355.htm"
+    },
+    {
+        "id": "1z8tygt0b",
+        "title": "US pins hopes on mediator Pakistan in push to end Iran war",
+        "excerpt": "US Secretary of State Marco Rubio voiced hope of progress on ending the war with Iran, as he looked to Pakistani mediators to help advance efforts to strike an agreement.  Beijing did however, announce that Pakistan Prime Minister Shehbaz Sharif will travel o…",
+        "content": "<p>US Secretary of State Marco Rubio voiced hope of progress on ending the war with Iran, as he looked to Pakistani mediators to help advance efforts to strike an agreement.  Beijing did however, announce that Pakistan Prime Minister Shehbaz Sharif will travel o…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-131255164,width-1200,height-630,imgsize-21892,overlay-etdefence/articleshow.jpg",
+        "date": "May 22, 2026",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-pins-hopes-on-mediator-pakistan-in-push-to-end-iran-war/articleshow/131255156.cms"
+    },
+    {
+        "id": "445qgpp7i",
+        "title": "Why DNC’s belated 2024 election ‘autopsy’ term paper warrants a ‘D’ grade",
+        "excerpt": "Under pressure, the DNC finally released its autopsy of the 2024 election, after rampant speculation about what it contained and why it hadn’t yet been made public.",
+        "content": "<p>Under pressure, the DNC finally released its autopsy of the 2024 election, after rampant speculation about what it contained and why it hadn’t yet been made public.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/05/vice-president-kamala-harris-embraces-79053463-e1779414708938.jpg?quality=75&strip=all&w=1200",
+        "date": "May 22, 2026",
+        "url": "https://nypost.com/2026/05/21/opinion/why-dncs-belated-2024-election-autopsy-term-paper-warrants-a-d-grade/"
+    },
+    {
+        "id": "3mm7qgjah",
+        "title": "EA FC 26 Ultimate TOTS (UTOTS) players leaked: Ratings and more",
+        "excerpt": "EA FC 26 Ultimate TOTS leaks reveal a star-studded lineup featuring top performers like Lamine Yamal, Harry Kane, and Lionel Messi. The highly anticipated squad boasts an impressive number of 97-rated players, highlighting exceptional season performances acro…",
+        "content": "<p>EA FC 26 Ultimate TOTS leaks reveal a star-studded lineup featuring top performers like Lamine Yamal, Harry Kane, and Lionel Messi. The highly anticipated squad boasts an impressive number of 97-rated players, highlighting exceptional season performances acro…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-131255092,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "May 22, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/esports/news/ea-fc-26-ultimate-tots-utots-players-leaked-ratings-and-more/articleshow/131255098.cms"
+    },
+    {
+        "id": "3gqr5ut6c",
+        "title": "AMD backs Taiwan EFB packaging chain to cut CoWoS reliance",
+        "excerpt": "AMD said it plans to invest more than US$10 billion in Taiwan's technology ecosystem to accelerate AI infrastructure development, while also revealing a new strategic direction centered on an elevated fanout bridge (EFB) packaging ecosystem.",
+        "content": "<p>AMD said it plans to invest more than US$10 billion in Taiwan's technology ecosystem to accelerate AI infrastructure development, while also revealing a new strategic direction centered on an elevated fanout bridge (EFB) packaging ecosystem.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260522pd228_files/1_b.jpg",
+        "date": "May 22, 2026",
+        "url": "https://www.digitimes.com/news/a20260522PD228/amd-packaging-cowos-taiwan-tsmc.html"
+    },
+    {
+        "id": "aiqb26ji3",
+        "title": "AI bot used during Arizona college commencement ruins graduation for students whose names were skipped in flub that sparked boos",
+        "excerpt": "An AI-powered system used to read graduates' names at Glendale Community College malfunctioned during commencement and skipped some students entirely.",
+        "content": "<p>An AI-powered system used to read graduates' names at Glendale Community College malfunctioned during commencement and skipped some students entirely.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/05/22/02/108792041-0-image-a-56_1779414420103.jpg",
+        "date": "May 22, 2026",
+        "url": "https://www.dailymail.com/news/article-15838369/AI-bot-Arizona-college-ruins-graduation.html"
+    },
+    {
+        "id": "81d69an0u",
+        "title": "feedback-one added to PyPI",
+        "excerpt": "Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detection and cross-platform compatibility.",
+        "content": "<p>Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detection and cross-platform compatibility.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+        "date": "May 22, 2026",
+        "url": "https://pypi.org/project/feedback-one/"
+    },
+    {
+        "id": "jobv6gdh8",
+        "title": "US arrests sister of powerful Cuban official over alleged ties to communist regime",
+        "excerpt": "U.S. arrests sister of Cuba's GAESA military conglomerate leader over alleged ties to the communist regime, Secretary of State Rubio announces.",
+        "content": "<p>U.S. arrests sister of Cuba's GAESA military conglomerate leader over alleged ties to the communist regime, Secretary of State Rubio announces.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/secretary-of-state-marco-rubio-2026.jpg",
+        "date": "May 22, 2026",
+        "url": "https://www.foxnews.com/world/us-arrests-sister-powerful-cuban-official-alleged-ties-communist-regime"
+    },
+    {
+        "id": "ht8a2anxu",
+        "title": "Drayton Mitchell's cycle powers Calallen to Game 1 win over Davenport",
+        "excerpt": "Drayton Mitchell hit for the cycle and drove in three runs to power Calallen to a Game 1 win over Davenport in the Class 4A Division I regional final.",
+        "content": "<p>Drayton Mitchell hit for the cycle and drove in three runs to power Calallen to a Game 1 win over Davenport in the Class 4A Division I regional final.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/3aMD.j6Q6tmt50SWXJKfag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/corpus-christi-caller-times/8ea7a264ec1c3f10f3eded6545031422",
+        "date": "May 22, 2026",
+        "url": "https://www.caller.com/story/sports/high-school/baseball/2026/05/21/corpus-christi-calallen-wildcats-baseball-uil-playoffs-drayton-mitchell/90206206007/"
+    },
+    {
+        "id": "waxbw7w57",
+        "title": "Some technologies use accelerated natural processes to capture carbon – but can they store it durably?",
+        "excerpt": "Investment in carbon removal technologies is rising rapidly, but some models overestimate how much carbon is captured because they don’t cover all Earth processes.",
+        "content": "<p>Investment in carbon removal technologies is rising rapidly, but some models overestimate how much carbon is captured because they don’t cover all Earth processes.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://images.theconversation.com/files/737241/original/file-20260521-57-dmx5le.jpg?ixlib=rb-4.1.0&rect=0%2C514%2C3101%2C1550&q=45&auto=format&w=1356&h=668&fit=crop",
+        "date": "May 22, 2026",
+        "url": "https://theconversation.com/some-technologies-use-accelerated-natural-processes-to-capture-carbon-but-can-they-store-it-durably-282591"
+    },
+    {
         "id": "vr7dgnx2x",
         "title": "SpaceX IPO Filing Lays Bare Losses And Musk Control As It Stakes Future On AI",
         "excerpt": "Much of the outlook relies on SpaceX dominating technologies and markets that do not yet exist – from Mars missions to AI data centers in space.",
