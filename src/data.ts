@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "egma5yct1",
+        "title": "Trump administration imposes 25% tariffs on advanced semiconductors to boost domestic manufacturing",
+        "excerpt": "The tariffs could accelerate domestic semiconductor production but risk higher costs for tech firms and potential trade tensions.\nThe post Trump administration imposes 25% tariffs on advanced semiconductors to boost domestic manufacturing appeared first on Cr…",
+        "content": "<p>The tariffs could accelerate domestic semiconductor production but risk higher costs for tech firms and potential trade tensions.\nThe post Trump administration imposes 25% tariffs on advanced semiconductors to boost domestic manufacturing appeared first on Cr…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/22231432/u-s-imposes-25-tariff-on-semiconductors-under-section-232-gh-1-800x420.jpeg",
+        "date": "May 23, 2026",
+        "url": "https://cryptobriefing.com/trump-semiconductor-tariffs-domestic-manufacturing/"
+    },
+    {
+        "id": "0cxhm3o71",
+        "title": "White House approves $9B for spy agencies to enhance AI capabilities",
+        "excerpt": "The funding underscores AI's role as critical infrastructure, potentially reshaping global chip availability and advancing secure computation research.\nThe post White House approves $9B for spy agencies to enhance AI capabilities appeared first on Crypto Brie…",
+        "content": "<p>The funding underscores AI's role as critical infrastructure, potentially reshaping global chip availability and advancing secure computation research.\nThe post White House approves $9B for spy agencies to enhance AI capabilities appeared first on Crypto Brie…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/22230822/white-house-unveils-new-ai-regulations-for-federal-agencies-1-800x420.jpeg",
+        "date": "May 23, 2026",
+        "url": "https://cryptobriefing.com/white-house-9b-spy-agencies-ai/"
+    },
+    {
+        "id": "v6ty7xjqc",
+        "title": "Micron Technology CEO expects memory chip shortage to extend beyond 2026",
+        "excerpt": "The prolonged memory chip shortage could lead to sustained pricing power for manufacturers, impacting global tech industries and innovation.\nThe post Micron Technology CEO expects memory chip shortage to extend beyond 2026 appeared first on Crypto Briefing.",
+        "content": "<p>The prolonged memory chip shortage could lead to sustained pricing power for manufacturers, impacting global tech industries and innovation.\nThe post Micron Technology CEO expects memory chip shortage to extend beyond 2026 appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/22230605/memory-chipmakers-rise-as-global-supply-shortage-whets-inves-1-800x420.jpeg",
+        "date": "May 23, 2026",
+        "url": "https://cryptobriefing.com/micron-memory-chip-shortage-beyond-2026-2/"
+    },
+    {
+        "id": "j4z9khtsk",
+        "title": "The Hollywood Minute and The Rhonda Swan Show: Wake Up SoCal Edition Highlights Visionaries Marie Diamond and Shaneli Jain",
+        "excerpt": "The Hollywood Minute and The Rhonda Swan Show: Wake Up SoCal Edition Highlights Visionaries Marie Diamond and Shaneli Jain...",
+        "content": "<p>The Hollywood Minute and The Rhonda Swan Show: Wake Up SoCal Edition Highlights Visionaries Marie Diamond and Shaneli Jain...</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://ml.globenewswire.com/Resource/Download/a79c17d4-d058-4c72-b41b-385e2a58c333",
+        "date": "May 23, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/05/23/3300417/0/en/The-Hollywood-Minute-and-The-Rhonda-Swan-Show-Wake-Up-SoCal-Edition-Highlights-Visionaries-Marie-Diamond-and-Shaneli-Jain.html"
+    },
+    {
+        "id": "bebrsge8t",
+        "title": "WWE SmackDown Results & Highlights 22-May-2026: Sami Zayn lets Gunther attack Cody Rhodes,Women's US title open challenge, and more",
+        "excerpt": "SmackDown's go-home show for Saturday Night's Main Event delivered intense action. Tiffany Stratton retained her US title, while Carmelo Hayes and Trick Williams clashed. The main event saw Cody Rhodes defeat Sami Zayn, but the night concluded with a shocking…",
+        "content": "<p>SmackDown's go-home show for Saturday Night's Main Event delivered intense action. Tiffany Stratton retained her US title, while Carmelo Hayes and Trick Williams clashed. The main event saw Cody Rhodes defeat Sami Zayn, but the night concluded with a shocking…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-131271382,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "May 23, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-smackdown-results-highlights-22-may-2026-sami-zayn-lets-gunther-attack-cody-rhodeswomens-us-title-open-challenge-and-more/articleshow/131270631.cms"
+    },
+    {
+        "id": "rjefkvdbw",
+        "title": "The FDA Takes Its Turn Burying Studies Showing The Safety Of COVID, Shingles Vaccines",
+        "excerpt": "The fuckery that is going on across HHS and vaccine programs is just plain incredible. As the Trump administration continues to provide whatever cover it can so that RFK Jr. can wreck shop on the health of Americans, the damage Kennedy is doing to our inocula…",
+        "content": "<p>The fuckery that is going on across HHS and vaccine programs is just plain incredible. As the Trump administration continues to provide whatever cover it can so that RFK Jr. can wreck shop on the health of Americans, the damage Kennedy is doing to our inocula…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+        "date": "May 23, 2026",
+        "url": "https://www.techdirt.com/2026/05/22/the-fda-takes-its-turn-burying-studies-showing-the-safety-of-covid-shingles-vaccines/"
+    },
+    {
+        "id": "p4tbtgwrr",
+        "title": "Why Kashmir’s new rail link matters to the economy behind 95% of India’s cherries",
+        "excerpt": "Dedicated parcel trains are cutting travel time for Kashmir’s cherries from days to hours, offering growers lower losses, cheaper freight and fresh hope in a difficult season.",
+        "content": "<p>Dedicated parcel trains are cutting travel time for Kashmir’s cherries from days to hours, offering growers lower losses, cheaper freight and fresh hope in a difficult season.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/05/22/1600x900/logo/cherry1_1779421225623_1779421229664_ebdd35c7-52ca-4b70-b684-4454223a6c56.jpg",
+        "date": "May 23, 2026",
+        "url": "https://www.livemint.com/industry/kashmir-cherries-indian-railways-cherry-growers-ganderbal-shopian-horticulture-fruit-trade-parcel-trains-11779414571958.html"
+    },
+    {
+        "id": "2nnmp92vt",
+        "title": "We need to speed up economic reform, but pessimism doesn’t help",
+        "excerpt": "The appropriate response to Surjit Bhalla’s genuine concerns is to accelerate reform — not to dispute the imperative, but to reject the analytical scaffolding that obscures rather than illuminates it",
+        "content": "<p>The appropriate response to Surjit Bhalla’s genuine concerns is to accelerate reform — not to dispute the imperative, but to reject the analytical scaffolding that obscures rather than illuminates it</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://images.indianexpress.com/2026/05/ECNOMIC23id.jpg",
+        "date": "May 23, 2026",
+        "url": "https://indianexpress.com/article/opinion/columns/speed-up-economic-reform-pessimism-doesnt-help-10703503/"
+    },
+    {
+        "id": "og0s5voho",
+        "title": "Trump confirms that the Financial Times Blatantly Lied that Xi criticized Putin Regarding Ukraine",
+        "excerpt": "On May 19, the Financial Times published a report about US President Donald Trump’s visit to Beijing, claiming that his Chinese counterpart Xi Jinping \r\n\n“told [Trump] during their talks last week that Russian President Vladimir Putin might end up regretting …",
+        "content": "<p>On May 19, the Financial Times published a report about US President Donald Trump’s visit to Beijing, claiming that his Chinese counterpart Xi Jinping \r\n\n“told [Trump] during their talks last week that Russian President Vladimir Putin might end up regretting …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.globalresearch.ca/wp-content/uploads/2026/05/C_Trump_Xi_Putin.jpg",
+        "date": "May 23, 2026",
+        "url": "https://www.globalresearch.ca/trump-confirms-that-the-financial-times-blatantly-lied-that-xi-criticized-putin-regarding-ukraine/5927230"
+    },
+    {
+        "id": "2nhhid2ms",
+        "title": "US government expands Cuba sanctions, potentially accelerating crypto adoption on the island",
+        "excerpt": "The expanded sanctions may drive increased crypto adoption in Cuba, highlighting digital assets' role in circumventing financial isolation.\nThe post US government expands Cuba sanctions, potentially accelerating crypto adoption on the island appeared first on…",
+        "content": "<p>The expanded sanctions may drive increased crypto adoption in Cuba, highlighting digital assets' role in circumventing financial isolation.\nThe post US government expands Cuba sanctions, potentially accelerating crypto adoption on the island appeared first on…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/22201528/cuba-is-looking-into-cryptocurrencies-to-avoid-us-sanctions--1-800x420.jpeg",
+        "date": "May 23, 2026",
+        "url": "https://cryptobriefing.com/us-cuba-sanctions-crypto-adoption/"
+    },
+    {
         "id": "esn64hyrv",
         "title": "James Webb discovers a rare giant planet with surprisingly Earth-like temperatures",
         "excerpt": "Astronomers using NASA’s James Webb Space Telescope have uncovered a rare world unlike anything in our solar system — a giant planet about the size of Saturn with surprisingly Earth-like temperatures and an atmosphere packed with methane. The planet, TOI-199b…",
