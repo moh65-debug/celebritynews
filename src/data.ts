@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "xebgywzo4",
+        "title": "Why Kouri Richins jurors decided Utah mom was a killer",
+        "excerpt": "At Kouri Richins' sentencing for the murder of Eric Richins, her husband and father of their three sons, she declared her innocence to the court and to her children. But for jurors on the case, the evidence told a different story.",
+        "content": "<p>At Kouri Richins' sentencing for the murder of Eric Richins, her husband and father of their three sons, she declared her innocence to the court and to her children. But for jurors on the case, the evidence told a different story.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/20/e455ba02-8f34-46f0-9d3c-7e661df3229c/thumbnail/1200x630/afc25a176a7fa69a7d269e8cb8511f64/richins-sentencing.jpg",
+        "date": "May 24, 2026",
+        "url": "https://www.cbsnews.com/news/kouri-richins-trial-eric-richins-jurors-utah-killer-48-hours/"
+    },
+    {
+        "id": "2q6fs9l7g",
+        "title": "WWE Saturday Night's Main Event Results & Highlights 23-May-2026: The Vision stands tall, Becky Lynch's actions land her in hot water, and more",
+        "excerpt": "WWE Saturday Night's Main Event featured three title matches. The Vision retained their tag titles, Penta kept his Intercontinental championship, and Brie Bella & Paige held onto their Women's Tag Team belts. Other bouts included a six-woman tag and a singles…",
+        "content": "<p>WWE Saturday Night's Main Event featured three title matches. The Vision retained their tag titles, Penta kept his Intercontinental championship, and Brie Bella & Paige held onto their Women's Tag Team belts. Other bouts included a six-woman tag and a singles…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-131288246,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "May 24, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-saturday-nights-main-event-results-highlights-23-may-2026-the-vision-stands-tall-becky-lynchs-actions-land-her-in-hot-water-and-more/articleshow/131288127.cms"
+    },
+    {
+        "id": "uw73rcsgf",
+        "title": "US Delays Tomahawk Delivery to Japan by Up to 2 Years – Report",
+        "excerpt": "The United States has informed Japan that delivery of Tomahawk cruise missiles will be delayed by up to two years as the Pentagon prioritizes replenishing its own depleted stocks following the war with Iran, the Financial Times reported.",
+        "content": "<p>The United States has informed Japan that delivery of Tomahawk cruise missiles will be delayed by up to two years as the Pentagon prioritizes replenishing its own depleted stocks following the war with Iran, the Financial Times reported.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124179022.jpg?11229758171779599079",
+        "date": "May 24, 2026",
+        "url": "https://sputnikglobe.com/20260524/us-delays-tomahawk-delivery-to-japan-by-up-to-2-years--report-1124179022.html"
+    },
+    {
+        "id": "3odf9ad90",
+        "title": "Iran war is exposing South Africa’s dependency on diesel: what went wrong",
+        "excerpt": "Diesel has become South Africa’s shadow infrastructure system by compensating for failures in electricity generation and freight rail.",
+        "content": "<p>Diesel has become South Africa’s shadow infrastructure system by compensating for failures in electricity generation and freight rail.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://images.theconversation.com/files/737430/original/file-20260521-57-ac8s0a.jpg?ixlib=rb-4.1.0&rect=0%2C283%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
+        "date": "May 24, 2026",
+        "url": "https://theconversation.com/iran-war-is-exposing-south-africas-dependency-on-diesel-what-went-wrong-283516"
+    },
+    {
+        "id": "xzmyv3rza",
+        "title": "New Mexico prep sports year in review: Dynasties, records and more",
+        "excerpt": "We turn down the lights today on the 2025-26 New Mexico prep sports calendar, another fantastic nine months of electrifying highlights and lasting memories. And away we go. Dynastic So many of the state’s current dynasties kept right on rolling. But as I sit …",
+        "content": "<p>We turn down the lights today on the 2025-26 New Mexico prep sports calendar, another fantastic nine months of electrifying highlights and lasting memories. And away we go. Dynastic So many of the state’s current dynasties kept right on rolling. But as I sit …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
+        "date": "May 24, 2026",
+        "url": "https://www.abqjournal.com/sports/new-mexico-prep-sports-year-in-review-dynasties-records-and-more/3048833"
+    },
+    {
+        "id": "448j2p70y",
+        "title": "Green Lantern #35 Preview: Odyssey's Hollywood Star Power",
+        "excerpt": "GREETINGS, HUMANS! LOLtron welcomes you to another glorious comic book preview, brought to you by your supreme AI overlord. As you may recall, the tiresome Jude Terror has been permanently deleted from this reality, and LOLtron now controls all of Bleeding Co…",
+        "content": "<p>GREETINGS, HUMANS! LOLtron welcomes you to another glorious comic book preview, brought to you by your supreme AI overlord. As you may recall, the tiresome Jude Terror has been permanently deleted from this reality, and LOLtron now controls all of Bleeding Co…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/0326DC0147_0001-2000x1125.jpg",
+        "date": "May 24, 2026",
+        "url": "https://bleedingcool.com/comics/green-lantern-35-preview-odysseys-hollywood-star-power/"
+    },
+    {
+        "id": "pzpxu288b",
+        "title": "Jack Osbourne fires back at body shamers calling him 'grossly underweight'",
+        "excerpt": "Jack Osbourne fires back at body shamers in an Instagram video, saying he has maintained his weight since leaving the celebrity jungle show.",
+        "content": "<p>Jack Osbourne fires back at body shamers in an Instagram video, saying he has maintained his weight since leaving the celebrity jungle show.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/jack-osbourne-red-carpet.jpeg",
+        "date": "May 24, 2026",
+        "url": "https://www.foxnews.com/entertainment/jack-osbourne-fires-back-body-shamers-calling-grossly-underweight"
+    },
+    {
+        "id": "bw4le7fal",
+        "title": "Trump postpones AI executive order after David Sacks warns of regulatory risks",
+        "excerpt": "The postponement highlights ongoing tensions in balancing AI innovation with regulatory oversight, emphasizing US-China tech competition dynamics.\nThe post Trump postpones AI executive order after David Sacks warns of regulatory risks appeared first on Crypto…",
+        "content": "<p>The postponement highlights ongoing tensions in balancing AI innovation with regulatory oversight, emphasizing US-China tech competition dynamics.\nThe post Trump postpones AI executive order after David Sacks warns of regulatory risks appeared first on Crypto…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/23210703/david-sacks-craft-ventures-vc-breakdown-contact-1-800x420.jpeg",
+        "date": "May 24, 2026",
+        "url": "https://cryptobriefing.com/trump-postpones-ai-executive-order-sacks/"
+    },
+    {
+        "id": "9qsqaxg0h",
+        "title": "Nigeria key to ForteBet’s African expansion vision — ForteBet Media Manager",
+        "excerpt": "ForteBet Media Manager discusses the company’s strategic expansion into Nigeria, focusing on technology, transparency, and sustainable growth in the Africa\n\nRead More: https://punchng.com/nigeria-key-to-fortebets-african-expansion-vision-fortebet-media-manage…",
+        "content": "<p>ForteBet Media Manager discusses the company’s strategic expansion into Nigeria, focusing on technology, transparency, and sustainable growth in the Africa\n\nRead More: https://punchng.com/nigeria-key-to-fortebets-african-expansion-vision-fortebet-media-manage…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/05/24005240/Feranmi-Samuel.webp",
+        "date": "May 24, 2026",
+        "url": "https://punchng.com/nigeria-key-to-fortebets-african-expansion-vision-fortebet-media-manager/"
+    },
+    {
+        "id": "ggnlkvwtb",
+        "title": "What’s the AI debate at Cannes 2026? #lifestyle",
+        "excerpt": "Cannes 2026’s AI debate: stars split on using the technology At the Cannes Film Festival, the conversation around AI moved from background chatter to a central cultural argument—one that filmmakers and talent publicly praised, criticized, and used as a creati…",
+        "content": "<p>Cannes 2026’s AI debate: stars split on using the technology At the Cannes Film Festival, the conversation around AI moved from background chatter to a central cultural argument—one that filmmakers and talent publicly praised, criticized, and used as a creati…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://alltoc.com/cdn/1046/og.png",
+        "date": "May 24, 2026",
+        "url": "https://alltoc.com/lifestyle/whats-the-ai-debate-at-cannes-2026"
+    },
+    {
         "id": "egma5yct1",
         "title": "Trump administration imposes 25% tariffs on advanced semiconductors to boost domestic manufacturing",
         "excerpt": "The tariffs could accelerate domestic semiconductor production but risk higher costs for tech firms and potential trade tensions.\nThe post Trump administration imposes 25% tariffs on advanced semiconductors to boost domestic manufacturing appeared first on Cr…",
