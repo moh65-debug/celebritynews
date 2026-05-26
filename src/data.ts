@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "g4ir8yslr",
+        "title": "Huawei proposes new path for chip development amid US sanctions",
+        "excerpt": "Huawei aims for advanced chip design by 2031. The company is developing a new 'Tau Scaling Law' to improve chip performance. This innovation could bypass US sanctions restricting access to cutting-edge semiconductor technology. Huawei's upcoming Kirin chips w…",
+        "content": "<p>Huawei aims for advanced chip design by 2031. The company is developing a new 'Tau Scaling Law' to improve chip performance. This innovation could bypass US sanctions restricting access to cutting-edge semiconductor technology. Huawei's upcoming Kirin chips w…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-15917,resizemode-75,msid-131299801/tech/artificial-intelligence/huawei-proposes-new-path-for-chip-development-amid-us-sanctions.jpg",
+        "date": "May 25, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/huawei-proposes-new-path-for-chip-development-amid-us-sanctions/articleshow/131299801.cms"
+    },
+    {
+        "id": "vwh1im6rr",
+        "title": "S&P/ASX 200 Rises 0.54 Percent to 8,703.8 on Mining and Bank Gains",
+        "excerpt": "The S&P/ASX 200 index rose by 0.54% on May 25, 2026, driven by strong performances in mining and financial stocks, amid mixed global cues and positive domestic corporate updates.",
+        "content": "<p>The S&P/ASX 200 index rose by 0.54% on May 25, 2026, driven by strong performances in mining and financial stocks, amid mixed global cues and positive domestic corporate updates.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://d.ibtimes.com.au/en/full/1893564/asx-200-top-gainers-telix-pharma-jumps-323-fda.png",
+        "date": "May 25, 2026",
+        "url": "https://www.ibtimes.com.au/australian-sharemarket-rises-mining-financial-stocks-1869422"
+    },
+    {
+        "id": "pmsxpv095",
+        "title": "Huawei plans 1.4nm chips by 2031 as China races to catch TSMC",
+        "excerpt": "Huawei is working to reduce its five-year semiconductor production gap with TSMC by producing 1.4-nanometer chips by 2031.&nbsp;",
+        "content": "<p>Huawei is working to reduce its five-year semiconductor production gap with TSMC by producing 1.4-nanometer chips by 2031.&nbsp;</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/05/25/1600x900/logo/Huawei_1779676321768_1779676321906_77149c30-ccdb-4d78-b1eb-4cdb5f1872da.jpg",
+        "date": "May 25, 2026",
+        "url": "https://www.livemint.com/companies/news/huawei-plans-1-4nm-chips-by-2031-as-china-races-to-catch-tsmc-11779676131092.html"
+    },
+    {
+        "id": "53955lknu",
+        "title": "AI's role in fitness: Balancing benefits against potential risks",
+        "excerpt": "From fat-burning to marathon training, these fitness enthusiasts are using artificial intelligence to take their workouts to the next level.",
+        "content": "<p>From fat-burning to marathon training, these fitness enthusiasts are using artificial intelligence to take their workouts to the next level.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://apicms.thestar.com.my/uploads/images/2026/05/25/3924138.jpg",
+        "date": "May 25, 2026",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/05/25/ai039s-role-in-fitness-balancing-benefits-against-potential-risks"
+    },
+    {
+        "id": "32h8lghva",
+        "title": "Singapore launches physical AI testbed at Punggol Digital District",
+        "excerpt": "Singapore will launch a new testbed at the Punggol Digital District (PDD) later in 2026 to research, test, and deploy physical artificial intelligence (AI) systems, as the government seeks to accelerate the adoption of robotics and embodied AI in real-world e…",
+        "content": "<p>Singapore will launch a new testbed at the Punggol Digital District (PDD) later in 2026 to research, test, and deploy physical artificial intelligence (AI) systems, as the government seeks to accelerate the adoption of robotics and embodied AI in real-world e…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260525pr201_files/1_b.jpg",
+        "date": "May 25, 2026",
+        "url": "https://www.digitimes.com/news/a20260525PR201/singapore-robotics-adoption-launch-2026.html"
+    },
+    {
+        "id": "ryycopthf",
+        "title": "India-Middle East-Europe corridor can still move ahead, says Israeli envoy",
+        "excerpt": "Israel believes the India-Middle East-Europe Economic Corridor holds promise. Special Envoy Fleur Hassan-Nahoum expressed hope for the I2U2 grouping to regain momentum. She highlighted potential for deeper cooperation between India and the UAE. Israel and Ind…",
+        "content": "<p>Israel believes the India-Middle East-Europe Economic Corridor holds promise. Special Envoy Fleur Hassan-Nahoum expressed hope for the I2U2 grouping to regain momentum. She highlighted potential for deeper cooperation between India and the UAE. Israel and Ind…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131299437,width-1200,height-630,imgsize-45660,overlay-economictimes/articleshow.jpg",
+        "date": "May 25, 2026",
+        "url": "https://economictimes.indiatimes.com/news/india/india-middle-east-europe-corridor-can-still-move-ahead-says-israeli-envoy/articleshow/131299422.cms"
+    },
+    {
+        "id": "xwjax358e",
+        "title": "Breaking News Live Updates: Australia's Foreign Minister Penny Wong to visit India for Quad meet",
+        "excerpt": "Breaking News Live Updates: Australia's Foreign Minister Penny Wong is set to visit India today to participate in the Quad Foreign Ministers’ Meeting and hold the Australia-India Foreign Ministers’ Framework Dialogue",
+        "content": "<p>Breaking News Live Updates: Australia's Foreign Minister Penny Wong is set to visit India today to participate in the Quad Foreign Ministers’ Meeting and hold the Australia-India Foreign Ministers’ Framework Dialogue</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://economictimes.indiatimes.com/thumb/msid-131299343,width-1200,height-900,resizemode-4,imglength-157996/news/newsblogs/breaking-news-live-updates-india-national-pm-modi-marco-rubio-jaipir-donald-trump-international-united-states-israel-us-iran-war-politics-weather-updates-quad-summit-foreign-ministers-australia-jaishankar-petrol-diesel-price-hike-delhi.jpg",
+        "date": "May 25, 2026",
+        "url": "https://m.economictimes.com/news/newsblogs/breaking-news-live-updates-india-national-pm-modi-marco-rubio-jaipir-donald-trump-international-united-states-israel-us-iran-war-politics-weather-updates-quad-summit-foreign-ministers-australia-jaishankar-petrol-diesel-price-hike-delhi/liveblog/131299343.cms"
+    },
+    {
+        "id": "huhkeeeq2",
+        "title": "Top 10 most infamous chokers in sports history",
+        "excerpt": "Pressure creates legends in sports. It also creates collapses that fans never forget. Some athletes dominated for years but failed when the biggest moment arrived. A few teams looked unbeatable before everything suddenly fell apart. Those moments stayed attac…",
+        "content": "<p>Pressure creates legends in sports. It also creates collapses that fans never forget. Some athletes dominated for years but failed when the biggest moment arrived. A few teams looked unbeatable before everything suddenly fell apart. Those moments stayed attac…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/6TrSzM_jkoqPtlKPfbjqcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_big_lead_articles_114/fb9d2da1e056c29825373ead5fccee85",
+        "date": "May 25, 2026",
+        "url": "https://www.thebiglead.com/top-10-most-infamous-chokers-in-sports-history/"
+    },
+    {
+        "id": "g2ydvfu8b",
+        "title": "Hardline Republicans slam Trump’s emerging plan to end Iran war",
+        "excerpt": "President Donald Trump's proposed deal to end the Iran war is facing strong opposition from some Republicans. Critics worry the terms might allow Iran to develop nuclear weapons and control vital shipping lanes. Trump defends the deal, stating it is the oppos…",
+        "content": "<p>President Donald Trump's proposed deal to end the Iran war is facing strong opposition from some Republicans. Critics worry the terms might allow Iran to develop nuclear weapons and control vital shipping lanes. Trump defends the deal, stating it is the oppos…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-131299234,width-1200,height-630,imgsize-94904,overlay-economictimes/articleshow.jpg",
+        "date": "May 25, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/hardline-republicans-slam-trumps-emerging-plan-to-end-iran-war/articleshow/131299219.cms"
+    },
+    {
+        "id": "v23niugx1",
+        "title": "Udaan’s pre-IPO top-up; Tata’s Assam chip hub test run",
+        "excerpt": "Happy Monday! Udaan is in talks to raise $50-60 million at a flat valuation. This and more in today's ETtech Morning Dispatch.",
+        "content": "<p>Happy Monday! Udaan is in talks to raise $50-60 million at a flat valuation. This and more in today's ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-131299080,width-1070,height-580,imgsize-30086,overlay-ettech/editionshow.jpg",
+        "date": "May 25, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/udaans-pre-ipo-top-up-tatas-assam-chip-hub-test-run/articleshow/131299080.cms"
+    },
+    {
         "id": "xebgywzo4",
         "title": "Why Kouri Richins jurors decided Utah mom was a killer",
         "excerpt": "At Kouri Richins' sentencing for the murder of Eric Richins, her husband and father of their three sons, she declared her innocence to the court and to her children. But for jurors on the case, the evidence told a different story.",
