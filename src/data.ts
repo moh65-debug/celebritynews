@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "2cii0w2vl",
+        "title": "Meta Layoffs 2026: Mark Zuckerberg May Have Given The Best Severance Package For The 8,000 Employees Fired Recently",
+        "excerpt": "Meta is laying off 8,000 employees globally as it restructures to focus on AI. The company offers generous severance packages amid concerns over AI reliance.",
+        "content": "<p>Meta is laying off 8,000 employees globally as it restructures to focus on AI. The company offers generous severance packages amid concerns over AI reliance.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.ibtimes.co.uk/en/full/1809061/meta.jpg",
+        "date": "May 26, 2026",
+        "url": "https://www.ibtimes.co.uk/meta-global-layoffs-ai-investment-1798831"
+    },
+    {
+        "id": "9j197ujkc",
+        "title": "Canadiens Highlights: Lack Of Shots Cost Habs In Game 3",
+        "excerpt": "The Montreal Canadiens hosted the Carolina Hurricanes on Monday night, looking to gain an advantage in the Eastern Conference Final. […]",
+        "content": "<p>The Montreal Canadiens hosted the Carolina Hurricanes on Monday night, looking to gain an advantage in the Eastern Conference Final. […]</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/WM4seIo5TT.v34uUV9usdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sportsnaut_articles_397/584f1d9db8f5aa4e810f4bb840fc4bfc",
+        "date": "May 26, 2026",
+        "url": "https://sportsnaut.com/nhl/montreal-canadiens/montreal-canadiens-game-3-highlights-lack-of-shots/"
+    },
+    {
+        "id": "7ufkinpgu",
+        "title": "‘Nigeria loses $850m yearly to foreign cloud providers’",
+        "excerpt": "Nigeria loses $850m annually to foreign cloud providers. Local cloud infrastructure is critical for economic future, reducing capital flight and forex pres\n\nRead More: https://punchng.com/nigeria-loses-850m-yearly-to-foreign-cloud-providers/",
+        "content": "<p>Nigeria loses $850m annually to foreign cloud providers. Local cloud infrastructure is critical for economic future, reducing capital flight and forex pres\n\nRead More: https://punchng.com/nigeria-loses-850m-yearly-to-foreign-cloud-providers/</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/05/19053044/images-9.png",
+        "date": "May 26, 2026",
+        "url": "https://punchng.com/nigeria-loses-850m-yearly-to-foreign-cloud-providers/"
+    },
+    {
+        "id": "b5xqrpfmm",
+        "title": "Students showcase AI innovations at DeepFunding hackathon",
+        "excerpt": "Nigerian students showcased groundbreaking AI innovations at the DeepFunding hackathon, addressing local challenges in healthcare, language, and assistive\n\nRead More: https://punchng.com/students-showcase-ai-innovations-at-deepfunding-hackathon/",
+        "content": "<p>Nigerian students showcased groundbreaking AI innovations at the DeepFunding hackathon, addressing local challenges in healthcare, language, and assistive\n\nRead More: https://punchng.com/students-showcase-ai-innovations-at-deepfunding-hackathon/</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2025/09/18035016/artificial-intelligence.webp",
+        "date": "May 26, 2026",
+        "url": "https://punchng.com/students-showcase-ai-innovations-at-deepfunding-hackathon/"
+    },
+    {
+        "id": "wkmwlll5c",
+        "title": "Alibaba unveils Qwen 3.7 Max at inaugural Singapore conference",
+        "excerpt": "Chinese tech giant debuts new AI model capable of extended autonomous tasks, alongside a major upskilling initiative backed by the Singapore government to ensure no jobless growth in the age of AI",
+        "content": "<p>Chinese tech giant debuts new AI model capable of extended autonomous tasks, alongside a major upskilling initiative backed by the Singapore government to ensure no jobless growth in the age of AI</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/LLM-language-model-AI-adobe.jpg",
+        "date": "May 26, 2026",
+        "url": "https://www.computerweekly.com/news/366643330/Alibaba-unveils-Qwen-37-Max-at-inaugural-Singapore-conference"
+    },
+    {
+        "id": "44w6s8z8u",
+        "title": "On 22 October 2017, a single lightning flash crossed five US states in 7.39 seconds, travelled 829 kilometres from Texas to near Kansas City, and produced more than 116 cloud-to-ground strikes along its path, an event approximately fifty times longer than a typical lightning bolt that was missed at the time and only identified through a 2024 reanalysis of archived satellite data.",
+        "excerpt": "On the afternoon of 22 October 2017, a large thunderstorm complex moved across the central United States, extending at its peak from Minnesota down to Texas. The system produced ordinary severe weather across multiple states. It also produced, somewhere insid…",
+        "content": "<p>On the afternoon of 22 October 2017, a large thunderstorm complex moved across the central United States, extending at its peak from Minnesota down to Texas. The system produced ordinary severe weather across multiple states. It also produced, somewhere insid…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/05/tr-2026-05-25T174555.814.png",
+        "date": "May 26, 2026",
+        "url": "https://spacedaily.com/k-on-22-october-2017-a-single-lightning-flash-crossed-five-us-states-in-7-39-seconds-travelled-829-kilometres-from-texas-to-near-kansas-city-and-produced-more-than-116-cloud-to-ground-strikes-along-i/"
+    },
+    {
+        "id": "9tlvtt1qo",
+        "title": "WWE RAW Results & Highlights 25-May-2026: Oba Femi vows to end Brock Lesnar at Clash in Italy, IC title match and more",
+        "excerpt": "WWE RAW's go-home show for Clash in Italy featured major matches made official, including Brock Lesnar vs. Oba Femi and Roman Reigns vs. Jacob Fatu. Logan Paul was sidelined with an injury. The night concluded with a tense contract signing between Reigns and …",
+        "content": "<p>WWE RAW's go-home show for Clash in Italy featured major matches made official, including Brock Lesnar vs. Oba Femi and Roman Reigns vs. Jacob Fatu. Logan Paul was sidelined with an injury. The night concluded with a tense contract signing between Reigns and …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-131320603,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "May 26, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-raw-results-highlights-25-may-2026-oba-femi-vows-to-end-brock-lesnar-at-clash-in-italy-ic-title-match-and-more/articleshow/131320361.cms"
+    },
+    {
+        "id": "ql9v95ep6",
+        "title": "Pussycat Dolls Give First Live TV Performance in Years at AMAs 2026 with Medley of Greatest Hits",
+        "excerpt": "The Pussycat Dolls are back! Nicole Scherzinger, Ashley Roberts, and Kimberly Wyatt appeared on stage for a reunion performance at […]\nThe post Pussycat Dolls Give First Live TV Performance in Years at AMAs 2026 with Medley of Greatest Hits appeared first on …",
+        "content": "<p>The Pussycat Dolls are back! Nicole Scherzinger, Ashley Roberts, and Kimberly Wyatt appeared on stage for a reunion performance at […]\nThe post Pussycat Dolls Give First Live TV Performance in Years at AMAs 2026 with Medley of Greatest Hits appeared first on …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/pussycat-dolls-american-music-awards.jpg",
+        "date": "May 26, 2026",
+        "url": "https://www.justjared.com/2026/05/25/pussycat-dolls-give-first-live-tv-performance-in-years-at-amas-2026-with-medley-of-greatest-hits/"
+    },
+    {
+        "id": "oz4t59qqw",
+        "title": "Cricket and soccer are Australian sporting giants. How can they be struggling financially?",
+        "excerpt": "Football Australia and Cricket Australia highlight how sport organisations can appear commercially successful while remaining financially fragile.",
+        "content": "<p>Football Australia and Cricket Australia highlight how sport organisations can appear commercially successful while remaining financially fragile.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://images.theconversation.com/files/737943/original/file-20260526-69-qec7ex.jpg?ixlib=rb-4.1.0&rect=0%2C76%2C1999%2C999&q=45&auto=format&w=1356&h=668&fit=crop",
+        "date": "May 26, 2026",
+        "url": "https://theconversation.com/cricket-and-soccer-are-australian-sporting-giants-how-can-they-be-struggling-financially-283582"
+    },
+    {
+        "id": "tgvga59cq",
+        "title": "#6 Dakota Valley advances to SDHSBA Class B Semifinals with 4-3 win over #3 Lennox, #4 Vermillion falls to #5 PGWL 4-3",
+        "excerpt": "BROOKINGS, S.D. (KCAU) – Check out the highlights and scores from the SDHSBA State Class B Tournament Quarterfinal round, brought to you by our friends at Midwest Sports+ #6 Dakota Valley 4, #3 Lennox 3 #5 PGWL 4, #4 Vermillion 3",
+        "content": "<p>BROOKINGS, S.D. (KCAU) – Check out the highlights and scores from the SDHSBA State Class B Tournament Quarterfinal round, brought to you by our friends at Midwest Sports+ #6 Dakota Valley 4, #3 Lennox 3 #5 PGWL 4, #4 Vermillion 3</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/kcau_sioux_city_articles_201/5e96f3c3e79bc0e0693f481ea49ff072",
+        "date": "May 26, 2026",
+        "url": "https://www.kcau9.com/sports/6-dakota-valley-advances-to-sdhsba-class-b-semifinals-with-4-3-win-over-3-lennox-4-vermillion-falls-to-5-pgwl-4-3/"
+    },
+    {
         "id": "g4ir8yslr",
         "title": "Huawei proposes new path for chip development amid US sanctions",
         "excerpt": "Huawei aims for advanced chip design by 2031. The company is developing a new 'Tau Scaling Law' to improve chip performance. This innovation could bypass US sanctions restricting access to cutting-edge semiconductor technology. Huawei's upcoming Kirin chips w…",
