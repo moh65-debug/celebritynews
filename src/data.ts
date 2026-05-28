@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ycx592ldp",
+        "title": "AI to turbocharge patent creation at Indian tech hubs",
+        "excerpt": "Global companies expect AI to accelerate the creation of new products and intellectual property at their ​Indian technology hubs, underlining the country’s growing role as an innovation base even as ‌the futuristic technology reshapes work.",
+        "content": "<p>Global companies expect AI to accelerate the creation of new products and intellectual property at their ​Indian technology hubs, underlining the country’s growing role as an innovation base even as ‌the futuristic technology reshapes work.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/ynsw0n/article71027549.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_J5FTNV9B.jpg",
+        "date": "May 27, 2026",
+        "url": "https://www.thehindubusinessline.com/info-tech/ai-to-turbocharge-patent-creation-at-indian-tech-hubs/article71027528.ece"
+    },
+    {
+        "id": "pzkkx72cl",
+        "title": "Former AG Pam Bondi was diagnosed with cancer shortly after being axed by Trump: report",
+        "excerpt": "Pam Bondi was diagnosed with thyroid cancer shortly after President Trump removed her as attorney general, according to a report Tuesday.",
+        "content": "<p>Pam Bondi was diagnosed with thyroid cancer shortly after President Trump removed her as attorney general, according to a report Tuesday.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/05/pam-bondi-battling-cancer-after-trump-fired-her.jpg?quality=75&strip=all&1779835658&w=1200",
+        "date": "May 27, 2026",
+        "url": "https://nypost.com/2026/05/26/us-news/former-ag-pam-bondi-was-diagnosed-with-cancer-shortly-after-being-axed-by-trump-report/"
+    },
+    {
+        "id": "u518qvqdo",
+        "title": "AI to turbocharge patent creation at India tech hubs, executives say",
+        "excerpt": "Global companies anticipate AI will boost new product and IP creation at Indian tech hubs, transforming routine tasks into complex innovation. Despite regulatory hurdles slowing local patent filings, India's skilled workforce and cost advantages continue to d…",
+        "content": "<p>Global companies anticipate AI will boost new product and IP creation at Indian tech hubs, transforming routine tasks into complex innovation. Despite regulatory hurdles slowing local patent filings, India's skilled workforce and cost advantages continue to d…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-120674,resizemode-75,msid-131340416/tech/artificial-intelligence/ai-to-turbocharge-patent-creation-at-india-tech-hubs-executives-say.jpg",
+        "date": "May 27, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-to-turbocharge-patent-creation-at-india-tech-hubs-executives-say/articleshow/131340416.cms"
+    },
+    {
+        "id": "h0s9qsce2",
+        "title": "Mevion Medical Systems and Tam Anh General Hospital Partner to Bring Advanced Proton Therapy to Vietnam",
+        "excerpt": "-Mevion Medical Systems has signed a definitive purchase agreement to bring the MEVION S250-FIT Proton Therapy System&trade; to Tam Anh General Hospital in ...",
+        "content": "<p>-Mevion Medical Systems has signed a definitive purchase agreement to bring the MEVION S250-FIT Proton Therapy System&trade; to Tam Anh General Hospital in ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2020/03/23/Logo-BusinessWire-800x600.jpg",
+        "date": "May 27, 2026",
+        "url": "https://en.antaranews.com/news/417039/mevion-medical-systems-and-tam-anh-general-hospital-partner-to-bring-advanced-proton-therapy-to-vietnam"
+    },
+    {
+        "id": "8urxh6u92",
+        "title": "Have Industries, World and GDP Have Been Transformed Before?",
+        "excerpt": "I have an article about replatforming and how business can become radically bigger, faster and more profitable with new technologies and processes. But here we focus on actual transformation and step changes to the world and industries. The Industrial revolut…",
+        "content": "<p>I have an article about replatforming and how business can become radically bigger, faster and more profitable with new technologies and processes. But here we focus on actual transformation and step changes to the world and industries. The Industrial revolut…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/05/Screenshot-2026-05-26-at-7.00.24-PM.jpg",
+        "date": "May 27, 2026",
+        "url": "https://www.nextbigfuture.com/2026/05/have-industries-world-and-gdp-have-been-transformed-before.html"
+    },
+    {
+        "id": "l65t8ipc9",
+        "title": "Dakota Valley and Elk Point-Jefferson softball punch ticket to SDHSAA Class A State Softball Tournament, Vermillion drops SoDak 16 game at Beresford",
+        "excerpt": "Here’s a look at our local SDHSAA Softball SoDak 16 highlights and scores from May 26th, 2026: #3 Dakota Valley 15, #14 Ethan/Parkston 0 #8 Elk Point-Jefferson 20, #9 Dell Rapids 15 #5 Beresford 16, #12 Vermillion 1 The Class A State Tournament begins on June…",
+        "content": "<p>Here’s a look at our local SDHSAA Softball SoDak 16 highlights and scores from May 26th, 2026: #3 Dakota Valley 15, #14 Ethan/Parkston 0 #8 Elk Point-Jefferson 20, #9 Dell Rapids 15 #5 Beresford 16, #12 Vermillion 1 The Class A State Tournament begins on June…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/kcau_sioux_city_articles_201/336203fcd0117cfe554d3b2479a2f74c",
+        "date": "May 27, 2026",
+        "url": "https://www.kcau9.com/sports/dakota-valley-and-elk-point-jefferson-softball-punch-ticket-to-sdhsaa-class-a-state-softball-tournament-vermillion-drops-sodak-16-game-at-beresford/"
+    },
+    {
+        "id": "r72ltiruj",
+        "title": "Trump again slams media coverage on West Asia conflict, says \"gone absolutely crazy\"",
+        "excerpt": "Former President Donald Trump criticized media coverage of the West Asia conflict, alleging bias against his administration. He claimed outlets would even portray Iran's surrender as a victory for the nation. Trump also accused Democrats and media of losing t…",
+        "content": "<p>Former President Donald Trump criticized media coverage of the West Asia conflict, alleging bias against his administration. He claimed outlets would even portray Iran's surrender as a victory for the nation. Trump also accused Democrats and media of losing t…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-131340016,width-1200,height-630,imgsize-46876,overlay-economictimes/articleshow.jpg",
+        "date": "May 27, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-again-slams-media-coverage-on-west-asia-conflict-says-gone-absolutely-crazy/articleshow/131340011.cms"
+    },
+    {
+        "id": "6akbvei0d",
+        "title": "Mae Schenk Spotted as ‘Eloise’ While Filming Netflix’s Live-Action Movie in New York City",
+        "excerpt": "Netflix is making a live-action movie adaptation of the classic children’s book series Eloise and we have some of the […]\nThe post Mae Schenk Spotted as ‘Eloise’ While Filming Netflix’s Live-Action Movie in New York City appeared first on Just Jared - Celebri…",
+        "content": "<p>Netflix is making a live-action movie adaptation of the classic children’s book series Eloise and we have some of the […]\nThe post Mae Schenk Spotted as ‘Eloise’ While Filming Netflix’s Live-Action Movie in New York City appeared first on Just Jared - Celebri…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/mae-schenk-as-eloise-on-set.jpg",
+        "date": "May 27, 2026",
+        "url": "https://www.justjared.com/2026/05/26/mae-schenk-spotted-as-eloise-while-filming-netflixs-live-action-movie-in-new-york-city/"
+    },
+    {
+        "id": "90nxb1vts",
+        "title": "New Theory Claims the Vikings Could ‘Bottom Out’ in 2026",
+        "excerpt": "Last week, CBS Sports‘ Carter Bahns identified seven teams that could “bottom out” in 2026 and need a quarterback next […]",
+        "content": "<p>Last week, CBS Sports‘ Carter Bahns identified seven teams that could “bottom out” in 2026 and need a quarterback next […]</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/o6riLXmPi33pvqKtbMArpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Njc7Y2Y9d2VicA--/https://media.zenfs.com/en/vikings_territory_articles_315/1af9ae1167f5ab9c276eab41b8f31829",
+        "date": "May 27, 2026",
+        "url": "https://vikingsterritory.com/2026/news/analysis/vikings-bottom-out-2026"
+    },
+    {
+        "id": "g6afdgzhr",
+        "title": "Astronomers Observe the Most Chemically Primitive Galaxy in the Early Universe",
+        "excerpt": "An international team led by Associate Professor Kimihiko Nakajima of Kanazawa University has captured a rare look at the early universe. Using the James Webb Space Telescope (JWST) and the power of gravitational lensing, the team achieved a definitive charac…",
+        "content": "<p>An international team led by Associate Professor Kimihiko Nakajima of Kanazawa University has captured a rare look at the early universe. Using the James Webb Space Telescope (JWST) and the power of gravitational lensing, the team achieved a definitive charac…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.universetoday.com/article_images/fig1_v2_20260522_003209.png",
+        "date": "May 27, 2026",
+        "url": "https://www.universetoday.com/articles/astronomers-observe-the-most-chemically-primitive-galaxy-in-the-early-universe"
+    },
+    {
         "id": "2cii0w2vl",
         "title": "Meta Layoffs 2026: Mark Zuckerberg May Have Given The Best Severance Package For The 8,000 Employees Fired Recently",
         "excerpt": "Meta is laying off 8,000 employees globally as it restructures to focus on AI. The company offers generous severance packages amid concerns over AI reliance.",
