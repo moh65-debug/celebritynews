@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ojtlfix9u",
+        "title": "Adam Silver says NBA will soon use AI for certain calls — here’s how it could work",
+        "excerpt": "NBA commissioner Adam Silver said the league will use AI to automate a category of calls.",
+        "content": "<p>NBA commissioner Adam Silver said the league will use AI to automate a category of calls.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/05/newspress-collage-7hui75qzb-1779936039062.jpg?quality=75&strip=all&1779921688&w=1200",
+        "date": "May 28, 2026",
+        "url": "https://nypost.com/2026/05/27/sports/adam-silver-says-nba-will-soon-use-ai-for-certain-calls/"
+    },
+    {
+        "id": "a52eoyak3",
+        "title": "Adam Silver says NBA will soon use AI for certain calls — here’s how it could work",
+        "excerpt": "NBA commissioner Adam Silver said the league will use AI to automate a category of calls.",
+        "content": "<p>NBA commissioner Adam Silver said the league will use AI to automate a category of calls.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/WDLRsnARXu4Te9kFGTuleA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ny_post_sports_articles_389/98de873d234dad90732112c76afb2b77",
+        "date": "May 28, 2026",
+        "url": "https://nypost.com/2026/05/27/sports/adam-silver-says-nba-will-soon-use-ai-for-certain-calls/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral"
+    },
+    {
+        "id": "ywwthjt18",
+        "title": "News Emmys: ABC, Nat Geo Top 2026 Wins, Thanks to ‘World News Tonight’ and ‘Trafficked With Mariana van Zeller’",
+        "excerpt": "ABC News led the 47th annual News Emmys with eight wins, including the top prize for outstanding live news program — repeating last year’s victory for “ABC World News Tonight With David Muir.” But coming on strong was a Disney sibling: Nat Geo, which won seve…",
+        "content": "<p>ABC News led the 47th annual News Emmys with eight wins, including the top prize for outstanding live news program — repeating last year’s victory for “ABC World News Tonight With David Muir.” But coming on strong was a Disney sibling: Nat Geo, which won seve…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://variety.com/wp-content/uploads/2025/01/Muir-Palisades-Fire-011025_Credit-ABC-Matt-Petit.jpg?w=1000&h=563&crop=1",
+        "date": "May 28, 2026",
+        "url": "https://variety.com/2026/tv/news/news-emmys-2026-winners-abc-nat-geo-trafficked-1236760791/"
+    },
+    {
+        "id": "sjg2jk9ig",
+        "title": "Google engineer charged with using inside information to win $1.2M on Polymarket",
+        "excerpt": "This case highlights the legal risks of using insider information in decentralized markets, emphasizing the need for regulatory oversight.\nThe post Google engineer charged with using inside information to win $1.2M on Polymarket appeared first on Crypto Brief…",
+        "content": "<p>This case highlights the legal risks of using insider information in decentralized markets, emphasizing the need for regulatory oversight.\nThe post Google engineer charged with using inside information to win $1.2M on Polymarket appeared first on Crypto Brief…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/27223351/google-engineer-charged-with-insider-trading-after-making-1-2-800x420.jpeg",
+        "date": "May 28, 2026",
+        "url": "https://cryptobriefing.com/google-engineer-polymarket-insider-trading-2/"
+    },
+    {
+        "id": "av4fm62ul",
+        "title": "Social science has a replication problem — a new massive study found that only half of published findings hold up when researchers try to repeat them and many that made it into textbooks",
+        "excerpt": "It didn’t start with a paper. It started with a classroom. I was teaching a unit on classic social psychology — the foundational studies that most of us in the field absorbed as canonical truth. Milgram’s obedience experiments. Zimbardo’s Stanford Prison Expe…",
+        "content": "<p>It didn’t start with a paper. It started with a classroom. I was teaching a unit on classic social psychology — the foundational studies that most of us in the field absorbed as canonical truth. Milgram’s obedience experiments. Zimbardo’s Stanford Prison Expe…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/05/Social-science.png",
+        "date": "May 28, 2026",
+        "url": "https://spacedaily.com/n-social-science-has-a-replication-problem-a-new-massive-study-found-that-only-half-of-published-findings-hold-up-when-researchers-try-to-repeat-them-and-many-that-made-it-into-textbooks/"
+    },
+    {
+        "id": "q1gjrdfmn",
+        "title": "Nutanix’s stock inches up on solid earnings and revenue beat and growing customer acquisitions",
+        "excerpt": "Hyperconverged cloud infrastructure company Nutanix Inc. delivered a mostly upbeat earnings report today, easily beating estimates on profit and revenue. Investors reacted well to the news, with the company’s stock gaining more than 5% after-hours. Nutanix re…",
+        "content": "<p>Hyperconverged cloud infrastructure company Nutanix Inc. delivered a mostly upbeat earnings report today, easily beating estimates on profit and revenue. Investors reacted well to the news, with the company’s stock gaining more than 5% after-hours. Nutanix re…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Rajiv-Ramaswami-president-and-CEO-of-Nutanix-Nutanix-.NEXT-2026.jpg",
+        "date": "May 28, 2026",
+        "url": "https://siliconangle.com/2026/05/27/nutanixs-stock-inches-solid-earnings-revenue-beat-growing-customer-acquisitions/"
+    },
+    {
+        "id": "aeu6gkvy1",
+        "title": "Lindsey Graham astonishes onlookers with 'ignorant' Fox News interview",
+        "excerpt": "Sen. Lindsey Graham (R-SC) astonished onlookers on Wednesday after he gave what some described as an \"ignorant\" interview on Fox News. Graham joined Fox News host Sean Hannity on his eponymous show, where the two discussed topics ranging from President Donald…",
+        "content": "<p>Sen. Lindsey Graham (R-SC) astonished onlookers on Wednesday after he gave what some described as an \"ignorant\" interview on Fox News. Graham joined Fox News host Sean Hannity on his eponymous show, where the two discussed topics ranging from President Donald…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.rawstory.com/media-library/lindsey-graham-takes-grilling-after-being-spotted-at-disney-world-amid-shutdown.jpg?id=65424621&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
+        "date": "May 28, 2026",
+        "url": "https://www.rawstory.com/lindsey-graham-2676964406/"
+    },
+    {
+        "id": "3m3srftm4",
+        "title": "BlackCore: Israel’s Cyber Hitmen in French Elections",
+        "excerpt": "Freddie Ponton21st Century Wire In early May 2026, three pro‑Palestine candidates in French municipal races were hit with a coordinated smear campaign built on lies, synthetic identities and anonymous digital attacks, which French authorities and platform inv…",
+        "content": "<p>Freddie Ponton21st Century Wire In early May 2026, three pro‑Palestine candidates in French municipal races were hit with a coordinated smear campaign built on lies, synthetic identities and anonymous digital attacks, which French authorities and platform inv…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://www.activistpost.com/wp-content/uploads/2026/05/BLACKCORE.jpg",
+        "date": "May 28, 2026",
+        "url": "https://www.activistpost.com/blackcore-israels-cyber-hitmen-in-french-elections/"
+    },
+    {
+        "id": "9g3xk64d3",
+        "title": "Toshiba Launches Quad-Channel High-Speed Standard Digital Isolators with Maximum Operating Temperature of 125°C for Industrial Equipment",
+        "excerpt": "– Will Contribute to Stable High-Speed Isolated Signal Transmission – KAWASAKI, Japan — Toshiba Electronic Devices & Storage Corporation (“Toshiba”) has expanded its lineup of digital isolators with DCL54xx01A series of quad-channel high-speed standard digita…",
+        "content": "<p>– Will Contribute to Stable High-Speed Isolated Signal Transmission – KAWASAKI, Japan — Toshiba Electronic Devices & Storage Corporation (“Toshiba”) has expanded its lineup of digital isolators with DCL54xx01A series of quad-channel high-speed standard digita…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/05/bw20260527871751_dcl54xx01a_1200_628.jpeg",
+        "date": "May 28, 2026",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/toshiba-launches-quad-channel-high-speed-standard-digital-isolators-with-maximum-operating-temperature-of-125c-for-industrial-equipment"
+    },
+    {
+        "id": "k0siroice",
+        "title": "Keke Palmer & Sean Evans Continue Flirting On New Episode of Her Podcast",
+        "excerpt": "Keke Palmer welcomed Hot Ones host Sean Evans as the latest guest on her podcast, Baby, This Is Keke Palmer, […]\nThe post Keke Palmer & Sean Evans Continue Flirting On New Episode of Her Podcast appeared first on Just Jared - Celebrity News and Gossip | Enter…",
+        "content": "<p>Keke Palmer welcomed Hot Ones host Sean Evans as the latest guest on her podcast, Baby, This Is Keke Palmer, […]\nThe post Keke Palmer & Sean Evans Continue Flirting On New Episode of Her Podcast appeared first on Just Jared - Celebrity News and Gossip | Enter…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/keke-scott-flirt.jpg",
+        "date": "May 28, 2026",
+        "url": "https://www.justjared.com/2026/05/27/keke-palmer-sean-evans-continue-flirting-on-new-episode-of-her-podcast/"
+    },
+    {
         "id": "ycx592ldp",
         "title": "AI to turbocharge patent creation at Indian tech hubs",
         "excerpt": "Global companies expect AI to accelerate the creation of new products and intellectual property at their ​Indian technology hubs, underlining the country’s growing role as an innovation base even as ‌the futuristic technology reshapes work.",
