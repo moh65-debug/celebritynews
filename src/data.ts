@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "vtunl2u2p",
+        "title": "From diapers to drugs: How India's global corporate hubs are putting AI to work",
+        "excerpt": "Heads of several Global Capability Centres (GCCs) told Reuters they are deploying AI across a host of functions - from marketing and content creation to finance and human resources - to automate time-consuming, repetitive tasks that once ‌required hours ⁠of m…",
+        "content": "<p>Heads of several Global Capability Centres (GCCs) told Reuters they are deploying AI across a host of functions - from marketing and content creation to finance and human resources - to automate time-consuming, repetitive tasks that once ‌required hours ⁠of m…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-491266,resizemode-75,msid-131380586/tech/artificial-intelligence/from-diapers-to-drugs-how-indias-global-corporate-hubs-are-putting-ai-to-work.jpg",
+        "date": "May 29, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-diapers-to-drugs-how-indias-global-corporate-hubs-are-putting-ai-to-work/articleshow/131380586.cms"
+    },
+    {
+        "id": "e6uzaehw8",
+        "title": "模倣できない価値が、次の競争優位になる。─Japan Beauty Network、戦略白書『Cultural Capital as Economic Power』をプレリリース",
+        "excerpt": "[JBN]\n[画像1: https://prcdn.freetls.fastly.net/release_image/163787/9/163787-9-4acf42666780f92bf392fa3311ff46a4-1976x2000.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+        "content": "<p>[JBN]\n[画像1: https://prcdn.freetls.fastly.net/release_image/163787/9/163787-9-4acf42666780f92bf392fa3311ff46a4-1976x2000.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/163787/9/163787-9-4acf42666780f92bf392fa3311ff46a4-1976x2000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "date": "May 29, 2026",
+        "url": "https://prtimes.jp/main/html/rd/p/000000009.000163787.html"
+    },
+    {
+        "id": "yujtwfz7b",
+        "title": "Business leaders hail nation's intelligent manufacturing",
+        "excerpt": "BEIJING, May 28, 2026 /PRNewswire/ -- A news report from China Daily: China's stepped-up push to advance intelligent manufacturing is reinforcing corporate confidence and opening broader opportunities for enterprises at home and abroad to innovate, expand and…",
+        "content": "<p>BEIJING, May 28, 2026 /PRNewswire/ -- A news report from China Daily: China's stepped-up push to advance intelligent manufacturing is reinforcing corporate confidence and opening broader opportunities for enterprises at home and abroad to innovate, expand and…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mma.prnewswire.com/media/2990352/Thursday_in_Tianjin__The_event__jointly_organized_by_the_Publicity_Department_of_the_Tianjin_Municip.jpg?p=facebook",
+        "date": "May 29, 2026",
+        "url": "https://www.prnewswire.com/news-releases/business-leaders-hail-nations-intelligent-manufacturing-302785202.html"
+    },
+    {
+        "id": "w92buqfm8",
+        "title": "Blue Origin rocket explodes into GIANT fireball on launchpad during test at Cape Canaveral in Florida",
+        "excerpt": "The New Glenn rocket was undergoing a 'hotfire test' at Launch Pad 36 at around 9pm at the Cape Canaveral Space Force Station in Florida when it burst into flames.",
+        "content": "<p>The New Glenn rocket was undergoing a 'hotfire test' at Launch Pad 36 at around 9pm at the Cape Canaveral Space Force Station in Florida when it burst into flames.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://i.dailymail.com/1s/2026/05/29/03/108947555-0-image-m-60_1780022047246.jpg",
+        "date": "May 29, 2026",
+        "url": "https://www.dailymail.com/news/article-15857491/Blue-Origin-New-Glenn-rocket-explodes.html"
+    },
+    {
+        "id": "6m7d8l71f",
+        "title": "Labour markets may risk a milder shock than AI fantasies suggest, but that’s only partial relief",
+        "excerpt": "The business drive for automation is turning out to be bumpy as the actual costs of adopting artificial intelligence (AI) come into view and the buzz around an AI bubble grows louder. But that’s unlikely to spell much of a reprieve for human workers.",
+        "content": "<p>The business drive for automation is turning out to be bumpy as the actual costs of adopting artificial intelligence (AI) come into view and the buzz around an AI bubble grows louder. But that’s unlikely to spell much of a reprieve for human workers.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/05/28/1600x900/logo/AI_1778208440245_1778208454217_1779974434241_9883d9dd-5ca4-4a48-9a1d-6271dec44167.jpg",
+        "date": "May 29, 2026",
+        "url": "https://www.livemint.com/opinion/online-views/labour-markets-robotics-ai-artificial-intelligence-automation-jobs-future-business-costs-workers-11779973010496.html"
+    },
+    {
+        "id": "1tgzno3ek",
+        "title": "What’s Going on With the Transitional Blush Chatter on TikTok",
+        "excerpt": "Celebrity makeup artists Ngozi Esther Edeme, of Painted by Esther, and Patrick Ta, of Patrick Ta Beauty, have weighed in on a recent transitional blush technique.",
+        "content": "<p>Celebrity makeup artists Ngozi Esther Edeme, of Painted by Esther, and Patrick Ta, of Patrick Ta Beauty, have weighed in on a recent transitional blush technique.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-05/painted-by-esther-patrick-ta-lc-260528-9a9c1d.jpg",
+        "date": "May 29, 2026",
+        "url": "https://www.today.com/style/beauty/transitional-blush-controversy-rcna347445"
+    },
+    {
+        "id": "d3ytscbwd",
+        "title": "Martina McBride, Young MC & More Acts Drop Out of Freedom 250 ‘Great American State Fair’ Concert Series",
+        "excerpt": "More artists are dropping out of performing at the upcoming Great American State Fair concert series as part of the […]\nThe post Martina McBride, Young MC & More Acts Drop Out of Freedom 250 ‘Great American State Fair’ Concert Series appeared first on Just Ja…",
+        "content": "<p>More artists are dropping out of performing at the upcoming Great American State Fair concert series as part of the […]\nThe post Martina McBride, Young MC & More Acts Drop Out of Freedom 250 ‘Great American State Fair’ Concert Series appeared first on Just Ja…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/martina-drops.jpg",
+        "date": "May 29, 2026",
+        "url": "https://www.justjared.com/2026/05/28/martina-mcbride-young-mc-more-acts-drop-out-of-freedom-250-great-american-state-fair-concert-series/"
+    },
+    {
+        "id": "4jkddlfdg",
+        "title": "CNN sues Perplexity alleging ‘massive’ copyright infringement",
+        "excerpt": "CNN today opened a lawsuit against the AI firm Perplexity AI Inc., alleging the company has violated copyright protections by using artificial intelligence to re-write its reporting, thereby undermining the foundation of its economic model. CNN now joins a lo…",
+        "content": "<p>CNN today opened a lawsuit against the AI firm Perplexity AI Inc., alleging the company has violated copyright protections by using artificial intelligence to re-write its reporting, thereby undermining the foundation of its economic model. CNN now joins a lo…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/pcrm-dorego-LwXgxxDMU38-unsplash.jpg",
+        "date": "May 29, 2026",
+        "url": "https://siliconangle.com/2026/05/28/cnn-sues-perplexity-alleging-massive-copyright-infringement/"
+    },
+    {
+        "id": "jkqsc4iz2",
+        "title": "Trump administration cracks down on Brazil's biggest drug gangs with ‘global terror’ designation",
+        "excerpt": "The State Department designates Brazil's Red Command and PCC as global terrorists, with foreign terrorist organization status effective June 5.",
+        "content": "<p>The State Department designates Brazil's Red Command and PCC as global terrorists, with foreign terrorist organization status effective June 5.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/Brazil-Drug-Cartels.jpeg",
+        "date": "May 29, 2026",
+        "url": "https://www.foxnews.com/politics/trump-administration-cracks-brazils-biggest-drug-gangs-global-terror-designation"
+    },
+    {
+        "id": "551h6x48o",
+        "title": "‘Hacks’ Finale Ending Explained: Every Character’s Fate Revealed (Spoiler-Filled Recap)",
+        "excerpt": "The series finale of Hacks just aired and it was an emotional 45 minutes for longtime fans of the show. […]\nThe post ‘Hacks’ Finale Ending Explained: Every Character’s Fate Revealed (Spoiler-Filled Recap) appeared first on Just Jared - Celebrity News and Goss…",
+        "content": "<p>The series finale of Hacks just aired and it was an emotional 45 minutes for longtime fans of the show. […]\nThe post ‘Hacks’ Finale Ending Explained: Every Character’s Fate Revealed (Spoiler-Filled Recap) appeared first on Just Jared - Celebrity News and Goss…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/hacks-final-episode-expalined.jpg",
+        "date": "May 29, 2026",
+        "url": "https://www.justjared.com/2026/05/28/hacks-finale-ending-explained-every-characters-fate-revealed-spoiler-filled-recap/"
+    },
+    {
         "id": "ojtlfix9u",
         "title": "Adam Silver says NBA will soon use AI for certain calls — here’s how it could work",
         "excerpt": "NBA commissioner Adam Silver said the league will use AI to automate a category of calls.",
