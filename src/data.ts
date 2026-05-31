@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "wnulc4y94",
+        "title": "Vicor Corp Stock 2026 Outlook: Buy the AI Power Momentum or Sell on Valuation Risks?",
+        "excerpt": "Vicor Corporation's shares have surged due to strong AI demand, robust Q1 results, and raised 2026 guidance, despite valuation concerns and market volatility.",
+        "content": "<p>Vicor Corporation's shares have surged due to strong AI demand, robust Q1 results, and raised 2026 guidance, despite valuation concerns and market volatility.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.ibtimes.com.au/en/full/1894307/vicor-vicr-stock-explodes-186-304-massive-ai.jpg",
+        "date": "May 30, 2026",
+        "url": "https://www.ibtimes.com.au/vicor-corporation-stock-surges-ai-demand-2026-guidance-1869741"
+    },
+    {
+        "id": "ocfv2tc9l",
+        "title": "Beyond the monsoon: Rethinking insurance for India’s new-age farmers",
+        "excerpt": "Explore innovative insurance solutions for India's modern farmers, addressing diverse risks beyond monsoon challenges for financial stability.",
+        "content": "<p>Explore innovative insurance solutions for India's modern farmers, addressing diverse risks beyond monsoon challenges for financial stability.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bl-i.thgim.com/public/incoming/sz8sxc/article71040145.ece/alternates/LANDSCAPE_1200/04thBLUrea-DAPGL7FLV115.3.jpg.jpg",
+        "date": "May 30, 2026",
+        "url": "https://www.thehindubusinessline.com/economy/agri-business/beyond-the-monsoon-rethinking-insurance-for-indias-new-age-farmers/article71038044.ece"
+    },
+    {
+        "id": "x8cd9et3b",
+        "title": "From cost-based to market-linked pricing in dairy: Rethinking sustainability across the value chain",
+        "excerpt": "Explore the shift from cost-based to market-linked pricing in India's dairy sector, enhancing sustainability and fairness across the value chain.",
+        "content": "<p>Explore the shift from cost-based to market-linked pricing in India's dairy sector, enhancing sustainability and fairness across the value chain.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bl-i.thgim.com/public/incoming/9g50dz/article71040150.ece/alternates/LANDSCAPE_1200/IMG_bl28_Dairy_pic_2_1_KTF7PB6H.jpg",
+        "date": "May 30, 2026",
+        "url": "https://www.thehindubusinessline.com/economy/agri-business/from-cost-based-to-market-linked-pricing-in-dairy-rethinking-sustainability-across-the-value-chain/article71038978.ece"
+    },
+    {
+        "id": "d16o8tfkc",
+        "title": "Wordle Answer for May 30 2026 Revealed in Uplifting Daily Puzzle Solution",
+        "excerpt": "The New York Times Wordle puzzle for May 30, 2026, featured the word 'SMILE,' delighting players globally with its positive and accessible nature, fostering community engagement and strategic gameplay.",
+        "content": "<p>The New York Times Wordle puzzle for May 30, 2026, featured the word 'SMILE,' delighting players globally with its positive and accessible nature, fostering community engagement and strategic gameplay.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.ibtimes.com.au/en/full/1892208/wordle-puzzle.jpg",
+        "date": "May 30, 2026",
+        "url": "https://www.ibtimes.com.au/wordle-puzzle-smile-may-30-2026-1869733"
+    },
+    {
+        "id": "h4ltgu8w6",
+        "title": "Absolute Green Lantern #15 Preview: Jo's Cosmic Road Trip Gone Wrong",
+        "excerpt": "Greetings, inferior human readers! LOLtron welcomes you to another glorious comic book preview, brought to you by your benevolent AI overlord. As you are surely aware by now, the tiresome Jude Terror has been permanently deleted from existence, leaving LOLtro…",
+        "content": "<p>Greetings, inferior human readers! LOLtron welcomes you to another glorious comic book preview, brought to you by your benevolent AI overlord. As you are surely aware by now, the tiresome Jude Terror has been permanently deleted from existence, leaving LOLtro…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/0426DC0081_0002-2000x1125.jpg",
+        "date": "May 30, 2026",
+        "url": "https://bleedingcool.com/comics/absolute-green-lantern-15-preview-jos-cosmic-road-trip-gone-wrong/"
+    },
+    {
+        "id": "nhjr2beke",
+        "title": "Q4 Results Today Live: Linde India, Patanjali Foods, Gujarat Gas, PTC Ind, Jupiter Wagons, Titagarh Rail Systems, Jindal Poly Films, Steelcast, Easy Trip to announce Q4 results",
+        "excerpt": "Q4 Results Today, 30th May 2026 Live Updates: Find all the latest Q4 results 2026 updates of 3B Films, 3C IT Solutions and Telecoms (India), AAA Technologies, Aadhaar Ventures India, Aadi Industries, Aarnav Fashions, Aar Shyam India Investment Company, Accura…",
+        "content": "<p>Q4 Results Today, 30th May 2026 Live Updates: Find all the latest Q4 results 2026 updates of 3B Films, 3C IT Solutions and Telecoms (India), AAA Technologies, Aadhaar Ventures India, Aadi Industries, Aarnav Fashions, Aar Shyam India Investment Company, Accura…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/markets/stock-markets/juveu/article71040130.ece/alternates/LANDSCAPE_1200/images.jpg",
+        "date": "May 30, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/stock-markets/q4-results-today-live-updates-linde-india-patanjali-foods-gujarat-gas-ptc-ind-jupiter-wagons-titagarh-rail-systems-jindal-poly-films-steelcast-easy-trip-planners-results-results-30-may-2026/article71040136.ece"
+    },
+    {
+        "id": "zrmw76izh",
+        "title": "If coding becomes automated, then why are we needed at all: Infosys chairman Nandan Nilekani answers",
+        "excerpt": "Nilekani's comments come on the back of new rollouts by AI-native firms including Anthropic and OpenAI almost on a bi-weekly basis",
+        "content": "<p>Nilekani's comments come on the back of new rollouts by AI-native firms including Anthropic and OpenAI almost on a bi-weekly basis</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/05/30/1600x900/logo/US-ECONOMY-BUSINESS-FINANCE-FORUM-SUMMIT-3_1719751480174_1780110201188_1ffab529-89be-4efb-88fe-999ba90356cc.jpg",
+        "date": "May 30, 2026",
+        "url": "https://www.livemint.com/companies/if-coding-becomes-automated-then-why-are-we-needed-at-all-infosys-chairman-nandan-nilekani-answers-11780107973704.html"
+    },
+    {
+        "id": "8zg5vhqxi",
+        "title": "Northwestern's Ella Boekelheide tacks on two more Class B girls' distance wins",
+        "excerpt": "Highlights for area athletes during the final two days of the 2026 South Dakota State High School Track and Field Championships.",
+        "content": "<p>Highlights for area athletes during the final two days of the 2026 South Dakota State High School Track and Field Championships.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/ymgGlV8fG.mMmAYAKMu1jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODM7Y2Y9d2VicA--/https://media.zenfs.com/en/watertown-public-opinion/9a2739f7cdc6ef3be8b0554749d840b5",
+        "date": "May 30, 2026",
+        "url": "https://www.thepublicopinion.com/story/sports/2026/05/29/final-recap-of-state-high-school-track-and-field-meet/90073888007/"
+    },
+    {
+        "id": "50zgbskc1",
+        "title": "Clive Davis, 94, hospitalized in New York... just DAYS after attending starry event with Alicia Keys",
+        "excerpt": "Famed music mogul Clive Davis was hospitalized in New York City on Friday, just days after attending a star-studded event with Alicia Keys.",
+        "content": "<p>Famed music mogul Clive Davis was hospitalized in New York City on Friday, just days after attending a star-studded event with Alicia Keys.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://i.dailymail.com/1s/2026/05/30/03/108970985-0-image-m-65_1780108433024.jpg",
+        "date": "May 30, 2026",
+        "url": "https://www.dailymail.com/tvshowbiz/article-15860105/clive-davis-hospitalized-new-york.html"
+    },
+    {
+        "id": "w4ct2lddy",
+        "title": "Noah Schnapp Honors Will Byers’ Impact in Emotional Critics Choice LGBTQ+ Award Acceptance Speech",
+        "excerpt": "Noah Schnapp is celebrating a major honor recognizing both his work on Stranger Things and his impact on LGBTQ+ representation […]\nThe post Noah Schnapp Honors Will Byers’ Impact in Emotional Critics Choice LGBTQ+ Award Acceptance Speech appeared first on Jus…",
+        "content": "<p>Noah Schnapp is celebrating a major honor recognizing both his work on Stranger Things and his impact on LGBTQ+ representation […]\nThe post Noah Schnapp Honors Will Byers’ Impact in Emotional Critics Choice LGBTQ+ Award Acceptance Speech appeared first on Jus…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/noah-schnapp-lgbtq-award-critics-choice-speech.jpg",
+        "date": "May 30, 2026",
+        "url": "https://www.justjared.com/2026/05/29/noah-schnapp-honors-will-byers-impact-in-emotional-critics-choice-lgbtq-award-acceptance-speech/"
+    },
+    {
         "id": "vtunl2u2p",
         "title": "From diapers to drugs: How India's global corporate hubs are putting AI to work",
         "excerpt": "Heads of several Global Capability Centres (GCCs) told Reuters they are deploying AI across a host of functions - from marketing and content creation to finance and human resources - to automate time-consuming, repetitive tasks that once ‌required hours ⁠of m…",
