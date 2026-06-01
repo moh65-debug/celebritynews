@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "3pda92lp9",
+        "title": "Port Byron Riverdale brings Byron’s baseball season to an end",
+        "excerpt": "The Byron Tigers won't be playing in their own sectional that they'll host next week. They saw their postseason end Saturday when they lost to Port Byron Riverdale 11-8.",
+        "content": "<p>The Byron Tigers won't be playing in their own sectional that they'll host next week. They saw their postseason end Saturday when they lost to Port Byron Riverdale 11-8.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/wtvo_rockford_articles_137/1d9fdc1eb2ef8d5c3ff22386f81dd55a",
+        "date": "May 31, 2026",
+        "url": "https://www.mystateline.com/sports/high-school-sports/port-byron-riverdale-brings-byrons-baseball-season-to-an-end/"
+    },
+    {
+        "id": "yq4nd0ffg",
+        "title": "Highlights/scores: High school baseball regional finals (5-30-26)",
+        "excerpt": "CENTRAL ILLINOIS (WCIA) — Local baseball teams took the field to play for regional titles and a ticket to the sectional semifinals. Glenwood 2, Mt. Zion 1 Unity 6, Monticello 0 St. Joseph-Ogden 10, Bismarck-Henning-Rossville-Alvin 0 Pleasant Plains 4, Rochest…",
+        "content": "<p>CENTRAL ILLINOIS (WCIA) — Local baseball teams took the field to play for regional titles and a ticket to the sectional semifinals. Glenwood 2, Mt. Zion 1 Unity 6, Monticello 0 St. Joseph-Ogden 10, Bismarck-Henning-Rossville-Alvin 0 Pleasant Plains 4, Rochest…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/wcia_champaign_articles_414/e3228b073e5d0f1d525ef8d9ede15544",
+        "date": "May 31, 2026",
+        "url": "https://www.wcia.com/sports/high-school-sports/highlights-scores-high-school-baseball-regional-finals-5-30-26/"
+    },
+    {
+        "id": "0gai791q5",
+        "title": "Alibaba Group signs 6-year AI deal with Uefa, will bring 360 replay tech to major events",
+        "excerpt": "Alibaba Group and Uefa are bringing the Chinese giant’s 360-degree replay technology to football, after signing an exclusive six-year deal covering several major tournaments in Europe.\nThe partnership, which has been widely reported in state media, will see t…",
+        "content": "<p>Alibaba Group and Uefa are bringing the Chinese giant’s 360-degree replay technology to football, after signing an exclusive six-year deal covering several major tournaments in Europe.\nThe partnership, which has been widely reported in state media, will see t…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/31/9a9977cc-5728-4291-8775-dcc6810fd4ac_09c0925c.jpg?itok=S0_29b_g&v=1780198955",
+        "date": "May 31, 2026",
+        "url": "https://www.scmp.com/sport/football/article/3355442/alibaba-group-signs-6-year-ai-deal-uefa-will-bring-360-replay-tech-major-events"
+    },
+    {
+        "id": "b6cx32i4p",
+        "title": "Iranians back on internet after blackout — and send anti-regime videos viral",
+        "excerpt": "After being cut off from the world for more than 12 weeks, Iranians have come back online. Their initial reactions are joy, shock and confusion.",
+        "content": "<p>After being cut off from the world for more than 12 weeks, Iranians have come back online. Their initial reactions are joy, shock and confusion.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/9e8c4384ffc6a7c8c320e071d1dd5938?impolicy=wcms_watermark_news&cropH=345&cropW=614&xPos=0&yPos=220&width=862&height=485&imformat=generic",
+        "date": "May 31, 2026",
+        "url": "https://www.abc.net.au/news/2026-05-31/iran-internet-blackout-january-protests-new-videos/106665102"
+    },
+    {
+        "id": "iho76z85s",
+        "title": "The CW Unveils ‘All American’ 8th & Final Season Trailer, Teases Emotional End to Football Drama – Watch Now!",
+        "excerpt": "All American is coming to an end this summer! The CW just released the trailer for the drama television show’s […]\nThe post The CW Unveils ‘All American’ 8th & Final Season Trailer, Teases Emotional End to Football Drama – Watch Now! appeared first on Just Ja…",
+        "content": "<p>All American is coming to an end this summer! The CW just released the trailer for the drama television show’s […]\nThe post The CW Unveils ‘All American’ 8th & Final Season Trailer, Teases Emotional End to Football Drama – Watch Now! appeared first on Just Ja…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/all-american-8th-final-season-trailer.jpg",
+        "date": "May 31, 2026",
+        "url": "https://www.justjared.com/2026/05/30/the-cw-unveils-all-american-8th-final-season-trailer-teases-emotional-end-to-football-drama-watch-now/"
+    },
+    {
+        "id": "cniorg24z",
+        "title": "Firms spent heavily on AI. Now rising costs are outpacing its value",
+        "excerpt": "AI is getting expensive – and companies are starting to rethink their embrace of the disruptive technology.\nPlaying by a well-worn Silicon Valley playbook, artificial intelligence companies charged rock-bottom prices to hook customers after ChatGPT burst onto…",
+        "content": "<p>AI is getting expensive – and companies are starting to rethink their embrace of the disruptive technology.\nPlaying by a well-worn Silicon Valley playbook, artificial intelligence companies charged rock-bottom prices to hook customers after ChatGPT burst onto…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/31/2f08dbb9-cc38-44da-93f1-7215a8d5bbb9_ce59741c.jpg?itok=_3vDEGW1&v=1780197075",
+        "date": "May 31, 2026",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3355439/firms-spent-heavily-ai-now-rising-costs-are-outpacing-its-value"
+    },
+    {
+        "id": "0gbam6tzo",
+        "title": "How a decade-long bet on photonics handed this Chinese venture capital firm an AI windfall",
+        "excerpt": "As artificial intelligence strains the physical limits of existing data centres, scientists and investors are turning to the ultimate speed limit of the universe for the next computing frontier: light.\nFor Mi Lei, founder of CAS Star, a venture capital firm b…",
+        "content": "<p>As artificial intelligence strains the physical limits of existing data centres, scientists and investors are turning to the ultimate speed limit of the universe for the next computing frontier: light.\nFor Mi Lei, founder of CAS Star, a venture capital firm b…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/29/3add6c3a-2f2d-4acc-a9c0-d000d3de8553_70e1ba3e.jpg?itok=Nz4NFt-2&v=1780059567",
+        "date": "May 31, 2026",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3355360/how-decade-long-bet-photonics-handed-chinese-venture-capital-firm-ai-windfall"
+    },
+    {
+        "id": "f6gq7ywgv",
+        "title": "In era of AI, deepfake, credibility crisis looms largest: Scindia on challenges for journalism",
+        "excerpt": "Union minister Jyotiraditya Scindia highlighted journalism's evolution.  He noted past struggles with censorship and limited resources.  Today, challenges include AI and deepfakes, leading to a credibility crisis.  Scindia emphasized journalism's role in pres…",
+        "content": "<p>Union minister Jyotiraditya Scindia highlighted journalism's evolution.  He noted past struggles with censorship and limited resources.  Today, challenges include AI and deepfakes, leading to a credibility crisis.  Scindia emphasized journalism's role in pres…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131418047,width-1200,height-630,imgsize-54154,overlay-economictimes/articleshow.jpg",
+        "date": "May 31, 2026",
+        "url": "https://economictimes.indiatimes.com/news/india/in-era-of-ai-deepfake-credibility-crisis-looms-largest-scindia-on-challenges-for-journalism/articleshow/131417981.cms"
+    },
+    {
+        "id": "kwdak1elu",
+        "title": "Google techie bet $2.7 million on Polymarket with company secrets, won $1.2 million, then FBI caught him",
+        "excerpt": "Michele Spagnuolo, 36, spent a decade earning awards and speaking invitations for his cybersecurity work at Google. Prosecutors now allege he used nonpublic data about the world's most-searched people to place $2.7 million in bets on Polymarket and pocket mor…",
+        "content": "<p>Michele Spagnuolo, 36, spent a decade earning awards and speaking invitations for his cybersecurity work at Google. Prosecutors now allege he used nonpublic data about the world's most-searched people to place $2.7 million in bets on Polymarket and pocket mor…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/Screenshot_2026-05-31_074642_1780194403807_1780194408095_d0965a9b-1b8b-4cb2-8e08-510e2b8131b6.jpg",
+        "date": "May 31, 2026",
+        "url": "https://www.livemint.com/companies/people/google-techie-bet-2-7-million-on-polymarket-with-company-secrets-won-1-2-million-then-fbi-caught-him-11780192078694.html"
+    },
+    {
+        "id": "lokrvcm1e",
+        "title": "10 Classic Sci-Fi Books You Should Read In 2026",
+        "excerpt": "From alien invasions to advanced technology, these classic science fiction novels tackled topics that are still worth exploring in 2026.",
+        "content": "<p>From alien invasions to advanced technology, these classic science fiction novels tackled topics that are still worth exploring in 2026.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/lee-pace-as-brother-day-in-foundation-on-apple-tv.jpg?w=1600&h=900&fit=crop",
+        "date": "May 31, 2026",
+        "url": "https://screenrant.com/classic-sci-fi-books-worth-reading-2026/"
+    },
+    {
         "id": "wnulc4y94",
         "title": "Vicor Corp Stock 2026 Outlook: Buy the AI Power Momentum or Sell on Valuation Risks?",
         "excerpt": "Vicor Corporation's shares have surged due to strong AI demand, robust Q1 results, and raised 2026 guidance, despite valuation concerns and market volatility.",
