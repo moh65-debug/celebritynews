@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "cjuk1y31v",
+        "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide",
+        "excerpt": "NVIDIA GTC Taipei -- NVIDIA today announced the NVIDIA Vera Rubin platform is ramping into full production to power agentic AI factories worldwide.",
+        "content": "<p>NVIDIA GTC Taipei -- NVIDIA today announced the NVIDIA Vera Rubin platform is ramping into full production to power agentic AI factories worldwide.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://iprsoftwaremedia.com/219/files/202605/5997ef43d2b38e2687c10b6f62ed633a/6a1c7fc23d6332ecbb1d64a7_nvidia-vera-rubin-platform/nvidia-vera-rubin-platform_72a0541c-6fc0-4962-8b28-d72709e8c4cb-prv.jpg",
+        "date": "Jun 1, 2026",
+        "url": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory"
+    },
+    {
+        "id": "wo3z6fstg",
+        "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide",
+        "excerpt": "News Summary:  NVIDIA Vera Rubin is ramping into full production, with Taiwan’s top server makers and global supply chain leaders manufacturing Vera...",
+        "content": "<p>News Summary:  NVIDIA Vera Rubin is ramping into full production, with Taiwan’s top server makers and global supply chain leaders manufacturing Vera...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://ml.globenewswire.com/Resource/Download/36308858-70d2-40d8-9bbb-38c3d455e347",
+        "date": "Jun 1, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/06/01/3303979/0/en/NVIDIA-Vera-Rubin-Ramps-Into-Full-Production-to-Power-Agentic-AI-Factories-Worldwide.html"
+    },
+    {
+        "id": "svr1j48mf",
+        "title": "US moves to block Nvidia AI chips from reaching Chinese firms overseas",
+        "excerpt": "The US Commerce Department has moved to close a potential export-control loophole that may have allowed Chinese technology companies to obtain advanced AI chips, including Nvidia's Blackwell processors, through subsidiaries outside China, according to Reuters.",
+        "content": "<p>The US Commerce Department has moved to close a potential export-control loophole that may have allowed Chinese technology companies to obtain advanced AI chips, including Nvidia's Blackwell processors, through subsidiaries outside China, according to Reuters.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260601vl206_files/1_2b.jpg",
+        "date": "Jun 1, 2026",
+        "url": "https://www.digitimes.com/news/a20260601VL206/nvidia-chips-usa-china-export-restrictions-guidance.html"
+    },
+    {
+        "id": "ouxt9wr65",
+        "title": "Rick and Morty S09E02 \"Rick Days, Seven Nights\": His Own Worst Enemy",
+        "excerpt": "After being blindsided by the return of Evil Morty during last weekend's return (more on that below), we're pretty much going to be running paranoid for the remainder of Adult Swim's Rick and Morty Season 9. For example, based on what we saw, we're assuming t…",
+        "content": "<p>After being blindsided by the return of Evil Morty during last weekend's return (more on that below), we're pretty much going to be running paranoid for the remainder of Adult Swim's Rick and Morty Season 9. For example, based on what we saw, we're assuming t…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/MixCollage-31-May-2026-08-55-PM-5491-2000x1125.jpg",
+        "date": "Jun 1, 2026",
+        "url": "https://bleedingcool.com/tv/rick-and-morty-s09e02-rick-days-seven-nights-his-own-worst-enemy/"
+    },
+    {
+        "id": "5smrmoiau",
+        "title": "Nvidia courts Korea's industrial giants ahead of COMPUTEX",
+        "excerpt": "Nvidia chief executive Jensen Huang's pre-Computex meetings in Taipei are drawing close attention from South Korean companies seeking a bigger role in the global AI supply chain. With demand for AI infrastructure rising, their interest reflects how the next p…",
+        "content": "<p>Nvidia chief executive Jensen Huang's pre-Computex meetings in Taipei are drawing close attention from South Korean companies seeking a bigger role in the global AI supply chain. With demand for AI infrastructure rising, their interest reflects how the next p…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260601pd226_files/1_b.jpg",
+        "date": "Jun 1, 2026",
+        "url": "https://www.digitimes.com/news/a20260601PD226/nvidia-taipei-jensen-huang-samsung-supply-chain.html"
+    },
+    {
+        "id": "x85jcdrww",
+        "title": "NVIDIA DSX Gives Infrastructure Builders the Playbook for AI Factories",
+        "excerpt": "News Summary:  Engineered from the ground up for AI factories, the NVIDIA DSX platform defines how next-generation infrastructure is designed, built and...",
+        "content": "<p>News Summary:  Engineered from the ground up for AI factories, the NVIDIA DSX platform defines how next-generation infrastructure is designed, built and...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://ml.globenewswire.com/Resource/Download/ab7c906c-4467-47b2-942a-b09fcd152f65",
+        "date": "Jun 1, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/06/01/3303978/0/en/NVIDIA-DSX-Gives-Infrastructure-Builders-the-Playbook-for-AI-Factories.html"
+    },
+    {
+        "id": "a48ox9jtr",
+        "title": "Angus Cloud Returns In ‘Euphoria’ Season 3 Finale Through Flashback Sequences, Creator Sam Levinson Talks Honoring Late Actor",
+        "excerpt": "Angus Cloud made a surprise return in the season three finale of Euphoria. The late actor, who played Fezco in […]\nThe post Angus Cloud Returns In ‘Euphoria’ Season 3 Finale Through Flashback Sequences, Creator Sam Levinson Talks Honoring Late Actor appeared …",
+        "content": "<p>Angus Cloud made a surprise return in the season three finale of Euphoria. The late actor, who played Fezco in […]\nThe post Angus Cloud Returns In ‘Euphoria’ Season 3 Finale Through Flashback Sequences, Creator Sam Levinson Talks Honoring Late Actor appeared …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/05/angus-finale.jpg",
+        "date": "Jun 1, 2026",
+        "url": "https://www.justjared.com/2026/05/31/angus-cloud-returns-in-euphoria-season-3-finale-through-flashback-sequences-creator-sam-levinson-talks-honoring-late-actor/"
+    },
+    {
+        "id": "xs3s34dof",
+        "title": "Central Illinois sweeps 800, Dunlap’s Peterson with historic discus throw, PCS’ Brickner repeats at hurdles",
+        "excerpt": "CHARLESTON, Ill. (WMBD) – An exhilarating Saturday for our boys track and field athletes at the state meet in Charleston Central Illinois swept the 800 in all three classes. Washington’s Ben Gorsage took first in 3A, and was less than two-tenths of a second f…",
+        "content": "<p>CHARLESTON, Ill. (WMBD) – An exhilarating Saturday for our boys track and field athletes at the state meet in Charleston Central Illinois swept the 800 in all three classes. Washington’s Ben Gorsage took first in 3A, and was less than two-tenths of a second f…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/os/en/wmbd_peoria_articles_757/b53e89d523c74c02c14ef5dd3a4bd6f7",
+        "date": "Jun 1, 2026",
+        "url": "https://www.centralillinoisproud.com/news/local-news/central-illinois-sweeps-800-dunlaps-peterson-with-historic-discus-throw-pcs-brickner-repeats-at-hurdles/"
+    },
+    {
+        "id": "pgumzmdix",
+        "title": "Stocks Hit Record on AI Rally, Oil Rises on Iran: Markets Wrap",
+        "excerpt": "Stocks rose to a record as investors doubled down on the artificial intelligence trade that’s powered equities to all-time highs. Oil climbed as a US-Iran ceasefire deal remained elusive.",
+        "content": "<p>Stocks rose to a record as investors doubled down on the artificial intelligence trade that’s powered equities to all-time highs. Oil climbed as a US-Iran ceasefire deal remained elusive.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/05/us-stocks-match-longest-win-streak-since-1985.jpg",
+        "date": "Jun 1, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/stocks-hit-record-on-ai-rally-oil-rises-on-iran-markets-wrap"
+    },
+    {
+        "id": "spk8w7dqu",
+        "title": "US proposes ceasefire plan to Lebanon and Israel as crypto markets watch for risk-on signals",
+        "excerpt": "The proposed ceasefire could stabilize regional tensions, impacting global markets and crypto investments by reducing geopolitical risk.\nThe post US proposes ceasefire plan to Lebanon and Israel as crypto markets watch for risk-on signals appeared first on Cr…",
+        "content": "<p>The proposed ceasefire could stabilize regional tensions, impacting global markets and crypto investments by reducing geopolitical risk.\nThe post US proposes ceasefire plan to Lebanon and Israel as crypto markets watch for risk-on signals appeared first on Cr…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/31224827/lebanon-flag-waving-at-cloudy-sky-background-stock-illustrat.jpeg",
+        "date": "Jun 1, 2026",
+        "url": "https://cryptobriefing.com/us-ceasefire-plan-lebanon-israel-crypto/"
+    },
+    {
         "id": "3pda92lp9",
         "title": "Port Byron Riverdale brings Byron’s baseball season to an end",
         "excerpt": "The Byron Tigers won't be playing in their own sectional that they'll host next week. They saw their postseason end Saturday when they lost to Port Byron Riverdale 11-8.",
