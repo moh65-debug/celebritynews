@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "xgvx04rve",
+        "title": "China adds data and AI to trade secret rules to block leaks",
+        "excerpt": "Effective Monday, the Regulations on Trade Secret Protection mark the first time Chinese law protects such digital assets as proprietary secrets, according to state broadcaster China Central Television.",
+        "content": "<p>Effective Monday, the Regulations on Trade Secret Protection mark the first time Chinese law protects such digital assets as proprietary secrets, according to state broadcaster China Central Television.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-78880,resizemode-75,msid-131454170/tech/artificial-intelligence/china-adds-data-and-ai-to-trade-secret-rules-to-block-leaks.jpg",
+        "date": "Jun 2, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-adds-data-and-ai-to-trade-secret-rules-to-block-leaks/articleshow/131454170.cms"
+    },
+    {
+        "id": "fhexd2r0d",
+        "title": "Hindustan Unilever launches fragrance R&D centre under €100 million investment programme",
+        "excerpt": "Hindustan Unilever Limited has opened a new Unilever Fragrance Hub in Mumbai. This facility will use science and AI to create new fragrances. It aims to improve product appeal and support premium offerings. The hub will also foster collaboration with academic…",
+        "content": "<p>Hindustan Unilever Limited has opened a new Unilever Fragrance Hub in Mumbai. This facility will use science and AI to create new fragrances. It aims to improve product appeal and support premium offerings. The hub will also foster collaboration with academic…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131454033,width-1200,height-630,imgsize-104708,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 2, 2026",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/hindustan-unilever-launches-fragrance-rd-centre-under-100-million-investment-programme/articleshow/131453916.cms"
+    },
+    {
+        "id": "9t4iq7slh",
+        "title": "Hannah Waddingham Opens Up About Her ‘Love-Hate Relationship’ with Jason Sudeikis",
+        "excerpt": "Hannah Waddingham is opening up about working with Ted Lasso co-creator and star Jason Sudeikis as the beloved Apple TV […]\nThe post Hannah Waddingham Opens Up About Her ‘Love-Hate Relationship’ with Jason Sudeikis appeared first on Just Jared - Celebrity New…",
+        "content": "<p>Hannah Waddingham is opening up about working with Ted Lasso co-creator and star Jason Sudeikis as the beloved Apple TV […]\nThe post Hannah Waddingham Opens Up About Her ‘Love-Hate Relationship’ with Jason Sudeikis appeared first on Just Jared - Celebrity New…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/hannah-waddingham-jason-sudeikis.jpg",
+        "date": "Jun 2, 2026",
+        "url": "https://www.justjared.com/2026/06/01/hannah-waddingham-opens-up-about-her-love-hate-relationship-with-jason-sudeikis/"
+    },
+    {
+        "id": "g1fxxngd5",
+        "title": "Americans don’t know how to fight AI. So they’re fighting data centers.",
+        "excerpt": "On its surface, the national revolt against data centers seems simple: They are a nuisance, and people do not want them in their proverbial backyards. But I haven’t been able to let go of the idea that there must be something much deeper driving the backlash …",
+        "content": "<p>On its surface, the national revolt against data centers seems simple: They are a nuisance, and people do not want them in their proverbial backyards. But I haven’t been able to let go of the idea that there must be something much deeper driving the backlash …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/05/GettyImages-2277966800.jpg?quality=90&strip=all&crop=0%2C7.4802212162357%2C100%2C85.039557567529&w=1200",
+        "date": "Jun 2, 2026",
+        "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash"
+    },
+    {
+        "id": "miaucx66k",
+        "title": "India in “peak pessimism” phase, but cyclical recovery may lift earnings: Arbind Maheswari",
+        "excerpt": "Indian markets are navigating slow earnings growth and valuation worries. However, experts see early signs of a cyclical recovery. Despite current challenges, a shift in global capital flows and domestic growth drivers could lead to modest returns. Investors …",
+        "content": "<p>Indian markets are navigating slow earnings growth and valuation worries. However, experts see early signs of a cyclical recovery. Despite current challenges, a shift in global capital flows and domestic growth drivers could lead to modest returns. Investors …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131444150,width-1200,height-630,imgsize-317140,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 2, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/india-in-peak-pessimism-phase-but-cyclical-recovery-may-lift-earnings-arbind-maheswari/articleshow/131443559.cms"
+    },
+    {
+        "id": "04z0mt14n",
+        "title": "Building a secure auth code flow setup using AgentCore Gateway with MCP clients",
+        "excerpt": "This post demonstrates how to implement Open Authorization (OAuth) Code flow as an inbound authorization mechanism for MCP servers hosted on Amazon Bedrock AgentCore Gateway. By the end of this guide, you will have a production-ready setup where each AI assis…",
+        "content": "<p>This post demonstrates how to implement Open Authorization (OAuth) Code flow as an inbound authorization mechanism for MCP servers hosted on Amazon Bedrock AgentCore Gateway. By the end of this guide, you will have a production-ready setup where each AI assis…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/26/ML-20412-1.jpg",
+        "date": "Jun 2, 2026",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/"
+    },
+    {
+        "id": "yfd5hboyo",
+        "title": "RBA’s Harper Worries Over ‘Uptick’ in Inflation Expectations",
+        "excerpt": "Australia’s longer-term inflation expectations have edged higher, with financial markets now anticipating consumer prices will remain above the Reserve Bank’s target for an extended period — a shift not seen in years, according to RBA board member Ian Harper.",
+        "content": "<p>Australia’s longer-term inflation expectations have edged higher, with financial markets now anticipating consumer prices will remain above the Reserve Bank’s target for an extended period — a shift not seen in years, according to RBA board member Ian Harper.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/traders-have-slashed-rba-hike-expectations-since-may-meeting.jpg",
+        "date": "Jun 2, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/rbas-harper-worries-over-uptick-in-inflation-expectations"
+    },
+    {
+        "id": "s8gv8y2zp",
+        "title": "Anthropic IPO filing ratifies Wall Street's AI obsession",
+        "excerpt": "Tech stocks continue to lead ​the Nasdaq Composite and S&P 500 in a record-breaking market rally, while Elon Musk's SpaceX is set to price its ​IPO this month and Anthropic rival OpenAI, led by Sam Altman, is waiting on deck.",
+        "content": "<p>Tech stocks continue to lead ​the Nasdaq Composite and S&P 500 in a record-breaking market rally, while Elon Musk's SpaceX is set to price its ​IPO this month and Anthropic rival OpenAI, led by Sam Altman, is waiting on deck.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-30616,resizemode-75,msid-131453395/tech/technology/anthropic-ipo-filing-ratifies-wall-streets-ai-obsession.jpg",
+        "date": "Jun 2, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-ipo-filing-ratifies-wall-streets-ai-obsession/articleshow/131453395.cms"
+    },
+    {
+        "id": "tohru1cg4",
+        "title": "Bill Owens, Ex-’60 Minutes’ Boss, Scorns CBS News Overhaul of Show",
+        "excerpt": "The former executive producer of “60 Minutes” took a moment Monday night to issue a warning about what’s happening to the long-running newsmagazine under its latest executive producer — and the people who currently run CBS News, “CBS News and ’60 Minutes’ are…",
+        "content": "<p>The former executive producer of “60 Minutes” took a moment Monday night to issue a warning about what’s happening to the long-running newsmagazine under its latest executive producer — and the people who currently run CBS News, “CBS News and ’60 Minutes’ are…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://variety.com/wp-content/uploads/2019/02/bill-owens-new-e1549494123758.jpg?crop=0px%2C398px%2C3967px%2C2235px&resize=1000%2C563",
+        "date": "Jun 2, 2026",
+        "url": "https://variety.com/2026/tv/news/bill-owens-60-minutes-boss-scorns-cbs-news-1236764634/"
+    },
+    {
+        "id": "os9dz6jsg",
+        "title": "Gotham TV Awards 2026 – Full Winners List Revealed, Plus Photos of Every Celeb Who Attended!",
+        "excerpt": "With just days remaining until voting begins for the Emmys, the 2026 Gotham TV Awards are giving some early insight […]\nThe post Gotham TV Awards 2026 – Full Winners List Revealed, Plus Photos of Every Celeb Who Attended! appeared first on Just Jared - Celebr…",
+        "content": "<p>With just days remaining until voting begins for the Emmys, the 2026 Gotham TV Awards are giving some early insight […]\nThe post Gotham TV Awards 2026 – Full Winners List Revealed, Plus Photos of Every Celeb Who Attended! appeared first on Just Jared - Celebr…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/gotham-all-celebs.jpg",
+        "date": "Jun 2, 2026",
+        "url": "https://www.justjared.com/2026/06/01/gotham-tv-awards-2026-full-winners-list-revealed-plus-photos-of-every-celeb-who-attended/"
+    },
+    {
         "id": "cjuk1y31v",
         "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide",
         "excerpt": "NVIDIA GTC Taipei -- NVIDIA today announced the NVIDIA Vera Rubin platform is ramping into full production to power agentic AI factories worldwide.",
