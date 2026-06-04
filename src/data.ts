@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "te24pxgug",
+        "title": "Albany Democrats poised to impose 1-year ban on new AI data center construction in NY",
+        "excerpt": "The state legislature plans to vote on imposing a one-year ban on constructing new, massive energy-devouring data centers in New York amid a backlash.",
+        "content": "<p>The state legislature plans to vote on imposing a one-year ban on constructing new, massive energy-devouring data centers in New York amid a backlash.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/06/legislature-set-impose-1-year-129533694.jpg?quality=75&strip=all&w=1200",
+        "date": "Jun 3, 2026",
+        "url": "https://nypost.com/2026/06/02/us-news/albany-democrats-poised-to-impose-1-year-ban-on-new-ai-data-center-construction-in-ny/"
+    },
+    {
+        "id": "xdn1pm8sl",
+        "title": "India’s Oil Demand Growth Set for Pandemic Low on War Crunch",
+        "excerpt": "India’s oil demand growth this year could tumble to its lowest level since the pandemic as the fallout from the Middle East conflict saps fuel consumption in the world’s third-biggest crude importer.",
+        "content": "<p>India’s oil demand growth this year could tumble to its lowest level since the pandemic as the fallout from the Middle East conflict saps fuel consumption in the world’s third-biggest crude importer.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/indias-oil-demand-growth-set-to-tumble-on-war-impact-kpler-.jpg",
+        "date": "Jun 3, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/indias-oil-demand-growth-set-for-pandemic-low-on-war-crunch"
+    },
+    {
+        "id": "negjyw31q",
+        "title": "Microsoft Reveals '1,000x More Reliable' Quantum Chip as Bitcoin Threat Draws Nearer",
+        "excerpt": "Microsoft said AI helped speed Majorana 2 development, adding to growing concerns about when quantum computers could threaten Bitcoin's cryptography.",
+        "content": "<p>Microsoft said AI helped speed Majorana 2 development, adding to growing concerns about when quantum computers could threaten Bitcoin's cryptography.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg",
+        "date": "Jun 3, 2026",
+        "url": "https://decrypt.co/369811/microsoft-1000x-more-reliable-quantum-chip-bitcoin-threat-draws-nearer"
+    },
+    {
+        "id": "sjvvsflu8",
+        "title": "The American Missile Crisis",
+        "excerpt": "America's missile production hinges on a small number of ammonium perchlorate facilities, meaning a single plant accident can bring output to a standstill; a concentration risk that has no real equivalent elsewhere in the defense industrial base. AP productio…",
+        "content": "<p>America's missile production hinges on a small number of ammonium perchlorate facilities, meaning a single plant accident can bring output to a standstill; a concentration risk that has no real equivalent elsewhere in the defense industrial base. AP productio…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://images.prismic.io/contrary-research/ahWxgrK9tuLqEJ9a_image8.png?auto=format,compress",
+        "date": "Jun 3, 2026",
+        "url": "https://research.contrary.com/deep-dive/the-american-missile-crisis"
+    },
+    {
+        "id": "haotf4lsj",
+        "title": "Indian IT eyes return to on-site model, but with a talent and cost twist",
+        "excerpt": "From the world’s largest banks to retail majors, customers now increasingly prefer engineers who combine AI expertise with sales and consulting skills to drive end-to-end deployment of the new technology.",
+        "content": "<p>From the world’s largest banks to retail majors, customers now increasingly prefer engineers who combine AI expertise with sales and consulting skills to drive end-to-end deployment of the new technology.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/06/02/1600x900/logo/2-0-881883216-tech-0_1679647720781_1780418764795_307c3fcf-d961-407c-956d-dcdd32b96653.jpg",
+        "date": "Jun 3, 2026",
+        "url": "https://www.livemint.com/companies/indian-it-eyes-return-of-onsite-engineers-but-with-a-twist-11780395527508.html"
+    },
+    {
+        "id": "zw7fpt7lv",
+        "title": "Jio BlackRock plans access to global BlackRock ETFs for Indian investors via GIFT City",
+        "excerpt": "Jio BlackRock is expanding beyond domestic mutual funds, planning to offer Indian investors access to global BlackRock ETFs via its GIFT City platform. CEO Sid Swaminathan highlighted the venture's aim to provide international exposure across various asset cl…",
+        "content": "<p>Jio BlackRock is expanding beyond domestic mutual funds, planning to offer Indian investors access to global BlackRock ETFs via its GIFT City platform. CEO Sid Swaminathan highlighted the venture's aim to provide international exposure across various asset cl…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131474508,width-1200,height-630,imgsize-2720,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 3, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/jio-blackrock-plans-access-to-global-blackrock-etfs-for-indian-investors-via-gift-city/articleshow/131474487.cms"
+    },
+    {
+        "id": "7e5ml3yin",
+        "title": "ETMarkets Smart Talk| Don't mistake foreign outflows for an India exit story; smart money is becoming more selective: Milan Parikh",
+        "excerpt": "Foreign institutional investors are net sellers in Indian equities due to global concerns, but this reflects capital reallocation, not a loss of confidence. Smart money is becoming selective, favoring businesses with strong fundamentals and growth prospects. …",
+        "content": "<p>Foreign institutional investors are net sellers in Indian equities due to global concerns, but this reflects capital reallocation, not a loss of confidence. Smart money is becoming selective, favoring businesses with strong fundamentals and growth prospects. …</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-131458632,width-1200,height-630,imgsize-107338,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 3, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-dont-mistake-foreign-outflows-for-an-india-exit-story-smart-money-is-becoming-more-selective-milan-parikh/articleshow/131458621.cms"
+    },
+    {
+        "id": "x5nj0t0q9",
+        "title": "The Trump White House is ready to regulate AI, but it's exactly the wrong body to do so, and its control could become a problem",
+        "excerpt": "Donald Trump just signed an executive order that gives the US Government unprecedented control over future AI frontier models. This could be a recipe for disaster",
+        "content": "<p>Donald Trump just signed an executive order that gives the US Government unprecedented control over future AI frontier models. This could be a recipe for disaster</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk-1920-80.jpg",
+        "date": "Jun 3, 2026",
+        "url": "https://www.techradar.com/ai-platforms-assistants/the-trump-white-house-is-ready-to-regulate-ai-but-its-exactly-the-wrong-body-to-do-so-and-its-control-could-become-a-problem"
+    },
+    {
+        "id": "egsbzse5h",
+        "title": "AI, data centre boom powers these 9 stocks up to 477% in 2026. Can you still join the party?",
+        "excerpt": "India's data centre industry is experiencing a multi-year growth phase, fueled by digitalization, cloud adoption, and AI demand. This surge is driving significant gains in companies linked to data centre infrastructure, power, and hardware, with analysts sugg…",
+        "content": "<p>India's data centre industry is experiencing a multi-year growth phase, fueled by digitalization, cloud adoption, and AI demand. This surge is driving significant gains in companies linked to data centre infrastructure, power, and hardware, with analysts sugg…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131475067,width-1200,height-630,imgsize-91240,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 3, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-data-centre-boom-powers-these-9-stocks-up-to-477-in-2026-can-you-still-join-the-party/articleshow/131475070.cms"
+    },
+    {
+        "id": "1ci909qh7",
+        "title": "Gordon Ramsay’s Kitchen Nightmares Season 10 Release Date Set for Fox",
+        "excerpt": "Fox just gave Gordon Ramsay fans exactly what they’ve been waiting for. The culinary chaos maestro’s return date has been locked in, and details about the new season are already raising eyebrows. Kitchen Nightmares Season 10 sets premiere date on Fox Fox has …",
+        "content": "<p>Fox just gave Gordon Ramsay fans exactly what they’ve been waiting for. The culinary chaos maestro’s return date has been locked in, and details about the new season are already raising eyebrows. Kitchen Nightmares Season 10 sets premiere date on Fox Fox has …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/06/MixCollage-03-Jun-2026-01-13-PM-8228.jpg?resize=1200,630",
+        "date": "Jun 3, 2026",
+        "url": "https://www.comingsoon.net/tv/news/2141924-gordon-ramsay-kitchen-nightmares-season-10-premiere-date-set-fox"
+    },
+    {
         "id": "xgvx04rve",
         "title": "China adds data and AI to trade secret rules to block leaks",
         "excerpt": "Effective Monday, the Regulations on Trade Secret Protection mark the first time Chinese law protects such digital assets as proprietary secrets, according to state broadcaster China Central Television.",
