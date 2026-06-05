@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "cd2rqkynb",
+        "title": "This research firm says SpaceX is worth less than half its $2.27 trillion IPO target",
+        "excerpt": "A research firm has flagged SpaceX's IPO valuation as significantly overvalued, casting doubt on Elon Musk's target. Read more at straitstimes.com. Read more at straitstimes.com.",
+        "content": "<p>A research firm has flagged SpaceX's IPO valuation as significantly overvalued, casting doubt on Elon Musk's target. Read more at straitstimes.com. Read more at straitstimes.com.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cassette.sphdigital.com.sg/image/straitstimes/f808f5c1af6e1e383201e4148cc7edcf7d18de9452a6d8c57ca458bc03306a88",
+        "date": "Jun 4, 2026",
+        "url": "https://www.straitstimes.com/business/companies-markets/this-research-firm-says-spacex-is-worth-less-than-half-its-2-27-trillion-ipo-target"
+    },
+    {
+        "id": "p8bltv76n",
+        "title": "Google's AI race gets costlier as Alphabet upsizes equity raise to $84.75 billion",
+        "excerpt": "Google parent Alphabet has increased its planned equity raise to nearly $85 billion. The massive investment will help fund spending on data centres, chips and AI infrastructure.",
+        "content": "<p>Google parent Alphabet has increased its planned equity raise to nearly $85 billion. The massive investment will help fund spending on data centres, chips and AI infrastructure.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/06/04/1600x900/logo/GOOGLE-IO-27_1780542978801_1780542992692_ce5df112-1ec6-41de-833e-6b202711a057.jpg",
+        "date": "Jun 4, 2026",
+        "url": "https://www.livemint.com/companies/news/googles-ai-race-gets-costlier-as-alphabet-upsizes-equity-raise-to-84-75-billion-11780540605127.html"
+    },
+    {
+        "id": "wywnchz07",
+        "title": "Nvidia snaps up Kumo AI, a predictive AI startup known for its extreme accuracy",
+        "excerpt": "Nvidia Corp. has bagged itself another artificial intelligence startup, acquiring four-year-old model maker Kumo AI Inc. The company designs AI models focused on making extremely accurate business predictions, and becomes the latest in a string of startups ac…",
+        "content": "<p>Nvidia Corp. has bagged itself another artificial intelligence startup, acquiring four-year-old model maker Kumo AI Inc. The company designs AI models focused on making extremely accurate business predictions, and becomes the latest in a string of startups ac…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-04-10-19-09.png",
+        "date": "Jun 4, 2026",
+        "url": "https://siliconangle.com/2026/06/03/nvidia-snaps-kumo-ai-predictive-ai-startup-known-extreme-accuracy/"
+    },
+    {
+        "id": "ncnq7q3vk",
+        "title": "MiniMed to Expand Sensor Portfolio with Integrated Dual Glucose-Ketone Sensors Made by Abbott",
+        "excerpt": "Agreement builds on the companies' ongoing partnership to expand choice and simplify diabetes management",
+        "content": "<p>Agreement builds on the companies' ongoing partnership to expand choice and simplify diabetes management</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://dims.apnews.com/dims4/default/5104b9e/2147483647/strip/true/crop/476x317+865+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6d%2Fba%2F682107e5e3d497f4133e0690f25f%2Fa221fdec74a405a6e0697f7e74ec73b6",
+        "date": "Jun 4, 2026",
+        "url": "https://apnews.com/press-release/pr-newswire/minimed-to-expand-sensor-portfolio-with-integrated-dual-glucose-ketone-sensors-made-by-abbott-f27ef437eb291a104e9b9466c32f3023"
+    },
+    {
+        "id": "o4wkomimz",
+        "title": "Bridging the Global South: India and South Africa Forge Next-Generation Health and Tech Alliance - Prevention is better than cure",
+        "excerpt": "Spread the Message               NEW DELHI — In a move set to reshape the landscape of healthcare, biotechnology, and digital public infrastructure across the developing world, India and South Africa have agreed to a major escalation of their bilateral scient…",
+        "content": "<p>Spread the Message               NEW DELHI — In a move set to reshape the landscape of healthcare, biotechnology, and digital public infrastructure across the developing world, India and South Africa have agreed to a major escalation of their bilateral scient…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://healthandfamily.in/wp-content/uploads/2026/06/1-5.avif",
+        "date": "Jun 4, 2026",
+        "url": "https://healthandfamily.in/bridging-the-global-south-india-and-south-africa-forge-next-generation-health-and-tech-alliance/"
+    },
+    {
+        "id": "wz78cg867",
+        "title": "THN Archive: NHL Valuations - Nashville Predators",
+        "excerpt": "New owner Bill Haslam brings billion-dollar stability and political patience to Nashville, balancing his massive wealth with a measured approach to the Predators’ front office and future.",
+        "content": "<p>New owner Bill Haslam brings billion-dollar stability and political patience to Nashville, balancing his massive wealth with a measured approach to the Predators’ front office and future.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/jQlZ4A2xoF9_zrqgs9BeYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_hockey_news_nashville_predators_articles_901/5773f8b6a1dc3fda1d443be245050537",
+        "date": "Jun 4, 2026",
+        "url": "https://thehockeynews.com/nhl/nashville-predators/latest-news/thn-archive-nhl-valuations---nashville-predators"
+    },
+    {
+        "id": "xwnelhaga",
+        "title": "Broadcom's second-quarter revenue misses estimates as competition bites",
+        "excerpt": "Second-quarter revenue came in at $22.19 billion, missing estimates of $22.27 billion, as Broadcom races with Nvidia whose dominant graphics processing units remain the ‌industry standard ⁠for AI ⁠workloads.",
+        "content": "<p>Second-quarter revenue came in at $22.19 billion, missing estimates of $22.27 billion, as Broadcom races with Nvidia whose dominant graphics processing units remain the ‌industry standard ⁠for AI ⁠workloads.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-241836,resizemode-75,msid-131495417/tech/technology/broadcoms-second-quarter-revenue-misses-estimates-as-competition-bites.jpg",
+        "date": "Jun 4, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/broadcoms-second-quarter-revenue-misses-estimates-as-competition-bites/articleshow/131495417.cms"
+    },
+    {
+        "id": "2y8tihari",
+        "title": "Megan Thee Stallion Teases Fiery New Music After Klay Thompson Split: ‘All That Wifey S–t is Dead’",
+        "excerpt": "Megan Thee Stallion is preparing for a new era. The rapper sparked buzz on social media on Tuesday (June 2) […]\nThe post Megan Thee Stallion Teases Fiery New Music After Klay Thompson Split: ‘All That Wifey S–t is Dead’ appeared first on Just Jared - Celebrit…",
+        "content": "<p>Megan Thee Stallion is preparing for a new era. The rapper sparked buzz on social media on Tuesday (June 2) […]\nThe post Megan Thee Stallion Teases Fiery New Music After Klay Thompson Split: ‘All That Wifey S–t is Dead’ appeared first on Just Jared - Celebrit…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/meg-thee-stallion-new-music.jpg",
+        "date": "Jun 4, 2026",
+        "url": "https://www.justjared.com/2026/06/03/megan-thee-stallion-teases-fiery-new-music-after-klay-thompson-split-all-that-wifey-s-t-is-dead/"
+    },
+    {
+        "id": "dluxqtzpq",
+        "title": "Why Amazon has struggled to crack the Indian market",
+        "excerpt": "Regulatory challenges, missed acquisition opportunities and slower decision-making have also contributed to Amazon’s struggle to replicate its global success in one of the world’s most important growth markets",
+        "content": "<p>Regulatory challenges, missed acquisition opportunities and slower decision-making have also contributed to Amazon’s struggle to replicate its global success in one of the world’s most important growth markets</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bl-i.thgim.com/public/incoming/ihnc1o/article71059504.ece/alternates/LANDSCAPE_1200/2026-05-06T143315Z_2134097231_RC2O3LAP4AAB_RTRMADP_3_AMAZON-FRANCE.JPG",
+        "date": "Jun 4, 2026",
+        "url": "https://www.bloomberg.com/news/features/2026-06-04/amazon-has-struggled-to-crack-the-world-s-most-populous-nation"
+    },
+    {
+        "id": "vt60n26sz",
+        "title": "Nifty may open 150 points lower as investors track RBI policy and global cues",
+        "excerpt": "Market participants are closely watching the Reserve Bank of India’s monetary policy decision for signals on interest rates, inflation and liquidity",
+        "content": "<p>Market participants are closely watching the Reserve Bank of India’s monetary policy decision for signals on interest rates, inflation and liquidity</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bl-i.thgim.com/public/incoming/kq6dxw/article71051186.ece/alternates/LANDSCAPE_1200/IMG_PO05_stock_graph_2_1_IJ98FEMC.jpg",
+        "date": "Jun 4, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/nifty-may-open-150-points-lower-as-investors-track-rbi-policy-and-global-cues/article71059480.ece"
+    },
+    {
         "id": "te24pxgug",
         "title": "Albany Democrats poised to impose 1-year ban on new AI data center construction in NY",
         "excerpt": "The state legislature plans to vote on imposing a one-year ban on constructing new, massive energy-devouring data centers in New York amid a backlash.",
