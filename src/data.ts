@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "zfhzsou8c",
+        "title": "ASUS finally puts OLED on the ROG Ally X20.. but there’s a catch",
+        "excerpt": "After 3 years since the original ASUS ROG Ally, the brand has finally made the jump from LCD to OLED...\nThe post ASUS finally puts OLED on the ROG Ally X20.. but there’s a catch appeared first on YugaTech | Philippines Tech News & Reviews.",
+        "content": "<p>After 3 years since the original ASUS ROG Ally, the brand has finally made the jump from LCD to OLED...\nThe post ASUS finally puts OLED on the ROG Ally X20.. but there’s a catch appeared first on YugaTech | Philippines Tech News & Reviews.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.yugatech.com/wp-content/uploads/2026/06/260605-ygt-asus-rog-ally-x20-oled-upload-5.webp",
+        "date": "Jun 5, 2026",
+        "url": "https://www.yugatech.com/news/asus-finally-puts-oled-on-the-rog-ally-x20-but-theres-a-catch/"
+    },
+    {
+        "id": "zp15ydptw",
+        "title": "James Gunn’s Superman Sequel Just Showed How Marvel’s Failed Iron Man For Years",
+        "excerpt": "New reveals from the set of James Gunn's Man of Tomorrow highlight a major disappointment with the MCU's Iron Man after Marvel's first phase.",
+        "content": "<p>New reveals from the set of James Gunn's Man of Tomorrow highlight a major disappointment with the MCU's Iron Man after Marvel's first phase.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/david-corenswet-as-superman-flying-in-superman-2025.jpg?w=1600&h=900&fit=crop",
+        "date": "Jun 5, 2026",
+        "url": "https://screenrant.com/man-of-tomorrow-lex-luthor-armor-marvel-has-failed-iron-man-for-years/"
+    },
+    {
+        "id": "kou2v3cc6",
+        "title": "8 new movies and shows to watch on Netflix this weekend: Maa Behen to Office Romance",
+        "excerpt": "With true crime, comedy, romance, sports-inspired drama and international thrillers all arriving within the same week, Netflix's latest lineup offers something for nearly every type of viewer this weekend. From Maa Behen to Office Romance, read on to know whe…",
+        "content": "<p>With true crime, comedy, romance, sports-inspired drama and international thrillers all arriving within the same week, Netflix's latest lineup offers something for nearly every type of viewer this weekend. From Maa Behen to Office Romance, read on to know whe…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://img.etimg.com/thumb/msid-131519996,width-1200,height-630,imgsize-73628,overlay-etpanache/articleshow.jpg",
+        "date": "Jun 5, 2026",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/8-new-movies-and-shows-to-watch-on-netflix-this-weekend-maa-behen-to-office-romance/articleshow/131519548.cms"
+    },
+    {
+        "id": "sfzhx1x4q",
+        "title": "InnoGrit Unveils IG5686 PCI Gen6 SSD Controller With Up To 256 TB Capacities At 28 Gbps, Aims Gen7 SSDs For 2028 With 100 Million IOPS",
+        "excerpt": "Chinese manufacturer InnoGrit has unveiled its first PCIe Gen6 SSD controller, while also giving us a look at what its Gen7 SSDs will have on offer. China Fights Back In The Next-Gen SSD Race With InnoGrit Dishing Out Its IG5686 PCIe Gen6 Controller InnoGrit …",
+        "content": "<p>Chinese manufacturer InnoGrit has unveiled its first PCIe Gen6 SSD controller, while also giving us a look at what its Gen7 SSDs will have on offer. China Fights Back In The Next-Gen SSD Race With InnoGrit Dishing Out Its IG5686 PCIe Gen6 Controller InnoGrit …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.wccftech.com/wp-content/uploads/2026/06/20260603_124609-1440x1920.jpg",
+        "date": "Jun 5, 2026",
+        "url": "https://wccftech.com/innogrit-ig5686-pci-gen6-ssd-controller-up-to-256-tb-capacities-28-gbps-gen7-ssds-2028-100-million-iops/"
+    },
+    {
+        "id": "6fopr53bu",
+        "title": "As enterprise AI scales, Capital One and Snowflake focus on governance and trust",
+        "excerpt": "As AI adoption accelerates, organizations are rethinking how data is governed and shared at scale, with AI-driven data governance emerging as a key priority. New advances in automation and intelligent governance are making trusted data more accessible across …",
+        "content": "<p>As AI adoption accelerates, organizations are rethinking how data is governed and shared at scale, with AI-driven data governance emerging as a key priority. New advances in automation and intelligent governance are making trusted data more accessible across …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/IMG_4761.jpg",
+        "date": "Jun 5, 2026",
+        "url": "https://siliconangle.com/2026/06/04/ai-driven-data-governance-snowflakesummit/"
+    },
+    {
+        "id": "u5149ci4i",
+        "title": "Gold Declines as Uncertainty Surrounds Progress in US-Iran Talks",
+        "excerpt": "Gold was on track for a weekly loss as uncertainty persisted over progress in US-Iran talks to end the war that’s roiled global markets.",
+        "content": "<p>Gold was on track for a weekly loss as uncertainty persisted over progress in US-Iran talks to end the war that’s roiled global markets.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/gold-has-declined-since-start-of-us-iran-war-disruptions-to.jpg",
+        "date": "Jun 5, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/gold-declines-as-uncertainty-surrounds-progress-in-us-iran-talks"
+    },
+    {
+        "id": "aj5gyerqg",
+        "title": "Indiana coach Curt Cignetti featured prominently in EA Sports College Football 27 release trailer",
+        "excerpt": "Curt Cignetti one-liners and a classic facial expression highlight the video game trailer for EA Sports' college football game released late Thursday night.",
+        "content": "<p>Curt Cignetti one-liners and a classic facial expression highlight the video game trailer for EA Sports' college football game released late Thursday night.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/klMVE7xzDH888f3GU.igeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTc7Y2Y9d2VicA--/https://media.zenfs.com/en/indianapolis_star_natl_articles_522/73cba0b264c463e3a188f02c8c8e666a",
+        "date": "Jun 5, 2026",
+        "url": "https://www.indystar.com/story/sports/college/indiana/2026/06/04/indiana-football-curt-cignetti-ea-sports-college-football-27-release-trailer-jamari-sharpe/90414127007/"
+    },
+    {
+        "id": "k5kr7lytg",
+        "title": "Putin hails New Delhi as 'reliable partner'; blasts West over 'detrimental' interference in India-Russia ties",
+        "excerpt": "Russian President Vladimir Putin stated Russia aims to expand its strong relationship with India. He believes US pressure on India to reduce cooperation with Russia is counterproductive. Putin praised India's economic growth and independent foreign policy. He…",
+        "content": "<p>Russian President Vladimir Putin stated Russia aims to expand its strong relationship with India. He believes US pressure on India to reduce cooperation with Russia is counterproductive. Putin praised India's economic growth and independent foreign policy. He…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-131519266,width-1200,height-630,imgsize-71172,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 5, 2026",
+        "url": "https://economictimes.indiatimes.com/news/india/putin-hails-new-delhi-as-reliable-partner-blasts-west-over-detrimental-interference-in-india-russia-ties/articleshow/131519227.cms"
+    },
+    {
+        "id": "8hcsqppg6",
+        "title": "RBI Monetary Policy Meeting June 2026 LIVE: Governor Sanjay Malhotra to announce decisions on repo rate, key policies amid Iran war",
+        "excerpt": "RBI Policy Meeting Today Live Updates: The committee is widely expected to retain the policy repo rate at 5.25%, a small but vocal segment is predicting an interest rate hike on Friday",
+        "content": "<p>RBI Policy Meeting Today Live Updates: The committee is widely expected to retain the policy repo rate at 5.25%, a small but vocal segment is predicting an interest rate hike on Friday</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://images.indianexpress.com/2026/06/rbi-chief-sanjay-malhotra.jpg",
+        "date": "Jun 5, 2026",
+        "url": "https://indianexpress.com/article/india/rbi-monetary-policy-meeting-mpc-june-2026-live-updates-sanjay-malhotra-repo-rate-inflation-10724578/"
+    },
+    {
+        "id": "o17qj26ff",
+        "title": "Putin calls India a ‘reliable partner’, criticises Western pressure on India-Russia ties",
+        "excerpt": "Putin says US pressure on India over Russia ties is ineffective, praises PM Modi's leadership, and backs stronger India-Russia trade and cooperation.",
+        "content": "<p>Putin says US pressure on India over Russia ties is ineffective, praises PM Modi's leadership, and backs stronger India-Russia trade and cooperation.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bl-i.thgim.com/public/incoming/qfsxmg/article71063761.ece/alternates/LANDSCAPE_1200/2026-06-04T192304Z_1708011583_RC25NLAOETOS_RTRMADP_3_RUSSIA-FORUM-PUTIN-MEDIA.JPG",
+        "date": "Jun 5, 2026",
+        "url": "https://www.thehindubusinessline.com/news/putin-calls-india-a-reliable-partner-criticises-western-pressure-on-india-russia-ties/article71063733.ece"
+    },
+    {
         "id": "cd2rqkynb",
         "title": "This research firm says SpaceX is worth less than half its $2.27 trillion IPO target",
         "excerpt": "A research firm has flagged SpaceX's IPO valuation as significantly overvalued, casting doubt on Elon Musk's target. Read more at straitstimes.com. Read more at straitstimes.com.",
