@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "xckpncpi9",
+        "title": "Wall Street Week Ahead: Blockbuster SpaceX IPO set to test high-flying US stocks rally",
+        "excerpt": "SpaceX's massive $75 billion IPO is set to launch next week, potentially valuing the company at $1.75 trillion. Investors are watching closely amid fears of market overexuberance, especially after recent job data fueled concerns about hawkish monetary policy.…",
+        "content": "<p>SpaceX's massive $75 billion IPO is set to launch next week, potentially valuing the company at $1.75 trillion. Investors are watching closely amid fears of market overexuberance, especially after recent job data fueled concerns about hawkish monetary policy.…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131544009,width-1200,height-630,imgsize-95610,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 6, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-blockbuster-spacex-ipo-set-to-test-high-flying-us-stocks-rally/articleshow/131543830.cms"
+    },
+    {
+        "id": "pb9alatnv",
+        "title": "Nicholas Galitzine Reacts to That Special ‘Masters of the Universe’ Cameo",
+        "excerpt": "Masters of the Universe features a special surprise for longtime fans. Spoilers ahead for those who haven’t seen Masters of […]\nThe post Nicholas Galitzine Reacts to That Special ‘Masters of the Universe’ Cameo appeared first on Just Jared - Celebrity News an…",
+        "content": "<p>Masters of the Universe features a special surprise for longtime fans. Spoilers ahead for those who haven’t seen Masters of […]\nThe post Nicholas Galitzine Reacts to That Special ‘Masters of the Universe’ Cameo appeared first on Just Jared - Celebrity News an…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/masters-of-the-universe-cameo.jpg",
+        "date": "Jun 6, 2026",
+        "url": "https://www.justjared.com/2026/06/05/nicholas-galitzine-reacts-to-that-special-masters-of-the-universe-cameo/"
+    },
+    {
+        "id": "j1ajvwjve",
+        "title": "AI chip stocks lose $1.3 trillion in value as semiconductor selloff deepens",
+        "excerpt": "Major AI and chip companies were hit hard, with NVIDIA shedding more than $300 billion in market value, while Micron Technology, Advanced Micro Devices and Marvell Technology posted steep losses.",
+        "content": "<p>Major AI and chip companies were hit hard, with NVIDIA shedding more than $300 billion in market value, while Micron Technology, Advanced Micro Devices and Marvell Technology posted steep losses.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/36386g/article71068417.ece/alternates/LANDSCAPE_1200/IMG_iStock-1289309721_2_1_2LF3AKEK.jpg",
+        "date": "Jun 6, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/ai-chip-stocks-lose-13-trillion-in-value-as-semiconductor-selloff-deepens/article71068390.ece"
+    },
+    {
+        "id": "jk9eze21m",
+        "title": "Adobe CMO outlines three-mode marketing framework for human and AI audiences",
+        "excerpt": "Brands must now market to three audiences at once: people, AI assistants, and the algorithms that filter recommendations on customers' behalf. Adobe's recent test with 145 marketers and 16 AI agents produced over 1,000 assets across 60 sessions.",
+        "content": "<p>Brands must now market to three audiences at once: people, AI assistants, and the algorithms that filter recommendations on customers' behalf. Adobe's recent test with 145 marketers and 16 AI agents produced over 1,000 assets across 60 sessions.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.completeaitraining.com/news_images/adobe-cmo-outlines-three-mode-marketing-framework-for-human-and-ai-audiences_2026-06-05.jpg",
+        "date": "Jun 6, 2026",
+        "url": "https://completeaitraining.com/news/adobe-cmo-outlines-three-mode-marketing-framework-for-human/"
+    },
+    {
+        "id": "arq2lj839",
+        "title": "Marvell to join S&P 500 after AI boom helps chipmaker pass profitability test",
+        "excerpt": "The company will replace swimming pool equipment distributor PoolCorp on the benchmark index before the start of trading on ‌June 22. Marvell ⁠shares ⁠jumped nearly 6% in extended trading.",
+        "content": "<p>The company will replace swimming pool equipment distributor PoolCorp on the benchmark index before the start of trading on ‌June 22. Marvell ⁠shares ⁠jumped nearly 6% in extended trading.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-143932,resizemode-75,msid-131543637/tech/artificial-intelligence/marvell-to-join-sp-500-after-ai-boom-helps-chipmaker-pass-profitability-test.jpg",
+        "date": "Jun 6, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/marvell-to-join-sp-500-after-ai-boom-helps-chipmaker-pass-profitability-test/articleshow/131543637.cms"
+    },
+    {
+        "id": "6dg86ew9o",
+        "title": "Chip slump erases $1.3 trillion in stock market value",
+        "excerpt": "The PHLX's combined loss of 12% over two sessions shows investors are becoming more concerned about pricey, high-flying tech stocks just ​as Elon Musk prepares a blockbuster initial public ⁠offering next ‌week for SpaceX at an exceedingly high $1.75 trillion …",
+        "content": "<p>The PHLX's combined loss of 12% over two sessions shows investors are becoming more concerned about pricey, high-flying tech stocks just ​as Elon Musk prepares a blockbuster initial public ⁠offering next ‌week for SpaceX at an exceedingly high $1.75 trillion …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-516008,resizemode-75,msid-131543352/tech/technology/chip-slump-erases-1-3-trillion-in-stock-market-value.jpg",
+        "date": "Jun 6, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/chip-slump-erases-1-3-trillion-in-stock-market-value/articleshow/131543352.cms"
+    },
+    {
+        "id": "qpenacvms",
+        "title": "Five from Milwaukee area set boys records in Day 1 of WIAA state track",
+        "excerpt": "Standout performances from Waukesha West, Wisconsin Lutheran and Marquette High led the Milwaukee area at WIAA state track and field in La Crosse.",
+        "content": "<p>Standout performances from Waukesha West, Wisconsin Lutheran and Marquette High led the Milwaukee area at WIAA state track and field in La Crosse.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/pueTUs2xOW9pJGpTHnvUBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDkzO2NmPXdlYnA-/https://media.zenfs.com/en/milwaukee-journal-sentinel/918651dacd77ebdb44e027881e1fb4d7",
+        "date": "Jun 6, 2026",
+        "url": "https://www.jsonline.com/story/sports/high-school/2026/06/05/five-from-milwaukee-area-set-boys-records-in-day-1-of-wiaa-state-track/90385090007/"
+    },
+    {
+        "id": "mqlit0llx",
+        "title": "Big Cricket League 2026 schedule: Fixtures, score, format, squads and live streaming for BCL season 2 matches",
+        "excerpt": "Big Cricket League 2026 (season 2): Complete schedule, fixtures, format, squads, scores and live streaming details all in one place.",
+        "content": "<p>Big Cricket League 2026 (season 2): Complete schedule, fixtures, format, squads, scores and live streaming details all in one place.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/the_cricket_news_articles_506/16e867bce0e42c622ae0a42a6803592b",
+        "date": "Jun 6, 2026",
+        "url": "https://www.cricketnews.com/en/cricket/news/big-cricket-league-2026-schedule-fixtures-squads-live-streaming-bcl/103becbfdfe208bad1f8ae3d"
+    },
+    {
+        "id": "9myatiwie",
+        "title": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
+        "excerpt": "By Ahmed Elimam, Jana Choukeir and Phil Stewart DUBAI/WASHINGTON, June 6 (Reuters) - U.S. forces struck Iranian coastal radar sites on Saturday after shootin...",
+        "content": "<p>By Ahmed Elimam, Jana Choukeir and Phil Stewart DUBAI/WASHINGTON, June 6 (Reuters) - U.S. forces struck Iranian coastal radar sites on Saturday after shootin...</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/0b762f970c79cb715081c260126525f0d1eedb080da1c8f9bd2dbb654303e319/lightyear_networkapi/resizefill_w800_h533;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe2802ec69215efe367ec9e73bc13aa24",
+        "date": "Jun 6, 2026",
+        "url": "https://www.yahoo.com/news/articles/us-attacks-iranian-coastal-sites-000159581.html"
+    },
+    {
+        "id": "hbsjqmb0x",
+        "title": "Middle East: Iran says targeted US bases in Gulf",
+        "excerpt": "Kuwait reported intercepting drones while Bahrain sounded air sirens. This came after the US said it shot down Iranian drones, and attacked radar sites. Follow DW for more. Iran has attacked US bases in the Gulf\nIt says the attacks are in response to US attac…",
+        "content": "<p>Kuwait reported intercepting drones while Bahrain sounded air sirens. This came after the US said it shot down Iranian drones, and attacked radar sites. Follow DW for more. Iran has attacked US bases in the Gulf\nIt says the attacks are in response to US attac…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.dw.com/image/77415773_6.jpg",
+        "date": "Jun 6, 2026",
+        "url": "https://www.dw.com/en/iran-strikes-us-bases-gulf-kuwait-bahrain-hormuz/live-77442602"
+    },
+    {
         "id": "zfhzsou8c",
         "title": "ASUS finally puts OLED on the ROG Ally X20.. but there’s a catch",
         "excerpt": "After 3 years since the original ASUS ROG Ally, the brand has finally made the jump from LCD to OLED...\nThe post ASUS finally puts OLED on the ROG Ally X20.. but there’s a catch appeared first on YugaTech | Philippines Tech News & Reviews.",
