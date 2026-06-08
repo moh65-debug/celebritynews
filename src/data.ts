@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "b67puz0cm",
+        "title": "Expired dates? Young Indians face dating burnout despite spending more on finding love",
+        "excerpt": "Amid the bustling life of young urban Indians, an ironic trend emerges: individuals thriving in their careers are still finding themselves romantically adrift. While dating apps promise a myriad of prospects, they frequently lead to more heartache than happin…",
+        "content": "<p>Amid the bustling life of young urban Indians, an ironic trend emerges: individuals thriving in their careers are still finding themselves romantically adrift. While dating apps promise a myriad of prospects, they frequently lead to more heartache than happin…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://img.etimg.com/thumb/msid-131561532,width-1200,height-630,imgsize-120908,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 7, 2026",
+        "url": "https://economictimes.indiatimes.com/news/india/dating-burnout-india-young-singles-romantic-loneliness-swipe-fatigue-online-apps-gen-z-modern-relationships/articleshow/131561476.cms"
+    },
+    {
+        "id": "g4n9hlri4",
+        "title": "College baseball: Wichita Falls Spudders vs Waco Wooly Wranglers – June 6, 2026",
+        "excerpt": "The Wichita Falls Spudders hosted the Waco Wooly Wrangers for a Cowboy Collegiate League baseball game on Saturday June 6, 2026. The Wooly Wranglers defeated the Spudders by a final score of 6-0. Click the attached video for highlights of the matchup.",
+        "content": "<p>The Wichita Falls Spudders hosted the Waco Wooly Wrangers for a Cowboy Collegiate League baseball game on Saturday June 6, 2026. The Wooly Wranglers defeated the Spudders by a final score of 6-0. Click the attached video for highlights of the matchup.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/kfdx_wichita_falls_articles_332/9280c0f4269d1c358f3e9aa5620682f4",
+        "date": "Jun 7, 2026",
+        "url": "https://www.texomashomepage.com/sports/local-sports/college-baseball-wichita-falls-spudders-vs-waco-wooly-wranglers-june-6-2026/"
+    },
+    {
+        "id": "bxjj5n15h",
+        "title": "The safe keepers: Inside India's booming locker economy",
+        "excerpt": "India’s locker economy is booming amid rising gold prices and household wealth. While banks remain the preferred repository, private vault operators are entering the scene and the rich in gated societies are creating their own treasure chests at home.",
+        "content": "<p>India’s locker economy is booming amid rising gold prices and household wealth. While banks remain the preferred repository, private vault operators are entering the scene and the rich in gated societies are creating their own treasure chests at home.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131561340,width-1200,height-630,imgsize-421730,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 7, 2026",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/the-safe-keepers-inside-indias-booming-locker-economy/articleshow/131561267.cms"
+    },
+    {
+        "id": "bgkeych5g",
+        "title": "The Russian who invented semiconductors 25 years before the USA",
+        "excerpt": "Article URL: https://www.semidoped.com/p/til-the-man-who-invented-the-future\nComments URL: https://news.ycombinator.com/item?id=48431367\nPoints: 6\n# Comments: 0",
+        "content": "<p>Article URL: https://www.semidoped.com/p/til-the-man-who-invented-the-future\nComments URL: https://news.ycombinator.com/item?id=48431367\nPoints: 6\n# Comments: 0</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!RRGW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01afa7ef-2526-4408-b86b-990d38012975_1315x1759.jpeg",
+        "date": "Jun 7, 2026",
+        "url": "https://www.semidoped.com/p/til-the-man-who-invented-the-future"
+    },
+    {
+        "id": "bz2d5wedc",
+        "title": "Betty Gilpin Says She Was ‘Freaked Out’ Over Prosthetic Genitalia for ‘Office Romance’ Birth Scene",
+        "excerpt": "Betty Gilpin is opening up about her new movie Office Romance. The 39-year-old actress plays Sydney Bloom in the Netflix […]\nThe post Betty Gilpin Says She Was ‘Freaked Out’ Over Prosthetic Genitalia for ‘Office Romance’ Birth Scene appeared first on Just Jar…",
+        "content": "<p>Betty Gilpin is opening up about her new movie Office Romance. The 39-year-old actress plays Sydney Bloom in the Netflix […]\nThe post Betty Gilpin Says She Was ‘Freaked Out’ Over Prosthetic Genitalia for ‘Office Romance’ Birth Scene appeared first on Just Jar…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/betty-office-romance.jpg",
+        "date": "Jun 7, 2026",
+        "url": "https://www.justjared.com/2026/06/06/betty-gilpin-says-she-was-freaked-out-over-prosthetic-genitalia-for-office-romance-birth-scene/"
+    },
+    {
+        "id": "ioxaj7ugn",
+        "title": "AI cracks one of biology’s biggest puzzles",
+        "excerpt": "Scientists have unveiled a powerful new artificial intelligence system that could dramatically speed up the search for future treatments.",
+        "content": "<p>Scientists have unveiled a powerful new artificial intelligence system that could dramatically speed up the search for future treatments.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-06/AI-cracks-biology-puzzles.jpg",
+        "date": "Jun 7, 2026",
+        "url": "https://www.thedailystar.net/health/news/ai-cracks-one-biologys-biggest-puzzles-4192336"
+    },
+    {
+        "id": "6jz9c55o4",
+        "title": "Zhen Ding posts strongest May revenue as server optical module shipments surge",
+        "excerpt": "Zhen Ding Technology Group reported that May consolidated revenue reached a 2026 high as robust demand for high-end AI products drove significant year-over-year growth, the company said. The firm attributed the performance to a sharp uptick in server and opti…",
+        "content": "<p>Zhen Ding Technology Group reported that May consolidated revenue reached a 2026 high as robust demand for high-end AI products drove significant year-over-year growth, the company said. The firm attributed the performance to a sharp uptick in server and opti…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260605pd242_files/1_2b.jpg",
+        "date": "Jun 7, 2026",
+        "url": "https://www.digitimes.com/news/a20260605PD242/zhen-ding-revenue-shipments-2026-ic-substrate.html"
+    },
+    {
+        "id": "ish0uurhu",
+        "title": "WATCH: KAT's touching tribute to his late mother",
+        "excerpt": "After playing a key role in the Knicks' thrilling Game 2 Finals win, Karl-Anthony Towns reflects on his late mother and the strength he derives from her memory.",
+        "content": "<p>After playing a key role in the Knicks' thrilling Game 2 Finals win, Karl-Anthony Towns reflects on his late mother and the strength he derives from her memory.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://i.abcnewsfe.com/a/346045d7-1ba3-45f4-9b98-9ff71df0be19/260606_wn_KAT_mother_tribute_hpMain_16x9.jpg?w=992",
+        "date": "Jun 7, 2026",
+        "url": "https://abcnews.com/video/133655734/"
+    },
+    {
+        "id": "4hd7tdu3q",
+        "title": "WATCH: Pope Leo's historic visit to Spain",
+        "excerpt": "Madrid authorities said more than 500,000 people gathered for the pope's visit as he started off his first papal visit to Spain.",
+        "content": "<p>Madrid authorities said more than 500,000 people gathered for the pope's visit as he started off his first papal visit to Spain.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://i.abcnewsfe.com/a/50eb6c21-8e26-400c-943b-8891cb151880/260606_wn_pope_spain_hpMain_16x9.jpg?w=992",
+        "date": "Jun 7, 2026",
+        "url": "https://abcnews.com/video/133655623/"
+    },
+    {
+        "id": "6g1lxgyjx",
+        "title": "Rupee hits 96 against USD: How can falling currency impact your investments and how to protect them?",
+        "excerpt": "A falling rupee leads to higher inflation and, in turn, higher interest rates, which adversely impact corporate profitability and share prices. It can lead to higher yields on G-secs, lower bond prices and a fall in bond fund NAVs. However, international mutu…",
+        "content": "<p>A falling rupee leads to higher inflation and, in turn, higher interest rates, which adversely impact corporate profitability and share prices. It can lead to higher yields on G-secs, lower bond prices and a fall in bond fund NAVs. However, international mutu…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/06/04/1600x900/logo/rupee__1780587305692_1780587305808_feef6138-84a7-400e-aaa2-82f3f6125530.jpg",
+        "date": "Jun 7, 2026",
+        "url": "https://www.livemint.com/money/rupee-hits-96-against-usd-how-can-falling-currency-impact-your-investments-and-how-to-protect-them-11780566621669.html"
+    },
+    {
         "id": "xckpncpi9",
         "title": "Wall Street Week Ahead: Blockbuster SpaceX IPO set to test high-flying US stocks rally",
         "excerpt": "SpaceX's massive $75 billion IPO is set to launch next week, potentially valuing the company at $1.75 trillion. Investors are watching closely amid fears of market overexuberance, especially after recent job data fueled concerns about hawkish monetary policy.…",
