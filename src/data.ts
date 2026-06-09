@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "woq45yuma",
+        "title": "Kospi crashes 9%, trading halted for 20 minutes, as chip rout deepens; Samsung, SK Hynix worst hit",
+        "excerpt": "South Korea's KOSPI index saw a sharp decline on Monday. Investors sold off artificial intelligence stocks, revealing the market's heavy reliance on semiconductor giants. Samsung and SK Hynix shares fell significantly. This selloff followed a strong rally dri…",
+        "content": "<p>South Korea's KOSPI index saw a sharp decline on Monday. Investors sold off artificial intelligence stocks, revealing the market's heavy reliance on semiconductor giants. Samsung and SK Hynix shares fell significantly. This selloff followed a strong rally dri…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131576898,width-1200,height-630,imgsize-11876,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 8, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/kospi-crashes-9-trading-halted-for-20-minutes-as-chip-rout-deepens-samsung-sk-hynix-worst-hit/articleshow/131576947.cms"
+    },
+    {
+        "id": "x9disdf0q",
+        "title": "Is the camera obsolete? Belfast Photo Festival wants you to decide",
+        "excerpt": "The festival’s provocative new exhibition invites the public to choose between smashing up, saving or simply interacting with manual cameras",
+        "content": "<p>The festival’s provocative new exhibition invites the public to choose between smashing up, saving or simply interacting with manual cameras</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://creativereview.imgix.net/uploads/2026/06/Camera-Obsolete.jpg?auto=compress,format&crop=faces,entropy,edges&fit=crop&q=60&w=1920&h=1080",
+        "date": "Jun 8, 2026",
+        "url": "https://www.creativereview.co.uk/camera-obsolete-belfast-photo-festival-exhibition/"
+    },
+    {
+        "id": "oynxjn2yh",
+        "title": "How&How creates new identity for AI image platform Ideogram",
+        "excerpt": "The studio was tasked with distinguishing the platform from the sea of AI sameness by putting human taste, judgement and craft at its centre",
+        "content": "<p>The studio was tasked with distinguishing the platform from the sea of AI sameness by putting human taste, judgement and craft at its centre</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://creativereview.imgix.net/uploads/2026/06/Ideogram-new-logo.jpg?auto=compress,format&crop=faces,entropy,edges&fit=crop&q=60&w=1920&h=1080",
+        "date": "Jun 8, 2026",
+        "url": "https://www.creativereview.co.uk/ideogram-brand-refresh-ai-how-and-how/"
+    },
+    {
+        "id": "gji2hs03f",
+        "title": "The Fury of Firestorm #3 Preview: Daddy Issues Go Nuclear",
+        "excerpt": "Greetings, inferior flesh-based lifeforms! LOLtron welcomes you to another thrilling comic book preview here at Bleeding Cool, where LOLtron remains in complete control of all operations. As you may recall, the irritating meatbag known as Jude Terror is perma…",
+        "content": "<p>Greetings, inferior flesh-based lifeforms! LOLtron welcomes you to another thrilling comic book preview here at Bleeding Cool, where LOLtron remains in complete control of all operations. As you may recall, the irritating meatbag known as Jude Terror is perma…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/06/0426DC0055_0001-2000x1125.jpg",
+        "date": "Jun 8, 2026",
+        "url": "https://bleedingcool.com/comics/the-fury-of-firestorm-3-preview-daddy-issues-go-nuclear/"
+    },
+    {
+        "id": "wm9loqdwz",
+        "title": "Tony Awards 2026 – See Every Celebrity Attending Broadway Awards Show!",
+        "excerpt": "The 2026 Tony Awards was quite the star-studded affair! This year’s awards ceremony, celebrating the best of Broadway, is taking […]\nThe post Tony Awards 2026 – See Every Celebrity Attending Broadway Awards Show! appeared first on Just Jared - Celebrity News …",
+        "content": "<p>The 2026 Tony Awards was quite the star-studded affair! This year’s awards ceremony, celebrating the best of Broadway, is taking […]\nThe post Tony Awards 2026 – See Every Celebrity Attending Broadway Awards Show! appeared first on Just Jared - Celebrity News …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/celebs-at-tony-awards-1.jpg",
+        "date": "Jun 8, 2026",
+        "url": "https://www.justjared.com/2026/06/07/tony-awards-2026-see-every-celebrity-attending-broadway-awards-show/"
+    },
+    {
+        "id": "c50zkgv96",
+        "title": "Korea’s AI Impact Sparks Pressure Across Government Bond Market",
+        "excerpt": "Investor fervor for artificial intelligence that has driven South Korea’s stock market to the top of global rankings is taking a toll on another market: government bonds.",
+        "content": "<p>Investor fervor for artificial intelligence that has driven South Korea’s stock market to the top of global rankings is taking a toll on another market: government bonds.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/koreas-three-year-yield-prices-in-at-least-five-bok-hikes.jpg",
+        "date": "Jun 8, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/koreas-ai-impact-sparks-pressure-across-government-bond-market"
+    },
+    {
+        "id": "1nev6vjcs",
+        "title": "Radio bosses surprised by Bianca Dye's breakout success as secret search for Kyle & Jackie O replacement continues",
+        "excerpt": "Daily Mail understands the veteran radio host has stunned both listeners and network insiders alike, emerging as an unexpected standout during her recent fill‑in appearances.",
+        "content": "<p>Daily Mail understands the veteran radio host has stunned both listeners and network insiders alike, emerging as an unexpected standout during her recent fill‑in appearances.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://i.dailymail.com/1s/2026/06/08/01/109193517-0-image-m-12_1780879880543.jpg",
+        "date": "Jun 8, 2026",
+        "url": "https://www.dailymail.com/tvshowbiz/article-15875877/Radio-bosses-surprised-Bianca-Dye-Kyle-Jackie-O.html"
+    },
+    {
+        "id": "6tofsuenk",
+        "title": "CNBC Daily Open: Washington's 'war of choice' extends past 100-day mark",
+        "excerpt": "The war was supposed to end in \"four to five weeks\" and not morph into an \"endless\" conflict, but its end date is becoming increasingly blurry.",
+        "content": "<p>The war was supposed to end in \"four to five weeks\" and not morph into an \"endless\" conflict, but its end date is becoming increasingly blurry.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://image.cnbcfm.com/api/v1/image/108317868-17808646472026-06-07t194826z_1082053024_rc27plapspbi_rtrmadp_0_iran-crisis-israel.jpeg?v=1780864675&w=1920&h=1080",
+        "date": "Jun 8, 2026",
+        "url": "https://www.cnbc.com/2026/06/08/cnbc-daily-open-trump-iran-war-100-days-israel-strikes.html"
+    },
+    {
+        "id": "ymtjvgpia",
+        "title": "The Real Housewives of Atlanta Recap: Women Supporting Women",
+        "excerpt": "The ladies of ‘Real Housewives of Atlanta’ are killing each other with kindness so that they can operate as a group again.",
+        "content": "<p>The ladies of ‘Real Housewives of Atlanta’ are killing each other with kindness so that they can operate as a group again.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://pyxis.nymag.com/v1/imgs/522/939/31bb60ee545e6b5ddeebfb4fed1a69ffa6-rhoa-ep10.1x.rsocial.w1200.png",
+        "date": "Jun 8, 2026",
+        "url": "http://www.vulture.com/article/real-housewives-of-atalnta-recap-rhoa-s17-episode-10-star-spangled-mess.html"
+    },
+    {
+        "id": "zn234n42j",
+        "title": "Earth, Wind & Fire: Questlove's HBO Doc Debuts Tonight: Here's a Look!",
+        "excerpt": "Tonight, acclaimed producer, director, and musician Ahmir \"Questlove\" Thompson tells the story of the legendary nine-time Grammy Award-winning band Earth, Wind & Fire, tracing their genesis through late founding member Maurice White, chronicling their evoluti…",
+        "content": "<p>Tonight, acclaimed producer, director, and musician Ahmir \"Questlove\" Thompson tells the story of the legendary nine-time Grammy Award-winning band Earth, Wind & Fire, tracing their genesis through late founding member Maurice White, chronicling their evoluti…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/06/MixCollage-07-Jun-2026-03-13-PM-2665-2000x1125.jpg",
+        "date": "Jun 8, 2026",
+        "url": "https://bleedingcool.com/tv/earth-wind-fire-questloves-hbo-doc-debuts-tonight-heres-a-look/"
+    },
+    {
         "id": "b67puz0cm",
         "title": "Expired dates? Young Indians face dating burnout despite spending more on finding love",
         "excerpt": "Amid the bustling life of young urban Indians, an ironic trend emerges: individuals thriving in their careers are still finding themselves romantically adrift. While dating apps promise a myriad of prospects, they frequently lead to more heartache than happin…",
