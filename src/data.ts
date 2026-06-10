@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "cdxnru7l8",
+        "title": "Cognizant's AI Builder approach to enterprise transformation earns Blueprint Pioneer Award at PegaWorld 2026",
+        "excerpt": "Recognition reflects more than 30 Cognizant-powered Pega Blueprint deployments across banking and capital markets, insurance, healthcare and life sciences, demonstrating the ability to compress transformation timelines from months to days.",
+        "content": "<p>Recognition reflects more than 30 Cognizant-powered Pega Blueprint deployments across banking and capital markets, insurance, healthcare and life sciences, demonstrating the ability to compress transformation timelines from months to days.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dims.apnews.com/dims4/default/df5ea55/2147483647/strip/true/crop/546x364+331+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0f%2F6c%2F2c47c142b26a470318d415d6fa06%2F8a6ac1343aa3037bffc47a3eea5032dd",
+        "date": "Jun 9, 2026",
+        "url": "https://apnews.com/press-release/pr-newswire/press-release-70064cbc93e409d99e45efab401f3468"
+    },
+    {
+        "id": "qrg9r69nr",
+        "title": "Indian Envoy Vinay Kwatra meets US corporate and tech leaders to boost AI and supply chain ties",
+        "excerpt": "India's Ambassador to the US, Vinay Mohan Kwatra, met top business and tech leaders to advance economic ties. In posts on X, he highlighted productive discussions with Walmart's CEO on supply chains, and with SCSP's chief on boosting India-USA cooperation in …",
+        "content": "<p>India's Ambassador to the US, Vinay Mohan Kwatra, met top business and tech leaders to advance economic ties. In posts on X, he highlighted productive discussions with Walmart's CEO on supply chains, and with SCSP's chief on boosting India-USA cooperation in …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131600645,width-1200,height-630,imgsize-206572,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 9, 2026",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indian-envoy-vinay-kwatra-meets-us-corporate-and-tech-leaders-to-boost-ai-and-supply-chain-ties/articleshow/131600619.cms"
+    },
+    {
+        "id": "pxc35na7b",
+        "title": "Blackhawk Network (BHN) Research Finds Gift Card Momentum Building as Consumers Adopt Defensive Spending Strategies",
+        "excerpt": "PLEASANTON, Calif.--(BUSINESS WIRE)--Jun 8, 2026-- Blackhawk Network (BHN), a global leader in branded payments, today released new U.S. findings from its annual global gifting research study showing how consumers are adopting defensive spending behaviors to …",
+        "content": "<p>PLEASANTON, Calif.--(BUSINESS WIRE)--Jun 8, 2026-- Blackhawk Network (BHN), a global leader in branded payments, today released new U.S. findings from its annual global gifting research study showing how consumers are adopting defensive spending behaviors to …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "date": "Jun 9, 2026",
+        "url": "https://apnews.com/press-release/business-wire/blackhawk-network-bhn-research-finds-gift-card-momentum-building-as-consumers-adopt-defensive-spending-strategies-04ea4e0dc30c4150b1b39d00956425bb"
+    },
+    {
+        "id": "r0p5ry9jd",
+        "title": "For nearly two decades, researchers have been demonstrating in mice that the blood of a young animal, when surgically shared with an old one, can reverse signs of aging across nearly every tissue — heart, brain, muscle, liver, kidney — and the search for the specific factors in young blood that cause this effect has now become one of the most heavily funded races in modern biotech",
+        "excerpt": "The technique is called heterochronic parabiosis, and it works by surgically joining the circulatory systems of two animals of different ages so that they share a common blood supply. The procedure was pioneered by the French physiologist Paul Bert in the 186…",
+        "content": "<p>The technique is called heterochronic parabiosis, and it works by surgically joining the circulatory systems of two animals of different ages so that they share a common blood supply. The procedure was pioneered by the French physiologist Paul Bert in the 186…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-09T094118.820.png",
+        "date": "Jun 9, 2026",
+        "url": "https://spacedaily.com/d-for-nearly-two-decades-researchers-have-been-demonstrating-in-mice-that-the-blood-of-a-young-animal-when-surgically-shared-with-an-old-one-can-reverse-signs-of-aging-across-nearly-every-tissue/"
+    },
+    {
+        "id": "2qg9sknsw",
+        "title": "International Photography Hall of Fame Brings Prestigious Global Awards Celebration to Indianapolis",
+        "excerpt": "Internationally Renowned Photographers, Historic Exhibition, and Celebrity Photographer Brian Ach to Headline Major Arts Event at Indy Art Center",
+        "content": "<p>Internationally Renowned Photographers, Historic Exhibition, and Celebrity Photographer Brian Ach to Headline Major Arts Event at Indy Art Center</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://dims.apnews.com/dims4/default/cff6049/2147483647/strip/true/crop/1126x750+37+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F91%2F26ce1ee74ee447466b53cbef9c77%2Fbab51c55d48e47bf9e89033045745e65",
+        "date": "Jun 9, 2026",
+        "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-2c5449df93884ac1538a5714a6c625f7"
+    },
+    {
+        "id": "jhbwmib0q",
+        "title": "Moto News | Finke | SX | MX | ISDE | Enduro | Trials | SGP | AFT",
+        "excerpt": "Moto News Weekly Wrap June 9, 2026 What’s New: Walsh equals Finke record with sixth King of the Desert crown Sanders extends Red Bull KTM Factory Racing contract Jett answers back at Hangtown AUSX Auckland & Perth updates Team Australia entries open for MXoN …",
+        "content": "<p>Moto News Weekly Wrap June 9, 2026 What’s New: Walsh equals Finke record with sixth King of the Desert crown Sanders extends Red Bull KTM Factory Racing contract Jett answers back at Hangtown AUSX Auckland & Perth updates Team Australia entries open for MXoN …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.mcnews.com.au/wp-content/uploads/2026/06/2026-Watkins-Glen-International-GNCC-Rnd8-Angus-Riordan-MF.jpg",
+        "date": "Jun 9, 2026",
+        "url": "https://www.mcnews.com.au/moto-weekly-off-road-news-june-9-2026/"
+    },
+    {
+        "id": "h2rz0g66e",
+        "title": "5 Great Anime That Make Perfect Summer Binges (& Where to Find Them)",
+        "excerpt": "Image Courtesy of Studio Bones\n\nSummer can be a great time to get out and away from the TV, but many of us will still be binging our favorite anime on our downtime. And it’s never a bad season to watch the best shonen or isekai series of 2026. However, some v…",
+        "content": "<p>Image Courtesy of Studio Bones\n\nSummer can be a great time to get out and away from the TV, but many of us will still be binging our favorite anime on our downtime. And it’s never a bad season to watch the best shonen or isekai series of 2026. However, some v…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2025/11/SK8-the-Infinity.jpeg?resize=2000,1125",
+        "date": "Jun 9, 2026",
+        "url": "http://comicbook.com/anime/list/5-great-anime-that-make-perfect-summer-binges-where-to-find-them/"
+    },
+    {
+        "id": "g35anneti",
+        "title": "This is how Apple built 'a Siri that’s profoundly more capable' — and yes, it was done with Google and Nvidia's help",
+        "excerpt": "Apple Execs sat down for a post-WWDC 2026 keynote chat for a deep and revealing dive on Siri AI architecture and revealed a vast collaboration that stops well short of a Gemini takeover.",
+        "content": "<p>Apple Execs sat down for a post-WWDC 2026 keynote chat for a deep and revealing dive on Siri AI architecture and revealed a vast collaboration that stops well short of a Gemini takeover.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/MNvmTbCmRUDei897LgEFXi-1920-80.jpg",
+        "date": "Jun 9, 2026",
+        "url": "https://www.techradar.com/ai-platforms-assistants/this-is-how-apple-built-a-siri-thats-profoundly-more-capable-and-yes-it-was-done-with-google-and-nvidias-help"
+    },
+    {
+        "id": "j68cu1jqk",
+        "title": "'I'm all in': Jacinta Allan brushes off leadership rumblings",
+        "excerpt": "The Victorian premier said she had no plans to step aside despite some Labor MPs becoming increasingly frustrated by her performance as leader and more worrying opinion polls.",
+        "content": "<p>The Victorian premier said she had no plans to step aside despite some Labor MPs becoming increasingly frustrated by her performance as leader and more worrying opinion polls.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/ad428638d611ffdeefc19c5362303dc6?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "date": "Jun 9, 2026",
+        "url": "https://www.abc.net.au/news/2026-06-09/vic-jacinta-allan-leadership-future-victoria/106775374"
+    },
+    {
+        "id": "3q1b3lj6z",
+        "title": "49ers defensive trio ranks among NFL's best despite major injuries",
+        "excerpt": "The San Francisco 49ers don't have the top defensive trio in the NFL, but their best three are near the top of the league.",
+        "content": "<p>The San Francisco 49ers don't have the top defensive trio in the NFL, but their best three are near the top of the league.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/8K_JYoG7GA8sqp3I2aQGZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/san_francisco_49ers_wire_usa_today_sports_articles_952/925a92a8283ac4cf52621f43a61c89d2",
+        "date": "Jun 9, 2026",
+        "url": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/06/08/49ers-best-nfl-defensive-trios-nick-bosa-fred-warner-deommodore-lenoir/90462217007/"
+    },
+    {
         "id": "woq45yuma",
         "title": "Kospi crashes 9%, trading halted for 20 minutes, as chip rout deepens; Samsung, SK Hynix worst hit",
         "excerpt": "South Korea's KOSPI index saw a sharp decline on Monday. Investors sold off artificial intelligence stocks, revealing the market's heavy reliance on semiconductor giants. Samsung and SK Hynix shares fell significantly. This selloff followed a strong rally dri…",
