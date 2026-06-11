@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "bvv8phhem",
+        "title": "Graham Platner Is Weakened—But He Can Still Win in November",
+        "excerpt": "Graham Platner will kick off starts his first general election at one of the lowest points of his upstart Senate campaign. There has been nonstop coverage, both in Maine and nationally, about racy text messages he sent to women who aren’t his wife, as well as…",
+        "content": "<p>Graham Platner will kick off starts his first general election at one of the lowest points of his upstart Senate campaign. There has been nonstop coverage, both in Maine and nationally, about racy text messages he sent to women who aren’t his wife, as well as…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://images.newrepublic.com/acff32e2febb46be03371ff2f89ed53f17a505ca.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+        "date": "Jun 10, 2026",
+        "url": "https://newrepublic.com/article/211587/graham-platner-primary-win-collins"
+    },
+    {
+        "id": "lwjxajewj",
+        "title": "Meta to launch America's workforce academy for guaranteed job placement with $115 million first year investment",
+        "excerpt": "Meta is launching America's Workforce Academy (AWA), a nationwide program designed to fast-track individuals into long-term careers in skilled trades, backed by an initial USD 115 million investment in its first year. The cost-free initiative supports all par…",
+        "content": "<p>Meta is launching America's Workforce Academy (AWA), a nationwide program designed to fast-track individuals into long-term careers in skilled trades, backed by an initial USD 115 million investment in its first year. The cost-free initiative supports all par…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-852764,resizemode-75,msid-131623890/tech/technology/meta-to-launch-americas-workforce-academy-for-guaranteed-job-placement-with-115-million-first-year-investment.jpg",
+        "date": "Jun 10, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/meta-to-launch-americas-workforce-academy-for-guaranteed-job-placement-with-115-million-first-year-investment/articleshow/131623890.cms"
+    },
+    {
+        "id": "galw7j3p1",
+        "title": "Zoomlion's Humanoid Robot Z01 Shines at KOMATEK 2026, Showcasing Advances in Embodied AI and Industrial Robotics",
+        "excerpt": "ISTANBUL, June 9, 2026 /PRNewswire/ -- Zoomlion Heavy Industry Science & Technology Co., Ltd. (\"Zoomlion\") attracted widespread attention at KOMATEK 2026 in Istanbul with the appearance of its humanoid robot Z01. Alongside more than 40 high-end construction m…",
+        "content": "<p>ISTANBUL, June 9, 2026 /PRNewswire/ -- Zoomlion Heavy Industry Science & Technology Co., Ltd. (\"Zoomlion\") attracted widespread attention at KOMATEK 2026 in Istanbul with the appearance of its humanoid robot Z01. Alongside more than 40 high-end construction m…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mma.prnewswire.com/media/2996445/image1.jpg?p=facebook",
+        "date": "Jun 10, 2026",
+        "url": "https://www.prnewswire.com/news-releases/zoomlions-humanoid-robot-z01-shines-at-komatek-2026-showcasing-advances-in-embodied-ai-and-industrial-robotics-302796128.html"
+    },
+    {
+        "id": "029mhum9j",
+        "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
+        "excerpt": "Owen arrives On September 23rd, 2021, my first son Owen was born. Clearly inheriting his mom’s type-A personality, he arrived on his due date at a chunky 8.75 lbs. We were over the moon.  Until we weren’t. At a few … Continue reading →",
+        "content": "<p>Owen arrives On September 23rd, 2021, my first son Owen was born. Clearly inheriting his mom’s type-A personality, he arrived on his due date at a chunky 8.75 lbs. We were over the moon.  Until we weren’t. At a few … Continue reading →</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.ddmckinnon.com/wp-content/uploads/2026/06/image.png",
+        "date": "Jun 10, 2026",
+        "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/"
+    },
+    {
+        "id": "32fpphvt7",
+        "title": "Diddy is Being Sued by Former Child Actor Over Alleged Sexual Assault",
+        "excerpt": "Sean “Diddy” Combs is getting sued again. According to court documents obtained by TMZ, a man going by John Doe […]\nThe post Diddy is Being Sued by Former Child Actor Over Alleged Sexual Assault appeared first on Just Jared - Celebrity News and Gossip | Enter…",
+        "content": "<p>Sean “Diddy” Combs is getting sued again. According to court documents obtained by TMZ, a man going by John Doe […]\nThe post Diddy is Being Sued by Former Child Actor Over Alleged Sexual Assault appeared first on Just Jared - Celebrity News and Gossip | Enter…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/diddy-new-lawsuit.jpg",
+        "date": "Jun 10, 2026",
+        "url": "https://www.justjared.com/2026/06/09/diddy-is-being-sued-by-former-child-actor-over-alleged-sexual-assault/"
+    },
+    {
+        "id": "w3kvbz5an",
+        "title": "For Indian fintechs, compliance is survival",
+        "excerpt": "With India’s fintech firms facing a growing number of compliance obligations, adopting automated, continuous compliance processes will help cut repetitive manual work and remain audit-ready",
+        "content": "<p>With India’s fintech firms facing a growing number of compliance obligations, adopting automated, continuous compliance processes will help cut repetitive manual work and remain audit-ready</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.computerweekly.com/visuals/German/article/certification-compliance-box-tick-adobe.jpg",
+        "date": "Jun 10, 2026",
+        "url": "https://www.computerweekly.com/opinion/For-Indian-fintechs-compliance-is-survival"
+    },
+    {
+        "id": "yj3cgtv4m",
+        "title": "US strikes Iran after Trump blames Tehran for downing Army helicopter",
+        "excerpt": "Iran's top diplomat says foreign military forces near its territory \"are at constant risk\" and later vowed that there would be a response to the new US strikes",
+        "content": "<p>Iran's top diplomat says foreign military forces near its territory \"are at constant risk\" and later vowed that there would be a response to the new US strikes</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bl-i.thgim.com/public/incoming/mko46i/article71083334.ece/alternates/LANDSCAPE_1200/2026-05-21T232037Z_233792959_RC2LDLA5RN48_RTRMADP_3_MEXICO-USA-SECURITY.JPG",
+        "date": "Jun 10, 2026",
+        "url": "https://www.thehindubusinessline.com/news/world/us-strikes-iran-after-trump-blames-tehran-for-downing-army-helicopter/article71083286.ece"
+    },
+    {
+        "id": "zu3hrapui",
+        "title": "This is not a crypto story and cannot be responsibly published",
+        "excerpt": "The incident highlights the importance of maintaining editorial integrity and relevance in niche-focused publications.\nThe post This is not a crypto story and cannot be responsibly published appeared first on Crypto Briefing.",
+        "content": "<p>The incident highlights the importance of maintaining editorial integrity and relevance in niche-focused publications.\nThe post This is not a crypto story and cannot be responsibly published appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/09224742/what-does-bloomberg-s-crypto-story-mean-for-crypto-popula-800x420.jpeg",
+        "date": "Jun 10, 2026",
+        "url": "https://cryptobriefing.com/not-crypto-related-content/"
+    },
+    {
+        "id": "vq0xpr0jw",
+        "title": "AGI Realigns Manufacturing to Deliver Storage Solutions Closer to U.S. Farmers",
+        "excerpt": "Investment adds U.S. bin capacity and supports job growth in Kansas CLAY CENTER, Kan. — Ag Growth International Inc. (“AGI”) today announced a multi-million dollar investment in its Clay Center, Kansas facility to add U.S. production of 4-inch corrugated farm…",
+        "content": "<p>Investment adds U.S. bin capacity and supports job growth in Kansas CLAY CENTER, Kan. — Ag Growth International Inc. (“AGI”) today announced a multi-million dollar investment in its Clay Center, Kansas facility to add U.S. production of 4-inch corrugated farm…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/bw20260609246825_agi_bin_images.jpeg",
+        "date": "Jun 10, 2026",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/agi-realigns-manufacturing-to-deliver-storage-solutions-closer-to-u-s-farmers"
+    },
+    {
+        "id": "nkwlm3jxn",
+        "title": "Taylor Swift puts on leggy display in surprise Toy Story 5 premiere appearance... as incredible seven-figure price of Travis Kelce wedding venue is revealed",
+        "excerpt": "The singer, 36, put on a leggy display in a chic off-the-shoulder embellished Erdem dress. The Pixar sequel features a brand-new original track from the superstar, titled I Knew It, I Knew You.",
+        "content": "<p>The singer, 36, put on a leggy display in a chic off-the-shoulder embellished Erdem dress. The Pixar sequel features a brand-new original track from the superstar, titled I Knew It, I Knew You.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://i.dailymail.com/1s/2026/06/10/03/109243459-0-image-m-48_1781058204086.jpg",
+        "date": "Jun 10, 2026",
+        "url": "https://www.dailymail.com/tvshowbiz/article-15887447/Taylor-Swift-Toy-Story-5-Travis-Kelce-wedding.html"
+    },
+    {
         "id": "cdxnru7l8",
         "title": "Cognizant's AI Builder approach to enterprise transformation earns Blueprint Pioneer Award at PegaWorld 2026",
         "excerpt": "Recognition reflects more than 30 Cognizant-powered Pega Blueprint deployments across banking and capital markets, insurance, healthcare and life sciences, demonstrating the ability to compress transformation timelines from months to days.",
