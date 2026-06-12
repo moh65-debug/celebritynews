@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "2gca9cip5",
+        "title": "Anthropic wants tougher AI rules, new safety framework seeks stronger government oversight",
+        "excerpt": "Anthropic's new AI safety framework calls for mandatory testing of the most powerful AI models, independent audits, and government powers to deter deployments that pose catastrophic risks.",
+        "content": "<p>Anthropic's new AI safety framework calls for mandatory testing of the most powerful AI models, independent audits, and government powers to deter deployments that pose catastrophic risks.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.indianexpress.com/2026/06/Anthropic-AI-framework.jpg",
+        "date": "Jun 11, 2026",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-wants-tougher-ai-rules-10734024/"
+    },
+    {
+        "id": "vogolj7ku",
+        "title": "AI robot cleaners leave the lab for China’s living rooms",
+        "excerpt": "China's robots have wowed audiences with fluid dancing, but their application and performance in real-life settings remains limited.\nThe post AI robot cleaners leave the lab for China’s living rooms appeared first on Digital Journal.",
+        "content": "<p>China's robots have wowed audiences with fluid dancing, but their application and performance in real-life settings remains limited.\nThe post AI robot cleaners leave the lab for China’s living rooms appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/06/973446bbaea5060e1c6a2d29ff17782135d110d3.jpg",
+        "date": "Jun 11, 2026",
+        "url": "https://www.digitaljournal.com/article/ai-robot-cleaners-leave-the-lab-for-chinas-living-rooms/"
+    },
+    {
+        "id": "kn2puo0l0",
+        "title": "Kangana Ranaut's 10 Best Performances",
+        "excerpt": "Explore Kangana Ranaut's remarkable cinematic journey from her impactful debut in Gangster to her career-defining role in Queen.",
+        "content": "<p>Explore Kangana Ranaut's remarkable cinematic journey from her impactful debut in Gangster to her career-defining role in Queen.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://im.rediff.com/1200-630/movies/2026/jun/10kangana-ranaut12.jpg",
+        "date": "Jun 11, 2026",
+        "url": "https://www.rediff.com/movies/special/from-queen-to-manikarnika-revisiting-kangana-ranauts-top-10-performances/20260611.htm"
+    },
+    {
+        "id": "cby75uo1l",
+        "title": "Visa plugs its payment network into ChatGPT letting AI agents shop, pay for users",
+        "excerpt": "Visa integrates its payment network with ChatGPT, enabling AI agents to shop and complete purchases for users seamlessly.",
+        "content": "<p>Visa integrates its payment network with ChatGPT, enabling AI agents to shop and complete purchases for users seamlessly.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/j7u9qi/article71087567.ece/alternates/LANDSCAPE_1200/2026-05-06T124851Z_786560715_RC26FJAV6YIO_RTRMADP_3_BRITAIN-ANTITRUST-INVESTIGATION.JPG",
+        "date": "Jun 11, 2026",
+        "url": "https://www.thehindubusinessline.com/info-tech/visa-plugs-its-payment-network-into-chatgpt-letting-ai-agents-shop-pay-for-users/article71087473.ece"
+    },
+    {
+        "id": "8ml96xsk4",
+        "title": "Kylie Jenner & Timothee Chalamet Hold Hands, Wear Matching Denim Looks to NBA Finals 2026 Game 4 to Cheer on Knicks",
+        "excerpt": "Kylie Jenner and Timothee Chalamet are heading out to cheer on the New York Knicks! The couple held hands as […]\nThe post Kylie Jenner & Timothee Chalamet Hold Hands, Wear Matching Denim Looks to NBA Finals 2026 Game 4 to Cheer on Knicks appeared first on Jus…",
+        "content": "<p>Kylie Jenner and Timothee Chalamet are heading out to cheer on the New York Knicks! The couple held hands as […]\nThe post Kylie Jenner & Timothee Chalamet Hold Hands, Wear Matching Denim Looks to NBA Finals 2026 Game 4 to Cheer on Knicks appeared first on Jus…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/kylie-jenner-timothee-chalamet-game-4.jpg",
+        "date": "Jun 11, 2026",
+        "url": "https://www.justjared.com/2026/06/10/kylie-jenner-timothee-chalamet-hold-hands-wear-matching-denim-looks-to-nba-finals-2026-game-4-to-cheer-on-knicks/"
+    },
+    {
+        "id": "i3c2uwtrq",
+        "title": "Mainspring Appoints Former Cummins Chairman and CEO Tom Linebarger as CEO and Founder Shannon Miller as President to Power Next Wave of Growth",
+        "excerpt": "Mainspring Appoints Former Cummins Chairman and CEO Tom Linebarger as CEO and Founder Shannon Miller as President to Power Next Wave of Growthapnews.com",
+        "content": "<p>Mainspring Appoints Former Cummins Chairman and CEO Tom Linebarger as CEO and Founder Shannon Miller as President to Power Next Wave of Growthapnews.com</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "date": "Jun 11, 2026",
+        "url": "https://apnews.com/press-release/pr-newswire/press-release-0e6d77bdae5bd978fef6934d24a9147d"
+    },
+    {
+        "id": "kpsrsiuuu",
+        "title": "Nithya Raman bold-faced hypocrisy about state of LA as she comments on Spencer Pratt’s campaign",
+        "excerpt": "Los Angeles City Councilmember Nithya Raman said voter frustration helped fuel support for celebrity candidate Spencer Pratt in the city’s hard-fought mayoral race, acknowledging that many Angelenos are fed up with the status quo. “I know many people in this …",
+        "content": "<p>Los Angeles City Councilmember Nithya Raman said voter frustration helped fuel support for celebrity candidate Spencer Pratt in the city’s hard-fought mayoral race, acknowledging that many Angelenos are fed up with the status quo. “I know many people in this …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/06/comp-nithya.jpg?quality=75&strip=all&w=1200",
+        "date": "Jun 11, 2026",
+        "url": "https://nypost.com/2026/06/10/us-news/nithya-raman-blames-voter-frustration-for-spencer-pratts-support-in-la-mayoral-race/"
+    },
+    {
+        "id": "tyzljl0du",
+        "title": "FIFA’s Infantino defends US as World Cup host amid visa row, entry denials",
+        "excerpt": "FIFA chief says his organisation cannot rule on government policies after a Somali referee was denied entry into the US.",
+        "content": "<p>FIFA chief says his organisation cannot rule on government policies after a Somali referee was denied entry into the US.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/lsDaB..UmIulsFTrDzmDGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/al_jazeera_289/d4e23fdbb037ce7d2a03fe699a2c6b07",
+        "date": "Jun 11, 2026",
+        "url": "https://www.aljazeera.com/sports/2026/6/11/fifas-infantino-defends-us-as-world-cup-host-amid-visa-row-entry-denials"
+    },
+    {
+        "id": "4mlfspnen",
+        "title": "Álvaro Morata calls leaving Atlético Madrid his biggest mistake",
+        "excerpt": "Morata's regret highlights the emotional complexities athletes face, impacting career decisions and personal fulfillment beyond financial gains.\nThe post Álvaro Morata calls leaving Atlético Madrid his biggest mistake appeared first on Crypto Briefing.",
+        "content": "<p>Morata's regret highlights the emotional complexities athletes face, impacting career decisions and personal fulfillment beyond financial gains.\nThe post Álvaro Morata calls leaving Atlético Madrid his biggest mistake appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/10230439/i-should-never-have-left-galatasaray-star-alvaro-morata-admi-800x420.jpeg",
+        "date": "Jun 11, 2026",
+        "url": "https://cryptobriefing.com/morata-regrets-leaving-atletico-madrid/"
+    },
+    {
+        "id": "d1d20h1bd",
+        "title": "Steven Spielberg is MIA in fight against the new antisemitism",
+        "excerpt": "Few artists have done more for the Jewish people than Steven Spielberg.",
+        "content": "<p>Few artists have done more for the Jewish people than Steven Spielberg.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/06/130502064.jpg?quality=75&strip=all&w=1200",
+        "date": "Jun 11, 2026",
+        "url": "https://nypost.com/2026/06/10/opinion/steven-spielberg-is-mia-in-fight-against-new-antisemitism/"
+    },
+    {
         "id": "bvv8phhem",
         "title": "Graham Platner Is Weakened—But He Can Still Win in November",
         "excerpt": "Graham Platner will kick off starts his first general election at one of the lowest points of his upstart Senate campaign. There has been nonstop coverage, both in Maine and nationally, about racy text messages he sent to women who aren’t his wife, as well as…",
