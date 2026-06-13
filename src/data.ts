@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "kpq45zk3i",
+        "title": "Greenland Energy Company Announces Addition of Carol Craig to Board of Directors",
+        "excerpt": "DENVER, June 11, 2026 /PRNewswire/ -- Greenland Energy Company (NASDAQ: GLND) (\"the Company\" or \"Greenland Energy\"), an oil exploration company focused on East Greenland's Jameson Land Basin, today announced the appointment of Carol Craig to the Company's Boa…",
+        "content": "<p>DENVER, June 11, 2026 /PRNewswire/ -- Greenland Energy Company (NASDAQ: GLND) (\"the Company\" or \"Greenland Energy\"), an oil exploration company focused on East Greenland's Jameson Land Basin, today announced the appointment of Carol Craig to the Company's Boa…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "date": "Jun 12, 2026",
+        "url": "https://apnews.com/press-release/pr-newswire/press-release-b5bb253779f30ab54ddee6cabdb798f6"
+    },
+    {
+        "id": "af3gpat06",
+        "title": "Cherie DeVaux In The Spotlight After Kentucky Derby And Belmont Wins",
+        "excerpt": "After becoming the first female trainer to win the Kentucky Derby, Cherie Devaux followed with a win in the Belmont Stakes and is now in the sports spotlight.",
+        "content": "<p>After becoming the first female trainer to win the Kentucky Derby, Cherie Devaux followed with a win in the Belmont Stakes and is now in the sports spotlight.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a2b7543a730018351bcc708/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "Jun 12, 2026",
+        "url": "https://www.forbes.com/sites/dannybrewer/2026/06/11/cherie-devaux-in-the-spotlight-after-kentucky-derby-and-belmont-wins/"
+    },
+    {
+        "id": "b7hvbira5",
+        "title": "Forget coding tests, Anthropic's Claude Code architect says these three traits get you hired",
+        "excerpt": "Boris Cherny, the engineer behind Anthropic's Claude Code, has revealed the three qualities the AI giant actually looks for when hiring — and technical skill is not at the top of the list.",
+        "content": "<p>Boris Cherny, the engineer behind Anthropic's Claude Code, has revealed the three qualities the AI giant actually looks for when hiring — and technical skill is not at the top of the list.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/USA-CONGRESS-ANTHROPIC-0_1781232330626_1781232419166_dc23dbfa-895d-4ae0-bc67-443d59c711b3.JPG",
+        "date": "Jun 12, 2026",
+        "url": "https://www.livemint.com/companies/news/forget-coding-tests-anthropics-claude-code-architect-says-these-three-traits-get-you-hired-11781231955200.html"
+    },
+    {
+        "id": "kag1moxtj",
+        "title": "NT government questioned over youth prison lockdowns, police policy",
+        "excerpt": "As the NT's CLP government remains firm on its tough-on-crime agenda and rebuilding of the economy, the first week of senate estimates saw the government questioned around prison lockdowns, police policy and housing.",
+        "content": "<p>As the NT's CLP government remains firm on its tough-on-crime agenda and rebuilding of the economy, the first week of senate estimates saw the government questioned around prison lockdowns, police policy and housing.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/93f705aa8a6ac0d6cf6daccffdf13bcc?impolicy=wcms_watermark_news&cropH=3666&cropW=6518&xPos=0&yPos=233&width=862&height=485&imformat=generic",
+        "date": "Jun 12, 2026",
+        "url": "https://www.abc.net.au/news/2026-06-12/nt-gov-questioned-youth-prison-lockdown-senate-estimates/106785720"
+    },
+    {
+        "id": "btq709nkf",
+        "title": "Chinese chip foundry United Nova bets US$3B on AI power, optical interconnects",
+        "excerpt": "United Nova Technology (UNT) is expanding from automotive and industrial chips into AI server power management and optical interconnects through a CNY20 billion (US$3 billion) 12-inch mixed-signal fab project.",
+        "content": "<p>United Nova Technology (UNT) is expanding from automotive and industrial chips into AI server power management and optical interconnects through a CNY20 billion (US$3 billion) 12-inch mixed-signal fab project.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260612vl208_files/2_b.jpg",
+        "date": "Jun 12, 2026",
+        "url": "https://www.digitimes.com/news/a20260612VL208/unt-automotive-chips-industrial-ai-server.html"
+    },
+    {
+        "id": "l0a3jg0do",
+        "title": "Esmir Bajraktarevic, key player for Bosnia, eyes World Cup opener against Canada",
+        "excerpt": "Bajraktarevic's rise highlights shifting dynamics in sports sponsorships, as crypto's decline reshapes athlete-brand partnerships globally.\nThe post Esmir Bajraktarevic, key player for Bosnia, eyes World Cup opener against Canada appeared first on Crypto Brie…",
+        "content": "<p>Bajraktarevic's rise highlights shifting dynamics in sports sponsorships, as crypto's decline reshapes athlete-brand partnerships globally.\nThe post Esmir Bajraktarevic, key player for Bosnia, eyes World Cup opener against Canada appeared first on Crypto Brie…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/11230650/esmir-bajraktarevic-stars-of-soccer-world-cup-2026-the-athle-800x420.png",
+        "date": "Jun 12, 2026",
+        "url": "https://cryptobriefing.com/bajraktarevic-bosnia-world-cup-crypto-sports/"
+    },
+    {
+        "id": "jl2lok3uy",
+        "title": "US State Department Taps UFC For Global Soft Power",
+        "excerpt": "The US Department of State has signed a Memorandum of Understanding with the Ultimate Fighting Championship (UFC) to launch a public-private partnership aimed at advancing sports diplomacy worldwide. This initiative will leverage UFC's extensive global platfo…",
+        "content": "<p>The US Department of State has signed a Memorandum of Understanding with the Ultimate Fighting Championship (UFC) to launch a public-private partnership aimed at advancing sports diplomacy worldwide. This initiative will leverage UFC's extensive global platfo…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
+        "date": "Jun 12, 2026",
+        "url": "https://www.rediff.com/sports/report/us-state-department-partners-with-ufc-for-sports-diplomacy-1/20260612.htm"
+    },
+    {
+        "id": "pw0dvjsp9",
+        "title": "US State Department Taps UFC For Global Soft Power",
+        "excerpt": "The US Department of State has signed a Memorandum of Understanding with the Ultimate Fighting Championship (UFC) to launch a public-private partnership aimed at advancing sports diplomacy worldwide. This initiative will leverage UFC's extensive global platfo…",
+        "content": "<p>The US Department of State has signed a Memorandum of Understanding with the Ultimate Fighting Championship (UFC) to launch a public-private partnership aimed at advancing sports diplomacy worldwide. This initiative will leverage UFC's extensive global platfo…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
+        "date": "Jun 12, 2026",
+        "url": "https://www.rediff.com/sports/report/us-state-department-partners-with-ufc-for-sports-diplomacy/20260612.htm"
+    },
+    {
+        "id": "xjokvl8sv",
+        "title": "Geologists Went Looking For Gold. They Found Something Far Rarer.",
+        "excerpt": "More than one kind of treasure.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+        "content": "<p>More than one kind of treasure.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencealert.com/images/2026/06/hand-holding-rock.jpg",
+        "date": "Jun 12, 2026",
+        "url": "https://www.sciencealert.com/geologists-went-looking-for-gold-they-found-something-far-rarer"
+    },
+    {
+        "id": "7k9lno86b",
+        "title": "Helen Mirren Reveals If She’d Work With Tom Hardy Again After His Alleged ‘MobLand’ Firing",
+        "excerpt": "Helen Mirren is addressing the possibility of working with Tom Hardy again. The actor was reportedly fired from their Paramount+ […]\nThe post Helen Mirren Reveals If She’d Work With Tom Hardy Again After His Alleged ‘MobLand’ Firing appeared first on Just Jar…",
+        "content": "<p>Helen Mirren is addressing the possibility of working with Tom Hardy again. The actor was reportedly fired from their Paramount+ […]\nThe post Helen Mirren Reveals If She’d Work With Tom Hardy Again After His Alleged ‘MobLand’ Firing appeared first on Just Jar…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/helen-tom.jpg",
+        "date": "Jun 12, 2026",
+        "url": "https://www.justjared.com/2026/06/11/helen-mirren-reveals-if-shed-work-with-tom-hardy-again-after-his-alleged-mobland-firing/"
+    },
+    {
         "id": "2gca9cip5",
         "title": "Anthropic wants tougher AI rules, new safety framework seeks stronger government oversight",
         "excerpt": "Anthropic's new AI safety framework calls for mandatory testing of the most powerful AI models, independent audits, and government powers to deter deployments that pose catastrophic risks.",
