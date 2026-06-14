@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "dp952s10m",
+        "title": "Japanese investors sought more than $6.2 billion worth of SpaceX shares at IPO, sources say",
+        "excerpt": "Japanese investors showed immense interest in SpaceX's record-breaking IPO. They sought over one trillion yen in shares, with retail investors leading the charge. This strong demand mirrored global enthusiasm for Elon Musk's company. Japanese investors ultima…",
+        "content": "<p>Japanese investors showed immense interest in SpaceX's record-breaking IPO. They sought over one trillion yen in shares, with retail investors leading the charge. This strong demand mirrored global enthusiasm for Elon Musk's company. Japanese investors ultima…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://img.etimg.com/thumb/msid-131697240,width-1200,height-630,imgsize-152032,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 13, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japanese-investors-sought-more-than-6-2-billion-worth-of-spacex-shares-at-ipo-sources-say/articleshow/131697216.cms"
+    },
+    {
+        "id": "jm3cg6h3b",
+        "title": "Legendary Today Show Movie Critic Gene Shalit Dies at 100",
+        "excerpt": "TODAY -- Pictured: (l-r) Panelist/film critic Gene Shalit on NBC News' \"Today\" in 1982 (Photo by NBC NewsWire/NBCU Photo Bank/NBCUniversal via Getty Images via Getty Images)\n\nLegendary film critic Gene Shalit has died. He was 100 years old. For movie fans, fi…",
+        "content": "<p>TODAY -- Pictured: (l-r) Panelist/film critic Gene Shalit on NBC News' \"Today\" in 1982 (Photo by NBC NewsWire/NBCU Photo Bank/NBCUniversal via Getty Images via Getty Images)\n\nLegendary film critic Gene Shalit has died. He was 100 years old. For movie fans, fi…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2026/06/gene-shalit-getty-images.jpg?resize=2000,1305",
+        "date": "Jun 13, 2026",
+        "url": "http://comicbook.com/movies/news/legendary-today-show-movie-critic-gene-shalit-dies-at-100/"
+    },
+    {
+        "id": "oliefi59g",
+        "title": "Wall Street Week Ahead: Newly led Fed poses wildcard for rockier US indexes",
+        "excerpt": "Investors are closely watching the Federal Reserve's first meeting under new Chair Kevin Warsh amid concerns that interest rate hikes to combat inflation could negatively impact the stock market. While the Fed is expected to hold rates steady for now, market …",
+        "content": "<p>Investors are closely watching the Federal Reserve's first meeting under new Chair Kevin Warsh amid concerns that interest rate hikes to combat inflation could negatively impact the stock market. While the Fed is expected to hold rates steady for now, market …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131697230,width-1200,height-630,imgsize-113476,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 13, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-newly-led-fed-poses-wildcard-for-rockier-us-indexes/articleshow/131697187.cms"
+    },
+    {
+        "id": "g25okte11",
+        "title": "Real Madrid seeks special role for Luka Modric after retirement, and crypto has a cameo",
+        "excerpt": "Modric's post-retirement role at Real Madrid highlights the growing trend of athletes transitioning to influential positions, impacting sports management.\nThe post Real Madrid seeks special role for Luka Modric after retirement, and crypto has a cameo appeare…",
+        "content": "<p>Modric's post-retirement role at Real Madrid highlights the growing trend of athletes transitioning to influential positions, impacting sports management.\nThe post Real Madrid seeks special role for Luka Modric after retirement, and crypto has a cameo appeare…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12233538/luka-modric-will-be-here-in-august-milan-head-coach-max-alle-1-800x420.jpeg",
+        "date": "Jun 13, 2026",
+        "url": "https://cryptobriefing.com/real-madrid-modric-retirement-role-crypto/"
+    },
+    {
+        "id": "2znnbm50m",
+        "title": "Roki Sasaki, Dodgers get roughed up by White Sox with Shohei Ohtani out",
+        "excerpt": "With the upstart White Sox unexpectedly in first place, there is an energy pulsing through the South Side of Chicago again.",
+        "content": "<p>With the upstart White Sox unexpectedly in first place, there is an energy pulsing through the South Side of Chicago again.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-a8bfmk4ck-1781321589607.jpg?quality=75&strip=all&1781307209&w=1200",
+        "date": "Jun 13, 2026",
+        "url": "https://nypost.com/2026/06/12/sports/roki-sasaki-dodgers-get-roughed-up-without-shohei-ohtani/"
+    },
+    {
+        "id": "xnbsc65w7",
+        "title": "'Baffling' or 'based'? Tech world reacts to export controls on Anthropic's new AI models",
+        "excerpt": "One CEO said the move by the Trump administration and the response by Anthropic would 'send shockwaves' across AI labs.",
+        "content": "<p>One CEO said the move by the Trump administration and the response by Anthropic would 'send shockwaves' across AI labs.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.insider.com/6a2ccae2a462940611898cb4?width=1200&format=jpeg",
+        "date": "Jun 13, 2026",
+        "url": "https://www.businessinsider.com/reaction-to-trump-controls-on-anthropic-fable-and-mythos-2026-6#article"
+    },
+    {
+        "id": "thm914qx4",
+        "title": "Gio Reyna scores best goal of World Cup with trivela golazo",
+        "excerpt": "Reyna's goal highlights a shift in sports marketing, moving away from crypto-centric sponsorships towards more traditional branding strategies.\nThe post Gio Reyna scores best goal of World Cup with trivela golazo appeared first on Crypto Briefing.",
+        "content": "<p>Reyna's goal highlights a shift in sports marketing, moving away from crypto-centric sponsorships towards more traditional branding strategies.\nThe post Gio Reyna scores best goal of World Cup with trivela golazo appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12230717/arlington-texas-march-24-gio-reyna-7-of-the-united-states-wi-800x420.jpeg",
+        "date": "Jun 13, 2026",
+        "url": "https://cryptobriefing.com/gio-reyna-world-cup-trivela-goal/"
+    },
+    {
+        "id": "yi3xdvapl",
+        "title": "Trump Administration Limits Export of Advanced Anthropic AI Systems",
+        "excerpt": "The White House has moved to curb foreign access to cutting‑edge AI models from Anthropic, citing national security concerns.",
+        "content": "<p>The Trump administration announced new export controls that block certain foreign entities from obtaining the most recent versions of Anthropic’s large‑language models.</p>\n<p>Officials said the move aims to prevent adversarial nations from leveraging U.S.–developed AI for military or intelligence purposes.</p>\n<p>The restrictions follow a broader trend of tightening technology transfers, echoing earlier limits on semiconductor exports to China.</p>\n<p>Anthropic, a leading AI safety‑focused firm founded by former OpenAI researchers, said it is reviewing the order and will comply with all applicable laws while continuing to serve its domestic customers.</p>\n<p>Industry analysts warn that the curbs could slow global AI collaboration and push foreign labs to develop alternative models, while supporters argue the steps protect critical technological advantages.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://media.breitbart.com/media/2026/06/anthropic-claude-mythos-fable-5-ai-systems-stock-getty-640x335.jpg",
+        "date": "Jun 13, 2026",
+        "url": "https://www.breitbart.com/tech/2026/06/12/report-trump-administration-imposes-export-restrictions-anthropic-ai/"
+    },
+    {
+        "id": "hht7okhgu",
+        "title": "Turkey’s 24-year World Cup drought ends as crypto firms bet big on the 2026 tournament",
+        "excerpt": "Crypto's integration in the 2026 World Cup highlights its growing role in global sports, potentially boosting blockchain adoption and fan engagement.\nThe post Turkey’s 24-year World Cup drought ends as crypto firms bet big on the 2026 tournament appeared firs…",
+        "content": "<p>Crypto's integration in the 2026 World Cup highlights its growing role in global sports, potentially boosting blockchain adoption and fan engagement.\nThe post Turkey’s 24-year World Cup drought ends as crypto firms bet big on the 2026 tournament appeared firs…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12223327/turkey-women-s-national-football-team-in-the-home-match-agai-1-800x420.jpeg",
+        "date": "Jun 13, 2026",
+        "url": "https://cryptobriefing.com/turkey-world-cup-crypto-2026/"
+    },
+    {
+        "id": "w147tsmd0",
+        "title": "Donald Trump expected to attend World Cup final in New Jersey on July 19",
+        "excerpt": "Trump's attendance at the World Cup final highlights the growing intersection of politics, sports, and cryptocurrency, influencing global markets.\nThe post Donald Trump expected to attend World Cup final in New Jersey on July 19 appeared first on Crypto Brief…",
+        "content": "<p>Trump's attendance at the World Cup final highlights the growing intersection of politics, sports, and cryptocurrency, influencing global markets.\nThe post Donald Trump expected to attend World Cup final in New Jersey on July 19 appeared first on Crypto Brief…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12221941/after-knicks-chaos-trump-plans-to-attend-world-cup-final-in--800x420.jpeg",
+        "date": "Jun 13, 2026",
+        "url": "https://cryptobriefing.com/trump-world-cup-final-crypto-implications/"
+    },
+    {
         "id": "kpq45zk3i",
         "title": "Greenland Energy Company Announces Addition of Carol Craig to Board of Directors",
         "excerpt": "DENVER, June 11, 2026 /PRNewswire/ -- Greenland Energy Company (NASDAQ: GLND) (\"the Company\" or \"Greenland Energy\"), an oil exploration company focused on East Greenland's Jameson Land Basin, today announced the appointment of Carol Craig to the Company's Boa…",
