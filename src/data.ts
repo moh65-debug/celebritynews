@@ -12,6 +12,122 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ycrk5br4a",
+        "title": "Trump turns 80 with a showstopping spectacle of cage fights at the White House. But big issues loom",
+        "excerpt": "President Donald Trump celebrates turning 80 on Sunday with a showstopping birthday spectacle that once would have seemed unfathomable: a cage-fighting show...",
+        "content": "<p>President Donald Trump celebrates turning 80 on Sunday with a showstopping birthday spectacle that once would have seemed unfathomable: a cage-fighting show...</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/b788326f28624d9327ff2b6eff4f8cba3481862f55096eae8935f9a2600e0234/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4319acbdca180a7852e06a340d6a8b24",
+        "date": "Jun 14, 2026",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-turns-80-showstopping-spectacle-040207419.html"
+    },
+    {
+        "id": "0ygoie256",
+        "title": "Aymen Hussein discusses journey to World Cup after tragedy",
+        "excerpt": "Hussein's journey highlights the unifying power of sports, offering hope and national pride amid adversity, transcending mere athletic achievement.\nThe post Aymen Hussein discusses journey to World Cup after tragedy appeared first on Crypto Briefing.",
+        "content": "<p>Hussein's journey highlights the unifying power of sports, offering hope and national pride amid adversity, transcending mere athletic achievement.\nThe post Aymen Hussein discusses journey to World Cup after tragedy appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/13234848/iraq-striker-aymen-hussein-questioned-for-hours-on-us-arriva-800x420.jpeg",
+        "date": "Jun 14, 2026",
+        "url": "https://cryptobriefing.com/aymen-hussein-world-cup-journey/"
+    },
+    {
+        "id": "htn20hn40",
+        "title": "New York Knicks Defeat San Antonio Spurs in NBA Finals Game 5 to Win First Championship in Over 50 Years",
+        "excerpt": "Knicks in five! The New York Knicks just won their first NBA championship in 53 years on Saturday night (June […]\nThe post New York Knicks Defeat San Antonio Spurs in NBA Finals Game 5 to Win First Championship in Over 50 Years appeared first on Just Jared - …",
+        "content": "<p>Knicks in five! The New York Knicks just won their first NBA championship in 53 years on Saturday night (June […]\nThe post New York Knicks Defeat San Antonio Spurs in NBA Finals Game 5 to Win First Championship in Over 50 Years appeared first on Just Jared - …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/knicks-win.jpg",
+        "date": "Jun 14, 2026",
+        "url": "https://www.justjared.com/2026/06/13/new-york-knicks-defeat-san-antonio-spurs-in-nba-finals-game-5-to-win-first-championship-in-over-50-years/"
+    },
+    {
+        "id": "aul0rp01r",
+        "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
+        "excerpt": "Calls from Amazon CEO Andy Jassy and other tech firms prompted the Trump administration to suspend foreign access to Anthropic’s Fable 5 and Mythos 5 AI models on Friday.",
+        "content": "<p>Calls from Amazon CEO Andy Jassy and other tech firms prompted the Trump administration to suspend foreign access to Anthropic’s Fable 5 and Mythos 5 AI models on Friday.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s3-images.ctmedia.io/media/article-covers/worst-price-predictions-of-2020.jpg",
+        "date": "Jun 14, 2026",
+        "url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports"
+    },
+    {
+        "id": "s6u9m9equ",
+        "title": "...",
+        "excerpt": "...",
+        "content": "<p>Para1</p>\n<p>Para2</p>\n<p>Para3</p>\n<p>Para4</p>\n<p>Para5</p>",
+        "celebrities": [
+            "Nvidia",
+            "Vera",
+            "China",
+            "United States",
+            "H200"
+        ],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-142124,resizemode-75,msid-131715081/tech/artificial-intelligence/nvidia-begins-vera-cpu-sales-pitch-to-chinese-clients-sources-say.jpg",
+        "date": "Jun 14, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-begins-vera-cpu-sales-pitch-to-chinese-clients-sources-say/articleshow/131715081.cms"
+    },
+    {
+        "id": "k3meqy7zj",
+        "title": "As Anthropic suspends access to new models, India debates its AI future",
+        "excerpt": "Anthropic’s sudden move to suspend access to its newest AI models following a U.S. government directive has raised fresh questions across the global technology industry. In India, the decision has reignited a long-running debate over whether one of the world’…",
+        "content": "<p>Anthropic’s sudden move to suspend access to its newest AI models following a U.S. government directive has raised fresh questions across the global technology industry. In India, the decision has reignited a long-running debate over whether one of the world’…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/7157172fd9b1a01d_s.webp",
+        "date": "Jun 14, 2026",
+        "url": "https://biztoc.com/x/7157172fd9b1a01d"
+    },
+    {
+        "id": "00f2v86k2",
+        "title": "Scotland beats Haiti 1-0 in World Cup opener as $SFA fan token enters the spotlight",
+        "excerpt": "Scotland's World Cup win highlights the growing influence of fan tokens, potentially reshaping sports engagement and investment dynamics.\nThe post Scotland beats Haiti 1-0 in World Cup opener as $SFA fan token enters the spotlight appeared first on Crypto Bri…",
+        "content": "<p>Scotland's World Cup win highlights the growing influence of fan tokens, potentially reshaping sports engagement and investment dynamics.\nThe post Scotland beats Haiti 1-0 in World Cup opener as $SFA fan token enters the spotlight appeared first on Crypto Bri…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/13231159/https-upload-wikimedia-org-wikipedia-commons-d-da-first-mini-3-800x420.jpeg",
+        "date": "Jun 14, 2026",
+        "url": "https://cryptobriefing.com/scotland-world-cup-sfa-fan-token/"
+    },
+    {
+        "id": "0zv64tipu",
+        "title": "Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker",
+        "excerpt": "The IPO, the biggest in US history, vaulted SpaceX's value above two Mag 7 members: CEO Elon ‌Musk's other company, Tesla , ⁠and ⁠Meta Platforms. With trillion-dollar contenders such as OpenAI and Anthropic waiting in the IPO wings, the club may soon need a n…",
+        "content": "<p>The IPO, the biggest in US history, vaulted SpaceX's value above two Mag 7 members: CEO Elon ‌Musk's other company, Tesla , ⁠and ⁠Meta Platforms. With trillion-dollar contenders such as OpenAI and Anthropic waiting in the IPO wings, the club may soon need a n…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37456,resizemode-75,msid-131715005/tech/technology/mag-7-mangos-spacex-forces-name-rethink-on-wall-streets-tech-stock-moniker.jpg",
+        "date": "Jun 14, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/mag-7-mangos-spacex-forces-name-rethink-on-wall-streets-tech-stock-moniker/articleshow/131715005.cms"
+    },
+    {
+        "id": "1hhh6wn1m",
+        "title": "From insurgency to Arabica: Nagaland finds a new revolution in coffee",
+        "excerpt": "Nagaland is brewing a new future, shifting from its past to a vibrant coffee economy. Local farmers and young entrepreneurs are leading this transformation. They are cultivating premium arabica beans and building brands. This initiative aims to establish Naga…",
+        "content": "<p>Nagaland is brewing a new future, shifting from its past to a vibrant coffee economy. Local farmers and young entrepreneurs are leading this transformation. They are cultivating premium arabica beans and building brands. This initiative aims to establish Naga…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-131714838,width-1200,height-630,imgsize-306906,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 14, 2026",
+        "url": "https://economictimes.indiatimes.com/news/india/from-insurgency-to-arabica-nagaland-finds-a-new-revolution-in-coffee/articleshow/131714805.cms"
+    },
+    {
+        "id": "x5qlp9v81",
+        "title": "Six-pack abs in 6 months to work in AI: Remembering Sushant Singh Rajput through 37 dreams he never got to complete out of 50 wishes from his bucket list",
+        "excerpt": "Sushant Singh Rajput, an actor who left engineering for Bollywood, pursued a life driven by curiosity, compiling a bucket list of 50 ambitions. He successfully fulfilled 13 dreams, including learning to fly and visiting CERN, before his untimely death. Scroll…",
+        "content": "<p>Sushant Singh Rajput, an actor who left engineering for Bollywood, pursued a life driven by curiosity, compiling a bucket list of 50 ambitions. He successfully fulfilled 13 dreams, including learning to fly and visiting CERN, before his untimely death. Scroll…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://img.etimg.com/thumb/msid-131714813,width-1200,height-630,imgsize-36256,overlay-etpanache/articleshow.jpg",
+        "date": "Jun 14, 2026",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/six-pack-abs-in-6-months-to-work-in-ai-remembering-sushant-singh-rajput-through-37-dreams-he-never-got-to-complete-out-of-50-wishes-from-his-bucket-list/articleshow/131714700.cms"
+    },
+    {
         "id": "dp952s10m",
         "title": "Japanese investors sought more than $6.2 billion worth of SpaceX shares at IPO, sources say",
         "excerpt": "Japanese investors showed immense interest in SpaceX's record-breaking IPO. They sought over one trillion yen in shares, with retail investors leading the charge. This strong demand mirrored global enthusiasm for Elon Musk's company. Japanese investors ultima…",
