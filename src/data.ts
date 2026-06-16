@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "3p5a3m8vo",
+        "title": "Sundar Pichai tells Stanford graduates ‘your choices will shape your journey’ after students walk out during speech",
+        "excerpt": "Google CEO Sundar Pichai's Stanford commencement address was disrupted by over 100 students walking out to protest Project Nimbus, a deal involving Google and the Israeli government.  Chanting  Free, free Palestine,  the students highlighted concerns over the…",
+        "content": "<p>Google CEO Sundar Pichai's Stanford commencement address was disrupted by over 100 students walking out to protest Project Nimbus, a deal involving Google and the Israeli government.  Chanting  Free, free Palestine,  the students highlighted concerns over the…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131732563,width-1200,height-630,imgsize-71316,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 15, 2026",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/sundar-pichai-tells-stanford-graduates-your-choices-will-shape-your-journey-after-students-walk-out-during-speech/articleshow/131732401.cms"
+    },
+    {
+        "id": "045gy8470",
+        "title": "Several Stanford students stage walk-out as Google CEO Sundar Pichai begins speech",
+        "excerpt": "Pro-Palestinian students at Stanford University staged a walkout during Google CEO Sundar Pichai's commencement address. Protesters condemned Google's contract with the Israeli government. The demonstration highlighted ongoing tensions surrounding the conflic…",
+        "content": "<p>Pro-Palestinian students at Stanford University staged a walkout during Google CEO Sundar Pichai's commencement address. Protesters condemned Google's contract with the Israeli government. The demonstration highlighted ongoing tensions surrounding the conflic…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-64538,resizemode-75,msid-131732503/tech/technology/several-stanford-students-stage-walk-out-as-google-ceo-sundar-pichai-begins-speech.jpg",
+        "date": "Jun 15, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/several-stanford-students-stage-walk-out-as-google-ceo-sundar-pichai-begins-speech/articleshow/131732503.cms"
+    },
+    {
+        "id": "j8lhaw3w5",
+        "title": "Indian AI startups pitch for funds from venture capitalists in US: Anirudh Arun",
+        "excerpt": "Agentic Universe, among leading Indian startups working on AI applications, is expected to complete $10 million second fund raising by end of this year for scaling its capacity",
+        "content": "<p>Agentic Universe, among leading Indian startups working on AI applications, is expected to complete $10 million second fund raising by end of this year for scaling its capacity</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/x2254j/article71049296.ece/alternates/LANDSCAPE_1200/BL03_AI_generate.jpg",
+        "date": "Jun 15, 2026",
+        "url": "https://www.thehindubusinessline.com/info-tech/indian-ai-startups-pitch-for-funds-from-venture-capitalists-in-us-anirudh-arun/article71103357.ece"
+    },
+    {
+        "id": "26pd5f98w",
+        "title": "Irritated Iran national team insists they are searching for 'peace, joy' and victory at World Cup",
+        "excerpt": "The Iran national team arrived at LA Stadium one day in advance of their FIFA World Cup opener Monday against New Zealand. That's standard in the World Cup, but it almost wasn't the case for the Iranians -- and they were not happy about it.",
+        "content": "<p>The Iran national team arrived at LA Stadium one day in advance of their FIFA World Cup opener Monday against New Zealand. That's standard in the World Cup, but it almost wasn't the case for the Iranians -- and they were not happy about it.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://s.yimg.com/os/en/the_sporting_news_articles_584/c8ec7f755fddb0a6a020dcbb1c004088",
+        "date": "Jun 15, 2026",
+        "url": "https://www.sportingnews.com/us/soccer/news/iran-national-team-insists-peace-joy-victory-world-cup/294d03a897b6ee9ba01b41c9"
+    },
+    {
+        "id": "i3f0suie2",
+        "title": "Indian AI startups pitch for funds from venture capitalists in US: Anirudh Arun",
+        "excerpt": "Indian artificial intelligence companies are increasingly securing funding from the United States. Investors are drawn to promising returns and India's government initiatives promoting advanced technology. Anirudh Arun, CEO of Agentic Universe, highlights thi…",
+        "content": "<p>Indian artificial intelligence companies are increasingly securing funding from the United States. Investors are drawn to promising returns and India's government initiatives promoting advanced technology. Anirudh Arun, CEO of Agentic Universe, highlights thi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-51024,resizemode-75,msid-131732446/tech/startups/indian-ai-startups-pitch-for-funds-from-venture-capitalists-in-us-anirudh-arun.jpg",
+        "date": "Jun 15, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/startups/indian-ai-startups-pitch-for-funds-from-venture-capitalists-in-us-anirudh-arun/articleshow/131732446.cms"
+    },
+    {
+        "id": "y6epf4e5x",
+        "title": "Fujitsu exits hardware business in ASEAN in IT consulting move",
+        "excerpt": "Fujitsu is walking away from its legacy hardware business in the region and pitching itself as a supplier-neutral technology consultant to help customers cut through the AI hype",
+        "content": "<p>Fujitsu is walking away from its legacy hardware business in the region and pitching itself as a supplier-neutral technology consultant to help customers cut through the AI hype</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Fujitsu-phone-web-Timon-adobe.jpg",
+        "date": "Jun 15, 2026",
+        "url": "https://www.computerweekly.com/news/366644338/Fujitsu-exits-hardware-business-in-ASEAN-in-IT-consulting-move"
+    },
+    {
+        "id": "rk5lll91u",
+        "title": "IndiGo, SpiceJet, other tourism stocks in focus after US, Iran agree to peace deal after long negotiations",
+        "excerpt": "Indian airline and travel stocks up to 7% surged as U.S. President Trump announced an initial agreement to end the war and reopen the Strait of Hormuz. This development is expected to ease geopolitical tensions, potentially reducing operating costs for airlin…",
+        "content": "<p>Indian airline and travel stocks up to 7% surged as U.S. President Trump announced an initial agreement to end the war and reopen the Strait of Hormuz. This development is expected to ease geopolitical tensions, potentially reducing operating costs for airlin…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-131732416,width-1200,height-630,imgsize-77560,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 15, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-spicejet-other-tourism-stocks-in-focus-after-us-iran-agree-to-peace-deal-after-long-negotiations/articleshow/131732409.cms"
+    },
+    {
+        "id": "bur2o9whp",
+        "title": "ByteDance in talks to acquire AI chips from Iluvatar CoreX in push away from Nvidia",
+        "excerpt": "ByteDance's diversification in AI chip sourcing highlights China's strategic shift towards semiconductor self-reliance amid global tensions.\nThe post ByteDance in talks to acquire AI chips from Iluvatar CoreX in push away from Nvidia appeared first on Crypto …",
+        "content": "<p>ByteDance's diversification in AI chip sourcing highlights China's strategic shift towards semiconductor self-reliance amid global tensions.\nThe post ByteDance in talks to acquire AI chips from Iluvatar CoreX in push away from Nvidia appeared first on Crypto …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/14233601/chinese-computing-solutions-major-iluvatar-corex-bags-186m-l-800x420.jpeg",
+        "date": "Jun 15, 2026",
+        "url": "https://cryptobriefing.com/bytedance-iluvatar-corex-ai-chips/"
+    },
+    {
+        "id": "sfk4fs4jt",
+        "title": "SoftBank surges more than 12% as Iran-U.S. peace deal sends Asia stocks soaring",
+        "excerpt": "Asian tech stocks surged Monday on news that Iran and the U.S. have reached a peace deal",
+        "content": "<p>Asian tech stocks surged Monday on news that Iran and the U.S. have reached a peace deal</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://image.cnbcfm.com/api/v1/image/108275886-1773132814203-gettyimages-2210929634-SKOREA_SK_HYNIX.jpeg?v=1779303284&w=1920&h=1080",
+        "date": "Jun 15, 2026",
+        "url": "https://www.cnbc.com/2026/06/15/softbank-up-more-than-12percent-on-news-of-iran-us-peace-deal-.html"
+    },
+    {
+        "id": "8xr0mz9v3",
+        "title": "Breaking: Liberty Bell Bay smelter given another reprieve",
+        "excerpt": "The administrator for the mothballed manganese smelter is continuing to engage with the consortium designated as its preferred buyer, the ABC understands.",
+        "content": "<p>The administrator for the mothballed manganese smelter is continuing to engage with the consortium designated as its preferred buyer, the ABC understands.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/55dabc5042bdc1e70ce6ac89e3ea3a0b?impolicy=wcms_watermark_news&cropH=843&cropW=1500&xPos=0&yPos=79&width=862&height=485&imformat=generic",
+        "date": "Jun 15, 2026",
+        "url": "https://www.abc.net.au/news/2026-06-15/liberty-bell-bay-administrator-continues-talks/106798024"
+    },
+    {
         "id": "ycrk5br4a",
         "title": "Trump turns 80 with a showstopping spectacle of cage fights at the White House. But big issues loom",
         "excerpt": "President Donald Trump celebrates turning 80 on Sunday with a showstopping birthday spectacle that once would have seemed unfathomable: a cage-fighting show...",
