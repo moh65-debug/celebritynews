@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "59hpuagmt",
+        "title": "How AngelHack uses hackathons to ease AI adoption",
+        "excerpt": "From internal hackathons to accelerator programmes, Singapore’s AngelHack is empowering everyday employees to build their own AI applications while expanding its reach in the US, Brazil and Australia",
+        "content": "<p>From internal hackathons to accelerator programmes, Singapore’s AngelHack is empowering everyday employees to build their own AI applications while expanding its reach in the US, Brazil and Australia</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.computerweekly.com/visuals/German/article/software-development-design-adobe.jpg",
+        "date": "Jun 16, 2026",
+        "url": "https://www.computerweekly.com/news/366644461/How-AngelHack-uses-hackathons-to-ease-AI-adoption"
+    },
+    {
+        "id": "p7t404dio",
+        "title": "Beleaguered KPMG referred to anti-corruption watchdog amid contract freeze",
+        "excerpt": "KPMG is facing a three-month freeze on new federal government contracts amid a worsening scandal over the treatment of a whistleblower, with the Greens now referring the beleaguered company to the national anti-corruption watchdog.",
+        "content": "<p>KPMG is facing a three-month freeze on new federal government contracts amid a worsening scandal over the treatment of a whistleblower, with the Greens now referring the beleaguered company to the national anti-corruption watchdog.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/f7944ec4f6a684d66d6069833e72955c?impolicy=wcms_watermark_news&cropH=3700&cropW=6578&xPos=0&yPos=270&width=862&height=485&imformat=generic",
+        "date": "Jun 16, 2026",
+        "url": "https://www.abc.net.au/news/2026-06-16/kpmg-freeze-on-government-contracts-amid-corruption-referral/106802576"
+    },
+    {
+        "id": "zbgnf1uhc",
+        "title": "Wanda Sykes Says Bill Maher Confronted Her Over 2026 Golden Globes Joke: ‘He Didn’t Care For It’",
+        "excerpt": "Bill Maher wasn’t happy with a joke Wanda Sykes made about him at the 2026 Golden Globes. According to The […]\nThe post Wanda Sykes Says Bill Maher Confronted Her Over 2026 Golden Globes Joke: ‘He Didn’t Care For It’ appeared first on Just Jared - Celebrity N…",
+        "content": "<p>Bill Maher wasn’t happy with a joke Wanda Sykes made about him at the 2026 Golden Globes. According to The […]\nThe post Wanda Sykes Says Bill Maher Confronted Her Over 2026 Golden Globes Joke: ‘He Didn’t Care For It’ appeared first on Just Jared - Celebrity N…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/wanda-bill-maher-joke.jpg",
+        "date": "Jun 16, 2026",
+        "url": "https://www.justjared.com/2026/06/15/wanda-sykes-says-bill-maher-confronted-her-over-2026-golden-globes-joke-he-didnt-care-for-it/"
+    },
+    {
+        "id": "g85fbdbl5",
+        "title": "Don't wait for FIIs: Nippon MF CIO Sailesh Raj Bhan on why market will rise before foreign money returns",
+        "excerpt": "Indian equities offer rare discounts for investors. Nippon India Mutual Fund's Equity CIO, Sailesh Raj Bhan, advises accumulating world-class businesses now. Valuations have reset after two years of consolidation. The next 12 months present an opportunity to …",
+        "content": "<p>Indian equities offer rare discounts for investors. Nippon India Mutual Fund's Equity CIO, Sailesh Raj Bhan, advises accumulating world-class businesses now. Valuations have reset after two years of consolidation. The next 12 months present an opportunity to …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131745791,width-1200,height-630,imgsize-12802,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 16, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/dont-wait-for-fiis-nippon-mf-cio-sailesh-raj-bhan-on-why-market-will-rise-before-foreign-money-returns/articleshow/131745789.cms"
+    },
+    {
+        "id": "3w4kqrdeq",
+        "title": "ETMarkets Smart Talk | Defence and electrification are multi-year structural themes for India: Prateek Agrawal",
+        "excerpt": "Geopolitical shifts and the drive for self-reliance are creating long-term investment opportunities in India's defence and electrification sectors, according to Prateek Agrawal of Motilal Oswal AMC. He emphasizes focusing on businesses with durable earnings g…",
+        "content": "<p>Geopolitical shifts and the drive for self-reliance are creating long-term investment opportunities in India's defence and electrification sectors, according to Prateek Agrawal of Motilal Oswal AMC. He emphasizes focusing on businesses with durable earnings g…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131738895,width-1200,height-630,imgsize-170282,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 16, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-defence-and-electrification-are-multi-year-structural-themes-for-india-prateek-agrawal/articleshow/131738884.cms"
+    },
+    {
+        "id": "o87ea47q2",
+        "title": "Corgi files for MANGOS ETF targeting AI leaders Meta, Google, Nvidia",
+        "excerpt": "The MANGOS ETF highlights a shift towards AI-focused investments, potentially reshaping market dynamics and investor strategies in tech sectors.\nThe post Corgi files for MANGOS ETF targeting AI leaders Meta, Google, Nvidia appeared first on Crypto Briefing.",
+        "content": "<p>The MANGOS ETF highlights a shift towards AI-focused investments, potentially reshaping market dynamics and investor strategies in tech sectors.\nThe post Corgi files for MANGOS ETF targeting AI leaders Meta, Google, Nvidia appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15232009/logos-brand-guidelines-nvidia-8-800x420.jpeg",
+        "date": "Jun 16, 2026",
+        "url": "https://cryptobriefing.com/corgi-mangos-etf-ai-leaders/"
+    },
+    {
+        "id": "wukj9qog4",
+        "title": "FIFA World Cup 2026: Iran fight back twice to secure 2-2 draw against New Zealand",
+        "excerpt": "FIFA World Cup 2026: Iran fought back twice to lock in a 2-2 draw against New Zealand in their World Cup debut, demonstrating grit in the face of social unrest. The match, charged with emotion, saw both teams overcoming hurdles in preparation for this grand s…",
+        "content": "<p>FIFA World Cup 2026: Iran fought back twice to lock in a 2-2 draw against New Zealand in their World Cup debut, demonstrating grit in the face of social unrest. The match, charged with emotion, saw both teams overcoming hurdles in preparation for this grand s…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-131758314,width-1200,height-630,imgsize-239036,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 16, 2026",
+        "url": "https://economictimes.indiatimes.com/news/sports/fifa-world-cup-2026-iran-fight-back-twice-to-secure-2-2-draw-against-new-zealand/articleshow/131758269.cms"
+    },
+    {
+        "id": "arp6pvk60",
+        "title": "Inside the fight over Claude Mythos 5",
+        "excerpt": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export contr…",
+        "content": "<p>As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export contr…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "date": "Jun 16, 2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls"
+    },
+    {
+        "id": "coe8ix4sf",
+        "title": "Jelly Roll Reportedly Files For Divorce From Bunnie Xo After 10 Years Of Marriage",
+        "excerpt": "Jelly Roll and Bunnie Xo are splitting up. The 41-year-old “Son of a Sinner” singer reportedly filed for divorce from […]\nThe post Jelly Roll Reportedly Files For Divorce From Bunnie Xo After 10 Years Of Marriage appeared first on Just Jared - Celebrity News …",
+        "content": "<p>Jelly Roll and Bunnie Xo are splitting up. The 41-year-old “Son of a Sinner” singer reportedly filed for divorce from […]\nThe post Jelly Roll Reportedly Files For Divorce From Bunnie Xo After 10 Years Of Marriage appeared first on Just Jared - Celebrity News …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/jelly-roll-bunnie-divorce.jpg",
+        "date": "Jun 16, 2026",
+        "url": "https://www.justjared.com/2026/06/15/jelly-roll-reportedly-files-for-divorce-from-bunnie-xo-after-10-years-of-marriage/"
+    },
+    {
+        "id": "grddn3nuk",
+        "title": "The 2025-26 Milwaukee High School Sports Awards show winners",
+        "excerpt": "The 2025-26 Milwaukee High School Sports Awards were on June 15 at the Brookfield Conference Center. Here are all the Players of the Year.",
+        "content": "<p>The 2025-26 Milwaukee High School Sports Awards were on June 15 at the Brookfield Conference Center. Here are all the Players of the Year.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/5d42f62920b33f53f3a21030e226aac668b4824b6a21b39fe6386fd4549d16af/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmilwaukee_journal_sentinel_natl_articles_362%2F9a8cea8d921c1822af6101da4f5a87e1",
+        "date": "Jun 16, 2026",
+        "url": "https://www.jsonline.com/story/sports/high-school/sports-awards/2026/06/15/milwaukee-high-school-sports-awards-show-winners/90567603007/"
+    },
+    {
         "id": "3p5a3m8vo",
         "title": "Sundar Pichai tells Stanford graduates ‘your choices will shape your journey’ after students walk out during speech",
         "excerpt": "Google CEO Sundar Pichai's Stanford commencement address was disrupted by over 100 students walking out to protest Project Nimbus, a deal involving Google and the Israeli government.  Chanting  Free, free Palestine,  the students highlighted concerns over the…",
