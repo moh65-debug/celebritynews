@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "4keblimar",
+        "title": "二次抵抗制御天井クレーンの高精度自動制御の実現！インバータ制御への置き換えが不要なレトロフィット型の自動化ソリューションの開発に成功！",
+        "excerpt": "[株式会社 Proxima Technology]\n[画像: https://prcdn.freetls.fastly.net/release_image/74074/22/74074-22-909ae90b34f297d697432bb1ce3bac98-2088x265.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+        "content": "<p>[株式会社 Proxima Technology]\n[画像: https://prcdn.freetls.fastly.net/release_image/74074/22/74074-22-909ae90b34f297d697432bb1ce3bac98-2088x265.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/74074/22/74074-22-909ae90b34f297d697432bb1ce3bac98-2088x265.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "date": "Jun 17, 2026",
+        "url": "https://prtimes.jp/main/html/rd/p/000000022.000074074.html"
+    },
+    {
+        "id": "k7imdl0ve",
+        "title": "People Who Work With Celebrities Are Spilling 41 Behind-The-Scenes Secrets, And I'm Never Looking At Famous People The Same Way Again",
+        "excerpt": "\"Most of them are not as rich as you think they are, and almost all of them are bad at managing the money they do make. Most of the money they make goes towards trying to appear wealthy.\"View Entire Post ›",
+        "content": "<p>\"Most of them are not as rich as you think they are, and almost all of them are bad at managing the money they do make. Most of the money they make goes towards trying to appear wealthy.\"View Entire Post ›</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/12/20/thumb/uY3jtMv2f.jpg?crop=2999:1570;0,2%26downsize=1250:*",
+        "date": "Jun 17, 2026",
+        "url": "https://www.buzzfeed.com/hannahmarder/secrets-about-celebs"
+    },
+    {
+        "id": "odcq95zdt",
+        "title": "Great Learning co-founder says management control shielded it from Byju’s downfall hit",
+        "excerpt": "Founded in 2013, Great Learning offers courses in technology, data science, artificial intelligence and related professional skills.",
+        "content": "<p>Founded in 2013, Great Learning offers courses in technology, data science, artificial intelligence and related professional skills.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/06/16/1600x900/logo/Arjun_Nair_1781628188581_1781628211922_0f9475f8-27b6-4f97-8ebb-d9f14835750a.jpg",
+        "date": "Jun 17, 2026",
+        "url": "https://www.livemint.com/companies/great-learning-co-founder-byju-s-downfall-edtech-learning-courses-acquisitions-upskilling-ai-11781614628891.html"
+    },
+    {
+        "id": "q53equvkf",
+        "title": "The 30% smallcap tilt: How Abakkus Flexi Cap Fund is positioning for the next rally",
+        "excerpt": "Abakkus Mutual Fund is strategically allocating 30% to smallcaps within its Flexi Cap Fund, identifying mispriced opportunities despite stretched midcap valuations. This approach aims to capture high-conviction, beaten-down smallcap stocks poised for India's …",
+        "content": "<p>Abakkus Mutual Fund is strategically allocating 30% to smallcaps within its Flexi Cap Fund, identifying mispriced opportunities despite stretched midcap valuations. This approach aims to capture high-conviction, beaten-down smallcap stocks poised for India's …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131775716,width-1200,height-630,imgsize-14808,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 17, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/the-30-smallcap-tilt-how-abakkus-flexi-cap-fund-is-positioning-for-the-next-rally/articleshow/131775725.cms"
+    },
+    {
+        "id": "rfphxgyhh",
+        "title": "APAC Screen Economy Set To Be Worth $200BN By 2031 With Monetization Gains Moving Towards Retail – APOS",
+        "excerpt": "Asia Pacific’s screen economy will grow from $179BN this year to $200BN by 2031 but future gains in monetization may come from retail media and commerce, rather than the traditional revenue streams of advertising and subscription, said Media Partners Asia CEO…",
+        "content": "<p>Asia Pacific’s screen economy will grow from $179BN this year to $200BN by 2031 but future gains in monetization may come from retail media and commerce, rather than the traditional revenue streams of advertising and subscription, said Media Partners Asia CEO…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://deadline.com/wp-content/uploads/2026/06/APOS-opening.jpg?w=1024",
+        "date": "Jun 17, 2026",
+        "url": "http://deadline.com/2026/06/apos-apac-asia-screen-economy-streaming-retail-media-1236958095/"
+    },
+    {
+        "id": "ydhl6lvpi",
+        "title": "FIFA World Cup 2026 crypto impact: Kraken partnership, fan tokens, and prediction markets surge on matchday",
+        "excerpt": "The surge in crypto activities during the World Cup 2026 highlights the growing intersection of sports and digital finance, potentially reshaping fan engagement and regulatory landscapes.\nThe post FIFA World Cup 2026 crypto impact: Kraken partnership, fan tok…",
+        "content": "<p>The surge in crypto activities during the World Cup 2026 highlights the growing intersection of sports and digital finance, potentially reshaping fan engagement and regulatory landscapes.\nThe post FIFA World Cup 2026 crypto impact: Kraken partnership, fan tok…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/16232502/kraken-named-official-crypto-exchange-supporter-of-the-fifa--2-800x420.png",
+        "date": "Jun 17, 2026",
+        "url": "https://cryptobriefing.com/fifa-world-cup-2026-crypto-fan-tokens-prediction-markets/"
+    },
+    {
+        "id": "u3h24cbx3",
+        "title": "Ciara Miller’s Return for ‘Summer House’ Season 11 Teased by Bravo Executive, He Thinks She’s the Future of the Show",
+        "excerpt": "Ciara Miller‘s future on Summer House has been speculated for months. The reality star first joined the Bravo series in […]\nThe post Ciara Miller’s Return for ‘Summer House’ Season 11 Teased by Bravo Executive, He Thinks She’s the Future of the Show appeared …",
+        "content": "<p>Ciara Miller‘s future on Summer House has been speculated for months. The reality star first joined the Bravo series in […]\nThe post Ciara Miller’s Return for ‘Summer House’ Season 11 Teased by Bravo Executive, He Thinks She’s the Future of the Show appeared …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/ciara-summer.jpg",
+        "date": "Jun 17, 2026",
+        "url": "https://www.justjared.com/2026/06/16/ciara-millers-return-for-summer-house-season-11-teased-by-bravo-executive-he-thinks-shes-the-future-of-the-show/"
+    },
+    {
+        "id": "8644c1k11",
+        "title": "Luca Zidane debuts for Algeria at World Cup, following father Zinedine’s legacy",
+        "excerpt": "Luca Zidane's World Cup debut for Algeria highlights the evolving dynamics of national identity in sports and the enduring impact of legacy.\nThe post Luca Zidane debuts for Algeria at World Cup, following father Zinedine’s legacy appeared first on Crypto Brie…",
+        "content": "<p>Luca Zidane's World Cup debut for Algeria highlights the evolving dynamics of national identity in sports and the enduring impact of legacy.\nThe post Luca Zidane debuts for Algeria at World Cup, following father Zinedine’s legacy appeared first on Crypto Brie…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/16222444/zidane-s-son-luca-switches-allegiance-from-france-to-algeria-800x420.jpeg",
+        "date": "Jun 17, 2026",
+        "url": "https://cryptobriefing.com/luca-zidane-algeria-world-cup-debut/"
+    },
+    {
+        "id": "t1iuwczyi",
+        "title": "Hooptown Hall of Fame-bound Ferris basketball teams made history with back-to-back 29-0 seasons: 'An amazing feat'",
+        "excerpt": "Jun. 16—Two decades after coaching the best stretch of big school boys basketball in state history, Don Van Lierop had an apt way to summarize the experience. \"I knew that was the nicest car I was ever going to drive,\" the former Ferris coach said. Van Lierop…",
+        "content": "<p>Jun. 16—Two decades after coaching the best stretch of big school boys basketball in state history, Don Van Lierop had an apt way to summarize the experience. \"I knew that was the nicest car I was ever going to drive,\" the former Ferris coach said. Van Lierop…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
+        "date": "Jun 17, 2026",
+        "url": "http://www.spokesman.com/stories/2026/jun/16/hooptown-hall-of-fame-bound-ferris-basketball-team/"
+    },
+    {
+        "id": "vw89tfj48",
+        "title": "[Interview] The Future of Screen Experiences ②: From Watching to Understanding With Vision AI Companion",
+        "excerpt": "As the centerpiece of the living room, the TV is evolving into a smart platform that understands user intent and expands the viewing experience. Beyond simply playing content, TVs now enable natural conversations, provide real-time information about what’s on…",
+        "content": "<p>As the centerpiece of the living room, the TV is evolving into a smart platform that understands user intent and expands the viewing experience. Beyond simply playing content, TVs now enable natural conversations, provide real-time information about what’s on…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/06/16140813/Samsung-TVs-and-Displays-Vision-AI-Companion-Interview_Thumb932.jpg",
+        "date": "Jun 17, 2026",
+        "url": "https://news.samsung.com/global/interview-the-future-of-screen-experiences-%e2%91%a1-from-watching-to-understanding-with-vision-ai-companion"
+    },
+    {
         "id": "59hpuagmt",
         "title": "How AngelHack uses hackathons to ease AI adoption",
         "excerpt": "From internal hackathons to accelerator programmes, Singapore’s AngelHack is empowering everyday employees to build their own AI applications while expanding its reach in the US, Brazil and Australia",
