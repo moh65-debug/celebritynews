@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "bjh2ld13g",
+        "title": "AI startup Midjourney pivots to health with ultrasound machine",
+        "excerpt": "AI startup Midjourney pivots to health with a groundbreaking full-body ultrasound machine, aiming to revolutionize personal medical diagnostics.",
+        "content": "<p>AI startup Midjourney pivots to health with a groundbreaking full-body ultrasound machine, aiming to revolutionize personal medical diagnostics.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/eff7t5/article71116397.ece/alternates/LANDSCAPE_1200/IMG_iStock-2210069702_2_1_3QFGNJ6O.jpg",
+        "date": "Jun 18, 2026",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-18/ai-startup-midjourney-pivots-to-health-with-ultrasound-machine"
+    },
+    {
+        "id": "mv0cg1mz7",
+        "title": "Politics with Michelle Grattan: Jonno Duniam on guilt and relief about quitting politics",
+        "excerpt": "The departing Liberal frontbencher also said it’s ‘mad’ to be talking about doing deals with One Nation so far from an election.",
+        "content": "<p>The departing Liberal frontbencher also said it’s ‘mad’ to be talking about doing deals with One Nation so far from an election.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.theconversation.com/files/742357/original/file-20260617-57-nab61s.jpg?ixlib=rb-4.1.0&rect=0%2C582%2C8256%2C4128&q=45&auto=format&w=1356&h=668&fit=crop",
+        "date": "Jun 18, 2026",
+        "url": "https://theconversation.com/politics-with-michelle-grattan-jonno-duniam-on-guilt-and-relief-about-quitting-politics-285477"
+    },
+    {
+        "id": "nz0xkweak",
+        "title": "Is Australia prepared for the data centre boom?",
+        "excerpt": "As data centres rapidly come online to meet demand, governments are being urged to ensure that development does not outpace adequate planning.",
+        "content": "<p>As data centres rapidly come online to meet demand, governments are being urged to ensure that development does not outpace adequate planning.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/ea30a6b569cdfdf583412a52b3d9d9d2?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=100&width=862&height=485&imformat=generic",
+        "date": "Jun 18, 2026",
+        "url": "https://www.abc.net.au/news/2026-06-18/data-centre-boom-sparks-warning-to-consider-climate-change/106799658"
+    },
+    {
+        "id": "1p4td4uwj",
+        "title": "Media Briefing: The new World Cup SEO playbook: What’s in and what’s out",
+        "excerpt": "The World Cup is no longer a guaranteed search traffic bonanza, pushing publishers to rethink SEO and audience strategies.",
+        "content": "<p>The World Cup is no longer a guaranteed search traffic bonanza, pushing publishers to rethink SEO and audience strategies.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2023/10/digital-traffic-digiday.png",
+        "date": "Jun 18, 2026",
+        "url": "http://digiday.com/media/media-briefing-the-new-world-cup-seo-playbook-whats-in-and-whats-out/"
+    },
+    {
+        "id": "tobgvsteg",
+        "title": "EXCLUSIVE: LuxExperience CEO Michael Kliger on Redesign, Vision of Mytheresa Munich Store",
+        "excerpt": "CEO Michael Kliger discusses luxury retail and customer-centric vision as the Mytheresa Munich store reopens after a redesign by Studio Baciocchi.",
+        "content": "<p>CEO Michael Kliger discusses luxury retail and customer-centric vision as the Mytheresa Munich store reopens after a redesign by Studio Baciocchi.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://wwd.com/wp-content/uploads/2026/06/mytheresa-munich-store-DB-28.jpg?w=1000&h=563&crop=1",
+        "date": "Jun 18, 2026",
+        "url": "http://wwd.com/business-news/retail/luxexperience-ceo-michael-kliger-mytheresa-munich-store-1239009872/"
+    },
+    {
+        "id": "8jz15fnoe",
+        "title": "A La Carte (June 18)",
+        "excerpt": "MLB players reclaim the rainbow / Don't let envy poison your soul / Why NOT to build a bigger sanctuary / Your ecclesiastical World Cup / Five points in Joni's pain / Confessing sin / 10 tips for becoming an excellent Bible interpreter / Biblical self-examina…",
+        "content": "<p>MLB players reclaim the rainbow / Don't let envy poison your soul / Why NOT to build a bigger sanctuary / Your ecclesiastical World Cup / Five points in Joni's pain / Confessing sin / 10 tips for becoming an excellent Bible interpreter / Biblical self-examina…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://www.challies.com/media/2026/05/Thursday-1.jpg",
+        "date": "Jun 18, 2026",
+        "url": "https://www.challies.com/a-la-carte/a-la-carte-june-18-2026/"
+    },
+    {
+        "id": "tq02hzcdn",
+        "title": "New Potential Energy-Rockefeller Foundation Study: Climate Support Strong Across Leading Democracies, But Words Matter",
+        "excerpt": "On the heels of the G7 Summit, a study of more than 83,000 adults across six of the seven countries – United States, United Kingdom, France, Germany, Italy, and Canada – reveals strong support for climate solutions across the ideological spectrum But message …",
+        "content": "<p>On the heels of the G7 Summit, a study of more than 83,000 adults across six of the seven countries – United States, United Kingdom, France, Germany, Italy, and Canada – reveals strong support for climate solutions across the ideological spectrum But message …</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://mmx.prnewswire.com/media/MS1868424/The_Rockefeller_Foundation-climate_change.jpg?id=OA2723424&p=facebook",
+        "date": "Jun 18, 2026",
+        "url": "https://www.prnewswire.com/news-releases/new-potential-energy-rockefeller-foundation-study-climate-support-strong-across-leading-democracies-but-words-matter-302803884.html"
+    },
+    {
+        "id": "g08dmatt2",
+        "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
+        "excerpt": "Leaders, faculty across MIT discuss fostering innovation and talent in Greater Boston in special series of articles published alongside the outlet&#039;s annual list of &#039;Tech Power Players&#039;",
+        "content": "<p>Leaders, faculty across MIT discuss fostering innovation and talent in Greater Boston in special series of articles published alongside the outlet&#039;s annual list of &#039;Tech Power Players&#039;</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://news.mit.edu/sites/default/files/images/202606/52094290589_762e9efbed_b%20%281%29.jpg",
+        "date": "Jun 18, 2026",
+        "url": "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead"
+    },
+    {
+        "id": "y5v4e2bai",
+        "title": "Democrats Lose if the Iran Accord Succeeds",
+        "excerpt": "Photo Credit:\n \n AT via Magic StudioLast weekend, President Trump announced that an interim peace deal was finally struck with the Iranians.",
+        "content": "<p>Photo Credit:\n \n AT via Magic StudioLast weekend, President Trump announced that an interim peace deal was finally struck with the Iranians.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://images.americanthinker.com/du/duayn6z1ves9luzwjrv6_1200.jpg",
+        "date": "Jun 18, 2026",
+        "url": "https://www.americanthinker.com/articles/2026/06/democrats_lose_if_the_iran_accord_succeeds.html"
+    },
+    {
+        "id": "3kreqg6s4",
+        "title": "Try Not to Die: It’s a Choose Your Own Adventure (Now in Stereo!)",
+        "excerpt": "\"If you’re not dying tragically on your first read-through, then you’re doing something wrong.\" We're talking today with the producers of the new Choose Your Own Adventure audiobooks on how exactly such a thing comes to be.\nThe post Try Not to Die: It’s a Cho…",
+        "content": "<p>\"If you’re not dying tragically on your first read-through, then you’re doing something wrong.\" We're talking today with the producers of the new Choose Your Own Adventure audiobooks on how exactly such a thing comes to be.\nThe post Try Not to Die: It’s a Cho…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://afuse8production.slj.com/wp-content/uploads/2026/06/ChooseOwnAdventure4-scaled.webp",
+        "date": "Jun 18, 2026",
+        "url": "https://afuse8production.slj.com/2026/06/18/try-not-to-die-its-a-choose-your-own-adventure-now-in-stereo/"
+    },
+    {
         "id": "4keblimar",
         "title": "二次抵抗制御天井クレーンの高精度自動制御の実現！インバータ制御への置き換えが不要なレトロフィット型の自動化ソリューションの開発に成功！",
         "excerpt": "[株式会社 Proxima Technology]\n[画像: https://prcdn.freetls.fastly.net/release_image/74074/22/74074-22-909ae90b34f297d697432bb1ce3bac98-2088x265.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
