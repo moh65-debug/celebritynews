@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "w9v1kzokd",
+        "title": "Germany to Send Ukraine Hundreds of Air‑to‑Air Missiles from Own Stocks – Pistorius",
+        "excerpt": "Germany will supply a \"three‑digit number\" of air‑to‑air missiles to Ukraine from its own military stockpiles, Defense Minister Boris Pistorius announced on Thursday, as Berlin continues to ramp up military support for Ukraine.",
+        "content": "<p>Germany will supply a \"three‑digit number\" of air‑to‑air missiles to Ukraine from its own military stockpiles, Defense Minister Boris Pistorius announced on Thursday, as Berlin continues to ramp up military support for Ukraine.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124329825.jpg?11139554401781843267",
+        "date": "Jun 19, 2026",
+        "url": "https://sputnikglobe.com/20260619/germany-to-send-ukraine-hundreds-of-airtoair-missiles-from-own-stocks--pistorius-1124329825.html"
+    },
+    {
+        "id": "mhk5n7psw",
+        "title": "Uber, Meta, Amazon cap employee AI usage amid rising costs",
+        "excerpt": "Big Tech's AI usage restrictions highlight the urgent need for sustainable AI cost management strategies to balance innovation and financial viability.\nThe post Uber, Meta, Amazon cap employee AI usage amid rising costs appeared first on Crypto Briefing.",
+        "content": "<p>Big Tech's AI usage restrictions highlight the urgent need for sustainable AI cost management strategies to balance innovation and financial viability.\nThe post Uber, Meta, Amazon cap employee AI usage amid rising costs appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18231206/a-photo-of-the-outside-of-the-spheres-at-amazon-headquarters-1-800x420.jpeg",
+        "date": "Jun 19, 2026",
+        "url": "https://cryptobriefing.com/uber-meta-amazon-cap-ai-usage-costs/"
+    },
+    {
+        "id": "hv5vc0rh9",
+        "title": "TCS, Infosys, Wipro, other IT stocks in focus as Accenture lowers FY26 guidance; ADRs crash up to 10%",
+        "excerpt": "Accenture’s trimmed FY26 revenue guidance and softer outlook on discretionary IT spending triggered a global sell-off, dragging Indian IT ADRs, with Infosys falling 10% and Wipro nearly 4%. The development raises concerns for TCS, Infosys, Wipro and peers ami…",
+        "content": "<p>Accenture’s trimmed FY26 revenue guidance and softer outlook on discretionary IT spending triggered a global sell-off, dragging Indian IT ADRs, with Infosys falling 10% and Wipro nearly 4%. The development raises concerns for TCS, Infosys, Wipro and peers ami…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131845305,width-1200,height-630,imgsize-26813,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 19, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-wipro-other-it-stocks-in-focus-as-accenture-lowers-fy26-guidance-adrs-crash-up-to-10/articleshow/131845308.cms"
+    },
+    {
+        "id": "kbbrhltn5",
+        "title": "TCS, Infosys, Wipro, other IT stocks crash up to 8% as Accenture lowers FY26 guidance",
+        "excerpt": "Indian IT stocks, including TCS and Infosys, tumbled up to 8% after Accenture lowered its annual revenue growth forecast, signaling continued caution in discretionary technology spending. Accenture's Q3 results showed mixed performance, with earnings surpassi…",
+        "content": "<p>Indian IT stocks, including TCS and Infosys, tumbled up to 8% after Accenture lowered its annual revenue growth forecast, signaling continued caution in discretionary technology spending. Accenture's Q3 results showed mixed performance, with earnings surpassi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-85014,resizemode-75,msid-131847575/tech/information-tech/tcs-infosys-wipro-other-it-stocks-in-focus-as-accenture-lowers-fy26-guidance-adrs-crash-up-to-10.jpg",
+        "date": "Jun 19, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/information-tech/tcs-infosys-wipro-other-it-stocks-in-focus-as-accenture-lowers-fy26-guidance-adrs-crash-up-to-10/articleshow/131847575.cms"
+    },
+    {
+        "id": "9qv604dof",
+        "title": "Mike Tirico called the biggest games, and soaked them in, for a change",
+        "excerpt": "Mike Tirico, an adopted Michiganian who moved here in 1999, became the 13th TV play-by-play man for the Super Bowl. He did the Olympics the same day.",
+        "content": "<p>Mike Tirico, an adopted Michiganian who moved here in 1999, became the 13th TV play-by-play man for the Super Bowl. He did the Olympics the same day.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/BrfPvXy76sBGfw7cUTniWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05NTA7Y2Y9d2VicA--/https://media.zenfs.com/en/detroit_news_articles_230/ff0b8fe0edb305b865b9cd7c9f14a097",
+        "date": "Jun 19, 2026",
+        "url": "https://www.detroitnews.com/story/news/michigan/michiganians-of-year/2026/06/18/mike-tirico-nbc-sports-nfl-nba-pga-olympics-broadcasting/90418520007/"
+    },
+    {
+        "id": "x4tou1rzd",
+        "title": "Labour's Andy Burnham Wins A Special Election, Setting Up A Showdown With Starmer To Lead Britain",
+        "excerpt": "Labour’s Andy Burnham has won a special election for a seat in Parliament, positioning him to challenge Prime Minister Keir Starmer.",
+        "content": "<p>Labour’s Andy Burnham has won a special election for a seat in Parliament, positioning him to challenge Prime Minister Keir Starmer.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://img.huffingtonpost.com/asset/6a34acb2240000710d0e5473.jpeg?cache=7Q99zwykTy&ops=1200_630",
+        "date": "Jun 19, 2026",
+        "url": "https://www.huffpost.com/entry/britain-election-andy-burnham-keir-starmer_n_6a34abcee4b04f5fa0c2250f"
+    },
+    {
+        "id": "3s5mkbcs4",
+        "title": "Scientists Discover Garnet on Mars for the First Time, Unlocking Clues to the Red Planet's Ancient Past",
+        "excerpt": "An international team of scientists has discovered garnet on Mars, offering new insights into the planet's ancient geological history and evolution, potentially reshaping our understanding of Martian geology.",
+        "content": "<p>An international team of scientists has discovered garnet on Mars, offering new insights into the planet's ancient geological history and evolution, potentially reshaping our understanding of Martian geology.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://d.ibtimes.com.au/en/full/1684132/videographic-planet-mars-after-seven-month-journey-nasas-perseverance-rover-prepares-touch.jpg",
+        "date": "Jun 19, 2026",
+        "url": "https://www.ibtimes.com.au/discovery-garnet-mars-geological-insights-1870880"
+    },
+    {
+        "id": "yt29ud482",
+        "title": "Global Automated Liquid Handling Systems Market Size/Share Worth USD 6.9 Billion by 2035 at a 9.8% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+        "excerpt": "[220+ Pages Latest Report] According to a market research study published by Healthcare Foresights, the demand analysis of Global Automated Liquid Handling Systems Market size & share revenue was valued at approximately USD 2.7 Billion in 2025 and is expected…",
+        "content": "<p>[220+ Pages Latest Report] According to a market research study published by Healthcare Foresights, the demand analysis of Global Automated Liquid Handling Systems Market size & share revenue was valued at approximately USD 2.7 Billion in 2025 and is expected…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
+        "date": "Jun 19, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/06/19/3314595/0/en/Global-Automated-Liquid-Handling-Systems-Market-Size-Share-Worth-USD-6-9-Billion-by-2035-at-a-9-8-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segment.html"
+    },
+    {
+        "id": "7nb575s5w",
+        "title": "Sergej Barbarez leads Bosnia-Herzegovina at World Cup after loss to Switzerland",
+        "excerpt": "Barbarez's leadership highlights the potential for unexpected talent to emerge in global sports, inspiring smaller nations to aim higher.\nThe post Sergej Barbarez leads Bosnia-Herzegovina at World Cup after loss to Switzerland appeared first on Crypto Briefin…",
+        "content": "<p>Barbarez's leadership highlights the potential for unexpected talent to emerge in global sports, inspiring smaller nations to aim higher.\nThe post Sergej Barbarez leads Bosnia-Herzegovina at World Cup after loss to Switzerland appeared first on Crypto Briefin…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18222220/sergej-barbarez-during-the-uefa-nations-league-2024-25-leagu-800x420.jpeg",
+        "date": "Jun 19, 2026",
+        "url": "https://cryptobriefing.com/barbarez-bosnia-world-cup-switzerland-loss/"
+    },
+    {
+        "id": "8ptnish07",
+        "title": "Akshay Kumar Mobbed By Fans During Vaishno Devi Visit Before Welcome To The Jungle Hits Screens - VIDEO",
+        "excerpt": "As excitement builds for the 2026 release of Welcome To The Jungle, Akshay Kumar visited the Mata Vaishno Devi shrine. The actors pilgrimage drew significant attention from fans ahead of the big-scale comedys upcoming theatrical debut.",
+        "content": "<p>As excitement builds for the 2026 release of Welcome To The Jungle, Akshay Kumar visited the Mata Vaishno Devi shrine. The actors pilgrimage drew significant attention from fans ahead of the big-scale comedys upcoming theatrical debut.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://images.filmibeat.com/img/2026/06/akshay-kumar-jpg-1781834697337_1781834697763-1200x675.jpg",
+        "date": "Jun 19, 2026",
+        "url": "https://www.filmibeat.com/bollywood/news/2026/akshay-kumar-mobbed-by-fans-during-vaishno-devi-visit-before-welcome-to-the-jungle-hits-screens-vi-014-521547.html"
+    },
+    {
         "id": "bjh2ld13g",
         "title": "AI startup Midjourney pivots to health with ultrasound machine",
         "excerpt": "AI startup Midjourney pivots to health with a groundbreaking full-body ultrasound machine, aiming to revolutionize personal medical diagnostics.",
