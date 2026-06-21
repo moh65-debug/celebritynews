@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "c1j72rcf5",
+        "title": "Disclosure Day Is The Alien Sci-Fi Story Zack Snyder Tried To Tell 13 Years Ago",
+        "excerpt": "Spielberg's Disclosure Day is all about exploring the ramifications of extraterrestrial life on Earth, something Zack Snyder tried to do 13 years ago.",
+        "content": "<p>Spielberg's Disclosure Day is all about exploring the ramifications of extraterrestrial life on Earth, something Zack Snyder tried to do 13 years ago.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/daniel-kellner-crop-circles-disclosure-day.jpg?w=1600&h=900&fit=crop",
+        "date": "Jun 20, 2026",
+        "url": "https://screenrant.com/spielberg-disclosure-day-comparison-to-zack-snyder-man-of-steel/"
+    },
+    {
+        "id": "qsu066a6i",
+        "title": "ETMarkets PMS Talk | 20 months of consolidation has created compelling small-cap opportunities: Equitree’s Pawan Bharaddia",
+        "excerpt": "In an interaction with Kshitij Anand of ETMarkets, Bharaddia explains why his firm continues to follow a private equity-style investing approach in public markets, highlights themes such as import substitution, manufacturing, infrastructure ancillaries and co…",
+        "content": "<p>In an interaction with Kshitij Anand of ETMarkets, Bharaddia explains why his firm continues to follow a private equity-style investing approach in public markets, highlights themes such as import substitution, manufacturing, infrastructure ancillaries and co…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-131870157,width-1200,height-630,imgsize-961152,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 20, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-pms-talk-20-months-of-consolidation-has-created-compelling-small-cap-opportunities-equitrees-pawan-bharaddia/articleshow/131870153.cms"
+    },
+    {
+        "id": "95ovuo6gf",
+        "title": "Wall Street Week Ahead: Investors see Micron earnings as pulse check of AI rally momentum",
+        "excerpt": "Investors are keenly watching Micron Technology's upcoming earnings report for crucial insights into the ongoing AI-driven stock market rally.  Despite recent market jitters, the semiconductor sector's robust demand and significant spending on data centers ar…",
+        "content": "<p>Investors are keenly watching Micron Technology's upcoming earnings report for crucial insights into the ongoing AI-driven stock market rally.  Despite recent market jitters, the semiconductor sector's robust demand and significant spending on data centers ar…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131869823,width-1200,height-630,imgsize-40656,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 20, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-investors-see-micron-earnings-as-pulse-check-of-ai-rally-momentum/articleshow/131869790.cms"
+    },
+    {
+        "id": "gqy6usnsh",
+        "title": "5 world market themes for the week ahead",
+        "excerpt": "Global markets are watching closely as a U.S.-Iran deal faces crucial weeks. Key economic data from the U.S. and Australia, along with Colombia's presidential election, will shape investor sentiment. London's major climate gathering also highlights energy sec…",
+        "content": "<p>Global markets are watching closely as a U.S.-Iran deal faces crucial weeks. Key economic data from the U.S. and Australia, along with Colombia's presidential election, will shape investor sentiment. London's major climate gathering also highlights energy sec…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131869775,width-1200,height-630,imgsize-37484,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 20, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/131869758.cms"
+    },
+    {
+        "id": "zxhw3jy10",
+        "title": "Jerry Hall's turning 70 - and she's invited Mick, his new love, and even her 'marriage wrecker' rival to the party!",
+        "excerpt": "Jerry Hall - hailed in this month's edition of fashion bible Vogue as 'sublime' - turns 70 in a few days and she's celebrating with a lavish bash in the grounds of her glorious art-filled manor home near Henley.",
+        "content": "<p>Jerry Hall - hailed in this month's edition of fashion bible Vogue as 'sublime' - turns 70 in a few days and she's celebrating with a lavish bash in the grounds of her glorious art-filled manor home near Henley.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://i.dailymail.com/1s/2026/06/19/20/109476665-0-image-m-134_1781898386245.jpg",
+        "date": "Jun 20, 2026",
+        "url": "https://www.dailymail.com/tvshowbiz/article-15914929/Jerry-Halls-70-birthday-party-Mick-jagger-invite-rival.html"
+    },
+    {
+        "id": "jspezhtw7",
+        "title": "Felicitysolar Strengthens Brand Presence at SNEC 2026",
+        "excerpt": "GUANGZHOU, China, June 20 2026 /PRNewswire/ -- Felicitysolar presented its energy storage product portfolio, technical progress, third-party recognition, and global cooperation achievements at SNEC 2026, held in Shanghai from June 3 to June 5. During the exhi…",
+        "content": "<p>GUANGZHOU, China, June 20 2026 /PRNewswire/ -- Felicitysolar presented its energy storage product portfolio, technical progress, third-party recognition, and global cooperation achievements at SNEC 2026, held in Shanghai from June 3 to June 5. During the exhi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1869744/d46e2ae0d3c449719069e14004cc9903.jpg?id=OA2726652&p=facebook",
+        "date": "Jun 20, 2026",
+        "url": "https://www.prnewswire.co.uk/news-releases/felicitysolar-strengthens-brand-presence-at-snec-2026-302805745.html"
+    },
+    {
+        "id": "4xzyg5ihl",
+        "title": "Haiti reportedly eliminated from 2026 World Cup despite earlier qualification",
+        "excerpt": "Haiti's uncertain World Cup status highlights the volatility in prediction markets, impacting perceptions and financial stakes in sports events.\nThe post Haiti reportedly eliminated from 2026 World Cup despite earlier qualification appeared first on Crypto Br…",
+        "content": "<p>Haiti's uncertain World Cup status highlights the volatility in prediction markets, impacting perceptions and financial stakes in sports events.\nThe post Haiti reportedly eliminated from 2026 World Cup despite earlier qualification appeared first on Crypto Br…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/19225221/25-haitian-newsmakers-of-2025-the-haitian-times-1-800x420.jpeg",
+        "date": "Jun 20, 2026",
+        "url": "https://cryptobriefing.com/haiti-reportedly-eliminated-from-2026-world-cup-despite-earlier-qualification/"
+    },
+    {
+        "id": "b7ba3yblx",
+        "title": "Felicitysolar Strengthens Brand Presence at SNEC 2026",
+        "excerpt": "GUANGZHOU, China, June 19, 2026 /PRNewswire/ -- Felicitysolar presented its energy storage product portfolio, technical progress, third-party recognition, and global cooperation achievements at SNEC 2026, held in Shanghai from June 3 to June 5. During the exh…",
+        "content": "<p>GUANGZHOU, China, June 19, 2026 /PRNewswire/ -- Felicitysolar presented its energy storage product portfolio, technical progress, third-party recognition, and global cooperation achievements at SNEC 2026, held in Shanghai from June 3 to June 5. During the exh…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1869745/e8fddc25cac94fd688f81f3366e2b118.jpg?id=OA2726648&p=facebook",
+        "date": "Jun 20, 2026",
+        "url": "https://www.prnewswire.com/news-releases/felicitysolar-strengthens-brand-presence-at-snec-2026-302805744.html"
+    },
+    {
+        "id": "xt7hr0dvx",
+        "title": "Abigail Breslin & Colman Domingo Star in Serial Killer Thriller ‘Chapter 51’ – Watch the Trailer",
+        "excerpt": "The trailer for Chapter 51 starring Abigail Breslin and Colman Domingo is here! The upcoming thriller, directed and written by […]\nThe post Abigail Breslin & Colman Domingo Star in Serial Killer Thriller ‘Chapter 51’ – Watch the Trailer appeared first on Just…",
+        "content": "<p>The trailer for Chapter 51 starring Abigail Breslin and Colman Domingo is here! The upcoming thriller, directed and written by […]\nThe post Abigail Breslin & Colman Domingo Star in Serial Killer Thriller ‘Chapter 51’ – Watch the Trailer appeared first on Just…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/citizen-51.jpg",
+        "date": "Jun 20, 2026",
+        "url": "https://www.justjared.com/2026/06/19/abigail-breslin-colman-domingo-star-in-serial-killer-thriller-chapter-51-watch-the-trailer/"
+    },
+    {
+        "id": "1rex18wl1",
+        "title": "Quote of the day by Wilhelm Wundt: “We speak of virtue, honour, reason; but our thought does not translate any of these concepts into a...” — What hidden truth about human values did the father of modern psychology reveal?",
+        "excerpt": "Quote of the day by Wilhelm Wundt reveals a powerful life lesson about human values, psychology, and success. The father of modern psychology explains how trust, honour, reason, and integrity shape decisions without physical form. This timeless wisdom quote i…",
+        "content": "<p>Quote of the day by Wilhelm Wundt reveals a powerful life lesson about human values, psychology, and success. The father of modern psychology explains how trust, honour, reason, and integrity shape decisions without physical form. This timeless wisdom quote i…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://img.etimg.com/thumb/msid-131863791,width-1200,height-630,imgsize-43899,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 20, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-wilhelm-wundt-we-speak-of-virtue-honour-reason-but-our-thought-does-not-translate-any-of-these-concepts-into-a-what-hidden-truth-about-human-values-did-the-father-of-modern-psychology-reveal/articleshow/131863691.cms"
+    },
+    {
         "id": "w9v1kzokd",
         "title": "Germany to Send Ukraine Hundreds of Air‑to‑Air Missiles from Own Stocks – Pistorius",
         "excerpt": "Germany will supply a \"three‑digit number\" of air‑to‑air missiles to Ukraine from its own military stockpiles, Defense Minister Boris Pistorius announced on Thursday, as Berlin continues to ramp up military support for Ukraine.",
