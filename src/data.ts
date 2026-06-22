@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "tsbib4v4b",
+        "title": "Bring Back the Patriarchy",
+        "excerpt": "Photo Credit:Image via Pexels.\r\n\n\n \n PexelsThis century-long experiment of demonizing, removing, and replacing men has failed.",
+        "content": "<p>Photo Credit:Image via Pexels.\r\n\n\n \n PexelsThis century-long experiment of demonizing, removing, and replacing men has failed.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://images.americanthinker.com/1z/1zngy4pmcxzuhglgy1uc_1200.jpeg",
+        "date": "Jun 21, 2026",
+        "url": "https://www.americanthinker.com/articles/2026/06/bring_back_the_patriarchy.html"
+    },
+    {
+        "id": "dlpa318ie",
+        "title": "WATCH: Texas Six-Man Coaches Association All-Star Games return to Wichita Falls | Scores & Highlights",
+        "excerpt": "Class 1A athletes from across Texas gathered in Wichita Falls this week in preparation for the Texas Six-Man Coaches Association All-Star Games, featuring the best of Texas football and basketball.",
+        "content": "<p>Class 1A athletes from across Texas gathered in Wichita Falls this week in preparation for the Texas Six-Man Coaches Association All-Star Games, featuring the best of Texas football and basketball.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/kfdx_wichita_falls_articles_332/0c18a05281d5edaed31c1767722f3932",
+        "date": "Jun 21, 2026",
+        "url": "https://www.texomashomepage.com/sports/local-sports/watch-texas-six-man-coaches-association-all-star-games-return-to-wichita-falls-scores-highlights/"
+    },
+    {
+        "id": "izf0etsee",
+        "title": "Behind the data centre boom, there’s more than meets the AI",
+        "excerpt": "Earlier this year, Andhra Pradesh laid the foundation for Google’s $15 billion AI hub in Visakhapatnam, a hyperscale data centre project with AdaniConneX and Airtel Nxtra as partners. Adani has also announced plans to invest...",
+        "content": "<p>Earlier this year, Andhra Pradesh laid the foundation for Google’s $15 billion AI hub in Visakhapatnam, a hyperscale data centre project with AdaniConneX and Airtel Nxtra as partners. Adani has also announced plans to invest...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2026/06/ahf.jpg",
+        "date": "Jun 21, 2026",
+        "url": "https://timesofindia.indiatimes.com/blogs/voices/behind-the-data-centre-boom-theres-more-than-meets-the-ai/"
+    },
+    {
+        "id": "10658x75s",
+        "title": "Holly Madison Reveals What Led to Her Feud With ‘The Girls Next Door’ Co-Star Kendra Wilkinson",
+        "excerpt": "Holly Madison is sharing what led to her feud with her Girls Next Door co-star Kendra Wilkinson. The 46-year-old author […]\nThe post Holly Madison Reveals What Led to Her Feud With ‘The Girls Next Door’ Co-Star Kendra Wilkinson appeared first on Just Jared - …",
+        "content": "<p>Holly Madison is sharing what led to her feud with her Girls Next Door co-star Kendra Wilkinson. The 46-year-old author […]\nThe post Holly Madison Reveals What Led to Her Feud With ‘The Girls Next Door’ Co-Star Kendra Wilkinson appeared first on Just Jared - …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/holly-madison-kendra.jpg",
+        "date": "Jun 21, 2026",
+        "url": "https://www.justjared.com/2026/06/20/holly-madison-reveals-what-led-to-her-feud-with-the-girls-next-door-co-star-kendra-wilkinson/"
+    },
+    {
+        "id": "b7e8eyuop",
+        "title": "My Adventures with Superman: Our S03E02 \"Mobile Suit Toyman\" Preview",
+        "excerpt": "Earlier this week, we learned that we now have two very big reasons to check out Adult Swim and Showrunners Jake Wyatt & Brendan Clogher's Jack Quaid, Alice Lee, Ishmael Sahid, and Kiana Madeira -starring My Adventures with Superman this weekend. First, there…",
+        "content": "<p>Earlier this week, we learned that we now have two very big reasons to check out Adult Swim and Showrunners Jake Wyatt & Brendan Clogher's Jack Quaid, Alice Lee, Ishmael Sahid, and Kiana Madeira -starring My Adventures with Superman this weekend. First, there…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/06/MixCollage-20-Jun-2026-07-25-PM-6263-2000x1125.jpg",
+        "date": "Jun 21, 2026",
+        "url": "https://bleedingcool.com/tv/my-adventures-with-superman-our-s03e02-mobile-suit-toyman-preview/"
+    },
+    {
+        "id": "l6to7r5wu",
+        "title": "Scanning cancer, up close & personal: A revolution is underway in cancer diagnosis",
+        "excerpt": "A gene-based test called next-generation sequencing can identify precise mutations, which can then be treated with targeted therapies. Since the NGS test can be beyond the reach of many, a unique collaboration called LuNGS Alliance is making it free for lung …",
+        "content": "<p>A gene-based test called next-generation sequencing can identify precise mutations, which can then be treated with targeted therapies. Since the NGS test can be beyond the reach of many, a unique collaboration called LuNGS Alliance is making it free for lung …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131885356,width-1200,height-630,imgsize-75338,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 21, 2026",
+        "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/scanning-cancer-up-close-personal-a-revolution-is-underway-in-cancer-diagnosis/articleshow/131885337.cms"
+    },
+    {
+        "id": "86wmg7m9d",
+        "title": "Democrats thought Fed Chair Kevin Warsh would be a Trump loyalist — his opening move proves he’s nothing of the sort",
+        "excerpt": "Nearly every Democrat in the Senate opposed Kevin Warsh’s nomination as Fed chair mainly because they said he would be a tool of the man who appointed him, President Trump.",
+        "content": "<p>Nearly every Democrat in the Senate opposed Kevin Warsh’s nomination as Fed chair mainly because they said he would be a tool of the man who appointed him, President Trump.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/06/u-s-federal-reserve-kevin-131584129-e1782002968265.jpg?quality=75&strip=all&w=1200",
+        "date": "Jun 21, 2026",
+        "url": "https://nypost.com/2026/06/20/business/fed-chair-kevin-warshs-sentiments-on-data-over-party-shows-he-is-no-trump-loyalist/"
+    },
+    {
+        "id": "6ls89zmxb",
+        "title": "African and Caribbean leaders call for payments, debt cancellation, formal apologies over slavery",
+        "excerpt": "African and Caribbean leaders adopted a 19-point reparations plan in Ghana demanding financial compensation, debt cancellation and formal apologies.",
+        "content": "<p>African and Caribbean leaders adopted a 19-point reparations plan in Ghana demanding financial compensation, debt cancellation and formal apologies.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/ghana-president-mahama-ablakwa-conference-fox-news-001.jpeg",
+        "date": "Jun 21, 2026",
+        "url": "https://www.foxnews.com/world/african-caribbean-leaders-call-payments-debt-cancellation-formal-apologies-over-slavery"
+    },
+    {
+        "id": "4pqpraxyf",
+        "title": "Without Jeff Brown's move to Gonzaga, there's likely no Zag mania, no Hooptown USA: 'He's the one' | Dave Boling",
+        "excerpt": "Jun. 20—After a disheartening freshman season at the University of Washington tested Jeff Brown's love for basketball, he was lured back to Spokane to play for Gonzaga. At the time (1990), if anybody had tried to call Spokane \"Hooptown USA,\" it would have evo…",
+        "content": "<p>Jun. 20—After a disheartening freshman season at the University of Washington tested Jeff Brown's love for basketball, he was lured back to Spokane to play for Gonzaga. At the time (1990), if anybody had tried to call Spokane \"Hooptown USA,\" it would have evo…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
+        "date": "Jun 21, 2026",
+        "url": "http://www.spokesman.com/stories/2026/jun/20/without-jeff-browns-move-to-gonzaga-theres-likely-/"
+    },
+    {
+        "id": "n78s8f3rb",
+        "title": "Avengers: Endgame Will Finally End Avatar's Box Office Reign This September",
+        "excerpt": "Marvel is bringing its biggest blockbuster back to theaters this September, featuring new footage that could close a $124 million box office gap.",
+        "content": "<p>Marvel is bringing its biggest blockbuster back to theaters this September, featuring new footage that could close a $124 million box office gap.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/avatar-2009.jpg?w=1600&h=900&fit=crop",
+        "date": "Jun 21, 2026",
+        "url": "https://screenrant.com/avatar-box-office-reign-over-avengers-endgame/"
+    },
+    {
         "id": "c1j72rcf5",
         "title": "Disclosure Day Is The Alien Sci-Fi Story Zack Snyder Tried To Tell 13 Years Ago",
         "excerpt": "Spielberg's Disclosure Day is all about exploring the ramifications of extraterrestrial life on Earth, something Zack Snyder tried to do 13 years ago.",
