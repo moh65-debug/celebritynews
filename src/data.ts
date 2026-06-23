@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ksrzn2l4a",
+        "title": "Kraken’s FIFA World Cup debut gets a spotlight as Egypt rallies past New Zealand in Group G",
+        "excerpt": "Kraken's FIFA partnership highlights crypto's growing influence in sports, but regulatory scrutiny could impact future sponsorship dynamics.\nThe post Kraken’s FIFA World Cup debut gets a spotlight as Egypt rallies past New Zealand in Group G appeared first on…",
+        "content": "<p>Kraken's FIFA partnership highlights crypto's growing influence in sports, but regulatory scrutiny could impact future sponsorship dynamics.\nThe post Kraken’s FIFA World Cup debut gets a spotlight as Egypt rallies past New Zealand in Group G appeared first on…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/21224949/egypt-s-football-team-leaves-for-cameroon-to-participate-in--1-800x420.jpeg",
+        "date": "Jun 22, 2026",
+        "url": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-sponsorship-5/"
+    },
+    {
+        "id": "e080g6qph",
+        "title": "World Cup underdogs Cabo Verde highlight crypto’s blind spot in global football",
+        "excerpt": "Cabo Verde's World Cup success highlights the missed opportunities for crypto integration in sports, revealing regulatory and incentive gaps.\nThe post World Cup underdogs Cabo Verde highlight crypto’s blind spot in global football appeared first on Crypto Bri…",
+        "content": "<p>Cabo Verde's World Cup success highlights the missed opportunities for crypto integration in sports, revealing regulatory and incentive gaps.\nThe post World Cup underdogs Cabo Verde highlight crypto’s blind spot in global football appeared first on Crypto Bri…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/21224909/caf-2025-awards-best-men-s-national-team-nominees-revealed-m-800x420.jpeg",
+        "date": "Jun 22, 2026",
+        "url": "https://cryptobriefing.com/cabo-verde-world-cup-crypto-sports-gap/"
+    },
+    {
+        "id": "nlksiq1yk",
+        "title": "「タンパク質構造予測」でノーベル賞を受賞したジョン・ジャンパー氏が約9年間勤めたGoogle DeepMindを離れAnthropicに入社すると発表",
+        "excerpt": "by John Searsタンパク質の立体構造を予測するAI「AlphaFold」の共同開発者として知られるジョン・ジャンパー氏が2026年6月19日、約9年間在籍したGoogle DeepMindを退職し、休息期間を経てAnthropicに加わるとX(旧Twitter)で発表しました。A bit of news: After nearly 9 years, I have decided to leave Google DeepMind and join Anthropic (after taking some …",
+        "content": "<p>by John Searsタンパク質の立体構造を予測するAI「AlphaFold」の共同開発者として知られるジョン・ジャンパー氏が2026年6月19日、約9年間在籍したGoogle DeepMindを退職し、休息期間を経てAnthropicに加わるとX(旧Twitter)で発表しました。A bit of news: After nearly 9 years, I have decided to leave Google DeepMind and join Anthropic (after taking some …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://image.news.livedoor.com/newsimage/stf/b/4/b4230_88_5857ec8495f130f67c60be98503bb0fd.jpg",
+        "date": "Jun 22, 2026",
+        "url": "https://news.livedoor.com/article/detail/31619747/"
+    },
+    {
+        "id": "9o3h4fg0a",
+        "title": "Selling Sunset’s Christine Quinn Still Going Strong with Boyfriend Thomas McGarrity, Spotted Out for Dinner in L.A.",
+        "excerpt": "Christine Quinn has been in a relationship with boyfriend Thomas McGarrity since early 2025 and they’re still going strong as […]\nThe post Selling Sunset’s Christine Quinn Still Going Strong with Boyfriend Thomas McGarrity, Spotted Out for Dinner in L.A. appe…",
+        "content": "<p>Christine Quinn has been in a relationship with boyfriend Thomas McGarrity since early 2025 and they’re still going strong as […]\nThe post Selling Sunset’s Christine Quinn Still Going Strong with Boyfriend Thomas McGarrity, Spotted Out for Dinner in L.A. appe…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/christine-quinn-spotted-with-thomas-mcgarrity.jpg",
+        "date": "Jun 22, 2026",
+        "url": "https://www.justjared.com/2026/06/21/selling-sunsets-christine-quinn-still-going-strong-with-boyfriend-thomas-mcgarrity-spotted-out-for-dinner-in-l-a/"
+    },
+    {
+        "id": "4jskz3epd",
+        "title": "EV Battery Recycling Market to Reach USD 19.0 Billion by 2033, CAGR 45.0%, Creating Multi-Billion-Dollar Opportunity for Battery Recycling Companies",
+        "excerpt": "Growing Demand for Sustainable Battery Management, Critical Mineral Recovery, and Circular Economy Initiatives Continues to Drive Industry Expansion SAN FRANCISCO, June 21, 2026 /PRNewswire/ -- The global electric vehicle (EV) battery recycling market is witn…",
+        "content": "<p>Growing Demand for Sustainable Battery Management, Critical Mineral Recovery, and Circular Economy Initiatives Continues to Drive Industry Expansion SAN FRANCISCO, June 21, 2026 /PRNewswire/ -- The global electric vehicle (EV) battery recycling market is witn…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://mmx.prnewswire.com/media/MS1147283/Grand-View-Research.jpg?id=OA2726174&p=facebook",
+        "date": "Jun 22, 2026",
+        "url": "https://www.prnewswire.com/news-releases/ev-battery-recycling-market-to-reach-usd-19-0-billion-by-2033--cagr-45-0-creating-multi-billion-dollar-opportunity-for-battery-recycling-companies-302805496.html"
+    },
+    {
+        "id": "34p0macmb",
+        "title": "EV Battery Recycling Market to Reach USD 19.0 Billion by 2033, CAGR 45.0%, Creating Multi-Billion-Dollar Opportunity for Battery Recycling Companies",
+        "excerpt": "Growing Demand for Sustainable Battery Management, Critical Mineral Recovery, and Circular Economy Initiatives Continues to Drive Industry Expansion SAN FRANCISCO, June 21, 2026 /PRNewswire/ -- The global electric vehicle (EV) battery recycling market is witn…",
+        "content": "<p>Growing Demand for Sustainable Battery Management, Critical Mineral Recovery, and Circular Economy Initiatives Continues to Drive Industry Expansion SAN FRANCISCO, June 21, 2026 /PRNewswire/ -- The global electric vehicle (EV) battery recycling market is witn…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://mmx.prnewswire.com/media/MS1147283/Grand-View-Research.jpg?id=OA2726175&p=facebook",
+        "date": "Jun 22, 2026",
+        "url": "https://www.prnewswire.co.uk/news-releases/ev-battery-recycling-market-to-reach-usd-19-0-billion-by-2033--cagr-45-0-creating-multi-billion-dollar-opportunity-for-battery-recycling-companies-302805501.html"
+    },
+    {
+        "id": "fzyh5e6o0",
+        "title": "Tech, crypto firms to help tackle illegal wildlife trade",
+        "excerpt": "Announcement made as part of a business forum convened by Prince William ‌and ⁠The Royal ⁠Foundation's United for Wildlife during London Climate Action Week.",
+        "content": "<p>Announcement made as part of a business forum convened by Prince William ‌and ⁠The Royal ⁠Foundation's United for Wildlife during London Climate Action Week.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-111216,resizemode-75,msid-131899955/tech/technology/tech-crypto-firms-to-help-tackle-illegal-wildlife-trade.jpg",
+        "date": "Jun 22, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/tech-crypto-firms-to-help-tackle-illegal-wildlife-trade/articleshow/131899955.cms"
+    },
+    {
+        "id": "zj1exgb4u",
+        "title": "Global Hyperpigmentation Treatment Market Size to Surpass USD 2.85 Billion by 2035, Growing at a 6.5% CAGR – SNS Insider",
+        "excerpt": "U.S. Market Forecast to Reach USD 0.93 Billion While Europe Approaches USD 0.81 Billion by 2035, Driven by Growing Adoption of Laser-Based and Clinical Dermatology Treatments. U.S. Market Forecast to Reach USD 0.93 Billion While Europe Approaches USD 0.81 Bil…",
+        "content": "<p>U.S. Market Forecast to Reach USD 0.93 Billion While Europe Approaches USD 0.81 Billion by 2035, Driven by Growing Adoption of Laser-Based and Clinical Dermatology Treatments. U.S. Market Forecast to Reach USD 0.93 Billion While Europe Approaches USD 0.81 Bil…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+        "date": "Jun 22, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/06/22/3315014/0/en/Global-Hyperpigmentation-Treatment-Market-Size-to-Surpass-USD-2-85-Billion-by-2035-Growing-at-a-6-5-CAGR-SNS-Insider.html"
+    },
+    {
+        "id": "ic6400sgl",
+        "title": "Britney Spears Says She Started Rebelling on Instagram After Someone Stole Half Her Wardrobe",
+        "excerpt": "Britney Spears is offering an explanation for her “rebellion” on Instagram over the past three years. The singer says that […]\nThe post Britney Spears Says She Started Rebelling on Instagram After Someone Stole Half Her Wardrobe appeared first on Just Jared -…",
+        "content": "<p>Britney Spears is offering an explanation for her “rebellion” on Instagram over the past three years. The singer says that […]\nThe post Britney Spears Says She Started Rebelling on Instagram After Someone Stole Half Her Wardrobe appeared first on Just Jared -…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/britney-spears-rebelled-on-instagram.jpg",
+        "date": "Jun 22, 2026",
+        "url": "https://www.justjared.com/2026/06/21/britney-spears-says-she-started-rebelling-on-instagram-after-someone-stole-half-her-wardrobe/"
+    },
+    {
+        "id": "yf8oxx72u",
+        "title": "Who Dies in the Battle of the Gullet? ‘House of the Dragon’ Season 3 Premiere Deaths Revealed (Spoilers)",
+        "excerpt": "House of the Dragon season three is finally debuting tonight, and the premiere episode featured a major battle in the […]\nThe post Who Dies in the Battle of the Gullet? ‘House of the Dragon’ Season 3 Premiere Deaths Revealed (Spoilers) appeared first on Just …",
+        "content": "<p>House of the Dragon season three is finally debuting tonight, and the premiere episode featured a major battle in the […]\nThe post Who Dies in the Battle of the Gullet? ‘House of the Dragon’ Season 3 Premiere Deaths Revealed (Spoilers) appeared first on Just …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/house-of-the-dragon-death.jpg",
+        "date": "Jun 22, 2026",
+        "url": "https://www.justjared.com/2026/06/21/who-dies-in-the-battle-of-the-gullet-house-of-the-dragon-season-3-premiere-deaths-revealed-spoilers/"
+    },
+    {
         "id": "tsbib4v4b",
         "title": "Bring Back the Patriarchy",
         "excerpt": "Photo Credit:Image via Pexels.\r\n\n\n \n PexelsThis century-long experiment of demonizing, removing, and replacing men has failed.",
