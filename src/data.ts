@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "a6l0nve0r",
+        "title": "Bitmine, Sharplink and Joe Lubin back Ethereum R&D nonprofit",
+        "excerpt": "Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that institutions will place on it with stablecoins, tokenization and AI.",
+        "content": "<p>Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that institutions will place on it with stablecoins, tokenization and AI.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s3-images.ctmedia.io/media/article-covers/drawing.jpg",
+        "date": "Jun 23, 2026",
+        "url": "https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit"
+    },
+    {
+        "id": "cnyb8rcyz",
+        "title": "Why the Entire College Football World Is Wrong About Kalen DeBoer",
+        "excerpt": "Critics claim the Crimson Tide dynasty is dead, but dismissing Nick Saban’s successor ignores his resilience. Uncover why DeBoer is mastering the sport's toughest transition despite unprecedented pressure.",
+        "content": "<p>Critics claim the Crimson Tide dynasty is dead, but dismissing Nick Saban’s successor ignores his resilience. Uncover why DeBoer is mastering the sport's toughest transition despite unprecedented pressure.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/3db803c537cb7a8df7da0d2071e575d8faa04ead92aaf37acb0c1c4acf4b25ba/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Froundtable_sports_alabama_articles_517%2Ff70b6ab571b7bbebb135cfcc21890a1f",
+        "date": "Jun 23, 2026",
+        "url": "https://roundtable.io/sports/ncaa/alabama/opinion/why-the-entire-college-football-world-is-wrong-about-kalen-deboer"
+    },
+    {
+        "id": "jfwqsoema",
+        "title": "Thomas Tuchel confirms Bukayo Saka is ready for World Cup action",
+        "excerpt": "Saka's return highlights strategic player management, impacting England's World Cup prospects and questioning athlete-token market dynamics.\nThe post Thomas Tuchel confirms Bukayo Saka is ready for World Cup action appeared first on Crypto Briefing.",
+        "content": "<p>Saka's return highlights strategic player management, impacting England's World Cup prospects and questioning athlete-token market dynamics.\nThe post Thomas Tuchel confirms Bukayo Saka is ready for World Cup action appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/22231904/analysis-of-bukayo-saka-s-availability-what-might-it-mean-fo-800x420.jpeg",
+        "date": "Jun 23, 2026",
+        "url": "https://cryptobriefing.com/tuchel-saka-world-cup-available/"
+    },
+    {
+        "id": "ielxf38y4",
+        "title": "China's 618 Shopping Festival Growth Slows Amid Persistent Consumer Spending Weakness",
+        "excerpt": "The flagship online sales event posted its weakest gain in years, underscoring a broader malaise in Chinese household spending.",
+        "content": "<p>China’s annual 618 online shopping festival, which usually signals a rebound in consumer confidence, showed a markedly weaker performance this year, with total online sales rising only a modest percentage compared with the double-digit growth seen in 2023.</p><p>The slowdown reflects lingering concerns over job security, property market weakness, and cautious household budgets that have kept shoppers hesitant to splurge even during major promotions.</p><p>According to data from iiMedia Research, gross merchandise value during the 618 period grew just 3.2% year-on-year, down from 11.5% last year, while Alibaba and JD.com reported single‑digit increases in order volume.</p><p>Analysts warn that the tepid festival outcome may force retailers to deepen discounts and reconsider inventory plans, potentially pressuring profit margins across the sector.</p><p>Looking ahead, policymakers are expected to roll out further stimulus measures, and investors will watch for any signs of renewed consumer confidence in the second half of the year.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://image.cnbcfm.com/api/v1/image/108325195-1782178959296-gettyimages-2282702840-vcg111649671514.jpeg?v=1782179119&w=1920&h=1080",
+        "date": "Jun 23, 2026",
+        "url": "https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html"
+    },
+    {
+        "id": "oyc62khbb",
+        "title": "1,700 Free Online Courses from Top Universities @ Openculture",
+        "excerpt": "Take online courses from the world’s top universities for free. Below, you will find 1,700 free online courses from universities like Yale, MIT, Harvard, Oxford and more. Note: This page includes …",
+        "content": "<p>Take online courses from the world’s top universities for free. Below, you will find 1,700 free online courses from universities like Yale, MIT, Harvard, Oxford and more. Note: This page includes …</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://files.ozbargain.com.au/n/80/964680.jpg?h=386bc66d",
+        "date": "Jun 23, 2026",
+        "url": "https://www.ozbargain.com.au/node/964680"
+    },
+    {
+        "id": "5kyi5uhu7",
+        "title": "Info Edge shares in focus as AI portfolio doubles to Rs 1,268 crore; total holdings at Rs 41,300 crore",
+        "excerpt": "Info Edge shares will be in focus after the company reported its AI startup portfolio has more than doubled to Rs 1,268 crore from Rs 614 crore. Overall startup investments are valued at about Rs 41,300 crore, driven by strong gains in consumer tech and stead…",
+        "content": "<p>Info Edge shares will be in focus after the company reported its AI startup portfolio has more than doubled to Rs 1,268 crore from Rs 614 crore. Overall startup investments are valued at about Rs 41,300 crore, driven by strong gains in consumer tech and stead…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131924172,width-1200,height-630,imgsize-9382,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 23, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/info-edge-shares-in-focus-as-ai-portfolio-doubles-to-rs-1268-crore-total-holdings-at-rs-41300-crore/articleshow/131924149.cms"
+    },
+    {
+        "id": "dgwud7um3",
+        "title": "Turtlemint Fintech IPO Day 3: GMP, subscription status, brokerage views and key details",
+        "excerpt": "Turtlemint Fintech Solutions IPO entered its final bidding day with muted grey market sentiment and a modest listing expectation. Subscription stood at 52% on Day 2, led by strong QIB demand. The Rs 883 crore issue includes fresh shares and OFS, while analyst…",
+        "content": "<p>Turtlemint Fintech Solutions IPO entered its final bidding day with muted grey market sentiment and a modest listing expectation. Subscription stood at 52% on Day 2, led by strong QIB demand. The Rs 883 crore issue includes fresh shares and OFS, while analyst…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131924089,width-1200,height-630,imgsize-5164,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 23, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/turtlemint-fintech-ipo-day-3-gmp-subscription-status-brokerage-views-and-key-details/articleshow/131924094.cms"
+    },
+    {
+        "id": "jqj570zux",
+        "title": "Beyond Jio IPO: 5 triggers Mukesh Ambani has lined up to revive Reliance shares for 44 lakh investors",
+        "excerpt": "Reliance Industries is charting a new course to boost its stock for 44 lakh investors, moving beyond a potential Jio IPO. Billionaire Mukesh Ambani has unveiled five key growth drivers, including revitalizing the O2C business, scaling up new energy ventures, …",
+        "content": "<p>Reliance Industries is charting a new course to boost its stock for 44 lakh investors, moving beyond a potential Jio IPO. Billionaire Mukesh Ambani has unveiled five key growth drivers, including revitalizing the O2C business, scaling up new energy ventures, …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131923717,width-1200,height-630,imgsize-2454822,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 23, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/beyond-jio-ipo-5-triggers-mukesh-ambani-has-lined-up-to-revive-reliance-shares-for-44-lakh-investors/articleshow/131923718.cms"
+    },
+    {
+        "id": "etyt9dzca",
+        "title": "95 Photos That Got People Saying ‘Damn, That’s Interesting’",
+        "excerpt": "The internet is pretty much endless, which means there’s always something new to come across. From breaking news and memes to cute kitten videos and random rabbit holes, it has a bit of everything. Still, finding posts that are actually worth your time can be…",
+        "content": "<p>The internet is pretty much endless, which means there’s always something new to come across. From breaking news and memes to cute kitten videos and random rabbit holes, it has a bit of everything. Still, finding posts that are actually worth your time can be…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/06/damn-thats-interesting-images-fb.jpg",
+        "date": "Jun 23, 2026",
+        "url": "https://www.boredpanda.com/damn-thats-interesting-images/"
+    },
+    {
+        "id": "2f1i7zzbn",
+        "title": "Spy agencies say AI can help combat AI cyber risks. But don’t forget the basics",
+        "excerpt": "Using AI for cybersecurity without first investing in fundamentals is like deploying a robot guard dog to defend an unlocked door.",
+        "content": "<p>Using AI for cybersecurity without first investing in fundamentals is like deploying a robot guard dog to defend an unlocked door.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://images.theconversation.com/files/743483/original/file-20260623-57-m6av7i.jpg?ixlib=rb-4.1.0&rect=0%2C989%2C10668%2C5334&q=45&auto=format&w=1356&h=668&fit=crop",
+        "date": "Jun 23, 2026",
+        "url": "https://theconversation.com/spy-agencies-say-ai-can-help-combat-ai-cyber-risks-but-dont-forget-the-basics-285922"
+    },
+    {
         "id": "ksrzn2l4a",
         "title": "Kraken’s FIFA World Cup debut gets a spotlight as Egypt rallies past New Zealand in Group G",
         "excerpt": "Kraken's FIFA partnership highlights crypto's growing influence in sports, but regulatory scrutiny could impact future sponsorship dynamics.\nThe post Kraken’s FIFA World Cup debut gets a spotlight as Egypt rallies past New Zealand in Group G appeared first on…",
