@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "vxv1lshgc",
+        "title": "Teen Guest Exits Moving Disneyland Ride Before 52-Foot Drop on Tiana’s Bayou Adventure",
+        "excerpt": "A teen guest was taken to the hospital after exiting a moving ride at Disneyland over the weekend. A 13-year-old […]\nThe post Teen Guest Exits Moving Disneyland Ride Before 52-Foot Drop on Tiana’s Bayou Adventure appeared first on Just Jared - Celebrity News …",
+        "content": "<p>A teen guest was taken to the hospital after exiting a moving ride at Disneyland over the weekend. A 13-year-old […]\nThe post Teen Guest Exits Moving Disneyland Ride Before 52-Foot Drop on Tiana’s Bayou Adventure appeared first on Just Jared - Celebrity News …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/tianas-bayou-adventure.jpg",
+        "date": "Jun 24, 2026",
+        "url": "https://www.justjared.com/2026/06/23/teen-guest-exits-moving-disneyland-ride-before-52-foot-drop-on-tianas-bayou-adventure/"
+    },
+    {
+        "id": "klos1b28b",
+        "title": "World Cup 2026 drives $5.4B in crypto prediction market volume as USMNT advances to knockout stage",
+        "excerpt": "The surge in crypto prediction markets highlights growing digital asset integration in sports, yet the USMNT's absence from fan token initiatives limits potential market expansion.\nThe post World Cup 2026 drives $5.4B in crypto prediction market volume as USM…",
+        "content": "<p>The surge in crypto prediction markets highlights growing digital asset integration in sports, yet the USMNT's absence from fan token initiatives limits potential market expansion.\nThe post World Cup 2026 drives $5.4B in crypto prediction market volume as USM…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23224811/christian-pulisic-back-in-training-with-full-team-ahead-of-u-2-800x420.jpeg",
+        "date": "Jun 24, 2026",
+        "url": "https://cryptobriefing.com/world-cup-2026-crypto-prediction-markets-usmnt/"
+    },
+    {
+        "id": "jhdmtkjnt",
+        "title": "Scottish squash star's brave call to switch from blue to Green and Gold",
+        "excerpt": "Scotland's number one squash player Greg Lobban has conformed he will switch to Australia ahead of the 2028 Olympic Games, but acknowledged the decision was not easy.",
+        "content": "<p>Scotland's number one squash player Greg Lobban has conformed he will switch to Australia ahead of the 2028 Olympic Games, but acknowledged the decision was not easy.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/6a6513e68c84e7d2545fd578c72e476b?impolicy=wcms_watermark_news&cropH=1359&cropW=2415&xPos=435&yPos=308&width=862&height=485&imformat=generic",
+        "date": "Jun 24, 2026",
+        "url": "https://www.abc.net.au/news/2026-06-24/greg-lobban-squash-move-scotland-australia/106820908"
+    },
+    {
+        "id": "v8ytjuo4q",
+        "title": "Private 5G Network Market to reach USD 150.66 billion by 2033, As Enterprise AI Adoption Creates Strong Demand for Secure, High-Performance Private 5G Networks",
+        "excerpt": "Private Wireless Infrastructure Becomes Strategic Priority for Digital-First Enterprises Worldwide, emerging as the Backbone of Smart Factories, Autonomous Operations, and Real-Time Intelligence SAN FRANCISCO, June 23, 2026 /PRNewswire/ -- The global private …",
+        "content": "<p>Private Wireless Infrastructure Becomes Strategic Priority for Digital-First Enterprises Worldwide, emerging as the Backbone of Smart Factories, Autonomous Operations, and Real-Time Intelligence SAN FRANCISCO, June 23, 2026 /PRNewswire/ -- The global private …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1147283/Grand-View-Research.jpg?id=OA2727492&p=facebook",
+        "date": "Jun 24, 2026",
+        "url": "https://www.prnewswire.com/news-releases/private-5g-network-market-to-reach-usd-150-66-billion-by-2033--as-enterprise-ai-adoption-creates-strong-demand-for-secure-high-performance-private-5g-networks-302806564.html"
+    },
+    {
+        "id": "56qp94gtq",
+        "title": "Private 5G Network Market to reach USD 150.66 billion by 2033, As Enterprise AI Adoption Creates Strong Demand for Secure, High-Performance Private 5G Networks",
+        "excerpt": "Private Wireless Infrastructure Becomes Strategic Priority for Digital-First Enterprises Worldwide, emerging as the Backbone of Smart Factories, Autonomous Operations, and Real-Time Intelligence SAN FRANCISCO, June 23, 2026 /PRNewswire/ -- The global private …",
+        "content": "<p>Private Wireless Infrastructure Becomes Strategic Priority for Digital-First Enterprises Worldwide, emerging as the Backbone of Smart Factories, Autonomous Operations, and Real-Time Intelligence SAN FRANCISCO, June 23, 2026 /PRNewswire/ -- The global private …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1147283/Grand-View-Research.jpg?id=OA2727493&p=facebook",
+        "date": "Jun 24, 2026",
+        "url": "https://www.prnewswire.co.uk/news-releases/private-5g-network-market-to-reach-usd-150-66-billion-by-2033--as-enterprise-ai-adoption-creates-strong-demand-for-secure-high-performance-private-5g-networks-302806568.html"
+    },
+    {
+        "id": "24sm1mpv5",
+        "title": "High memory prices and weak demand hinder revenue of CyberTAN in advancing into AI and Wi-Fi 7",
+        "excerpt": "CyberTAN Technology said rising memory prices have dampened customer orders and softened recent revenue, a sign that global electronics demand remains cautious. The networking equipment maker is also pushing AI-enabled products, Wi-Fi 7, and asset sales as it…",
+        "content": "<p>CyberTAN Technology said rising memory prices have dampened customer orders and softened recent revenue, a sign that global electronics demand remains cautious. The networking equipment maker is also pushing AI-enabled products, Wi-Fi 7, and asset sales as it…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260624pd222_files/1_b.jpg",
+        "date": "Jun 24, 2026",
+        "url": "https://www.digitimes.com/news/a20260624PD222/cybertan-wi-fi-7-demand-revenue-equipment.html"
+    },
+    {
+        "id": "vd847myyx",
+        "title": "Haier Energy Makes Intersolar Europe 2026 Debut with Integrated Residential and C&I Energy Solutions",
+        "excerpt": "New portfolio combines solar generation, storage, energy management and AI-driven optimisation to support Europe's energy transition MUNICH, June 24, 2026 /PRNewswire/ -- At Intersolar Europe 2026, one of the world's leading exhibitions for the solar and ener…",
+        "content": "<p>New portfolio combines solar generation, storage, energy management and AI-driven optimisation to support Europe's energy transition MUNICH, June 24, 2026 /PRNewswire/ -- At Intersolar Europe 2026, one of the world's leading exhibitions for the solar and ener…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1871786/977d4035840504dd8114c5495dbcd29f.jpg?id=OA2731119&p=facebook",
+        "date": "Jun 24, 2026",
+        "url": "https://www.prnewswire.com/news-releases/haier-energy-makes-intersolar-europe-2026-debut-with-integrated-residential-and-ci-energy-solutions-302808565.html"
+    },
+    {
+        "id": "mk4c6qtaz",
+        "title": "Paraguay vs Australia World Cup match highlights growing intersection of FIFA and crypto",
+        "excerpt": "FIFA's crypto partnerships highlight a cautious shift in sports tokenization, reflecting regulatory concerns and evolving market dynamics.\nThe post Paraguay vs Australia World Cup match highlights growing intersection of FIFA and crypto appeared first on Cryp…",
+        "content": "<p>FIFA's crypto partnerships highlight a cautious shift in sports tokenization, reflecting regulatory concerns and evolving market dynamics.\nThe post Paraguay vs Australia World Cup match highlights growing intersection of FIFA and crypto appeared first on Cryp…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23222102/team-paraguay-conmebol-copa-am-rica-2024-1-800x420.jpeg",
+        "date": "Jun 24, 2026",
+        "url": "https://cryptobriefing.com/paraguay-australia-world-cup-crypto-intersection/"
+    },
+    {
+        "id": "002fsqxk1",
+        "title": "Czechia faces Mexico in World Cup preview as Kraken’s crypto sponsorship takes center stage",
+        "excerpt": "The match highlights the growing influence of crypto in sports, potentially reshaping fan engagement and sponsorship dynamics globally.\nThe post Czechia faces Mexico in World Cup preview as Kraken’s crypto sponsorship takes center stage appeared first on Cryp…",
+        "content": "<p>The match highlights the growing influence of crypto in sports, potentially reshaping fan engagement and sponsorship dynamics globally.\nThe post Czechia faces Mexico in World Cup preview as Kraken’s crypto sponsorship takes center stage appeared first on Cryp…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23220956/seattle-kraken-pictures-wallpaper-2-800x420.jpeg",
+        "date": "Jun 24, 2026",
+        "url": "https://cryptobriefing.com/czechia-mexico-world-cup-crypto-preview/"
+    },
+    {
+        "id": "eavkyr2gd",
+        "title": "Quote of the day by influential Harvard cognitive psychologist Steven Pinker: 'We will never have a perfect world, but...'-Life lessons on progress, optimism, reason, resilience, and building a better future",
+        "excerpt": "Harvard psychologist Steven Pinker argues against pervasive pessimism, asserting that humanity has made significant progress despite ongoing challenges. His core message, 'We will never have a perfect world, but it’s not overly romantic or naïve to work towar…",
+        "content": "<p>Harvard psychologist Steven Pinker argues against pervasive pessimism, asserting that humanity has made significant progress despite ongoing challenges. His core message, 'We will never have a perfect world, but it’s not overly romantic or naïve to work towar…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-131949167,width-1200,height-630,imgsize-21765,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 24, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-influential-harvard-cognitive-psychologist-steven-pinker-we-will-never-have-a-perfect-world-but-life-lessons-on-progress-optimism-reason-resilience-and-building-a-better-future/articleshow/131948649.cms"
+    },
+    {
         "id": "a6l0nve0r",
         "title": "Bitmine, Sharplink and Joe Lubin back Ethereum R&D nonprofit",
         "excerpt": "Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that institutions will place on it with stablecoins, tokenization and AI.",
