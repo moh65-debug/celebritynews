@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "o46igyh9y",
+        "title": "Alex Freeman scores in World Cup as US beats Australia 2-0",
+        "excerpt": "Freeman's rapid rise highlights the growing success of US Soccer's development pathways, potentially inspiring more athletes to choose soccer.\nThe post Alex Freeman scores in World Cup as US beats Australia 2-0 appeared first on Crypto Briefing.",
+        "content": "<p>Freeman's rapid rise highlights the growing success of US Soccer's development pathways, potentially inspiring more athletes to choose soccer.\nThe post Alex Freeman scores in World Cup as US beats Australia 2-0 appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/24232626/diamond-spaulding-asks-tiktok-to-cheer-on-her-brother-alex-f-3-800x420.jpeg",
+        "date": "Jun 25, 2026",
+        "url": "https://cryptobriefing.com/alex-freeman-world-cup-us-beats-australia/"
+    },
+    {
+        "id": "xkn0wrqds",
+        "title": "Micron Just Guided for a Staggering $50 Billion in Fiscal Q4 Revenue. Here's What It Means for the AI Trade",
+        "excerpt": "Micron Just Guided for a Staggering $50 Billion in Fiscal Q4 Revenue. Here's What It Means for the AI Trade.\nShares of memory specialist Micron Technology (NASDAQ: MU) jumped about 16% in after-hours trading on Wednesday, climbing from about $1,049 at Wednesd…",
+        "content": "<p>Micron Just Guided for a Staggering $50 Billion in Fiscal Q4 Revenue. Here's What It Means for the AI Trade.\nShares of memory specialist Micron Technology (NASDAQ: MU) jumped about 16% in after-hours trading on Wednesday, climbing from about $1,049 at Wednesd…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/6e5a17618457473f_s.webp",
+        "date": "Jun 25, 2026",
+        "url": "https://biztoc.com/x/6e5a17618457473f"
+    },
+    {
+        "id": "zctg9h9s2",
+        "title": "South Korea's Kospi surges 6% as chip stocks rebound. Here are two major triggers",
+        "excerpt": "South Korea’s KOSPI surged as much as 6% to an intraday high of 8,982, extending gains for a second straight session and recovering sharply from earlier losses. Trading was briefly halted after a 5% jump triggered a sidecar mechanism. The rally follows a stee…",
+        "content": "<p>South Korea’s KOSPI surged as much as 6% to an intraday high of 8,982, extending gains for a second straight session and recovering sharply from earlier losses. Trading was briefly halted after a 5% jump triggered a sidecar mechanism. The rally follows a stee…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-131981487,width-1200,height-630,imgsize-84660,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 25, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/south-koreas-kospi-surges-6-as-chip-stocks-rebound-here-are-two-major-triggers/articleshow/131981417.cms"
+    },
+    {
+        "id": "sqzk8oj1i",
+        "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+        "excerpt": "Published\nUS artificial intelligence (AI) giant Anthropic has accused Chinese e-commerce and technology firm Alibaba of \"brazenly\" and \"illicitly\" extracting its Claude AI model's capabilities.\nIn a letter seen by the BBC, the San Francisco-based company said…",
+        "content": "<p>Published\nUS artificial intelligence (AI) giant Anthropic has accused Chinese e-commerce and technology firm Alibaba of \"brazenly\" and \"illicitly\" extracting its Claude AI model's capabilities.\nIn a letter seen by the BBC, the San Francisco-based company said…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/c66861bd639da771_s.webp",
+        "date": "Jun 25, 2026",
+        "url": "https://biztoc.com/x/c66861bd639da771"
+    },
+    {
+        "id": "vzer7pypm",
+        "title": "The new frontier in the US-China AI race: Talent",
+        "excerpt": "<![CDATA[ Beyond chips, data and computing power, the battle between Beijing and Washington is increasingly being fought over the researchers, engineers and entrepreneurs shaping the technology's future. ]]>",
+        "content": "<p><![CDATA[ Beyond chips, data and computing power, the battle between Beijing and Washington is increasingly being fought over the researchers, engineers and entrepreneurs shaping the technology's future. ]]></p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--UOuQ_Itg--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-23T141741Z_3_LYNXMPEM5M0GM_RTROPTP_3_USA-TRUMP-AI.JPG?itok=YUTQaD4J",
+        "date": "Jun 25, 2026",
+        "url": "https://www.channelnewsasia.com/east-asia/china-us-ai-talent-race-geopolitics-6203341"
+    },
+    {
+        "id": "xxjpcdxqm",
+        "title": "Woman Dares To Call Husband A Jerk For Exploding At Her After Her Gaming Problem Affected Their Son",
+        "excerpt": "A husband is questioning his reaction after his wife completely forgot to pick up their 9-year-old son from basketball practice. The couple usually splits housework evenly, but the wife's recent obsession with the Roblox game has caused her to skip chores and…",
+        "content": "<p>A husband is questioning his reaction after his wife completely forgot to pick up their 9-year-old son from basketball practice. The couple usually splits housework evenly, but the wife's recent obsession with the Roblox game has caused her to skip chores and…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/06/wife-plays-roblox-ignores-parent-duties-fb.jpg",
+        "date": "Jun 25, 2026",
+        "url": "https://www.boredpanda.com/wife-plays-roblox-ignores-parent-duties/"
+    },
+    {
+        "id": "0rlsyxdye",
+        "title": "Commentary: Micron turns AI memory crunch into a buyback story",
+        "excerpt": "Micron Technology is turning the AI memory boom into a new Wall Street story: not just record DRAM, NAND and HBM demand, but stronger free cash flow, long-term customer commitments and a clearer path to shareholder returns.",
+        "content": "<p>Micron Technology is turning the AI memory boom into a new Wall Street story: not just record DRAM, NAND and HBM demand, but stronger free cash flow, long-term customer commitments and a clearer path to shareholder returns.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260625vl206_files/2_b.jpg",
+        "date": "Jun 25, 2026",
+        "url": "https://www.digitimes.com/news/a20260625VL206/micron-dram-demand-hbm-revenue.html"
+    },
+    {
+        "id": "7065ykvxe",
+        "title": "The highs and lows of Karl Stefanovic's 20 years with the Today show",
+        "excerpt": "Today show host Karl Stefanovic is reportedly leaving Channel Nine after a more than 20-year career at the network that was filled with highs and lows.",
+        "content": "<p>Today show host Karl Stefanovic is reportedly leaving Channel Nine after a more than 20-year career at the network that was filled with highs and lows.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/58f1bed1d8bfa95633bdc36b9832a30f?impolicy=wcms_watermark_news&cropH=1103&cropW=1961&xPos=0&yPos=319&width=862&height=485&imformat=generic",
+        "date": "Jun 25, 2026",
+        "url": "https://www.abc.net.au/news/2026-06-25/karl-stefanovic-nine-network-today-show-career/106838570"
+    },
+    {
+        "id": "zd3evpzk6",
+        "title": "Seoul stocks soar in Asia tech rally after Micron blowout forecast",
+        "excerpt": "Markets have endured a rollercoaster run this week amid fears that the eye-watering advances in tech firms in recent years may have gone too far.\nThe post Seoul stocks soar in Asia tech rally after Micron blowout forecast appeared first on Digital Journal.",
+        "content": "<p>Markets have endured a rollercoaster run this week amid fears that the eye-watering advances in tech firms in recent years may have gone too far.\nThe post Seoul stocks soar in Asia tech rally after Micron blowout forecast appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/06/521fea1b3e6ee1d7ca33ef9b8c134ec7ef740070.jpg",
+        "date": "Jun 25, 2026",
+        "url": "https://www.digitaljournal.com/article/seoul-stocks-soar-in-asia-tech-rally-after-micron-blowout-forecast/"
+    },
+    {
+        "id": "slrbfg76g",
+        "title": "México opens 2026 World Cup with 2-0 win as crypto brands chase the moment",
+        "excerpt": "The World Cup's opening highlights crypto's strategic push into sports, aiming for long-term fan engagement over immediate financial gains.\nThe post México opens 2026 World Cup with 2-0 win as crypto brands chase the moment appeared first on Crypto Briefing.",
+        "content": "<p>The World Cup's opening highlights crypto's strategic push into sports, aiming for long-term fan engagement over immediate financial gains.\nThe post México opens 2026 World Cup with 2-0 win as crypto brands chase the moment appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/24225122/mexico-national-soccer-team-wallpaper-800x420.jpeg",
+        "date": "Jun 25, 2026",
+        "url": "https://cryptobriefing.com/mexico-world-cup-win-crypto-brands/"
+    },
+    {
         "id": "vxv1lshgc",
         "title": "Teen Guest Exits Moving Disneyland Ride Before 52-Foot Drop on Tiana’s Bayou Adventure",
         "excerpt": "A teen guest was taken to the hospital after exiting a moving ride at Disneyland over the weekend. A 13-year-old […]\nThe post Teen Guest Exits Moving Disneyland Ride Before 52-Foot Drop on Tiana’s Bayou Adventure appeared first on Just Jared - Celebrity News …",
