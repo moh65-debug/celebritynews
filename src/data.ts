@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "slsx94pop",
+        "title": "Patronus AI grabs $50M in funding to stress-test AI agents in simulated environments",
+        "excerpt": "Fast-growing world model startup Patronus AI Inc. is priming itself for even more rapid growth after raising $50 million in Series B funding today. The round was led by Greenfield Partners and saw the participation of Lightspeed Venture Partners, Notable Capi…",
+        "content": "<p>Fast-growing world model startup Patronus AI Inc. is priming itself for even more rapid growth after raising $50 million in Series B funding today. The round was led by Greenfield Partners and saw the participation of Lightspeed Venture Partners, Notable Capi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-26-09-49-56.png",
+        "date": "Jun 26, 2026",
+        "url": "https://siliconangle.com/2026/06/25/patronus-ai-grabs-50m-funding-stress-test-ai-agents-simulated-environments/"
+    },
+    {
+        "id": "ylbvdoywr",
+        "title": "Forget the score, MWC Shanghai’s humanoid robot penalty shootout put embodied AI to the test",
+        "excerpt": "One of the biggest crowd-pullers at MWC Shanghai 2026 was a fully autonomous humanoid robot penalty shootout, rather than a smartphone launch or an AI keynote. Held over two days at the Shanghai New International Expo Centre, the competition drew more than 10…",
+        "content": "<p>One of the biggest crowd-pullers at MWC Shanghai 2026 was a fully autonomous humanoid robot penalty shootout, rather than a smartphone launch or an AI keynote. Held over two days at the Shanghai New International Expo Centre, the competition drew more than 10…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://technode.com/wp-content/uploads/2026/06/MWC-football-1.jpg",
+        "date": "Jun 26, 2026",
+        "url": "http://technode.com/2026/06/26/forget-the-score-mwc-shanghais-humanoid-robot-penalty-shootout-put-embodied-ai-to-the-test/"
+    },
+    {
+        "id": "gi1x7cbc9",
+        "title": "Where to invest your Westpac dividends",
+        "excerpt": "Australia's oldest bank is paying its latest dividend today.\nThe post Where to invest your Westpac dividends appeared first on The Motley Fool Australia.",
+        "content": "<p>Australia's oldest bank is paying its latest dividend today.\nThe post Where to invest your Westpac dividends appeared first on The Motley Fool Australia.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.fool.com.au/wp-content/uploads/2024/08/bank-windfall-1200x675.jpg",
+        "date": "Jun 26, 2026",
+        "url": "https://www.fool.com.au/2026/06/26/where-to-invest-your-westpac-dividends-3/"
+    },
+    {
+        "id": "gjn2nn402",
+        "title": "Netherlands beats Tunisia 3-1 as crypto prediction markets and fan tokens ride World Cup wave",
+        "excerpt": "Crypto markets' volatility and speculative nature are highlighted as they intertwine with global events, posing risks and opportunities for investors.\nThe post Netherlands beats Tunisia 3-1 as crypto prediction markets and fan tokens ride World Cup wave appea…",
+        "content": "<p>Crypto markets' volatility and speculative nature are highlighted as they intertwine with global events, posing risks and opportunities for investors.\nThe post Netherlands beats Tunisia 3-1 as crypto prediction markets and fan tokens ride World Cup wave appea…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/25224135/tunisia-vs-netherlands-predictions-picks-odds-for-world-cup--800x420.jpeg",
+        "date": "Jun 26, 2026",
+        "url": "https://cryptobriefing.com/netherlands-world-cup-crypto-prediction-markets/"
+    },
+    {
+        "id": "t7mmr9myh",
+        "title": "An Inside Look Into Fat Joe’s NY Knicks Parade Float from Jeff Beacher (Photos & Videos!)",
+        "excerpt": "It has been one week since the New York Knicks Championship Parade in Manhattan and the city is still celebrating […]\nThe post An Inside Look Into Fat Joe’s NY Knicks Parade Float from Jeff Beacher (Photos & Videos!) appeared first on Just Jared - Celebrity N…",
+        "content": "<p>It has been one week since the New York Knicks Championship Parade in Manhattan and the city is still celebrating […]\nThe post An Inside Look Into Fat Joe’s NY Knicks Parade Float from Jeff Beacher (Photos & Videos!) appeared first on Just Jared - Celebrity N…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/fat-joe-beacher.jpg",
+        "date": "Jun 26, 2026",
+        "url": "https://www.justjared.com/2026/06/25/an-inside-look-into-fat-joes-ny-knicks-parade-float-from-jeff-beacher-photos-videos/"
+    },
+    {
+        "id": "9ac2p90ds",
+        "title": "Argentina faces Jordan in World Cup 2026 group stage with no crypto sponsorship in sight",
+        "excerpt": "The absence of crypto sponsorship in the 2026 World Cup reflects a shift towards traditional financial models, signaling a cautious industry phase.\nThe post Argentina faces Jordan in World Cup 2026 group stage with no crypto sponsorship in sight appeared firs…",
+        "content": "<p>The absence of crypto sponsorship in the 2026 World Cup reflects a shift towards traditional financial models, signaling a cautious industry phase.\nThe post Argentina faces Jordan in World Cup 2026 group stage with no crypto sponsorship in sight appeared firs…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/25222710/argentina-national-football-team-messi-angel-thiago-wallpape-7-800x420.jpeg",
+        "date": "Jun 26, 2026",
+        "url": "https://cryptobriefing.com/argentina-jordan-world-cup-2026-crypto-absence/"
+    },
+    {
+        "id": "8mm263zof",
+        "title": "Japan and Sweden’s World Cup draw sends Chiliz surging as fan token mania grips crypto markets",
+        "excerpt": "The surge in Chiliz highlights crypto's growing influence in sports, suggesting increased market volatility tied to global events like the World Cup.\nThe post Japan and Sweden’s World Cup draw sends Chiliz surging as fan token mania grips crypto markets appea…",
+        "content": "<p>The surge in Chiliz highlights crypto's growing influence in sports, suggesting increased market volatility tied to global events like the World Cup.\nThe post Japan and Sweden’s World Cup draw sends Chiliz surging as fan token mania grips crypto markets appea…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/25222634/what-is-chiliz-chz-chiliz-chain-and-the-socios-platform-800x420.png",
+        "date": "Jun 26, 2026",
+        "url": "https://cryptobriefing.com/world-cup-draw-chiliz-fan-tokens-surge/"
+    },
+    {
+        "id": "08vkoagk5",
+        "title": "FIFA World Cup 2026 sets goal-scoring record as crypto integrations hit the pitch",
+        "excerpt": "The 2026 World Cup's crypto integration highlights blockchain's growing role in mainstream events, signaling potential shifts in global finance.\nThe post FIFA World Cup 2026 sets goal-scoring record as crypto integrations hit the pitch appeared first on Crypt…",
+        "content": "<p>The 2026 World Cup's crypto integration highlights blockchain's growing role in mainstream events, signaling potential shifts in global finance.\nThe post FIFA World Cup 2026 sets goal-scoring record as crypto integrations hit the pitch appeared first on Crypt…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/25221603/fifa-world-cup-2026-x-kraken-crypto-supporter-1-800x420.png",
+        "date": "Jun 26, 2026",
+        "url": "https://cryptobriefing.com/fifa-world-cup-2026-record-goals-crypto/"
+    },
+    {
+        "id": "p1a3xt67k",
+        "title": "Algeria vs Austria World Cup clash draws crypto prediction market interest ahead of June 27 kickoff",
+        "excerpt": "The growing integration of crypto in sports highlights evolving financial dynamics, potentially reshaping fan engagement and market strategies.\nThe post Algeria vs Austria World Cup clash draws crypto prediction market interest ahead of June 27 kickoff appear…",
+        "content": "<p>The growing integration of crypto in sports highlights evolving financial dynamics, potentially reshaping fan engagement and market strategies.\nThe post Algeria vs Austria World Cup clash draws crypto prediction market interest ahead of June 27 kickoff appear…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/25220609/algeria-vs-austria-world-cup-2026-predictions-and-best-bets--800x420.jpeg",
+        "date": "Jun 26, 2026",
+        "url": "https://cryptobriefing.com/algeria-austria-world-cup-crypto-prediction-markets/"
+    },
+    {
+        "id": "tc9ugnk16",
+        "title": "Secure Code Warrior CEO on surviving the AI ‘vulnerability apocalypse’",
+        "excerpt": "As enterprises embrace agentic AI and vibe coding, Secure Code Warrior CEO and co-founder Pieter Danhieux warns that code-generating models are still producing critical security flaws",
+        "content": "<p>As enterprises embrace agentic AI and vibe coding, Secure Code Warrior CEO and co-founder Pieter Danhieux warns that code-generating models are still producing critical security flaws</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/security-code-encryption-gonin-adobe.jpg",
+        "date": "Jun 26, 2026",
+        "url": "https://www.computerweekly.com/news/366645144/Secure-Code-Warrior-CEO-on-surviving-the-AI-vulnerability-apocalypse"
+    },
+    {
         "id": "o46igyh9y",
         "title": "Alex Freeman scores in World Cup as US beats Australia 2-0",
         "excerpt": "Freeman's rapid rise highlights the growing success of US Soccer's development pathways, potentially inspiring more athletes to choose soccer.\nThe post Alex Freeman scores in World Cup as US beats Australia 2-0 appeared first on Crypto Briefing.",
