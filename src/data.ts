@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "g54bopl15",
+        "title": "We tend to think quantum tunnelling is a subatomic curiosity, but in 1984 and 1985 physicists at UC Berkeley showed that a superconducting electrical circuit big enough to hold in your hand could tunnel from one state to another — a discovery that won the 2025 Nobel Prize in Physics.",
+        "excerpt": "A look at the Berkeley superconducting circuit experiments that demonstrated macroscopic quantum tunnelling and energy quantisation, later recognised by the 2025 Nobel Prize in Physics.\nThe post We tend to think quantum tunnelling is a subatomic curiosity, bu…",
+        "content": "<p>A look at the Berkeley superconducting circuit experiments that demonstrated macroscopic quantum tunnelling and energy quantisation, later recognised by the 2025 Nobel Prize in Physics.\nThe post We tend to think quantum tunnelling is a subatomic curiosity, bu…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/06/spacedaily_pexels_quantum_tunnelling_circuit.jpg",
+        "date": "Jun 27, 2026",
+        "url": "https://spacedaily.com/t-we-tend-to-think-quantum-tunnelling-is-a-subatomic-curiosity-but-in-1984-and-1985-physicists-at-uc-berkeley-showed-that-a-superconducting-electrical-circuit-big-enough-to-hold-in-your-hand-could-tun/"
+    },
+    {
+        "id": "se1dasqdf",
+        "title": "Apple seeks US approval to buy chips from blacklisted Chinese company",
+        "excerpt": "Reports suggest that Apple is actively reaching out to the Trump administration in an effort to source memory chips from ChangXin Memory Technologies, a Chinese firm currently banned by the Pentagon. This initiative aims to combat the financial burden caused …",
+        "content": "<p>Reports suggest that Apple is actively reaching out to the Trump administration in an effort to source memory chips from ChangXin Memory Technologies, a Chinese firm currently banned by the Pentagon. This initiative aims to combat the financial burden caused …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132028116,width-1200,height-630,imgsize-94852,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 27, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/business/apple-seeks-us-approval-to-buy-chips-from-blacklisted-chinese-company/articleshow/132028103.cms"
+    },
+    {
+        "id": "wgl1mk7g6",
+        "title": "Apple seeks US approval to buy chips from blacklisted Chinese company",
+        "excerpt": "Reports suggest that Apple is actively reaching out to the Trump administration in an effort to source memory chips from ChangXin Memory Technologies, a Chinese firm currently banned by the Pentagon. This initiative aims to combat the financial burden caused …",
+        "content": "<p>Reports suggest that Apple is actively reaching out to the Trump administration in an effort to source memory chips from ChangXin Memory Technologies, a Chinese firm currently banned by the Pentagon. This initiative aims to combat the financial burden caused …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-94852,resizemode-75,msid-132028568/tech/technology/apple-seeks-us-approval-to-buy-chips-from-blacklisted-chinese-company.jpg",
+        "date": "Jun 27, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/apple-seeks-us-approval-to-buy-chips-from-blacklisted-chinese-company/articleshow/132028568.cms"
+    },
+    {
+        "id": "fhfxhangv",
+        "title": "Rich and famous families teach their kids Mandarin as China's influence grows",
+        "excerpt": "Rich and powerful families have a strong interest in one particular language, with experts saying it is no surprise given the country's rise.",
+        "content": "<p>Rich and powerful families have a strong interest in one particular language, with experts saying it is no surprise given the country's rise.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/d49b2e95051a30da95ff493c2610cc15?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "date": "Jun 27, 2026",
+        "url": "https://www.abc.net.au/news/2026-06-27/musk-trump-bezos-zuckerberg-children-learning-mandarin/106813224"
+    },
+    {
+        "id": "8kh0n6q1i",
+        "title": "US Justice Department seizes nearly 400 websites illegally streaming World Cup",
+        "excerpt": "The crackdown highlights the escalating battle against digital piracy, emphasizing the need for robust enforcement to protect broadcast rights.\nThe post US Justice Department seizes nearly 400 websites illegally streaming World Cup appeared first on Crypto Br…",
+        "content": "<p>The crackdown highlights the escalating battle against digital piracy, emphasizing the need for robust enforcement to protect broadcast rights.\nThe post US Justice Department seizes nearly 400 websites illegally streaming World Cup appeared first on Crypto Br…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/26231202/2026-world-cup-map-all-stadiums-and-cities-8-800x420.jpeg",
+        "date": "Jun 27, 2026",
+        "url": "https://cryptobriefing.com/doj-seizes-400-websites-world-cup-streaming/"
+    },
+    {
+        "id": "3ogbo1kv9",
+        "title": "Haaland benched for World Cup finale, but his NFTs are playing overtime",
+        "excerpt": "Haaland's benching highlights strategic player management in sports, while his NFT market activity underscores evolving digital asset trends.\nThe post Haaland benched for World Cup finale, but his NFTs are playing overtime appeared first on Crypto Briefing.",
+        "content": "<p>Haaland's benching highlights strategic player management in sports, while his NFT market activity underscores evolving digital asset trends.\nThe post Haaland benched for World Cup finale, but his NFTs are playing overtime appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/26230244/erling-haaland-and-darwin-nunez-take-manchester-city-vs-live-4-800x420.jpeg",
+        "date": "Jun 27, 2026",
+        "url": "https://cryptobriefing.com/haaland-benched-world-cup-nft-market/"
+    },
+    {
+        "id": "67zyu1ehd",
+        "title": "Deroy Duarte wins Michelob Ultra Superior Player of the Match trophy",
+        "excerpt": "Duarte's award elevates Cape Verde's football status and highlights the growing influence of consumer brands in global sports events.\nThe post Deroy Duarte wins Michelob Ultra Superior Player of the Match trophy appeared first on Crypto Briefing.",
+        "content": "<p>Duarte's award elevates Cape Verde's football status and highlights the growing influence of consumer brands in global sports events.\nThe post Deroy Duarte wins Michelob Ultra Superior Player of the Match trophy appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/26224039/https-upload-wikimedia-org-wikipedia-commons-c-c9-deroy-duar-800x420.jpeg",
+        "date": "Jun 27, 2026",
+        "url": "https://cryptobriefing.com/deroy-duarte-player-of-match-world-cup/"
+    },
+    {
+        "id": "kpgt76fw1",
+        "title": "African teams qualified for 2026 World Cup: Ivory Coast, Cape Verde, Egypt, Morocco, and Ghana",
+        "excerpt": "The increased African representation in the 2026 World Cup highlights the continent's growing influence and potential in global football.\nThe post African teams qualified for 2026 World Cup: Ivory Coast, Cape Verde, Egypt, Morocco, and Ghana appeared first on…",
+        "content": "<p>The increased African representation in the 2026 World Cup highlights the continent's growing influence and potential in global football.\nThe post African teams qualified for 2026 World Cup: Ivory Coast, Cape Verde, Egypt, Morocco, and Ghana appeared first on…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/26224039/morocco-national-football-team-red-and-green-wallpaper-7-800x420.jpeg",
+        "date": "Jun 27, 2026",
+        "url": "https://cryptobriefing.com/african-teams-qualified-2026-world-cup/"
+    },
+    {
+        "id": "a3ujfwf5r",
+        "title": "World Cup Delivers Early Economic Boost For Host Cities",
+        "excerpt": "For now, early numbers suggest the tournament is accomplishing one of its most anticipated off-the-field objectives.",
+        "content": "<p>For now, early numbers suggest the tournament is accomplishing one of its most anticipated off-the-field objectives.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3f303bddb99942312ef060/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "Jun 27, 2026",
+        "url": "https://www.forbes.com/sites/clementelisi/2026/06/26/world-cup-delivers-early-economic-boost-for-host-cities/"
+    },
+    {
+        "id": "cs0zqvhha",
+        "title": "FIFA’s crypto push meets USMNT’s World Cup breakout as prediction markets surge past $5B",
+        "excerpt": "The surge in crypto prediction markets and blockchain ticketing highlights a growing intersection of sports and digital finance, reshaping fan engagement.\nThe post FIFA’s crypto push meets USMNT’s World Cup breakout as prediction markets surge past $5B appear…",
+        "content": "<p>The surge in crypto prediction markets and blockchain ticketing highlights a growing intersection of sports and digital finance, reshaping fan engagement.\nThe post FIFA’s crypto push meets USMNT’s World Cup breakout as prediction markets surge past $5B appear…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/26213904/best-usmnt-players-1-800x420.jpeg",
+        "date": "Jun 27, 2026",
+        "url": "https://cryptobriefing.com/fifa-crypto-world-cup-prediction-markets/"
+    },
+    {
         "id": "slsx94pop",
         "title": "Patronus AI grabs $50M in funding to stress-test AI agents in simulated environments",
         "excerpt": "Fast-growing world model startup Patronus AI Inc. is priming itself for even more rapid growth after raising $50 million in Series B funding today. The round was led by Greenfield Partners and saw the participation of Lightspeed Venture Partners, Notable Capi…",
