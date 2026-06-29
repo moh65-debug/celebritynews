@@ -12,6 +12,128 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "n7i7zoq0l",
+        "title": "Jordan scores first World Cup goal against Argentina as crypto and football deepen their embrace",
+        "excerpt": "Jordan's historic World Cup goal highlights the growing synergy between sports and crypto, potentially reshaping fan engagement and investment.\nThe post Jordan scores first World Cup goal against Argentina as crypto and football deepen their embrace appeared …",
+        "content": "<p>Jordan's historic World Cup goal highlights the growing synergy between sports and crypto, potentially reshaping fan engagement and investment.\nThe post Jordan scores first World Cup goal against Argentina as crypto and football deepen their embrace appeared …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/27232330/roya-news-jordan-s-national-team-returns-home-after-arab-cup-800x420.jpeg",
+        "date": "Jun 28, 2026",
+        "url": "https://cryptobriefing.com/jordan-goal-argentina-world-cup-crypto/"
+    },
+    {
+        "id": "9tq8h8vrv",
+        "title": "Google unfolds its vision for AI-driven science",
+        "excerpt": "Can AI create a golden age of scientific discovery?\nIn this episode of The Deep View Conversations, we sit down with Yossi Matias, head of Google Research, to explore how AI is transforming the way s...",
+        "content": "<p>Can AI create a golden age of scientific discovery?\nIn this episode of The Deep View Conversations, we sit down with Yossi Matias, head of Google Research, to explore how AI is transforming the way s...</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://biztoc.com/cdn/7bf3b222b08ae1a4_s.webp",
+        "date": "Jun 28, 2026",
+        "url": "https://biztoc.com/x/7bf3b222b08ae1a4"
+    },
+    {
+        "id": "ld5h6ncah",
+        "title": "Strides Pharma sells majority stake in arm Pivot Path for ₹100 cr",
+        "excerpt": "Strides Pharma divests majority stake in Pivot Path for ₹100 crore, retaining 19.95% and enabling growth through strategic investment.",
+        "content": "<p>Strides Pharma divests majority stake in Pivot Path for ₹100 crore, retaining 19.95% and enabling growth through strategic investment.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/spooyn/article71156944.ece/alternates/LANDSCAPE_1200/PO20_Pharma.jpg",
+        "date": "Jun 28, 2026",
+        "url": "https://www.thehindubusinessline.com/companies/strides-pharma-sells-majority-stake-in-arm-pivot-path-for-100-cr/article71156941.ece"
+    },
+    {
+        "id": "2d3x5pd7w",
+        "title": "Utica Withdraws from RuPaul's Drag Race All Stars 11, Sparks Reaction",
+        "excerpt": "Utica, a Season 13 alum, said she stepped down from All Stars 11 due to personal reasons, prompting responses from fellow queens.",
+        "content": "<p>Utica announced on social media that she would not be competing in the upcoming eleventh season of RuPaul's Drag Race All Stars, a spot she had originally been slated to fill in the purple bracket.</p>\n<p>The queen explained that unexpected scheduling conflicts and a need to focus on her mental health led to her decision, emphasizing that she remains supportive of the show and its cast.</p>\n<p>Fellow competitors such as Jasmine Kennedie and Kahanna Montrese replied with messages of understanding, noting that the Drag Race community values honesty and self‑care above all.</p>\n<p>Industry observers say the withdrawal highlights the growing pressure on queens to balance touring, brand work, and the demanding All Stars format, which often requires intense preparation in a short window.</p>\n<p>Looking ahead, the production team is expected to announce a replacement for the purple bracket soon, while fans speculate about how the shift might affect episode dynamics and lip‑sync battles.</p>",
+        "celebrities": [
+            "RuPaul's Drag Race",
+            "Utica",
+            "All Stars 11",
+            "Logo TV",
+            "Drag Race Community"
+        ],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/utica-all-stars.jpg",
+        "date": "Jun 28, 2026",
+        "url": "https://www.justjared.com/2026/06/27/rupauls-drag-race-star-talks-dropping-out-of-all-stars-11-competitors-react/"
+    },
+    {
+        "id": "ibahwqdbt",
+        "title": "India and Switzerland Expand Innovation Pact to Turn Lab Research into Health Products",
+        "excerpt": "The two nations announced a deeper collaboration to accelerate the translation of biomedical research into affordable diagnostics and therapies for global markets.",
+        "content": "<p>India and Switzerland have formally broadened their bilateral innovation partnership to bridge the gap between laboratory discoveries and market‑ready health technologies. The agreement, signed this month in New Delhi and Zurich, aims to streamline funding, regulatory pathways, and joint clinical trials for promising medical innovations. Officials say the move is critical as both countries seek to reduce reliance on imported medical devices and improve access to affordable care. By aligning research strengths with industrial capabilities, the partnership hopes to speed up the delivery of new solutions to patients worldwide.</p><p>The collaboration builds on a five‑year-old framework that focused on joint research projects in areas such as infectious diseases, diabetes, and cardiovascular health. Over the past decade, Indian institutes have contributed strong capabilities in frugal engineering and large‑scale clinical testing, while Swiss entities bring expertise in precision manufacturing, regulatory science, and high‑end biomaterials. Recent successes include a low‑cost point‑of‑care diagnostic for tuberculosis co‑developed by the Indian Institute of Science and ETH Zurich. Recognizing these achievements, both governments decided to scale up the model with dedicated funding streams and a joint innovation hub.</p><p>Under the expanded pact, a $150 million fund will be established over the next three years to support early‑stage startups and proof‑of‑concept projects. The initiative will also create a fast‑track approval mechanism with India’s Central Drugs Standard Control Organization and Swissmedic to reduce trial timelines by up to 30 percent. Dr. Anita Rao, director of the India‑Swiss Health Innovation Center, said in a statement, \"We are turning scientific excellence into tangible health outcomes that can reach underserved populations.\" Swiss State Secretary for Education, Research and Innovation Martin Dahinden added that the partnership exemplifies how north‑south cooperation can drive sustainable innovation.</p><p>Industry analysts view the deal as a potential catalyst for increased foreign direct investment in India’s biotech sector and a model for other emerging economies. Healthcare NGOs have welcomed the focus on affordability, noting that the joint projects will prioritize diseases with high burden in low‑income regions. Some critics caution that aligning divergent regulatory standards could pose challenges, but officials pledged to harmonize standards through mutual recognition agreements. The pact also includes provisions for training exchanges and joint PhD programs to build a skilled workforce.</p><p>Looking ahead, stakeholders will monitor the launch of the first joint innovation hub in Bangalore later this year, which will host incubators, shared labs, and a regulatory sandbox. Success metrics will include the number of products reaching market, cost reductions achieved, and patient outcomes improved. If the partnership meets its targets, it could serve as a blueprint for similar collaborations between Europe and other emerging markets, reinforcing the principle that prevention is better than cure when science and industry work hand in hand.</p>",
+        "celebrities": [
+            "India",
+            "Switzerland",
+            "ETH Zurich",
+            "Indian Institute of Science",
+            "Swissmedic"
+        ],
+        "category": "Tech",
+        "image_url": "https://healthandfamily.in/wp-content/uploads/2021/02/Redoubling-public-health-measures-needed-due-to-COVID-19-virus-variants-250x.png",
+        "date": "Jun 28, 2026",
+        "url": "https://healthandfamily.in/bridging-labs-and-markets-how-the-new-indo-swiss-partnership-is-reshaping-global-health-technology/"
+    },
+    {
+        "id": "wpi432oqd",
+        "title": "Has hating the UK prime minister become a 'cultural phenomenon'?",
+        "excerpt": "It took only a month after coming to office for Keir Starmer's popularity to begin plummeting. Does it mean the UK has become ungovernable? Or is something else to blame?",
+        "content": "<p>It took only a month after coming to office for Keir Starmer's popularity to begin plummeting. Does it mean the UK has become ungovernable? Or is something else to blame?</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/56f963e98c3b844d643e7a35593c0f06?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=53&width=862&height=485&imformat=generic",
+        "date": "Jun 28, 2026",
+        "url": "https://www.abc.net.au/news/2026-06-28/hating-keir-starmer-became-a-cultural-phenomenon/106838754"
+    },
+    {
+        "id": "av5t7b09m",
+        "title": "AIIMS Paramedical 2026 Admit Card released at aiimsexams.ac.in; direct link and download steps",
+        "excerpt": "The AIIMS Paramedical Admit Card 2026 has been released on the official examination website for candidates registered for the entrance test. Applicants can download their hall tickets using their registration ID and password. The AIIMS BSc Paramedical entranc…",
+        "content": "<p>The AIIMS Paramedical Admit Card 2026 has been released on the official examination website for candidates registered for the entrance test. Applicants can download their hall tickets using their registration ID and password. The AIIMS BSc Paramedical entranc…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.toiimg.com/thumb/msid-132044672,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Jun 28, 2026",
+        "url": "https://timesofindia.indiatimes.com/education/news/aiims-paramedical-2026-admit-card-released-at-aiimsexams-ac-in-direct-link-and-download-steps/articleshow/132044673.cms"
+    },
+    {
+        "id": "6bsa2ftuz",
+        "title": "Trump-endorsed Republican wins primary runoff taking major step towards replacing senator who voted to convict president during 2021 impeachment trial",
+        "excerpt": "Congresswoman Julia Letlow won Louisiana's Republican nomination for Senate, giving Donald Trump a more loyal replacement for Bill Cassidy, who the President labeled a 'RINO.'",
+        "content": "<p>Congresswoman Julia Letlow won Louisiana's Republican nomination for Senate, giving Donald Trump a more loyal replacement for Bill Cassidy, who the President labeled a 'RINO.'</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/06/28/03/109649005-0-image-m-30_1782613074331.jpg",
+        "date": "Jun 28, 2026",
+        "url": "https://www.dailymail.com/news/article-15935693/Trump-endorsed-Republican-wins-primary-Louisiana.html"
+    },
+    {
+        "id": "olhhp9kjz",
+        "title": "‘The Love Hypothesis’ Trailer Debuts: Lili Reinhart & Tom Bateman Star In Prime Video Rom-Com – Watch!",
+        "excerpt": "Lili Reinhart and Tom Bateman are starring in the upcoming romantic comedy The Love Hypothesis and the trailer just debuted […]\nThe post ‘The Love Hypothesis’ Trailer Debuts: Lili Reinhart & Tom Bateman Star In Prime Video Rom-Com – Watch! appeared first on J…",
+        "content": "<p>Lili Reinhart and Tom Bateman are starring in the upcoming romantic comedy The Love Hypothesis and the trailer just debuted […]\nThe post ‘The Love Hypothesis’ Trailer Debuts: Lili Reinhart & Tom Bateman Star In Prime Video Rom-Com – Watch! appeared first on J…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/06/love-hypothesis-trailer.jpg",
+        "date": "Jun 28, 2026",
+        "url": "https://www.justjared.com/2026/06/27/the-love-hypothesis-trailer-debuts-lili-reinhart-tom-bateman-star-in-prime-video-rom-com-watch/"
+    },
+    {
+        "id": "z9c1bdz0a",
+        "title": "Kyle Youmans embraces the weight of being the Ravens voice",
+        "excerpt": "Kyle Youmans discusses the weight and artistry of becoming the new voice of the Baltimore Ravens franchise.",
+        "content": "<p>Kyle Youmans discusses the weight and artistry of becoming the new voice of the Baltimore Ravens franchise.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/xRQP.MFE1UoHsqwqxdm_FA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/baltimore_ravens_wire_usa_today_sports_articles_532/bd075162c6d8ae7ec32d78652dbbf9dc",
+        "date": "Jun 28, 2026",
+        "url": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2026/06/27/kyle-youmans-on-the-art-of-calling-ravens-games/90681388007/"
+    },
+    {
         "id": "g54bopl15",
         "title": "We tend to think quantum tunnelling is a subatomic curiosity, but in 1984 and 1985 physicists at UC Berkeley showed that a superconducting electrical circuit big enough to hold in your hand could tunnel from one state to another — a discovery that won the 2025 Nobel Prize in Physics.",
         "excerpt": "A look at the Berkeley superconducting circuit experiments that demonstrated macroscopic quantum tunnelling and energy quantisation, later recognised by the 2025 Nobel Prize in Physics.\nThe post We tend to think quantum tunnelling is a subatomic curiosity, bu…",
