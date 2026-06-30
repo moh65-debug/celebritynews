@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "rqcmsvesk",
+        "title": "92% of tech executives see AI management as vital work skill by 2031: KPMG",
+        "excerpt": "A KPMG report indicates that the rapid rise of agentic AI is prompting organisations to restructure their workforce and rethink operational strategies",
+        "content": "<p>A KPMG report indicates that the rapid rise of agentic AI is prompting organisations to restructure their workforce and rethink operational strategies</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/qh879y/article71159968.ece/alternates/LANDSCAPE_1200/IMG_BL2603_Tech_TD_AI_Cr_2_1_VDFOU6L9.jpg",
+        "date": "Jun 29, 2026",
+        "url": "https://www.thehindubusinessline.com/info-tech/92-of-tech-executives-see-ai-management-as-vital-work-skill-by-2031-kpmg/article71159960.ece"
+    },
+    {
+        "id": "o09s7ampn",
+        "title": "CSM Technologies IPO enters final day: GMP signals 4% listing gains; Should you subscribe?",
+        "excerpt": "CSM Technologies' IPO is nearing its close with a modest grey market premium of around 4%, suggesting limited listing gains. The issue, aiming to raise Rs 145.78 crore, was 66% subscribed by Day 2, with retail investors showing strong interest. The company, a…",
+        "content": "<p>CSM Technologies' IPO is nearing its close with a modest grey market premium of around 4%, suggesting limited listing gains. The issue, aiming to raise Rs 145.78 crore, was 66% subscribed by Day 2, with retail investors showing strong interest. The company, a…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132062141,width-1200,height-630,imgsize-6930,overlay-etmarkets/articleshow.jpg",
+        "date": "Jun 29, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/csm-technologies-ipo-enters-final-day-gmp-signals-4-listing-gains-should-you-subscribe/articleshow/132062096.cms"
+    },
+    {
+        "id": "v24bj03ds",
+        "title": "The government is ‘doubling down’ on its social media ban. But bigger penalties for platforms aren’t enough",
+        "excerpt": "While the government strengthens its social media ban, a broader, more robust piece of legislation is waiting in the wings.",
+        "content": "<p>While the government strengthens its social media ban, a broader, more robust piece of legislation is waiting in the wings.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.theconversation.com/files/744653/original/file-20260629-57-ig31iw.jpg?ixlib=rb-4.1.0&rect=0%2C540%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop",
+        "date": "Jun 29, 2026",
+        "url": "https://theconversation.com/the-government-is-doubling-down-on-its-social-media-ban-but-bigger-penalties-for-platforms-arent-enough-286328"
+    },
+    {
+        "id": "fknrr38vz",
+        "title": "Exploring How to Get More Solar & Batteries at Apartment Buildings",
+        "excerpt": "There’s no doubt about it — one of the toughest places to increase cleantech adoption is apartment buildings. Well, maybe. The problem is that people living in apartments don’t have the roof space for installing solar, often don’t have the ownership incentive…",
+        "content": "<p>There’s no doubt about it — one of the toughest places to increase cleantech adoption is apartment buildings. Well, maybe. The problem is that people living in apartments don’t have the roof space for installing solar, often don’t have the ownership incentive…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cleantechnica.com/wp-content/uploads/2026/06/Australia-Apartment-buildings-solar-batteries-AI.jpg",
+        "date": "Jun 29, 2026",
+        "url": "https://cleantechnica.com/2026/06/28/exploring-how-to-get-more-solar-batteries-at-apartment-buildings/"
+    },
+    {
+        "id": "ijz48jred",
+        "title": "Brands flock to India’s England tour as marquee bilateral cricket holds ad appeal",
+        "excerpt": "Cricket's enduring appeal is driving significant advertiser interest for India's tour of England, despite a generally cautious market. Broadcasters Sony Sports Network and digital platform JioHotstar are reporting strong sales, with the series commanding prem…",
+        "content": "<p>Cricket's enduring appeal is driving significant advertiser interest for India's tour of England, despite a generally cautious market. Broadcasters Sony Sports Network and digital platform JioHotstar are reporting strong sales, with the series commanding prem…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://img.etimg.com/thumb/msid-132062017,width-1200,height-630,imgsize-143890,overlay-economictimes/articleshow.jpg",
+        "date": "Jun 29, 2026",
+        "url": "https://economictimes.indiatimes.com/industry/services/advertising/brands-flock-to-indias-england-tour-as-marquee-bilateral-cricket-holds-ad-appeal-jiostar-apple-fifa/articleshow/132061287.cms"
+    },
+    {
+        "id": "iwplhxy9i",
+        "title": "International fugitive Carlos Ghosn says he’d be best person to head Nissan now",
+        "excerpt": "I think I have a better chance of becoming CEO of Nissan at this point. In the evening of 30 December, 2019, when much of Japan was gearing down for the New Year’s holidays, a small team led by a former US Special Forces soldier were quietly breaking former N…",
+        "content": "<p>I think I have a better chance of becoming CEO of Nissan at this point. In the evening of 30 December, 2019, when much of Japan was gearing down for the New Year’s holidays, a small team led by a former US Special Forces soldier were quietly breaking former N…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://soranews24.com/wp-content/uploads/sites/3/2026/06/Image-1-1.jpeg?w=1200&h=630&crop=1",
+        "date": "Jun 29, 2026",
+        "url": "https://soranews24.com/2026/06/29/international-fugitive-carlos-ghosn-says-hed-be-best-person-to-head-nissan-now/"
+    },
+    {
+        "id": "yrepepzrm",
+        "title": "'From' stars open up about shocking Season 4 finale",
+        "excerpt": "Season 4 of \"From\" has now come to an end. USA TODAY talks with stars of the show about the season finale.",
+        "content": "<p>Season 4 of \"From\" has now come to an end. USA TODAY talks with stars of the show about the season finale.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/22/USAT/90640110007-from-s-4-ut-408-250918-reachr-05468-r-3000.jpg?crop=2999,1688,x0,y107&width=2999&height=1688&format=pjpg&auto=webp",
+        "date": "Jun 29, 2026",
+        "url": "https://www.usatoday.com/story/entertainment/tv/2026/06/28/from-season-4-finale/90655201007/"
+    },
+    {
+        "id": "akvbrvpvb",
+        "title": "CW@60: An award-winning, ZX81-frisbee-throwing tech journalism career",
+        "excerpt": "On 22 September 2026, Computer Weekly turns 60. To mark the milestone, we asked our industry contacts - and our journalists - for their perspectives on how tech has changed their lives over six decades",
+        "content": "<p>On 22 September 2026, Computer Weekly turns 60. To mark the milestone, we asked our industry contacts - and our journalists - for their perspectives on how tech has changed their lives over six decades</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/newcastle-bridges-fotolia.jpg",
+        "date": "Jun 29, 2026",
+        "url": "https://www.computerweekly.com/feature/CW60-An-award-winning-ZX81-frisbee-throwing-tech-journalism-career"
+    },
+    {
+        "id": "fjem2auob",
+        "title": "Our bodies may be able to regrow lost limbs after all",
+        "excerpt": "The permanent loss of amputated digits and limbs is the cost of being human. While worms, amphibians, fish and echinoderms all contain species capable of regenerating body parts, few mammals have the knack.Continue ReadingCategory: Biology, ScienceTags: Regen…",
+        "content": "<p>The permanent loss of amputated digits and limbs is the cost of being human. While worms, amphibians, fish and echinoderms all contain species capable of regenerating body parts, few mammals have the knack.Continue ReadingCategory: Biology, ScienceTags: Regen…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://assets.newatlas.com/dims4/default/778266b/2147483647/strip/true/crop/2000x1050+0+225/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb7%2Feb%2Fbaa5b53544bc9533ba985afb847b%2Fdigit-regeneration-humans.jpg&na.image_optimisation=0",
+        "date": "Jun 29, 2026",
+        "url": "https://newatlas.com/biology/our-bodies-regrow-lost-limb/"
+    },
+    {
+        "id": "wa4inukfp",
+        "title": "Allan government under pressure amid latest Big Build corruption allegations",
+        "excerpt": "The Victorian premier has backed her government's response to corruption in the construction industry, despite criticism from across politics and integrity experts.",
+        "content": "<p>The Victorian premier has backed her government's response to corruption in the construction industry, despite criticism from across politics and integrity experts.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/dd92519f66ee171d16b013bb45a70fd0?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=514&width=862&height=485&imformat=generic",
+        "date": "Jun 29, 2026",
+        "url": "https://www.abc.net.au/news/2026-06-29/victoria-cfmeu-construction-corruption-allegations/106854180"
+    },
+    {
         "id": "n7i7zoq0l",
         "title": "Jordan scores first World Cup goal against Argentina as crypto and football deepen their embrace",
         "excerpt": "Jordan's historic World Cup goal highlights the growing synergy between sports and crypto, potentially reshaping fan engagement and investment.\nThe post Jordan scores first World Cup goal against Argentina as crypto and football deepen their embrace appeared …",
