@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "urmtxd92y",
+        "title": "FG orders marketers to reduce fuel price",
+        "excerpt": "The Federal Government has directed the Nigerian Midstream and Downstream Petroleum Regulatory Authority, NMDPRA, to ensure petroleum marketers do not exploit Nigerians through excessive pricing under the deregulated downstream petroleum market.\nThe post FG o…",
+        "content": "<p>The Federal Government has directed the Nigerian Midstream and Downstream Petroleum Regulatory Authority, NMDPRA, to ensure petroleum marketers do not exploit Nigerians through excessive pricing under the deregulated downstream petroleum market.\nThe post FG o…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2022/06/fuel-pump2.jpg",
+        "date": "Jun 30, 2026",
+        "url": "https://www.vanguardngr.com/2026/06/fg-orders-marketers-to-reduce-fuel-price/"
+    },
+    {
+        "id": "ti419m2np",
+        "title": "Rolls-Royce Launches Advanced Engine Health Monitoring For Bombardier Jets",
+        "excerpt": "The innovative digital upgrade integrates EVHMU technology and Smart Link Plus to deliver real-time data, enabling predictive maintenance and maximizi...",
+        "content": "<p>The innovative digital upgrade integrates EVHMU technology and Smart Link Plus to deliver real-time data, enabling predictive maintenance and maximizi...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.aero-defence.tech/https://cdn.induportals-media-publishing.org/Press%20Files/11/23/37/112337-rolls.jpg",
+        "date": "Jun 30, 2026",
+        "url": "https://www.aero-defence.tech/news/112337-rolls-royce-launches-advanced-engine-health-monitoring-for-bombardier-jets"
+    },
+    {
+        "id": "52lbqji3a",
+        "title": "STARTRADER Launches Pre-IPO Trading Products for OpenAI and Anthropic",
+        "excerpt": "The new CFD instruments give traders early exposure to two of the world's most prominent artificial intelligence companies ahead of anticipated public listings. DUBAI, UAE, June 30, 2026 /PRNewswire/ -- STARTRADER, a global multi-asset broker, today announced…",
+        "content": "<p>The new CFD instruments give traders early exposure to two of the world's most prominent artificial intelligence companies ahead of anticipated public listings. DUBAI, UAE, June 30, 2026 /PRNewswire/ -- STARTRADER, a global multi-asset broker, today announced…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mma.prnewswire.com/media/3001680/Pre_IPO_Trading_Products.jpg?p=facebook",
+        "date": "Jun 30, 2026",
+        "url": "https://www.prnewswire.co.uk/news-releases/startrader-launches-pre-ipo-trading-products-for-openai-and-anthropic-302813988.html"
+    },
+    {
+        "id": "1ia3xyknx",
+        "title": "8 Best Military Sci-Fi Shows Of All Time",
+        "excerpt": "While the sci-fi genre is packed with many diverse stories, only a few sci-fi shows perfectly combine it with compelling military action and intrigue.",
+        "content": "<p>While the sci-fi genre is packed with many diverse stories, only a few sci-fi shows perfectly combine it with compelling military action and intrigue.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/7821135c-3b94-4c9a-8eb6-7fff3f0c32c2.jpeg?w=1600&h=900&fit=crop",
+        "date": "Jun 30, 2026",
+        "url": "https://screenrant.com/8-best-military-sci-fi-shows-of-all-time/"
+    },
+    {
+        "id": "cicve56zs",
+        "title": "Chris Johnson diagnosed with ALS. Everything we know about disease, Titans RB",
+        "excerpt": "Former Tennessee Titans running back Chris Johnson announced June 29 that he has ALS after being diagnosed with the disease in 2025.",
+        "content": "<p>Former Tennessee Titans running back Chris Johnson announced June 29 that he has ALS after being diagnosed with the disease in 2025.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/AKMyoxryVcMODDzmyqa5kQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTY7Y2Y9d2VicA--/https://media.zenfs.com/en/the_tennessean_natl_articles_921/13e3a923bde8589ec19bb13ec526d1be",
+        "date": "Jun 30, 2026",
+        "url": "https://www.tennessean.com/story/sports/nfl/titans/2026/06/29/chris-johnson-als-diagnosis-tennessee-titans-running-back-what-we-know/90746371007/"
+    },
+    {
+        "id": "4xm5ii42n",
+        "title": "Indonesia Biofuel Push Adds Strain to Producers and Palm Markets",
+        "excerpt": "The rollout of a pioneering palm-diesel blend is set to stretch Indonesian biofuel makers to their limits and tighten global supplies of the tropical oil by diverting it away from export markets.",
+        "content": "<p>The rollout of a pioneering palm-diesel blend is set to stretch Indonesian biofuel makers to their limits and tighten global supplies of the tropical oil by diverting it away from export markets.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/indonesia-holds-sway-over-palm-export-market-a-drop-in-its-.jpg",
+        "date": "Jun 30, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/indonesia-biofuel-push-adds-strain-to-producers-and-palm-markets"
+    },
+    {
+        "id": "3msr9opy8",
+        "title": "Mid caps expected to trump the large caps again, this time through acquisitions",
+        "excerpt": "Indian mid-cap IT firms are using acquisitions to accelerate growth, positioning themselves to add more incremental revenue than larger peers this year as AI and weak demand reshape the industry.",
+        "content": "<p>Indian mid-cap IT firms are using acquisitions to accelerate growth, positioning themselves to add more incremental revenue than larger peers this year as AI and weak demand reshape the industry.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/06/30/1600x900/logo/2-0-351767872-computeruser-0_1680612579380_1782788010008_9a8c9a3c-9803-4111-aa52-2d67fead9a79.jpg",
+        "date": "Jun 30, 2026",
+        "url": "https://www.livemint.com/companies/indian-it-services-acquisitions-coforge-persistent-systems-mphasis-hexaware-infosys-wipro-tcs-hcltech-tech-mahindra-11782745821453.html"
+    },
+    {
+        "id": "rbbucrboj",
+        "title": "Where failure is free, nations pay, by Dakuku Peterside",
+        "excerpt": "There is a powerful lesson in the political fate of Keir Starmer, but it is not merely a British lesson. It is not about Westminster drama or parliamentary theatre. It is about a deeper democratic principle: leadership improves only when failure has consequen…",
+        "content": "<p>There is a powerful lesson in the political fate of Keir Starmer, but it is not merely a British lesson. It is not about Westminster drama or parliamentary theatre. It is about a deeper democratic principle: leadership improves only when failure has consequen…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2026/06/Dakuku.png",
+        "date": "Jun 30, 2026",
+        "url": "https://www.vanguardngr.com/2026/06/where-failure-is-free-nations-pay-by-dakuku-peterside/"
+    },
+    {
+        "id": "ghc8u70qz",
+        "title": "Micky van de Ven delivers standout tackle to stop Hakimi in World Cup",
+        "excerpt": "Van de Ven's tackle highlights the non-financial impact of sports moments, contrasting with Hakimi's crypto-linked market influence.\nThe post Micky van de Ven delivers standout tackle to stop Hakimi in World Cup appeared first on Crypto Briefing.",
+        "content": "<p>Van de Ven's tackle highlights the non-financial impact of sports moments, contrasting with Hakimi's crypto-linked market influence.\nThe post Micky van de Ven delivers standout tackle to stop Hakimi in World Cup appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/29222447/man-utd-ready-to-battle-liverpool-for-micky-van-de-ven-trans-2-800x420.jpeg",
+        "date": "Jun 30, 2026",
+        "url": "https://cryptobriefing.com/van-de-ven-tackle-hakimi-world-cup-crypto/"
+    },
+    {
+        "id": "0jzn5tabc",
+        "title": "Toshiba Launches 80V N-Channel Power MOSFET Using Its Latest Generation Process to Improve Efficiency in AI Data Centers",
+        "excerpt": "KAWASAKI, Japan — Toshiba Electronic Devices & Storage Corporation (“Toshiba”) has launched “ TPM1R408RH,” an 80V N-channel power MOSFET fabricated using U-MOS11-H, Toshiba’s latest-generation process[1]. The MOSFET targets applications such as switched-mode …",
+        "content": "<p>KAWASAKI, Japan — Toshiba Electronic Devices & Storage Corporation (“Toshiba”) has launched “ TPM1R408RH,” an 80V N-channel power MOSFET fabricated using U-MOS11-H, Toshiba’s latest-generation process[1]. The MOSFET targets applications such as switched-mode …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/bw20260629095995_u-mos11-80v-s1xp228ade-ll29.jpeg",
+        "date": "Jun 30, 2026",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/toshiba-launches-80v-n-channel-power-mosfet-using-its-latest-generation-process-to-improve-efficiency-in-ai-data-centers"
+    },
+    {
         "id": "rqcmsvesk",
         "title": "92% of tech executives see AI management as vital work skill by 2031: KPMG",
         "excerpt": "A KPMG report indicates that the rapid rise of agentic AI is prompting organisations to restructure their workforce and rethink operational strategies",
