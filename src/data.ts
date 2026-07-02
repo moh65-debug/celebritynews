@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "z9n4a4dlb",
+        "title": "Redeploying Claude Fable 5",
+        "excerpt": "On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immedi…",
+        "content": "<p>On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immedi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "date": "Jul 1, 2026",
+        "url": "https://www.anthropic.com/news/redeploying-fable-5"
+    },
+    {
+        "id": "xj1jkurxc",
+        "title": "The \"Father of the Internet\" is finally retiring | TechCrunch",
+        "excerpt": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+        "content": "<p>Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
+        "date": "Jul 1, 2026",
+        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/"
+    },
+    {
+        "id": "ps5suigzb",
+        "title": "Global AI wave revs up Asian factories, offsetting war-induced pain",
+        "excerpt": "By Leika Kihara\nTOKYO, July 1 (Reuters) - The global AI boom powered Asia's manufacturing sector in June, with brisk demand for technology-related goods offsetting the drag from the Iran war, private surveys showed on Wednesday, offering some relief for the r…",
+        "content": "<p>By Leika Kihara\nTOKYO, July 1 (Reuters) - The global AI boom powered Asia's manufacturing sector in June, with brisk demand for technology-related goods offsetting the drag from the Iran war, private surveys showed on Wednesday, offering some relief for the r…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/c19769ca253d45e0_s.webp",
+        "date": "Jul 1, 2026",
+        "url": "https://biztoc.com/x/c19769ca253d45e0"
+    },
+    {
+        "id": "0xc9t5vy6",
+        "title": "Brookfield bets on India’s AI data centre boom to drive renewable energy growth",
+        "excerpt": "Brookfield Asset Management Inc. says data centers in India represent a big opportunity for its renewables business, even as some investors worry the country lacks clear artificial intelligence-focused investment options.",
+        "content": "<p>Brookfield Asset Management Inc. says data centers in India represent a big opportunity for its renewables business, even as some investors worry the country lacks clear artificial intelligence-focused investment options.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/cmk84k/article71168560.ece/alternates/LANDSCAPE_1200/IMG_BL0502_Quantum_Ancho_2_1_V5CC1N4D.jpg",
+        "date": "Jul 1, 2026",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/brookfield-sees-big-opportunity-in-powering-india-data-centers"
+    },
+    {
+        "id": "na7r24h4r",
+        "title": "Safely Releasing Frontier Models to Customers",
+        "excerpt": "It’s our goal for AWS to be the most secure place to run any workload, and in support of that we’ve been deeply investing in security across our services since AWS's inception more than two decades ago. Our AI services like Amazon Bedrock are built on this fo…",
+        "content": "<p>It’s our goal for AWS to be the most secure place to run any workload, and in support of that we’ve been deeply investing in security across our services since AWS's inception more than two decades ago. Our AI services like Amazon Bedrock are built on this fo…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/20/21306.png",
+        "date": "Jul 1, 2026",
+        "url": "https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/"
+    },
+    {
+        "id": "1lo20yse5",
+        "title": "70 Of The Best Pop Culture Posts You Can Pass Around For Instant Good Vibes",
+        "excerpt": "Blink and you might miss it. Pop culture tends to move at lightning speed. One minute, everyone's discussing last night's red carpet fashion disasters. The next, a new movie is the talk of the town. But thanks to the internet, we are able to keep our old favo…",
+        "content": "<p>Blink and you might miss it. Pop culture tends to move at lightning speed. One minute, everyone's discussing last night's red carpet fashion disasters. The next, a new movie is the talk of the town. But thanks to the internet, we are able to keep our old favo…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/06/pop-culture-memes-fb.jpg",
+        "date": "Jul 1, 2026",
+        "url": "https://www.boredpanda.com/pop-culture-memes/"
+    },
+    {
+        "id": "ns9uug7wa",
+        "title": "The 2026 World Cup is becoming crypto’s biggest mainstream stage",
+        "excerpt": "The 2026 World Cup's crypto integration could accelerate digital asset adoption, reshaping fan engagement and sports marketing globally.\nThe post The 2026 World Cup is becoming crypto’s biggest mainstream stage appeared first on Crypto Briefing.",
+        "content": "<p>The 2026 World Cup's crypto integration could accelerate digital asset adoption, reshaping fan engagement and sports marketing globally.\nThe post The 2026 World Cup is becoming crypto’s biggest mainstream stage appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/30224748/world-cup-stadium-1-800x420.jpeg",
+        "date": "Jul 1, 2026",
+        "url": "https://cryptobriefing.com/2026-world-cup-crypto-fan-tokens-kraken/"
+    },
+    {
+        "id": "w4vzpn4wy",
+        "title": "Melanoma's secret to cheating death has finally been revealed",
+        "excerpt": "Scientists have solved a long-standing mystery by discovering the missing genetic ingredient that helps melanoma cells become effectively immortal. The breakthrough could open the door to new treatments aimed at disrupting one of cancer&apos;s most important …",
+        "content": "<p>Scientists have solved a long-standing mystery by discovering the missing genetic ingredient that helps melanoma cells become effectively immortal. The breakthrough could open the door to new treatments aimed at disrupting one of cancer&apos;s most important …</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/bright-glowing-cancer-cell.webp",
+        "date": "Jul 1, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260625014833.htm"
+    },
+    {
+        "id": "xw7vdit0x",
+        "title": "July set to begin on cautious note for Indian stocks",
+        "excerpt": "Markets are likely to open on flat note on July 1, despite positive global cues. Analysts expect the consolidation phase to continue amid sectoral shocks and rotations.",
+        "content": "<p>Markets are likely to open on flat note on July 1, despite positive global cues. Analysts expect the consolidation phase to continue amid sectoral shocks and rotations.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bl-i.thgim.com/public/incoming/59n4yu/article71168506.ece/alternates/LANDSCAPE_1200/iStock-1255683032%201.jpg",
+        "date": "Jul 1, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/july-set-to-begin-on-cautious-note-for-indian-stocks/article71168497.ece"
+    },
+    {
+        "id": "3syq7slvn",
+        "title": "Sensex today | Stock Market Live Updates: KPIT, Kotak Bank, Maruti, Ather, Ola, NTPC, Glenmark among 20 stocks to see action today",
+        "excerpt": "Sensex, Nifty, Share Prices LIVE: Auto sales figures especially from EV makers, Zee stake sale, NTPC deal, Unimech order, Glenmark Pharma’s USFDA warning to figure in today’s trade.",
+        "content": "<p>Sensex, Nifty, Share Prices LIVE: Auto sales figures especially from EV makers, Zee stake sale, NTPC deal, Unimech order, Glenmark Pharma’s USFDA warning to figure in today’s trade.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bl-i.thgim.com/public/incoming/utgdmo/article71165461.ece/alternates/LANDSCAPE_1200/India-Inc-raiseG4DG49QG6.4.jpg.jpg",
+        "date": "Jul 1, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-1-july-2026/article71165456.ece"
+    },
+    {
         "id": "urmtxd92y",
         "title": "FG orders marketers to reduce fuel price",
         "excerpt": "The Federal Government has directed the Nigerian Midstream and Downstream Petroleum Regulatory Authority, NMDPRA, to ensure petroleum marketers do not exploit Nigerians through excessive pricing under the deregulated downstream petroleum market.\nThe post FG o…",
