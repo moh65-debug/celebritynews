@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "p64w1cli6",
+        "title": "Kraken Becomes FIFA's First Crypto Exchange Sponsor as Switzerland Meets Algeria in World Cup 2026",
+        "excerpt": "The round‑of‑32 clash in Vancouver marks FIFA’s inaugural crypto‑exchange partnership while prediction‑market betting tops $2 billion.",
+        "content": "<p>Switzerland and Algeria faced off in the World Cup 2026 round of 32 in Vancouver, a match notable not only for the on‑field action but also for Kraken’s debut as FIFA’s first official cryptocurrency‑exchange sponsor.</p>\n<p>The sponsorship deal, announced weeks before the tournament, gives Kraken branding on stadium boards and digital streams, signaling a shift in how football’s governing body engages with digital‑asset firms.</p>\n<p>Kraken’s chief marketing officer said, \"We are proud to partner with FIFA to bring innovative financial tools to fans worldwide,\" while FIFA’s director of commercial relations added that the move reflects the organization’s openness to emerging technologies. Prediction‑market platforms recorded over $2 billion in wagering volume during the first week of the tournament, underscoring the surge in crypto‑linked betting activity.</p>\n<p>Reactions have been mixed: Swiss regulators praised the transparency of the partnership, whereas Algerian officials warned that such deals could blur lines between sport and high‑risk financial products, citing concerns over consumer protection.</p>\n<p>Looking ahead, the World Cup will serve as a test case for future crypto sponsorships; if the partnership proceeds without major incidents, FIFA may consider expanding similar deals to other exchanges and exploring blockchain‑based ticketing or fan‑token initiatives.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/01222256/wallpaper-fifa-world-cup-hd-live-wallpaper-hd-world-cup-trop-1-800x420.jpeg",
+        "date": "Jul 2, 2026",
+        "url": "https://cryptobriefing.com/world-cup-2026-crypto-kraken-fifa-sponsor/"
+    },
+    {
+        "id": "zz89f9dtl",
+        "title": "Josh Gad Latest Actor to Join Star-Studded ‘Ocean’s Eleven’ Prequel Movie Cast",
+        "excerpt": "Josh Gad is the latest star to join the Ocean’s Eleven prequel movie! On Wednesday (July 1), Variety announced that […]\nThe post Josh Gad Latest Actor to Join Star-Studded ‘Ocean’s Eleven’ Prequel Movie Cast appeared first on Just Jared - Celebrity News and G…",
+        "content": "<p>Josh Gad is the latest star to join the Ocean’s Eleven prequel movie! On Wednesday (July 1), Variety announced that […]\nThe post Josh Gad Latest Actor to Join Star-Studded ‘Ocean’s Eleven’ Prequel Movie Cast appeared first on Just Jared - Celebrity News and G…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/07/josh-gad-joins-oceans-11-prequel.jpg",
+        "date": "Jul 2, 2026",
+        "url": "https://www.justjared.com/2026/07/01/josh-gad-latest-actor-to-join-star-studded-oceans-eleven-prequel-movie-cast/"
+    },
+    {
+        "id": "hx3jzy0gl",
+        "title": "SoftBank renews talks for $10 billion loan against OpenAI stake, adds concessions",
+        "excerpt": "To make lenders more comfortable, the Japanese technology investor is offering to guarantee repayment of the loan, giving banks recourse to SoftBank if the OpenAI shares pledged as collateral lose value, the people said.",
+        "content": "<p>To make lenders more comfortable, the Japanese technology investor is offering to guarantee repayment of the loan, giving banks recourse to SoftBank if the OpenAI shares pledged as collateral lose value, the people said.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13842,resizemode-75,msid-132127234/tech/artificial-intelligence/softbank-renews-talks-for-10-billion-loan-against-openai-stake-adds-concessions.jpg",
+        "date": "Jul 2, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-renews-talks-for-10-billion-loan-against-openai-stake-adds-concessions/articleshow/132127234.cms"
+    },
+    {
+        "id": "dpdacizlz",
+        "title": "Elon Musk denies WSJ report that SpaceX showed AI handset prototype before IPO",
+        "excerpt": "The Journal had reported, citing ‌people familiar ⁠with the ⁠matter, that the prototype handset-like device was designed to run on ​a proprietary operating system, contained AI technology from xAI and would ​use Qualcomm's Snapdragon chips.",
+        "content": "<p>The Journal had reported, citing ‌people familiar ⁠with the ⁠matter, that the prototype handset-like device was designed to run on ​a proprietary operating system, contained AI technology from xAI and would ​use Qualcomm's Snapdragon chips.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-86808,resizemode-75,msid-132127201/tech/technology/elon-musk-denies-wsj-report-that-spacex-showed-ai-handset-prototype-before-ipo.jpg",
+        "date": "Jul 2, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-denies-wsj-report-that-spacex-showed-ai-handset-prototype-before-ipo/articleshow/132127201.cms"
+    },
+    {
+        "id": "1an7ee7ah",
+        "title": "ShareChat eyes $400 million IPO next year after turning operationally profitable",
+        "excerpt": "Backed by Lightspeed and Tiger Global, Mohalla Tech aims to go public after achieving operational profitability in Q1 FY27.",
+        "content": "<p>Backed by Lightspeed and Tiger Global, Mohalla Tech aims to go public after achieving operational profitability in Q1 FY27.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/83fe6m/article71172864.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__ShareCha_2_1_TSD5DJ05.jpg",
+        "date": "Jul 2, 2026",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/sharechat-india-s-meta-rival-plans-400-million-ipo-next-year"
+    },
+    {
+        "id": "mx4l2jd90",
+        "title": "‘Dark Moon: The Blood Altar’ And ENHYPEN Coming To San Diego Comic-Con",
+        "excerpt": "ENHYPEN are coming to San Diego Comic-Con to celebrate their webcomic  and anime, 'Dark Moon: The Blood Altar.' Beyond the panel, there will be a booth and special show.",
+        "content": "<p>ENHYPEN are coming to San Diego Comic-Con to celebrate their webcomic  and anime, 'Dark Moon: The Blood Altar.' Beyond the panel, there will be a booth and special show.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a45c66e82c7ddda2e4618f0/0x0.jpg?format=jpg&crop=2880,1350,x0,y120,safe&height=900&width=1600&fit=bounds",
+        "date": "Jul 2, 2026",
+        "url": "https://www.forbes.com/sites/laurasirikul/2026/07/01/dark-moon-the-blood-altar-and-enhypen-coming-to-san-diego-comic-con/"
+    },
+    {
+        "id": "gzt3v27fp",
+        "title": "10 Best Anime to Binge on Crunchyroll in July 2026",
+        "excerpt": "Image Courtesy of Crunchyroll\n\nJuly is finally here, which means anime fans need another list of exciting series to keep them occupied for the entire month. As the exciting Spring 2026 anime season draws to a close, fans prepare for the exciting Summer lineup…",
+        "content": "<p>Image Courtesy of Crunchyroll\n\nJuly is finally here, which means anime fans need another list of exciting series to keep them occupied for the entire month. As the exciting Spring 2026 anime season draws to a close, fans prepare for the exciting Summer lineup…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2026/07/July-2026-Crunchyroll.jpg?resize=2000,1125",
+        "date": "Jul 2, 2026",
+        "url": "http://comicbook.com/anime/list/10-best-anime-to-binge-on-crunchyroll-in-july-2026/"
+    },
+    {
+        "id": "ik7671z9u",
+        "title": "12 Houston Cougars Selected in Latest Preseason Honors",
+        "excerpt": "Houston football looks to be filled with Big 12 talent across the board with major preseason recognitions.",
+        "content": "<p>Houston football looks to be filled with Big 12 talent across the board with major preseason recognitions.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/houston_cougars_on_si_articles_635/af487a92eacaad2314635bdc5e5ad863",
+        "date": "Jul 2, 2026",
+        "url": "https://www.si.com/college/houston/football/12-houston-cougars-selected-in-latest-preseason-honors"
+    },
+    {
+        "id": "jpi5sndcq",
+        "title": "T.I. and Tiny Awarded $0 in Punitive Damages in OMG Girlz Trial, Jury Rules",
+        "excerpt": "The fourth trial in a legal fight between T.I., Tameka “Tiny” Harris, and the toy giant MGA Entertainment did not go the celebrity couple’s way.",
+        "content": "<p>The fourth trial in a legal fight between T.I., Tameka “Tiny” Harris, and the toy giant MGA Entertainment did not go the celebrity couple’s way.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/07/tiny-ti-lawsuit.jpg?w=1600&h=900&crop=1",
+        "date": "Jul 2, 2026",
+        "url": "http://www.rollingstone.com/music/music-news/ti-tiny-omg-girlz-trial-zero-dollars-punitive-damages-1235587576/"
+    },
+    {
+        "id": "5tv4sn2e2",
+        "title": "Pedro Pascal Hits the Gym for Morning Workout in L.A.",
+        "excerpt": "Pedro Pascal is wrapping up a morning workout. The 51-year-old The Last of Us actor made his way out to […]\nThe post Pedro Pascal Hits the Gym for Morning Workout in L.A. appeared first on Just Jared - Celebrity News and Gossip | Entertainment.",
+        "content": "<p>Pedro Pascal is wrapping up a morning workout. The 51-year-old The Last of Us actor made his way out to […]\nThe post Pedro Pascal Hits the Gym for Morning Workout in L.A. appeared first on Just Jared - Celebrity News and Gossip | Entertainment.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/07/pedro-pascal-hits-the-gym-in-la.jpg",
+        "date": "Jul 2, 2026",
+        "url": "https://www.justjared.com/2026/07/01/pedro-pascal-hits-the-gym-for-morning-workout-in-l-a/"
+    },
+    {
         "id": "z9n4a4dlb",
         "title": "Redeploying Claude Fable 5",
         "excerpt": "On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immedi…",
