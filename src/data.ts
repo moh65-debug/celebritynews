@@ -12,6 +12,122 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "wphmmoc8i",
+        "title": "Pompompurin Wins Sanrio Character Ranking For a Fifth Time",
+        "excerpt": "Sanrio revealed the results of their 2026 Character Ranking, and to almost no one's surprise, Pompompurin took the #1 overall spot. The company reported that a record-breaking 70,647,379 votes were cast, a rise of 12% from last year's vote, with Pompompurin g…",
+        "content": "<p>Sanrio revealed the results of their 2026 Character Ranking, and to almost no one's surprise, Pompompurin took the #1 overall spot. The company reported that a record-breaking 70,647,379 votes were cast, a rise of 12% from last year's vote, with Pompompurin g…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/07/Pandaba-Sanrio-2026-Ranking-2000x1125.jpg",
+        "date": "Jul 3, 2026",
+        "url": "https://bleedingcool.com/pop-culture/pompompurin-wins-sanrio-character-ranking-for-a-fifth-time/"
+    },
+    {
+        "id": "arr5zzfg2",
+        "title": "Samsung escalates South Korea buildout: maps fresh US$90 billion chip, display, battery push in central region",
+        "excerpt": "Samsung Group detailed plans on July 2 to invest KRW140 trillion (US$90 billion) in display panels, batteries, chips, and chip materials in South Korea's central Chungcheong region.",
+        "content": "<p>Samsung Group detailed plans on July 2 to invest KRW140 trillion (US$90 billion) in display panels, batteries, chips, and chip materials in South Korea's central Chungcheong region.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260703vl204_files/2_2b.jpg",
+        "date": "Jul 3, 2026",
+        "url": "https://www.digitimes.com/news/a20260703VL204/samsung-display-investment-hbm-materials.html"
+    },
+    {
+        "id": "5q6ui57hh",
+        "title": "The Ordinary, CeraVe and Charlotte Tilbury Dominate Beauty's New Shelf: The AI Chatbox",
+        "excerpt": "5W AI Communications releases the Beauty AI Visibility Index 2026 — ranking the top 25 U.S. beauty brands by Citation Share inside ChatGPT, Claude, Perplexity, Gemini, and Google AI Overviews MIAMI, July 2, 2026 /PRNewswire/ -- 5W AI Communications, the AI Co…",
+        "content": "<p>5W AI Communications releases the Beauty AI Visibility Index 2026 — ranking the top 25 U.S. beauty brands by Citation Share inside ChatGPT, Claude, Perplexity, Gemini, and Google AI Overviews MIAMI, July 2, 2026 /PRNewswire/ -- 5W AI Communications, the AI Co…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1788527/5W-Public-Relations-Logo.jpg?id=OA2749558&p=facebook",
+        "date": "Jul 3, 2026",
+        "url": "https://www.prnewswire.com/news-releases/the-ordinary-cerave-and-charlotte-tilbury-dominate-beautys-new-shelf-the-ai-chatbox-302817367.html"
+    },
+    {
+        "id": "5ddubs5wp",
+        "title": "World Cup 2026 spotlight: how Croatia’s exit boosted Portugal fan token trading volumes",
+        "excerpt": "The rise in fan token trading highlights the growing intersection of sports and crypto, influencing market dynamics and fan engagement strategies.\nThe post World Cup 2026 spotlight: how Croatia’s exit boosted Portugal fan token trading volumes appeared first …",
+        "content": "<p>The rise in fan token trading highlights the growing intersection of sports and crypto, influencing market dynamics and fan engagement strategies.\nThe post World Cup 2026 spotlight: how Croatia’s exit boosted Portugal fan token trading volumes appeared first …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/02221947/1438x1078-portugal-national-football-team-wallpaper-download-800x420.jpeg",
+        "date": "Jul 3, 2026",
+        "url": "https://cryptobriefing.com/world-cup-croatia-exit-fan-token-trading/"
+    },
+    {
+        "id": "nd1jphsnn",
+        "title": "Mark Zuckerberg says Meta’s agentic AI efforts aren’t progressing as fast as he’d hoped",
+        "excerpt": "Meta Platforms Inc. Chief Executive Mark Zuckerberg told employees at an internal town hall meeting that the company’s work on artificial intelligence agents hasn’t progressed as quickly as he’d hoped. It’s a rare admission from the founder that not everythin…",
+        "content": "<p>Meta Platforms Inc. Chief Executive Mark Zuckerberg told employees at an internal town hall meeting that the company’s work on artificial intelligence agents hasn’t progressed as quickly as he’d hoped. It’s a rare admission from the founder that not everythin…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Zuckerberg.png",
+        "date": "Jul 3, 2026",
+        "url": "https://siliconangle.com/2026/07/02/mark-zuckerberg-says-metas-agentic-ai-efforts-arent-progressing-fast-hed-hoped/"
+    },
+    {
+        "id": "p1gtc7hbr",
+        "title": "AI data center startup Crusoe in talks to raise $3 billion funding: report",
+        "excerpt": "The startup has contracts to supply AI computing power ‌for the ⁠likes ⁠of Meta and Oracle, the report said, as technology giants spend ​billions of dollars on data centers to meet the massive computing ​requirements for GenAI.",
+        "content": "<p>The startup has contracts to supply AI computing power ‌for the ⁠likes ⁠of Meta and Oracle, the report said, as technology giants spend ​billions of dollars on data centers to meet the massive computing ​requirements for GenAI.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1388415,resizemode-75,msid-132150786/tech/artificial-intelligence/crusoe-in-talks-to-raise-3-billion-funding-report.jpg",
+        "date": "Jul 3, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/crusoe-in-talks-to-raise-3-billion-funding-report/articleshow/132150786.cms"
+    },
+    {
+        "id": "eq6kohnsm",
+        "title": "USMNT’s World Cup run exposes a glaring gap: zero crypto sponsorships while rivals cash in",
+        "excerpt": "The USMNT's lack of crypto sponsorships highlights missed opportunities in fan engagement and potential revenue amid growing digital asset trends.\nThe post USMNT’s World Cup run exposes a glaring gap: zero crypto sponsorships while rivals cash in appeared fir…",
+        "content": "<p>The USMNT's lack of crypto sponsorships highlights missed opportunities in fan engagement and potential revenue amid growing digital asset trends.\nThe post USMNT’s World Cup run exposes a glaring gap: zero crypto sponsorships while rivals cash in appeared fir…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/02220018/world-cup-reacts-results-which-team-do-you-want-the-usmnt-to-2-800x420.jpeg",
+        "date": "Jul 3, 2026",
+        "url": "https://cryptobriefing.com/usmnt-world-cup-crypto-sponsorship-gap-3/"
+    },
+    {
+        "id": "vcbqicc4t",
+        "title": "Amman Mineral Shifts to Downstream Copper Processing to Boost Earnings",
+        "excerpt": "PT Amman Mineral Internasional Tbk expects higher long‑term earnings as it expands downstream copper cathode and refined gold production.",
+        "content": "<p>PT Amman Mineral Internasional Tbk (AMMN) said on Thursday that it will fast‑track downstream processing of its copper and gold output, targeting the production of copper cathode and refined gold within Indonesia.</p><p>The move follows a government push to increase value‑added mining activities and reduce reliance on raw ore exports, which have faced fluctuating global prices.</p><p>AMMN expects downstream operations to lift its average selling price by up to 30 percent and contribute an additional IDR 2 trillion to annual revenue by 2027, according to company forecasts presented at the briefing.</p><p>Industry analysts welcomed the strategy, noting that higher‑margin products could improve the firm’s resilience against commodity cycles, while some investors cautioned about the capital intensity of new smelting and refining facilities.</p><p>Looking ahead, AMMN will monitor the completion of its new smelter in East Java and the ramp‑up of its refinery, with analysts advising to watch for quarterly production updates and any changes in downstream policy incentives.</p>",
+        "celebrities": [
+            "PT Amman Mineral Internasional Tbk",
+            "Indonesia",
+            "Copper",
+            "Gold",
+            "East Java"
+        ],
+        "category": "Business",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/07/03/1000898377.jpg",
+        "date": "Jul 3, 2026",
+        "url": "https://en.antaranews.com/news/421393/ammnseen-entering-higher-earnings-phase-on-downstream-push"
+    },
+    {
+        "id": "dsmjwcvxx",
+        "title": "VAR controversy as Croatia’s World Cup hopes dashed by disallowed goal against England",
+        "excerpt": "The VAR controversy highlights ongoing concerns about technology's role in sports, potentially affecting future tournament outcomes and fairness.\nThe post VAR controversy as Croatia’s World Cup hopes dashed by disallowed goal against England appeared first on…",
+        "content": "<p>The VAR controversy highlights ongoing concerns about technology's role in sports, potentially affecting future tournament outcomes and fairness.\nThe post VAR controversy as Croatia’s World Cup hopes dashed by disallowed goal against England appeared first on…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/02213053/https-upload-wikimedia-org-wikipedia-commons-1-11-croatia-fo-1-1-800x420.jpeg",
+        "date": "Jul 3, 2026",
+        "url": "https://cryptobriefing.com/var-controversy-as-croatias-world-cup-hopes-dashed-by-disallowed-goal-against/"
+    },
+    {
+        "id": "qcx4vba44",
+        "title": "Hilary Duff to Film Upcoming ‘The Lucky Me Tour’ Concerts In Los Angeles",
+        "excerpt": "Hilary Duff is currently in the midst of The Lucky Me Tour, her first major concert tour in nearly 20 […]\nThe post Hilary Duff to Film Upcoming ‘The Lucky Me Tour’ Concerts In Los Angeles appeared first on Just Jared - Celebrity News and Gossip | Entertainmen…",
+        "content": "<p>Hilary Duff is currently in the midst of The Lucky Me Tour, her first major concert tour in nearly 20 […]\nThe post Hilary Duff to Film Upcoming ‘The Lucky Me Tour’ Concerts In Los Angeles appeared first on Just Jared - Celebrity News and Gossip | Entertainmen…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/07/hilary-filming.jpg",
+        "date": "Jul 3, 2026",
+        "url": "https://www.justjared.com/2026/07/02/hilary-duff-to-film-upcoming-the-lucky-me-tour-concerts-in-los-angeles/"
+    },
+    {
         "id": "p64w1cli6",
         "title": "Kraken Becomes FIFA's First Crypto Exchange Sponsor as Switzerland Meets Algeria in World Cup 2026",
         "excerpt": "The round‑of‑32 clash in Vancouver marks FIFA’s inaugural crypto‑exchange partnership while prediction‑market betting tops $2 billion.",
