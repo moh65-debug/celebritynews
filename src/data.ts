@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "j4jwcfdwn",
+        "title": "Energy-Hungry Asia Is Already Drawing Lessons From Iran Crisis",
+        "excerpt": "There is still no lasting peace deal in the Persian Gulf, but energy-hungry Asia is already drawing energy lessons from four months of war: it needs bigger buffers, a greater diversity of fossil-fuel suppliers, and a better mix of power sources overall.",
+        "content": "<p>There is still no lasting peace deal in the Persian Gulf, but energy-hungry Asia is already drawing energy lessons from four months of war: it needs bigger buffers, a greater diversity of fossil-fuel suppliers, and a better mix of power sources overall.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/asias-middle-east-imports-hit-by-iran-crisis-purchases-from.jpg",
+        "date": "Jul 4, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/energy-hungry-asia-is-already-drawing-lessons-from-iran-crisis"
+    },
+    {
+        "id": "19cysrj0a",
+        "title": "World Cup 2026 is becoming crypto’s biggest marketing stage, and the Colombia-Ghana match proved it",
+        "excerpt": "The World Cup 2026 highlights crypto's growing influence in sports marketing, potentially reshaping fan engagement and investment dynamics.\nThe post World Cup 2026 is becoming crypto’s biggest marketing stage, and the Colombia-Ghana match proved it appeared f…",
+        "content": "<p>The World Cup 2026 highlights crypto's growing influence in sports marketing, potentially reshaping fan engagement and investment dynamics.\nThe post World Cup 2026 is becoming crypto’s biggest marketing stage, and the Colombia-Ghana match proved it appeared f…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/03222358/ghana-train-before-colombia-fifa-world-cup-2026-800x420.jpeg",
+        "date": "Jul 4, 2026",
+        "url": "https://cryptobriefing.com/world-cup-2026-crypto-marketing-chz-kraken/"
+    },
+    {
+        "id": "ufq84k3cm",
+        "title": "Tchouameni injury highlights growing intersection of sports betting markets and crypto platforms",
+        "excerpt": "The intersection of sports betting and crypto platforms may amplify financial risks and ethical concerns in sports management and fan engagement.\nThe post Tchouameni injury highlights growing intersection of sports betting markets and crypto platforms appeare…",
+        "content": "<p>The intersection of sports betting and crypto platforms may amplify financial risks and ethical concerns in sports management and fan engagement.\nThe post Tchouameni injury highlights growing intersection of sports betting markets and crypto platforms appeare…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/03220706/90-000-000-pentru-aurelien-tchouameni-800x420.jpeg",
+        "date": "Jul 4, 2026",
+        "url": "https://cryptobriefing.com/tchouameni-injury-crypto-sports-markets/"
+    },
+    {
+        "id": "r9gon9yfz",
+        "title": "FIFA’s World Cup kickoff chaos highlights crypto’s growing grip on global football",
+        "excerpt": "The integration of crypto in global football could reshape fan engagement, betting dynamics, and financial models within the sports industry.\nThe post FIFA’s World Cup kickoff chaos highlights crypto’s growing grip on global football appeared first on Crypto …",
+        "content": "<p>The integration of crypto in global football could reshape fan engagement, betting dynamics, and financial models within the sports industry.\nThe post FIFA’s World Cup kickoff chaos highlights crypto’s growing grip on global football appeared first on Crypto …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/03214323/fifa-world-cup-2026-standings-table-800x420.jpeg",
+        "date": "Jul 4, 2026",
+        "url": "https://cryptobriefing.com/fifa-world-cup-kickoff-crypto-prediction-markets/"
+    },
+    {
+        "id": "8fa1xsk34",
+        "title": "Epson WorkForce ES-550W Wireless Desktop Color Duplex Document Scanner $299.99 free Shipping Costco.com",
+        "excerpt": "https://www.costco.com/p/-/epson-...&langId=-1 \n \n$100 OFF \n$100 manufacturer's savings is valid 6/7/26 through 7/5/26. While supplies last. \nLimit 5 per member. \n \nEpson Scansmart AI Technology...",
+        "content": "<p>https://www.costco.com/p/-/epson-...&langId=-1 \n \n$100 OFF \n$100 manufacturer's savings is valid 6/7/26 through 7/5/26. While supplies last. \nLimit 5 per member. \n \nEpson Scansmart AI Technology...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://slickdeals.net/attachment/1/8/2/8/3/4/450x450/20895090.thumb",
+        "date": "Jul 4, 2026",
+        "url": "https://slickdeals.net/f/19719444-epson-workforce-es-550w-wireless-desktop-color-duplex-document-scanner-299-99-free-shipping-costco-com"
+    },
+    {
+        "id": "06eik0u2y",
+        "title": "David Yule: the Scottish businessman whose legacy survives in India",
+        "excerpt": "David Yule built British India's largest managing agency empire, controlling dozens of companies with tiny shareholdings. His business model vanished, but its legacy still survives in India.",
+        "content": "<p>David Yule built British India's largest managing agency empire, controlling dozens of companies with tiny shareholdings. His business model vanished, but its legacy still survives in India.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/07/03/1600x900/logo/david_yule_1783042246787_1783042251255_b65b07f2-be8e-4d7f-ae28-efe77cf06e3e.jpg",
+        "date": "Jul 4, 2026",
+        "url": "https://www.livemint.com/opinion/online-views/david-yule-scottish-businessman-andrew-yule-co-british-india-managing-agency-system-11782983318422.html"
+    },
+    {
+        "id": "bugk1z8pg",
+        "title": "The impact of glucagon-like peptide-1 receptor agonists on objective physical activity in adults: a systematic review and exploratory meta-analysis",
+        "excerpt": "International Journal of Obesity - The impact of glucagon-like peptide-1 receptor agonists on objective physical activity in adults: a systematic review and exploratory meta-analysis",
+        "content": "<p>International Journal of Obesity - The impact of glucagon-like peptide-1 receptor agonists on objective physical activity in adults: a systematic review and exploratory meta-analysis</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41366-026-02141-z/MediaObjects/41366_2026_2141_Fig1_HTML.png",
+        "date": "Jul 4, 2026",
+        "url": "https://www.nature.com/articles/s41366-026-02141-z"
+    },
+    {
+        "id": "2km9u7dab",
+        "title": "Argentina’s World Cup win reignites debate over crypto’s missing sports moment",
+        "excerpt": "The absence of crypto in major sports events like the World Cup highlights its declining influence and raises questions about its future role.\nThe post Argentina’s World Cup win reignites debate over crypto’s missing sports moment appeared first on Crypto Bri…",
+        "content": "<p>The absence of crypto in major sports events like the World Cup highlights its declining influence and raises questions about its future role.\nThe post Argentina’s World Cup win reignites debate over crypto’s missing sports moment appeared first on Crypto Bri…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/03211928/argentina-s-lionel-messi-celebrates-with-the-trophy-in-front-800x420.jpeg",
+        "date": "Jul 4, 2026",
+        "url": "https://cryptobriefing.com/argentina-world-cup-crypto-sports-absence/"
+    },
+    {
+        "id": "fu8ul572f",
+        "title": "PFICP Scandal: ‘FG has questions to answer’ -Falana, Atiku, NDC, others demand probe",
+        "excerpt": "“I only go to work once a week, the reason being that we have done nothing since we were posted there” \nThe post PFICP Scandal: ‘FG has questions to answer’ -Falana, Atiku, NDC, others demand probe appeared first on Vanguard News.",
+        "content": "<p>“I only go to work once a week, the reason being that we have done nothing since we were posted there” \nThe post PFICP Scandal: ‘FG has questions to answer’ -Falana, Atiku, NDC, others demand probe appeared first on Vanguard News.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Presidential-Foreign-Intervention-Promotion-Council.webp",
+        "date": "Jul 4, 2026",
+        "url": "https://www.vanguardngr.com/2026/07/pficp-scandal-fg-has-questions-to-answer-falana-atiku-ndc-others-demand-probe/"
+    },
+    {
+        "id": "ib9vgef9i",
+        "title": "Taylor Swift & Travis Kelce Made a ‘Transformative’ Donation Before Their Wedding, Brad Paisley Reveals",
+        "excerpt": "Taylor Swift and Travis Kelce marked their wedding week with a meaningful gesture. Ahead of attending the couple’s wedding, Brad […]\nThe post Taylor Swift & Travis Kelce Made a ‘Transformative’ Donation Before Their Wedding, Brad Paisley Reveals appeared firs…",
+        "content": "<p>Taylor Swift and Travis Kelce marked their wedding week with a meaningful gesture. Ahead of attending the couple’s wedding, Brad […]\nThe post Taylor Swift & Travis Kelce Made a ‘Transformative’ Donation Before Their Wedding, Brad Paisley Reveals appeared firs…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/07/brad-kimberly-paisley-travis-taylor-swift.jpg",
+        "date": "Jul 4, 2026",
+        "url": "https://www.justjared.com/2026/07/03/taylor-swift-travis-kelce-made-a-transformative-donation-before-their-wedding-brad-paisley-reveals/"
+    },
+    {
         "id": "wphmmoc8i",
         "title": "Pompompurin Wins Sanrio Character Ranking For a Fifth Time",
         "excerpt": "Sanrio revealed the results of their 2026 Character Ranking, and to almost no one's surprise, Pompompurin took the #1 overall spot. The company reported that a record-breaking 70,647,379 votes were cast, a rise of 12% from last year's vote, with Pompompurin g…",
