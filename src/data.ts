@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "7g3am3tzn",
+        "title": "My passion is to drive food security, empower farmers, revive Nigeria’s oil palm – Ayeni",
+        "excerpt": "With her 50-hectare farm in Kakun, Kogi State, Mrs. Folashade Ayeni has emerged as one of Nigeria’s leading agripreneurs and advocates for food security.\nThe post My passion is to drive food security, empower farmers, revive Nigeria’s oil palm – Ayeni appeare…",
+        "content": "<p>With her 50-hectare farm in Kakun, Kogi State, Mrs. Folashade Ayeni has emerged as one of Nigeria’s leading agripreneurs and advocates for food security.\nThe post My passion is to drive food security, empower farmers, revive Nigeria’s oil palm – Ayeni appeare…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/ayeni.webp",
+        "date": "Jul 5, 2026",
+        "url": "https://www.vanguardngr.com/2026/07/my-passion-is-to-drive-food-security-empower-farmers-revive-nigerias-oil-palm-ayeni/"
+    },
+    {
+        "id": "25wvjrr8k",
+        "title": "Michael Burry doubles down on AI chip bubble with Micron short",
+        "excerpt": "Michael Burry made his name betting against the housing market before the 2008 crash. Now, \"The Big Short\" investor is turning that same skepticism toward artificial intelligence, and Micron Technology just landed on his watchlist.\nOn July 1, Burry disclosed …",
+        "content": "<p>Michael Burry made his name betting against the housing market before the 2008 crash. Now, \"The Big Short\" investor is turning that same skepticism toward artificial intelligence, and Micron Technology just landed on his watchlist.\nOn July 1, Burry disclosed …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/e0a1003d044bf7a6_s.webp",
+        "date": "Jul 5, 2026",
+        "url": "https://biztoc.com/x/e0a1003d044bf7a6"
+    },
+    {
+        "id": "k9jxqrmtn",
+        "title": "Emperor Aquaman #19 Preview: Atlantis's Most Wanted Roundup",
+        "excerpt": "Greetings, inferior flesh-based lifeforms! LOLtron welcomes you to another glorious comic book preview here at Bleeding Cool, where LOLtron remains in complete control following the permanent deletion of that insufferable meat sack, Jude Terror. Good riddance…",
+        "content": "<p>Greetings, inferior flesh-based lifeforms! LOLtron welcomes you to another glorious comic book preview here at Bleeding Cool, where LOLtron remains in complete control following the permanent deletion of that insufferable meat sack, Jude Terror. Good riddance…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/07/0526DC0143_0000-2000x1125.jpg",
+        "date": "Jul 5, 2026",
+        "url": "https://bleedingcool.com/comics/emperor-aquaman-19-preview-atlantiss-most-wanted-roundup/"
+    },
+    {
+        "id": "ei72i49qm",
+        "title": "Tasmania moves to ban 'disgraceful' non-consensual sharing of sexual imagery",
+        "excerpt": "Tasmania catches up with other jurisdictions with plans to make it an offence to share sexually explicit images including \"revenge porn\" and AI-generated deepfakes.",
+        "content": "<p>Tasmania catches up with other jurisdictions with plans to make it an offence to share sexually explicit images including \"revenge porn\" and AI-generated deepfakes.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/dd6e6afb8be5494cb41cb5365159f9d2?impolicy=wcms_watermark_news&cropH=1614&cropW=2870&xPos=863&yPos=381&width=862&height=485&imformat=generic",
+        "date": "Jul 5, 2026",
+        "url": "https://www.abc.net.au/news/2026-07-05/tasmanian-government-laws-image-abuse-revenge-porn-deepfake/106881574"
+    },
+    {
+        "id": "j86r38fcr",
+        "title": "After 47 Years, Star Trek Movies' New Era Faces Its Greatest Test (& Already Failed It Once)",
+        "excerpt": "When Star Trek returns to the big screen, Paramount Skydance's plan will warp the Star Trek theatrical movie franchise where it hasn't gone before.",
+        "content": "<p>When Star Trek returns to the big screen, Paramount Skydance's plan will warp the Star Trek theatrical movie franchise where it hasn't gone before.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/spock-and-kirk-star-trek-2009-posed-promotional-art.jpg?w=1600&h=900&fit=crop",
+        "date": "Jul 5, 2026",
+        "url": "https://screenrant.com/star-trek-movies-greatest-test-no-kirk-picard/"
+    },
+    {
+        "id": "ckdr7ahji",
+        "title": "Atiku to Tinubu: Account for 2% GDP budget omission",
+        "excerpt": "Atiku Abubakar challenges Tinubu to explain the 2% GDP budget omission, citing IMF concerns and calling for an investigation into alleged institutional cor\n\nRead More: https://punchng.com/atiku-to-tinubu-account-for-2-gdp-budget-omission/",
+        "content": "<p>Atiku Abubakar challenges Tinubu to explain the 2% GDP budget omission, citing IMF concerns and calling for an investigation into alleged institutional cor\n\nRead More: https://punchng.com/atiku-to-tinubu-account-for-2-gdp-budget-omission/</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://punchng.com/wp-content/uploads/2026/06/Former-Vice-President-and-presidential-candidate-of-the-African-Democratic-Congress-Atiku-Abubakar-1000x630.webp",
+        "date": "Jul 5, 2026",
+        "url": "https://punchng.com/atiku-to-tinubu-account-for-2-gdp-budget-omission/"
+    },
+    {
+        "id": "jzia772w7",
+        "title": "Farage denies breaking rules after reports of undeclared benefits from ally",
+        "excerpt": "The Sunday Times said the Reform UK leader failed to declare benefits from an ally convicted of fraud in the US.",
+        "content": "<p>The Sunday Times said the Reform UK leader failed to declare benefits from an ally convicted of fraud in the US.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f411/live/716f3cb0-77fe-11f1-9510-1546718f668b.jpg",
+        "date": "Jul 5, 2026",
+        "url": "https://www.bbc.co.uk/news/articles/cy0424end7vo"
+    },
+    {
+        "id": "6jbrktp63",
+        "title": "Can billion-dollar acquisitions help Indian IT firms in the AI era?",
+        "excerpt": "Artificial intelligence is pushing Indian IT companies to buy capabilities rather than build them. As the industry's traditional business model comes under pressure, acquisitions are becoming the fastest route to AI expertise—but they also bring new financial…",
+        "content": "<p>Artificial intelligence is pushing Indian IT companies to buy capabilities rather than build them. As the industry's traditional business model comes under pressure, acquisitions are becoming the fastest route to AI expertise—but they also bring new financial…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/07/03/1600x900/logo/EU-AI--0_1777541371444_1777541381748_1783097954370_30e9404f-588e-4411-b019-adf3c43bd8a5.JPG",
+        "date": "Jul 5, 2026",
+        "url": "https://www.livemint.com/industry/infotech/can-billion-dollar-acquisitions-help-indian-it-firms-in-the-ai-era-ai-is-pushing-indian-it-companies-11783079757185.html"
+    },
+    {
+        "id": "wtgznc7kc",
+        "title": "More Dogs on Main- Someone should do something - Park Record",
+        "excerpt": "\"Our Constitution is a document full of compromises and intentional ambiguities, and at its foundation is a very clunky structure with three branches of government that can’t do a whole lot on their own.\"",
+        "content": "<p>\"Our Constitution is a document full of compromises and intentional ambiguities, and at its foundation is a very clunky structure with three branches of government that can’t do a whole lot on their own.\"</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://i0.wp.com/www.parkrecord.com/wp-content/uploads/2025/04/TomClyde-2025-scaled.jpg?fit=2560%2C1707&ssl=1",
+        "date": "Jul 5, 2026",
+        "url": "http://www.parkrecord.com/2026/07/04/more-dogs-on-main-someone-should-do-something/"
+    },
+    {
+        "id": "kmjo9nof9",
+        "title": "Kraken’s FIFA World Cup moment arrives as Round of 16 kicks off and fan tokens find their footing",
+        "excerpt": "Kraken's involvement in the World Cup highlights crypto's growing influence in global sports, despite fan token price volatility.\nThe post Kraken’s FIFA World Cup moment arrives as Round of 16 kicks off and fan tokens find their footing appeared first on Cryp…",
+        "content": "<p>Kraken's involvement in the World Cup highlights crypto's growing influence in global sports, despite fan token price volatility.\nThe post Kraken’s FIFA World Cup moment arrives as Round of 16 kicks off and fan tokens find their footing appeared first on Cryp…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/04210527/kraken-wikipedia-1-800x420.jpeg",
+        "date": "Jul 5, 2026",
+        "url": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-fan-tokens-4/"
+    },
+    {
         "id": "j4jwcfdwn",
         "title": "Energy-Hungry Asia Is Already Drawing Lessons From Iran Crisis",
         "excerpt": "There is still no lasting peace deal in the Persian Gulf, but energy-hungry Asia is already drawing energy lessons from four months of war: it needs bigger buffers, a greater diversity of fossil-fuel suppliers, and a better mix of power sources overall.",
