@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "49oxk6kuo",
+        "title": "World Cup drama at Estadio Azteca highlights why sports betting tokens and fan engagement platforms are watching closely",
+        "excerpt": "The World Cup's intense matches boost crypto fan token trading and highlight regulatory challenges for sports betting platforms globally.\nThe post World Cup drama at Estadio Azteca highlights why sports betting tokens and fan engagement platforms are watching…",
+        "content": "<p>The World Cup's intense matches boost crypto fan token trading and highlight regulatory challenges for sports betting platforms globally.\nThe post World Cup drama at Estadio Azteca highlights why sports betting tokens and fan engagement platforms are watching…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05224324/1920x1080-am-rica-o-cruz-azul-a-qui-n-pertenece-verdaderamen-800x420.jpeg",
+        "date": "Jul 6, 2026",
+        "url": "https://cryptobriefing.com/world-cup-mexico-england-crypto-fan-tokens/"
+    },
+    {
+        "id": "s8v2hbiv8",
+        "title": "England beats Mexico 3-1 in World Cup Round of 16 as sports betting tokens surge on tournament drama",
+        "excerpt": "The match's outcome highlights the growing influence of live sports events on crypto prediction markets, driving volatility and engagement.\nThe post England beats Mexico 3-1 in World Cup Round of 16 as sports betting tokens surge on tournament drama appeared …",
+        "content": "<p>The match's outcome highlights the growing influence of live sports events on crypto prediction markets, driving volatility and engagement.\nThe post England beats Mexico 3-1 in World Cup Round of 16 as sports betting tokens surge on tournament drama appeared …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05224210/england-football-team-wallpaper-800x420.jpeg",
+        "date": "Jul 6, 2026",
+        "url": "https://cryptobriefing.com/england-mexico-world-cup-crypto-prediction-markets-2/"
+    },
+    {
+        "id": "t7pzcn5yb",
+        "title": "Hyundai Uses World Cup Spotlight To Advance Its Robotics Future",
+        "excerpt": "The halftime appearance comes as the company continues to expand following its acquisition of a controlling stake in Boston Dynamics.",
+        "content": "<p>The halftime appearance comes as the company continues to expand following its acquisition of a controlling stake in Boston Dynamics.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a4b128d3fe45faff14da8a6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "Jul 6, 2026",
+        "url": "https://www.forbes.com/sites/clementelisi/2026/07/05/hyundai-uses-world-cup-spotlight-to-advance-its-robotics-future/"
+    },
+    {
+        "id": "o2v8uyqm4",
+        "title": "Crypto’s World Cup no-show: why digital assets sat out the biggest sporting event of 2026",
+        "excerpt": "The crypto industry's absence from the 2026 World Cup highlights a strategic shift towards infrastructure over consumer-facing marketing.\nThe post Crypto’s World Cup no-show: why digital assets sat out the biggest sporting event of 2026 appeared first on Cryp…",
+        "content": "<p>The crypto industry's absence from the 2026 World Cup highlights a strategic shift towards infrastructure over consumer-facing marketing.\nThe post Crypto’s World Cup no-show: why digital assets sat out the biggest sporting event of 2026 appeared first on Cryp…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05223313/world-cup-stadium-1-800x420.png",
+        "date": "Jul 6, 2026",
+        "url": "https://cryptobriefing.com/crypto-absent-2026-world-cup/"
+    },
+    {
+        "id": "xe11y4r0k",
+        "title": "Every Way Spider-Man: Brand New Day Can Set Up Avengers: Doomsday & Secret Wars",
+        "excerpt": "Here are our best speculations for some of the biggest ways Spider-Man: Brand New Day can set up Avengers: Doomsday and/or Secret Wars.",
+        "content": "<p>Here are our best speculations for some of the biggest ways Spider-Man: Brand New Day can set up Avengers: Doomsday and/or Secret Wars.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/mcu-spider-man-shooting-organic-webs-in-brand-new-day.jpg?w=1600&h=900&fit=crop",
+        "date": "Jul 6, 2026",
+        "url": "https://screenrant.com/every-way-spider-man-brand-new-day-can-set-up-avengers-doomsday-secret-wars/"
+    },
+    {
+        "id": "8o1pfb8qk",
+        "title": "FIFA World Cup VAR controversy highlights growing intersection of sports betting and crypto markets",
+        "excerpt": "The VAR incident underscores the increasing influence of digital currencies and betting on sports integrity and decision-making processes.\nThe post FIFA World Cup VAR controversy highlights growing intersection of sports betting and crypto markets appeared fi…",
+        "content": "<p>The VAR incident underscores the increasing influence of digital currencies and betting on sports integrity and decision-making processes.\nThe post FIFA World Cup VAR controversy highlights growing intersection of sports betting and crypto markets appeared fi…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05221952/world-cup-drives-surge-in-prediction-market-bets-as-global-r-800x420.jpeg",
+        "date": "Jul 6, 2026",
+        "url": "https://cryptobriefing.com/world-cup-var-crypto-prediction-markets/"
+    },
+    {
+        "id": "tphopib5w",
+        "title": "Breaking: Senior WA minister Paul Papalia set to resign, triggering by-election",
+        "excerpt": "WA Labor stalwart and senior state cabinet minister Paul Papalia is set to announce he is quitting politics after nearly two decades, triggering a by-election in his southern Perth seat.",
+        "content": "<p>WA Labor stalwart and senior state cabinet minister Paul Papalia is set to announce he is quitting politics after nearly two decades, triggering a by-election in his southern Perth seat.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/7b1815615df822b890fa576157ab8b7d?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+        "date": "Jul 6, 2026",
+        "url": "https://www.abc.net.au/news/2026-07-06/wa-minister-paul-papalia-resignation-from-politics/106785902"
+    },
+    {
+        "id": "e09h7fle8",
+        "title": "Ukraine: Renewed attacks on Kyiv leave several killed",
+        "excerpt": "The Ukrainian capital was hit by Russian ballistic missiles, with at least one building being hit. This comes after the large-scale attack on Kyiv last Thursday.",
+        "content": "<p>The Ukrainian capital was hit by Russian ballistic missiles, with at least one building being hit. This comes after the large-scale attack on Kyiv last Thursday.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.dw.com/image/77841594_6.jpg",
+        "date": "Jul 6, 2026",
+        "url": "https://www.dw.com/en/ukraine-renewed-attacks-on-kyiv-leave-several-killed/a-77841452"
+    },
+    {
+        "id": "0rug8t8bj",
+        "title": "Ukraine: Several killed in renewed attacks on Kyiv",
+        "excerpt": "At least seven people were killed when Russian ballistic missiles hit the Ukrainian capital. This follows the large-scale attack on Kyiv last Thursday. Ukraine's capital, Kyiv, suffered a ballistic missile attack by Russia early Monday, according to the city'…",
+        "content": "<p>At least seven people were killed when Russian ballistic missiles hit the Ukrainian capital. This follows the large-scale attack on Kyiv last Thursday. Ukraine's capital, Kyiv, suffered a ballistic missile attack by Russia early Monday, according to the city'…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.dw.com/image/77842063_6.jpg",
+        "date": "Jul 6, 2026",
+        "url": "https://www.dw.com/en/ukraine-several-killed-in-renewed-attacks-on-kyiv/a-77841452"
+    },
+    {
+        "id": "nf9cd7fae",
+        "title": "Angelina Jolie’s 20-Year-Old Daughter Shiloh Spent Her Sunday Shopping for Healthy Goods at the Studio City Farmers Market",
+        "excerpt": "At 20, Angelina Jolie’s daughter Shiloh has built a life that looks nothing like a celebrity kid’s. On this Sunday she was hood-up in a grey skate-graphic sweatshirt, sorting through trays of sprouts and microgreens.",
+        "content": "<p>At 20, Angelina Jolie’s daughter Shiloh has built a life that looks nothing like a celebrity kid’s. On this Sunday she was hood-up in a grey skate-graphic sweatshirt, sorting through trays of sprouts and microgreens.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://thoughtcatalog.com/wp-content/uploads/2026/07/angelina-jolie-s-20-year-old-daughter-shiloh-spent-her-sunday-shopping-for-healt.jpg?w=1536&h=768&crop=1",
+        "date": "Jul 6, 2026",
+        "url": "https://thoughtcatalog.com/january-nelson/2026/07/angelina-jolies-20-year-old-daughter-shiloh-spent-her-sunday-shopping-for-healthy-goods-at-the-studio-city-farmers-market/"
+    },
+    {
         "id": "7g3am3tzn",
         "title": "My passion is to drive food security, empower farmers, revive Nigeria’s oil palm – Ayeni",
         "excerpt": "With her 50-hectare farm in Kakun, Kogi State, Mrs. Folashade Ayeni has emerged as one of Nigeria’s leading agripreneurs and advocates for food security.\nThe post My passion is to drive food security, empower farmers, revive Nigeria’s oil palm – Ayeni appeare…",
