@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "n9kvtwtwd",
+        "title": "Syntiant, which makes low-power chips for on-device AI, files for an initial public offering",
+        "excerpt": "A chipmaker called Syntiant Corp. that specializes in making low-powered processors that run artificial intelligence locally on devices has filed to go public. The company filed its initial public offering paperwork with the U.S. Securities and Exchange Commi…",
+        "content": "<p>A chipmaker called Syntiant Corp. that specializes in making low-powered processors that run artificial intelligence locally on devices has filed to go public. The company filed its initial public offering paperwork with the U.S. Securities and Exchange Commi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-07-09-09-11.png",
+        "date": "Jul 7, 2026",
+        "url": "https://siliconangle.com/2026/07/06/syntiant-makes-low-power-chips-device-ai-files-initial-public-offering/"
+    },
+    {
+        "id": "yn3h1tr3n",
+        "title": "US knocked out of World Cup by Belgium after Trump-influenced FIFA decision",
+        "excerpt": "The US team's World Cup exit highlights the potential impact of political interference on sports integrity and market expectations.\nThe post US knocked out of World Cup by Belgium after Trump-influenced FIFA decision appeared first on Crypto Briefing.",
+        "content": "<p>The US team's World Cup exit highlights the potential impact of political interference on sports integrity and market expectations.\nThe post US knocked out of World Cup by Belgium after Trump-influenced FIFA decision appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06220535/donald-trump-pre-printed-signature-signed-mounted-photo-disp-2-1-800x420.jpeg",
+        "date": "Jul 7, 2026",
+        "url": "https://cryptobriefing.com/us-knocked-out-of-world-cup-by-belgium-after-trump-influenced-fifa-decision/"
+    },
+    {
+        "id": "jl593mqpn",
+        "title": "Trump expects to host China’s Xi Jinping in US around September 24",
+        "excerpt": "The anticipated meeting could influence global economic stability, impacting trade policies and investor confidence in risk assets like cryptocurrencies.\nThe post Trump expects to host China’s Xi Jinping in US around September 24 appeared first on Crypto Brie…",
+        "content": "<p>The anticipated meeting could influence global economic stability, impacting trade policies and investor confidence in risk assets like cryptocurrencies.\nThe post Trump expects to host China’s Xi Jinping in US around September 24 appeared first on Crypto Brie…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06220506/xi-jinping-photo-03-3-800x420.jpeg",
+        "date": "Jul 7, 2026",
+        "url": "https://cryptobriefing.com/trump-xi-jinping-september-visit-crypto/"
+    },
+    {
+        "id": "y9qv42x1x",
+        "title": "USA's World Cup dream is OVER: Belgium score four to dump woeful hosts out in Seattle shocker",
+        "excerpt": "DANIEL MATTHEWS IN SEATTLE: Even though USA star Balogun was controversially cleared to play, it was Belgian striker Charles De Ketelaere who decided this World Cup showdown.",
+        "content": "<p>DANIEL MATTHEWS IN SEATTLE: Even though USA star Balogun was controversially cleared to play, it was Belgian striker Charles De Ketelaere who decided this World Cup showdown.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://i.dailymail.com/1s/2026/07/07/03/109841765-0-image-a-15_1783389701319.jpg",
+        "date": "Jul 7, 2026",
+        "url": "https://www.dailymail.com/sport/football/article-15956119/usa-belgium-world-cup-seattle-folarin-balogun-donald-trump-infantino.html"
+    },
+    {
+        "id": "b24leaeue",
+        "title": "Allcargo sees AI, integrated logistics driving market share gains",
+        "excerpt": "Allcargo Logistics, which now focuses exclusively on the domestic market after its business restructuring, is sharpening its investments in AI-enabled operations, digital platforms and customer-centric logistics solutions.",
+        "content": "<p>Allcargo Logistics, which now focuses exclusively on the domestic market after its business restructuring, is sharpening its investments in AI-enabled operations, digital platforms and customer-centric logistics solutions.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/news/ra1a8b/article71189130.ece/alternates/LANDSCAPE_1200/Ketan%20Kulkarni%20Managing%20Director%20%20Chief%20Executive%20Officer%20Allcargo%20Logistics.png",
+        "date": "Jul 7, 2026",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/allcargo-sees-ai-integrated-logistics-driving-market-share-gains/article71189120.ece"
+    },
+    {
+        "id": "7tcmkeavc",
+        "title": "India needs whispers around RBI’s classification of Tata Sons to dissipate—for the central bank’s sake",
+        "excerpt": "Speculation over the Reserve Bank of India's role in the Tata Sons controversy is awkward in the context of the country’s need for regulatory clarity and stability. What systemic risk this business group’s holding company may pose remains unknown.",
+        "content": "<p>Speculation over the Reserve Bank of India's role in the Tata Sons controversy is awkward in the context of the country’s need for regulatory clarity and stability. What systemic risk this business group’s holding company may pose remains unknown.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/2-0-656144453-Bombay-House03-20120918-HM-0_1680252210692_1783342109582_a393c7a4-eb3b-4933-92a5-8f7333e60797.jpg",
+        "date": "Jul 7, 2026",
+        "url": "https://www.livemint.com/opinion/online-views/tata-sons-rbi-classification-central-bank-reserve-bank-of-india-tata-trust-nbfc-rules-public-listing-11783338461119.html"
+    },
+    {
+        "id": "csc546fx2",
+        "title": "Latest Malayalam, Tamil, Telugu, Kannada OTT releases: Parmila & Co to Peddi to Balti, new movies and shows on Netflix, JioHotstar, Prime Video, Zee5",
+        "excerpt": "South cinema is bringing an exciting mix of fresh OTT releases in the second week of July. From the murder mystery Parmila & Co and Ram Charan's sports drama Peddi to the football documentary Land of Football and action drama Balti, viewers can stream a varie…",
+        "content": "<p>South cinema is bringing an exciting mix of fresh OTT releases in the second week of July. From the murder mystery Parmila & Co and Ram Charan's sports drama Peddi to the football documentary Land of Football and action drama Balti, viewers can stream a varie…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://img.etimg.com/thumb/msid-132228224,width-1200,height-630,imgsize-234497,overlay-etpanache/articleshow.jpg",
+        "date": "Jul 7, 2026",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/latest-malayalam-tamil-telugu-kannada-ott-releases-parmila-co-to-peddi-to-balti-new-movies-and-shows-on-netflix-jiohotstar-prime-video-zee5/articleshow/132228170.cms"
+    },
+    {
+        "id": "stl2zt017",
+        "title": "Wall Street Warms to India’s Markets as Oil Pressures Fade",
+        "excerpt": "After spending more than a year on the sidelines, global investors are showing fresh interest in India as sentiment begins to improve across the country’s markets.",
+        "content": "<p>After spending more than a year on the sidelines, global investors are showing fresh interest in India as sentiment begins to improve across the country’s markets.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/global-holdings-of-index-eligible-bonds-surge-to-record.jpg",
+        "date": "Jul 7, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/wall-street-warms-to-indias-markets-as-oil-pressures-fade"
+    },
+    {
+        "id": "686quh84l",
+        "title": "The East Coast Heat That Killed 25 People Is Now Moving South and West — Phoenix, Las Vegas, and Denver Are Next",
+        "excerpt": "The heat dome that killed 25 in NJ is moving south and west. Raleigh faces 107°F Sunday. Phoenix, Las Vegas, and Denver face a new Western heat dome. Here is the city-by-city warning.",
+        "content": "<p>The heat dome that killed 25 in NJ is moving south and west. Raleigh faces 107°F Sunday. Phoenix, Las Vegas, and Denver face a new Western heat dome. Here is the city-by-city warning.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://d.medicaldaily.com/en/full/483035/heat-dome.jpg",
+        "date": "Jul 7, 2026",
+        "url": "https://www.medicaldaily.com/heat-dome-moving-west-phoenix-las-vegas-denver-raleigh-2026-warning-475945"
+    },
+    {
+        "id": "jqxdgtlme",
+        "title": "Scientists Found Why Some Brains Resist Alzheimer's Disease: Here Is the Cellular Survival Mechanism They Discovered",
+        "excerpt": "Netherlands Institute for Neuroscience researchers found immature neuron behavior — not just quantity — determines Alzheimer's cognitive resilience. Here's what it means for the 30% who never develop dementia.",
+        "content": "<p>Netherlands Institute for Neuroscience researchers found immature neuron behavior — not just quantity — determines Alzheimer's cognitive resilience. Here's what it means for the 30% who never develop dementia.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://d.medicaldaily.com/en/full/483036/alzheimers-disease.jpg",
+        "date": "Jul 7, 2026",
+        "url": "https://www.medicaldaily.com/alzheimers-cognitive-resilience-immature-neurons-mechanism-netherlands-study-2026-475946"
+    },
+    {
         "id": "49oxk6kuo",
         "title": "World Cup drama at Estadio Azteca highlights why sports betting tokens and fan engagement platforms are watching closely",
         "excerpt": "The World Cup's intense matches boost crypto fan token trading and highlight regulatory challenges for sports betting platforms globally.\nThe post World Cup drama at Estadio Azteca highlights why sports betting tokens and fan engagement platforms are watching…",
