@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "zsl0mvlcf",
+        "title": "Strike launches ‘volatility-proof’ Bitcoin loans amid bear market, but at a cost",
+        "excerpt": "Strike has rolled out \"volatility-proof\" Bitcoin loans, letting customers borrow without risk of margin calls and forced liquidations, provided they accept a higher interest rate and pay on time.",
+        "content": "<p>Strike has rolled out \"volatility-proof\" Bitcoin loans, letting customers borrow without risk of margin calls and forced liquidations, provided they accept a higher interest rate and pay on time.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s3-images.ctmedia.io/media/article-covers/loan-cash-bitcoin.jpg",
+        "date": "Jul 8, 2026",
+        "url": "https://cointelegraph.com/news/strike-launches-volatility-proof-bitcoin-loans-amid-bear-market-but-at-what-cost"
+    },
+    {
+        "id": "inmokilj0",
+        "title": "ADATA revenue tops 2025 full-year total as memory supercycle gains pace",
+        "excerpt": "ADATA Technology posted another record month in June 2026, pushing its first-half 2026 consolidated revenue to NT$64.27 billion(US$2.0 billion) and surpassing its full-year 2025 total of NT$53.04 billion ahead of schedule. The Taiwan-based memory module maker…",
+        "content": "<p>ADATA Technology posted another record month in June 2026, pushing its first-half 2026 consolidated revenue to NT$64.27 billion(US$2.0 billion) and surpassing its full-year 2025 total of NT$53.04 billion ahead of schedule. The Taiwan-based memory module maker…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260706pd244_files/1_2b.jpg",
+        "date": "Jul 8, 2026",
+        "url": "https://www.digitimes.com/news/a20260706PD244/revenue-2026-2025-dram-etron.html"
+    },
+    {
+        "id": "7flo8196a",
+        "title": "China’s DeepSeek developing its own AI chip, sources say",
+        "excerpt": "DeepSeek’s effort to join the race, which began about a year ago, remains at an early stage.  Read more at straitstimes.com. Read more at straitstimes.com.",
+        "content": "<p>DeepSeek’s effort to join the race, which began about a year ago, remains at an early stage.  Read more at straitstimes.com. Read more at straitstimes.com.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cassette.sphdigital.com.sg/image/straitstimes/74fcd41cde486c0a3f1f4ff8093c9b50d3dffae1cf02287b982b55624f0699a5",
+        "date": "Jul 8, 2026",
+        "url": "https://www.straitstimes.com/business/companies-markets/chinas-deepseek-developing-its-own-ai-chip-sources-say"
+    },
+    {
+        "id": "0450sebto",
+        "title": "Switzerland’s World Cup confidence puts Argentina’s $ARG fan token in the spotlight",
+        "excerpt": "The interplay between sports performance and fan token markets highlights the financial volatility tied to team success and player influence.\nThe post Switzerland’s World Cup confidence puts Argentina’s $ARG fan token in the spotlight appeared first on Crypto…",
+        "content": "<p>The interplay between sports performance and fan token markets highlights the financial volatility tied to team success and player influence.\nThe post Switzerland’s World Cup confidence puts Argentina’s $ARG fan token in the spotlight appeared first on Crypto…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/07221820/switzerland-travel-lonely-planet-europe-1-800x420.jpeg",
+        "date": "Jul 8, 2026",
+        "url": "https://cryptobriefing.com/argentina-arg-fan-token-world-cup-switzerland/"
+    },
+    {
+        "id": "wr7mgk182",
+        "title": "The Era of Precision Obesity Care: New Biomarkers That May Predict Tirzepatide Success - glp1cynergy.com",
+        "excerpt": "The discovery of new biomarkers that may predict tirzepatide success, combined with clinical and genetic predictors, points towards a future where obesity",
+        "content": "<p>The discovery of new biomarkers that may predict tirzepatide success, combined with clinical and genetic predictors, points towards a future where obesity</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://glp1cynergy.com/wp-content/uploads/2026/07/The-future-of-precision-obesity-care.webp",
+        "date": "Jul 8, 2026",
+        "url": "https://glp1cynergy.com/the-era-of-precision-obesity-care-new-biomarkers-that-may-predict-tirzepatide-success/"
+    },
+    {
+        "id": "xbettge09",
+        "title": "Mamamia breaks its silence as axed podcast host Claire Murphy promises to spill 'tea': The claim that made the company respond: INSIDE MAIL",
+        "excerpt": "Claire Murphy's latest comments about Mamamia sparked a rare response from the company - and reignited debate about how Australia's biggest women's media brand handles its talent.",
+        "content": "<p>Claire Murphy's latest comments about Mamamia sparked a rare response from the company - and reignited debate about how Australia's biggest women's media brand handles its talent.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://i.dailymail.com/1s/2026/07/08/02/109842169-0-image-m-27_1783473718211.jpg",
+        "date": "Jul 8, 2026",
+        "url": "https://www.dailymail.com/news/article-15960901/mamamia-claire-murphy-podcast-host-responds-claims-spill-tea-Netflix-play.html"
+    },
+    {
+        "id": "b2m5xceo4",
+        "title": "Meta says aggressively working to combat child exploitation on apps",
+        "excerpt": "Meta detailed its AI-powered efforts to fight child exploitation across its platforms. The company stated it is investing more resources to protect young users. Newer AI systems now cover most online languages for enforcement. Meta removed millions of suspici…",
+        "content": "<p>Meta detailed its AI-powered efforts to fight child exploitation across its platforms. The company stated it is investing more resources to protect young users. Newer AI systems now cover most online languages for enforcement. Meta removed millions of suspici…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132251664,width-1200,height-630,imgsize-509682,overlay-economictimes/articleshow.jpg",
+        "date": "Jul 8, 2026",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/meta-says-aggressively-working-to-combat-child-exploitation-on-apps/articleshow/132251648.cms"
+    },
+    {
+        "id": "k75gc0pr4",
+        "title": "VIP Nightlife Luxury Party Social Club Rewards Icons Pack by Neprosto Assets",
+        "excerpt": "A collection of VIP nightlife, luxury party, social club, rewards, gifts, cars, drinks, music, tickets, and city event icons for lifestyle game systems.<ul><li>File Format: Prefabs + PNG</li><li>Icons: 162</li><li>Average Resolution: 512x512 px</li></ul>This …",
+        "content": "<p>A collection of VIP nightlife, luxury party, social club, rewards, gifts, cars, drinks, music, tickets, and city event icons for lifestyle game systems.<ul><li>File Format: Prefabs + PNG</li><li>Icons: 162</li><li>Average Resolution: 512x512 px</li></ul>This …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/646dd617-dab0-4ba1-b3c0-2763788fe4aa.jpg?v=1",
+        "date": "Jul 8, 2026",
+        "url": "https://assetstore.unity.com/packages/2d/vip-nightlife-luxury-party-social-club-rewards-icons-pack-391662"
+    },
+    {
+        "id": "potf4i56x",
+        "title": "dsm-firmenich awards 2026 Nutrition Research Grant to five projects investigating the role of nutrients and bio-actives in supporting healthy longevity in Asia Pacific",
+        "excerpt": "dsm-firmenich awards 2026 Nutrition Research Grant to five projects investigating the role of nutrients and bio-actives in supporting healthy longevity in Asia Pacific",
+        "content": "<p>dsm-firmenich awards 2026 Nutrition Research Grant to five projects investigating the role of nutrients and bio-actives in supporting healthy longevity in Asia Pacific</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://bl-i.thgim.com/public/incoming/4k7kmc/article71196433.ece/alternates/LANDSCAPE_1200/image.jpg",
+        "date": "Jul 8, 2026",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/dsm-firmenich-awards-2026-nutrition-research-grant-to-five-projects-investigating-the-role-of-nutrients-and-bio-actives-in-supporting-healthy-longevity-in-asia-pacific/article71196434.ece"
+    },
+    {
+        "id": "fgrgavgeb",
+        "title": "Our universities are teaching in the dark",
+        "excerpt": "Nigerian universities are struggling to keep pace with a rapidly changing job market. Discover how timely data can bridge the gap between curriculum and em\n\nRead More: https://punchng.com/our-universities-are-teaching-in-the-dark/",
+        "content": "<p>Nigerian universities are struggling to keep pace with a rapidly changing job market. Discover how timely data can bridge the gap between curriculum and em\n\nRead More: https://punchng.com/our-universities-are-teaching-in-the-dark/</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://punchng.com/wp-content/uploads/2026/06/Tunji-Alausa-1062x598-1.webp",
+        "date": "Jul 8, 2026",
+        "url": "https://punchng.com/our-universities-are-teaching-in-the-dark/"
+    },
+    {
         "id": "n9kvtwtwd",
         "title": "Syntiant, which makes low-power chips for on-device AI, files for an initial public offering",
         "excerpt": "A chipmaker called Syntiant Corp. that specializes in making low-powered processors that run artificial intelligence locally on devices has filed to go public. The company filed its initial public offering paperwork with the U.S. Securities and Exchange Commi…",
