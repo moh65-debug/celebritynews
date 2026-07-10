@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "g9adqh82a",
+        "title": "CAA Calls Out Meta and Instagram for Making Muse AI Tool Opt-Out",
+        "excerpt": "\"No one’s name, image, likeness, voice, or creative work should be used by any third party, including AI models, without clear, documented consent,\" the talent agency said in a statement Wednesday night.",
+        "content": "<p>\"No one’s name, image, likeness, voice, or creative work should be used by any third party, including AI models, without clear, documented consent,\" the talent agency said in a statement Wednesday night.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2281617231.jpg?crop=0px%2C190px%2C5401px%2C3022px&resize=1440%2C810",
+        "date": "Jul 9, 2026",
+        "url": "http://www.hollywoodreporter.com/business/digital/caa-calls-out-meta-muse-ai-video-photo-tool-instagram-1236642814/"
+    },
+    {
+        "id": "gh6b1evx3",
+        "title": "JioStar taps AI for shopping, TV movie night ideas",
+        "excerpt": "JioStar is integrating generative AI for conversational content discovery and commerce. This technology allows users to find shows and products through natural language interactions. The company aims to shorten the feedback loop between viewer demand and cont…",
+        "content": "<p>JioStar is integrating generative AI for conversational content discovery and commerce. This technology allows users to find shows and products through natural language interactions. The company aims to shorten the feedback loop between viewer demand and cont…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132275637,width-1200,height-630,imgsize-22766,overlay-economictimes/articleshow.jpg",
+        "date": "Jul 9, 2026",
+        "url": "https://economictimes.indiatimes.com/industry/media/entertainment/jiostar-taps-ai-for-shopping-tv-movie-night-ideas/articleshow/132275549.cms"
+    },
+    {
+        "id": "3qawxq3vj",
+        "title": "Samsung Advances AI-Powered, Personalized Learning at ISTELive 2026",
+        "excerpt": "Newly introduced education solutions personalize shared Interactive Displays and streamline teaching workflows. A joint session with Logitech explored how connected classroom technology supports student engagement and active learning. Interactive Display inno…",
+        "content": "<p>Newly introduced education solutions personalize shared Interactive Displays and streamline teaching workflows. A joint session with Logitech explored how connected classroom technology supports student engagement and active learning. Interactive Display inno…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/07/08141849/Samsung-TVs-and-Displays-ISTELive-2026-Samsung-AMS-Samsung-Education-Portal-Samsung-AI-Assistant_Thumb932.jpg",
+        "date": "Jul 9, 2026",
+        "url": "https://news.samsung.com/global/samsung-advances-ai-powered-personalized-learning-at-istelive-2026"
+    },
+    {
+        "id": "4h5ouuxd4",
+        "title": "CAA Calls BS On Meta’s AI Image Generator; Zuckerberg & Co Claims Safety Is No #1 For Muse",
+        "excerpt": "CAA are getting pretty meta about the implications and intentions of Meta’s new Muse Image. Essentially, the Zoe Saldaña, Tom Cruise ,Charlize Theron and Dhar Mann representing uberagency want the Mark Zuckerberg founded tech giant to hit the reset button ASA…",
+        "content": "<p>CAA are getting pretty meta about the implications and intentions of Meta’s new Muse Image. Essentially, the Zoe Saldaña, Tom Cruise ,Charlize Theron and Dhar Mann representing uberagency want the Mark Zuckerberg founded tech giant to hit the reset button ASA…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://deadline.com/wp-content/uploads/2026/07/Meta-AI-CAA.jpg?w=1024",
+        "date": "Jul 9, 2026",
+        "url": "http://deadline.com/2026/07/caa-slams-meta-muse-image-ai-1236978047/"
+    },
+    {
+        "id": "0m7l2er8j",
+        "title": "Why Upper Deck is Reminiscing About a Viral Michael Jordan Marketing Stunt From 1992",
+        "excerpt": "The sports and entertainment collectors brand has inked a new deal with the NBA legend, and is hearkening back to the campaign that launched it all.",
+        "content": "<p>The sports and entertainment collectors brand has inked a new deal with the NBA legend, and is hearkening back to the campaign that launched it all.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/l0SKQoK6XwTQa8YHcWaTuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_hollywood_reporter_217/8ef50606799d556559be3585d051a528",
+        "date": "Jul 9, 2026",
+        "url": "https://www.hollywoodreporter.com/news/general-news/upper-deck-michael-jordan-marketing-stunt-1992-1236640921/"
+    },
+    {
+        "id": "np9re2b0t",
+        "title": "Justin Baldoni and wife Emily break two-year silence on Blake Lively lawsuit and 'injustice'",
+        "excerpt": "Justin Baldoni and wife Emily filmed an emotional video breaking their silence on the two-year legal battle with Blake Lively over \"It Ends With Us.\"",
+        "content": "<p>Justin Baldoni and wife Emily filmed an emotional video breaking their silence on the two-year legal battle with Blake Lively over \"It Ends With Us.\"</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/justin-emily.jpg",
+        "date": "Jul 9, 2026",
+        "url": "https://www.foxnews.com/entertainment/justin-baldoni-wife-emily-break-two-year-silence-blake-lively-lawsuit-injustice"
+    },
+    {
+        "id": "02psazheq",
+        "title": "Top 50 players to watch at NBA Summer League in Las Vegas",
+        "excerpt": "Some are star rookies. Others are second-year guys who need to show something. And a handful are just fighting for a chance in the league.",
+        "content": "<p>Some are star rookies. Others are second-year guys who need to show something. And a handful are just fighting for a chance in the league.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/bb0d83e21c7dddf395f2db398bb45aff85c0e563b577f5b0b1c9212a4944c913/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fed-070826-koc-s-summerleaguepreview_4323.jpg",
+        "date": "Jul 9, 2026",
+        "url": "https://sports.yahoo.com/nba/article/top-50-players-to-watch-at-nba-summer-league-in-las-vegas-021549727.html"
+    },
+    {
+        "id": "m7rvam0o3",
+        "title": "Valorant Champions Tour China Stage 2 kicks off in Changsha with $250K prize pool as esports eyes mainstream sponsorship dollars",
+        "excerpt": "The event highlights esports' growing appeal to mainstream sponsors, while the absence of blockchain tech underscores regulatory and adoption challenges.\nThe post Valorant Champions Tour China Stage 2 kicks off in Changsha with $250K prize pool as esports eye…",
+        "content": "<p>The event highlights esports' growing appeal to mainstream sponsors, while the absence of blockchain tech underscores regulatory and adoption challenges.\nThe post Valorant Champions Tour China Stage 2 kicks off in Changsha with $250K prize pool as esports eye…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08221149/edward-gaming-makes-history-at-valorant-champions-2024-one-e-800x420.jpeg",
+        "date": "Jul 9, 2026",
+        "url": "https://cryptobriefing.com/vct-cn-stage-2-changsha-esports-crypto/"
+    },
+    {
+        "id": "i4bkjfp8d",
+        "title": "Messi Sparked Argentina's Incredible World Cup Comeback Despite Injury and Fatigue Concerns",
+        "excerpt": "Lionel Messi inspired Argentina's dramatic World Cup comeback over Egypt as the team managed injuries, fatigue, and mounting physical demands.",
+        "content": "<p>Lionel Messi inspired Argentina's dramatic World Cup comeback over Egypt as the team managed injuries, fatigue, and mounting physical demands.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://d.medicaldaily.com/en/full/483085/lionel-messi.jpg",
+        "date": "Jul 9, 2026",
+        "url": "https://www.medicaldaily.com/messi-sparked-argentinas-incredible-world-cup-comeback-despite-injury-fatigue-concerns-475994"
+    },
+    {
+        "id": "zf1pr4xtc",
+        "title": "World Cup drama sends crypto prediction markets and fan tokens into overdrive",
+        "excerpt": "The World Cup's impact on crypto markets highlights the growing intersection of sports events and digital finance, driving fan token trading.\nThe post World Cup drama sends crypto prediction markets and fan tokens into overdrive appeared first on Crypto Brief…",
+        "content": "<p>The World Cup's impact on crypto markets highlights the growing intersection of sports events and digital finance, driving fan token trading.\nThe post World Cup drama sends crypto prediction markets and fan tokens into overdrive appeared first on Crypto Brief…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08212742/https-upload-wikimedia-org-wikipedia-commons-5-5b-2026-fifa--800x420.jpeg",
+        "date": "Jul 9, 2026",
+        "url": "https://cryptobriefing.com/world-cup-injury-crypto-fan-tokens-prediction-markets/"
+    },
+    {
         "id": "zsl0mvlcf",
         "title": "Strike launches ‘volatility-proof’ Bitcoin loans amid bear market, but at a cost",
         "excerpt": "Strike has rolled out \"volatility-proof\" Bitcoin loans, letting customers borrow without risk of margin calls and forced liquidations, provided they accept a higher interest rate and pay on time.",
