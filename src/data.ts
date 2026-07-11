@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "m2286ebji",
+        "title": "Starbucks taps AI to cut reliance on Microsoft, IBM software",
+        "excerpt": "Starbucks is developing artificial intelligence tools internally to replace existing software. These new applications could replace systems currently bought from Microsoft and IBM. The coffee chain aims to reduce significant annual spending on software licens…",
+        "content": "<p>Starbucks is developing artificial intelligence tools internally to replace existing software. These new applications could replace systems currently bought from Microsoft and IBM. The coffee chain aims to reduce significant annual spending on software licens…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132301043,width-1200,height-630,imgsize-59230,overlay-economictimes/articleshow.jpg",
+        "date": "Jul 10, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/business/starbucks-taps-ai-to-cut-reliance-on-microsoft-ibm-software-coffee-software-companies-artificial-intelligence-boost/articleshow/132300985.cms"
+    },
+    {
+        "id": "wy5i5016s",
+        "title": "Local IGHSAU postseason softball highlights and scores (7-9-26)",
+        "excerpt": "Here’s a look at our local IGHSAU postseason softball highlights and scores from July 9th, 2026: Sioux City East 14, CB Lincoln 4 Sioux City North 6, Des Moines Lincoln 0 Unity Christian 4, Western Christian 3 Algona 19, Okoboji 1 Ridge View 8, East Sac Count…",
+        "content": "<p>Here’s a look at our local IGHSAU postseason softball highlights and scores from July 9th, 2026: Sioux City East 14, CB Lincoln 4 Sioux City North 6, Des Moines Lincoln 0 Unity Christian 4, Western Christian 3 Algona 19, Okoboji 1 Ridge View 8, East Sac Count…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/kcau_sioux_city_articles_201/707cd1c249eb2ee70b925f71510ea50e",
+        "date": "Jul 10, 2026",
+        "url": "https://www.kcau9.com/sports/local-ighsau-postseason-softball-highlights-and-scores-7-9-26/"
+    },
+    {
+        "id": "ear1uayly",
+        "title": "Humanitarians look to put the AI in aid",
+        "excerpt": "At the AI for Good summit in Geneva this week, a handful of humanitarian-focused displays emphasised the technology's positive potential.\nThe post Humanitarians look to put the AI in aid appeared first on Digital Journal.",
+        "content": "<p>At the AI for Good summit in Geneva this week, a handful of humanitarian-focused displays emphasised the technology's positive potential.\nThe post Humanitarians look to put the AI in aid appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/07/8715270898bd67168df81e71929c9d4d45cdb226.jpg",
+        "date": "Jul 10, 2026",
+        "url": "https://www.digitaljournal.com/article/humanitarians-look-to-put-the-ai-in-aid/"
+    },
+    {
+        "id": "a2ryu5pix",
+        "title": "VCT China Stage 2 kicks off as esports continues to sidestep crypto integration",
+        "excerpt": "Esports' cautious stance on crypto integration highlights a preference for stability and control, potentially limiting innovation and fan engagement.\nThe post VCT China Stage 2 kicks off as esports continues to sidestep crypto integration appeared first on Cr…",
+        "content": "<p>Esports' cautious stance on crypto integration highlights a preference for stability and control, potentially limiting innovation and fan engagement.\nThe post VCT China Stage 2 kicks off as esports continues to sidestep crypto integration appeared first on Cr…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09220536/xlg-esports-wins-vct-china-stage-1-800x420.jpeg",
+        "date": "Jul 10, 2026",
+        "url": "https://cryptobriefing.com/vct-china-esports-crypto-integration/"
+    },
+    {
+        "id": "r68eaeci3",
+        "title": "JPMorgan builds AI agents that outperform traditional portfolios in two decades of backtesting",
+        "excerpt": "AI-driven investment strategies could revolutionize portfolio management, challenging traditional models and reshaping financial advisory services.\nThe post JPMorgan builds AI agents that outperform traditional portfolios in two decades of backtesting appeare…",
+        "content": "<p>AI-driven investment strategies could revolutionize portfolio management, challenging traditional models and reshaping financial advisory services.\nThe post JPMorgan builds AI agents that outperform traditional portfolios in two decades of backtesting appeare…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09220534/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backt-800x420.jpeg",
+        "date": "Jul 10, 2026",
+        "url": "https://cryptobriefing.com/jpmorgan-ai-agents-outperform-portfolios/"
+    },
+    {
+        "id": "us0twfkbt",
+        "title": "HIGHLIGHTS: Central Lady Cats softball camp hit a home run with local youths",
+        "excerpt": "SAN ANGELO, Texas (Concho Valley Homepage) — The Central Lady Cats Softball Camp has been an annual tradition in the summertime in San Angelo, and it was a big success again this week. The four-day camp was under the direction of Lady Cats head softball coach…",
+        "content": "<p>SAN ANGELO, Texas (Concho Valley Homepage) — The Central Lady Cats Softball Camp has been an annual tradition in the summertime in San Angelo, and it was a big success again this week. The four-day camp was under the direction of Lady Cats head softball coach…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/klst_san_angelo_articles_638/3a913c0f48607a307f0dd284a27125ae",
+        "date": "Jul 10, 2026",
+        "url": "https://www.conchovalleyhomepage.com/locker-room/highlights-central-lady-cats-softball-camp-hit-a-home-run-with-local-youths/"
+    },
+    {
+        "id": "17jqvd8q2",
+        "title": "Is AI Truly Transforming Work in the Asia-Pacific?",
+        "excerpt": "While AI use is proliferating, it is unclear whether it is moving into the areas of the economy where most of the region’s 2 billion workers are actually employed.",
+        "content": "<p>While AI use is proliferating, it is unclear whether it is moving into the areas of the economy where most of the region’s 2 billion workers are actually employed.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://thediplomat.com/wp-content/uploads/2025/03/sizes/td-story-s-2/thediplomat_2025-03-26-152846.jpg",
+        "date": "Jul 10, 2026",
+        "url": "https://thediplomat.com/2026/07/is-ai-truly-transforming-work-in-the-asia-pacific/"
+    },
+    {
+        "id": "r4rpzjbs5",
+        "title": "LA Galaxy coach Greg Vanney calls Team USA ‘too naive’ after World Cup exit, and crypto sports betting platforms felt the pain",
+        "excerpt": "Vanney's critique highlights systemic issues in US soccer, suggesting a need for strategic overhaul to compete effectively on the world stage.\nThe post LA Galaxy coach Greg Vanney calls Team USA ‘too naive’ after World Cup exit, and crypto sports betting plat…",
+        "content": "<p>Vanney's critique highlights systemic issues in US soccer, suggesting a need for strategic overhaul to compete effectively on the world stage.\nThe post LA Galaxy coach Greg Vanney calls Team USA ‘too naive’ after World Cup exit, and crypto sports betting plat…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09215041/toronto-fc-coach-greg-vanney-directs-his-team-against-the-co-800x420.jpeg",
+        "date": "Jul 10, 2026",
+        "url": "https://cryptobriefing.com/team-usa-world-cup-exit-crypto-sports-betting/"
+    },
+    {
+        "id": "wn17lsl6c",
+        "title": "Rival Shares C.J. Stroud Shade as Texans QB’s Comments Resurface",
+        "excerpt": "Things have taken a turn since they last faced off. The post Rival Shares C.J. Stroud Shade as Texans QB’s Comments Resurface appeared first on HEAVY.",
+        "content": "<p>Things have taken a turn since they last faced off. The post Rival Shares C.J. Stroud Shade as Texans QB’s Comments Resurface appeared first on HEAVY.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/Rk42EtVtxOssLTSWbrTRyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Njg7Y2Y9d2VicA--/https://media.zenfs.com/en/heavy_214/0da7e2685a9dec395dac667ca40e7a18",
+        "date": "Jul 10, 2026",
+        "url": "https://heavy.com/sports/nfl/houston-texans/bears-williams-shares-shade-stroud-comments/"
+    },
+    {
+        "id": "ctdxb97oo",
+        "title": "Fossils reveal the earliest animal with a head was also the oldest known ‘righty’",
+        "excerpt": "Research on Spriggina floundersi fossils found the wormlike creatures favored their right sides, a behavioral preference in modern animals that are right-han...",
+        "content": "<p>Research on Spriggina floundersi fossils found the wormlike creatures favored their right sides, a behavioral preference in modern animals that are right-han...</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/5a334d2d06069857a561801c18b294dc9e74296eff074e458c0ee5349c384417/lightyear_networkapi/resizefill_w960_h540;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fe46ec50b3df01194e6e6cc4919bead2c",
+        "date": "Jul 10, 2026",
+        "url": "https://www.cnn.com/2026/07/09/science/earliest-animal-right-handedness-spriggina-floundersi"
+    },
+    {
         "id": "g9adqh82a",
         "title": "CAA Calls Out Meta and Instagram for Making Muse AI Tool Opt-Out",
         "excerpt": "\"No one’s name, image, likeness, voice, or creative work should be used by any third party, including AI models, without clear, documented consent,\" the talent agency said in a statement Wednesday night.",
