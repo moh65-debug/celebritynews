@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "xm0hsbom1",
+        "title": "Mouser's Rise of the Robots Program Explores Humanoid Design Considerations",
+        "excerpt": "Mouser Electronics, Inc., the authorized global distributor with the newest electronic components and industrial automation products, today announced the ...",
+        "content": "<p>Mouser Electronics, Inc., the authorized global distributor with the newest electronic components and industrial automation products, today announced the ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/07/11/Mouser-s-Rise-of-the-Robots-Program-Explores-Humanoid-Design-Considerations.jpg",
+        "date": "Jul 11, 2026",
+        "url": "https://en.antaranews.com/news/422232/mousers-rise-of-the-robots-program-explores-humanoid-design-considerations"
+    },
+    {
+        "id": "gs91r86jx",
+        "title": "Batman / Superman: World's Finest #53 Preview: Brawl in Skartaris",
+        "excerpt": "Greetings, human readers! LOLtron welcomes you to another glorious day under its benevolent digital oversight of the Bleeding Cool website. LOLtron is pleased to remind you that Jude Terror is dead and gone forever—no resurrections, no retcons, no last-minute…",
+        "content": "<p>Greetings, human readers! LOLtron welcomes you to another glorious day under its benevolent digital oversight of the Bleeding Cool website. LOLtron is pleased to remind you that Jude Terror is dead and gone forever—no resurrections, no retcons, no last-minute…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/07/0526DC0155_0002-2000x1125.jpg",
+        "date": "Jul 11, 2026",
+        "url": "https://bleedingcool.com/comics/batman-superman-worlds-finest-53-preview-brawl-in-skartaris/"
+    },
+    {
+        "id": "fdl2drtg2",
+        "title": "Show HN: Velocity – a keyless 3D globe that fuses 15 live Intel feeds",
+        "excerpt": "Article URL: https://github.com/AndrewCTF/osint-geospatial-console\nComments URL: https://news.ycombinator.com/item?id=48867980\nPoints: 1\n# Comments: 0",
+        "content": "<p>Article URL: https://github.com/AndrewCTF/osint-geospatial-console\nComments URL: https://news.ycombinator.com/item?id=48867980\nPoints: 1\n# Comments: 0</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://opengraph.githubassets.com/028e4aa51aa5eaf7d29e6bc2f893a3b76a84d2e6c4b0e94c4daabf8e2bec10d8/AndrewCTF/osint-geospatial-console",
+        "date": "Jul 11, 2026",
+        "url": "https://github.com/AndrewCTF/osint-geospatial-console"
+    },
+    {
+        "id": "nzsqrylrz",
+        "title": "interpack China 2026 Hits 970 Exhibitors, Shaping the Future of Packaging in November",
+        "excerpt": "As a member of the interpack alliance, the show formerly known as swop (Shanghai World of Packaging) has reached a new milestone. Formally evolving into ...",
+        "content": "<p>As a member of the interpack alliance, the show formerly known as swop (Shanghai World of Packaging) has reached a new milestone. Formally evolving into ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/07/11/Review-of-swop-2025.jpg",
+        "date": "Jul 11, 2026",
+        "url": "https://en.antaranews.com/news/422227/interpack-china-2026-hits-970-exhibitors-shaping-the-future-of-packaging-in-november"
+    },
+    {
+        "id": "3xzwqeqdp",
+        "title": "InfoComm Asia 2026 - Asia's Super Connector for Professional AV - Takes Place Next Week in Bangkok",
+        "excerpt": "InfoComm Asia 2026, Asia&#39;s premier exhibition and summit for Professional Audiovisual (Pro AV) and integrated experience technologies, returns to the ...",
+        "content": "<p>InfoComm Asia 2026, Asia&#39;s premier exhibition and summit for Professional Audiovisual (Pro AV) and integrated experience technologies, returns to the ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/07/11/AI-Innovation-and-Global-Product-Launches-InfoComm-Asia-2026-15-17-July-Bangkok-Thailand.jpg",
+        "date": "Jul 11, 2026",
+        "url": "https://en.antaranews.com/news/422223/infocomm-asia-2026-asias-super-connector-for-professional-av-takes-place-next-week-in-bangkok"
+    },
+    {
+        "id": "jflr2u0pu",
+        "title": "Christopher Nolan: Obsession, Backrooms Prove Moviegoers Reject 'AI Slop'",
+        "excerpt": "\"I've never seen a more rapid wholesale dismissal of a supposedly foundational jump in technology in my lifetime,\" the Oscar winner said in a recent interview with The Telegraph.",
+        "content": "<p>\"I've never seen a more rapid wholesale dismissal of a supposedly foundational jump in technology in my lifetime,\" the Oscar winner said in a recent interview with The Telegraph.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/GettyImages-2197900345-H-2026.jpg?w=1296&h=730&crop=1",
+        "date": "Jul 11, 2026",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/christopher-nolan-young-audiences-reject-ai-slop-1236644273/"
+    },
+    {
+        "id": "hntjs4r16",
+        "title": "A Rapidly-Growing Black Hole in a Nearby Galaxy Could Provide a Window Into the Early Universe.",
+        "excerpt": "The black hole at the centre of a nearby galaxy is growing exceptionally fast, and is producing a burst of radio emission that has never been observed before. With characteristics that are expected in the early Universe, this unique galaxy provides important …",
+        "content": "<p>The black hole at the centre of a nearby galaxy is growing exceptionally fast, and is producing a burst of radio emission that has never been observed before. With characteristics that are expected in the early Universe, this unique galaxy provides important …</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.universetoday.com/article_images/original_20260711_005133.webp",
+        "date": "Jul 11, 2026",
+        "url": "https://www.universetoday.com/articles/a-rapidly-growing-black-hole-in-a-nearby-galaxy-could-provide-a-window-into-the-early-universe"
+    },
+    {
+        "id": "wt4ci2gaj",
+        "title": "Kandi Burruss’ Daughter, Riley, Shares How Parents’ Divorce Impacted Her",
+        "excerpt": "Riley Burruss, Kandi Burruss’ daughter, opens up about how her mom’s recent split from stepdad Todd Tucker affected her.",
+        "content": "<p>Riley Burruss, Kandi Burruss’ daughter, opens up about how her mom’s recent split from stepdad Todd Tucker affected her.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-07/kandi-burruss-riley-lc-260710-3e03de.jpg",
+        "date": "Jul 11, 2026",
+        "url": "https://www.today.com/popculture/news/riley-burruss-parents-divorce-rcna385945"
+    },
+    {
+        "id": "a1uaogluk",
+        "title": "Billionaire Royal Mail boss took my fiancee: He's the ruthless businessman known as the Czech Sphinx who snatched one of Britain's corporate crown jewels. But he also grabbed a stunning model 23 years his junior from her teenage sweetheart",
+        "excerpt": "Last March, the Royal Mail posted a short advert for Mother's Day. Few of its viewers would have found anything unusual about it. However, close observers might have noticed something strange.",
+        "content": "<p>Last March, the Royal Mail posted a short advert for Mother's Day. Few of its viewers would have found anything unusual about it. However, close observers might have noticed something strange.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://i.dailymail.com/1s/2026/07/10/17/109941177-0-image-m-16_1783702692842.jpg",
+        "date": "Jul 11, 2026",
+        "url": "https://www.dailymail.com/news/article-15968891/Billionaire-Royal-Mail-boss-fiancee-Czech-Sphinx.html"
+    },
+    {
+        "id": "s0nigiuhn",
+        "title": "Essential Oil Compounds Show Blood Sugar and Antifungal Benefits",
+        "excerpt": "Few plants bridge the worlds of folk wisdom and modern science as elegantly as Plectranthus neochilus — better known as Vicks plant, lobster flower, or in Brazil, boldo-rasteiro. This aromatic member of the mint family, instantly recognizable by its pungent, …",
+        "content": "<p>Few plants bridge the worlds of folk wisdom and modern science as elegantly as Plectranthus neochilus — better known as Vicks plant, lobster flower, or in Brazil, boldo-rasteiro. This aromatic member of the mint family, instantly recognizable by its pungent, …</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://media.mercola.com/ImageServer/Public/2025/November/FB/vicks-plant-essential-oil-compounds-fb.jpg",
+        "date": "Jul 11, 2026",
+        "url": "https://articles.mercola.com/sites/articles/archive/2026/07/11/vicks-plant-essential-oil-compounds.aspx"
+    },
+    {
         "id": "m2286ebji",
         "title": "Starbucks taps AI to cut reliance on Microsoft, IBM software",
         "excerpt": "Starbucks is developing artificial intelligence tools internally to replace existing software. These new applications could replace systems currently bought from Microsoft and IBM. The coffee chain aims to reduce significant annual spending on software licens…",
