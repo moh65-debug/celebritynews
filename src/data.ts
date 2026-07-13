@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "7yxv853hd",
+        "title": "Bellingham double as ‘lucky’ England beat Norway to reach World Cup semi-finals",
+        "excerpt": "Jude Bellingham scored twice as England staged an extra-time escape act to defeat Norway 2-1 on Saturday and book their place in the World Cup semi-finals.\nThe post Bellingham double as ‘lucky’ England beat Norway to reach World Cup semi-finals appeared first…",
+        "content": "<p>Jude Bellingham scored twice as England staged an extra-time escape act to defeat Norway 2-1 on Saturday and book their place in the World Cup semi-finals.\nThe post Bellingham double as ‘lucky’ England beat Norway to reach World Cup semi-finals appeared first…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Bellingham.jpg",
+        "date": "Jul 12, 2026",
+        "url": "https://www.vanguardngr.com/2026/07/bellingham-double-as-lucky-england-beat-norway-to-reach-world-cup-semi-finals/"
+    },
+    {
+        "id": "0grac9zr3",
+        "title": "Tigers top scout, assistant GM size up Day 1 selections in MLB Draft",
+        "excerpt": "The Tigers’ Day 1 draft haul was a departure from the norm for this regime, with three of four picks from the college ranks.",
+        "content": "<p>The Tigers’ Day 1 draft haul was a departure from the norm for this regime, with three of four picks from the college ranks.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/LYmEINVTcW513JXhIwFFow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/detroit_news_articles_230/847862bd79d9d61ec9b749c0fa122b22",
+        "date": "Jul 12, 2026",
+        "url": "https://www.detroitnews.com/story/sports/mlb/tigers/2026/07/11/tigers-top-scout-assistant-gm-size-up-day-1-picks-in-mlb-draft/90890624007/"
+    },
+    {
+        "id": "va9724e5i",
+        "title": "Let us pay attention, by Bisi Adeleye-Fayemi",
+        "excerpt": "When I was young, there was a family who lived close to us on our street in the Fadeyi area of Lagos.  I will call the man of the family Mr Benson. He had a wife, Mrs Remi Benson. When they first arrived on our street, Mr Benson had a motorbike, and his wife …",
+        "content": "<p>When I was young, there was a family who lived close to us on our street in the Fadeyi area of Lagos.  I will call the man of the family Mr Benson. He had a wife, Mrs Remi Benson. When they first arrived on our street, Mr Benson had a motorbike, and his wife …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2022/09/Bisi-Fayemi-Loud-Whispers-e1701624030117.jpeg",
+        "date": "Jul 12, 2026",
+        "url": "https://www.vanguardngr.com/2026/07/let-us-pay-attention-by-bisi-adeleye-fayemi/"
+    },
+    {
+        "id": "rnf393746",
+        "title": "Beatbot Wants To Sell a Better Pool Experience, Not Just a Better Robot",
+        "excerpt": "Beatbot Wants To Sell a Better Pool Experience, Not Just a Better RobotAt CES, the annual spectacle of technological progress, most companies come to show you a new feature. At CES 2026, Beatbot arrived to propose a...",
+        "content": "<p>Beatbot Wants To Sell a Better Pool Experience, Not Just a Better RobotAt CES, the annual spectacle of technological progress, most companies come to show you a new feature. At CES 2026, Beatbot arrived to propose a...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.yankodesign.com/images/design_news/2026/07/beatbot-wants-to-sell-a-better-pool-experience-not-just-a-better-robot/Beatbot_rebrand_article_hero.jpg",
+        "date": "Jul 12, 2026",
+        "url": "https://www.yankodesign.com/2026/07/11/beatbot-wants-to-sell-a-better-pool-experience-not-just-a-better-robot/"
+    },
+    {
+        "id": "i2s0kxqbp",
+        "title": "Jude Bellingham’s clash with Tuchel highlights a leadership lesson every crypto founder should study",
+        "excerpt": "Effective leadership requires balancing critique with morale, especially in high-stakes environments, to maintain team cohesion and performance.\nThe post Jude Bellingham’s clash with Tuchel highlights a leadership lesson every crypto founder should study appe…",
+        "content": "<p>Effective leadership requires balancing critique with morale, especially in high-stakes environments, to maintain team cohesion and performance.\nThe post Jude Bellingham’s clash with Tuchel highlights a leadership lesson every crypto founder should study appe…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11214008/england-s-jude-bellingham-scores-two-goals-against-norway-20-800x420.jpeg",
+        "date": "Jul 12, 2026",
+        "url": "https://cryptobriefing.com/bellingham-tuchel-clash-governance-lesson/"
+    },
+    {
+        "id": "dsvhq4ihg",
+        "title": "Argentina’s Mac Allister scores at the 2026 World Cup, and his NFT cards are barely moving",
+        "excerpt": "Mac Allister's World Cup success highlights the disconnect between sports stardom and NFT market demand, questioning digital asset appeal.\nThe post Argentina’s Mac Allister scores at the 2026 World Cup, and his NFT cards are barely moving appeared first on Cr…",
+        "content": "<p>Mac Allister's World Cup success highlights the disconnect between sports stardom and NFT market demand, questioning digital asset appeal.\nThe post Argentina’s Mac Allister scores at the 2026 World Cup, and his NFT cards are barely moving appeared first on Cr…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11213112/ibrahima-konate-s-picture-of-alexis-mac-allister-goes-viral--800x420.jpeg",
+        "date": "Jul 12, 2026",
+        "url": "https://cryptobriefing.com/mac-allister-world-cup-header-sports-nfts/"
+    },
+    {
+        "id": "p27our442",
+        "title": "Iran declares Hormuz closed after 'unauthorised' vessel hit, warns of 'severe response'",
+        "excerpt": "Iran closed the Strait of Hormuz after a vessel incident and warned of severe retaliation. The United States demands Iran cease attacks and ensure free passage through the waterway. Mediators are attempting to arrange talks between Iran and the United States …",
+        "content": "<p>Iran closed the Strait of Hormuz after a vessel incident and warned of severe retaliation. The United States demands Iran cease attacks and ensure free passage through the waterway. Mediators are attempting to arrange talks between Iran and the United States …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-132339717,width-1200,height-630,imgsize-63316,overlay-economictimes/articleshow.jpg",
+        "date": "Jul 12, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-declares-hormuz-closed-after-unauthorised-vessel-hit-warns-of-severe-response/articleshow/132339703.cms"
+    },
+    {
+        "id": "l77yvlfnv",
+        "title": "Argentina’s fan token dips as Switzerland’s World Cup momentum builds ahead of quarterfinal clash",
+        "excerpt": "Argentina's fan token volatility highlights the emotional and speculative nature of sports-related crypto markets, impacting investor sentiment.\nThe post Argentina’s fan token dips as Switzerland’s World Cup momentum builds ahead of quarterfinal clash appeare…",
+        "content": "<p>Argentina's fan token volatility highlights the emotional and speculative nature of sports-related crypto markets, impacting investor sentiment.\nThe post Argentina’s fan token dips as Switzerland’s World Cup momentum builds ahead of quarterfinal clash appeare…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11211644/switzerland-national-team-800x420.jpeg",
+        "date": "Jul 12, 2026",
+        "url": "https://cryptobriefing.com/argentina-fan-token-dips-world-cup-quarterfinal/"
+    },
+    {
+        "id": "0915142w9",
+        "title": "Messi’s Argentina assist sparks fan token rally as $ARG surges during World Cup",
+        "excerpt": "The surge in $ARG token highlights the volatile intersection of sports and digital assets, raising questions about long-term value post-Messi.\nThe post Messi’s Argentina assist sparks fan token rally as $ARG surges during World Cup appeared first on Crypto Br…",
+        "content": "<p>The surge in $ARG token highlights the volatile intersection of sports and digital assets, raising questions about long-term value post-Messi.\nThe post Messi’s Argentina assist sparks fan token rally as $ARG surges during World Cup appeared first on Crypto Br…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11211510/lionel-messi-points-to-the-sky-2-800x420.jpeg",
+        "date": "Jul 12, 2026",
+        "url": "https://cryptobriefing.com/messi-argentina-fan-token-world-cup/"
+    },
+    {
+        "id": "8rh2gwux4",
+        "title": "Op-Ed: Canada rewrites the rules on AI privacy with Bill C-36, and this is just the start",
+        "excerpt": "This first step is to get a grip on the realities of privacy in the Age of AI. Let’s hope it works.\nThe post Op-Ed: Canada rewrites the rules on AI privacy with Bill C-36, and this is just the start appeared first on Digital Journal.",
+        "content": "<p>This first step is to get a grip on the realities of privacy in the Age of AI. Let’s hope it works.\nThe post Op-Ed: Canada rewrites the rules on AI privacy with Bill C-36, and this is just the start appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2025/02/c6dd597672d59a7ac71be7b549e21fb3ee21a28d.jpg",
+        "date": "Jul 12, 2026",
+        "url": "https://www.digitaljournal.com/article/op-ed-canada-rewrites-the-rules-on-ai-privacy-with-bill-c-36-and-this-is-just-the-start/"
+    },
+    {
         "id": "xm0hsbom1",
         "title": "Mouser's Rise of the Robots Program Explores Humanoid Design Considerations",
         "excerpt": "Mouser Electronics, Inc., the authorized global distributor with the newest electronic components and industrial automation products, today announced the ...",
