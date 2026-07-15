@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "afpyu37me",
+        "title": "YouTube clarifies that creators can’t monetize “generic or repetitive content,” content that’s “unsatisfying or off-putting,” or content with fake AI “experts”",
+        "excerpt": "YouTube is renaming one of its content policies and clarifying three kinds of videos will get creators' channels demonetized. More than 20 million videos More than 20 million videos are uploaded to YouTube every single day from millions of people around the w…",
+        "content": "<p>YouTube is renaming one of its content policies and clarifying three kinds of videos will get creators' channels demonetized. More than 20 million videos More than 20 million videos are uploaded to YouTube every single day from millions of people around the w…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.tubefilter.com/wp-content/uploads/2026/07/boliviainteligente-0PbFjeSptx4-unsplash1-scaled.jpg",
+        "date": "Jul 14, 2026",
+        "url": "https://www.tubefilter.com/2026/07/13/youtube-inauthentic-content-monetization-policy-update/"
+    },
+    {
+        "id": "satlmdn86",
+        "title": "US data-center spending to hit $40B in 2025 amid AI boom",
+        "excerpt": "The AI-driven data-center boom could reshape tech industry dynamics, influencing cloud revenue and market positions of major companies.\nThe post US data-center spending to hit $40B in 2025 amid AI boom appeared first on Crypto Briefing.",
+        "content": "<p>The AI-driven data-center boom could reshape tech industry dynamics, influencing cloud revenue and market positions of major companies.\nThe post US data-center spending to hit $40B in 2025 amid AI boom appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/13215927/how-many-servers-does-a-data-center-have-racksolutions-2-1-800x420.jpeg",
+        "date": "Jul 14, 2026",
+        "url": "https://cryptobriefing.com/us-data-center-spending-to-hit-40b-in-2025-amid-ai-boom/"
+    },
+    {
+        "id": "am98b7zqs",
+        "title": "Titans of Science: Enrico Coen",
+        "excerpt": "Titans of Science continues with plant biologist Enrico Coen, a professor at the John Innes Centre in Norfolk. His work investigates how genes move and interact to create tissue shapes during plant development, and how this process varies to produce such a wi…",
+        "content": "<p>Titans of Science continues with plant biologist Enrico Coen, a professor at the John Innes Centre in Norfolk. His work investigates how genes move and interact to create tissue shapes during plant development, and how this process varies to produce such a wi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/Rico2023a.jpg?itok=jWKHXyJD",
+        "date": "Jul 14, 2026",
+        "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/titans-science-enrico-coen"
+    },
+    {
+        "id": "14qinjw0v",
+        "title": "California grad student snared in alleged bomb plot after leaving terrifying message in restroom",
+        "excerpt": "The Department of Justice announced that a graduate student in Northern California was arrested after writing hateful and bomb threatening messages at a university on Monday.",
+        "content": "<p>The Department of Justice announced that a graduate student in Northern California was arrested after writing hateful and bomb threatening messages at a university on Monday.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134296295.jpg?quality=75&strip=all&w=1200",
+        "date": "Jul 14, 2026",
+        "url": "https://nypost.com/2026/07/13/us-news/california-grad-student-snared-in-alleged-bomb-plot-after-leaving-terrifying-message-in-restroom/"
+    },
+    {
+        "id": "4wgasvh76",
+        "title": "Yale scientists found a hidden network inside the eye",
+        "excerpt": "Researchers have discovered that the retina uses an unexpected communication network that lets separate visual pathways cooperate instead of working alone. A newly identified &quot;commander&quot; cell appears to coordinate this system, helping the eye detect…",
+        "content": "<p>Researchers have discovered that the retina uses an unexpected communication network that lets separate visual pathways cooperate instead of working alone. A newly identified &quot;commander&quot; cell appears to coordinate this system, helping the eye detect…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/eye-iris-close-up.webp",
+        "date": "Jul 14, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/07/260713000804.htm"
+    },
+    {
+        "id": "rijsp3rpr",
+        "title": "Op-Ed: Rethinking humanity as automation rewrites human realities",
+        "excerpt": "Automation is here, like it or not. It can deliver unprecedented value, but not without human values.\nThe post Op-Ed: Rethinking humanity as automation rewrites human realities appeared first on Digital Journal.",
+        "content": "<p>Automation is here, like it or not. It can deliver unprecedented value, but not without human values.\nThe post Op-Ed: Rethinking humanity as automation rewrites human realities appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/04/20180314_150746-EDIT.jpg",
+        "date": "Jul 14, 2026",
+        "url": "https://www.digitaljournal.com/article/op-ed-rethinking-humanity-as-automation-rewrites-human-realities/"
+    },
+    {
+        "id": "8vi4efmw5",
+        "title": "Mamdani offers few answers as massive homeless encampment sprouts in west Manhattan",
+        "excerpt": "A growing homeless encampment near Manhattan's Intrepid Museum has sparked complaints as Mayor Zohran Mamdani outlines the city's response.",
+        "content": "<p>A growing homeless encampment near Manhattan's Intrepid Museum has sparked complaints as Mayor Zohran Mamdani outlines the city's response.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/zohran-mamdani.png",
+        "date": "Jul 14, 2026",
+        "url": "https://www.foxnews.com/politics/mamdani-offers-few-answers-massive-homeless-encampment-sprouts-west-manhattan"
+    },
+    {
+        "id": "sddmf3sfh",
+        "title": "Florida Gators are losing ground with five-star recruit, but one key element could keep them in the hunt",
+        "excerpt": "Florida Gators head coach Jon Sumrall has been a big shooter when it comes to top recruits, and he's going to have time to get it done.",
+        "content": "<p>Florida Gators head coach Jon Sumrall has been a big shooter when it comes to top recruits, and he's going to have time to get it done.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/42f9e87b9d5a512c958bcd836c7e69eb1d72de93226bf99a139514f6d9ff317c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fatoz_sports_articles_485%2F8c4bc94805b3d26c6fd44658b79dd7b5",
+        "date": "Jul 14, 2026",
+        "url": "https://atozsports.com/college-football/florida-gators-news/florida-gators-are-losing-ground-five-star-recruit-easton-royal-jon-sumrall-recruiting/"
+    },
+    {
+        "id": "nh53twae2",
+        "title": "10 Best K-Drama Performances By K-Pop Idols",
+        "excerpt": "Countless K-pop legends have appeared on television, but only true triple threats go down in K-drama history for their iconic acting moments.",
+        "content": "<p>Countless K-pop legends have appeared on television, but only true triple threats go down in K-drama history for their iconic acting moments.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/yim-si-wan-in-squid-game.jpg?w=1600&h=900&fit=crop",
+        "date": "Jul 14, 2026",
+        "url": "https://screenrant.com/best-k-pop-idol-k-drama-performances-ranked/"
+    },
+    {
+        "id": "cfp0g92uy",
+        "title": "Do People Trust Science Anymore?",
+        "excerpt": "There are several psychological reasons why some people reject scientific consensus. How distant one feels psychologically from science increases the likelihood of rejection.",
+        "content": "<p>There are several psychological reasons why some people reject scientific consensus. How distant one feels psychologically from science increases the likelihood of rejection.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-07/national-cancer-institute-ct10qdgv1hq-unsplash.jpg?h=bedc009f&itok=GGjf0i4R",
+        "date": "Jul 14, 2026",
+        "url": "https://www.psychologytoday.com/us/blog/frazzlebrain/202607/do-people-trust-science-anymore"
+    },
+    {
         "id": "9rmjmz77i",
         "title": "Can Interactive 3D Improve Digital Textbooks Without Making Reading More Complicated?",
         "excerpt": "Digital textbooks can now include far more than text and static illustrations. Publishers can add video, audio, quizzes, animation, augmented reality, interactive diagrams, and three-dimensional models. In theory, these features can make difficult subjects ea…",
