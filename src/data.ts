@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "el4dbce87",
+        "title": "UAE commits $3.54 billion to become the world’s first AI-native government by 2027",
+        "excerpt": "The UAE's AI-native government initiative could redefine global governance models, boosting economic growth and job creation while enhancing digital infrastructure.\nThe post UAE commits $3.54 billion to become the world’s first AI-native government by 2027 ap…",
+        "content": "<p>The UAE's AI-native government initiative could redefine global governance models, boosting economic growth and job creation while enhancing digital infrastructure.\nThe post UAE commits $3.54 billion to become the world’s first AI-native government by 2027 ap…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14195855/ChatGPT-Image-Feb-13-2026-01_48_01-PM-800x420.png",
+        "date": "Jul 15, 2026",
+        "url": "https://cryptobriefing.com/uae-ai-investment-government-services/"
+    },
+    {
+        "id": "huh1solgh",
+        "title": "Mistral AI urges France to reserve cheap power for European AI firms",
+        "excerpt": "Arthur Mensch, CEO of French AI startup Mistral AI, said France should prioritize low-cost nuclear electricity for domestic and European AI companies as US technology groups expand their demand for power. The warning came during the G7 summit, where the start…",
+        "content": "<p>Arthur Mensch, CEO of French AI startup Mistral AI, said France should prioritize low-cost nuclear electricity for domestic and European AI companies as US technology groups expand their demand for power. The warning came during the G7 summit, where the start…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260715pd200_files/1_2b.jpg",
+        "date": "Jul 15, 2026",
+        "url": "https://www.digitimes.com/news/a20260715PD200/france-mistral-ai-electricity-demand.html"
+    },
+    {
+        "id": "7rz5hhalc",
+        "title": "UK government to issue first digital bond by early 2027",
+        "excerpt": "The UK's digital bond initiative could revolutionize financial markets by enhancing transaction speed and security, influencing global adoption.\nThe post UK government to issue first digital bond by early 2027 appeared first on Crypto Briefing.",
+        "content": "<p>The UK's digital bond initiative could revolutionize financial markets by enhancing transaction speed and security, influencing global adoption.\nThe post UK government to issue first digital bond by early 2027 appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14194801/ChatGPT-Image-May-28-2026-01_58_05-PM-800x420.png",
+        "date": "Jul 15, 2026",
+        "url": "https://cryptobriefing.com/uk-digital-gilt-instrument-bond-2027/"
+    },
+    {
+        "id": "r5a20urvz",
+        "title": "Breaking News Live Updates: India-UK FTA takes effect today with duty-free access across sectors",
+        "excerpt": "India's landmark free trade agreement with the UK came into force on July 15, granting duty-free access to 99% of Indian tariff lines, easing mobility for professionals and lowering tariffs on several British goods. While the pact opens significant export opp…",
+        "content": "<p>India's landmark free trade agreement with the UK came into force on July 15, granting duty-free access to 99% of Indian tariff lines, easing mobility for professionals and lowering tariffs on several British goods. While the pact opens significant export opp…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://economictimes.indiatimes.com/thumb/msid-132404141,width-1200,height-900,resizemode-4,imglength-136214/news/newsblogs/breaking-news-live-updates-july-15-ncr-weather-india-uk-fta-explainer-fifa-eng-vs-india-cjp-protest-wangchuk-hunger-strike-day.jpg",
+        "date": "Jul 15, 2026",
+        "url": "https://m.economictimes.com/news/newsblogs/breaking-news-live-updates-july-15-ncr-weather-india-uk-fta-explainer-fifa-eng-vs-india-cjp-protest-wangchuk-hunger-strike-day/liveblog/132404141.cms"
+    },
+    {
+        "id": "dy9qas5kd",
+        "title": "Kazakhstan's AIFC to host 9th edition of Astana Finance Days in September, focus on capital markets growth",
+        "excerpt": "Astana International Financial Centre will host Astana Finance Days 2026. This forum aims to significantly boost capital markets across Eurasia. It will gather financial professionals, investors, and government representatives. Discussions will focus on pract…",
+        "content": "<p>Astana International Financial Centre will host Astana Finance Days 2026. This forum aims to significantly boost capital markets across Eurasia. It will gather financial professionals, investors, and government representatives. Discussions will focus on pract…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-132404086,width-1200,height-630,imgsize-132858,overlay-economictimes/articleshow.jpg",
+        "date": "Jul 15, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/kazakhstans-aifc-to-host-9th-edition-of-astana-finance-days-in-september-focus-on-capital-markets-growth/articleshow/132404053.cms"
+    },
+    {
+        "id": "nzc4rr99r",
+        "title": "DBS wealth assets eye $1 trillion with AI and hiring",
+        "excerpt": "Discover how DBS Bank plans to achieve $1 trillion in wealth assets by 2030 through AI adoption and strategic hiring to enhance client services. Read more at straitstimes.com. Read more at straitstimes.com.",
+        "content": "<p>Discover how DBS Bank plans to achieve $1 trillion in wealth assets by 2030 through AI adoption and strategic hiring to enhance client services. Read more at straitstimes.com. Read more at straitstimes.com.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cassette.sphdigital.com.sg/image/straitstimes/2927114f1888da8e9fffb0f0d78dd89b64aa6d9f4841a1c853abf7190501bcea",
+        "date": "Jul 15, 2026",
+        "url": "https://www.straitstimes.com/business/dbs-eyes-1-trillion-in-wealth-assets-by-2030-banks-on-ai-and-hiring-600-more-staff"
+    },
+    {
+        "id": "mazu11w8k",
+        "title": "Apple reportedly explores PrismML's AI compression technology to bring larger models onto iPhones",
+        "excerpt": "Apple is reportedly evaluating AI model compression technology from Silicon Valley startup PrismML as it seeks to run more capable AI models directly on iPhones, a move that could improve performance while reducing reliance on cloud computing.",
+        "content": "<p>Apple is reportedly evaluating AI model compression technology from Silicon Valley startup PrismML as it seeks to run more capable AI models directly on iPhones, a move that could improve performance while reducing reliance on cloud computing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260715vl212_files/1_2b.jpg",
+        "date": "Jul 15, 2026",
+        "url": "https://www.digitimes.com/news/a20260715VL212/apple-iphone-ai-silicon-valley-startup.html"
+    },
+    {
+        "id": "opeylsz0k",
+        "title": "One-way 'speedboats with explosives' launched by US for first time",
+        "excerpt": "The United States is using one-way drone boats in combat against Iran for the first time in its military history. A defence expert says America is catching on to this \"cheaper and more effective\" tactic employed by Iran and Ukraine.",
+        "content": "<p>The United States is using one-way drone boats in combat against Iran for the first time in its military history. A defence expert says America is catching on to this \"cheaper and more effective\" tactic employed by Iran and Ukraine.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/0e14318a04570b88ea97e27bbfa73ba8?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "date": "Jul 15, 2026",
+        "url": "https://www.abc.net.au/news/2026-07-15/us-uses-explosive-drone-speedboats-against-iran-for-first-time/106912714"
+    },
+    {
+        "id": "ocnejo0qf",
+        "title": "NFL just proved that even an injury can't stop 49ers' Fred Warner from being the best inside linebacker in the league",
+        "excerpt": "Fred Warner may have missed significant time in 2025, but the NFL still views him as the best of the best at the inside linebacker position.",
+        "content": "<p>Fred Warner may have missed significant time in 2025, but the NFL still views him as the best of the best at the inside linebacker position.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/hWCAGf8uj0VgMWN84YaGUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/atoz_sports_articles_485/36828c54c09ad691a3e4598294dd460e",
+        "date": "Jul 15, 2026",
+        "url": "https://atozsports.com/nfl/san-francisco-49ers-news/fred-warner-ranked-number-one-linebacker-nfl-espn-execs-poll/"
+    },
+    {
+        "id": "0hdtt8t22",
+        "title": "After Zomato, Deepinder Goyal bets on health tech and aerospace",
+        "excerpt": "Deepinder Goyal is preparing to launch Temple, a forehead-worn wellness device that measures the body's metabolic state in real time, marking his first major venture after stepping down as CEO of Eternal. Expected to launch within six months to a year, the we…",
+        "content": "<p>Deepinder Goyal is preparing to launch Temple, a forehead-worn wellness device that measures the body's metabolic state in real time, marking his first major venture after stepping down as CEO of Eternal. Expected to launch within six months to a year, the we…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-55390,resizemode-75,msid-132406724/tech/technology/after-zomato-deepinder-goyal-bets-on-health-tech-and-aerospace.jpg",
+        "date": "Jul 15, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/after-zomato-deepinder-goyal-bets-on-health-tech-and-aerospace/articleshow/132406724.cms"
+    },
+    {
         "id": "afpyu37me",
         "title": "YouTube clarifies that creators can’t monetize “generic or repetitive content,” content that’s “unsatisfying or off-putting,” or content with fake AI “experts”",
         "excerpt": "YouTube is renaming one of its content policies and clarifying three kinds of videos will get creators' channels demonetized. More than 20 million videos More than 20 million videos are uploaded to YouTube every single day from millions of people around the w…",
