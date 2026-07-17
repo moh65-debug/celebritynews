@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "wuq5ht5rg",
+        "title": "La Dolce Vita! Roxy Jacenko strips down to a bikini as she enjoys a luxury yacht in Italy with her billionaire husband Oliver Curtis after stepping down from her Aussie business to 'enjoy life'",
+        "excerpt": "Roxy Jacenko looked to be making the most of the European summer on Tuesday as she soaked up the sunshine in Italy with her billionaire husband Oliver.",
+        "content": "<p>Roxy Jacenko looked to be making the most of the European summer on Tuesday as she soaked up the sunshine in Italy with her billionaire husband Oliver.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/07/16/02/110049947-0-image-m-24_1784166852432.jpg",
+        "date": "Jul 16, 2026",
+        "url": "https://www.dailymail.com/tvshowbiz/article-15981095/Roxy-Jacenko-strips-bikini-yacht-Italy-husband.html"
+    },
+    {
+        "id": "3nyolih3c",
+        "title": "Stocks to watch: These 15 companies will be in focus on Thursday",
+        "excerpt": "Latent View Analytics, Tata Capital, Ather Energy, Adani Power, NTPC Green, Powerica, Archean Chem, Lokesh machines, TVS Holdings, Jain Resource",
+        "content": "<p>Latent View Analytics, Tata Capital, Ather Energy, Adani Power, NTPC Green, Powerica, Archean Chem, Lokesh machines, TVS Holdings, Jain Resource</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/2bsi49/article69903921.ece/alternates/LANDSCAPE_1200/buzzing%20stocks-2.jpg",
+        "date": "Jul 16, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/stocks-to-watch-these-15-companies-will-be-in-focus-on-thursday/article71228330.ece"
+    },
+    {
+        "id": "c50nxjpxq",
+        "title": "MDR on UPI on the cards; Emergent enters unicorn club",
+        "excerpt": "The government is mulling restoring MDR on UPI transactions for large merchants. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>The government is mulling restoring MDR on UPI transactions for large merchants. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132427609,width-1070,height-580,imgsize-1452849,overlay-ettech/editionshow.jpg",
+        "date": "Jul 16, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/mdr-on-upi-on-the-cards-emergent-enters-unicorn-club/articleshow/132427609.cms"
+    },
+    {
+        "id": "0pjp0065a",
+        "title": "Messi sends Argentina to World Cup final, and crypto fan tokens are feeling it",
+        "excerpt": "Messi's influence highlights the volatile nature of crypto fan tokens, underscoring the risks of sentiment-driven investments in digital assets.\nThe post Messi sends Argentina to World Cup final, and crypto fan tokens are feeling it appeared first on Crypto B…",
+        "content": "<p>Messi's influence highlights the volatile nature of crypto fan tokens, underscoring the risks of sentiment-driven investments in digital assets.\nThe post Messi sends Argentina to World Cup final, and crypto fan tokens are feeling it appeared first on Crypto B…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/15215002/the-agony-and-the-ecstasy-of-argentina-s-world-cup-victory-t-4-800x420.jpeg",
+        "date": "Jul 16, 2026",
+        "url": "https://cryptobriefing.com/messi-world-cup-final-crypto-fan-tokens/"
+    },
+    {
+        "id": "sbb1o4ewk",
+        "title": "Argentina faces FIFA fine for Falklands banner after semi-final win over England",
+        "excerpt": "FIFA's fine highlights the ongoing tension between sports and national identity, underscoring the challenges of separating politics from global events.\nThe post Argentina faces FIFA fine for Falklands banner after semi-final win over England appeared first on…",
+        "content": "<p>FIFA's fine highlights the ongoing tension between sports and national identity, underscoring the challenges of separating politics from global events.\nThe post Argentina faces FIFA fine for Falklands banner after semi-final win over England appeared first on…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/15214045/three-argentine-soccer-players-in-action-with-soccer-balls-a-800x420.jpeg",
+        "date": "Jul 16, 2026",
+        "url": "https://cryptobriefing.com/argentina-fifa-fine-falklands-banner-world-cup/"
+    },
+    {
+        "id": "7e29wmwhi",
+        "title": "Lautaro Martinez’s World Cup heroics spotlight the growing intersection of football and crypto fan tokens",
+        "excerpt": "Martinez's World Cup success highlights the limited impact of crypto fan tokens on broader markets, despite their niche engagement potential.\nThe post Lautaro Martinez’s World Cup heroics spotlight the growing intersection of football and crypto fan tokens ap…",
+        "content": "<p>Martinez's World Cup success highlights the limited impact of crypto fan tokens on broader markets, despite their niche engagement potential.\nThe post Lautaro Martinez’s World Cup heroics spotlight the growing intersection of football and crypto fan tokens ap…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/15213042/lautaro-martinez-inter-ceo-slam-teammate-after-club-world-cu-800x420.jpeg",
+        "date": "Jul 16, 2026",
+        "url": "https://cryptobriefing.com/martinez-world-cup-crypto-fan-tokens/"
+    },
+    {
+        "id": "0y9noqfp4",
+        "title": "Vance warns there will be a 'socialist president in this country' if GOP doesn't fix economy for young people",
+        "excerpt": "Vice President JD Vance warned on Joe Rogan's podcast that 40 years of offshoring businesses, outsourcing jobs and low-wage immigration have driven young Americans toward socialism.",
+        "content": "<p>Vice President JD Vance warned on Joe Rogan's podcast that 40 years of offshoring businesses, outsourcing jobs and low-wage immigration have driven young Americans toward socialism.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/jd-vance-breitbart-fireside-chat.jpg",
+        "date": "Jul 16, 2026",
+        "url": "https://www.foxnews.com/media/vance-warns-socialist-president-country-gop-doesnt-fix-economy-young-people"
+    },
+    {
+        "id": "znkylzt4g",
+        "title": "'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?",
+        "excerpt": "England went 1-0 up against Argentina before slumping to a heart-breaking semi-final defeat. But did boss Thomas Tuchel's \"negative\" tactics cost the Three Lions a place in the World Cup final?",
+        "content": "<p>England went 1-0 up against Argentina before slumping to a heart-breaking semi-final defeat. But did boss Thomas Tuchel's \"negative\" tactics cost the Three Lions a place in the World Cup final?</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/90062830eb16bacb60666d55ef8ec16f80734235ed28968e07e6e234afb886d8/lightyear_networkapi/resizefill_w870_h489;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fab88dc14fcba5cc7a5eb946d3588a098",
+        "date": "Jul 16, 2026",
+        "url": "https://www.bbc.com/sport/football/articles/ce8l15903k8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+    },
+    {
+        "id": "42pdf8yw2",
+        "title": "Ontario joins 'passport' system for public companies, ending push for national regulator",
+        "excerpt": "Wednesday's move ends the largest province's push for a national securities regulator – a matter of disagreement going back more than two decades",
+        "content": "<p>Wednesday's move ends the largest province's push for a national securities regulator – a matter of disagreement going back more than two decades</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/Peter-Bethlenfalvy-1.jpg",
+        "date": "Jul 16, 2026",
+        "url": "https://nationalpost.com/news/politics/canada-national-securities-regulator"
+    },
+    {
+        "id": "mamlbn8yx",
+        "title": "Suni Lee, Karl-Anthony Towns and Lindsey Vonn among sports stars at 2026 ESPY Awards as glamorous athletes hit the red carpet in New York",
+        "excerpt": "The biggest names in sports and entertainment traded their jerseys and uniforms for high fashion on Wednesday night as they descended upon the 2026 ESPY Awards.",
+        "content": "<p>The biggest names in sports and entertainment traded their jerseys and uniforms for high fashion on Wednesday night as they descended upon the 2026 ESPY Awards.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://i.dailymail.com/1s/2026/07/16/01/110049301-0-image-m-55_1784163019811.jpg",
+        "date": "Jul 16, 2026",
+        "url": "https://www.dailymail.com/sport/othersports/article-15981059/suni-lee-karl-anthony-towns-lindsey-vonn-espy-new-york.html"
+    },
+    {
         "id": "el4dbce87",
         "title": "UAE commits $3.54 billion to become the world’s first AI-native government by 2027",
         "excerpt": "The UAE's AI-native government initiative could redefine global governance models, boosting economic growth and job creation while enhancing digital infrastructure.\nThe post UAE commits $3.54 billion to become the world’s first AI-native government by 2027 ap…",
