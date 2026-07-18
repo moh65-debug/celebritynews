@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "s8kb5ar7a",
+        "title": "These 12 stocks, including Maruti Suzuki, HCLTech, Coal India, PhysicsWallah, ITI and Sky Gold, will remain in focus",
+        "excerpt": "Corporate developments remained in focus as Maruti Suzuki, HCLTech, Coal India, ITI, Havells, PhysicsWallah, Shyam Metalics and PC Jeweller announced key business updates, while Pfizer paused a product, Diamond Power secured an order and Sky Gold reported a f…",
+        "content": "<p>Corporate developments remained in focus as Maruti Suzuki, HCLTech, Coal India, ITI, Havells, PhysicsWallah, Shyam Metalics and PC Jeweller announced key business updates, while Pfizer paused a product, Diamond Power secured an order and Sky Gold reported a f…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/hi5n5v/article71002311.ece/alternates/LANDSCAPE_1200/IMG_BL1404_Corp_Buzz1_2_1_23E86LN6.jpg",
+        "date": "Jul 17, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/these-12-stocks-including-maruti-suzuki-hcltech-coal-india-physicswallah-iti-and-sky-gold-will-remain-in-focus/article71232571.ece"
+    },
+    {
+        "id": "f2d9k0cc1",
+        "title": "Drone Assassination Attempts Directed against President V. Putin. Senator L. Graham in Ankara and Kiev",
+        "excerpt": "Introduction\nThe late Senator L. Graham in March 2022, “urged the Russian people to assassinate Putin”\n“the only way this ends is for somebody in Russia to take this guy out”\nAccording to Kurt Nimmo‘s incisive analysis:\n“Lindsey’s  …\nThe post Drone Assassinat…",
+        "content": "<p>Introduction\nThe late Senator L. Graham in March 2022, “urged the Russian people to assassinate Putin”\n“the only way this ends is for somebody in Russia to take this guy out”\nAccording to Kurt Nimmo‘s incisive analysis:\n“Lindsey’s  …\nThe post Drone Assassinat…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.globalresearch.ca/wp-content/uploads/2026/07/Donald_Trump_with_Lindsey_Graham_in_2026-1024x683.jpg",
+        "date": "Jul 17, 2026",
+        "url": "https://www.globalresearch.ca/drone-assassination-attempts-directed-against-president-v-putin-senator-l-graham-in-ankara-and-kiev/5933454"
+    },
+    {
+        "id": "bwdhcz7d9",
+        "title": "Stable policy push for ISM 2.0; Wipro Q1 misses estimates",
+        "excerpt": "Happy Friday! The government is leaning on policy stability, not just subsidies, to drive ISM 2.0. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Friday! The government is leaning on policy stability, not just subsidies, to drive ISM 2.0. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132450599,width-1070,height-580,imgsize-2785930,overlay-ettech/editionshow.jpg",
+        "date": "Jul 17, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/stable-policy-push-for-ism-2-0-wipro-q1-misses-estimates/articleshow/132450599.cms"
+    },
+    {
+        "id": "ut335sez0",
+        "title": "Google AI Mode gets more useful with Canva, Instacart and YouTube app integrations",
+        "excerpt": "Google LLC said today it’s letting users link some of their favorite, most often-used applications with AI Mode, its conversational search tool powered by artificial intelligence, initially supporting Canva, Instacart and YouTube. The update, announced in a b…",
+        "content": "<p>Google LLC said today it’s letting users link some of their favorite, most often-used applications with AI Mode, its conversational search tool powered by artificial intelligence, initially supporting Canva, Instacart and YouTube. The update, announced in a b…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-17-08-59-02.png",
+        "date": "Jul 17, 2026",
+        "url": "https://siliconangle.com/2026/07/16/google-ai-mode-gets-useful-canva-instacart-youtube-app-integrations/"
+    },
+    {
+        "id": "2hcm4nz7z",
+        "title": "Infinix HOT 70 Series Review: Designed Like a Flagship, Not Priced Like One",
+        "excerpt": "Infinix HOT 70 Series Review: Designed Like a Flagship, Not Priced Like OneThe affordable smartphone market has long operated on an unspoken rule: you get your camera, your processor, and a solid battery, but genuine design ambition...",
+        "content": "<p>Infinix HOT 70 Series Review: Designed Like a Flagship, Not Priced Like OneThe affordable smartphone market has long operated on an unspoken rule: you get your camera, your processor, and a solid battery, but genuine design ambition...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
+        "date": "Jul 17, 2026",
+        "url": "https://www.yankodesign.com/2026/07/16/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/"
+    },
+    {
+        "id": "fi0o0031p",
+        "title": "Supervest Explores How AI Could Reshape Private Credit Investing",
+        "excerpt": "AI is transforming industries. This paper examines its impact on private credit and why investors should consider both investment yield and the resilience of supporting cash flows. AI is transforming industries. This paper examines its impact on private credi…",
+        "content": "<p>AI is transforming industries. This paper examines its impact on private credit and why investors should consider both investment yield and the resilience of supporting cash flows. AI is transforming industries. This paper examines its impact on private credi…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://ml.globenewswire.com/Resource/Download/1b825b66-e299-43d7-9100-84a1de29df59",
+        "date": "Jul 17, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/07/17/3328890/0/en/Supervest-Explores-How-AI-Could-Reshape-Private-Credit-Investing.html"
+    },
+    {
+        "id": "qpqu5up60",
+        "title": "The Tim Ferriss Show Transcripts: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday” (#875)",
+        "excerpt": "Please enjoy this transcript of another rousing edition of The Random Show with my good friend Kevin Rose. We reunite over tequila to talk Zen retreats, learning to rock climb at (almost) 50, mortality and grief, why you should stop saying “one day,” AI predi…",
+        "content": "<p>Please enjoy this transcript of another rousing edition of The Random Show with my good friend Kevin Rose. We reunite over tequila to talk Zen retreats, learning to rock climb at (almost) 50, mortality and grief, why you should stop saying “one day,” AI predi…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://tim.blog/wp-content/uploads/2022/04/The-Random-Show-with-Kevin-Rose-scaled.jpeg",
+        "date": "Jul 17, 2026",
+        "url": "https://tim.blog/2026/07/16/the-random-show-transcript/"
+    },
+    {
+        "id": "bc6x62u9r",
+        "title": "New Fed Report Says Community Banks Matter More as They Get Smaller",
+        "excerpt": "While community banks have steadily lost market share by almost every conventional metric, they have simultaneously become more systemically important to the parts of the economy that cannot easily be standardized. Despite holding a fraction of U.S. banking a…",
+        "content": "<p>While community banks have steadily lost market share by almost every conventional metric, they have simultaneously become more systemically important to the parts of the economy that cannot easily be standardized. Despite holding a fraction of U.S. banking a…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.pymnts.com/wp-content/uploads/2026/07/small-banks-b2b-enterprise.jpeg",
+        "date": "Jul 17, 2026",
+        "url": "https://www.pymnts.com/news/banking/2026/new-fed-report-says-community-banks-matter-more-as-they-get-smaller/"
+    },
+    {
+        "id": "g3qm59lwu",
+        "title": "Nate Burleson ‘100 percent’ interested in hosting ‘The NFL Today,’ but won’t push James Brown out",
+        "excerpt": "Despite a strong, decade-long career in the NFL, Nate Burleson has quickly become just as well-known as a television host as he is for being a football analyst. Since 2021, Burleson has worked as a cohost of CBS Mornings, one of the most prominent roles in da…",
+        "content": "<p>Despite a strong, decade-long career in the NFL, Nate Burleson has quickly become just as well-known as a television host as he is for being a football analyst. Since 2021, Burleson has worked as a cohost of CBS Mornings, one of the most prominent roles in da…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/8274d904cbd34d207939c8f6ffff1dbf042bc4b4ed25f59c1d19ead38ca2d3c2/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fawful_announcing_173%2Fef8fb6103ef0bc26131cfe296ea392c7",
+        "date": "Jul 17, 2026",
+        "url": "https://awfulannouncing.com/cbs/nate-burleson-interested-hosting-nfl-today-james-brown.html"
+    },
+    {
+        "id": "w7tkhzc5o",
+        "title": "China’s Economic Espionage and Subnational Influence in the United States",
+        "excerpt": "Streamed live on Jun 25, 2026 The House Select Committee on China held a hearing titled “China’s Economic Espionage and Subnational Influence in the United States” on Thursday, June 25 at 10:30 A.M. in the Cannon House Office Building, Room 390. The witnesses…",
+        "content": "<p>Streamed live on Jun 25, 2026 The House Select Committee on China held a hearing titled “China’s Economic Espionage and Subnational Influence in the United States” on Thursday, June 25 at 10:30 A.M. in the Cannon House Office Building, Room 390. The witnesses…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://smallwarsjournal.com/wp-content/uploads/2026/02/House-Select-Committee-on-the-CCP.webp",
+        "date": "Jul 17, 2026",
+        "url": "https://smallwarsjournal.com/2026/07/17/chinas-economic-espionage-and-subnational-influence-in-the-united-states/"
+    },
+    {
         "id": "wuq5ht5rg",
         "title": "La Dolce Vita! Roxy Jacenko strips down to a bikini as she enjoys a luxury yacht in Italy with her billionaire husband Oliver Curtis after stepping down from her Aussie business to 'enjoy life'",
         "excerpt": "Roxy Jacenko looked to be making the most of the European summer on Tuesday as she soaked up the sunshine in Italy with her billionaire husband Oliver.",
