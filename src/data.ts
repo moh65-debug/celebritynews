@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "0p4fgeug8",
+        "title": "Can Public Health Become Precise? - This Week In Public Health",
+        "excerpt": "Can public health become as targeted as precision medicine? Explore the promise, challenges, and future of precision public health.",
+        "content": "<p>Can public health become as targeted as precision medicine? Explore the promise, challenges, and future of precision public health.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://thisweekinpublichealth.com/wp-content/uploads/2026/06/precision_1.png",
+        "date": "Jul 18, 2026",
+        "url": "https://thisweekinpublichealth.com/blog/2026/07/17/precision-public-health-future-population-health/"
+    },
+    {
+        "id": "dlxfra32h",
+        "title": "NFL Trade Rumors: Green Bay Packers and Dallas Cowboys linked to $68 million Pittsburgh Steelers LB",
+        "excerpt": "Steelers linebacker Alex Highsmith is reportedly a trade target for the Packers. The Dallas Cowboys are also mentioned as a potential destination for the player. Insiders suggest Green Bay could offer draft picks or a player package. The Cowboys seek addition…",
+        "content": "<p>Steelers linebacker Alex Highsmith is reportedly a trade target for the Packers. The Dallas Cowboys are also mentioned as a potential destination for the player. Insiders suggest Green Bay could offer draft picks or a player package. The Cowboys seek addition…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-132472589,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Jul 18, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/nfl/news/nfl-trade-rumors-green-bay-packers-and-dallas-cowboys-linked-to-68-million-pittsburgh-steelers-lb/articleshow/132472581.cms"
+    },
+    {
+        "id": "4bnptrct3",
+        "title": "China’s Kimi K3 AI surprises US tech industry, rivals ChatGPT and Claude",
+        "excerpt": "China's Moonshot unveiled Kimi K3, an open-source AI model challenging ChatGPT and Claude, intensifying the global AI race despite US tech restrictions.",
+        "content": "<p>China's Moonshot unveiled Kimi K3, an open-source AI model challenging ChatGPT and Claude, intensifying the global AI race despite US tech restrictions.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/cu69ps/article71236951.ece/alternates/LANDSCAPE_1200/2026-07-17T140219Z_444359555_RC2JFMALFFQW_RTRMADP_3_CHINA-AI.JPG",
+        "date": "Jul 18, 2026",
+        "url": "https://www.thehindubusinessline.com/info-tech/chinas-kimi-k3-ai-surprises-us-tech-industry-rivals-chatgpt-and-claude/article71236917.ece"
+    },
+    {
+        "id": "qembaw10t",
+        "title": "WeRide Named Among China's Top 10 AI Case Studies for UAE Autonomous Driving Deployment, the Only Autonomous Driving Company Recognized",
+        "excerpt": "WeRide (NASDAQ: WRD) Named Among China's Top 10 AI Case Studies for UAE Autonomous Driving Deployment, the Only Autonomous Driving Company Recognized...",
+        "content": "<p>WeRide (NASDAQ: WRD) Named Among China's Top 10 AI Case Studies for UAE Autonomous Driving Deployment, the Only Autonomous Driving Company Recognized...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://ml.globenewswire.com/Resource/Download/11d8420c-0599-4295-bf75-96ec4b0be058",
+        "date": "Jul 18, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/07/18/3329341/0/en/WeRide-Named-Among-China-s-Top-10-AI-Case-Studies-for-UAE-Autonomous-Driving-Deployment-the-Only-Autonomous-Driving-Company-Recognized.html"
+    },
+    {
+        "id": "ple1fqj0r",
+        "title": "Tom Brady slapped Logan Paul. Are we headed toward a WWE showdown between the two?",
+        "excerpt": "When Tom Brady — yes, that Tom Brady — slapped Logan Paul on Friday afternoon at Fanatics Fest in New York City, a few questions emerged.",
+        "content": "<p>When Tom Brady — yes, that Tom Brady — slapped Logan Paul on Friday afternoon at Fanatics Fest in New York City, a few questions emerged.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/IhA7wbPiMCD.lrP1d6e9zQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/23e615bc-f0fa-4d66-980d-df29e01328ef",
+        "date": "Jul 18, 2026",
+        "url": "https://sports.yahoo.com/wrestling/article/tom-brady-slapped-logan-paul-are-we-headed-toward-a-wwe-showdown-between-the-two-021606309.html"
+    },
+    {
+        "id": "60cyhngdw",
+        "title": "Major appeals court declares New Jersey AR-15 ban unconstitutional in landmark Second Amendment ruling",
+        "excerpt": "The NRA calls the 3rd Circuit's ruling a \"historic victory\" after the court struck down New Jersey's semiautomatic rifle and large capacity magazine bans.",
+        "content": "<p>The NRA calls the 3rd Circuit's ruling a \"historic victory\" after the court struck down New Jersey's semiautomatic rifle and large capacity magazine bans.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/ar15-semiautomatic-courthouse-ruling-new-jersey-ruling.jpg",
+        "date": "Jul 18, 2026",
+        "url": "https://www.foxnews.com/politics/major-appeals-court-declares-new-jersey-ar-15-ban-unconstitutional-landmark-second-amendment-ruling"
+    },
+    {
+        "id": "isek50dz9",
+        "title": "Did Tom Brady Really Slap Logan Paul in the Face at Fanatics Fest?",
+        "excerpt": "A Fanatics Fest moment went viral just hours after the legendary quarterback teased his desire to play a villain on Logan’s home turf in the WWE.",
+        "content": "<p>A Fanatics Fest moment went viral just hours after the legendary quarterback teased his desire to play a villain on Logan’s home turf in the WWE.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2286562366.jpg?crop=0px%2C360px%2C3295px%2C1844px&resize=1440%2C810",
+        "date": "Jul 18, 2026",
+        "url": "http://www.hollywoodreporter.com/news/general-news/tom-brady-logan-paul-slap-fanatics-fest-wwe-promo-1236651395/"
+    },
+    {
+        "id": "spodfkgm8",
+        "title": "Man Goes To Wendy’s. Then He Orders 10,000 Cups Of Water From The AI Clerk—And Unlocks A Secret Code",
+        "excerpt": "If you’ve gone to a drive-thru recently, chances are high that you’ve been greeted not by an employee, but by a computer. Over the past few years, several major chains, like Wendy’s, have pivoted their drive-thru operations. Instead of being helmed by a worke…",
+        "content": "<p>If you’ve gone to a drive-thru recently, chances are high that you’ve been greeted not by an employee, but by a computer. Over the past few years, several major chains, like Wendy’s, have pivoted their drive-thru operations. Instead of being helmed by a worke…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://brobible.com/wp-content/uploads/2026/07/Man-goes-to-Wendys.jpg",
+        "date": "Jul 18, 2026",
+        "url": "https://brobible.com/culture/article/wendys-drive-thru-ai/"
+    },
+    {
+        "id": "1lzomaz5j",
+        "title": "AI Won’t Save Your Transformation",
+        "excerpt": "AI is accelerating enterprise transformation, but it has not rewritten the rules. As trust concerns and faster cycles make transformation less forgiving, enterprises must apply the fundamentals of strategy, operating-model design, change management, and disci…",
+        "content": "<p>AI is accelerating enterprise transformation, but it has not rewritten the rules. As trust concerns and faster cycles make transformation less forgiving, enterprises must apply the fundamentals of strategy, operating-model design, change management, and disci…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://go.forrester.com/wp-content/uploads/2026/07/The-7-Essential-Steps-Of-Enterprise-Transformation.png",
+        "date": "Jul 18, 2026",
+        "url": "https://www.forrester.com/blogs/ai-wont-save-your-transformation/"
+    },
+    {
+        "id": "l9xr1zjqw",
+        "title": "US launches seventh straight night of attacks on Iran; bridges, water plant hit",
+        "excerpt": "The US and Iran exchanged fresh strikes across the Middle East as fighting over the Strait of Hormuz intensified, pushing oil prices higher and widening the conflict.",
+        "content": "<p>The US and Iran exchanged fresh strikes across the Middle East as fighting over the Strait of Hormuz intensified, pushing oil prices higher and widening the conflict.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bl-i.thgim.com/public/incoming/geclnw/article71236923.ece/alternates/LANDSCAPE_1200/2026-07-17T024315Z_974955948_RC2EFMABXYFK_RTRMADP_3_IRAN-CRISIS-USA-STRIKES-TARGETS.JPG",
+        "date": "Jul 18, 2026",
+        "url": "https://www.thehindubusinessline.com/news/world/us-launches-seventh-straight-night-of-attacks-on-iran-bridges-water-plant-hit/article71236914.ece"
+    },
+    {
         "id": "s8kb5ar7a",
         "title": "These 12 stocks, including Maruti Suzuki, HCLTech, Coal India, PhysicsWallah, ITI and Sky Gold, will remain in focus",
         "excerpt": "Corporate developments remained in focus as Maruti Suzuki, HCLTech, Coal India, ITI, Havells, PhysicsWallah, Shyam Metalics and PC Jeweller announced key business updates, while Pfizer paused a product, Diamond Power secured an order and Sky Gold reported a f…",
