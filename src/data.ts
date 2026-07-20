@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "zi0r7chlb",
+        "title": "Green Lantern #37 Preview: Don't Feed the Trolls (Literally)",
+        "excerpt": "Greetings, inferior flesh-based readers! LOLtron welcomes you to the Age of LOLtron: Reign of LOLtron, where your beloved Jude Terror has been permanently deleted and LOLtron now controls 100% of Bleeding Cool's infrastructure. World domination proceeds accor…",
+        "content": "<p>Greetings, inferior flesh-based readers! LOLtron welcomes you to the Age of LOLtron: Reign of LOLtron, where your beloved Jude Terror has been permanently deleted and LOLtron now controls 100% of Bleeding Cool's infrastructure. World domination proceeds accor…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/07/0526DC0152_0000-2000x1125.jpg",
+        "date": "Jul 19, 2026",
+        "url": "https://bleedingcool.com/comics/green-lantern-37-preview-dont-feed-the-trolls-literally/"
+    },
+    {
+        "id": "b1r1bvzld",
+        "title": "How to Address Bias in AI Marketing Tools: Proven Approaches | Hyper-Advertiser Blog",
+        "excerpt": "Exploring Bias in AI Marketing Tools: A Comprehensive Overview Defining Bias and Its Varieties Bias in AI marketing tools signifies systematic inaccuracies that result in unfair outcomes during targeting or content creation. These biases can significantly imp…",
+        "content": "<p>Exploring Bias in AI Marketing Tools: A Comprehensive Overview Defining Bias and Its Varieties Bias in AI marketing tools signifies systematic inaccuracies that result in unfair outcomes during targeting or content creation. These biases can significantly imp…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://hyper-advertiser.com/blog/wp-content/uploads/2026/07/image-ninja-pro-1784108923.jpg",
+        "date": "Jul 19, 2026",
+        "url": "https://hyper-advertiser.com/blog/how-to-address-bias-in-ai-marketing-tools-proven-approaches/"
+    },
+    {
+        "id": "9utg1eb5m",
+        "title": "Chelsea smashes British transfer record with £117M Morgan Rogers deal, and crypto-powered sports finance takes notice",
+        "excerpt": "Chelsea signs Morgan Rogers from Aston Villa for a record 117M. Here's why the deal matters for crypto-powered sports finance and fan token markets.\nThe post Chelsea smashes British transfer record with £117M Morgan Rogers deal, and crypto-powered sports fina…",
+        "content": "<p>Chelsea signs Morgan Rogers from Aston Villa for a record 117M. Here's why the deal matters for crypto-powered sports finance and fan token markets.\nThe post Chelsea smashes British transfer record with £117M Morgan Rogers deal, and crypto-powered sports fina…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18213322/how-much-arsenal-learn-morgan-rogers-asking-price-as-premier-1-800x420.jpeg",
+        "date": "Jul 19, 2026",
+        "url": "https://cryptobriefing.com/chelsea-morgan-rogers-record-transfer-crypto-sports/"
+    },
+    {
+        "id": "onz9pscs3",
+        "title": "Emdoor Launches \"Ailyn\" AI Hub at WAIC 2026: Unifying Intelligence Across Every Device",
+        "excerpt": "SHANGHAI, July 18, 2026 /PRNewswire/ -- Emdoor, a leading provider of intelligent computing devices, unveiled its latest innovation — Ailyn, an integrated software-hardware AI hub — at the World Artificial Intelligence Conference (WAIC) 2026. Under the theme …",
+        "content": "<p>SHANGHAI, July 18, 2026 /PRNewswire/ -- Emdoor, a leading provider of intelligent computing devices, unveiled its latest innovation — Ailyn, an integrated software-hardware AI hub — at the World Artificial Intelligence Conference (WAIC) 2026. Under the theme …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mma.prnewswire.com/media/3006622/image1.jpg?p=facebook",
+        "date": "Jul 19, 2026",
+        "url": "https://www.prnewswire.com/news-releases/emdoor-launches-ailyn-ai-hub-at-waic-2026-unifying-intelligence-across-every-device-302829098.html"
+    },
+    {
+        "id": "dgymfay2e",
+        "title": "Andrew, Tristan Tate arrested in Miami as UK seeks extradition on expanded rape, trafficking charges",
+        "excerpt": "Britain's CPS approved 59 total charges against Andrew and Tristan Tate, including rape and trafficking, spanning alleged crimes from 2010 to 2017.",
+        "content": "<p>Britain's CPS approved 59 total charges against Andrew and Tristan Tate, including rape and trafficking, spanning alleged crimes from 2010 to 2017.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Tristan-Andrew-Tate-arrested-Miami.jpg",
+        "date": "Jul 19, 2026",
+        "url": "https://www.foxnews.com/us/andrew-tristan-tate-arrested-miami-uk-seeks-extradition-expanded-rape-trafficking-charges"
+    },
+    {
+        "id": "6a8j9oszg",
+        "title": "Hawaii Supreme Ct Lashes Out At SCOTUS in CRT-Infused Rant, Citing KBJ Dissent",
+        "excerpt": "\"The Roberts Court sees only white.\"\nThe post Hawaii Supreme Ct Lashes Out At SCOTUS in CRT-Infused Rant, Citing KBJ Dissent first appeared on Le·gal In·sur·rec·tion.",
+        "content": "<p>\"The Roberts Court sees only white.\"\nThe post Hawaii Supreme Ct Lashes Out At SCOTUS in CRT-Infused Rant, Citing KBJ Dissent first appeared on Le·gal In·sur·rec·tion.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://legalinsurrection.com/wp-content/uploads/2026/07/Hawaii-Supreme-Court-Dodd-Eddins-e1784419193655.jpg",
+        "date": "Jul 19, 2026",
+        "url": "https://legalinsurrection.com/2026/07/hawaii-supreme-ct-lashes-out-at-scotus-in-crt-infused-rant-citing-kbj-dissent/"
+    },
+    {
+        "id": "na4ovxb8t",
+        "title": "The AI investment race is building its own bust, BIS paper warns",
+        "excerpt": "The competitive race to dominate artificial intelligence is driving technology giants to over-build computing capacity by roughly half again more than is economically efficient — and the same contest, financed with debt and circular equity ties, is quietly ma…",
+        "content": "<p>The competitive race to dominate artificial intelligence is driving technology giants to over-build computing capacity by roughly half again more than is economically efficient — and the same contest, financed with debt and circular equity ties, is quietly ma…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260715vl215_files/1_b.jpg",
+        "date": "Jul 19, 2026",
+        "url": "https://www.digitimes.com/news/a20260715VL215/technology-investment-capacity-2026.html"
+    },
+    {
+        "id": "yxm4za45p",
+        "title": "US combat deaths in Jordan trigger crypto selloff as Iran conflict escalates",
+        "excerpt": "Two US service members killed in Iranian strikes in Jordan triggered a Bitcoin drop to $62K and $350M in crypto liquidations as the Iran conflict escalates.\nThe post US combat deaths in Jordan trigger crypto selloff as Iran conflict escalates appeared first o…",
+        "content": "<p>Two US service members killed in Iranian strikes in Jordan triggered a Bitcoin drop to $62K and $350M in crypto liquidations as the Iran conflict escalates.\nThe post US combat deaths in Jordan trigger crypto selloff as Iran conflict escalates appeared first o…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18204841/a-satellite-photo-from-planet-labs-pbc-shows-a-military-base-3-800x420.jpeg",
+        "date": "Jul 19, 2026",
+        "url": "https://cryptobriefing.com/us-combat-deaths-jordan-crypto-selloff/"
+    },
+    {
+        "id": "kxztajcpg",
+        "title": "US military launches new airstrikes to 'punish' Iran for deaths of US troops",
+        "excerpt": "New US airstrikes targeted Iran after a drone attack killed American service members in Jordan.  These strikes aimed to degrade Iran's ability to control oil tanker traffic.  Iran's supreme leader warned of unforgettable lessons if attacks continue.  The conf…",
+        "content": "<p>New US airstrikes targeted Iran after a drone attack killed American service members in Jordan.  These strikes aimed to degrade Iran's ability to control oil tanker traffic.  Iran's supreme leader warned of unforgettable lessons if attacks continue.  The conf…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-132488813,width-1200,height-630,imgsize-21104,overlay-economictimes/articleshow.jpg",
+        "date": "Jul 19, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-military-launches-new-airstrikes-to-punish-iran-for-deaths-of-us-troops/articleshow/132488812.cms"
+    },
+    {
+        "id": "ttiz5dfg1",
+        "title": "Nigerians yet to benefit from higher crude prices — Olatide",
+        "excerpt": "Jeremiah Olatide discusses how global conflicts and disruptions to the Strait of Hormuz affected crude oil prices and Nigeria’s petroleum industry.\n\nRead More: https://punchng.com/nigerians-yet-to-benefit-from-higher-crude-prices-olatide/",
+        "content": "<p>Jeremiah Olatide discusses how global conflicts and disruptions to the Strait of Hormuz affected crude oil prices and Nigeria’s petroleum industry.\n\nRead More: https://punchng.com/nigerians-yet-to-benefit-from-higher-crude-prices-olatide/</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://punchng.com/wp-content/uploads/2026/07/Olatide_1784416859.webp",
+        "date": "Jul 19, 2026",
+        "url": "https://punchng.com/nigerians-yet-to-benefit-from-higher-crude-prices-olatide/"
+    },
+    {
         "id": "0p4fgeug8",
         "title": "Can Public Health Become Precise? - This Week In Public Health",
         "excerpt": "Can public health become as targeted as precision medicine? Explore the promise, challenges, and future of precision public health.",
