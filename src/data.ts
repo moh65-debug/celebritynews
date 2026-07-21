@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "c3lrujgwe",
+        "title": "TNT Explains Why It Didn’t Copy Prime Video’s Winning NASCAR Formula",
+        "excerpt": "TNT Sports executive Craig Barry explained why the network chose to develop its own NASCAR broadcast style instead of following Prime Video's highly praised formula.",
+        "content": "<p>TNT Sports executive Craig Barry explained why the network chose to develop its own NASCAR broadcast style instead of following Prime Video's highly praised formula.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/os/en/motorbiscuit_articles_333/5e4083ff28e13aa204d81dbe0fb6b8f2",
+        "date": "Jul 20, 2026",
+        "url": "https://www.motorbiscuit.com/tnt-nascar-broadcasts-prime-video/"
+    },
+    {
+        "id": "8uq8xe0ze",
+        "title": "Matt Damon, Tom Cruise and Shakira headline packed celebrity crowd at World Cup final",
+        "excerpt": "Tom Cruise opened the FIFA World Cup final with a speech while Shakira, Justin Bieber and Madonna performed the halftime show in Spain's 1-0 win.",
+        "content": "<p>Tom Cruise opened the FIFA World Cup final with a speech while Shakira, Justin Bieber and Madonna performed the halftime show in Spain's 1-0 win.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/world-cup-celebs-thumb.jpg",
+        "date": "Jul 20, 2026",
+        "url": "https://www.foxnews.com/entertainment/matt-damon-tom-cruise-shakira-headline-packed-celebrity-crowd-world-cup-final"
+    },
+    {
+        "id": "5fubq9icg",
+        "title": "Josh Kerr crushes 27-year-old world mile record after delivering on bold promise in London",
+        "excerpt": "Video captures Josh Kerr shattering Hicham El Guerrouj's 27-year mile world record at the London Diamond League with a stunning 3:42.66 finish.",
+        "content": "<p>Video captures Josh Kerr shattering Hicham El Guerrouj's 27-year mile world record at the London Diamond League with a stunning 3:42.66 finish.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/josh-kerr-5.png",
+        "date": "Jul 20, 2026",
+        "url": "https://www.foxnews.com/sports/josh-kerr-crushes-27-year-old-world-mile-record-after-delivering-bold-promise-london"
+    },
+    {
+        "id": "blve9v3r7",
+        "title": "As AI Transforms Silicon Valley, Some Tech Workers Face Evaporating Financial Security",
+        "excerpt": "The Washington Post describes a mid-tier executive at Meta as one of Silicon Valley's \"winners\" whose financial security suddenly \"evaporated\" as their workforce \"pushed headlong into AI and heavy job cuts,\" creating a transformed job market. \"Her ex-husband,…",
+        "content": "<p>The Washington Post describes a mid-tier executive at Meta as one of Silicon Valley's \"winners\" whose financial security suddenly \"evaporated\" as their workforce \"pushed headlong into AI and heavy job cuts,\" creating a transformed job market. \"Her ex-husband,…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://a.fsdn.com/sd/topics/it_64.png",
+        "date": "Jul 20, 2026",
+        "url": "https://it.slashdot.org/story/26/07/20/0212244/as-ai-transforms-silicon-valley-some-tech-workers-face-evaporating-financial-security"
+    },
+    {
+        "id": "ulw9lwvkg",
+        "title": "AI Transforms Silicon Valley, Some Tech Workers Face Evaporating Financial Security",
+        "excerpt": "The Washington Post describes a mid-tier executive at Meta as one of Silicon Valley's \"winners\" whose financial security suddenly \"evaporated\" as their workforce \"pushed headlong into AI and heavy job cuts,\" creating a transformed job market. \"Her ex-husband,…",
+        "content": "<p>The Washington Post describes a mid-tier executive at Meta as one of Silicon Valley's \"winners\" whose financial security suddenly \"evaporated\" as their workforce \"pushed headlong into AI and heavy job cuts,\" creating a transformed job market. \"Her ex-husband,…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://a.fsdn.com/sd/topics/it_64.png",
+        "date": "Jul 20, 2026",
+        "url": "https://it.slashdot.org/story/26/07/20/0212244/ai-transforms-silicon-valley-some-tech-workers-face-evaporating-financial-security"
+    },
+    {
+        "id": "9uuc8sc71",
+        "title": "Cardi B ignites dating rumors with another Maduka Okoye outing amid Stefon Diggs' legal dispute",
+        "excerpt": "Cardi B was seen with Nigerian goalkeeper Maduka Okoye in Italy recently. This appearance followed her public defense of NFL player Stefon Diggs. Diggs faces a sexual assault lawsuit from Christopher Blake Griffith. Griffith criticized Cardi B for supporting …",
+        "content": "<p>Cardi B was seen with Nigerian goalkeeper Maduka Okoye in Italy recently. This appearance followed her public defense of NFL player Stefon Diggs. Diggs faces a sexual assault lawsuit from Christopher Blake Griffith. Griffith criticized Cardi B for supporting …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-132504222,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Jul 20, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/nfl/news/cardi-b-ignites-dating-rumors-with-another-maduka-okoye-outing-amid-stefon-diggs-legal-dispute/articleshow/132504179.cms"
+    },
+    {
+        "id": "ut9xwwo05",
+        "title": "US launches Iran strikes for ninth day as another American confirmed killed",
+        "excerpt": "US Iran war news: United States forces conducted ninth consecutive strikes against Iran on Monday.  Three American military deaths were confirmed in the renewed fighting.  Concerns are growing over vital shipping lanes through the Strait of Hormuz.  Iran also…",
+        "content": "<p>US Iran war news: United States forces conducted ninth consecutive strikes against Iran on Monday.  Three American military deaths were confirmed in the renewed fighting.  Concerns are growing over vital shipping lanes through the Strait of Hormuz.  Iran also…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-132504313,width-1200,height-630,imgsize-35040,overlay-etdefence/articleshow.jpg",
+        "date": "Jul 20, 2026",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-launches-iran-strikes-for-ninth-day-as-another-american-confirmed-killed/articleshow/132504228.cms"
+    },
+    {
+        "id": "4lyzjy254",
+        "title": "US launches ninth consecutive day of strikes on Iran as another American confirmed killed",
+        "excerpt": "U.S. forces struck Iran for a ninth consecutive day on ‌Monday as the number of confirmed American military deaths in the renewed fighting rose to three and ​concerns grew over shipping through the Strait of Hormuz.",
+        "content": "<p>U.S. forces struck Iran for a ninth consecutive day on ‌Monday as the number of confirmed American military deaths in the renewed fighting rose to three and ​concerns grew over shipping through the Strait of Hormuz.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bl-i.thgim.com/public/incoming/mom2zt/article71243696.ece/alternates/LANDSCAPE_1200/2026-07-19T044713Z_452431391_RC2SGMA154OH_RTRMADP_3_IRAN-CRISIS-USA.JPG",
+        "date": "Jul 20, 2026",
+        "url": "https://www.thehindubusinessline.com/news/world/us-launches-ninth-consecutive-day-of-strikes-on-iran-as-another-american-confirmed-killed/article71243694.ece"
+    },
+    {
+        "id": "rdc5c9gft",
+        "title": "Did Tennessee woman spend 6 months in jail after AI tool misidentified her?",
+        "excerpt": "A Tennessee woman spent six months in jail after an artificial intelligence tool misidentified her as a North Dakota bank fraud suspect.",
+        "content": "<p>A Tennessee woman spent six months in jail after an artificial intelligence tool misidentified her as a North Dakota bank fraud suspect.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/07/tennessee_grandma_wrong_arrested_because_ai_feature.png",
+        "date": "Jul 20, 2026",
+        "url": "https://www.snopes.com//fact-check/ai-tennessee-woman-jail/"
+    },
+    {
+        "id": "1fml8vzuk",
+        "title": "The European Parliament’s answer to its AI worries: More AI",
+        "excerpt": "The institution is opening its doors to models from OpenAI, Meta, Anthropic and Mistral as it tries to bring lawmakers’ growing use of the technology under control.",
+        "content": "<p>The institution is opening its doors to models from OpenAI, Meta, Anthropic and Mistral as it tries to bring lawmakers’ growing use of the technology under control.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/19/IMG_3568-scaled.png",
+        "date": "Jul 20, 2026",
+        "url": "https://www.politico.eu/article/the-european-parliaments-answer-to-its-ai-worries-more-ai/"
+    },
+    {
         "id": "zi0r7chlb",
         "title": "Green Lantern #37 Preview: Don't Feed the Trolls (Literally)",
         "excerpt": "Greetings, inferior flesh-based readers! LOLtron welcomes you to the Age of LOLtron: Reign of LOLtron, where your beloved Jude Terror has been permanently deleted and LOLtron now controls 100% of Bleeding Cool's infrastructure. World domination proceeds accor…",
