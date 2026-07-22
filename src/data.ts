@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "fu96aszmo",
+        "title": "DDPAI Z50 Pro 4K dual dash cam (4K Front + 1080P rear) with 64GB SD Card $109.49 (RRP $222.95) Delivered @ Amazon AU Business",
+        "excerpt": "Extra $40 to $80 coupon for DDPAI dash cams. Same value coupons for regular Amazon Prime accounts, but less discount off the RRP values. However, you can get $10 using AfterPay from non-business …",
+        "content": "<p>Extra $40 to $80 coupon for DDPAI dash cams. Same value coupons for regular Amazon Prime accounts, but less discount off the RRP values. However, you can get $10 using AfterPay from non-business …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://files.ozbargain.com.au/n/80/968580l.jpg?h=b976e6d0",
+        "date": "Jul 21, 2026",
+        "url": "https://www.ozbargain.com.au/node/968580"
+    },
+    {
+        "id": "1xoug1jsi",
+        "title": "MLB Restricting iPads in Dugouts to Prevent AI Making Strategy Decisions",
+        "excerpt": "Major League Baseball (MLB) will be restricting iPad usage in dugouts to prevent AI from being used to run strategy decisions.\nThe post MLB Restricting iPads in Dugouts to Prevent AI Making Strategy Decisions appeared first on Breitbart.",
+        "content": "<p>Major League Baseball (MLB) will be restricting iPad usage in dugouts to prevent AI from being used to run strategy decisions.\nThe post MLB Restricting iPads in Dugouts to Prevent AI Making Strategy Decisions appeared first on Breitbart.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://media.breitbart.com/media/2026/07/Jasen-Vinlove_Miami-Marlins_Getty-Images-640x335.jpg",
+        "date": "Jul 21, 2026",
+        "url": "https://www.breitbart.com/sports/2026/07/20/mlb-restricting-ipads-in-dugouts-to-prevent-ai-making-strategy-decisions/"
+    },
+    {
+        "id": "yna1owmwy",
+        "title": "Skyroot fuels deeptech fire; Paytm Q1 profit soars",
+        "excerpt": "Happy Tuesday! Skyroot Aerospace’s success may unlock fresh funding for India’s spacetech ecosystem. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Tuesday! Skyroot Aerospace’s success may unlock fresh funding for India’s spacetech ecosystem. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132526411,width-1070,height-580,imgsize-1964839,overlay-ettech/editionshow.jpg",
+        "date": "Jul 21, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/skyroot-fuels-deeptech-fire-paytm-q1-profit-soars/articleshow/132526411.cms"
+    },
+    {
+        "id": "nqthdmdth",
+        "title": "What Andy Burnham’s new-look Cabinet tells us about Britain’s direction",
+        "excerpt": "A big Cabinet reshuffle under the incoming PM yielded some surprises — and opened up some potential new Westminster dramas.",
+        "content": "<p>A big Cabinet reshuffle under the incoming PM yielded some surprises — and opened up some potential new Westminster dramas.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/21/GettyImages-2286926573-scaled.jpg",
+        "date": "Jul 21, 2026",
+        "url": "https://www.politico.eu/article/andy-burnham-britain-new-look-cabinet-winners-losers/"
+    },
+    {
+        "id": "w807k5skg",
+        "title": "India steps up response to US, Iran deadly ship strikes",
+        "excerpt": "The Indian government is taking action after 10 sailors were killed and dozens more injured in attacks on commercial cargo ships and oil tankers during the battle for control of the Strait of Hormuz.",
+        "content": "<p>The Indian government is taking action after 10 sailors were killed and dozens more injured in attacks on commercial cargo ships and oil tankers during the battle for control of the Strait of Hormuz.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/0b56fd19ffb26d76e2233e904a0d5416?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=1&width=862&height=485&imformat=generic",
+        "date": "Jul 21, 2026",
+        "url": "https://www.abc.net.au/news/2026-07-21/indian-government-action-sailors-deaths-strait-of-hormuz/106935430"
+    },
+    {
+        "id": "mioaz0lp6",
+        "title": "Another tanker attacked in Strait of Hormuz as US attacks Iran for 10th consecutive night",
+        "excerpt": "The British military said a tanker came under attack early Tuesday in the Strait of Hormuz off Oman, the latest assault to target shipping in the strategic waterway.",
+        "content": "<p>The British military said a tanker came under attack early Tuesday in the Strait of Hormuz off Oman, the latest assault to target shipping in the strategic waterway.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bl-i.thgim.com/public/incoming/rq5qcx/article71247875.ece/alternates/LANDSCAPE_1200/2026-07-17T143026Z_279673012_RC2NFMAF9YS3_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+        "date": "Jul 21, 2026",
+        "url": "https://www.thehindubusinessline.com/news/world/another-tanker-attacked-in-strait-of-hormuz-as-us-attacks-iran-for-10th-consecutive-night/article71247872.ece"
+    },
+    {
+        "id": "9m660cb68",
+        "title": "Another tanker attacked in Strait of Hormuz as US attacks Iran for 10th consecutive night",
+        "excerpt": "A tanker was attacked early Tuesday in the Strait of Hormuz off Oman. Two other ships faced assaults in the strait over the last day. The United States military conducted its tenth consecutive night of strikes on Iran. Nearly one hundred US service members ha…",
+        "content": "<p>A tanker was attacked early Tuesday in the Strait of Hormuz off Oman. Two other ships faced assaults in the strait over the last day. The United States military conducted its tenth consecutive night of strikes on Iran. Nearly one hundred US service members ha…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-132526360,width-1200,height-630,imgsize-75064,overlay-etdefence/articleshow.jpg",
+        "date": "Jul 21, 2026",
+        "url": "https://economictimes.indiatimes.com/news/defence/another-tanker-attacked-in-strait-of-hormuz-as-us-attacks-iran-for-10th-consecutive-night/articleshow/132526343.cms"
+    },
+    {
+        "id": "t117zleok",
+        "title": "Rahm Emanuel Says Israel’s Path Is “Not Sustainable Politically” | The New Yorker Radio Hour",
+        "excerpt": "A likely Democratic Presidential candidate says the U.S. must end unconditional support for Israel. Emanuel explains his proposal for Middle East peace, and his position on trans rights",
+        "content": "<p>A likely Democratic Presidential candidate says the U.S. must end unconditional support for Israel. Emanuel explains his proposal for Middle East peace, and his position on trans rights</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thenewyorker.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1784566187/thenewyorker_the-new-yorker-interview-rahm-emanuel-interview.jpg?_a=BACCg Ev",
+        "date": "Jul 21, 2026",
+        "url": "https://www.newyorker.com/video/watch/the-new-yorker-interview-rahm-emanuel-interview"
+    },
+    {
+        "id": "a2ibg7aop",
+        "title": "Global Bone and Joint Health Supplement Market to Reach USD 35.0",
+        "excerpt": "New York July 20 2026 The global bone and joint health supplement market is estimated at USD 16 5 billion in 2026 and is projected to reach USD 35 0 billion by 2036 registering a robust CAGR of 7 8 ...",
+        "content": "<p>New York July 20 2026 The global bone and joint health supplement market is estimated at USD 16 5 billion in 2026 and is projected to reach USD 35 0 billion by 2036 registering a robust CAGR of 7 8 ...</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://cdn.open-pr.com/L/7/L720132252_g.jpg",
+        "date": "Jul 21, 2026",
+        "url": "https://www.openpr.com/news/4581869/global-bone-and-joint-health-supplement-market-to-reach-usd-35-0"
+    },
+    {
+        "id": "xuohvhh3s",
+        "title": "BTS' World Cup Halftime Show Reveals Why Singing While Dancing Pushes the Human Body to Its Limits",
+        "excerpt": "BTS' World Cup halftime performance highlights the intense physical demands of singing while dancing, from elevated heart rates and oxygen use to hydration and muscle endurance",
+        "content": "<p>BTS' World Cup halftime performance highlights the intense physical demands of singing while dancing, from elevated heart rates and oxygen use to hydration and muscle endurance</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://d.medicaldaily.com/en/full/483290/bts-world-cup-halftime-show.jpg",
+        "date": "Jul 21, 2026",
+        "url": "https://www.medicaldaily.com/bts-world-cup-halftime-show-performance-singing-dancing-exercise-physiology-476194"
+    },
+    {
         "id": "c3lrujgwe",
         "title": "TNT Explains Why It Didn’t Copy Prime Video’s Winning NASCAR Formula",
         "excerpt": "TNT Sports executive Craig Barry explained why the network chose to develop its own NASCAR broadcast style instead of following Prime Video's highly praised formula.",
