@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "8srkcs304",
+        "title": "Returning to Play Safely: Angel Reese's Recent Knee Injury and Why Medical Clearance Involves More Than Feeling Better",
+        "excerpt": "Angel Reese's knee injury highlights why medical clearance is essential before returning to play. Read all about knee injuries, recovery, treatment, and risks.",
+        "content": "<p>Angel Reese's knee injury highlights why medical clearance is essential before returning to play. Read all about knee injuries, recovery, treatment, and risks.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://d.medicaldaily.com/en/full/483326/angel-reese.jpg",
+        "date": "Jul 22, 2026",
+        "url": "https://www.medicaldaily.com/angel-reese-knee-injury-medical-clearance-return-play-476229"
+    },
+    {
+        "id": "g04onpqdz",
+        "title": "France to become first EU nation to ban social media for children under 15",
+        "excerpt": "French lawmakers today voted in favor of banning social media use for children under the age of 15, making it the first nation in the European Union to introduce an age limit in line with legislation that is slowly taking hold globally. President Emmanuel Mac…",
+        "content": "<p>French lawmakers today voted in favor of banning social media use for children under the age of 15, making it the first nation in the European Union to introduce an age limit in line with legislation that is slowly taking hold globally. President Emmanuel Mac…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/prabhat-saurav-F1AqbXKfiTE-unsplash.jpg",
+        "date": "Jul 22, 2026",
+        "url": "https://siliconangle.com/2026/07/21/france-become-first-eu-nation-ban-social-media-children-15/"
+    },
+    {
+        "id": "bz80y955p",
+        "title": "Rupee rebound bets vanish as soaring crude blunts inflows",
+        "excerpt": "What makes the Indian currency more vulnerable than some of its Asian peers is the country’s reliance on imported energy and its ripple effect on the broader economy.",
+        "content": "<p>What makes the Indian currency more vulnerable than some of its Asian peers is the country’s reliance on imported energy and its ripple effect on the broader economy.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-132549705,width-1200,height-630,imgsize-925125,overlay-etmarkets/articleshow.jpg",
+        "date": "Jul 22, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rebound-bets-vanish-as-soaring-crude-blunts-inflows/articleshow/132549636.cms"
+    },
+    {
+        "id": "eddk46qty",
+        "title": "Bank of America Equips Customer Service Reps With Gen AI",
+        "excerpt": "Bank of America has added new generative artificial intelligence capabilities to EricaAssist, an AI agent that works alongside the bank’s customer service representatives during calls. The new AI capabilities enable EricaAssist to deliver relevant insights in…",
+        "content": "<p>Bank of America has added new generative artificial intelligence capabilities to EricaAssist, an AI agent that works alongside the bank’s customer service representatives during calls. The new AI capabilities enable EricaAssist to deliver relevant insights in…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.pymnts.com/wp-content/uploads/2025/01/Bank-of-America-5.jpg",
+        "date": "Jul 22, 2026",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bank-of-america-equips-customer-service-reps-with-gen-ai/"
+    },
+    {
+        "id": "35qgh8jyo",
+        "title": "Nvidia Vera Rubin: Inside the agentic AI factory that rewrites the CPU playbook",
+        "excerpt": "On the surface, this week’s Vera Rubin launch is another major platform moment for Nvidia Corp., as the company maintains a steady drumbeat of artificial intelligence infrastructure innovation. Nvidia is positioning Vera Rubin as a full-stack system designed …",
+        "content": "<p>On the surface, this week’s Vera Rubin launch is another major platform moment for Nvidia Corp., as the company maintains a steady drumbeat of artificial intelligence infrastructure innovation. Nvidia is positioning Vera Rubin as a full-stack system designed …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/veracpu.png",
+        "date": "Jul 22, 2026",
+        "url": "https://siliconangle.com/2026/07/21/nvidia-vera-rubin-inside-agentic-ai-factory-rewrites-cpu-playbook/"
+    },
+    {
+        "id": "6cy5j7wex",
+        "title": "A once wary Hollywood slowly warms to AI",
+        "excerpt": "Once wary of artificial intelligence, Hollywood is now striking up partnerships with AI start-ups.\nThe post A once wary Hollywood slowly warms to AI appeared first on Digital Journal.",
+        "content": "<p>Once wary of artificial intelligence, Hollywood is now striking up partnerships with AI start-ups.\nThe post A once wary Hollywood slowly warms to AI appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/07/370360ecebafe3cea747dbfe248de284dcd4cdc8.jpg",
+        "date": "Jul 22, 2026",
+        "url": "https://www.digitaljournal.com/article/a-once-wary-hollywood-slowly-warms-to-ai/"
+    },
+    {
+        "id": "t11cjvz10",
+        "title": "Mistral AI strikes multibillion deal with Microsoft to build out Azure infrastructure in Europe",
+        "excerpt": "French artificial intelligence startup Mistral AI SAS has struck a multibillion-dollar deal with Microsoft Corp. to expand its computing infrastructure in Europe and increase the availability of its top large language models in the U.S. In an announcement tod…",
+        "content": "<p>French artificial intelligence startup Mistral AI SAS has struck a multibillion-dollar deal with Microsoft Corp. to expand its computing infrastructure in Europe and increase the availability of its top large language models in the U.S. In an announcement tod…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-22-09-01-45.png",
+        "date": "Jul 22, 2026",
+        "url": "https://siliconangle.com/2026/07/21/mistral-ai-strikes-multibillion-deal-microsoft-build-azure-infrastructure-europe/"
+    },
+    {
+        "id": "afyths9u8",
+        "title": "Indian Rupee Falters as Rising Oil Prices Drain Expected Inflows",
+        "excerpt": "A rebound in crude prices has erased hopes that fresh capital inflows would prop up the rupee, leaving the currency vulnerable to further weakness.",
+        "content": "<p>Oil prices have climbed again, pushing Brent crude above $85 a barrel and reviving concerns about India's import bill.</p><p>The rise threatens to widen the current account deficit and puts pressure on the rupee, which had been gaining on expectations of tens of billions of dollars in new foreign portfolio inflows.</p><p>Market analysts quoted by Bloomberg said the anticipated inflows have all but vanished as investors shy away amid higher energy costs.</p><p>One strategist noted, \"The rupee's recent gains were built on a flow narrative that is now evaporating,\" underscoring the shift in sentiment.</p><p>Traders expect the Reserve Bank of India to monitor the situation closely, possibly intervening to curb excessive volatility, while policymakers watch for any impact on inflation and growth prospects.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/rupee-pares-gains-from-forex-steps-closes-in-on-record-low.jpg",
+        "date": "Jul 22, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/indian-rupee-rebound-bets-vanish-as-soaring-crude-blunts-inflows"
+    },
+    {
+        "id": "1fc3jta7g",
+        "title": "Dimension Capital's $800M third fund shows the intersection of science and compute is booming | TechCrunch",
+        "excerpt": "Dimension Capital's $800M third fund shows the intersection of science and compute is booming | TechCrunchtechcrunch.com",
+        "content": "<p>Dimension Capital's $800M third fund shows the intersection of science and compute is booming | TechCrunchtechcrunch.com</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/MP_2381-2.jpg?resize=1200,800",
+        "date": "Jul 22, 2026",
+        "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/"
+    },
+    {
+        "id": "nb0mlfcvx",
+        "title": "Ouster Of Defense Minister Jeopardizes Ukraine’s Drone War Victories",
+        "excerpt": "President Volodymyr Zelensky’s ouster of his longtime tech wizard, Mykhailo Fedorov, as defense minister could halt Ukraine’s striking rise in drone and robotic warfare.",
+        "content": "<p>President Volodymyr Zelensky’s ouster of his longtime tech wizard, Mykhailo Fedorov, as defense minister could halt Ukraine’s striking rise in drone and robotic warfare.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5ffcc5ff22c8ec2b4027ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "Jul 22, 2026",
+        "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/07/21/ouster-of-defense-minister-jeopardizes-ukraines-drone-war-victories/"
+    },
+    {
         "id": "fu96aszmo",
         "title": "DDPAI Z50 Pro 4K dual dash cam (4K Front + 1080P rear) with 64GB SD Card $109.49 (RRP $222.95) Delivered @ Amazon AU Business",
         "excerpt": "Extra $40 to $80 coupon for DDPAI dash cams. Same value coupons for regular Amazon Prime accounts, but less discount off the RRP values. However, you can get $10 using AfterPay from non-business …",
