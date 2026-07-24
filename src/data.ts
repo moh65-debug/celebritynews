@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "p8777q9tv",
+        "title": "AI infrastructure demand is outrunning even the boldest supply chain playbooks",
+        "excerpt": "AI infrastructure buildouts are moving so fast that plans made just months ago are already obsolete, forcing hardware makers to rewrite how they design, source and ship the systems powering the next generation of AI factories. The shift from single-shot retri…",
+        "content": "<p>AI infrastructure buildouts are moving so fast that plans made just months ago are already obsolete, forcing hardware makers to rewrite how they design, source and ship the systems powering the next generation of AI factories. The shift from single-shot retri…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/VikMalyalaThumbCLEAN.jpg",
+        "date": "Jul 23, 2026",
+        "url": "https://siliconangle.com/2026/07/22/ai-infrastructure-demands-configurable-rack-scale-compute-amdadvancingai/"
+    },
+    {
+        "id": "50uuw1s9p",
+        "title": "Asian stocks rise after US tech earnings, oil at six-week highs",
+        "excerpt": "Google nearly doubles AI infrastructure spending as Q2 tops estimates\nBy Ankur Banerjee\nSINGAPORE, July 23 (Reuters) - Asian stocks rose on Thursday after U.S. technology firms outlined significant capital spending plans that are likely to benefit chipmakers …",
+        "content": "<p>Google nearly doubles AI infrastructure spending as Q2 tops estimates\nBy Ankur Banerjee\nSINGAPORE, July 23 (Reuters) - Asian stocks rose on Thursday after U.S. technology firms outlined significant capital spending plans that are likely to benefit chipmakers …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/23df6a1b7f5209cc_s.webp",
+        "date": "Jul 23, 2026",
+        "url": "https://biztoc.com/x/23df6a1b7f5209cc"
+    },
+    {
+        "id": "o1b5oyvvo",
+        "title": "Samsung Galaxy Z Fold 9: Everything we know so far and everything we hope to see",
+        "excerpt": "Samsung has been experimenting with lots of different folding form factors lately, meaning the Galaxy Z Fold 9 could bring the most exciting options ever.",
+        "content": "<p>Samsung has been experimenting with lots of different folding form factors lately, meaning the Galaxy Z Fold 9 could bring the most exciting options ever.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/m8iSmg9MZifcwcQJU5acfc-2000-80.jpg",
+        "date": "Jul 23, 2026",
+        "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-9"
+    },
+    {
+        "id": "x7kih70a3",
+        "title": "Hughes' Stellar Start Good News for Rockies",
+        "excerpt": "Despite losing to the Washington Nationals, the Colorado Rockies watched starter Gabriel Hughes go out and deliver in a really smart way.",
+        "content": "<p>Despite losing to the Washington Nationals, the Colorado Rockies watched starter Gabriel Hughes go out and deliver in a really smart way.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/wLHU.Lq2tiy0SRI6Qncmhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/roundtable_sports_colorado_rockies_680/d272c0bb579d0915b139d4d4a445ae9b",
+        "date": "Jul 23, 2026",
+        "url": "https://roundtable.io/sports/mlb/rockies/news/hughes-stellar-start-good-news-for-rockies"
+    },
+    {
+        "id": "ctm9l16t2",
+        "title": "The great cricket vs. baseball debate",
+        "excerpt": "Fans weigh in on the bat-and-ball sports, comparing the unique rules, cultural impact, and technical difficulties of both.",
+        "content": "<p>Fans weigh in on the bat-and-ball sports, comparing the unique rules, cultural impact, and technical difficulties of both.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/0a607c5d637d9d5d0cf416cf1c030c646919faa36bc7a145ffd45a5fcb069d9a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freddit_908%2Ffb234ad23c71ff1692d2aa1f06ce92c6",
+        "date": "Jul 23, 2026",
+        "url": "https://www.reddit.com/discover/cricket-vs-baseball-discourse/?q=cricket+vs+baseball+discourse&amp;source=trending&amp;utm_source=syndication&amp;utm_medium=yahoo_news&amp;utm_content=cricket-vs-baseball-discourse"
+    },
+    {
+        "id": "jadw1vi4n",
+        "title": "Why do American kids play soccer, but so few adults watch it?",
+        "excerpt": "In the U.S., many kids play soccer, but few adults follow pro matches. People debate why the sport is widely played but overlooked at the professional level.",
+        "content": "<p>In the U.S., many kids play soccer, but few adults follow pro matches. People debate why the sport is widely played but overlooked at the professional level.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/78d9ae75726a1dbd2e5cc942dc2bd3b5d3620c01de564175c99f6ffebad87630/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freddit_908%2Fdb477cde255c7bbeae2118d74b5bc8e5",
+        "date": "Jul 23, 2026",
+        "url": "https://www.reddit.com/discover/why-is-soccer-such-a-popular-youth-sport-while-being-an-unpopular-spectator-sport-in-america/?q=why+is+soccer+such+a+popular+youth+sport+while+being+an+unpopular+spectator+sport+in+america&amp;source=trending&amp;utm_source=syndication&amp;utm_medium=yahoo_news&amp;utm_content=why-is-soccer-such-a-popular-youth-sport-while-being-an-unpopular-spectator-sport-in-america"
+    },
+    {
+        "id": "xyjlgeb5g",
+        "title": "Milwaukee food safety inspections at Night Park part of daily process",
+        "excerpt": "The Milwaukee Health Department said it cannot specifically check for Cyclospora, but inspectors do work with state and federal partners to monitor recalls.",
+        "content": "<p>The Milwaukee Health Department said it cannot specifically check for Cyclospora, but inspectors do work with state and federal partners to monitor recalls.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2026/07/1200/630/9p-health-dept-at-night-market-vo_00.00.58.38.jpg?ve=1&tl=1",
+        "date": "Jul 23, 2026",
+        "url": "https://www.fox6now.com/news/milwaukee-night-market-food-safety-inspections"
+    },
+    {
+        "id": "wromah1yh",
+        "title": "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
+        "excerpt": "With Lula polling ahead and tariffs squeezing Brazil's economy, the Bolsonaro family's Washington strategy is faltering.",
+        "content": "<p>With Lula polling ahead and tariffs squeezing Brazil's economy, the Bolsonaro family's Washington strategy is faltering.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26060744501985-1783872253.jpg?resize=1920%2C1440",
+        "date": "Jul 23, 2026",
+        "url": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections"
+    },
+    {
+        "id": "yc5z4g54h",
+        "title": "US carrying out new wave of Iran strikes as military attacks Islamic Republic for 12th straight night",
+        "excerpt": "The US military announced Wednesday that it was conducting a 12th night of strikes against Iran as both sides increasingly targeted civilian infrastructure.",
+        "content": "<p>The US military announced Wednesday that it was conducting a 12th night of strikes against Iran as both sides increasingly targeted civilian infrastructure.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135227982.jpg?quality=75&strip=all&w=1200",
+        "date": "Jul 23, 2026",
+        "url": "https://nypost.com/2026/07/22/world-news/us-carrying-out-new-wave-of-iran-strikes-as-military-attacks-islamic-republic-for-12th-straight-night/"
+    },
+    {
+        "id": "kxpt1bwqv",
+        "title": "The future of peptides in the US is about to become clearer. Here’s what you should know",
+        "excerpt": "By Jacqueline Howard, CNN (CNN) — A little-known advisory group to the US Food and Drug Administration will meet this week to mull over whether to ease restrictions on certain peptides. The injectables are popular among wellness influencers and some doctors, …",
+        "content": "<p>By Jacqueline Howard, CNN (CNN) — A little-known advisory group to the US Food and Drug Administration will meet this week to mull over whether to ease restrictions on certain peptides. The injectables are popular among wellness influencers and some doctors, …</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://kesq.b-cdn.net/2026/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJwYWZoZDAwMDAzM2I2cjJ2c242M2pj-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcnA1cjJxbjAwMHkyOHA4NXdtZWd4a3U-860x573.jpg",
+        "date": "Jul 23, 2026",
+        "url": "https://kesq.com/health/cnn-health/2026/07/22/the-future-of-peptides-in-the-us-is-about-to-become-clearer-heres-what-you-should-know/"
+    },
+    {
         "id": "8srkcs304",
         "title": "Returning to Play Safely: Angel Reese's Recent Knee Injury and Why Medical Clearance Involves More Than Feeling Better",
         "excerpt": "Angel Reese's knee injury highlights why medical clearance is essential before returning to play. Read all about knee injuries, recovery, treatment, and risks.",
