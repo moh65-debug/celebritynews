@@ -12,6 +12,122 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "jiofqt9dx",
+        "title": "EU penalises Google €890m for breaking antitrust regulations",
+        "excerpt": "Europe News: The European Union (EU) on Thursday hit Google with a fine of ₹890 million after it said the technology behemoth broke digital antitrust regulations b.",
+        "content": "<p>Europe News: The European Union (EU) on Thursday hit Google with a fine of ₹890 million after it said the technology behemoth broke digital antitrust regulations b.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-132594816,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Jul 24, 2026",
+        "url": "https://timesofindia.indiatimes.com/world/europe/eu-penalises-google-890m-for-breaking-antitrust-regulations/articleshow/132594811.cms"
+    },
+    {
+        "id": "n6emlzakz",
+        "title": "Japan's Nikkei falls more than 2% on AI spending worries",
+        "excerpt": "Japan's Nikkei share average dropped more than two percent on Friday. This decline was spurred by concerns over heavy artificial intelligence spending. Google parent Alphabet's shares sank significantly overnight, impacting global markets. Chip-related shares…",
+        "content": "<p>Japan's Nikkei share average dropped more than two percent on Friday. This decline was spurred by concerns over heavy artificial intelligence spending. Google parent Alphabet's shares sank significantly overnight, impacting global markets. Chip-related shares…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132594834,width-1200,height-630,imgsize-131744,overlay-etmarkets/articleshow.jpg",
+        "date": "Jul 24, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-falls-more-than-2-on-ai-spending-worries/articleshow/132594822.cms"
+    },
+    {
+        "id": "fgxpqn2qw",
+        "title": "Should Scientists Have Research \"Reserves\" on the Moon?",
+        "excerpt": "The worlds of the Solar System offer up exciting and (so far) mostly pristine places for planetary scientists to study. As space missions continue to travel to Mars, Europa, asteroids, and other worlds, questions keep coming up about keeping them safe for con…",
+        "content": "<p>The worlds of the Solar System offer up exciting and (so far) mostly pristine places for planetary scientists to study. As space missions continue to travel to Mars, Europa, asteroids, and other worlds, questions keep coming up about keeping them safe for con…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.universetoday.com/article_images/Far_side_of_the_Moon_20260724_014558.png",
+        "date": "Jul 24, 2026",
+        "url": "https://www.universetoday.com/articles/should-scientists-have-research-reserves-on-the-moon"
+    },
+    {
+        "id": "r55qcmesy",
+        "title": "Chrisland graduates 327, celebrates 16 UTME high scorers",
+        "excerpt": "Chrisland Schools celebrates the graduation of 327 students and 16 high scorers in the 2026 UTME, including Eze Somtobena with 362. Discover their success!\n\nRead More: https://punchng.com/chrisland-graduates-327-celebrates-16-utme-high-scorers/",
+        "content": "<p>Chrisland Schools celebrates the graduation of 327 students and 16 high scorers in the 2026 UTME, including Eze Somtobena with 362. Discover their success!\n\nRead More: https://punchng.com/chrisland-graduates-327-celebrates-16-utme-high-scorers/</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://punchng.com/wp-content/uploads/2026/07/Chrisland-graduation_1784857541.webp",
+        "date": "Jul 24, 2026",
+        "url": "https://punchng.com/chrisland-graduates-327-celebrates-16-utme-high-scorers/"
+    },
+    {
+        "id": "rqkv4v5wz",
+        "title": "China's largest memory chipmaker sparks fears of a cash drain before blockbuster IPO",
+        "excerpt": "CXMT is stoking fears that its blockbuster stock market debut could pull cash from China's equities.",
+        "content": "<p>CXMT is stoking fears that its blockbuster stock market debut could pull cash from China's equities.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://image.cnbcfm.com/api/v1/image/108312364-1779878364667-gettyimages-2277415878-TFSPI_23052026-5551.jpeg?v=1779878377&w=1920&h=1080",
+        "date": "Jul 24, 2026",
+        "url": "https://www.cnbc.com/2026/07/24/cxmt-china-ipo-listing-chip-memory.html"
+    },
+    {
+        "id": "wd367w5z9",
+        "title": "Nikkei Drops Over 2% as Alphabet Slide Fuels AI Spending Fears",
+        "excerpt": "Japan's benchmark index fell sharply on Friday after Alphabet's share decline raised worries about excessive artificial intelligence investment.",
+        "content": "<p>Japan's Nikkei share average fell more than 2 percent on Friday, closing at 64,634.04 points, a decline of 2.69 percent as of 0112 GMT.</p><p>The drop was triggered by a sharp fall in Alphabet Inc.'s shares, which reacted to concerns that the company is committing too much capital to artificial intelligence projects.</p><p>Analysts said the selloff reflected broader unease about the sustainability of AI spending across the tech sector, with one noting that 'investors are questioning whether the current pace of AI capex can be justified by near‑term returns.'</p><p>Market observers warned that the Nikkei's tech‑heavy composition could see further pressure if AI-related earnings disappoint, while Japanese chip makers and software firms might also feel the impact.</p><p>Looking ahead, traders will watch upcoming earnings reports from major AI players and any signals from the Bank of Japan regarding monetary policy, as both could sway sentiment toward high‑growth technology stocks.</p>",
+        "celebrities": [
+            "Nikkei",
+            "Alphabet",
+            "Tokyo",
+            "Japan",
+            "Reuters"
+        ],
+        "category": "Tech",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--IBL9iX8T--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-24T015731Z_1_LYNXMPEM6N03P_RTROPTP_3_JAPAN-COMPANY-JPX.JPG?itok=ipfoXYap",
+        "date": "Jul 24, 2026",
+        "url": "https://www.channelnewsasia.com/business/japans-nikkei-falls-more-2-ai-spending-worries-6275061"
+    },
+    {
+        "id": "lhovh0lp",
+        "title": "Trump under pressure from all sides over Chinese AI surge",
+        "excerpt": "Open source, or open-weight, models cost less and use source code that programmers can customize.\nThe post Trump under pressure from all sides over Chinese AI surge appeared first on Digital Journal.",
+        "content": "<p>Open source, or open-weight, models cost less and use source code that programmers can customize.\nThe post Trump under pressure from all sides over Chinese AI surge appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/07/04335269477edf6eecff840da29daa35d77b23a9.jpg",
+        "date": "Jul 24, 2026",
+        "url": "https://www.digitaljournal.com/article/trump-under-pressure-from-all-sides-over-chinese-ai-surge/"
+    },
+    {
+        "id": "x702vt16v",
+        "title": "Hong Kong connects Malaysian ambition with Asia's growth opportunities",
+        "excerpt": "Malaysian businesses with regional and global ambitions will have an opportunity to connect with Hong Kong business leaders, investors and professional ...",
+        "content": "<p>Malaysian businesses with regional and global ambitions will have an opportunity to connect with Hong Kong business leaders, investors and professional ...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2025/04/20/WhatsApp-Image-2025-04-20-at-17.41.45.jpeg",
+        "date": "Jul 24, 2026",
+        "url": "https://en.antaranews.com/news/423865/hong-kong-connects-malaysian-ambition-with-asias-growth-opportunities"
+    },
+    {
+        "id": "7c19ec55q",
+        "title": "Banana Ball's Sold-Out Return to Hartford Brings Downtown Street Closure Through Sunday, Officials Say",
+        "excerpt": "Banana Ball's World Tour returned to Hartford, selling out Dunkin' Park for three games. The event features unique baseball rules and entertainment, drawing large crowds and causing temporary street closures.",
+        "content": "<p>Banana Ball's World Tour returned to Hartford, selling out Dunkin' Park for three games. The event features unique baseball rules and entertainment, drawing large crowds and causing temporary street closures.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://d.ibtimes.com.au/en/full/1892467/savannah-bananas-bring-banana-ball-sold-out-caesars-superdome.jpg",
+        "date": "Jul 24, 2026",
+        "url": "https://www.ibtimes.com.au/banana-ball-returns-hartford-sold-out-spectacle-1872832"
+    },
+    {
+        "id": "lfo4merpb",
+        "title": "Nigeria needs creative businesses, not artists – Loom Rooms CEO",
+        "excerpt": "Loom Rooms CEO, Shola Bamidele, argues Nigeria needs to build creative businesses and institutions to sustain its success, not just produce artists. Learn\n\nRead More: https://punchng.com/nigeria-needs-creative-businesses-not-artists-loom-rooms-ceo/",
+        "content": "<p>Loom Rooms CEO, Shola Bamidele, argues Nigeria needs to build creative businesses and institutions to sustain its success, not just produce artists. Learn\n\nRead More: https://punchng.com/nigeria-needs-creative-businesses-not-artists-loom-rooms-ceo/</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://punchng.com/wp-content/uploads/2026/07/Shola-Bamidele-CEO-and-founder-of-Looms_1784857022.webp",
+        "date": "Jul 24, 2026",
+        "url": "https://punchng.com/nigeria-needs-creative-businesses-not-artists-loom-rooms-ceo/"
+    },
+    {
         "id": "p8777q9tv",
         "title": "AI infrastructure demand is outrunning even the boldest supply chain playbooks",
         "excerpt": "AI infrastructure buildouts are moving so fast that plans made just months ago are already obsolete, forcing hardware makers to rewrite how they design, source and ship the systems powering the next generation of AI factories. The shift from single-shot retri…",
