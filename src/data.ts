@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "hsedojx6h",
+        "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week",
+        "excerpt": "NEW YORK (AP) — Stocks drifted on Wall Street and oil prices fell for the first time in a week, even as heavy fighting in the Middle East again threatened",
+        "content": "<p>NEW YORK (AP) — Stocks drifted on Wall Street and oil prices fell for the first time in a week, even as heavy fighting in the Middle East again threatened</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/thecanadianpressnews.ca/content/tncms/assets/v3/editorial/e/57/e57220af-ad2b-58d9-b3a5-a9df10bf9cbf/6a62ff63e9c33.image.jpg?crop=1400%2C735%2C0%2C99&resize=1200%2C630&order=crop%2Cresize",
+        "date": "Jul 25, 2026",
+        "url": "https://www.thecanadianpressnews.ca/business/stocks-waver-on-wall-street-while-crude-oil-prices-fall-for-the-first-time-in/article_43c44ad3-b954-5b37-b388-8b60c295df81.html"
+    },
+    {
+        "id": "5lhi9dkhs",
+        "title": "Why AI Won’t Kill Human Creativity (And How Artists Can Survive)",
+        "excerpt": "As an artist, the cycle is brutally familiar: you grind for years, figure out a working model, finally catch your breath… and then a new technology emerges, breaks everything, and forces you to rebuild from scratch. Today, that disruptive force is Artificial …",
+        "content": "<p>As an artist, the cycle is brutally familiar: you grind for years, figure out a working model, finally catch your breath… and then a new technology emerges, breaks everything, and forces you to rebuild from scratch. Today, that disruptive force is Artificial …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://addicted2success.com/wp-content/uploads/2026/07/Creator-in-his-studio-with-canvas-1000x600.jpeg",
+        "date": "Jul 25, 2026",
+        "url": "https://addicted2success.com/creativity/ai-impact-on-creators-human-creativity-survival/"
+    },
+    {
+        "id": "d73795quf",
+        "title": "The father I inherited, the mother who raised me, by Stephanie Shaakaa",
+        "excerpt": "A journey through blood, belonging, and the complicated search for the people who shape us before we even know their names.\nThe post The father I inherited, the mother who raised me, by Stephanie Shaakaa appeared first on Vanguard News.",
+        "content": "<p>A journey through blood, belonging, and the complicated search for the people who shape us before we even know their names.\nThe post The father I inherited, the mother who raised me, by Stephanie Shaakaa appeared first on Vanguard News.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/Stephanie-Shaakaa.jpg",
+        "date": "Jul 25, 2026",
+        "url": "https://www.vanguardngr.com/2026/07/the-father-i-inherited-the-mother-who-raised-me-by-stephanie-shaakaa/"
+    },
+    {
+        "id": "h2v35zc46",
+        "title": "AI Finds Diverse Roles in Relationships",
+        "excerpt": "Generative artificial intelligence is rapidly becoming part of everyday life, with people using conversational systems for everything from relationships and parenting to health concerns and online searches. (News On Japan)",
+        "content": "<p>Generative artificial intelligence is rapidly becoming part of everyday life, with people using conversational systems for everything from relationships and parenting to health concerns and online searches. (News On Japan)</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i2.ytimg.com/vi/ThHsbITZ9ww/maxresdefault.jpg",
+        "date": "Jul 25, 2026",
+        "url": "https://newsonjapan.com/article/150110.php"
+    },
+    {
+        "id": "48zjgz5fp",
+        "title": "AMD moves beyond challenger status in the race for AI platform leadership",
+        "excerpt": "AI hardware competition entered a sharper phase this week as Advanced Micro Devices Inc. used its flagship AI event to argue it isn’t merely chasing Nvidia Corp. — it intends to lead the market outright. The shift marks a departure from years of AMD positioni…",
+        "content": "<p>AI hardware competition entered a sharper phase this week as Advanced Micro Devices Inc. used its flagship AI event to argue it isn’t merely chasing Nvidia Corp. — it intends to lead the market outright. The shift marks a departure from years of AMD positioni…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_0033-e1784944933336.jpg",
+        "date": "Jul 25, 2026",
+        "url": "https://siliconangle.com/2026/07/24/ai-hardware-competition-heats-amdadvancingai/"
+    },
+    {
+        "id": "0zc1xcf0k",
+        "title": "The hardest people to walk away from aren’t always the obviously toxic ones, according to two studies: research found people’s blood pressure spiked highest specifically around “ambivalent” friends, sometimes warm and sometimes upsetting, more than around consistently negative ones, and a separate study found one person’s negative mood spread through an entire group just as powerfully as a positive mood did",
+        "excerpt": "The people draining your health most might not be the obvious villains—they're the ones who keep you guessing.\nThe post The hardest people to walk away from aren’t always the obviously toxic ones, according to two studies: research found people’s blood pressu…",
+        "content": "<p>The people draining your health most might not be the obvious villains—they're the ones who keep you guessing.\nThe post The hardest people to walk away from aren’t always the obviously toxic ones, according to two studies: research found people’s blood pressu…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://artfulparent.com/wp-content/uploads/2026/07/walk-away-featured.jpg",
+        "date": "Jul 25, 2026",
+        "url": "https://artfulparent.com/g-the-hardest-people-to-walk-away-from-arent-always-the-obviously-toxic-ones-according-to-two-studies-research-found-peoples-blood-pressure-spiked-highest-specifically-around-ambivalent-friends-someti/"
+    },
+    {
+        "id": "v8mdg2qey",
+        "title": "AMD’s Helios strategy turns the GPU battle into a systems contest",
+        "excerpt": "The market for data center GPUs is evolving beyond individual chip specifications into a contest over fully integrated rack-scale systems. As AI workloads scale into the gigawatt range, buyers increasingly demand validated infrastructure that can be deployed …",
+        "content": "<p>The market for data center GPUs is evolving beyond individual chip specifications into a contest over fully integrated rack-scale systems. As AI workloads scale into the gigawatt range, buyers increasingly demand validated infrastructure that can be deployed …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_9680-e1784943895460.jpg",
+        "date": "Jul 25, 2026",
+        "url": "https://siliconangle.com/2026/07/24/data-center-gpus-accelerate-rack-scale-ai-workloads-amdadvancingai/"
+    },
+    {
+        "id": "cscflnoyq",
+        "title": "6 Power Couples In Period C-Dramas Who Proved They Were Better Together",
+        "excerpt": "There’s nothing more satisfying than watching a brilliant female lead outsmart everyone around her. What makes it truly special is when her greatest ally is the green-flag hero, who allows her to shine and even lead from the front. From court intrigue and pol…",
+        "content": "<p>There’s nothing more satisfying than watching a brilliant female lead outsmart everyone around her. What makes it truly special is when her greatest ally is the green-flag hero, who allows her to shine and even lead from the front. From court intrigue and pol…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://0.soompi.io/wp-content/uploads/2026/07/23162540/Blossoms-in-Adversity-The-First-Jasmine.jpg",
+        "date": "Jul 25, 2026",
+        "url": "http://www.soompi.com/article/1856362wpp/6-power-couples-in-period-c-dramas-who-proved-they-were-better-together"
+    },
+    {
+        "id": "8boqesppy",
+        "title": "Britain’s best dead car companies",
+        "excerpt": "A journey back in time to some of the UK's most excellent car companies, sadly now deceased \n\nCar-making is hard.\r\n\n\r\n\nProfitable car-making is a whole lot harder, and for proof you only need take a look at the failed British car companies we’re looking at he…",
+        "content": "<p>A journey back in time to some of the UK's most excellent car companies, sadly now deceased \n\nCar-making is hard.\r\n\n\r\n\nProfitable car-making is a whole lot harder, and for proof you only need take a look at the failed British car companies we’re looking at he…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/new_0-intro-fighter-2304_2_0_0_0_77.jpg",
+        "date": "Jul 25, 2026",
+        "url": "https://www.autocar.co.uk/car-news/slideshow/britain%E2%80%99s-best-dead-car-companies-72"
+    },
+    {
+        "id": "8c60u0o9b",
+        "title": "8 Sci-Fi RPGs To Scratch Your Mass Effect Itch",
+        "excerpt": "It can be hard to find anything that delivers a comparable experience to the Mass Effect trilogy, but some sci-fi RPGs come surprisingly close.",
+        "content": "<p>It can be hard to find anything that delivers a comparable experience to the Mass Effect trilogy, but some sci-fi RPGs come surprisingly close.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/mass-effect-3-key-art-with-commander-shepard-in-front-of-reapers-descending-on-a-planet.jpg?w=1600&h=900&fit=crop",
+        "date": "Jul 25, 2026",
+        "url": "https://screenrant.com/best-rpgs-like-mass-effect/"
+    },
+    {
         "id": "jiofqt9dx",
         "title": "EU penalises Google €890m for breaking antitrust regulations",
         "excerpt": "Europe News: The European Union (EU) on Thursday hit Google with a fine of ₹890 million after it said the technology behemoth broke digital antitrust regulations b.",
