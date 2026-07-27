@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "csojd6trr",
+        "title": "When Mariner 4 sent back the first close-up of Mars in 1965, the printer was too slow for the engineers waiting on it, so they pinned the raw numbers to a wall and coloured them in with pastels bought from an art shop down the road",
+        "excerpt": "The first photograph of Mars almost never reached the world because a printer was too slow—so NASA scientists grabbed art supplies from a local shop and finished it by hand.\nThe post When Mariner 4 sent back the first close-up of Mars in 1965, the printer was…",
+        "content": "<p>The first photograph of Mars almost never reached the world because a printer was too slow—so NASA scientists grabbed art supplies from a local shop and finished it by hand.\nThe post When Mariner 4 sent back the first close-up of Mars in 1965, the printer was…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/07/1960s-nasa.png",
+        "date": "Jul 26, 2026",
+        "url": "https://spacedaily.com/b-when-mariner-4-sent-back-the-first-close-up-of-mars-in-1965-the-printer-was-too-slow-for-the-engineers-waiting-on-it-so-they-pinned-the-raw-numbers-to-a-wall-and-coloured-them-in-with-pastels-bought/"
+    },
+    {
+        "id": "vqyg2g740",
+        "title": "Op-Ed: The US narrative about Chinese AI distillation theft ignores too many hard realities",
+        "excerpt": "The world needs to learn how to live with emerging AI realities.  A clear direction is what’s needed. Can America deliver?\nThe post Op-Ed: The US narrative about Chinese AI distillation theft ignores too many hard realities appeared first on Digital Journal.",
+        "content": "<p>The world needs to learn how to live with emerging AI realities.  A clear direction is what’s needed. Can America deliver?\nThe post Op-Ed: The US narrative about Chinese AI distillation theft ignores too many hard realities appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/07/a8df035dfb4b742f499927099b34953d90669b24-1.jpg",
+        "date": "Jul 26, 2026",
+        "url": "https://www.digitaljournal.com/article/op-ed-the-us-narrative-about-chinese-ai-distillation-theft-ignores-too-many-hard-realities/"
+    },
+    {
+        "id": "tpjo2g0af",
+        "title": "New Avengers: Doomsday Trailer Reveals Doom's Throne Room & Major Battle",
+        "excerpt": "New updates about Marvel Studios' Avengers: Doomsday have officially been announced at San Diego Comic-Con 2026 ahead of the film's release.",
+        "content": "<p>New updates about Marvel Studios' Avengers: Doomsday have officially been announced at San Diego Comic-Con 2026 ahead of the film's release.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/chris-hemsworth-as-thor-in-avengers-doomsday.png?w=1600&h=900&fit=crop",
+        "date": "Jul 26, 2026",
+        "url": "https://screenrant.com/avengers-doomsday-sdcc-2026/"
+    },
+    {
+        "id": "mq7px77gu",
+        "title": "Vance, Caine raised concerns about escalating war in Iran, sources say as US pauses consecutive nights of strikes",
+        "excerpt": "Vice President JD Vance and Chairman of the Joint Chiefs of Staff Gen. Dan Caine both raised concerns about escalating the war in Iran as President Donald Trump weighed the possibility during a White House meeting on Friday, a source familiar with the matter …",
+        "content": "<p>Vice President JD Vance and Chairman of the Joint Chiefs of Staff Gen. Dan Caine both raised concerns about escalating the war in Iran as President Donald Trump weighed the possibility during a White House meeting on Friday, a source familiar with the matter …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-07t204221z-74407929-rc2wzjatbv9a-rtrmadp-3-iran-crisis-transfer-usa.jpg?c=16x9&q=w_800,c_fill",
+        "date": "Jul 26, 2026",
+        "url": "https://www.cnn.com/2026/07/25/politics/us-iran-strikes-operation"
+    },
+    {
+        "id": "cagp6w6vj",
+        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others | TechCrunch",
+        "excerpt": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "content": "<p>A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
+        "date": "Jul 26, 2026",
+        "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+    },
+    {
+        "id": "5otwkwllv",
+        "title": "Wes Streeting follows Ed Miliband in trying to rebuild bridges with Donald Trump's US government in new 'charm offensive' after previous attacks",
+        "excerpt": "In a post on X, new Defence Secretary Mr Streeting said he had a 'good first call' with the US Secretary of State for War Pete Hegseth.",
+        "content": "<p>In a post on X, new Defence Secretary Mr Streeting said he had a 'good first call' with the US Secretary of State for War Pete Hegseth.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://i.dailymail.com/1s/2026/07/26/01/110255245-0-image-m-40_1785027149848.jpg",
+        "date": "Jul 26, 2026",
+        "url": "https://www.dailymail.com/news/article-16005425/Wes-Streeting-Ed-Miliband-Donald-Trumps-US.html"
+    },
+    {
+        "id": "wq4vfkddt",
+        "title": "Barefoot Investor's blunt message over fears Albo will raid Aussie super accounts: 'Hands off'",
+        "excerpt": "Scott Pape said worried readers had flooded his inbox over fears some politicians could seek greater influence over how retirement savings are invested.",
+        "content": "<p>Scott Pape said worried readers had flooded his inbox over fears some politicians could seek greater influence over how retirement savings are invested.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://i.dailymail.com/1s/2026/07/26/01/110255289-0-image-m-57_1785027203025.jpg",
+        "date": "Jul 26, 2026",
+        "url": "https://www.dailymail.com/news/article-16005295/Barefoot-Investor-super-Anthony-Albanese.html"
+    },
+    {
+        "id": "ohfbah9v3",
+        "title": "Global stock market cap hits $166 trillion, reaching 137% of global GDP near record territory",
+        "excerpt": "Global stock market cap hits $166 trillion at 137% of GDP, driven by $27 trillion in AI gains. Here's what the Buffett Indicator means for crypto\nThe post Global stock market cap hits $166 trillion, reaching 137% of global GDP near record territory appeared f…",
+        "content": "<p>Global stock market cap hits $166 trillion at 137% of GDP, driven by $27 trillion in AI gains. Here's what the Buffett Indicator means for crypto\nThe post Global stock market cap hits $166 trillion, reaching 137% of global GDP near record territory appeared f…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/25205601/traders-work-at-desks-under-large-financial-data-screens-in--800x420.jpeg",
+        "date": "Jul 26, 2026",
+        "url": "https://cryptobriefing.com/global-stock-market-cap-137-percent-gdp/"
+    },
+    {
+        "id": "0vv3fd7of",
+        "title": "‘California Never?’ Utopian city faces setbacks from industrial flight",
+        "excerpt": "Big dreams, sometimes stupid ones, comprise the heart of California's identity.",
+        "content": "<p>Big dreams, sometimes stupid ones, comprise the heart of California's identity.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-40092388.jpg?quality=75&strip=all&w=1200",
+        "date": "Jul 26, 2026",
+        "url": "https://nypost.com/2026/07/25/opinion/california-never-utopia-faces-setbacks-as-industry-flees/"
+    },
+    {
+        "id": "ngg3kareu",
+        "title": "WNBA commissioner vows to crack down on 'racism, misogyny,' dodges big questions at All-Star press conference",
+        "excerpt": "WNBA Commissioner Cathy Engelbert addressed racism, misogyny, homophobia, and threats against players but faced criticism for dodging key questions.",
+        "content": "<p>WNBA Commissioner Cathy Engelbert addressed racism, misogyny, homophobia, and threats against players but faced criticism for dodging key questions.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/wnba-cathy-engelbert-caitlin-clark-001.jpg",
+        "date": "Jul 26, 2026",
+        "url": "https://www.foxnews.com/sports/wnba-commissioner-vows-crack-down-racism-misogyny-dodges-big-questions-all-star-press-conference"
+    },
+    {
         "id": "hsedojx6h",
         "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week",
         "excerpt": "NEW YORK (AP) — Stocks drifted on Wall Street and oil prices fell for the first time in a week, even as heavy fighting in the Middle East again threatened",
