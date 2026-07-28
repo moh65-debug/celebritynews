@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "frrq0vkck",
+        "title": "Meta’s Facebook and Instagram served thousands of ads for AI nudify apps, violating its own policies",
+        "excerpt": "Meta's ad oversight failure highlights the urgent need for stricter regulations and collaborative tech industry efforts to combat AI misuse.\nThe post Meta’s Facebook and Instagram served thousands of ads for AI nudify apps, violating its own policies appeared…",
+        "content": "<p>Meta's ad oversight failure highlights the urgent need for stricter regulations and collaborative tech industry efforts to combat AI misuse.\nThe post Meta’s Facebook and Instagram served thousands of ads for AI nudify apps, violating its own policies appeared…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/26221956/facebook-headquarters-5-800x420.jpeg",
+        "date": "Jul 27, 2026",
+        "url": "https://cryptobriefing.com/meta-nudify-ads-policy-violation/"
+    },
+    {
+        "id": "gxbhlebzt",
+        "title": "ConV2X Smart Technology Transformation Summit Announces Global Health Leaders Defining Next Era of AI, Digital Health, and Clinical Innovation",
+        "excerpt": "Healthcare leaders designing intelligent systems, deploying AI responsibly, modernizing clinical operations, and transforming care delivery at scale  take center stage at the ConV2X Smart Technology Transformation Summit, October 29 - 30, 2026, in New York Ci…",
+        "content": "<p>Healthcare leaders designing intelligent systems, deploying AI responsibly, modernizing clinical operations, and transforming care delivery at scale  take center stage at the ConV2X Smart Technology Transformation Summit, October 29 - 30, 2026, in New York Ci…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "http://locable-assets-production.s3.amazonaws.com/uploads/resource/file/815129/CJ-Website_Holladay.png?timestamp=1756355766",
+        "date": "Jul 27, 2026",
+        "url": "https://pr.holladayjournal.com/article/ConV2X-Smart-Technology-Transformation-Summit-Announces-Global-Health-Leaders-Defining-Next-Era-of-AI-Digital-Health-and-Clinical-Innovation/6a5f684648f12d0002cad4f4"
+    },
+    {
+        "id": "8btsb0xgu",
+        "title": "China chipmaker CXMT's shares surge 470% in Shangai trading debut",
+        "excerpt": "SHANGHAI: Shares of CXMT Corp surged nearly 470 per cent at their Shanghai debut on Monday (Jul 27) after Asia's biggest IPO this year, catapulting the chipmaker to the top of China's stock market by valuation despite a recent selloff in global tech stocks.Th…",
+        "content": "<p>SHANGHAI: Shares of CXMT Corp surged nearly 470 per cent at their Shanghai debut on Monday (Jul 27) after Asia's biggest IPO this year, catapulting the chipmaker to the top of China's stock market by valuation despite a recent selloff in global tech stocks.Th…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--lIKjAxpX--/c_crop,h_450,w_800,x_0,y_12/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-26T234804Z_2_LYNXMPEM6P0JW_RTROPTP_3_CHINA-CXMT-IPO-LISTING.JPG?itok=kA0uBXVX",
+        "date": "Jul 27, 2026",
+        "url": "https://www.channelnewsasia.com/business/china-chipmaker-cxmt-shares-surge-shanghai-trading-debut-6279601"
+    },
+    {
+        "id": "kewxlyr6s",
+        "title": "‘Far More Than We Need’: Trump Dismisses Claims U.S. Is Short on Munitions in Iran Fight",
+        "excerpt": "President Donald Trump dismissed reports that the United States is running short on munitions for the conflict with Iran, telling the Wall Street Journal on Sunday that the U.S. military has “far more munitions than anyone in the world, and far more than we n…",
+        "content": "<p>President Donald Trump dismissed reports that the United States is running short on munitions for the conflict with Iran, telling the Wall Street Journal on Sunday that the U.S. military has “far more munitions than anyone in the world, and far more than we n…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.breitbart.com/media/2026/07/July-22-2026-President-Donald-J-Trump-GA-wh-flickr-640x335.jpg",
+        "date": "Jul 27, 2026",
+        "url": "https://www.breitbart.com/politics/2026/07/26/trump-dismisses-claims-u-s-short-munitions-iran-fight/"
+    },
+    {
+        "id": "r42af8ou1",
+        "title": "House of the Dragon season 3 episode 6 recap and review: The best and worst of the series writ large",
+        "excerpt": "The sixth episode of House of the Dragon season 3 features a few shocking moments, as well as a few that don't make much sense.",
+        "content": "<p>The sixth episode of House of the Dragon season 3 features a few shocking moments, as well as a few that don't make much sense.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/385/01ky2nm4jh9b5s4yxyz3.jpg",
+        "date": "Jul 27, 2026",
+        "url": "https://winteriscoming.net/house-of-the-dragon-season-3-episode-6-recap-review"
+    },
+    {
+        "id": "jpeu52x3w",
+        "title": "China’s Industrial Profit Growth Slows to Weakest Pace This Year",
+        "excerpt": "China’s industry saw profit gains slow for a second month, adding to evidence of an uneven recovery for companies across parts of the world’s second-biggest economy.",
+        "content": "<p>China’s industry saw profit gains slow for a second month, adding to evidence of an uneven recovery for companies across parts of the world’s second-biggest economy.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/china-exits-economy-wide-deflation-after-three-years-price-.jpg",
+        "date": "Jul 27, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/chinas-industrial-profit-growth-slows-to-weakest-pace-this-year"
+    },
+    {
+        "id": "35equetot",
+        "title": "Partnership with EnergyHub, Sunrun, & The Mobility House to Test Massachusetts Residential Vehicle-to-Grid Program for Eversource & National Grid Customers",
+        "excerpt": "Partnership designed to enable EV drivers in Massachusetts to earn incentives while supporting grid reliability and affordability. NEW YORK — Eversource, National Grid, EnergyHub, Sunrun, and The Mobility House — leaders in grid flexibility and smart charging…",
+        "content": "<p>Partnership designed to enable EV drivers in Massachusetts to earn incentives while supporting grid reliability and affordability. NEW YORK — Eversource, National Grid, EnergyHub, Sunrun, and The Mobility House — leaders in grid flexibility and smart charging…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cleantechnica.com/wp-content/uploads/2026/07/The-Mobility-House-Kia-EV-Charging-V2G.jpg",
+        "date": "Jul 27, 2026",
+        "url": "https://cleantechnica.com/2026/07/26/partnership-with-energyhub-sunrun-the-mobility-house-to-test-massachusetts-residential-vehicle-to-grid-program-for-eversource-national-grid-customers/"
+    },
+    {
+        "id": "he5o1qzv5",
+        "title": "Zepto valuation row; PE takes AI bets",
+        "excerpt": "Happy Monday! Zepto's IPO valuation has run into resistance from top mutual funds. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Monday! Zepto's IPO valuation has run into resistance from top mutual funds. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132650545,width-1070,height-580,imgsize-3014570,overlay-ettech/editionshow.jpg",
+        "date": "Jul 27, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zepto-valuation-row-pe-takes-ai-bets/articleshow/132650545.cms"
+    },
+    {
+        "id": "h9s1hmzw9",
+        "title": "Everything Discussed During The Slitherine Next 2026 Event",
+        "excerpt": "Developer and publisher Slitherine held their own lengthy video game livestream this past week, as they went over several games during Slitherine Next 2026. Ten games in all were highlighted across the 90-minute live stream, with the team doing a victory lap …",
+        "content": "<p>Developer and publisher Slitherine held their own lengthy video game livestream this past week, as they went over several games during Slitherine Next 2026. Ten games in all were highlighted across the 90-minute live stream, with the team doing a victory lap …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/07/Nightmare-Frontier-Artwork-2000x1125.jpg",
+        "date": "Jul 27, 2026",
+        "url": "https://bleedingcool.com/games/everything-discussed-during-the-slitherine-next-2026-event/"
+    },
+    {
+        "id": "uzgi9q70a",
+        "title": "Defence is now more wasteful — and secretive — than during the Coalition era",
+        "excerpt": "In another example of Labor's obsessive covering up of Defence failures, allegations of a major scandal involving Henderson shipyard in Perth will be cloaked in secrecy.\nThe post Defence is now more wasteful — and secretive — than during the Coalition era app…",
+        "content": "<p>In another example of Labor's obsessive covering up of Defence failures, allegations of a major scandal involving Henderson shipyard in Perth will be cloaked in secrecy.\nThe post Defence is now more wasteful — and secretive — than during the Coalition era app…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/07/20260512180633891961-original-copy.jpg?quality=70&w=1312",
+        "date": "Jul 27, 2026",
+        "url": "http://www.crikey.com.au/2026/07/27/defence-procurement-waste-secrecy-henderson-shipyard-richard-marles/"
+    },
+    {
         "id": "csojd6trr",
         "title": "When Mariner 4 sent back the first close-up of Mars in 1965, the printer was too slow for the engineers waiting on it, so they pinned the raw numbers to a wall and coloured them in with pastels bought from an art shop down the road",
         "excerpt": "The first photograph of Mars almost never reached the world because a printer was too slow—so NASA scientists grabbed art supplies from a local shop and finished it by hand.\nThe post When Mariner 4 sent back the first close-up of Mars in 1965, the printer was…",
