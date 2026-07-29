@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "66378xt6h",
+        "title": "Nifty could deliver low-teen returns as earnings drive next leg of bull market: Anand Rathi AMC",
+        "excerpt": "The June-quarter earnings season has now begun, and we will be tracking this closely as results come in, with more insights to follow through the season.",
+        "content": "<p>The June-quarter earnings season has now begun, and we will be tracking this closely as results come in, with more insights to follow through the season.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132673592,width-1200,height-630,imgsize-36464,overlay-etmarkets/articleshow.jpg",
+        "date": "Jul 28, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/nifty-could-deliver-low-teen-returns-as-earnings-drive-next-leg-of-bull-market-anand-rathi-amc/articleshow/132673544.cms"
+    },
+    {
+        "id": "0vyqqpz0k",
+        "title": "AMD calls its shot, but the real race is engineering velocity",
+        "excerpt": "At AMD’s Advancing AI event, Lisa Su called her shot – just like Babe Ruth. The question now is whether AMD has built the engineering machine to hit it. Last week, we argued that AMD’s next reinvention did not require it to beat Nvidia. Rather, we said, the c…",
+        "content": "<p>At AMD’s Advancing AI event, Lisa Su called her shot – just like Babe Ruth. The question now is whether AMD has built the engineering machine to hit it. Last week, we argued that AMD’s next reinvention did not require it to beat Nvidia. Rather, we said, the c…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/321_AMD-calls-its-shot-But-the-real-race-is-engineering-velocity.pptx-18.jpg",
+        "date": "Jul 28, 2026",
+        "url": "https://siliconangle.com/2026/07/27/amd-calls-shot-real-race-engineering-velocity/"
+    },
+    {
+        "id": "esnan08og",
+        "title": "Nvidia leads new Open Secure AI Alliance to build shared cybersecurity defenses",
+        "excerpt": "More than 40 technology companies launched the Open Secure AI Alliance on Sunday, a new initiative to develop open-source tools and techniques for AI-powered cybersecurity defense, while pushing back against calls to restrict access to open AI models.",
+        "content": "<p>More than 40 technology companies launched the Open Secure AI Alliance on Sunday, a new initiative to develop open-source tools and techniques for AI-powered cybersecurity defense, while pushing back against calls to restrict access to open AI models.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260728vl201_files/2_2b.jpg",
+        "date": "Jul 28, 2026",
+        "url": "https://www.digitimes.com/news/a20260728VL201/cybersecurity-nvidia-alliance-security-technology.html"
+    },
+    {
+        "id": "w2dwiabpr",
+        "title": "We Found the Comfiest Airport Outfit Options at Amazon — And They’ll Cost You Less Than $50",
+        "excerpt": "From chic compression shirts to matching sweatsuits, all the airport outfit ideas for women you'll need ahead of your next girls' getaway.",
+        "content": "<p>From chic compression shirts to matching sweatsuits, all the airport outfit ideas for women you'll need ahead of your next girls' getaway.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://wwd.com/wp-content/uploads/2026/07/best-airport-outfit-ideas-for-women-2026.jpg?w=1000&h=563&crop=1",
+        "date": "Jul 28, 2026",
+        "url": "http://wwd.com/shop/shop-fashion/best-airport-outfit-ideas-for-women-1239084100/"
+    },
+    {
+        "id": "v1qzb5zs7",
+        "title": "Brianna Turner Explains Why WNBA All-Stars Left the USA 250 Patch Off Their Jerseys",
+        "excerpt": "WNBA players left the USA 250 patch off their All-Star Game jerseys in Chicago. WNBPA treasurer Brianna Turner explained the decision as criticism mounted.",
+        "content": "<p>WNBA players left the USA 250 patch off their All-Star Game jerseys in Chicago. WNBPA treasurer Brianna Turner explained the decision as criticism mounted.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/320bebfac1a32ea9a9ed893273ec3926f9ab74f7eca53795dc08cf9c1c747153/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Froundtable_sports_wnba_breaking_news_996%2F6ad2531c1232b46b3c285e183d4f8ea5",
+        "date": "Jul 28, 2026",
+        "url": "https://roundtable.io/sports/wnba/news/brianna-turner-explains-why-wnba-all-stars-left-the-usa-250-patch-off-their-jerseys"
+    },
+    {
+        "id": "fll05e3jj",
+        "title": "Samsung Launches AI Health Assistant, Indicating A Growing Trend Among Tech Giants",
+        "excerpt": "Many legacy hardware and software players are increasingly seeing value in entering the healthcare arena.",
+        "content": "<p>Many legacy hardware and software players are increasingly seeing value in entering the healthcare arena.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6691b67bcefc1b7cb377b8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "Jul 28, 2026",
+        "url": "https://www.forbes.com/sites/saibala/2026/07/27/samsung-launches-ai-health-assistant-indicating-a-growing-trend-among-tech-giants/"
+    },
+    {
+        "id": "3d793cr0t",
+        "title": "You can finally board ‘Fast & Furious’: Hollywood Drift right now—maybe",
+        "excerpt": "Lucky Universal Studios Hollywood visitors found themselves among the first to experience the coaster when it soft-opened on Monday afternoon.",
+        "content": "<p>Lucky Universal Studios Hollywood visitors found themselves among the first to experience the coaster when it soft-opened on Monday afternoon.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.timeout.com/images/106356669/image.jpg",
+        "date": "Jul 28, 2026",
+        "url": "https://www.timeout.com/los-angeles/news/you-can-finally-board-fast-furious-hollywood-drift-right-nowmaybe-072826"
+    },
+    {
+        "id": "lcx0j8vyb",
+        "title": " He didn’t hold back! Tebas hits out at Gianni Infantino again",
+        "excerpt": "This afternoon, Javier Tebas, president of LaLiga, once again spoke out against Gianni Infantino, president of FIFA, after the latter issued a message claiming that there were those who “were so con...",
+        "content": "<p>This afternoon, Javier Tebas, president of LaLiga, once again spoke out against Gianni Infantino, president of FIFA, after the latter issued a message claiming that there were those who “were so con...</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/55889949fc392c14c3ecddc066b13f6a6d6f35d5db211357c1dd69708a9ff761/lightyear_networkapi/resizefill_w1024_h683;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Fd7b13c8c05e364e35b1ab9c0d7643bdb",
+        "date": "Jul 28, 2026",
+        "url": "https://onefootball.com/en/news/he-didnt-hold-back-tebas-hits-out-at-gianni-infantino-again-43194768"
+    },
+    {
+        "id": "nrxyl70ds",
+        "title": "1.7 million planned satellites to have ‘devastating’ impact on astronomy",
+        "excerpt": "For the first time, a European Southern Observatory (ESO) study has quantified the threat to astronomy posed by a large number of highly reflective satellites planned to launch in the coming years.Continue ReadingCategory: Astronomy, Science, Refractor: Scien…",
+        "content": "<p>For the first time, a European Southern Observatory (ESO) study has quantified the threat to astronomy posed by a large number of highly reflective satellites planned to launch in the coming years.Continue ReadingCategory: Astronomy, Science, Refractor: Scien…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://assets.newatlas.com/dims4/default/79bdf4c/2147483647/strip/true/crop/2000x1050+0+225/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F78%2F32%2Fb4449a414a598be34d71f4d94b61%2Fclutter-satellites-orbit.jpg&rf.image_optimisation=0",
+        "date": "Jul 28, 2026",
+        "url": "https://refractor.io/space/planned-satellites-devastating-astronomy/"
+    },
+    {
+        "id": "y7fve578x",
+        "title": "Forty years on from disappearance which shocked the world, Suzy Lamplugh murder probe finally set to be shelved - as police make one last call for witnesses to end family's agony and help them find her body",
+        "excerpt": "Suzy Lamplugh, pictured in a new image released today, was killed in 1986. Police have made one final appeal for information as they prepare to shelve the investigation into what happened to her.",
+        "content": "<p>Suzy Lamplugh, pictured in a new image released today, was killed in 1986. Police have made one final appeal for information as they prepare to shelve the investigation into what happened to her.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://i.dailymail.com/1s/2026/07/28/01/110286605-0-image-m-18_1785198172441.jpg",
+        "date": "Jul 28, 2026",
+        "url": "https://www.dailymail.com/crime-desk/article-15992547/Suzy-Lamplugh-murder-investigation-shelved-police-haunted-disappearance.html"
+    },
+    {
         "id": "frrq0vkck",
         "title": "Meta’s Facebook and Instagram served thousands of ads for AI nudify apps, violating its own policies",
         "excerpt": "Meta's ad oversight failure highlights the urgent need for stricter regulations and collaborative tech industry efforts to combat AI misuse.\nThe post Meta’s Facebook and Instagram served thousands of ads for AI nudify apps, violating its own policies appeared…",
