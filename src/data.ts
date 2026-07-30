@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "cqaiin3nk",
+        "title": "Seagate forecasts strong 1Q growth on sustained AI-driven cloud demand",
+        "excerpt": "On July 28, Seagate Technology reported sharply higher revenue and profit for its fiscal fourth quarter, driven by continued demand from cloud data center customers and higher-capacity storage products tied to artificial intelligence infrastructure. The compa…",
+        "content": "<p>On July 28, Seagate Technology reported sharply higher revenue and profit for its fiscal fourth quarter, driven by continued demand from cloud data center customers and higher-capacity storage products tied to artificial intelligence infrastructure. The compa…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260729vl202_files/1_2b.jpg",
+        "date": "Jul 29, 2026",
+        "url": "https://www.digitimes.com/news/a20260729VL202/seagate-demand-revenue-growth-profit.html"
+    },
+    {
+        "id": "goquqsq8o",
+        "title": "School pauses humanoid robot plan after link with sexbot company raised",
+        "excerpt": "A school in rural upstate New York has puts its plans for a humanoid robot on hold, after concerns were raised about the maker's links to a company that produces sexbots.",
+        "content": "<p>A school in rural upstate New York has puts its plans for a humanoid robot on hold, after concerns were raised about the maker's links to a company that produces sexbots.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/27f4fd6d767df0ec911ff7adf0cd4b2c?impolicy=wcms_watermark_news&cropH=358&cropW=637&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "date": "Jul 29, 2026",
+        "url": "https://www.abc.net.au/news/2026-07-29/school-humanoid-robot-plan-paused-links-sexbot-sister-company/106970194"
+    },
+    {
+        "id": "6hgg1vn3f",
+        "title": "South Korean shares rebound from three-month low",
+        "excerpt": "South Korean shares saw a rebound on Wednesday after a significant previous day's fall. Investors engaged in dip buying, focusing on domestic chipmaker earnings and major US tech firms. The benchmark KOSPI index experienced a notable increase, recovering from…",
+        "content": "<p>South Korean shares saw a rebound on Wednesday after a significant previous day's fall. Investors engaged in dip buying, focusing on domestic chipmaker earnings and major US tech firms. The benchmark KOSPI index experienced a notable increase, recovering from…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132697611,width-1200,height-630,imgsize-26510,overlay-etmarkets/articleshow.jpg",
+        "date": "Jul 29, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-rebound-from-three-month-low/articleshow/132697597.cms"
+    },
+    {
+        "id": "zzm6yxbsd",
+        "title": "Israel says it asked Canada for permission for Netanyahu to use Canadian airspace",
+        "excerpt": "The Israeli government has told CBC News that it requested permission for wanted Israeli Prime Minister Benjamin Netanyahu to overfly Newfoundland and Nova Scotia on Monday en route to a meeting with U.S. President Donald Trump. Canadian officials are again r…",
+        "content": "<p>The Israeli government has told CBC News that it requested permission for wanted Israeli Prime Minister Benjamin Netanyahu to overfly Newfoundland and Nova Scotia on Monday en route to a meeting with U.S. President Donald Trump. Canadian officials are again r…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://i.cbc.ca/ais/bdde87a9-1d59-44ce-b259-510f5b70172c,1785280916700/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C254%2C4896%2C2754%29%3BResize%3D620",
+        "date": "Jul 29, 2026",
+        "url": "https://www.cbc.ca/news/politics/netanyahu-flight-canadian-airspace-9.7288211"
+    },
+    {
+        "id": "jyo2kj213",
+        "title": "'Doctor Jihad' claimed he never meant to join ISIS in resurfaced interview",
+        "excerpt": "An Australian man dubbed \"Dr Jihad\" claims he never intended to join Islamic State and never pledged allegiance to the extremist organisation, in a recently resurfaced interview.",
+        "content": "<p>An Australian man dubbed \"Dr Jihad\" claims he never intended to join Islamic State and never pledged allegiance to the extremist organisation, in a recently resurfaced interview.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/445c0ce4c39252885100a6b14f3de646?impolicy=wcms_watermark_news&cropH=405&cropW=720&xPos=0&yPos=98&width=862&height=485&imformat=generic",
+        "date": "Jul 29, 2026",
+        "url": "https://www.abc.net.au/news/2026-07-29/dr-jihad-tareq-kamleh-interviewed-on-islamic-state-syria-prison/106969094"
+    },
+    {
+        "id": "8hz5bcxuw",
+        "title": "Sarah Michelle Gellar embraces Euro summer in the South of France with stunning bikini photos",
+        "excerpt": "Sarah Michelle Gellar shared bikini photos from her Euro summer vacation in the South of France, exploring the Calanques near Cassis by boat.",
+        "content": "<p>Sarah Michelle Gellar shared bikini photos from her Euro summer vacation in the South of France, exploring the Calanques near Cassis by boat.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/sarah-michelle-gellar-italy-2025.jpg",
+        "date": "Jul 29, 2026",
+        "url": "https://www.foxnews.com/entertainment/sarah-michelle-gellar-embraces-euro-summer-south-france-stunning-bikini-photos"
+    },
+    {
+        "id": "3n8p65w0t",
+        "title": "A Wandering Black Hole Meets a Wandering Star",
+        "excerpt": "What happens when a black hole and a star meet in the middle of nowhere in a galaxy? It sounds like it could be a dramatic science fiction backdrop, with some hapless starship caught in the crunch. Actually, such encounters in real life are pretty rare. They …",
+        "content": "<p>What happens when a black hole and a star meet in the middle of nowhere in a galaxy? It sounds like it could be a dramatic science fiction backdrop, with some hapless starship caught in the crunch. Actually, such encounters in real life are pretty rare. They …</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.universetoday.com/article_images/UNC-Chapel-Hill-Astronomers-Detect-One-of-the-Universes-Rarest-Black_20260729_010606.jpg",
+        "date": "Jul 29, 2026",
+        "url": "https://www.universetoday.com/articles/a-wandering-black-hole-meets-a-wandering-star"
+    },
+    {
+        "id": "0cmbvmmu2",
+        "title": "One of Earth’s most explosive supervolcanoes is recharging with fresh magma",
+        "excerpt": "Deep beneath Japan’s mostly submerged Kikai caldera, scientists have discovered a vast magma reservoir that appears to be filling again. The volcano produced the largest eruption of the Holocene 7,300 years ago, and seismic surveys now show that fresh magma h…",
+        "content": "<p>Deep beneath Japan’s mostly submerged Kikai caldera, scientists have discovered a vast magma reservoir that appears to be filling again. The volcano produced the largest eruption of the Holocene 7,300 years ago, and seismic surveys now show that fresh magma h…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/reinjection-caldera.webp",
+        "date": "Jul 29, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/07/260725105644.htm"
+    },
+    {
+        "id": "7uvdpscad",
+        "title": "The Mediterranean dried out almost completely about 5.6 million years ago and sat as a salt desert for hundreds of thousands of years, until the Atlantic broke back through at Gibraltar and refilled the entire basin in a flood that may have taken as little as two years",
+        "excerpt": "When the Atlantic finally breached Gibraltar, it may have refilled an entire sea in less time than it takes to read this article.\nThe post The Mediterranean dried out almost completely about 5.6 million years ago and sat as a salt desert for hundreds of thous…",
+        "content": "<p>When the Atlantic finally breached Gibraltar, it may have refilled an entire sea in less time than it takes to read this article.\nThe post The Mediterranean dried out almost completely about 5.6 million years ago and sat as a salt desert for hundreds of thous…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/07/pexels-strait-of-gibraltar-31833424.jpg",
+        "date": "Jul 29, 2026",
+        "url": "https://spacedaily.com/t-mediterranean-messinian-salinity-crisis-zanclean-flood/"
+    },
+    {
+        "id": "n28oi5uv7",
+        "title": "Autistic Nigerians still shut out of schools, jobs — Experts",
+        "excerpt": "… Seek stronger govt policies as families battle stigma, isolation, caregiver burnout By Chioma Obinna Sixteen years after sustained autism advocacy began in Nigeria, experts on Monday lamented that thousands of children and adults living with autism remain e…",
+        "content": "<p>… Seek stronger govt policies as families battle stigma, isolation, caregiver burnout By Chioma Obinna Sixteen years after sustained autism advocacy began in Nigeria, experts on Monday lamented that thousands of children and adults living with autism remain e…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-28-at-5.02.02-PM.jpeg",
+        "date": "Jul 29, 2026",
+        "url": "https://www.vanguardngr.com/2026/07/autistic-nigerians-still-shut-out-of-schools-jobs-experts/"
+    },
+    {
         "id": "66378xt6h",
         "title": "Nifty could deliver low-teen returns as earnings drive next leg of bull market: Anand Rathi AMC",
         "excerpt": "The June-quarter earnings season has now begun, and we will be tracking this closely as results come in, with more insights to follow through the season.",
