@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "eia5dn2ng",
+        "title": "U.S. Launches Strikes On Iranian Targets A Day After It Foiled Missile Attack On American Forces",
+        "excerpt": "The U.S. military says it has completed what it describes as “a heavy wave of strikes against Iran” conducted in response to an earlier Iranian missile attack on a U.S. base in Jordan.",
+        "content": "<p>The U.S. military says it has completed what it describes as “a heavy wave of strikes against Iran” conducted in response to an earlier Iranian missile attack on a U.S. base in Jordan.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.huffingtonpost.com/asset/6a6ab6b7140000f830eaeeff.jpeg?cache=nC0VKBBuJu&ops=1200_630",
+        "date": "Jul 30, 2026",
+        "url": "https://www.huffpost.com/entry/us-iran-strikes_n_6a6ab6b5e4b0fddbd71302f9"
+    },
+    {
+        "id": "9kvft9dsl",
+        "title": "Indian stocks set for flat opening amid global headwinds",
+        "excerpt": "Sensex and Nifty are set for a cautious start as investors track Fed policy signals, Middle East tensions, crude oil prices, Q1 earnings and Gift Nifty.",
+        "content": "<p>Sensex and Nifty are set for a cautious start as investors track Fed policy signals, Middle East tensions, crude oil prices, Q1 earnings and Gift Nifty.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/3oja9z/article71250698.ece/alternates/LANDSCAPE_1200/stock%20market%20chart%202.jpg",
+        "date": "Jul 30, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/indian-stocks-set-for-flat-opening-amid-global-headwinds/article71284216.ece"
+    },
+    {
+        "id": "6v35zogfw",
+        "title": "Samsung’s stock rises on explosive operating profit growth",
+        "excerpt": "Samsung Electronics Co. Ltd. today confirmed its earlier expectation that runaway memory chip prices will drive a massive 19-fold jump in operating profit, as robust artificial intelligence demand continues to accelerate momentum in its semiconductor business…",
+        "content": "<p>Samsung Electronics Co. Ltd. today confirmed its earlier expectation that runaway memory chip prices will drive a massive 19-fold jump in operating profit, as robust artificial intelligence demand continues to accelerate momentum in its semiconductor business…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-01-08-09-07-08-1.png",
+        "date": "Jul 30, 2026",
+        "url": "https://siliconangle.com/2026/07/29/samsungs-stock-rises-explosive-operating-profit-growth/"
+    },
+    {
+        "id": "9ou8qwa0v",
+        "title": "Meta cash flow craters as Mark Zuckerberg doubles down on AI spending",
+        "excerpt": "The Facebook and Instagram parent company reported free cash flow ​of $784 million in the second quarter ended June 30, down from $8.55 billion a year earlier, sending its shares down 10% in extended trading.",
+        "content": "<p>The Facebook and Instagram parent company reported free cash flow ​of $784 million in the second quarter ended June 30, down from $8.55 billion a year earlier, sending its shares down 10% in extended trading.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-819427,resizemode-75,msid-132725111/tech/technology/meta-cash-flow-craters-as-zuckerberg-doubles-down-on-ai-spending.jpg",
+        "date": "Jul 30, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/meta-cash-flow-craters-as-zuckerberg-doubles-down-on-ai-spending/articleshow/132725111.cms"
+    },
+    {
+        "id": "baze4kqps",
+        "title": "Elle Duncan Draws Criticism For What She Said About Caitlin Clark After The USA Today Controversy",
+        "excerpt": "The latest controversy surrounding Caitlin Clark stems from two widely criticised USA Today publications that drew significant public attention and reignited debate over the outlet’s coverage of the Indiana Fever star. ESPN host Elle Duncan believes Clark may…",
+        "content": "<p>The latest controversy surrounding Caitlin Clark stems from two widely criticised USA Today publications that drew significant public attention and reignited debate over the outlet’s coverage of the Indiana Fever star. ESPN host Elle Duncan believes Clark may…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/946a351f5d6d6996f48e0925b45042b766a9b1ea16ce8486b84e18c81aeded58/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fessentiallysports_articles_591%2F38baafd31c980f67696a1c11a1592fce",
+        "date": "Jul 30, 2026",
+        "url": "https://www.essentiallysports.com/wnba-basketball-news-elle-duncan-draws-criticism-for-what-she-said-about-caitlin-clark-after-the-usa-today-controversy/"
+    },
+    {
+        "id": "djopcti7f",
+        "title": "'GenAI to reshape workforce, GCCs to cushion job impact'",
+        "excerpt": "GenAI will transform India's labor market over the next decade. Tasks will be automated, and many jobs will be augmented by AI. The technology sector's employment narrative is challenged by this evolving landscape. Global capability centers are expected to cu…",
+        "content": "<p>GenAI will transform India's labor market over the next decade. Tasks will be automated, and many jobs will be augmented by AI. The technology sector's employment narrative is challenged by this evolving landscape. Global capability centers are expected to cu…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-132725053,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Jul 30, 2026",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/genai-to-reshape-workforce-gccs-to-cushion-job-impact/articleshow/132725049.cms"
+    },
+    {
+        "id": "bvfk2galj",
+        "title": "Marvell plans US$250 million India investment to expand semiconductor R&D",
+        "excerpt": "Marvell Technology said its planned US$250 million investment in India over three years will deepen semiconductor research, hiring, and infrastructure, with implications for global AI, cloud, and data center supply chains. The move signals how India is becomi…",
+        "content": "<p>Marvell Technology said its planned US$250 million investment in India over three years will deepen semiconductor research, hiring, and infrastructure, with implications for global AI, cloud, and data center supply chains. The move signals how India is becomi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260730pr201_files/1_2b.jpg",
+        "date": "Jul 30, 2026",
+        "url": "https://www.digitimes.com/news/a20260730PR201/marvell-investment-development-infrastructure-bangalore.html"
+    },
+    {
+        "id": "w199x1ym2",
+        "title": "U researchers discover protein behavior that spreads Alzheimer’s disease",
+        "excerpt": "For the past six years, University of Utah researchers have been looking into a neural protein called arc and its possible connection to Alzheimer’s disease. The results establish that arc plays a critical role in building the tau protein, carried by the extr…",
+        "content": "<p>For the past six years, University of Utah researchers have been looking into a neural protein called arc and its possible connection to Alzheimer’s disease. The results establish that arc plays a critical role in building the tau protein, carried by the extr…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://dailyutahchronicle.com/wp-content/uploads/2026/07/23-107A0984.jpg",
+        "date": "Jul 30, 2026",
+        "url": "https://dailyutahchronicle.com/2026/07/29/u-researchers-discover-protein-behavior-that-spreads-alzheimers-disease/"
+    },
+    {
+        "id": "txz0kwroh",
+        "title": "BOE Set to Keep Powder Dry as Oil Prices Swing: Decision Guide",
+        "excerpt": "The Bank of England is set to leave interest rates on hold as it sticks to a wait-and-see approach to navigate the wild swings in oil and gas prices.",
+        "content": "<p>The Bank of England is set to leave interest rates on hold as it sticks to a wait-and-see approach to navigate the wild swings in oil and gas prices.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/goods-and-services-inflation-ease-while-core-cpi-holds.jpg",
+        "date": "Jul 30, 2026",
+        "url": "https://financialpost.com/pmn/business-pmn/boe-set-to-keep-powder-dry-as-oil-prices-swing-decision-guide"
+    },
+    {
+        "id": "0e8v2dtah",
+        "title": "Cricketer dubbed 'Clicky Ponting' suspended as stats show unusual trend",
+        "excerpt": "The club at the centre of the '\"Clicky Ponting\" amateur cricket scandal suspends the player allegedly involved, as data shows dramatic increases in catches when he has played.",
+        "content": "<p>The club at the centre of the '\"Clicky Ponting\" amateur cricket scandal suspends the player allegedly involved, as data shows dramatic increases in catches when he has played.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/16c87db3706e79d6cf82443a48b1311d?impolicy=wcms_watermark_news&cropH=434&cropW=771&xPos=0&yPos=68&width=862&height=485&imformat=generic",
+        "date": "Jul 30, 2026",
+        "url": "https://www.abc.net.au/news/2026-07-30/clicky-ponting-suspended-as-cricket-investigation-continues/106975696"
+    },
+    {
         "id": "cqaiin3nk",
         "title": "Seagate forecasts strong 1Q growth on sustained AI-driven cloud demand",
         "excerpt": "On July 28, Seagate Technology reported sharply higher revenue and profit for its fiscal fourth quarter, driven by continued demand from cloud data center customers and higher-capacity storage products tied to artificial intelligence infrastructure. The compa…",
