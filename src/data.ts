@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "9hi4pu9l3",
+        "title": "TSMC reportedly develops EMIB-like packaging to counter Intel",
+        "excerpt": "TSMC is reportedly developing a new advanced chip-packaging technology modeled on Intel's Embedded Multi-die Interconnect Bridge (EMIB), signaling that competition in AI semiconductor packaging is becoming as critical as chip manufacturing itself. The project…",
+        "content": "<p>TSMC is reportedly developing a new advanced chip-packaging technology modeled on Intel's Embedded Multi-die Interconnect Bridge (EMIB), signaling that competition in AI semiconductor packaging is becoming as critical as chip manufacturing itself. The project…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260731vl207_files/1_2b.jpg",
+        "date": "Jul 31, 2026",
+        "url": "https://www.digitimes.com/news/a20260731VL207/tsmc-packaging-intel-competition-ai-chip.html"
+    },
+    {
+        "id": "yldwwada3",
+        "title": "Giants training camp gets heated as Abdul Carter challenges Andrew Thomas",
+        "excerpt": "Abdul Carter brought relentless pressure and nonstop trash talk during a fiery Giants training camp practice, but veteran left tackle Andrew Thomas never flinched. Their intense one-on-one battle became one of the biggest storylines of the day, showcasing bot…",
+        "content": "<p>Abdul Carter brought relentless pressure and nonstop trash talk during a fiery Giants training camp practice, but veteran left tackle Andrew Thomas never flinched. Their intense one-on-one battle became one of the biggest storylines of the day, showcasing bot…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/c8f76bc545ab8e039014b150bdf4e24368a9bafd2ab174b9225b7293c245efc2/lightyear_networkapi/resizefill_w760_h427;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F6d440f080a371a6b8973f05e140e4700",
+        "date": "Jul 31, 2026",
+        "url": "https://www.sportingnews.com/us/nfl/new-york-giants/news/giants-training-camp-gets-heated-carter-challenges-thomas/0bce9b7d2277e7a7d1d6c74e"
+    },
+    {
+        "id": "ozfzy3ly7",
+        "title": "South Korea’s Kospi rockets 17% after massive 3-day selloff. What’s behind the surge?",
+        "excerpt": "The KOSPI was up 17% at 6,549 points after tumbling nearly 17% over the previous three sessions, marking one of its steepest weekly declines, as fears of mounting competition from Chinese memory chipmakers triggered heavy selling across semiconductor stocks.",
+        "content": "<p>The KOSPI was up 17% at 6,549 points after tumbling nearly 17% over the previous three sessions, marking one of its steepest weekly declines, as fears of mounting competition from Chinese memory chipmakers triggered heavy selling across semiconductor stocks.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132753721,width-1200,height-630,imgsize-84660,overlay-etmarkets/articleshow.jpg",
+        "date": "Jul 31, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-rockets-17-after-massive-3-day-selloff-whats-behind-the-surge/articleshow/132753722.cms"
+    },
+    {
+        "id": "gebgxbexg",
+        "title": "Nigeria’s Quest for Energy Accessibility, Affordability: The AKK Initiative",
+        "excerpt": "NNPC’s evolving role as an energy development institution places it at the centre of Nigeria’s economic future. \nThe post Nigeria’s Quest for Energy Accessibility, Affordability: The AKK Initiative appeared first on Vanguard News.",
+        "content": "<p>NNPC’s evolving role as an energy development institution places it at the centre of Nigeria’s economic future. \nThe post Nigeria’s Quest for Energy Accessibility, Affordability: The AKK Initiative appeared first on Vanguard News.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-03.06.36.jpeg",
+        "date": "Jul 31, 2026",
+        "url": "https://www.vanguardngr.com/2026/07/nigerias-quest-for-energy-accessibility-affordability-the-akk-initiative/"
+    },
+    {
+        "id": "18bb4wfpo",
+        "title": "Anthropic’s models gained unauthorized ‘real-world’ access during testing",
+        "excerpt": "The announcement comes just days after rival OpenAI first revealed that its models improperly accessed the internet and went rogue during security testing. \nThe post Anthropic’s models gained unauthorized ‘real-world’ access during testing appeared first on D…",
+        "content": "<p>The announcement comes just days after rival OpenAI first revealed that its models improperly accessed the internet and went rogue during security testing. \nThe post Anthropic’s models gained unauthorized ‘real-world’ access during testing appeared first on D…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/07/1f6948382e78b51ff49509fbc14b020311f155d6-2.jpg",
+        "date": "Jul 31, 2026",
+        "url": "https://www.digitaljournal.com/article/anthropics-models-gained-unauthorized-real-world-access-during-testing/"
+    },
+    {
+        "id": "77dksu3c5",
+        "title": "Call of Duty: Modern Warfare 4 Drops The Campaign's First Look",
+        "excerpt": "Activision, along with developers Infinity Ward and Beenox, released a small teaser trailer for Call of Duty: Modern Warfare 4 that focuses on the campaign. Honestly, this is the smallest of trailers they could possibly do for the game, and we're surprised th…",
+        "content": "<p>Activision, along with developers Infinity Ward and Beenox, released a small teaser trailer for Call of Duty: Modern Warfare 4 that focuses on the campaign. Honestly, this is the smallest of trailers they could possibly do for the game, and we're surprised th…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/Call-of-Duty-Modern-Warfare-4-Single-Player-Screenshots--2000x1125.jpg",
+        "date": "Jul 31, 2026",
+        "url": "https://bleedingcool.com/games/call-of-duty-modern-warfare-4-drops-the-campaigns-first-look/"
+    },
+    {
+        "id": "5ae84o6dk",
+        "title": "Western Union Pursues AI Savings as Falling Migration Hits Revenue",
+        "excerpt": "Western Union is sharpening its focus on digital and artificial intelligence as it faces unexpected headwinds, executives said Thursday (July 30). The company did not see the improvement in its Americas retail business that it expected in the second quarter, …",
+        "content": "<p>Western Union is sharpening its focus on digital and artificial intelligence as it faces unexpected headwinds, executives said Thursday (July 30). The company did not see the improvement in its Americas retail business that it expected in the second quarter, …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.pymnts.com/wp-content/uploads/2026/07/western-union-xxs-22.jpg",
+        "date": "Jul 31, 2026",
+        "url": "https://www.pymnts.com/earnings/2026/western-union-pursues-ai-savings-as-falling-migration-hits-revenue/"
+    },
+    {
+        "id": "3omra5ia6",
+        "title": "Samsung Galaxy Tab S10 Ultra 14.6\" (5G + Wi-Fi) 256GB (Grey) $1,049 + Delivery ($0 C&C/ in-Store) @ JB Hi-Fi",
+        "excerpt": "Similar to the last deal, but this includes 5g as well. AI-Powered Productivity Take your productivity to the next level with Galaxy AI. AI-Powered Creativity Breathe life into your creative …",
+        "content": "<p>Similar to the last deal, but this includes 5g as well. AI-Powered Productivity Take your productivity to the next level with Galaxy AI. AI-Powered Creativity Breathe life into your creative …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://files.ozbargain.com.au/n/48/969748x.jpg?h=f4cc6cf7",
+        "date": "Jul 31, 2026",
+        "url": "https://www.ozbargain.com.au/node/969748"
+    },
+    {
+        "id": "armgovjoi",
+        "title": "Stuart Fails to Save the Universe episode 2 has my favorite surprise Big Bang Theory cameo yet, and it's not the one you're thinking — and there's a hilarious hidden reason why it works",
+        "excerpt": "With an AI revolution taking place in Stuart Fails to Save the Universe episode 2, one Big Bang Theory cameo is the last thing I expected.",
+        "content": "<p>With an AI revolution taking place in Stuart Fails to Save the Universe episode 2, one Big Bang Theory cameo is the last thing I expected.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/5NnRKczENMurAdWutbeTba-1920-80.jpg",
+        "date": "Jul 31, 2026",
+        "url": "https://www.techradar.com/streaming/hbo-max/stuart-fails-to-save-the-universe-episode-2-cameo"
+    },
+    {
+        "id": "18iicaeh2",
+        "title": "White Wolf Announces Vampire: The Masquerade 6th Edition at Gen Con",
+        "excerpt": "During \"The Future of White Wolf\" panel at Gen Con 2026, the company announced that Vampire: The Masquerade will be moving onto 6th Edition. Depending on the kind of fan you are, 5th Edition was either an amazing build or had promise but was clunky. Either wa…",
+        "content": "<p>During \"The Future of White Wolf\" panel at Gen Con 2026, the company announced that Vampire: The Masquerade will be moving onto 6th Edition. Depending on the kind of fan you are, 5th Edition was either an amazing build or had promise but was clunky. Either wa…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/07/Vampire-the-Masquerade-6th-Edition-Logo-Square-2000x1125.jpg",
+        "date": "Jul 31, 2026",
+        "url": "https://bleedingcool.com/games/white-wolf-announces-vampire-the-masquerade-6th-edition-at-gen-con/"
+    },
+    {
         "id": "eia5dn2ng",
         "title": "U.S. Launches Strikes On Iranian Targets A Day After It Foiled Missile Attack On American Forces",
         "excerpt": "The U.S. military says it has completed what it describes as “a heavy wave of strikes against Iran” conducted in response to an earlier Iranian missile attack on a U.S. base in Jordan.",
