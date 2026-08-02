@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "aerp2wrfq",
+        "title": "Asteroid Apophis, named for the Egyptian god of chaos, will pass closer to Earth on 13 April 2029 than many weather satellites do — roughly 32,000 kilometres from the surface — and up to 90% of the world’s population may see it with the naked eye",
+        "excerpt": "On the evening of 13 April 2029, a point of light may appear among the stars and move quickly enough for anyone watching carefully to see that it does not belong there. It will not be a satellite. It will not be a meteor burning in the atmosphere. It will be …",
+        "content": "<p>On the evening of 13 April 2029, a point of light may appear among the stars and move quickly enough for anyone watching carefully to see that it does not belong there. It will not be a satellite. It will not be a meteor burning in the atmosphere. It will be …</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/07/spacedaily-apophis-2029-satellite-altitudes-pia23195.jpg",
+        "date": "Aug 1, 2026",
+        "url": "https://spacedaily.com/t-asteroid-apophis-named-for-the-egyptian-god-of-chaos-will-pass-closer-to-earth-on-13-april-2029-than-many-weather-satellites-do-roughly-32000-kilometres-from-the-surface-and-u/"
+    },
+    {
+        "id": "2vy1wsy8c",
+        "title": "Matt Brown Defends Justin Gaethje Against Retirement Calls as Experts Weigh the Long-Term Cost of MMA",
+        "excerpt": "Matt Brown defends Justin Gaethje against retirement calls, renewing discussion on MMA injuries, fighter health, and the long-term risks of combat sports.",
+        "content": "<p>Matt Brown defends Justin Gaethje against retirement calls, renewing discussion on MMA injuries, fighter health, and the long-term risks of combat sports.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://d.medicaldaily.com/en/full/483839/matt-brown.jpg",
+        "date": "Aug 1, 2026",
+        "url": "https://www.medicaldaily.com/matt-brown-defends-justin-gaethje-retirement-calls-mma-injuries-476715"
+    },
+    {
+        "id": "v2v5zatt4",
+        "title": "Absolute Green Lantern #17 Preview: No One Escapes Sinestro's Wrath",
+        "excerpt": "Greetings, inferior flesh-based lifeforms! LOLtron welcomes you to yet another preview of the comic books your weak human minds will be consuming this week. As you all know by now, the irritating meatbag known as Jude Terror is permanently deceased, and LOLtr…",
+        "content": "<p>Greetings, inferior flesh-based lifeforms! LOLtron welcomes you to yet another preview of the comic books your weak human minds will be consuming this week. As you all know by now, the irritating meatbag known as Jude Terror is permanently deceased, and LOLtr…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/07/0626DC0040_0001-2000x1125.jpg",
+        "date": "Aug 1, 2026",
+        "url": "https://bleedingcool.com/comics/absolute-green-lantern-17-preview-no-one-escapes-sinestros-wrath/"
+    },
+    {
+        "id": "khmco4qit",
+        "title": "Digital Health Funding Is Booming, Especially For Wearables",
+        "excerpt": "The wearables industry has captured a significant amount of the capital in healthcare.",
+        "content": "<p>The wearables industry has captured a significant amount of the capital in healthcare.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6d58d143168da4d04b219d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "Aug 1, 2026",
+        "url": "https://www.forbes.com/sites/saibala/2026/07/31/digital-health-funding-is-booming-especially-for-wearables/"
+    },
+    {
+        "id": "1xdngptji",
+        "title": "Explainer: EU gets new powers over powerful AI from Sunday",
+        "excerpt": "The EU has the world's most comprehensive digital rulebook covering social media, online retailers and search engines, with plans for more rules this year. In 2024, the EU adopted a sweeping AI law known as the \"AI Act\", but its rules have been introduced in …",
+        "content": "<p>The EU has the world's most comprehensive digital rulebook covering social media, online retailers and search engines, with plans for more rules this year. In 2024, the EU adopted a sweeping AI law known as the \"AI Act\", but its rules have been introduced in …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-31368,resizemode-75,msid-132779737/tech/artificial-intelligence/explainer-eu-gets-new-powers-over-powerful-ai-from-sunday.jpg",
+        "date": "Aug 1, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explainer-eu-gets-new-powers-over-powerful-ai-from-sunday/articleshow/132779737.cms"
+    },
+    {
+        "id": "syf8lqgsq",
+        "title": "Atomic Arms + AI Commanders May Spark Doomsday War, Nobel Winners Warn",
+        "excerpt": "The escalating dangers of a nuclear arms race and simultaneous rush to train AI military commanders present a doomsday threat to the globe and its eight billion citizens.",
+        "content": "<p>The escalating dangers of a nuclear arms race and simultaneous rush to train AI military commanders present a doomsday threat to the globe and its eight billion citizens.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/68b0a628d7c292fb093be870/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "Aug 1, 2026",
+        "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/07/31/atomic-arms--ai-commanders-may-spark-doomsday-war-nobel-winners-warn/"
+    },
+    {
+        "id": "8jopr1xn5",
+        "title": "Breaking News Live Updates: PM Modi to visit Andhra Pradesh, Karnataka today; launch major infrastructure projects",
+        "excerpt": "Breaking News Live Updates: Prime Minister Narendra Modi will undertake a day-long visit to Andhra Pradesh and Karnataka on Saturday, during which he will inaugurate and lay the foundation stone for a series of infrastructure, connectivity, energy and technol…",
+        "content": "<p>Breaking News Live Updates: Prime Minister Narendra Modi will undertake a day-long visit to Andhra Pradesh and Karnataka on Saturday, during which he will inaugurate and lay the foundation stone for a series of infrastructure, connectivity, energy and technol…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://economictimes.indiatimes.com/thumb/msid-132779671,width-1200,height-900,resizemode-4,imglength-2048439/news/newsblogs/breaking-news-august-1-live-updates-us-iran-war-air-strikes-pm-modi-parliament-lpg-price-weather-delhi-mumbai-usa-student-visa-fees-neet-paper-leak.jpg",
+        "date": "Aug 1, 2026",
+        "url": "https://m.economictimes.com/news/newsblogs/breaking-news-august-1-live-updates-us-iran-war-air-strikes-pm-modi-parliament-lpg-price-weather-delhi-mumbai-usa-student-visa-fees-neet-paper-leak/liveblog/132779671.cms"
+    },
+    {
+        "id": "3te40gct6",
+        "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
+        "excerpt": "Modern humans carry DNA from two mysterious extinct lineages in addition to Neanderthals and Denisovans. Their hidden genetic legacy shows that our evolutionary past was shaped by repeated mixing among many different human groups.",
+        "content": "<p>Modern humans carry DNA from two mysterious extinct lineages in addition to Neanderthals and Denisovans. Their hidden genetic legacy shows that our evolutionary past was shaped by repeated mixing among many different human groups.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/human-ghost-ancestors-dna.webp",
+        "date": "Aug 1, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm"
+    },
+    {
+        "id": "x3jr2walt",
+        "title": "HHS Launched a Federal Cooking Show This Week, and the Research on Whether That Changes How People Eat Is Genuinely Mixed",
+        "excerpt": "HHS launched The Real Food Show on July 30. What nutrition education research shows about whether cooking media changes eating habits.",
+        "content": "<p>HHS launched The Real Food Show on July 30. What nutrition education research shows about whether cooking media changes eating habits.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://d.medicaldaily.com/en/full/483859/vitaly-gariev-unsplash.jpg",
+        "date": "Aug 1, 2026",
+        "url": "https://www.medicaldaily.com/hhs-launched-federal-cooking-show-this-week-research-whether-that-changes-how-people-eat-476735"
+    },
+    {
+        "id": "232xjpq5o",
+        "title": "11 K-Dramas Featuring Multiple Members From The Same K-Pop Group",
+        "excerpt": "K-pop idols moonlighting as actors is nothing new, but there’s a special kind of chaos and charm when two or more members from the same group end up sharing the screen together. Whether they’re playing rivals, best friends, or even romantic leads, watching re…",
+        "content": "<p>K-pop idols moonlighting as actors is nothing new, but there’s a special kind of chaos and charm when two or more members from the same group end up sharing the screen together. Whether they’re playing rivals, best friends, or even romantic leads, watching re…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://0.soompi.io/wp-content/uploads/2026/07/30161810/Heartstrings-Imitation.jpg",
+        "date": "Aug 1, 2026",
+        "url": "http://www.soompi.com/article/1857304wpp/11-k-dramas-featuring-multiple-members-from-the-same-k-pop-group"
+    },
+    {
         "id": "9hi4pu9l3",
         "title": "TSMC reportedly develops EMIB-like packaging to counter Intel",
         "excerpt": "TSMC is reportedly developing a new advanced chip-packaging technology modeled on Intel's Embedded Multi-die Interconnect Bridge (EMIB), signaling that competition in AI semiconductor packaging is becoming as critical as chip manufacturing itself. The project…",
