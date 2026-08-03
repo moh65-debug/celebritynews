@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "m2jf86e2a",
+        "title": "'Motorcycle reels by day, honey-trap missions by night': Hamim’s girlfriend held in Pakistan-linked terror probe",
+        "excerpt": "Bengal STF arrested a 22-year-old influencer for aiding her boyfriend's terror module. She allegedly used social contacts to help him honey-trap influential figures on instructions. Digital trails and Instagram chats formed the basis of her arrest by the STF.…",
+        "content": "<p>Bengal STF arrested a 22-year-old influencer for aiding her boyfriend's terror module. She allegedly used social contacts to help him honey-trap influential figures on instructions. Digital trails and Instagram chats formed the basis of her arrest by the STF.…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-132799280,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Aug 2, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/kolkata/motorcycle-reels-by-day-honey-trap-missions-by-night-hamims-girlfriend-arpita-sarkar-held-in-pakistan-linked-terror-probe/articleshow/132799270.cms"
+    },
+    {
+        "id": "msff1z53z",
+        "title": "Trump announces pause in Iran attack after Tehran reportedly seeks talks, links move to Hormuz reopening",
+        "excerpt": "US -Iran war news: US President Trump has declared a suspension of military action against Iran, heeding requests from Tehran and other nations for a diplomatic approach. The United States had been prepared to implement significant strikes, but this delay aim…",
+        "content": "<p>US -Iran war news: US President Trump has declared a suspension of military action against Iran, heeding requests from Tehran and other nations for a diplomatic approach. The United States had been prepared to implement significant strikes, but this delay aim…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-132799179,width-1200,height-630,imgsize-50936,overlay-economictimes/articleshow.jpg",
+        "date": "Aug 2, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-announces-pause-in-iran-attack-after-tehran-reportedly-seeks-talks-links-move-to-hormuz-reopening/articleshow/132799145.cms"
+    },
+    {
+        "id": "yukkssxq8",
+        "title": "Trump announces: I have agreed to cancel the attack on Iran",
+        "excerpt": "President Trump announces he canceled a planned US strike on Iran following regional requests, demanding Tehran rapidly agree to a deal opening the Hormuz Strait.",
+        "content": "<p>President Trump announces he canceled a planned US strike on Iran following regional requests, demanding Tehran rapidly agree to a deal opening the Hormuz Strait.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://2.a7.org/files/pictures/000/1222444.jpg",
+        "date": "Aug 2, 2026",
+        "url": "https://www.israelnationalnews.com/news/431091"
+    },
+    {
+        "id": "oicqk3evi",
+        "title": "Exclusive - Soundous Moufakir on participating in Traitors Season 2; says, “I Don’t Think I Came All the Way from Morocco to India to Lose”",
+        "excerpt": "Soundous Moufakir enters The Traitors Season 2 with a clear winning strategy. She is prepared to make difficult choices and embrace any role necessary. Moufakir gained popularity on Khatron Ke Khiladi and explored various entertainment platforms. Her journey …",
+        "content": "<p>Soundous Moufakir enters The Traitors Season 2 with a clear winning strategy. She is prepared to make difficult choices and embrace any role necessary. Moufakir gained popularity on Khatron Ke Khiladi and explored various entertainment platforms. Her journey …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-132799150,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Aug 2, 2026",
+        "url": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-soundous-moufakir-on-participating-in-traitors-season-2-says-i-dont-think-i-came-all-the-way-from-morocco-to-india-to-lose/articleshow/132799144.cms"
+    },
+    {
+        "id": "47v1u2f42",
+        "title": "Singapore Good Soil Foundation Hosts Third Next Generation Philanthropy Leadership Program at the University of Hong Kong, Empowering the Next Generation of Global Changemakers",
+        "excerpt": "Singapore Good Soil Foundation Hosts Third Next Generation Philanthropy Leadership Program at the University of Hong Kong, Empowering the Next Generation of Global Changemakers",
+        "content": "<p>Singapore Good Soil Foundation Hosts Third Next Generation Philanthropy Leadership Program at the University of Hong Kong, Empowering the Next Generation of Global Changemakers</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/3swim9/article71297075.ece/alternates/LANDSCAPE_1200/20260723125656EDT_image_1.jpg",
+        "date": "Aug 2, 2026",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/singapore-good-soil-foundation-hosts-third-next-generation-philanthropy-leadership-program-at-the-university-of-hong-kong-empowering-the-next-generation-of-global-changemakers/article71297079.ece"
+    },
+    {
+        "id": "2yrhe0jdo",
+        "title": "Saudi Crown Prince Urges Trump Not To Escalate Iran War As U.S. Leader Weighs New Strikes: AP Source",
+        "excerpt": "Saudi Crown Prince Mohammed bin Salman, the kingdom’s de facto leader, in a phone call with President Donald Trump raised concerns about the U.S. potentially escalating the conflict with Iran.",
+        "content": "<p>Saudi Crown Prince Mohammed bin Salman, the kingdom’s de facto leader, in a phone call with President Donald Trump raised concerns about the U.S. potentially escalating the conflict with Iran.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.huffingtonpost.com/asset/6a6ea05d1400005540eaf34c.jpeg?ops=1200_630",
+        "date": "Aug 2, 2026",
+        "url": "https://www.huffpost.com/entry/iran-war-us-trump-mbs_n_6a6ea05ae4b0cfb99ef1afc1"
+    },
+    {
+        "id": "gdeu9a7ql",
+        "title": "EA Sports FC 27 Reveals Deep Dive On New Mechanics",
+        "excerpt": "EA Sports dropped a new blog this week for FC 27, revealing several new mechanics as part of a deep dive and touching on some important topics. Specifically, the focus on elements of both the Manager and Player Careers, as they have rebuilt the Transfer Marke…",
+        "content": "<p>EA Sports dropped a new blog this week for FC 27, revealing several new mechanics as part of a deep dive and touching on some important topics. Specifically, the focus on elements of both the Manager and Player Careers, as they have rebuilt the Transfer Marke…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/08/EA-Sports-FC-27-Tradews-2000x1125.jpg",
+        "date": "Aug 2, 2026",
+        "url": "https://bleedingcool.com/games/ea-sports-fc-27-reveals-deep-dive-on-new-mechanics/"
+    },
+    {
+        "id": "9se5j5c1s",
+        "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
+        "excerpt": "President Donald Trump in a Saturday evening social media post claimed that Mideast allies have reached the parameters of a deal to end the Iran war and said...",
+        "content": "<p>President Donald Trump in a Saturday evening social media post claimed that Mideast allies have reached the parameters of a deal to end the Iran war and said...</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/47b616ff100581026fe3bf6a9eb572d9d698ad51e9695726bda1fc504dff38a9/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6ef84605739db5cd33b3c804d7394100",
+        "date": "Aug 2, 2026",
+        "url": "https://www.yahoo.com/news/politics/articles/saudi-crown-prince-urges-trump-014040218.html"
+    },
+    {
+        "id": "sx70qoyje",
+        "title": "WWE SummerSlam Night 1 results: Oba Femi rules the day; winners, highlights",
+        "excerpt": "Who won at SummerSlam 2026? See what happened at night one of the WWE premium live event at U.S. Bank Stadium.",
+        "content": "<p>Who won at SummerSlam 2026? See what happened at night one of the WWE premium live event at U.S. Bank Stadium.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/778ec65317c967cdafbae066dbf82463228647ad37b0eb00c3f2758bdf1483d3/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwrestling_junkie_articles_438%2F432e558c76c6cb86659f69c9f4a3e225",
+        "date": "Aug 2, 2026",
+        "url": "https://wrestlingjunkie.usatoday.com/story/sports/wrestling/wwe/2026/08/01/wwe-summerslam-night-1-results-oba-femi-cm-punk-winners-highlights/91138485007/"
+    },
+    {
+        "id": "t59kspy1l",
+        "title": "Heat wave brings record-breaking temps, heightened wildfire risk to parts of Western US",
+        "excerpt": "A significant heat wave is currently affecting large areas of the Western United States. Temperatures are nearing record highs, increasing wildfire dangers in already dry regions. Many cities are experiencing dangerous heat, with some expecting record-breakin…",
+        "content": "<p>A significant heat wave is currently affecting large areas of the Western United States. Temperatures are nearing record highs, increasing wildfire dangers in already dry regions. Many cities are experiencing dangerous heat, with some expecting record-breakin…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://img.etimg.com/thumb/msid-132798995,width-1200,height-630,imgsize-93110,overlay-economictimes/articleshow.jpg",
+        "date": "Aug 2, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/heat-wave-brings-record-breaking-temps-heightened-wildfire-risk-to-parts-of-western-us/articleshow/132798956.cms"
+    },
+    {
         "id": "aerp2wrfq",
         "title": "Asteroid Apophis, named for the Egyptian god of chaos, will pass closer to Earth on 13 April 2029 than many weather satellites do — roughly 32,000 kilometres from the surface — and up to 90% of the world’s population may see it with the naked eye",
         "excerpt": "On the evening of 13 April 2029, a point of light may appear among the stars and move quickly enough for anyone watching carefully to see that it does not belong there. It will not be a satellite. It will not be a meteor burning in the atmosphere. It will be …",
