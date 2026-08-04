@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "am7vgjs8z",
+        "title": "Fintechs chase new revenue streams; Flipkart’s food delivery plans",
+        "excerpt": "Happy Monday! As core growth cools, India's listed fintechs are diversifying fast and launching new products. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Monday! As core growth cools, India's listed fintechs are diversifying fast and launching new products. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132816497,width-1070,height-580,imgsize-1468325,overlay-ettech/editionshow.jpg",
+        "date": "Aug 3, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/fintechs-chase-new-revenue-streams-flipkarts-food-delivery-plans/articleshow/132816497.cms"
+    },
+    {
+        "id": "y8kgjzgbb",
+        "title": "The Emergence And Unlikely Return Of The World’s Dumbest Management Idea",
+        "excerpt": "Over 25 years, MSV-focused firms often underperformed and faced market discipline, while customer-obsessed firms like Amazon, Apple Google ASML & TSMC compounded value.",
+        "content": "<p>Over 25 years, MSV-focused firms often underperformed and faced market discipline, while customer-obsessed firms like Amazon, Apple Google ASML & TSMC compounded value.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6ff39052890f8c11f909eb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "Aug 3, 2026",
+        "url": "https://www.forbes.com/sites/stevedenning/2026/08/02/the-emergence-and-unlikely-return-of-the-worlds-dumbest-management-idea/"
+    },
+    {
+        "id": "2kf9mr0l5",
+        "title": "Detroit Pistons: Breaking Down John Collins’ Post-Up Value In Motown",
+        "excerpt": "The Detroit Pistons made a tactical lineup change this offseason with John Collins expected to start at the four now that Tobias Harris is in San Antonio",
+        "content": "<p>The Detroit Pistons made a tactical lineup change this offseason with John Collins expected to start at the four now that Tobias Harris is in San Antonio</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/afbf253cd250db429dd04af7395a432f0f225ebbcbbd04ca35a356c8bcdbf9aa/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Froundtable_sports_detroit_pistons_298%2F24920b0ae73c56236d14eaa44d1b7d14",
+        "date": "Aug 3, 2026",
+        "url": "https://roundtable.io/sports/nba/pistons/players/detroit-pistons-breaking-down-john-collins-post-up-value-in-motown"
+    },
+    {
+        "id": "sh6w6onah",
+        "title": "Tony Abbott and the fine art of waving away corruption",
+        "excerpt": "Tony Abbott's efforts to downplay the NSW ICAC scandal counter his own record of reforming his party when in power — and reflect exactly the kind of hypocrisy that makes voters so fed up.\nThe post Tony Abbott and the fine art of waving away corruption appeare…",
+        "content": "<p>Tony Abbott's efforts to downplay the NSW ICAC scandal counter his own record of reforming his party when in power — and reflect exactly the kind of hypocrisy that makes voters so fed up.\nThe post Tony Abbott and the fine art of waving away corruption appeare…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/08/tabot.jpg?quality=70&w=1312",
+        "date": "Aug 3, 2026",
+        "url": "http://www.crikey.com.au/2026/08/03/tony-abbott-icac-reformers-inquiry-operation-rosny-corruption/"
+    },
+    {
+        "id": "f5dsqq85d",
+        "title": "Australia dominated as usual, but were the new-look Commonwealth Games the way of the future?",
+        "excerpt": "Many believe the Glasgow Commonwealth Games saved the event from extinction. But did the scaled-down version really work?",
+        "content": "<p>Many believe the Glasgow Commonwealth Games saved the event from extinction. But did the scaled-down version really work?</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://images.theconversation.com/files/751581/original/file-20260803-50-jsqo8i.jpg?ixlib=rb-4.1.1&rect=0%2C361%2C5701%2C2850&q=45&auto=format&w=1356&h=668&fit=crop",
+        "date": "Aug 3, 2026",
+        "url": "https://theconversation.com/australia-dominated-as-usual-but-were-the-new-look-commonwealth-games-the-way-of-the-future-288714"
+    },
+    {
+        "id": "4mxbau17n",
+        "title": "Donald Trump's granddaughter Kai Trump reveals her unexpected song of the year pick",
+        "excerpt": "Kai Trump revealed Adele's \"Rolling in the Deep\" as her song of the year in a new video, surprising fans with the classic 2010 hit as her pick.",
+        "content": "<p>Kai Trump revealed Adele's \"Rolling in the Deep\" as her song of the year in a new video, surprising fans with the classic 2010 hit as her pick.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/kai-trump.jpg",
+        "date": "Aug 3, 2026",
+        "url": "https://www.foxnews.com/entertainment/donald-trump-granddaughter-kai-trump-reveals-unexpected-song-year-pick"
+    },
+    {
+        "id": "eqcd1naai",
+        "title": "[Podcast] Creative Leadership & The Future of Branding with Ekaterina Solomeina",
+        "excerpt": "Ekaterina shares her perspective on what separates talented creatives from true creative leaders, why many businesses still underestimate design, and how creatives can better communicate their value in language executives understand.",
+        "content": "<p>Ekaterina shares her perspective on what separates talented creatives from true creative leaders, why many businesses still underestimate design, and how creatives can better communicate their value in language executives understand.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://justcreative.com/wp-content/uploads/2026/08/Ekatarina-YouTube-1.png",
+        "date": "Aug 3, 2026",
+        "url": "https://justcreative.com/creative-leadership/"
+    },
+    {
+        "id": "p4ks8puf5",
+        "title": "Chinese AI strengthening economic resilience",
+        "excerpt": "The technological and pricing shock brought by Kimi k3 to the large-language model ecosystem continues to reverberate through capital markets, with some US media outlets even describing it as a \"DeepSeek Moment 2.0\". It is widely believed within the industry …",
+        "content": "<p>The technological and pricing shock brought by Kimi k3 to the large-language model ecosystem continues to reverberate through capital markets, with some US media outlets even describing it as a \"DeepSeek Moment 2.0\". It is widely believed within the industry …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "http://img2.chinadaily.com.cn/images/202608/03/6a6fe6bba310986e101ac2e3.png",
+        "date": "Aug 3, 2026",
+        "url": "https://www.chinadaily.com.cn/a/202608/03/WS6a6fe6bba310986e2b468972.html"
+    },
+    {
+        "id": "7jugcomuz",
+        "title": "Scientists Discover More Than 1,000 Fish Nests Hiding Beneath Antarctica's Ice",
+        "excerpt": "In 2017, a gigantic iceberg designated A-68 split from the Larsen C ice shelf, giving scientists a unique opportunity: access to an extensive region of the seabed that had previously been hidden away under the ice.",
+        "content": "<p>In 2017, a gigantic iceberg designated A-68 split from the Larsen C ice shelf, giving scientists a unique opportunity: access to an extensive region of the seabed that had previously been hidden away under the ice.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencealert.com/images/2026/08/IcebergSplit.jpg",
+        "date": "Aug 3, 2026",
+        "url": "https://www.sciencealert.com/scientists-discover-more-than-1000-fish-nests-hiding-beneath-antarcticas-ice"
+    },
+    {
+        "id": "c3sfdaqfq",
+        "title": "WWE SummerSlam Night 2 results: Roman Reigns bests rival; winners, highlights",
+        "excerpt": "Who won at SummerSlam 2026? See what happened at night two of the WWE premium live event at U.S Bank Stadium.",
+        "content": "<p>Who won at SummerSlam 2026? See what happened at night two of the WWE premium live event at U.S Bank Stadium.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/639d65a2a9f134f0a480ab2655acff467160540fb3b8c84961fb71844bd55097/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwrestling_junkie_articles_438%2F346cb32f6318968bc5107dc165e3f8eb",
+        "date": "Aug 3, 2026",
+        "url": "https://wrestlingjunkie.usatoday.com/story/sports/wrestling/wwe/2026/08/02/wwe-summerslam-night-2-roman-still-reigns-gable-gets-big-moment-more/91144808007/"
+    },
+    {
         "id": "m2jf86e2a",
         "title": "'Motorcycle reels by day, honey-trap missions by night': Hamim’s girlfriend held in Pakistan-linked terror probe",
         "excerpt": "Bengal STF arrested a 22-year-old influencer for aiding her boyfriend's terror module. She allegedly used social contacts to help him honey-trap influential figures on instructions. Digital trails and Instagram chats formed the basis of her arrest by the STF.…",
