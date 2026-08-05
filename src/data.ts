@@ -12,6 +12,122 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "vtwu22h1n",
+        "title": "Govt moves to allow MDR; Qcomm braces for festive rush",
+        "excerpt": "Happy Tuesday! The government is proposing changes that could bring back merchant fees on select UPI transactions. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Tuesday! The government is proposing changes that could bring back merchant fees on select UPI transactions. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132844051,width-1070,height-580,imgsize-1468325,overlay-ettech/editionshow.jpg",
+        "date": "Aug 4, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/govt-moves-to-allow-mdr-qcomm-braces-for-festive-rush/articleshow/132844051.cms"
+    },
+    {
+        "id": "51th9ssc9",
+        "title": "ETMarkets Smart Talk | Financialisation of savings could be India's biggest wealth creator over the next decade: Prashasta Seth",
+        "excerpt": "In an interaction with Kshitij Anand of ETMarkets for Smart Talk series, Seth explains why the steady shift from physical assets to financial investments is transforming India's capital markets, shares his outlook on equities amid geopolitical and macroeconom…",
+        "content": "<p>In an interaction with Kshitij Anand of ETMarkets for Smart Talk series, Seth explains why the steady shift from physical assets to financial investments is transforming India's capital markets, shares his outlook on equities amid geopolitical and macroeconom…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-132844114,width-1200,height-630,imgsize-43408,overlay-etmarkets/articleshow.jpg",
+        "date": "Aug 4, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-financialisation-of-savings-could-be-indias-biggest-wealth-creator-over-the-next-decade-prashasta-seth/articleshow/132844074.cms"
+    },
+    {
+        "id": "x5j390cmd",
+        "title": "Rafay Systems targets the operating layer of the AI infrastructure boom",
+        "excerpt": "The AI infrastructure market is moving through a critical transition. The first phase was about acquiring graphics processing units and standing up capacity. The next phase is about turning that expensive hardware into a secure, reliable and profitable cloud …",
+        "content": "<p>The AI infrastructure market is moving through a critical transition. The first phase was about acquiring graphics processing units and standing up capacity. The next phase is about turning that expensive hardware into a secure, reliable and profitable cloud …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Rafay-Systems-CUBE-Conversation-2026.png",
+        "date": "Aug 4, 2026",
+        "url": "https://siliconangle.com/2026/08/03/rafay-ai-infrastructure-operating-layer-cubeconversations/"
+    },
+    {
+        "id": "cybkju564",
+        "title": "Can Reddit fend off a new wave of AI SEO spam?",
+        "excerpt": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous e…",
+        "content": "<p>Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous e…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Verge-RedditBrands_V1-Final.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "date": "Aug 4, 2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam"
+    },
+    {
+        "id": "wyvsdgeql",
+        "title": "Malaysia Blockchain Week’s OnlyFans scandal, lonely heart scammed for $3.3M: Asia Express",
+        "excerpt": "Malaysia Blockchain Week meltdown over OnlyFans linked after-party, pig butchering scams net $9M in a week in Hong Kong and more. The week’s top crypto news in Asia Express.",
+        "content": "<p>Malaysia Blockchain Week meltdown over OnlyFans linked after-party, pig butchering scams net $9M in a week in Hong Kong and more. The week’s top crypto news in Asia Express.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://s3-images.ctmedia.io/media/article-covers/asia-express-7.jpg",
+        "date": "Aug 4, 2026",
+        "url": "https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express"
+    },
+    {
+        "id": "zf0cktuzq",
+        "title": "POLARIS INTRODUCES BREAKTHROUGH POWER, INNOVATION AND VALUE ACROSS 2027 OFF-ROAD LINEUP",
+        "excerpt": "RZR Pro R Boost Delivers Industry-leading 275 Horsepower, Polaris XPEDITION Debuts NUMATIX with Pneumatic CVT, and New Sportsman 500 Delivers Legendary Capability in the Value Segmen",
+        "content": "<p>RZR Pro R Boost Delivers Industry-leading 275 Horsepower, Polaris XPEDITION Debuts NUMATIX with Pneumatic CVT, and New Sportsman 500 Delivers Legendary Capability in the Value Segmen</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://dims.apnews.com/dims4/default/46e1374/2147483647/strip/true/crop/2699x1798+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F54%2F5b976c9f44f33a76d67d5ef510d7%2Faee9f2358e0798a7e91c30675fb78eaa",
+        "date": "Aug 4, 2026",
+        "url": "https://apnews.com/press-release/pr-newswire/press-release-3b1222311e0202bb676ada4b76311455"
+    },
+    {
+        "id": "7a81bqjeo",
+        "title": "...",
+        "excerpt": "...",
+        "content": "<p>...</p><p>...</p><p>...</p><p>...</p><p>...</p>",
+        "celebrities": [
+            "Donald Trump",
+            "Iran",
+            "United States",
+            "Strait of Hormuz",
+            "Nuclear Program"
+        ],
+        "category": "World",
+        "image_url": "https://bl-i.thgim.com/public/incoming/xepnrn/article71303737.ece/alternates/LANDSCAPE_1200/2026-08-03T185319Z_684638_RC22RMA599HN_RTRMADP_3_USA-TRUMP.JPG",
+        "date": "Aug 4, 2026",
+        "url": "https://www.thehindubusinessline.com/news/world/new-talks-last-chance-for-iran-to-forge-deal-avoid-escalation-of-us-strikes-trump/article71303707.ece"
+    },
+    {
+        "id": "mrjamdtuo",
+        "title": "Scientists went looking for giant trees in Taiwan and found a lost world",
+        "excerpt": "Taiwan’s steep, remote mountains have sheltered extraordinary forests containing hundreds of giant Taiwania firs. After years of difficult expeditions, LiDAR mapping, and citizen-science detective work, researchers discovered an 84.1-meter (276-foot) tree, th…",
+        "content": "<p>Taiwan’s steep, remote mountains have sheltered extraordinary forests containing hundreds of giant Taiwania firs. After years of difficult expeditions, LiDAR mapping, and citizen-science detective work, researchers discovered an 84.1-meter (276-foot) tree, th…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/giant-forest-in-taiwan.webp",
+        "date": "Aug 4, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm"
+    },
+    {
+        "id": "e44ycntnz",
+        "title": "HIGHLIGHTS: Wall Hawks open two-a-days after winning state championship last year",
+        "excerpt": "SAN ANGELO, Texas (Concho Valley Homepage) — After winning the Class 3A Division II state championship last year, the Wall High School football team has high expectations again in 2026 as the Hawks move up to the D-I ranks. The Hawks were realigned into Distr…",
+        "content": "<p>SAN ANGELO, Texas (Concho Valley Homepage) — After winning the Class 3A Division II state championship last year, the Wall High School football team has high expectations again in 2026 as the Hawks move up to the D-I ranks. The Hawks were realigned into Distr…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/385ac417967f3b30779ee915a5c990b8faef7610989305c27cfc335d8d3a641a/lightyear_networkapi/resizefill_w900_h506;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fklst_san_angelo_articles_638%2F2ce2bc9ff42a9aca5b8940ab613aa99a",
+        "date": "Aug 4, 2026",
+        "url": "https://www.conchovalleyhomepage.com/locker-room/highlights-wall-hawks-open-two-a-days-after-winning-state-championship-last-year/"
+    },
+    {
+        "id": "6xzn7itom",
+        "title": "WHO Says the Congo Ebola Outbreak Is Now the Largest Ever Recorded in the Country as Confirmed Deaths Near 1,600",
+        "excerpt": "WHO says the Bundibugyo Ebola outbreak in DRC is the country's largest ever, with 3,605 confirmed cases and 1,587 deaths as of July 30.",
+        "content": "<p>WHO says the Bundibugyo Ebola outbreak in DRC is the country's largest ever, with 3,605 confirmed cases and 1,587 deaths as of July 30.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://d.medicaldaily.com/en/full/483929/badru-katumba-afp-via-getty-image.jpg",
+        "date": "Aug 4, 2026",
+        "url": "https://www.medicaldaily.com/who-drc-bundibugyo-ebola-largest-outbreak-ever-recorded-august-2026-476799"
+    },
+    {
         "id": "am7vgjs8z",
         "title": "Fintechs chase new revenue streams; Flipkart’s food delivery plans",
         "excerpt": "Happy Monday! As core growth cools, India's listed fintechs are diversifying fast and launching new products. This and more in today’s ETtech Morning Dispatch.",
