@@ -12,6 +12,176 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "2ytq663ys",
+        "title": "ITNE Weekly Roundup Highlights Key Tech Shifts from CxO Summits to AI Integrations",
+        "excerpt": "This week’s IT News You Can Use digest spotlights emerging trends in enterprise tech, from developer tooling and DevOps practices to AI-driven infrastructure and cybersecurity moves by major vendors.",
+        "content": "<p>The latest issue of IT News You Can Use (Vol 341, Issue 1) delivers a curated snapshot of enterprise technology developments, with a focus on leadership insights, developer productivity, and infrastructure modernization. The newsletter highlights recent activity from CxO forums, DevOps.com updates, and Java ecosystem advancements, signaling continued momentum in hybrid cloud adoption and automation.</p><p>Notable mentions include Anysphere’s growing influence in AI-assisted development environments, Commvault’s enhancements to data resilience platforms, and F5’s expanded application security offerings. OpenAI’s latest API updates are also cited as catalysts for enterprise-grade generative AI integration, particularly in workflow automation and customer-facing applications.</p><p>Rubrik and Sophos are featured for their coordinated push toward zero-trust data protection, combining backup intelligence with real-time threat detection. Industry analysts note this convergence reflects a broader shift toward unified security and operations platforms, reducing complexity in hybrid environments.</p><p>Marketing events covered in the roundup include upcoming developer conferences and CxO summits focused on AI governance and cost optimization in cloud spend. Feedback mechanisms were also highlighted, with the editor inviting reader input on the new daily briefing page and interactive calendar features to improve usability.</p><p>Responses from early readers suggest strong engagement with the curated format, particularly among IT leaders seeking signal over noise in a crowded tech landscape. One subscriber noted the value of ‘cross-domain connections’ between dev, ops, and security that the newsletter helps surface.</p><p>Looking ahead, the publication plans to refine its topic tagging and increase coverage of open-source middleware and Java-based microservices architectures. The editorial team aims to deepen its role as a bridge between technical practitioners and executive decision-makers in enterprise technology.",
+        "celebrities": [
+            "OpenAI",
+            "Commvault",
+            "Rubrik",
+            "F5",
+            "Anysphere"
+        ],
+        "category": "Tech",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!mG_N!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99d8e969-ce7d-4564-9dad-76920be56a84_1280x720.png",
+        "date": "Aug 6, 2026",
+        "url": "https://itnews.substack.com/p/itne-cxo-developer-devopscom-java"
+    },
+    {
+        "id": "4h1lo0tne",
+        "title": "DJI Mic Mini 2S Review: Compact Wireless Audio Solution for Creators",
+        "excerpt": "The DJI Mic Mini 2S delivers professional-grade wireless audio in a lightweight package, addressing a critical need for videographers who prioritize sound quality without bulk.",
+        "content": "<p>After years of producing landscape photography videos, tutorials, and behind-the-scenes content, the author has reaffirmed a core principle: reliable audio is as vital as the camera itself. This realization drove the review of the DJI Mic Mini 2S, a compact wireless microphone system designed for creators who demand clarity without compromise. The device targets vloggers, filmmakers, and educators who often work in dynamic environments where built-in camera mics fall short.</p>\n<p>The Mic Mini 2S builds on DJI’s established wireless audio lineup, offering two versions: a single-transmitter kit and a dual-transmitter variant. Both feature omnidirectional mics with built-in shock mounts and wind protection, transmitting via 2.4GHz digital signal to a compact receiver that plugs directly into cameras or smartphones. Battery life reaches up to 6 hours per charge, with a charging case extending total use to 18 hours.</p>\n<p>Key specifications include a frequency response of 20Hz–20kHz, a signal-to-noise ratio of 70dB, and a maximum sound pressure level of 110dB SPL. The system supports automatic gain control and includes a safety track feature that records a backup at -6dB to prevent clipping. In field testing, the author noted consistent audio quality even at distances up to 250 feet in open areas, with minimal dropouts in urban settings.</p>\n<p>Early user feedback highlights the system’s ease of use, particularly the one-touch pairing and intuitive OLED display on the transmitter. Content creators praised the low profile of the lapel mics, which remain unobtrusive during interviews or on-camera presentations. Some noted the plastic build feels less premium than higher-end competitors, though durability remains solid for everyday use.</p>\n<p>Implications of the Mic Mini 2S release reflect a broader trend: audio gear is becoming more accessible and integrated into creator workflows. As platforms prioritize video fidelity, tools like this bridge the gap between smartphone convenience and professional production. DJI’s continued investment in audio suggests a strategic move to become a one-stop shop for visual storytelling gear.</p>\n<p>Looking ahead, users should monitor firmware updates that may enhance latency performance or add multi-device monitoring. The Mic Mini 2S sits at a compelling price point for entry-level to intermediate creators, potentially influencing competitors to innovate in the sub-$200 wireless mic space. For those upgrading from onboard mics or lavalier systems, it offers a meaningful step up in reliability and clarity.",
+        "celebrities": [
+            "DJI",
+            "Mic Mini 2S",
+            "Wireless Microphone",
+            "Content Creation",
+            "Videography"
+        ],
+        "category": "Tech",
+        "image_url": "https://fstoppers.com/s3/files/styles/medium/s3/lead/2026/08/img_1053.jpg?itok=dIa6xqo5",
+        "date": "Aug 6, 2026",
+        "url": "https://fstoppers.com/audio/audio-any-occasion-review-new-dji-mic-mini-2s-903827"
+    },
+    {
+        "id": "xmsynaj5g",
+        "title": "Google Explores $1.5B Deal to License Mechanize’s AI Coding Tech and Hire Top Talent",
+        "excerpt": "Google is in advanced talks to acquire key technology and personnel from AI coding startup Mechanize Inc., signaling a strategic push to strengthen its generative AI capabilities in software development.",
+        "content": "<p>Google LLC is reportedly in discussions with artificial intelligence coding startup Mechanize Inc. over a proposed deal valued at approximately $1.5 billion. The agreement would involve licensing Mechanize’s proprietary AI models designed to automate and enhance software code generation, alongside the hiring of a significant portion of its engineering and research team. Business Insider first reported the talks, citing sources familiar with the matter, though neither company has confirmed the details publicly.</p><p>The potential deal underscores Google’s aggressive effort to close the gap with competitors like Microsoft and OpenAI in the rapidly evolving AI-powered developer tools market. Mechanize, founded in 2021 by former Google and DeepMind researchers, has built a reputation for its advanced large language models fine-tuned specifically for code comprehension, debugging, and generation across multiple programming languages. Its technology has been praised for reducing boilerplate coding time by up to 40% in internal benchmarks.</p><p>According to sources, the transaction would not be a full acquisition but rather a hybrid arrangement: Google would license Mechanize’s core AI models and related intellectual property while selectively hiring key personnel, including lead architects and senior machine learning engineers. This structure allows Google to avoid regulatory scrutiny associated with a full takeover while still gaining critical talent and tech assets. One source described the move as ‘a talent and technology acqui-hire with licensing wrapped around it.’</p><p>Industry analysts view the talks as a direct response to Microsoft’s GitHub Copilot and Amazon’s CodeWhisperer, both of which have gained traction among enterprise developers. Google’s own AI coding assistant, AlphaCode, has shown promise in research settings but has yet to achieve broad commercial adoption. Integrating Mechanize’s tech could accelerate Google’s ability to offer a competitive, enterprise-ready product under its Vertex AI or Google Cloud platforms.</p><p>The broader implications extend beyond product competition; the deal reflects a growing trend where major tech firms seek to absorb specialized AI startups not through traditional M&A, but via targeted talent and IP acquisitions that bypass antitrust hurdles. If completed, it could set a precedent for how Big Tech consolidates niche AI innovation without triggering regulatory alarms. Observers will watch for official confirmation in the coming weeks and any potential filings with the SEC or DOJ regarding the nature of the transaction.",
+        "celebrities": [
+            "Google",
+            "Mechanize Inc.",
+            "Business Insider",
+            "Microsoft",
+            "GitHub Copilot"
+        ],
+        "category": "Tech",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-06-09-28-13.png",
+        "date": "Aug 6, 2026",
+        "url": "https://siliconangle.com/2026/08/05/google-targets-ai-startup-mechanizes-technology-talent-proposed-1-5b-deal/"
+    },
+    {
+        "id": "vedg4wquz",
+        "title": "Iran and US Signal Progress on Hormuz Strait Agreement Amid Tensions",
+        "excerpt": "Iran says it is in the final stage of drafting a deal with Oman to manage the Strait of Hormuz, while the US hints at an imminent announcement, raising hopes for de-escalation in a vital global chokepoint.",
+        "content": "<p>Iran announced on Wednesday that it is in the 'final stage' of drafting an agreement with Oman regarding the management and security of the Strait of Hormuz, one of the world's most critical maritime passages. The development comes as US President Donald Trump suggested a deal could be announced this week, potentially easing long-standing tensions in the Gulf. Analysts say any accord would aim to ensure safe passage for commercial vessels amid recurring fears of disruption due to regional hostilities.</p><p>The Strait of Hormuz, through which about a fifth of global oil consumption flows, has been a flashpoint for years, particularly amid US-Iran standoffs over sanctions, nuclear negotiations, and regional influence. Oman has historically played a mediating role between Tehran and Washington, leveraging its neutral stance to facilitate backchannel talks. This latest initiative appears to build on that tradition, seeking a practical arrangement to reduce the risk of accidental or deliberate escalation.</p><p>Iranian officials emphasized that the draft agreement focuses on maritime safety, coordination of vessel traffic, and confidence-building measures, though specifics remain undisclosed. President Trump, speaking at a campaign event, said the US was 'very close' to an announcement that would 'keep the strait open and safe for all nations.' No details were provided on whether the US would be a direct signatory or a guarantor of the deal.</p><p>Regional analysts welcomed the signals but cautioned that past agreements have faltered due to mutual distrust and shifting political winds. Some noted that for the deal to hold, both Iran and the US would need to make concessions — Tehran likely seeking relief from sanctions pressure, and Washington wanting assurances on non-interference with shipping and no resumption of uranium enrichment at higher levels. Oman’s role as facilitator could be pivotal in bridging those gaps.</p><p>The broader significance lies in the potential to stabilize a key artery of the global economy and reduce the risk of unintended conflict in an already volatile region. If successful, the agreement could serve as a model for managing other flashpoints through quiet diplomacy rather than confrontation. Observers will now watch for the formal announcement, the exact terms of the accord, and whether it withstands pressure from hardliners on both sides.",
+        "celebrities": [
+            "Iran",
+            "United States",
+            "Oman",
+            "Strait of Hormuz",
+            "Donald Trump"
+        ],
+        "category": "World",
+        "image_url": "https://bl-i.thgim.com/public/incoming/hwz43a/article71311948.ece/alternates/LANDSCAPE_1200/2026-08-04T182329Z_780623365_RC2RQMATSB7W_RTRMADP_3_GLOBAL-OIL.JPG",
+        "date": "Aug 6, 2026",
+        "url": "https://www.thehindubusinessline.com/news/world/iran-us-say-strait-of-hormuz-deal-is-close-but-one-or-both-would-have-to-back-down/article71311924.ece"
+    },
+    {
+        "id": "vrbmlalb8",
+        "title": "China Bets AI, Hypersonics, and Quantum Tech to Redefine Future Warfare",
+        "excerpt": "China is accelerating investment in cutting-edge military technologies to counter U.S. dominance and shape the next era of strategic competition.",
+        "content": "<p>China has intensified its focus on developing artificial intelligence, hypersonic missiles, and quantum technologies as central pillars of its military modernization strategy, according to recent defense white papers and intelligence assessments. This shift reflects Beijing’s effort to offset the United States’ longstanding advantages in conventional forces, global basing, and combat experience by leapfrogging into asymmetric, high-impact domains where early dominance could confer decisive strategic benefits.</p><p>The push builds on decades of defense reform initiated after the 1991 Gulf War, when Chinese leaders concluded that technological superiority, not sheer troop numbers, determines modern battlefield outcomes. Since then, China has doubled its defense R&D spending over the past decade, established military-civil fusion programs to accelerate technology transfer, and created new entities like the PLA Strategic Support Force to integrate space, cyber, and electronic warfare capabilities.</p><p>Key developments include fielding the DF-17 hypersonic glide vehicle, operationalizing AI-driven decision-support systems in command centers, and achieving quantum communication milestones such as the Micius satellite network. Chinese defense officials have stated these technologies are not merely incremental upgrades but ‘game-changers’ designed to disrupt enemy sensors, compress decision cycles, and enable precision strikes at unprecedented ranges and speeds.</p><p>U.S. and allied officials have responded with growing concern, citing China’s rapid progress in hypersonics and AI as narrowing the technological gap. Admiral John Aquilino, head of U.S. Indo-Pacific Command, warned in congressional testimony that China’s integrated warfighting approach could challenge U.S. operational freedom in a crisis, particularly around Taiwan. Meanwhile, NATO has begun updating its own emerging and disruptive technologies strategy in response.</p><p>The broader implication is a shift from platform-centric warfare to algorithm-driven, networked combat where speed of cognition and data fusion may matter more than firepower alone. As China closes the gap in foundational technologies, the next phase of competition will likely hinge on doctrine, integration, and resilience under pressure — making transparency, arms control dialogue, and allied interoperability critical areas to watch in the coming years.",
+        "celebrities": [
+            "China",
+            "United States",
+            "PLA",
+            "DF-17",
+            "Micius"
+        ],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/bc9064d330ad683e_s.webp",
+        "date": "Aug 6, 2026",
+        "url": "https://biztoc.com/x/bc9064d330ad683e"
+    },
+    {
+        "id": "oxys3f7zd",
+        "title": "Jamie Dimon Warns Elevated Leverage Could Trigger Market Disruption",
+        "excerpt": "JPMorgan Chase CEO Jamie Dimon cautioned that high leverage across financial markets, particularly hidden borrowing, poses a growing risk of sudden market disruption.",
+        "content": "<p>JPMorgan Chase CEO Jamie Dimon warned investors that leverage across global financial markets remains elevated, urging vigilance as hidden borrowing could amplify future market disruptions. Speaking at the bank's annual investor day, Dimon emphasized that while current conditions appear stable, the buildup of debt and complex financial exposures could quickly turn volatile under stress. His remarks come amid growing concerns about rising corporate and private debt levels, particularly in leveraged loans and private credit markets.</p><p>The warning reflects longstanding worries among regulators and central banks about the opacity of leverage in non-bank financial intermediaries. Unlike traditional banks, hedge funds, private equity firms, and shadow banking entities often operate with minimal public disclosure, making it difficult to assess true risk exposure. Dimon noted that this 'hidden leverage' could act as a accelerant during periods of market turbulence, similar to the role it played in the 2008 financial crisis.</p><p>Dimon cited specific data points, including JPMorgan's internal monitoring of leverage ratios across major asset classes, which show levels approaching those seen before past market corrections. He stressed that while the bank's own balance sheet remains strong and well-capitalized, systemic risks are not confined to regulated institutions. 'Somebody will disrupt the market,' Dimon said, adding that the trigger could be anything from a geopolitical shock to a sudden repricing of risk assets.</p><p>Analysts and market observers responded with a mix of agreement and caution, noting that Dimon's warnings align with recent alerts from the International Monetary Fund and the Financial Stability Board. Some pointed out that Jamie Dimon's credibility on systemic risk carries weight given JPMorgan's role as a central player in global markets. However, others argued that current lending standards are stricter than in 2008, reducing the likelihood of a repeat crisis.</p><p>Looking ahead, investors will be watching for signs of stress in private credit markets, margin debt levels, and the performance of leveraged exchange-traded funds. Regulators may also increase scrutiny on non-bank lenders as part of broader efforts to enhance market resilience. Dimon's warning serves as a reminder that even in periods of apparent calm, underlying vulnerabilities can accumulate silently — and surface without warning.</p>",
+        "celebrities": [
+            "Jamie Dimon",
+            "JPMorgan Chase",
+            "Financial Stability Board",
+            "International Monetary Fund",
+            "Wall Street"
+        ],
+        "category": "Tech",
+        "image_url": "https://image.cnbcfm.com/api/v1/image/108335529-1784138619967-gettyimages-2285617388-DEFENSE_INNOVATION_SUMMIT.jpeg?v=1784138658&w=1920&h=1080",
+        "date": "Aug 6, 2026",
+        "url": "https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html"
+    },
+    {
+        "id": "qrnpsl4lx",
+        "title": "Google Restructures DeepMind to Prioritize Product Integration Over Pure Research",
+        "excerpt": "Google is reorganizing DeepMind to align its AI breakthroughs more closely with commercial products, signaling a strategic shift from long-term research dominance to infrastructure-driven, product-first execution.",
+        "content": "<p>Google has announced a major restructuring of DeepMind, bringing the AI research lab more directly under the oversight of Google’s product and cloud divisions. The move, confirmed by internal memos and verified by multiple sources, aims to tighten the integration of DeepMind’s innovations — such as Gemini models and AlphaFold — into Google’s core offerings like Search, Workspace, and Cloud AI. Executives say the goal is to accelerate the deployment of cutting-edge AI into real-world products, rather than letting research remain siloed.</p><p>The shift reflects growing pressure within Alphabet to demonstrate tangible returns on its massive AI investments, which have exceeded $100 billion in cumulative spending over the past five years. While DeepMind has produced landmark scientific achievements — including Nobel Prize-recognized work on protein folding — its ability to translate those into scalable, revenue-generating products has lagged behind competitors like OpenAI and Anthropic. Leadership now argues that infrastructure, not just insight, must drive the next phase of AI advancement.</p><p>As part of the reorganization, DeepMind’s most ambitious long-term research units — including those focused on artificial general intelligence (AGI) and foundational neuroscience-inspired models — are being spun out or placed under new governance structures with greater autonomy but reduced direct funding from Google’s core AI budget. Demis Hassabis, DeepMind’s co-founder and CEO, remains in a leadership role but now reports jointly to Google’s Chief Scientist and the head of Google Cloud, underscoring the dual mandate of scientific excellence and product delivery.</p><p>Internal reactions have been mixed. Some researchers express concern that the pivot risks undermining the culture of curiosity-driven exploration that made DeepMind unique, with one senior scientist telling Forkast.news off the record: ‘We’re being asked to turn breakthroughs into features before we even understand their limits.’ Others, particularly those working on applied AI teams, welcome the clarity, noting that years of promising demos had stalled due to lack of product ownership and go-to-market strategy.</p><p>Analysts see the move as a watershed moment for Big AI: Google is betting that the future of AI leadership lies not in publishing the most papers, but in owning the most reliable, scalable, and integrated AI infrastructure. The restructuring may presage similar shifts at Meta and Microsoft, where tensions between research purity and product urgency are also mounting. What to watch next is whether DeepMind’s spun-out units can sustain innovation without Google’s scale — and whether product integration will finally unlock the commercial value of its decade-long research investments.",
+        "celebrities": [
+            "Google",
+            "DeepMind",
+            "Demis Hassabis",
+            "Google Cloud",
+            "Alphabet"
+        ],
+        "category": "Science",
+        "image_url": "https://forkast.news/wp-content/uploads/2026/08/forkast-128803-1024x572.jpg",
+        "date": "Aug 6, 2026",
+        "url": "https://forkast.news/googles-deepmind-shakeup-reveals-a-compute-landlord-betting-on-infrastructure-over-research/"
+    },
+    {
+        "id": "urpb4m1tb",
+        "title": "Russian Black Sea Beach Struck by Projectile, Killing Seven Including Four Children",
+        "excerpt": "A deadly projectile hit a crowded beach in Russia’s Krasnodar Krai on Monday, killing seven civilians — four of them children — and prompting Moscow to accuse Ukraine of a drone strike amid escalating tensions in the Black Sea region.",
+        "content": "<p>A projectile struck a packed public beach in the resort town of Anapa, located on Russia’s Black Sea coast in Krasnodar Krai, shortly after noon local time on Monday. Witnesses described a sudden explosion followed by chaos as beachgoers scrambled for cover amid smoke and screaming. Russian emergency services confirmed seven fatalities, including four children aged between 6 and 12, and 58 injuries, many of them serious.</p>\n<p>The incident occurred during peak summer vacation season, when Anapa’s beaches typically draw tens of thousands of Russian tourists seeking relief from the heat. Local authorities immediately cordoned off the area and launched an investigation, with forensic teams collecting debris from the impact site. Video footage circulating on social media showed a bright flash and plume of smoke rising from the shoreline, consistent with a high-velocity impact.</p>\n<p>Russia’s Defense Ministry swiftly blamed Ukraine, claiming the projectile was launched from a Ukrainian Bayraktar TB2 drone operating over the Black Sea. Moscow stated it had intercepted the drone’s flight path and deemed the attack a deliberate act of terrorism targeting civilians. Kyiv has not officially responded to the accusation, though Ukrainian military officials have previously denied targeting civilian areas in resort zones.</p>\n<p>International observers, including the OSCE and UN human rights monitors, called for an immediate, impartial investigation into the incident, warning that assigning blame without evidence risks escalating tensions further. NATO officials noted the strike occurred in international airspace near Crimea, a region Russia annexed in 2014 but which most of the world still considers Ukrainian territory.</p>\n<p>The tragedy underscores the growing danger to civilians as the conflict spills beyond front lines into coastal tourism zones, raising concerns about the safety of non-combatants in areas previously considered low-risk. Analysts warn that if such attacks continue, Russia may respond with intensified strikes on Ukrainian infrastructure, potentially drawing in neighboring states and complicating diplomatic efforts to de-escalate the war.",
+        "celebrities": [
+            "Russia",
+            "Ukraine",
+            "Anapa",
+            "Black Sea",
+            "OSCE"
+        ],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/explosionbywater.gif",
+        "date": "Aug 6, 2026",
+        "url": "https://www.foxnews.com/world/crowded-russian-beach-descends-chaos-alleged-ukrainian-drone-incident-kills-7-including-4-children"
+    },
+    {
+        "id": "ol00dyyp8",
+        "title": "Anime NYC 2026 Announces Preliminary Plans for August Return to Javits Center",
+        "excerpt": "Organizers of Anime NYC 2026 have confirmed initial guest lineups and event structure for the August 20-23 convention at the Javits Center, signaling a continued commitment to large-scale anime and pop culture gatherings in New York City.",
+        "content": "<p>Anime NYC 2026 organizers have released preliminary plans for the upcoming convention, set to take place from August 20 to 23 at the Jacob K. Javits Convention Center in Manhattan. The announcement includes confirmation of several high-profile guests from the anime and manga industries, though full lineups and programming schedules remain pending. The early reveal aims to assist attendees with travel and accommodation planning ahead of the summer event.</p>\n<p>This year’s event marks the seventh iteration of Anime NYC since its inception in 2017, following a hiatus in 2020 due to the pandemic and a scaled-down return in 2021. The convention has grown steadily, becoming one of the largest anime-focused gatherings on the East Coast, drawing tens of thousands of attendees annually. Organizers emphasize that the 2026 edition will build on past successes while incorporating lessons learned from recent iterations regarding crowd management and accessibility.</p>\n<p>According to the announcement, confirmed guests include voice actors, directors, and artists from notable studios such as MAPPA, Studio Trigger, and Production I.G., though specific names were not disclosed in the initial release. The event will feature industry panels, exclusive screenings, cosplay competitions, and a vendor hall showcasing merchandise from both Japanese and Western publishers. Ticket pricing and registration dates are expected to be announced in the coming weeks.</p>\n<p>Reactions from the anime community have been cautiously optimistic, with fans expressing excitement over the return to a full-scale summer convention after several years of uncertainty. Some attendees have noted concerns about hotel availability and transportation logistics in midtown Manhattan during peak summer, urging organizers to provide clear guidance early. Industry observers suggest that Anime NYC’s timing — avoiding direct competition with major west coast events like Anime Expo — helps solidify its niche in the North American convention circuit.</p>\n<p>Looking ahead, the success of Anime NYC 2026 could influence future scheduling and scale for similar events in the northeastern United States. Organizers have hinted at potential expansions in educational programming and industry networking opportunities, aiming to strengthen the convention’s role not just as a fan gathering but as a professional hub. As more details emerge over the spring and early summer, stakeholders will be watching closely to see how the event balances growth with attendee experience.</p>",
+        "celebrities": [
+            "Anime NYC",
+            "Javits Center",
+            "MAPPA",
+            "Studio Trigger",
+            "Production I.G."
+        ],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/08/Anime-NYC-2026-Logo-2000x1125.jpg",
+        "date": "Aug 6, 2026",
+        "url": "https://bleedingcool.com/pop-culture/anime-nyc-2026-reveals-preliminary-plans-for-the-august-event/"
+    },
+    {
+        "id": "2j3k8p04m",
+        "title": "Dennis Rodman Opens Up About Homelessness Before NBA Fame",
+        "excerpt": "In a rare candid reflection, Hall of Famer Dennis Rodman reveals how homelessness and poverty shaped his drive to succeed in basketball, reframing his legacy beyond the tattoos and headlines.",
+        "content": "<p>Dennis Rodman, the five-time NBA champion and Hall of Fame rebounding specialist, recently spoke publicly for the first time in depth about experiencing homelessness during his teenage years in Dallas, Texas. He described sleeping in abandoned cars, bus stations, and the homes of friends who could barely afford to take him in, emphasizing that basketball was never about fame or glory for him — it was a lifeline out of crushing poverty. His remarks come amid renewed interest in his complex legacy as both a sports icon and a polarizing cultural figure.</p><p>Rodman grew up in the Oak Cliff projects of Dallas, where his father left the family when he was young, leaving his mother to struggle to support three children on a low-wage job. He has said he didn’t start playing organized basketball until his late teens, after a growth spurt brought him to 6-foot-7, and even then, he was overlooked by major college programs. His path to the NBA was unconventional: a standout season at Southeastern Oklahoma State led to a second-round draft pick by the Detroit Pistons in 1986, where he began to forge his identity as a defensive menace and rebounding force.</p><p>In his reflections, Rodman recalled specific moments that defined his struggle: waking up with frost on his cheeks after sleeping in a car during a Dallas winter, relying on school lunches as his main meal, and being told by coaches and peers that he ‘didn’t belong’ in gyms or locker rooms because of his background. He credited one high school coach, who quietly washed his uniforms and gave him rides to practice, with keeping him in the game when he felt like quitting. ‘Basketball wasn’t about the fame,’ Rodman said. ‘It was about not going back to that.’</p><p>The revelations have drawn praise from former teammates and sports historians, who note that Rodman’s story adds necessary depth to a narrative often reduced to his neon hair, wedding dresses, and high-profile friendships with celebrities like Madonna and Kim Jong-un. Isiah Thomas, his longtime teammate on the Pistons’ ‘Bad Boys’ teams, said Rodman’s resilience was the foundation of his ferocity on the court: ‘Nobody fought for every rebound like him because nobody had more to lose.’ Scholars suggest his experience helps explain his later empathy for marginalized communities and his unconventional activism.</p><p>Beyond personal testimony, Rodman’s account challenges the myth of the ‘self-made’ sports star by highlighting the role of chance, mentorship, and institutional neglect in shaping athletes’ trajectories. It also raises questions about how the NBA and youth sports programs support at-risk kids today, especially those without access to stable housing or coaching. As Rodman now works with nonprofit organizations focused on youth homelessness in urban areas, his story may serve as both a cautionary tale and a testament to the transformative power of sport when paired with human support.",
+        "celebrities": [
+            "Dennis Rodman",
+            "NBA",
+            "Detroit Pistons",
+            "Dallas",
+            "Southeastern Oklahoma State"
+        ],
+        "category": "Entertainment",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/3da449a57f0972de949cef5c826e6d87f2f70e8eb232015cd56a06cb8e65375c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fd1e78fc0e7336aba56f89ccfbab151cb",
+        "date": "Aug 6, 2026",
+        "url": "https://www.complex.com/sports/a/markelibert/dennis-rodman-homeless-nba-rockstar-fanatics-fest"
+    },
+    {
         "id": "oa95ot2wz",
         "title": "US Moves to Restrict Chinese Optical Transceivers in AI Data Centers",
         "excerpt": "The Trump administration is preparing new restrictions on Chinese-made optical transceivers critical to AI infrastructure, escalating efforts to secure domestic supply chains for advanced computing hardware.",
