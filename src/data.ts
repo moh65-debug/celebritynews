@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "l0gx4wkz2",
+        "title": "Codoxo Secures Higher Ranking on 2026 Inc. 5000 List of America's Fastest-Growing Private Companies",
+        "excerpt": "Fourth consecutive appearance and improved ranking underscore Codoxo's expanding leadership in AI-powered healthcare payment integrity. DULUTH, Ga., Aug. 13, 2026 /PRNewswire/ -- Codoxo, the leading provider of AI and generative AI-powered healthcare payment …",
+        "content": "<p>Fourth consecutive appearance and improved ranking underscore Codoxo's expanding leadership in AI-powered healthcare payment integrity. DULUTH, Ga., Aug. 13, 2026 /PRNewswire/ -- Codoxo, the leading provider of AI and generative AI-powered healthcare payment …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1469043/Codoxo-Logo.jpg?id=OA2886701&p=facebook",
+        "date": "Aug 14, 2026",
+        "url": "https://www.prnewswire.com/news-releases/codoxo-secures-higher-ranking-on-2026-inc-5000-list-of-americas-fastest-growing-private-companies-302851446.html"
+    },
+    {
+        "id": "t0nsrul1i",
+        "title": "Cars24, Spinny, Droom seek new growth engines as profits remain elusive",
+        "excerpt": "Cars24 has continues to expand its use of AI, while diversifying into personal loans and credit-score services alongside car financing. Similarly, Spinny has partnered with original equipment manufacturers to build a certified pre-owned electric vehicle ecosy…",
+        "content": "<p>Cars24 has continues to expand its use of AI, while diversifying into personal loans and credit-score services alongside car financing. Similarly, Spinny has partnered with original equipment manufacturers to build a certified pre-owned electric vehicle ecosy…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/2-0-1272711114-UsedCars--1--0_1679600798111_1786617172896_0533b7e0-5c09-4207-b9d7-c42da5b5c727.JPG",
+        "date": "Aug 14, 2026",
+        "url": "https://www.livemint.com/companies/news/cars24-spinny-droom-seek-new-growth-engines-as-profits-remain-elusive-11786603825467.html"
+    },
+    {
+        "id": "dkpt7ur4n",
+        "title": "Indonesia aims to become global AI player, not just user: ministry",
+        "excerpt": "Indonesia is aiming to transform from a passive consumer into a major global force in the artificial intelligence (AI) landscape, deploying a comprehensive ...",
+        "content": "<p>Indonesia is aiming to transform from a passive consumer into a major global force in the artificial intelligence (AI) landscape, deploying a comprehensive ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/08/13/IMG-20260813-WA0086.jpg",
+        "date": "Aug 14, 2026",
+        "url": "https://en.antaranews.com/news/426963/indonesia-aims-to-become-global-ai-player-not-just-user-ministry"
+    },
+    {
+        "id": "43hwcag2x",
+        "title": "Preseason College Football Playoff predictions for 2026 season",
+        "excerpt": "The race to make the College Football Playoff is going to be a heated one, but who will occupy the 12 spots in the bracket?",
+        "content": "<p>The race to make the College Football Playoff is going to be a heated one, but who will occupy the 12 spots in the bracket?</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/8c95e0c721990a3ab7020d4e1702c915a40ab47e703746bca4a1fb80613ed2c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F180308a4124d3b804e7d99f3622fca00.jpg",
+        "date": "Aug 14, 2026",
+        "url": "https://clutchpoints.com/ncaa-football/preseason-college-football-playoff-predictions-for-2026-season"
+    },
+    {
+        "id": "3sjua4p82",
+        "title": "New American Horror Story: 13 Trailer on Display at Disney's D23",
+        "excerpt": "Fans of Ryan Murphy and Brad Falchuk's long-running horror anthology series had a lot to celebrate earlier today when the first official teaser for FX's American Horror Story: 13 was released. But the Thursday fun didn't end there. With the all-star season ki…",
+        "content": "<p>Fans of Ryan Murphy and Brad Falchuk's long-running horror anthology series had a lot to celebrate earlier today when the first official teaser for FX's American Horror Story: 13 was released. But the Thursday fun didn't end there. With the all-star season ki…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/08/MixCollage-13-Aug-2026-08-17-PM-1863-2000x1125.jpg",
+        "date": "Aug 14, 2026",
+        "url": "https://bleedingcool.com/tv/new-american-horror-story-13-trailer-on-display-at-disneys-d23/"
+    },
+    {
+        "id": "o6es8l5d6",
+        "title": "US Treasury Secretary warns Iran of 'unprecedented' economic isolation",
+        "excerpt": "US Treasury Secretary Scott Bessent announces upcoming historic economic isolation measures against Iran alongside the ongoing naval blockade in the Strait of Hormuz.",
+        "content": "<p>US Treasury Secretary Scott Bessent announces upcoming historic economic isolation measures against Iran alongside the ongoing naval blockade in the Strait of Hormuz.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://2.a7.org/files/pictures/000/1183882.jpg",
+        "date": "Aug 14, 2026",
+        "url": "https://www.israelnationalnews.com/news/431691"
+    },
+    {
+        "id": "o5nitg844",
+        "title": "Texas football news: Transfer LB disses Ohio State before Week 2 matchup",
+        "excerpt": "A linebacker who joined the Texas Longhorns through the transfer portal sends a message to the Ohio State Buckeyes for their Week 2 matchup.",
+        "content": "<p>A linebacker who joined the Texas Longhorns through the transfer portal sends a message to the Ohio State Buckeyes for their Week 2 matchup.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/70a4f1a8e002b862a9c8645f70e5e805e8c57d1b58405dc6c801e5ed5f0442b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2Fd56353036f3af57d455c9de4a70af6d9.jpg",
+        "date": "Aug 14, 2026",
+        "url": "https://clutchpoints.com/ncaa-football/texas-football-news-transfer-linebacker-rasheem-biles-disses-ohio-state-before-blockbuster-week-2-matchup"
+    },
+    {
+        "id": "w2n4jv85j",
+        "title": "PLCG2 downregulation impairs synaptic function and increases Alzheimer’s disease hallmarks in neuronal cultures",
+        "excerpt": "This study demonstrates that downregulation of PLCG2, primarily in neurons, impairs synaptic function and elevates amyloid-β levels and Tau protein phosphorylation.",
+        "content": "<p>This study demonstrates that downregulation of PLCG2, primarily in neurons, impairs synaptic function and elevates amyloid-β levels and Tau protein phosphorylation.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02709-5/MediaObjects/41588_2026_2709_Fig1_HTML.png",
+        "date": "Aug 14, 2026",
+        "url": "https://www.nature.com/articles/s41588-026-02709-5"
+    },
+    {
+        "id": "rpdmszlqk",
+        "title": "An AI-Health infrastructure for the Nordic region: technical foundations, data assets, and a roadmap for deployment",
+        "excerpt": "In this Comment, we outline the Nordic AI-Health Initiative platform, built on unique large-scale longitudinal and multimodal health data sets from across the region. The platform is designed to enable secure, regulation-compliant access and to deliver genera…",
+        "content": "<p>In this Comment, we outline the Nordic AI-Health Initiative platform, built on unique large-scale longitudinal and multimodal health data sets from across the region. The platform is designed to enable secure, regulation-compliant access and to deliver genera…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04575-4/MediaObjects/41591_2026_4575_Fig1_HTML.png",
+        "date": "Aug 14, 2026",
+        "url": "https://www.nature.com/articles/s41591-026-04575-4"
+    },
+    {
+        "id": "s93pply02",
+        "title": "From Radiator Springs to the F1 Paddock: Disney and Pixar’s Cars Joins the Disney and Formula 1 Collaboration",
+        "excerpt": "This year, Disney and Pixar’s Cars celebrates it’s 20th anniversary, marking two decades since Lightning McQueen first raced into theaters and introduced fans to the unforgettable town of Radiator Springs. And now, Disney and Formula 1 are marking the occasio…",
+        "content": "<p>This year, Disney and Pixar’s Cars celebrates it’s 20th anniversary, marking two decades since Lightning McQueen first raced into theaters and introduced fans to the unforgettable town of Radiator Springs. And now, Disney and Formula 1 are marking the occasio…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://disneyparksblog.com/app/uploads/2026/08/Formula-1-Cars-Mickey-Mouse-and-Minnie-Mouse.png",
+        "date": "Aug 13, 2026",
+        "url": "https://disneyparksblog.com/products/disney-and-pixars-cars-joins-the-disney-and-formula-1-collaboration/"
+    },
+    {
         "id": "carfqtdqs",
         "title": "Digital Forensics at a Crossroads: Why Who Decides Matters More Than Ever",
         "excerpt": "As AI reshapes digital investigations, veteran examiner Brett Shavers warns that decisions made far from the evidence risk undermining justice — and Magnet Forensics is pushing for change.",
