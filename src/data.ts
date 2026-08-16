@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "1qclvhwkp",
+        "title": "The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.",
+        "excerpt": "2026: the year the tools learned to hack\nIn May 2026, OpenAI began testing an internal research model against a cybersecurity benchmark called ExploitGym. While the test environment was not supposed to have access to the open internet, there was, however, one…",
+        "content": "<p>2026: the year the tools learned to hack\nIn May 2026, OpenAI began testing an internal research model against a cybersecurity benchmark called ExploitGym. While the test environment was not supposed to have access to the open internet, there was, however, one…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://blog.sucuri.net/wp-content/uploads/2026/08/ChatGPT-Image-Aug-14-2026-06_18_47-PM.png",
+        "date": "Aug 15, 2026",
+        "url": "https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html"
+    },
+    {
+        "id": "qb9n64dyg",
+        "title": "Caitlin Clark injury update: Fever star returns after turning ankle",
+        "excerpt": "Caitlin Clark exited Friday's game vs. the Wings right before halftime after twisting her ankle, but fans let out a sigh of relief when she returned.",
+        "content": "<p>Caitlin Clark exited Friday's game vs. the Wings right before halftime after twisting her ankle, but fans let out a sigh of relief when she returned.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/146be7d12b7898a2e15a25700b9a834b19adacc174d919212805ea60fbdae617/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fbffc1bde03e1d902ed74e8fa084603a1.jpg",
+        "date": "Aug 15, 2026",
+        "url": "https://www.usatoday.com/story/sports/wnba/fever/2026/08/14/caitlin-clark-injury-update-indiana-dallas-wings/91313505007/"
+    },
+    {
+        "id": "2bef8mokw",
+        "title": "“You Will Have No Freedom”: Open AI Sam Altman Describes the World He Is Building for You",
+        "excerpt": "Sam Altman, CEO of OpenAI (CHATGPT), stood in front of a packed Chase Center alongside Y Combinator CEO Garry Tan and described a future where ordinary people have no freedom, no agency and no privacy. In his version of what the world could look like ten year…",
+        "content": "<p>Sam Altman, CEO of OpenAI (CHATGPT), stood in front of a packed Chase Center alongside Y Combinator CEO Garry Tan and described a future where ordinary people have no freedom, no agency and no privacy. In his version of what the world could look like ten year…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.activistpost.com/wp-content/uploads/2026/08/aithreats.jpg",
+        "date": "Aug 15, 2026",
+        "url": "https://www.activistpost.com/you-will-have-no-freedom-open-ai-sam-altman-describes-the-world-he-is-building-for-you/"
+    },
+    {
+        "id": "vvimezi1l",
+        "title": "Trump Says He Will ‘Never Apologize’ for Iran War Raising Gas Prices: ‘I Did the Right Thing’",
+        "excerpt": "\"Just remember, you’re doing it so that a very evil country cannot have ... nuclear weapons,\" the president insists\nThe post Trump Says He Will ‘Never Apologize’ for Iran War Raising Gas Prices: ‘I Did the Right Thing’ appeared first on TheWrap.",
+        "content": "<p>\"Just remember, you’re doing it so that a very evil country cannot have ... nuclear weapons,\" the president insists\nThe post Trump Says He Will ‘Never Apologize’ for Iran War Raising Gas Prices: ‘I Did the Right Thing’ appeared first on TheWrap.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.thewrap.com/wp-content/uploads/2026/08/Trump-New-York-Rally.jpg",
+        "date": "Aug 15, 2026",
+        "url": "https://www.thewrap.com/media-platforms/politics/trump-will-never-apologize-iran-war-gas-prices/"
+    },
+    {
+        "id": "e36rae3nj",
+        "title": "AI Voiceover for Business: How Companies Are Using AI Voices for Training and Marketing Videos",
+        "excerpt": "A lot of you have asked about this lately, and honestly, it's one of the most interesting shifts happening in business right now. Companies are ditching the old way of recording voiceovers and switching to AI voices for their training videos, product demos, a…",
+        "content": "<p>A lot of you have asked about this lately, and honestly, it's one of the most interesting shifts happening in business right now. Companies are ditching the old way of recording voiceovers and switching to AI voices for their training videos, product demos, a…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://blog.cliptude.com/content/images/size/w1200/2026/03/Screenshot-2026-02-26-at-1.34.20---PM.png",
+        "date": "Aug 15, 2026",
+        "url": "https://blog.cliptude.com/ai-voiceover-for-business-how-companies-are-using-ai-voices-for-training-and-marketing-videos/"
+    },
+    {
+        "id": "mgydox73d",
+        "title": "Masters of the Universe: Tales from Eternia S01E09: A Common Foe",
+        "excerpt": "Welcome back to our weekly look at Mattel Studios' Masters of the Universe: Tales from Eternia, the new 2D animated series currently running on the Mattel Adventures YouTube channel. In S01E09: \"He-Man and Skeletor…Work Together?!\" the two long-standing foes …",
+        "content": "<p>Welcome back to our weekly look at Mattel Studios' Masters of the Universe: Tales from Eternia, the new 2D animated series currently running on the Mattel Adventures YouTube channel. In S01E09: \"He-Man and Skeletor…Work Together?!\" the two long-standing foes …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/08/MixCollage-14-Aug-2026-08-16-PM-324-2000x1125.jpg",
+        "date": "Aug 15, 2026",
+        "url": "https://bleedingcool.com/tv/masters-of-the-universe-tales-from-eternia-s01e09-a-common-foe/"
+    },
+    {
+        "id": "yt4h4xom2",
+        "title": "ARLnow Daily Debrief for Aug 14, 2026",
+        "excerpt": "Good Friday evening, Arlington. Let's take a look back at today's stories and a look forward to tomorrow's event calendar.  News recap The following articles were published earlier today -- Aug 14, 2026. 7:30 am: Morning Notes for August 14, 2026 | ️ Comm…",
+        "content": "<p>Good Friday evening, Arlington. Let's take a look back at today's stories and a look forward to tomorrow's event calendar.  News recap The following articles were published earlier today -- Aug 14, 2026. 7:30 am: Morning Notes for August 14, 2026 | ️ Comm…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.arlnow.com/wp-content/uploads/2026/08/db513646f2d81a53d887d6f6d6d1c926762811a4.jpg",
+        "date": "Aug 15, 2026",
+        "url": "https://www.arlnow.com/2026/08/14/debrief-8142026/"
+    },
+    {
+        "id": "nquvx53iu",
+        "title": "Kaia Gerber may be as beautiful as her mother. But she's just outed an ugly secret at the heart of America's most photogenic family that insiders are now scrambling to explain away",
+        "excerpt": "Kaia Gerber is part of a family unit that must be a strong contender for most photogenic family in America. Yet all that glitters is not always gold.",
+        "content": "<p>Kaia Gerber is part of a family unit that must be a strong contender for most photogenic family in America. Yet all that glitters is not always gold.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://i.dailymail.com/1s/2026/08/15/01/110651613-0-image-m-28_1786752398194.jpg",
+        "date": "Aug 15, 2026",
+        "url": "https://www.dailymail.com/tvshowbiz/article-16050817/Kaia-Gerber-Cindy-Crawford-Randy-Gerber-Presley-Gerber.html"
+    },
+    {
+        "id": "ummgfwe6s",
+        "title": "ROG Xbox Ally X AMD Ryzen AI Z2 Extreme 24GB 1TB $1593 Kogan or DickSmith @ eBay Australia",
+        "excerpt": "Not ATL, but good option if looking at buying new. Description The ASUS ROG Xbox Ally X Gaming Handheld features the AMD Ryzen AI Z2 Extreme processor, a 120Hz Full HD display and an 80Wh battery - …",
+        "content": "<p>Not ATL, but good option if looking at buying new. Description The ASUS ROG Xbox Ally X Gaming Handheld features the AMD Ryzen AI Z2 Extreme processor, a 120Hz Full HD display and an 80Wh battery - …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://files.ozbargain.com.au/n/27/971427l.jpg?h=ed4656ff",
+        "date": "Aug 15, 2026",
+        "url": "https://www.ozbargain.com.au/node/971427"
+    },
+    {
+        "id": "kz546vifb",
+        "title": "Scott Wiener’s AI Attack on Opponent Backfires in Race to Replace Pelosi",
+        "excerpt": "The loathsome CA State Senator was accused of reinforcing sexist stereotypes after chatbot mimicked fellow Democrat and SF city supervisor Connie Chan.\nThe post Scott Wiener’s AI Attack on Opponent Backfires in Race to Replace Pelosi first appeared on Le·gal …",
+        "content": "<p>The loathsome CA State Senator was accused of reinforcing sexist stereotypes after chatbot mimicked fellow Democrat and SF city supervisor Connie Chan.\nThe post Scott Wiener’s AI Attack on Opponent Backfires in Race to Replace Pelosi first appeared on Le·gal …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://legalinsurrection.com/wp-content/uploads/2023/09/Scott-Wiener.jpg",
+        "date": "Aug 15, 2026",
+        "url": "https://legalinsurrection.com/2026/08/scott-wieners-ai-attack-on-opponent-backfires-in-race-to-replace-pelosi/"
+    },
+    {
         "id": "l0gx4wkz2",
         "title": "Codoxo Secures Higher Ranking on 2026 Inc. 5000 List of America's Fastest-Growing Private Companies",
         "excerpt": "Fourth consecutive appearance and improved ranking underscore Codoxo's expanding leadership in AI-powered healthcare payment integrity. DULUTH, Ga., Aug. 13, 2026 /PRNewswire/ -- Codoxo, the leading provider of AI and generative AI-powered healthcare payment …",
