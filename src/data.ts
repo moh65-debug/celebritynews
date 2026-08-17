@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "cujhrtt0s",
+        "title": "Not just blue and yellow taxis: ComfortDelGro boss reshapes fleet to drive profit turnaround",
+        "excerpt": "Riders can expect shorter waiting times for cars, as well as bigger taxis and added services. Read more at straitstimes.com. Read more at straitstimes.com.",
+        "content": "<p>Riders can expect shorter waiting times for cars, as well as bigger taxis and added services. Read more at straitstimes.com. Read more at straitstimes.com.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cassette.sphdigital.com.sg/image/straitstimes/ca44b27cf92867361cbea5c040e0e68b08224de1e65eef7f43facde10cd39c53",
+        "date": "Aug 16, 2026",
+        "url": "https://www.straitstimes.com/business/not-just-blue-and-yellow-taxis-comfortdelgro-boss-reshapes-fleet-to-drive-profit-turnaround"
+    },
+    {
+        "id": "ax06ibzh5",
+        "title": "Morgan Stanley sends a blunt Tesla message to investors",
+        "excerpt": "The spending is going up. The margins are going down. Free cash flow is negative. And a Wall Street analyst who covers one of the most closely watched stocks...",
+        "content": "<p>The spending is going up. The margins are going down. Free cash flow is negative. And a Wall Street analyst who covers one of the most closely watched stocks...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/B646BDAF2CCA0170CCA98ABFB29A4C191677B89E7588A2A63FED00B8A2EE827B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F745014dd24a2d590fd512997f4cdaffd.jpg",
+        "date": "Aug 16, 2026",
+        "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-blunt-tesla-message-to-investors-robotaxi-artificial-intelligence"
+    },
+    {
+        "id": "vqgpkcxk3",
+        "title": "Dolby says Dolby Vision 2 HDR should come to cheaper TVs than the original — and the basic version is less expensive to license than Dolby Vision 2 Max to achieve that",
+        "excerpt": "Dolby Vision 2 Max replaces Dolby Vision 1, while Dolby Vision 2 is meant for a new breed of budget TV — and Dolby says its the best-value picture upgrade that manufacturers can get.",
+        "content": "<p>Dolby Vision 2 Max replaces Dolby Vision 1, while Dolby Vision 2 is meant for a new breed of budget TV — and Dolby says its the best-value picture upgrade that manufacturers can get.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/PLqkAsr3zmev64n2iBWTNV-2560-80.jpg",
+        "date": "Aug 16, 2026",
+        "url": "https://www.techradar.com/televisions/dolby-says-dolby-vision-2-should-come-to-cheaper-tvs-than-dolby-vision-1"
+    },
+    {
+        "id": "k7n6g1hop",
+        "title": "MWire Labs launches Lemka, speech AI for six Northeast languages",
+        "excerpt": "MWire Labs, a research and AI deployment lab based in Shillong, has released Lemka, an end-to-end speech AI system that combines speech-to-text (Lemka STT) and text-to-speech (Lemka TTS) for six languages of Northeast India: Khasi, Garo, Mizo, Meitei (Manipur…",
+        "content": "<p>MWire Labs, a research and AI deployment lab based in Shillong, has released Lemka, an end-to-end speech AI system that combines speech-to-text (Lemka STT) and text-to-speech (Lemka TTS) for six languages of Northeast India: Khasi, Garo, Mizo, Meitei (Manipur…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.syllad.com/wp-content/uploads/2026/08/Lemka.jpg",
+        "date": "Aug 16, 2026",
+        "url": "https://www.syllad.com/mwire-labs-launches-lemka-speech-ai-for-six-northeast-languages/"
+    },
+    {
+        "id": "07mjmuko3",
+        "title": "Data governance culture gives companies competitive edge — Taxtech boss",
+        "excerpt": "Discover how a strong data governance culture, powered by advanced fintech, gives Nigerian companies a competitive edge in tax and compliance, according to\n\nRead More: https://punchng.com/data-governance-culture-gives-companies-competitive-edge-taxtech-boss/",
+        "content": "<p>Discover how a strong data governance culture, powered by advanced fintech, gives Nigerian companies a competitive edge in tax and compliance, according to\n\nRead More: https://punchng.com/data-governance-culture-gives-companies-competitive-edge-taxtech-boss/</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://punchng.com/wp-content/uploads/2026/08/Screenshot-2026-08-15-203706_1786822655-803x630.webp",
+        "date": "Aug 16, 2026",
+        "url": "https://punchng.com/data-governance-culture-gives-companies-competitive-edge-taxtech-boss/"
+    },
+    {
+        "id": "hzz8rakhf",
+        "title": "Everything Dan Lanning said after Oregon's first fall scrimmage",
+        "excerpt": "The Oregon Ducks football team seemingly had a successful first scrimmage of fall camp, but Lanning, while happy with the day, is far from satisfied.",
+        "content": "<p>The Oregon Ducks football team seemingly had a successful first scrimmage of fall camp, but Lanning, while happy with the day, is far from satisfied.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/64bcf9552555cbc89fd971e02655c14dc4c207a5e4c8775bd4cc2d363d5735f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fducks_wire_usa_today_articles_200%2F13b92fb26905c2ca0da8c7fb1b633190.jpg",
+        "date": "Aug 15, 2026",
+        "url": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/08/15/oregon-football-lanning-talks-about-what-he-saw-following-scrimmage/91323246007/"
+    },
+    {
+        "id": "1yvti1435",
+        "title": "Enceladus appears to have almost everything life should need — water, chemistry, hydrothermal energy and an ocean capable of lasting geological ages. If we search it thoroughly and find nothing alive, that failure may become one of astrobiology’s most important discoveries: evidence that habitability alone is not enough to make life happen.",
+        "excerpt": "Cassini established that Enceladus may be habitable, but a scientifically useful failure to find life would require repeated, complementary measurements designed to make a false negative unlikely.\nThe post Enceladus appears to have almost everything life shou…",
+        "content": "<p>Cassini established that Enceladus may be habitable, but a scientifically useful failure to find life would require repeated, complementary measurements designed to make a false negative unlikely.\nThe post Enceladus appears to have almost everything life shou…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/08/nasa-enceladus-global-plume-pia23175-814x1024.jpg",
+        "date": "Aug 15, 2026",
+        "url": "https://spacedaily.com/t-enceladus-habitability-life-search-null-result/"
+    },
+    {
+        "id": "3myyxc1aa",
+        "title": "'Appalling' wildfire rages near people's homes in Wales as 200 soldiers are deployed to help firefighters",
+        "excerpt": "South Wales Fire and Rescue service has issued a major incident update, and said it had already received 736 calls compared to an average of about 300.",
+        "content": "<p>South Wales Fire and Rescue service has issued a major incident update, and said it had already received 736 calls compared to an average of about 300.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://i.dailymail.com/1s/2026/08/15/23/110661345-0-image-m-44_1786834612152.jpg",
+        "date": "Aug 15, 2026",
+        "url": "https://www.dailymail.com/news/article-16055679/Appalling-wildfire-rages-near-peoples-homes-Wales-200-soldiers-deployed-help-firefighters.html"
+    },
+    {
+        "id": "21eeplrjk",
+        "title": "Ex-detective who served fraction of 102-year sentence faces new charges after cold case review",
+        "excerpt": "Former Los Angeles vice detective Michael Douglas Brambles, paroled in 2020 under California's elderly inmates law, faces new kidnapping charges.",
+        "content": "<p>Former Los Angeles vice detective Michael Douglas Brambles, paroled in 2020 under California's elderly inmates law, faces new kidnapping charges.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/michael-douglas-brambles-mug-shot.gif",
+        "date": "Aug 15, 2026",
+        "url": "https://www.foxnews.com/us/ex-detective-served-fraction-102-year-sentence-faces-new-charges-cold-case-review"
+    },
+    {
+        "id": "s9qqu5nbq",
+        "title": "Disney Parks Blog Goes to Mousequerade 2026: Winning Looks and Fashionable ‘Fits",
+        "excerpt": "Hello from D23: The Ultimate Disney Fan Event presented by Visa! The Disney Parks Blog team is soaking up every second of this year’s festivities, from shopping on the show floor to showcasing our favorite moments and announcements. And as day two kicks off, …",
+        "content": "<p>Hello from D23: The Ultimate Disney Fan Event presented by Visa! The Disney Parks Blog team is soaking up every second of this year’s festivities, from shopping on the show floor to showcasing our favorite moments and announcements. And as day two kicks off, …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://disneyparksblog.com/app/uploads/2026/08/2026-D23-Mousequerade-Costume-Contest-Header.jpg",
+        "date": "Aug 15, 2026",
+        "url": "https://disneyparksblog.com/disney-experiences/mousequerade-2026-winners-disney-parks/"
+    },
+    {
         "id": "1qclvhwkp",
         "title": "The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.",
         "excerpt": "2026: the year the tools learned to hack\nIn May 2026, OpenAI began testing an internal research model against a cybersecurity benchmark called ExploitGym. While the test environment was not supposed to have access to the open internet, there was, however, one…",
