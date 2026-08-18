@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "2gte2yiyl",
+        "title": "Dow Jones Futures Prediction: Index at 53,807 as Oil Hits $82.40, SanDisk Surges 35.4% Ahead of Wall Street Opening",
+        "excerpt": "Dow Jones Futures Prediction: Index at 53,807 as Oil Hits $82.40, SanDisk Surges 35.4% Ahead of Wall Street Openingsundayguardianlive.com",
+        "content": "<p>Dow Jones Futures Prediction: Index at 53,807 as Oil Hits $82.40, SanDisk Surges 35.4% Ahead of Wall Street Openingsundayguardianlive.com</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://sundayguardianlive.com/wp-content/uploads/2026/08/dow-jones-future-prediction_1.png",
+        "date": "Aug 17, 2026",
+        "url": "https://sundayguardianlive.com/business/dow-jones-futures-prediction-index-at-53807-as-oil-hits-8240-sandisk-surges-354-ahead-of-wall-street-opening-check-monday-market-outlook-key-things-to-watch-262855/"
+    },
+    {
+        "id": "gftnj1vbl",
+        "title": "10 Best Open-World Sci-Fi Games Of All Time",
+        "excerpt": "Open-world sci-fi games have undergone a massive evolution over the history of gaming, and these titles rank at the top of the genre.",
+        "content": "<p>Open-world sci-fi games have undergone a massive evolution over the history of gaming, and these titles rank at the top of the genre.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/a-player-character-in-no-man-s-sky-looking-at-the-planet-s-rings-over-a-rocky-ridge-at-sunset.jpg?w=1600&h=900&fit=crop",
+        "date": "Aug 17, 2026",
+        "url": "https://screenrant.com/best-open-world-sci-fi-games-all-time/"
+    },
+    {
+        "id": "z57ewr178",
+        "title": "MAGA Socialism: The Feds Just Handed Nevada’s Public Land to a Texas Hedge Fund for Datacenters in a Desert!",
+        "excerpt": "Before we get into what happened in Boulder City, let’s name the thing correctly. MAGA SOCIALISM The federal government took land supposedly owned by the American public, shut that same public out of the decision, and handed the property to a private investme…",
+        "content": "<p>Before we get into what happened in Boulder City, let’s name the thing correctly. MAGA SOCIALISM The federal government took land supposedly owned by the American public, shut that same public out of the decision, and handed the property to a private investme…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.activistpost.com/wp-content/uploads/2026/08/aidatacenter.jpg",
+        "date": "Aug 17, 2026",
+        "url": "https://www.activistpost.com/maga-socialism-the-feds-just-handed-nevadas-public-land-to-a-texas-hedge-fund-for-datacenters-in-a-desert/"
+    },
+    {
+        "id": "kjnosx8v6",
+        "title": "After Lanterns, DC Studios Should Revisit Lindelof's Watchmen Universe",
+        "excerpt": "For the record, we tried. But with Damon Lindelof being one of the masterminds behind DC Studios' Aaron Pierre and Kyle Chandler-starring Lanterns, and with Lanterns premiering tonight to strong early reviews, we have to revisit one of our favorite topics to …",
+        "content": "<p>For the record, we tried. But with Damon Lindelof being one of the masterminds behind DC Studios' Aaron Pierre and Kyle Chandler-starring Lanterns, and with Lanterns premiering tonight to strong early reviews, we have to revisit one of our favorite topics to …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/08/MixCollage-16-Aug-2026-06-12-PM-3684-2000x1125.jpg",
+        "date": "Aug 17, 2026",
+        "url": "https://bleedingcool.com/tv/after-lanterns-dc-studios-should-revisit-lindelofs-watchmen-universe/"
+    },
+    {
+        "id": "fq6k09zcs",
+        "title": "Netflix's 95% RT Fantasy Time Travel Series Is So Good, It's Getting A Spinoff After One Season",
+        "excerpt": "Fans of this popular time-travel fantasy series will be delighted to learn that Netflix reportedly has plans to expand its universe with a spinoff.",
+        "content": "<p>Fans of this popular time-travel fantasy series will be delighted to learn that Netflix reportedly has plans to expand its universe with a spinoff.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/im-yoon-ah-in-bon-appetit-your-majesty.jpg?w=1600&h=900&fit=crop",
+        "date": "Aug 17, 2026",
+        "url": "https://screenrant.com/bon-appetit-your-majesty-spinoff-after-one-season/"
+    },
+    {
+        "id": "5tupwxk0z",
+        "title": "Equity investments should give about 15% annual returns over next 5 years: Raamdeo Agrawal",
+        "excerpt": "According to Raamdeo Agrawal of Motilal Oswal, Indian equities may yield a promising fifteen percent annual return over the upcoming five years. However, foreign investors are currently drawn to more dynamic markets like South Korea and the US, deterred by In…",
+        "content": "<p>According to Raamdeo Agrawal of Motilal Oswal, Indian equities may yield a promising fifteen percent annual return over the upcoming five years. However, foreign investors are currently drawn to more dynamic markets like South Korea and the US, deterred by In…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-133284220,width-1200,height-630,imgsize-46086,overlay-etmarkets/articleshow.jpg",
+        "date": "Aug 17, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/equity-investments-should-give-about-15-annual-returns-over-next-5-years-raamdeo-agrawal/articleshow/133284211.cms"
+    },
+    {
+        "id": "ml3m40w2l",
+        "title": "Anambra deepens digital push, targets SME formalisation",
+        "excerpt": "Anambra State is accelerating its digital transformation to formalise SMEs by 2030, expanding online government services and automating public administrati\n\nRead More: https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/",
+        "content": "<p>Anambra State is accelerating its digital transformation to formalise SMEs by 2030, expanding online government services and automating public administrati\n\nRead More: https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://punchng.com/wp-content/uploads/2026/06/Chukwuma-Soludo_1782730393.webp",
+        "date": "Aug 17, 2026",
+        "url": "https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/"
+    },
+    {
+        "id": "tt5h4ky9s",
+        "title": "Japan’s economic growth slows amid Middle East conflict uncertainties",
+        "excerpt": "Japan's economic slowdown complicates monetary policy, highlighting vulnerabilities in energy dependency and investment amid global tensions.\nThe post Japan’s economic growth slows amid Middle East conflict uncertainties appeared first on Crypto Briefing.",
+        "content": "<p>Japan's economic slowdown complicates monetary policy, highlighting vulnerabilities in energy dependency and investment amid global tensions.\nThe post Japan’s economic growth slows amid Middle East conflict uncertainties appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/16201245/the-1970s-extension-behind-the-original-building-4-800x420.jpeg",
+        "date": "Aug 17, 2026",
+        "url": "https://cryptobriefing.com/japan-gdp-growth-slows-middle-east-conflict/"
+    },
+    {
+        "id": "oym6onzyc",
+        "title": "Another One: Marquette 2, North Dakota State 0",
+        "excerpt": "The Golden Eagles didn’t explode for goals early again, but Megan Murray did score early & late to get win #2 on the year.",
+        "content": "<p>The Golden Eagles didn’t explode for goals early again, but Megan Murray did score early & late to get win #2 on the year.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/34070dc1f1df39d08ce7c02e7557e7919f477bedea65be44f7451a0b162c5722/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F36ff776a5a31a27344c2bf166d81c1c7.jpg",
+        "date": "Aug 17, 2026",
+        "url": "https://www.anonymouseagle.com/marquette-womens-soccer/38682/golden-eagles-game-match-recap-north-dakota-state-bison-murray-hurd"
+    },
+    {
+        "id": "vo5e3b1ud",
+        "title": "The Lapsed Atheist: Charles Murray Makes The Case For God",
+        "excerpt": "Charles Murray joins Peter Robinson to discuss the evidence that forced him to reconsider God, the soul, and Christianity.",
+        "content": "<p>Charles Murray joins Peter Robinson to discuss the evidence that forced him to reconsider God, the soul, and Christianity.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/styles/facebook/public/2026-08/UK_website_template8-13.jpg?h=45ca4e0a&itok=H2lNzt2T",
+        "date": "Aug 17, 2026",
+        "url": "https://www.hoover.org/research/lapsed-atheist-charles-murray-makes-case-god"
+    },
+    {
         "id": "cujhrtt0s",
         "title": "Not just blue and yellow taxis: ComfortDelGro boss reshapes fleet to drive profit turnaround",
         "excerpt": "Riders can expect shorter waiting times for cars, as well as bigger taxis and added services. Read more at straitstimes.com. Read more at straitstimes.com.",
