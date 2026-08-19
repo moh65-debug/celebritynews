@@ -12,6 +12,122 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "fytznobxs",
+        "title": "How an AirTag planted by a reporter led to a secret Amazon site where old books are cut apart and scanned",
+        "excerpt": "404 Media put an Apple AirTag in a rare book and tracked it to an Amazon warehouse in Las Vegas, where a team cuts the bindings off books and scans the pages. The reporting method has a history that runs through Seattle. Read More",
+        "content": "<p>404 Media put an Apple AirTag in a rare book and tracked it to an Amazon warehouse in Las Vegas, where a team cuts the bindings off books and scans the pages. The reporting method has a history that runs through Seattle. Read More</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.geekwire.com/wp-content/uploads/2026/08/bigstock-Paris-France-May-H-421918175-1.jpg",
+        "date": "Aug 18, 2026",
+        "url": "https://www.geekwire.com/2026/how-an-airtag-planted-by-a-reporter-led-to-a-secret-amazon-site-where-old-books-are-cut-apart-and-scanned/"
+    },
+    {
+        "id": "pu50npf16",
+        "title": "Cursor Origin is on by default for paid users, and its data terms are unpublished",
+        "excerpt": "Cursor started rolling out Origin, its own code hosting platform, on Monday morning. About three and a half hours later GitHub fell over. The order matters, because most of the internet reversed it. Matt Palmer works at Cursor. He quote-tweeted his own compan…",
+        "content": "<p>Cursor started rolling out Origin, its own code hosting platform, on Monday morning. About three and a half hours later GitHub fell over. The order matters, because most of the internet reversed it. Matt Palmer works at Cursor. He quote-tweeted his own compan…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://media.thenextweb.com/2026/08/Cursor-Origin-Code-Hosting.jpg",
+        "date": "Aug 18, 2026",
+        "url": "https://thenextweb.com/news/cursor-origin-opt-out-data-terms-spacex-github-outage"
+    },
+    {
+        "id": "p3sczejy9",
+        "title": "ET Startup Awards 2026: Nominees for Best on Campus",
+        "excerpt": "The Best on Campus award will showcase a startup whose impact can be judged both by the idea and the execution. The founders should have been students whose aim was to build a commercial enterprise.",
+        "content": "<p>The Best on Campus award will showcase a startup whose impact can be judged both by the idea and the execution. The founders should have been students whose aim was to build a commercial enterprise.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-824319,resizemode-75,msid-133305607/tech/startups/et-startup-awards-2026-nominees-for-best-on-campus.jpg",
+        "date": "Aug 18, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2026-nominees-for-best-on-campus/articleshow/133305607.cms"
+    },
+    {
+        "id": "01saexbh3",
+        "title": "...",
+        "excerpt": "...",
+        "content": "<p>...</p>\n<p>...</p>\n<p>...</p>\n<p>...</p>\n<p>...</p>",
+        "celebrities": [
+            "Sean Gordon Murphy",
+            "Image Comics",
+            "The Last Driver",
+            "Grid",
+            "Clutch"
+        ],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/08/0626IM0242-0002-2000x1125.jpg",
+        "date": "Aug 18, 2026",
+        "url": "https://bleedingcool.com/comics/the-last-driver-1-preview-manual-transmission-meets-manual-rebellion/"
+    },
+    {
+        "id": "wb0v3d58n",
+        "title": "The end of USMCA would have a surprisingly small impact on the Canadian economy",
+        "excerpt": "Free trade with the U.S. has benefited Canada, but the scale of the benefit – and the size of the loss in the event of its disappearance – is limited",
+        "content": "<p>Free trade with the U.S. has benefited Canada, but the scale of the benefit – and the size of the loss in the event of its disappearance – is limited</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.theglobeandmail.com/resizer/v2/UJJ5GIF57ZHALBQ4M4OTDBK4BU.JPG?auth=c74e074077663612c5da1767468594f1eeb2aa8c127c31c14c9e5ab44ef4e76a&width=1200&height=800&quality=80&smart=true",
+        "date": "Aug 18, 2026",
+        "url": "https://www.theglobeandmail.com/business/commentary/article-the-end-of-usmca-would-have-a-surprisingly-small-impact-on-the/"
+    },
+    {
+        "id": "19e6qltc4",
+        "title": "[Infographic] Not All Ice Is Created Equal: Discover the Difference With Samsung’s Ice-Making Technology",
+        "excerpt": "When summer temperatures soar, there’s nothing quite like a refreshing drink or chilled treat to cool down. From iced coffee and fizzy sodas to chilled smoothies and sorbets, ice is an essential ingredient in summer favorites. But different foods and drinks c…",
+        "content": "<p>When summer temperatures soar, there’s nothing quite like a refreshing drink or chilled treat to cool down. From iced coffee and fizzy sodas to chilled smoothies and sorbets, ice is an essential ingredient in summer favorites. But different foods and drinks c…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/08/14175431/Samsung-Digital-Appliances-Bespoke-AI-Refrigerators-Ice-Making-Technology-Infographic_Thumb932.jpg",
+        "date": "Aug 18, 2026",
+        "url": "https://news.samsung.com/global/infographic-not-all-ice-is-created-equal-discover-the-difference-with-samsungs-ice-making-technology"
+    },
+    {
+        "id": "vx7i1i0cp",
+        "title": "Farrah Abraham flaunts her hourglass curves and liquid BBL in a bikini after announcing career pivot to politics",
+        "excerpt": "Farrah Abraham is no stranger to showing off her surgically-enhanced curves, so it was no surprise to see the star donning a daring bikini as she took a dip in the pool over the weekend.",
+        "content": "<p>Farrah Abraham is no stranger to showing off her surgically-enhanced curves, so it was no surprise to see the star donning a daring bikini as she took a dip in the pool over the weekend.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://i.dailymail.com/1s/2026/08/18/00/110694361-0-image-m-63_1787009926991.jpg",
+        "date": "Aug 18, 2026",
+        "url": "https://www.dailymail.com/tvshowbiz/article-16059223/Farrah-Abraham-body-bbl-bikini-austin.html"
+    },
+    {
+        "id": "lvkyx3omx",
+        "title": "Machine Learning Reveals Mismatch Between Global Health Aid and Disease Burden",
+        "excerpt": "A new machine‑learning analysis shows that billions of dollars in global health aid often flow to countries with relatively low disease burden, leaving high‑need nations underfunded.",
+        "content": "<p>Researchers at the University of Oxford and the World Health Organization used a machine‑learning model to compare annual health aid disbursements with country‑level disease burden metrics from 2015 to 2022.</p><p>They found that aid allocation correlates weakly with actual need, with many low‑income countries receiving far less funding than their burden of communicable and non‑communicable diseases would suggest.</p><p>The study, published in Nature, reports that Sub‑Saharan Africa received only 30 % of the aid predicted by its disease burden, while some middle‑income regions got up to 150 % of the expected share.</p><p>Dr. Amelia Gupta, lead author, said \"Our goal is to make aid decisions more transparent and evidence‑based, so resources reach those who need them most.\"</p><p>Experts warn that without correcting these disparities, progress toward the Sustainable Development Goals could stall, and they call for a real‑time aid‑allocation dashboard guided by similar analytical tools.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-76542-z/MediaObjects/41467_2026_76542_Fig1_HTML.png",
+        "date": "Aug 18, 2026",
+        "url": "https://www.nature.com/articles/s41467-026-76542-z"
+    },
+    {
+        "id": "j60sm2ibm",
+        "title": "TWO-A-DAYS: Blackwell Hornets buzzing with excitement with first-year head coach",
+        "excerpt": "SAN ANGELO, Texas (Concho Valley Homepage) — The Blackwell Hornets will be looking to make headlines in Clint Linman’s first year as head coach this season. The Hornets finished 4-7 overall and 3-1 in district last year. Texas Football magazine has picked Bla…",
+        "content": "<p>SAN ANGELO, Texas (Concho Valley Homepage) — The Blackwell Hornets will be looking to make headlines in Clint Linman’s first year as head coach this season. The Hornets finished 4-7 overall and 3-1 in district last year. Texas Football magazine has picked Bla…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/d423857e9cbec28857644bfb76c7611bb0acc70f3c31ac8f7b5249cff6aeb985/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fklst_san_angelo_articles_638%2Fa107b776c08e323d730324433111cead.jpg",
+        "date": "Aug 17, 2026",
+        "url": "https://www.conchovalleyhomepage.com/locker-room/two-a-days-blackwell-hornets-buzzing-with-excitement-with-first-year-head-coach/"
+    },
+    {
+        "id": "9rbalcjna",
+        "title": "TWO-A-DAYS: No. 23 Sterling City Eagles return to six-man ranks with new coach",
+        "excerpt": "SAN ANGELO, Texas (Concho Valley Homepage) — The No. 23 Sterling City Eagles will make their return to the six-man ranks this season under the direction of first-year head coach Dale Pustejovsky. Sterling City struggled in its last season of 11-man ball this …",
+        "content": "<p>SAN ANGELO, Texas (Concho Valley Homepage) — The No. 23 Sterling City Eagles will make their return to the six-man ranks this season under the direction of first-year head coach Dale Pustejovsky. Sterling City struggled in its last season of 11-man ball this …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/1bbe8e9106fc54097a898a3501cdb6fed84d05e880aa76cb7f1993f6ac092fc1/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fklst_san_angelo_articles_638%2Fa46204515dc0d83378a434bc7ed102f8.jpg",
+        "date": "Aug 17, 2026",
+        "url": "https://www.conchovalleyhomepage.com/locker-room/two-a-days-no-23-sterling-city-eagles-return-to-six-man-ranks-with-new-coach/"
+    },
+    {
         "id": "2gte2yiyl",
         "title": "Dow Jones Futures Prediction: Index at 53,807 as Oil Hits $82.40, SanDisk Surges 35.4% Ahead of Wall Street Opening",
         "excerpt": "Dow Jones Futures Prediction: Index at 53,807 as Oil Hits $82.40, SanDisk Surges 35.4% Ahead of Wall Street Openingsundayguardianlive.com",
