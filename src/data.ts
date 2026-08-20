@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "v2qhuhj8t",
+        "title": "The real reason Hayden Panettiere died is just so sickening... but you'll never hear these Hollywood ghouls say the truth out loud: MAUREEN CALLAHAN",
+        "excerpt": "King interviewed Panettiere on CBS Mornings on May 18 and asked how she was feeling as she launched her book tour. Hayden visibly struggled to enunciate and keep her eyes open.",
+        "content": "<p>King interviewed Panettiere on CBS Mornings on May 18 and asked how she was feeling as she launched her book tour. Hayden visibly struggled to enunciate and keep her eyes open.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://i.dailymail.com/1s/2026/08/18/23/110715831-0-image-m-13_1787092667645.jpg",
+        "date": "Aug 19, 2026",
+        "url": "https://www.dailymail.com/tvshowbiz/article-16062355/hayden-panettiere-dead-MAUREEN-CALLAHAN.html"
+    },
+    {
+        "id": "ijxtudzy7",
+        "title": "President Tinubu, terminate the dodgy £746M ports deal",
+        "excerpt": "By OBIAGELI ‘OBY’ EZEKWESILI One hundred and fifty two days after President Bola Tinubu signed a £746 million ports financing deal with the United Kingdom at Windsor Castle, neither government has disclosed the terms of the agreement. I initially held back fr…",
+        "content": "<p>By OBIAGELI ‘OBY’ EZEKWESILI One hundred and fifty two days after President Bola Tinubu signed a £746 million ports financing deal with the United Kingdom at Windsor Castle, neither government has disclosed the terms of the agreement. I initially held back fr…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Ezekwesili.jpg",
+        "date": "Aug 19, 2026",
+        "url": "https://www.vanguardngr.com/2026/08/president-tinubu-terminate-the-dodgy-746m-ports-deal/"
+    },
+    {
+        "id": "t54lup81h",
+        "title": "S&P Global Energy's Asia Pacific Petroleum Conference (APPEC) to Address Supply Chain Disruptions and Asia's Evolving Energy Landscape",
+        "excerpt": "Asia's premier energy summit brings together 1,500 leaders amid unprecedented market volatility Key topics: crude supply, maritime trade, upstream regrowth, downstream resilience, biofuels, AI and digitalisation SINGAPORE, Aug. 18, 2026 /PRNewswire/ -- S&P Gl…",
+        "content": "<p>Asia's premier energy summit brings together 1,500 leaders amid unprecedented market volatility Key topics: crude supply, maritime trade, upstream regrowth, downstream resilience, biofuels, AI and digitalisation SINGAPORE, Aug. 18, 2026 /PRNewswire/ -- S&P Gl…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1756476/spg-logo-energy-rgb-fullcolor-Logo-Logo.jpg?id=OA2895405&p=facebook",
+        "date": "Aug 19, 2026",
+        "url": "https://www.prnewswire.com/news-releases/sp-global-energys-asia-pacific-petroleum-conference-appec-to-address-supply-chain-disruptions-and-asias-evolving-energy-landscape-302854606.html"
+    },
+    {
+        "id": "w07ykkewl",
+        "title": "LG ELECTRONICS BEGINS MASS PRODUCTION OF 5G SMART TELEMATICS SOLUTION FOR A PREMIUM EUROPEAN AUTOMAKER",
+        "excerpt": "LG's Integrated Antenna and Communications Module Solution Enhances Connectivity, Design Efficiency and SDV Readiness News Summary LG Electronics has begun mass production of its next-generation 5G R16-based smart telematics solution and commenced deliveries …",
+        "content": "<p>LG's Integrated Antenna and Communications Module Solution Enhances Connectivity, Design Efficiency and SDV Readiness News Summary LG Electronics has begun mass production of its next-generation 5G R16-based smart telematics solution and commenced deliveries …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1971266/20260817214658EDT_image_1.jpg?id=OA2892471&p=facebook",
+        "date": "Aug 19, 2026",
+        "url": "https://www.prnewswire.com/news-releases/lg-electronics-begins-mass-production-of-5g-smart-telematics-solution-for-a-premium-european-automaker-302853447.html"
+    },
+    {
+        "id": "deqzqmny2",
+        "title": "LG ELECTRONICS BEGINS MASS PRODUCTION OF 5G SMART TELEMATICS SOLUTION FOR A PREMIUM EUROPEAN AUTOMAKER",
+        "excerpt": "LG's Integrated Antenna and Communications Module Solution Enhances Connectivity, Design Efficiency and SDV Readiness News Summary LG Electronics has begun mass production of its next-generation 5G R16-based smart telematics solution and commenced deliveries …",
+        "content": "<p>LG's Integrated Antenna and Communications Module Solution Enhances Connectivity, Design Efficiency and SDV Readiness News Summary LG Electronics has begun mass production of its next-generation 5G R16-based smart telematics solution and commenced deliveries …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1971266/20260817214658EDT_image_1.jpg?id=OA2892535&p=facebook",
+        "date": "Aug 19, 2026",
+        "url": "https://www.prnewswire.com/news-releases/lg-electronics-begins-mass-production-of-5g-smart-telematics-solution-for-a-premium-european-automaker-302853451.html"
+    },
+    {
+        "id": "znp6vdbwz",
+        "title": "AI servers and AFM to drive revenue; Pan-International eyes explosive growth in 2027",
+        "excerpt": "Pan-International, a Foxconn Group connector and component maker, held an investor conference on August 18, 2026, to report its operating results for the second quarter of 2026 and outline its plans for the second half of the year and 2027. General manager Mi…",
+        "content": "<p>Pan-International, a Foxconn Group connector and component maker, held an investor conference on August 18, 2026, to report its operating results for the second quarter of 2026 and outline its plans for the second half of the year and 2027. General manager Mi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260818pd232_files/2_s.jpg",
+        "date": "Aug 19, 2026",
+        "url": "https://www.digitimes.com/news/a20260818PD232/revenue-growth-2027-2026-foxconn.html"
+    },
+    {
+        "id": "75945ad08",
+        "title": "Global Market Today: Asian equities decline as chip selloff extends",
+        "excerpt": "Asian stock markets witnessed a downturn as semiconductor shares plummeted sharply. The rise in bond yields and escalating oil prices contributed to a bearish market sentiment. Investors pulled away from growth stocks, driven by concerns over inflation and mo…",
+        "content": "<p>Asian stock markets witnessed a downturn as semiconductor shares plummeted sharply. The rise in bond yields and escalating oil prices contributed to a bearish market sentiment. Investors pulled away from growth stocks, driven by concerns over inflation and mo…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-133334786,width-1200,height-630,imgsize-107936,overlay-etmarkets/articleshow.jpg",
+        "date": "Aug 19, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-equities-decline-as-chip-selloff-extends/articleshow/133334774.cms"
+    },
+    {
+        "id": "m6gasajdg",
+        "title": "Legends of Science and Surfing: Riding waves for cancer research",
+        "excerpt": "The 33rd annual Legends of Science and Surfing in La Jolla featured an oncology symposium and fundraiser benefiting cancer research at the UC San Diego Moores Cancer Center.",
+        "content": "<p>The 33rd annual Legends of Science and Surfing in La Jolla featured an oncology symposium and fundraiser benefiting cancer research at the UC San Diego Moores Cancer Center.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://cdn.kpbs.org/dims4/default/595e48f/2147483647/strip/true/crop/6048x3175+0+335/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F15%2Fd7%2Fe39625964e9fa0fc2f87c8fc0d0d%2Fdsc-0539.JPG",
+        "date": "Aug 19, 2026",
+        "url": "https://www.kpbs.org/news/science-technology/2026/08/18/legends-of-science-and-surfing-riding-waves-for-cancer-research"
+    },
+    {
+        "id": "eu0048q43",
+        "title": "Padres' Fernando Tatis Jr. robs grand slam from Mets' Francisco Lindor",
+        "excerpt": "Fernando Tatis Jr. added to his career highlights during the San Diego Padres’ game against the New York Mets on Tuesday, Aug. 18.",
+        "content": "<p>Fernando Tatis Jr. added to his career highlights during the San Diego Padres’ game against the New York Mets on Tuesday, Aug. 18.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/53eb55df4e41bc937b001981abfd7068bb9e89799a29a21d35501281c5249e13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F4fcfd42bfd2fca5b9b9af0588b0b7425.jpg",
+        "date": "Aug 19, 2026",
+        "url": "https://www.usatoday.com/story/sports/mlb/padres/2026/08/18/fernando-tatis-jr-francisco-lindor-padres-mets/91362858007/"
+    },
+    {
+        "id": "qs9dqu5q2",
+        "title": "Investcorp bets ₹500 crore on 20Cube 3PL, plans $1 billion India push",
+        "excerpt": "Investcorp on Tuesday said it has invested  ₹500 crore in 20Cube 3PL Solutions, its latest bet on India's logistics sector, and aims to build the company as a platform for organic expansion and acquisitions within the sector.",
+        "content": "<p>Investcorp on Tuesday said it has invested  ₹500 crore in 20Cube 3PL Solutions, its latest bet on India's logistics sector, and aims to build the company as a platform for organic expansion and acquisitions within the sector.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/rupee_1787053017926_1787053018108_ea567f73-2793-4de6-a254-791b06d1336f.jpg",
+        "date": "Aug 19, 2026",
+        "url": "https://www.livemint.com/companies/news/investcorp-invests-500-crore-in-new-logistics-bet-plans-1-billion-india-push-11787043153386.html"
+    },
+    {
         "id": "fytznobxs",
         "title": "How an AirTag planted by a reporter led to a secret Amazon site where old books are cut apart and scanned",
         "excerpt": "404 Media put an Apple AirTag in a rare book and tracked it to an Amazon warehouse in Las Vegas, where a team cuts the bindings off books and scans the pages. The reporting method has a history that runs through Seattle. Read More",
