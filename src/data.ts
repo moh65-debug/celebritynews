@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "pu3qqsfjb",
+        "title": "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding",
+        "excerpt": "Veeda AI, a startup led by a team of former Nvidia Corp. researcher and renowned computer scientist Sanja Fidler, has taken its bow on the main stage after raising $90 million in a seed funding round today. The round, which was first reported by The Logic, wa…",
+        "content": "<p>Veeda AI, a startup led by a team of former Nvidia Corp. researcher and renowned computer scientist Sanja Fidler, has taken its bow on the main stage after raising $90 million in a seed funding round today. The round, which was first reported by The Logic, wa…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-20-07-58-37.png",
+        "date": "Aug 20, 2026",
+        "url": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/"
+    },
+    {
+        "id": "124eul2ik",
+        "title": "Is leasing an iPhone right for you? How Apple's Upgrade Program works and who it's for",
+        "excerpt": "Apple recently partnered with Klarna to revamp its Upgrade Program, which lets you lease some Apple devices for a low monthly fee.",
+        "content": "<p>Apple recently partnered with Klarna to revamp its Upgrade Program, which lets you lease some Apple devices for a low monthly fee.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.zdnet.com/a/img/resize/d588a6c7d579eded07fc4f453012f04a635abb6c/2025/09/10/60658c0b-a57f-43b7-ac6f-c4cc7388a0b6/iphone-17-pro-colors.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "date": "Aug 20, 2026",
+        "url": "https://www.zdnet.com/article/leasing-iphone-right-how-apples-upgrade-program-works/"
+    },
+    {
+        "id": "53fvgfkp9",
+        "title": "AI bias isn’t just an error in the algorithm. It’s a chain of human decisions",
+        "excerpt": "Technical fixes to AI systems aren’t enough. What’s needed is an overhaul of AI eco-systems to ensure they’re more inclusive.",
+        "content": "<p>Technical fixes to AI systems aren’t enough. What’s needed is an overhaul of AI eco-systems to ensure they’re more inclusive.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.theconversation.com/files/752139/original/file-20260805-50-wbru41.jpg?ixlib=rb-4.1.1&rect=0%2C753%2C5654%2C2827&q=45&auto=format&w=1356&h=668&fit=crop",
+        "date": "Aug 20, 2026",
+        "url": "https://theconversation.com/ai-bias-isnt-just-an-error-in-the-algorithm-its-a-chain-of-human-decisions-288812"
+    },
+    {
+        "id": "hxsi8sm2x",
+        "title": "RecipeTin Eats's founder Nagi Maehashi goes full 'tiger mum' and rips into a fan who criticises her hunky French head chef: 'Crossed the line'",
+        "excerpt": "RecipeTin Eats founder Nagi Maehashi went into full tiger mum mode last week when one of her fans criticised her hunky French head chef, JB Alexandre.",
+        "content": "<p>RecipeTin Eats founder Nagi Maehashi went into full tiger mum mode last week when one of her fans criticised her hunky French head chef, JB Alexandre.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://i.dailymail.com/1s/2026/08/20/01/110741713-0-image-m-20_1787186507253.jpg",
+        "date": "Aug 20, 2026",
+        "url": "https://www.dailymail.com/tvshowbiz/article-16065427/recipetin-eats-nagi-maehashi-tiger-mum-chef-criticises.html"
+    },
+    {
+        "id": "hdcsbomz0",
+        "title": "Craft Lake City’s 18th annual DIY Fest at the Utah State Fairpark",
+        "excerpt": "Craft Lake City’s 18th annual DIY Festival ran from Aug. 7 through 9 at the Utah State Fairpark. The festival brought more than 1,000 creatives together, including vintage vendors, local artisans, STEM exhibitors, crafters and live performers. The festival fe…",
+        "content": "<p>Craft Lake City’s 18th annual DIY Festival ran from Aug. 7 through 9 at the Utah State Fairpark. The festival brought more than 1,000 creatives together, including vintage vendors, local artisans, STEM exhibitors, crafters and live performers. The festival fe…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dailyutahchronicle.com/wp-content/uploads/2026/08/IMG_0383-1.jpg",
+        "date": "Aug 20, 2026",
+        "url": "https://dailyutahchronicle.com/2026/08/19/craft-lake-citys-18th-annual-diy-fest-at-the-utah-state-fairpark/"
+    },
+    {
+        "id": "2bpwshyu9",
+        "title": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
+        "excerpt": "Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily review, manage, and wirelessly download your pocket camera's footage on the go. Osm…",
+        "content": "<p>Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily review, manage, and wirelessly download your pocket camera's footage on the go. Osm…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-osmo-pocket-4p-sean-hollister-1-5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "date": "Aug 20, 2026",
+        "url": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement"
+    },
+    {
+        "id": "6l5o449xn",
+        "title": "Trump wants South Korea to defend itself. His overtures to Kim Jong Un could delay that",
+        "excerpt": "By suddenly scaling down war games with South Korea, US President Donald Trump risks working against his own stated goal of having Seoul assume more responsi...",
+        "content": "<p>By suddenly scaling down war games with South Korea, US President Donald Trump risks working against his own stated goal of having Seoul assume more responsi...</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/a0ce6acc6d2b2f723863966c73a627a8d8320fb27f729f5337fafcdf52442caa/lightyear_networkapi/resizefill_w960_h540%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F32aa5dca312c976032630ddfa7b02afd.jpg",
+        "date": "Aug 20, 2026",
+        "url": "https://www.cnn.com/2026/08/19/asia/trump-south-korea-alliance-intl-hnk-ml"
+    },
+    {
+        "id": "xztj974go",
+        "title": "The politics of devious faith",
+        "excerpt": "Explore the dangerous use of religious rhetoric in Nigerian politics, particularly the ‘infidel’ narrative, and its impact on national unity and governance\n\nRead More: https://punchng.com/the-politics-of-devious-faith/",
+        "content": "<p>Explore the dangerous use of religious rhetoric in Nigerian politics, particularly the ‘infidel’ narrative, and its impact on national unity and governance\n\nRead More: https://punchng.com/the-politics-of-devious-faith/</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://punchng.com/wp-content/uploads/2026/08/Jigir_1787185224.webp",
+        "date": "Aug 20, 2026",
+        "url": "https://punchng.com/the-politics-of-devious-faith/"
+    },
+    {
+        "id": "812m4iypo",
+        "title": "Heather Graham flaunts fit physique in bikinis on romantic Italian escape",
+        "excerpt": "Heather Graham shared stunning bikini photos from her Positano vacation with boyfriend Michele Civetta, exploring Italy's Amalfi Coast together.",
+        "content": "<p>Heather Graham shared stunning bikini photos from her Positano vacation with boyfriend Michele Civetta, exploring Italy's Amalfi Coast together.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/heather-graham-pinstripe-suit.jpg",
+        "date": "Aug 20, 2026",
+        "url": "https://www.foxnews.com/entertainment/heather-graham-flaunts-fit-physique-bikinis-romantic-italian-escape"
+    },
+    {
+        "id": "07lguzs51",
+        "title": "Racine County Sheriff's Office Flock misuse, investigator suspended",
+        "excerpt": "A flock of problems surrounds another case of a law enforcement officer improperly using Flock cameras. It raises the question of how different agencies deal with abuse.",
+        "content": "<p>A flock of problems surrounds another case of a law enforcement officer improperly using Flock cameras. It raises the question of how different agencies deal with abuse.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2026/08/1200/630/5p-flock-camera-racine-and-bigger-picture-vo-_00.00.05.08.jpg?ve=1&tl=1",
+        "date": "Aug 20, 2026",
+        "url": "https://www.fox6now.com/news/racine-county-sheriffs-office-flock-misuse-investigator-suspended-10-days"
+    },
+    {
         "id": "v2qhuhj8t",
         "title": "The real reason Hayden Panettiere died is just so sickening... but you'll never hear these Hollywood ghouls say the truth out loud: MAUREEN CALLAHAN",
         "excerpt": "King interviewed Panettiere on CBS Mornings on May 18 and asked how she was feeling as she launched her book tour. Hayden visibly struggled to enunciate and keep her eyes open.",
