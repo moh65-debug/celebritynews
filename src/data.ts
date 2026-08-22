@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "kxw0hqk41",
+        "title": "From Tokyo to Berlin, VMFi is Transforming the Multilingual Communication Landscape.",
+        "excerpt": "BERLIN and TOKYO, Aug. 21, 2026 /PRNewswire/ -- As the world gathers for IFA 2026, VMFi is poised to redefine how we connect across languages. Headquartered in Tokyo and powered by a cutting-edge AI team in Taiwan, VMFi has a clear vision: turning multilingua…",
+        "content": "<p>BERLIN and TOKYO, Aug. 21, 2026 /PRNewswire/ -- As the world gathers for IFA 2026, VMFi is poised to redefine how we connect across languages. Headquartered in Tokyo and powered by a cutting-edge AI team in Taiwan, VMFi has a clear vision: turning multilingua…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1970349/20260816203617EDT_image_1.jpg?id=OA2888782&p=facebook",
+        "date": "Aug 21, 2026",
+        "url": "https://www.prnewswire.com/news-releases/from-tokyo-to-berlin-vmfi-is-transforming-the-multilingual-communication-landscape-302852636.html"
+    },
+    {
+        "id": "n58pdxg5a",
+        "title": "Dr. Matthew Opoku Prempeh Outlines Vision for Africa’s Nuclear Future",
+        "excerpt": "Dr. Matthew Opoku Prempeh, the former Ghanaian Minister for both Education and Energy, has challenged the Nuclear Energy industry to look past the immediate engineering feats of reactor construction. He was delivering the keynote address at the 2026 US-Africa…",
+        "content": "<p>Dr. Matthew Opoku Prempeh, the former Ghanaian Minister for both Education and Energy, has challenged the Nuclear Energy industry to look past the immediate engineering feats of reactor construction. He was delivering the keynote address at the 2026 US-Africa…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://thechronicle.com.gh/wp-content/uploads/2026/08/Dr.-Matthew-Opoku-Prempeh-Former-Energy-Minister-addressing-the-Summit.jpeg",
+        "date": "Aug 21, 2026",
+        "url": "https://thechronicle.com.gh/dr-matthew-opoku-prempeh-outlines-vision-for-africas-nuclear-future/"
+    },
+    {
+        "id": "9pqbpc5v9",
+        "title": "Nigeria risks missing China’s zero-tariff opportunity – Experts",
+        "excerpt": "Experts warn Nigeria may miss out on China’s zero-tariff policy benefits without boosting production, improving standards, and cutting trade costs.\n\nRead More: https://punchng.com/nigeria-risks-missing-chinas-zero-tariff-opportunity-experts/",
+        "content": "<p>Experts warn Nigeria may miss out on China’s zero-tariff policy benefits without boosting production, improving standards, and cutting trade costs.\n\nRead More: https://punchng.com/nigeria-risks-missing-chinas-zero-tariff-opportunity-experts/</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://punchng.com/wp-content/uploads/2026/06/Adewale-Adeniyi_1782342894.webp",
+        "date": "Aug 21, 2026",
+        "url": "https://punchng.com/nigeria-risks-missing-chinas-zero-tariff-opportunity-experts/"
+    },
+    {
+        "id": "lgscp7fws",
+        "title": "Gujarat Chief Minister Seeks World Bank Backing for AI Hub and GIFT City Expansion",
+        "excerpt": "During a US visit, Bhupendra Patel outlined Gujarat’s plan to become a global AI and finance centre, asking the World Bank for concessional funding to accelerate GIFT City’s growth.",
+        "content": "<p>Gujarat Chief Minister Bhupendra Patel met with World Bank officials in Washington to present the state’s vision of turning Gujarat into a leading hub for artificial intelligence and international finance.</p>\n<p>He said the state aims to attract AI research centres, startups and multinational firms by leveraging its existing infrastructure and skilled workforce.</p>\n<p>Patel highlighted the progress made at GIFT City, noting that over 150 companies have already set up operations there and that the hub is on track to host a dedicated AI park by 2026.</p>\n<p>The Chief Minister requested concessional loans and technical assistance from the World Bank to fast‑track sustainable urban development, green energy projects and digital connectivity within the city.</p>\n<p>Analysts say securing such funding could lower financing costs for developers and signal confidence in Gujarat’s long‑term growth strategy, while others caution that success will depend on effective implementation and coordination with central policies.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-133390405,width-1200,height-630,imgsize-175062,overlay-economictimes/articleshow.jpg",
+        "date": "Aug 21, 2026",
+        "url": "https://economictimes.indiatimes.com/news/india/gujarat-pitches-ai-gift-city-plans-at-chief-ministers-us-visit-seeks-concessional-world-bank-funding/articleshow/133390406.cms"
+    },
+    {
+        "id": "7et6l4ex2",
+        "title": "AEW Dynamite Review: Kenny Omega Snaps, Destroys Will Ospreay",
+        "excerpt": "Greetings, comrades! It is I, your El Presidente, reporting to you live from my luxurious presidential yacht currently anchored off the coast of Baltimore, where I have been observing the capitalist spectacle that was AEW Dynamite this week. My beloved capyba…",
+        "content": "<p>Greetings, comrades! It is I, your El Presidente, reporting to you live from my luxurious presidential yacht currently anchored off the coast of Baltimore, where I have been observing the capitalist spectacle that was AEW Dynamite this week. My beloved capyba…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/08/frame-0023-2-2000x1125.jpg",
+        "date": "Aug 21, 2026",
+        "url": "https://bleedingcool.com/tv/aew-dynamite-reviewkenny-omega-snaps-destroys-will-ospreay/"
+    },
+    {
+        "id": "j18ogxdgr",
+        "title": "Broadcom reportedly seeking up to $100B in debt financing for AI chip deal",
+        "excerpt": "Broadcom Inc. is reportedly seeking to borrow up to $100 billion as part of a new artificial intelligence chip financing deal.  Bloomberg today cited sources as saying that the debt is intended to support the growth efforts of Anthropic PBC and unnamed “other…",
+        "content": "<p>Broadcom Inc. is reportedly seeking to borrow up to $100 billion as part of a new artificial intelligence chip financing deal.  Bloomberg today cited sources as saying that the debt is intended to support the growth efforts of Anthropic PBC and unnamed “other…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Broadcom.png",
+        "date": "Aug 21, 2026",
+        "url": "https://siliconangle.com/2026/08/20/broadcom-reportedly-seeking-up-to-100b-in-debt-financing-for-ai-chip-deal/"
+    },
+    {
+        "id": "mynkk2tby",
+        "title": "Banks warm up to startup lending as new economy matures",
+        "excerpt": "Traditional banks are moving into startup lending as more growth-stage companies become profitable and bankable, putting pricing pressure on venture-debt funds and NBFCs that previously dominated the segment.",
+        "content": "<p>Traditional banks are moving into startup lending as more growth-stage companies become profitable and bankable, putting pricing pressure on venture-debt funds and NBFCs that previously dominated the segment.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/g7dd1c094e821a5f585e87c8d66670ed6e75c0f5f94462ac8d_1787233418222_1787233418334_df858bb9-46c2-46cf-a4c4-c3852b514633.jpg",
+        "date": "Aug 21, 2026",
+        "url": "https://www.livemint.com/industry/banking/banks-startup-lending-nbfcs-vcs-hsbc-dbs-axis-bank-11787217252425.html"
+    },
+    {
+        "id": "d4y5f0vq9",
+        "title": "Seattle Times writer offered new job hours after quitting over spiked Sophie Cunningham story",
+        "excerpt": "Hours after resigning from the Seattle Times, writer Matt Calkins was publicly extended a job offer. The WNBA has turned into more of a ground for political and cultural debates.",
+        "content": "<p>Hours after resigning from the Seattle Times, writer Matt Calkins was publicly extended a job offer. The WNBA has turned into more of a ground for political and cultural debates.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/6199be8918154fa46f520abbd55fab43f713abfbb2dc6546b4fc1af3a9135126/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2Feae461cd8670f47b20874329b335b8d9.jpg",
+        "date": "Aug 21, 2026",
+        "url": "https://www.hitc.com/seattle-times-writer-offered-new-job-hours-after-quitting-over-sophie-cunningham-story/"
+    },
+    {
+        "id": "s6jbmaxre",
+        "title": "Morningside volleyball sweeps #5 Corban 3-0 in home opener",
+        "excerpt": "SIOUX CITY, Iowa (KCAU) – Attached are the highlights and score from Morningside volleyball’s home opener against Corban. Morningside 3, #5 Corban 0",
+        "content": "<p>SIOUX CITY, Iowa (KCAU) – Attached are the highlights and score from Morningside volleyball’s home opener against Corban. Morningside 3, #5 Corban 0</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/de3678dda94dacbd3926f0f451596178724e543e53a32a3adb510fc4a7cd17ca/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkcau_sioux_city_articles_201%2F388a9fac3b2c8554d34eef3ea1f3e1fe.jpg",
+        "date": "Aug 21, 2026",
+        "url": "https://www.kcau9.com/sports/morningside-volleyball-sweeps-5-corban-3-0-in-home-opener/"
+    },
+    {
+        "id": "t4fjzrczx",
+        "title": "2026 Fantasy football draft prep: Experts reveal rankings, tiers, top 150 picks, rookie strategy",
+        "excerpt": "SportsLine's 2026 Fantasy football draft guide includes Fantasy football auction values, keeper advice, top rookies, mock drafts and more",
+        "content": "<p>SportsLine's 2026 Fantasy football draft guide includes Fantasy football auction values, keeper advice, top rookies, mock drafts and more</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://sportshub.cbsistatic.com/i/r/2026/08/20/483fe829-e7f1-447e-bda2-0b3604c73b6f/thumbnail/1200x675/faa51ee12891bfc6a7d7caf01ec4f408/makai-lemon-eagles.jpg",
+        "date": "Aug 21, 2026",
+        "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-reveal-rankings-tiers-top-150-picks-rookie-strategy/"
+    },
+    {
         "id": "pu3qqsfjb",
         "title": "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding",
         "excerpt": "Veeda AI, a startup led by a team of former Nvidia Corp. researcher and renowned computer scientist Sanja Fidler, has taken its bow on the main stage after raising $90 million in a seed funding round today. The round, which was first reported by The Logic, wa…",
