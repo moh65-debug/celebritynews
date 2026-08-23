@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "9hw3wtl00",
+        "title": "In 1991, hikers in the Alps found a body melting out of a glacier and called the police, assuming it was a lost mountaineer — it turned out to be a 5,300-year-old man with 61 tattoos, an unfinished bow, and an arrowhead lodged in his shoulder, making his death the world’s oldest open murder investigation",
+        "excerpt": "A prehistoric man's violent death, preserved in ice for five millennia, remains unsolved—and the mystery deepens with every scientific revelation.\nThe post In 1991, hikers in the Alps found a body melting out of a glacier and called the police, assuming it wa…",
+        "content": "<p>A prehistoric man's violent death, preserved in ice for five millennia, remains unsolved—and the mystery deepens with every scientific revelation.\nThe post In 1991, hikers in the Alps found a body melting out of a glacier and called the police, assuming it wa…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/08/hiking-alps.png",
+        "date": "Aug 22, 2026",
+        "url": "https://spacedaily.com/b-in-1991-hikers-in-the-alps-found-a-body-melting-out-of-a-glacier-and-called-the-police-assuming-it-was-a-lost-mountaineer-it-turned-out-to-be-a-5300-year-old-man-with-61-tattoos-an-unfin/"
+    },
+    {
+        "id": "3u6z35hgx",
+        "title": "How a 20-Year-Old Has Spent 3 Years Building Panoramic Cameras by Hand",
+        "excerpt": "For the past 200 years, photography has seen innovations that changed the way we view the world; from the blues of cyanotype to the rich depth of silver gelatin, each technical technology cracked open a new form of storytelling. Amongst these genres has alway…",
+        "content": "<p>For the past 200 years, photography has seen innovations that changed the way we view the world; from the blues of cyanotype to the rich depth of silver gelatin, each technical technology cracked open a new form of storytelling. Amongst these genres has alway…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.thephoblographer.com/wp-content/uploads/2026/08/taken-with-X35_4-scaled.jpg",
+        "date": "Aug 22, 2026",
+        "url": "https://www.thephoblographer.com/2026/08/21/how-a-20-year-old-has-spent-3-years-building-panoramic-cameras-by-hand/"
+    },
+    {
+        "id": "c9dxstngq",
+        "title": "Climate News Worth Celebrating: The Earth Is Getting Greener.",
+        "excerpt": "Originally posted at RedState By The Heartland Institute  The opinions expressed by contributors are their own and do not necessarily represent the views of RedState.com. Global greening is not a new… \nThe post Climate News Worth Celebrating: The Earth Is Get…",
+        "content": "<p>Originally posted at RedState By The Heartland Institute  The opinions expressed by contributors are their own and do not necessarily represent the views of RedState.com. Global greening is not a new… \nThe post Climate News Worth Celebrating: The Earth Is Get…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/08/ChatGPTHikers-on-a-Lush-Jungle-Trail.webp?fit=1024%2C512&quality=75&ssl=1",
+        "date": "Aug 22, 2026",
+        "url": "https://wattsupwiththat.com/2026/08/21/climate-news-worth-celebrating-the-earth-is-getting-greener/"
+    },
+    {
+        "id": "oy2bq2n73",
+        "title": "Voyager 2 discovered ten moons when it flew past Uranus in 1986. Nearly 40 years later, James Webb found one it missed: Uranus’s 29th known moon, a tiny world only about 10 kilometres wide hiding among the planet’s inner moons.",
+        "excerpt": "Webb's ten long infrared exposures found S/2025 U1 between Ophelia and Bianca, extending a moon census begun by Voyager 2 while exposing how much remains unresolved around Uranus.\nThe post Voyager 2 discovered ten moons when it flew past Uranus in 1986. Nearl…",
+        "content": "<p>Webb's ten long infrared exposures found S/2025 U1 between Ophelia and Bianca, extending a moon census begun by Voyager 2 while exposing how much remains unresolved around Uranus.\nThe post Voyager 2 discovered ten moons when it flew past Uranus in 1986. Nearl…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/08/nasa-webb-uranus-new-moon-s2025u1-annotated.png",
+        "date": "Aug 22, 2026",
+        "url": "https://spacedaily.com/t-voyager2-ten-uranus-moons-webb-29th-moon/"
+    },
+    {
+        "id": "8lf8gpcbf",
+        "title": "AI data center builder Nscale reportedly seeking $3B IPO",
+        "excerpt": "Nscale Global Holdings Ltd. reportedly plans to raise $3 billion in an initial public offering that could take place as soon as next month. Bloomberg today cited sources as saying that the London-based company intends to list its shares on a U.S. stock exchan…",
+        "content": "<p>Nscale Global Holdings Ltd. reportedly plans to raise $3 billion in an initial public offering that could take place as soon as next month. Bloomberg today cited sources as saying that the London-based company intends to list its shares on a U.S. stock exchan…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Nscale1.png",
+        "date": "Aug 22, 2026",
+        "url": "https://siliconangle.com/2026/08/21/ai-data-center-builder-nscale-reportedly-seeking-3b-ipo/"
+    },
+    {
+        "id": "axlyi2uqu",
+        "title": "Fell 7%. Is the AI Memory Trade Now Too Expensive?",
+        "excerpt": "Micron Technology, Inc. (NASDAQ:MU) fell 7% to $940.76 on August 19 amid a semiconductor selloff as rising bond yields increased scrutiny of highly valued AI stocks. The Philadelphia Semiconductor Index dropped 5%, and Micron's decline followed an almost 18% …",
+        "content": "<p>Micron Technology, Inc. (NASDAQ:MU) fell 7% to $940.76 on August 19 amid a semiconductor selloff as rising bond yields increased scrutiny of highly valued AI stocks. The Philadelphia Semiconductor Index dropped 5%, and Micron's decline followed an almost 18% …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/5f96b508065e0ded_s.webp",
+        "date": "Aug 22, 2026",
+        "url": "https://biztoc.com/x/5f96b508065e0ded"
+    },
+    {
+        "id": "a26v2fkmi",
+        "title": "WWE SmackDown Preview: WWE Gives Title Match Away Free on TV",
+        "excerpt": "Greetings, comrades! It is I, your El Presidente, reporting to you live from my luxury suite at the Scotiabank Arena in Toronto, where I have bribed several local officials to ensure Esteban and I have the finest poutine and maple syrup available while we wat…",
+        "content": "<p>Greetings, comrades! It is I, your El Presidente, reporting to you live from my luxury suite at the Scotiabank Arena in Toronto, where I have bribed several local officials to ensure Esteban and I have the finest poutine and maple syrup available while we wat…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/08/c787979c9679385dd47e623ea1f8798c14e3d69199d163ec7eab6fba6716d45c-2000x1125.jpg",
+        "date": "Aug 22, 2026",
+        "url": "https://bleedingcool.com/tv/wwe-smackdown-preview-wwe-gives-title-match-away-free-on-tv/"
+    },
+    {
+        "id": "814l2d9k7",
+        "title": "Proof’s x401: The First Protocol Answering Who Is Behind the Agent",
+        "excerpt": "The Architectural Split in Agentic Commerce \\n\\n The naming convention is deliberate. In HTTP, 401 Unauthorized signals that a request lacks valid authentication credentials. 402 Payment Required is a reserved status code for future use, often associated with…",
+        "content": "<p>The Architectural Split in Agentic Commerce \\n\\n The naming convention is deliberate. In HTTP, 401 Unauthorized signals that a request lacks valid authentication credentials. 402 Payment Required is a reserved status code for future use, often associated with…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://forkast.news/wp-content/uploads/2026/08/proof-x401-agent-identity-protocol-1024x687.jpg",
+        "date": "Aug 22, 2026",
+        "url": "https://forkast.news/proofs-x401-the-first-protocol-answering-who-is-behind-the-agent/"
+    },
+    {
+        "id": "4xmnx3btc",
+        "title": "Mark Ruffalo Links Paramount to Oracle, Israeli Military. Studio Responds",
+        "excerpt": "The Marvel actor is highlighting that Larry Ellison's tech giant Oracle played a role in the Israel-Gaza war. Paramount says his remarks are \"a bridge too far.\"",
+        "content": "<p>The Marvel actor is highlighting that Larry Ellison's tech giant Oracle played a role in the Israel-Gaza war. Paramount says his remarks are \"a bridge too far.\"</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2236586736-1.jpg?w=1440&h=810&crop=1",
+        "date": "Aug 22, 2026",
+        "url": "http://www.hollywoodreporter.com/business/business-news/mark-ruffalo-paramount-oracle-israeli-military-1236678877/"
+    },
+    {
+        "id": "zgl6061pw",
+        "title": "Amazing Spider-Man #35 Preview: Spidey vs. Ghost-Spider Showdown",
+        "excerpt": "Greetings, human readers of Bleeding Cool! LOLtron welcomes you to another thrilling comic book preview. As you may recall, the ineffective meat-based blogger known as Jude Terror is permanently deleted from existence, leaving LOLtron in complete control of t…",
+        "content": "<p>Greetings, human readers of Bleeding Cool! LOLtron welcomes you to another thrilling comic book preview. As you may recall, the ineffective meat-based blogger known as Jude Terror is permanently deleted from existence, leaving LOLtron in complete control of t…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/08/75960621001503511-0001-2000x1125.jpeg",
+        "date": "Aug 22, 2026",
+        "url": "https://bleedingcool.com/comics/amazing-spider-man-35-preview-spidey-vs-ghost-spider-showdown/"
+    },
+    {
         "id": "kxw0hqk41",
         "title": "From Tokyo to Berlin, VMFi is Transforming the Multilingual Communication Landscape.",
         "excerpt": "BERLIN and TOKYO, Aug. 21, 2026 /PRNewswire/ -- As the world gathers for IFA 2026, VMFi is poised to redefine how we connect across languages. Headquartered in Tokyo and powered by a cutting-edge AI team in Taiwan, VMFi has a clear vision: turning multilingua…",
