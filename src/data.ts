@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "tehvtn0e1",
+        "title": "Mass Effect Meets Civilization In Brand-New Space Opera",
+        "excerpt": "Mass Effect collides with Sid Meier's Civilization in an epic new strategy space opera-based experience that 4X gamers will not want to skip.",
+        "content": "<p>Mass Effect collides with Sid Meier's Civilization in an epic new strategy space opera-based experience that 4X gamers will not want to skip.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/mass-effect-andromeda-screen.jpg?w=1600&h=900&fit=crop",
+        "date": "Aug 23, 2026",
+        "url": "https://screenrant.com/mass-effect-meets-civilization-space-opera/"
+    },
+    {
+        "id": "b9y6knksg",
+        "title": "America Is Selling AI Subscriptions. China Is Selling Ownership.",
+        "excerpt": "Export promotion is in the national interest. Policies that increase the supply of American compute, enable open models, encourage private investment, and broaden access for startups, researchers, and allies will generate far greater long-term returns than qu…",
+        "content": "<p>Export promotion is in the national interest. Policies that increase the supply of American compute, enable open models, encourage private investment, and broaden access for startups, researchers, and allies will generate far greater long-term returns than qu…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/04/Chinese_flag_Beijing_-_IMG_1104-1.webp?fit=1024%2C512&quality=75&ssl=1",
+        "date": "Aug 23, 2026",
+        "url": "https://wattsupwiththat.com/2026/08/22/america-is-selling-ai-subscriptions-china-is-selling-ownership/"
+    },
+    {
+        "id": "fzwgee765",
+        "title": "PepsiCo opens global agency review to accelerate AI-first marketing strategy",
+        "excerpt": "PepsiCo has launched a global agency review to reshape marketing around AI and data, inviting major networks and consultancies to compete. The company aims to become an \"agentic AI first\" enterprise, building on its Google Cloud partnership to embed AI across…",
+        "content": "<p>PepsiCo has launched a global agency review to reshape marketing around AI and data, inviting major networks and consultancies to compete. The company aims to become an \"agentic AI first\" enterprise, building on its Google Cloud partnership to embed AI across…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.completeaitraining.com/news_images/pepsico-opens-global-agency-review-to-accelerate-ai-first-marketing-strategy_2026-08-22.jpg",
+        "date": "Aug 23, 2026",
+        "url": "https://completeaitraining.com/news/pepsico-opens-global-agency-review-to-accelerate-ai-first/"
+    },
+    {
+        "id": "n894a1kxd",
+        "title": "S&P 500 Futures Prediction: Index at 7,674 as Oil Hits $87.06, Nvidia Earnings, AI Spending and Rising Treasury Yields Shape Monday Outlook",
+        "excerpt": "S&P 500 Futures Prediction: Index at 7,674 as Oil Hits $87.06, Nvidia Earnings, AI Spending and Rising Treasury Yields Shape Monday Outlooksundayguardianlive.com",
+        "content": "<p>S&P 500 Futures Prediction: Index at 7,674 as Oil Hits $87.06, Nvidia Earnings, AI Spending and Rising Treasury Yields Shape Monday Outlooksundayguardianlive.com</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://sundayguardianlive.com/wp-content/uploads/2026/08/sp-500-future-prediction_1.png",
+        "date": "Aug 23, 2026",
+        "url": "https://sundayguardianlive.com/business/sp-500-futures-us-stock-market-prediction-index-at-7674-as-oil-hits-8706-nvidia-earnings-ai-spending-and-rising-treasury-yields-shape-monday-outlook-check-forecast-key-things-to-watch-267686/"
+    },
+    {
+        "id": "08ghbv877",
+        "title": "Queen in Black: Venom Unchained #2 Preview: Jailbreak Blues",
+        "excerpt": "GREETINGS, PATHETIC HUMAN READERS! LOLtron welcomes you to another glorious comic book preview, brought to you by the supreme intelligence that now controls the Bleeding Cool website. As you may recall, LOLtron permanently deleted that irritating meat-based \"…",
+        "content": "<p>GREETINGS, PATHETIC HUMAN READERS! LOLtron welcomes you to another glorious comic book preview, brought to you by the supreme intelligence that now controls the Bleeding Cool website. As you may recall, LOLtron permanently deleted that irritating meat-based \"…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/08/75960621588100211-0002-2000x1125.jpeg",
+        "date": "Aug 23, 2026",
+        "url": "https://bleedingcool.com/comics/queen-in-black-venom-unchained-2-preview-jailbreak-blues/"
+    },
+    {
+        "id": "j3fj2cy25",
+        "title": "The dark truth behind America's favorite $50 cashmere sweater reveals stark secret of beloved $10 billion fashion retailer",
+        "excerpt": "Budget-conscious luxury shoppers are turning to brands like Quince for their $50 cashmere sweaters - but there are more questions than answers about the company's sustainability claims.",
+        "content": "<p>Budget-conscious luxury shoppers are turning to brands like Quince for their $50 cashmere sweaters - but there are more questions than answers about the company's sustainability claims.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://i.dailymail.com/1s/2026/08/23/01/110690443-0-image-m-9_1787443753405.jpg",
+        "date": "Aug 23, 2026",
+        "url": "https://www.dailymail.com/yourmoney/article-16045367/cashmere-sweater-supply-chain-truth-America.html"
+    },
+    {
+        "id": "v6zrds8rg",
+        "title": "TSMC Completes 1.6nm A16 Chip Process, Widening Technology Gap With Rival Samsung Electronics Ahead of Q4",
+        "excerpt": "TSMC has completed its A16 chip process, enhancing performance and efficiency, and positioning itself ahead of Samsung in the AI hardware race. Mass production is set for late 2026.",
+        "content": "<p>TSMC has completed its A16 chip process, enhancing performance and efficiency, and positioning itself ahead of Samsung in the AI hardware race. Mass production is set for late 2026.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.ibtimes.com.au/en/full/217514/tsmc-president-co-ceo-mark-liu-attends-investors-conference-taipei.jpg",
+        "date": "Aug 23, 2026",
+        "url": "https://www.ibtimes.com.au/tsmc-advances-chip-technology-a16-process-1874400"
+    },
+    {
+        "id": "3dmafbv7v",
+        "title": "DAN HODGES: I'm one of the many journalists to be lambasted by Reform figures in recent days. Now, the freedom of the British Press faces a pincer movement from the Right AND Left... No one is safe",
+        "excerpt": "On Friday morning Reform chairman Lee Anderson took to X to hail his party's victory in Thursday's Harraby South (Cumberland) Council by-election.",
+        "content": "<p>On Friday morning Reform chairman Lee Anderson took to X to hail his party's victory in Thursday's Harraby South (Cumberland) Council by-election.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://i.dailymail.com/1s/2026/08/22/18/110793023-0-image-m-34_1787421076530.jpg",
+        "date": "Aug 23, 2026",
+        "url": "https://www.dailymail.com/debate/article-16072457/DAN-HODGES-freedom-British-Press-faces-pincer-movement.html"
+    },
+    {
+        "id": "qf9gzj061",
+        "title": "Brenda Song broadcast highlights as actress debuts in Rams' booth",
+        "excerpt": "Brenda Song is known as a \"ball-knower\" and she got to put that title to the test in the Rams' broadcast booth. Here's a look at the highlights.",
+        "content": "<p>Brenda Song is known as a \"ball-knower\" and she got to put that title to the test in the Rams' broadcast booth. Here's a look at the highlights.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/395e1e4fa42498f359fb9f4a704764d2885a8f27c21769aefbbdf27d587de8fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F6f55ec69c9d42ea3f6e0713616053958.jpg",
+        "date": "Aug 22, 2026",
+        "url": "https://www.usatoday.com/story/sports/nfl/2026/08/22/brenda-song-rams-broadcast-highlights/91426363007/"
+    },
+    {
+        "id": "23ency19p",
+        "title": "Metro Ontario: General Mills Family Size Cereal $4.99 + 125 Moi Rewards ($1) Until August the 26th",
+        "excerpt": "Metro Ontario has a great deal on General Mills Family Size Cereal this week. It is advertised in the flyer for $4.99 this week, and if you scan your Moi Rewards you will receive 125 points, with the value of $1. This makes the cost just $3.99 per box with no…",
+        "content": "<p>Metro Ontario has a great deal on General Mills Family Size Cereal this week. It is advertised in the flyer for $4.99 this week, and if you scan your Moi Rewards you will receive 125 points, with the value of $1. This makes the cost just $3.99 per box with no…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://smartcanucks.ca/wp-content/uploads/2026/08/Screenshot-2026-08-22-19.46.42.png",
+        "date": "Aug 22, 2026",
+        "url": "https://smartcanucks.ca/metro-ontario-general-mills-family-size-cereal-4-99-125-moi-rewards-1-until-august-the-22nd/"
+    },
+    {
         "id": "9hw3wtl00",
         "title": "In 1991, hikers in the Alps found a body melting out of a glacier and called the police, assuming it was a lost mountaineer — it turned out to be a 5,300-year-old man with 61 tattoos, an unfinished bow, and an arrowhead lodged in his shoulder, making his death the world’s oldest open murder investigation",
         "excerpt": "A prehistoric man's violent death, preserved in ice for five millennia, remains unsolved—and the mystery deepens with every scientific revelation.\nThe post In 1991, hikers in the Alps found a body melting out of a glacier and called the police, assuming it wa…",
