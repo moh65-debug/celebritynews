@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "uu1aul5bu",
+        "title": "President Trump wants the US to carry out more than 1,000 space launches a year by 2030 — and speed up sending robots and humans to Mars",
+        "excerpt": "Trump signs memo pushing America toward 1,000 annual space launches by 2030, boosting access to land and NASA's moon plans.",
+        "content": "<p>Trump signs memo pushing America toward 1,000 annual space launches by 2030, boosting access to land and NASA's moon plans.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk-1920-80.jpg",
+        "date": "Aug 24, 2026",
+        "url": "https://www.techradar.com/pro/president-trump-wants-the-us-to-carry-out-more-than-1-000-space-launches-a-year-by-2030-and-speed-up-sending-robots-and-humans-to-mars"
+    },
+    {
+        "id": "29di1im2o",
+        "title": "Global Market Today: Asian stocks dip with AI in focus, oil declines",
+        "excerpt": "MSCI’s Asia Pacific equities gauge dipped 0.1%, with the Kospi Index in South Korea — a bellwether for AI investments — falling 1.2%. However, US equity-index futures erased earlier losses to edged up, with contracts for the tech-heavy Nasdaq 100 climbing 0.1…",
+        "content": "<p>MSCI’s Asia Pacific equities gauge dipped 0.1%, with the Kospi Index in South Korea — a bellwether for AI investments — falling 1.2%. However, US equity-index futures erased earlier losses to edged up, with contracts for the tech-heavy Nasdaq 100 climbing 0.1…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-133448958,width-1200,height-630,imgsize-178380,overlay-etmarkets/articleshow.jpg",
+        "date": "Aug 24, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-with-ai-in-focus-oil-declines/articleshow/133448923.cms"
+    },
+    {
+        "id": "bpwvuarg5",
+        "title": "2027: Mbah, Onaiyekan headline NGE debate on election disinformation",
+        "excerpt": "Enugu Governor Peter Mbah and Cardinal Onaiyekan will lead an NGE debate on election disinformation ahead of the 2027 general elections. Learn how media co\n\nRead More: https://punchng.com/2027-mbah-onaiyekan-headline-nge-debate-on-election-disinformation/",
+        "content": "<p>Enugu Governor Peter Mbah and Cardinal Onaiyekan will lead an NGE debate on election disinformation ahead of the 2027 general elections. Learn how media co\n\nRead More: https://punchng.com/2027-mbah-onaiyekan-headline-nge-debate-on-election-disinformation/</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://punchng.com/wp-content/uploads/2026/06/Peter-Mbah.webp",
+        "date": "Aug 24, 2026",
+        "url": "https://punchng.com/2027-mbah-onaiyekan-headline-nge-debate-on-election-disinformation/"
+    },
+    {
+        "id": "kmodk0xn9",
+        "title": "Antengene Announces 2026 Interim Results: Achieves First‑Ever Profitability and Accelerates Value Creation Through Innovative R&D",
+        "excerpt": "SHANGHAI and HONG KONG, Aug. 23, 2026 /PRNewswire/ -- Antengene Corporation Limited (\"Antengene\", SEHK: 6996.HK), a leading innovative, commercial-stage global biotech company dedicated to discovering, developing and commercializing first-in-class and/or best…",
+        "content": "<p>SHANGHAI and HONG KONG, Aug. 23, 2026 /PRNewswire/ -- Antengene Corporation Limited (\"Antengene\", SEHK: 6996.HK), a leading innovative, commercial-stage global biotech company dedicated to discovering, developing and commercializing first-in-class and/or best…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1326271/ANTENGENE-EN-Logo.jpg?id=OA2904476&p=facebook",
+        "date": "Aug 24, 2026",
+        "url": "https://www.prnewswire.com/news-releases/antengene-announces-2026-interim-results-achieves-firstever-profitability-and-accelerates-value-creation-through-innovative-rd-302857795.html"
+    },
+    {
+        "id": "0jd3uudcz",
+        "title": "Consortium launches cross-regional pilot on post-quantum security with participation from banks and regulatory stakeholders",
+        "excerpt": "Convened by the Responsible Fintech Institute with Safeheron as technology partner, to evaluate and eventually open-source quantum-resilient infrastructure for wallet generation and digital asset transfers in a regulated, cross-jurisdiction setting. SINGAPORE…",
+        "content": "<p>Convened by the Responsible Fintech Institute with Safeheron as technology partner, to evaluate and eventually open-source quantum-resilient infrastructure for wallet generation and digital asset transfers in a regulated, cross-jurisdiction setting. SINGAPORE…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1973450/20260820223806EDT_image_1.jpg?id=OA2901227&p=facebook",
+        "date": "Aug 24, 2026",
+        "url": "https://www.prnewswire.com/news-releases/consortium-launches-cross-regional-pilot-on-post-quantum-security-with-participation-from-banks-and-regulatory-stakeholders-302857693.html"
+    },
+    {
+        "id": "16mmmpq5b",
+        "title": "The last days of LIV Golf and what the hell any of it was for",
+        "excerpt": "Michael La Sasso’s final putt had barely dropped before the champagne bottles opened, even if it was almost certainly the last time anyone could spray champagne and pretend the league had a future worth toasting.",
+        "content": "<p>Michael La Sasso’s final putt had barely dropped before the champagne bottles opened, even if it was almost certainly the last time anyone could spray champagne and pretend the league had a future worth toasting.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/b15da9a656f26062103b7ec63d4361d3b4aed57e59315b6b7ecfb622a885358e/lightyear_networkapi/resizefill_w616_h411%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgolf_digest_articles_737%2Fbf1585b316bf5cc4ea716b6f350346de.jpg",
+        "date": "Aug 24, 2026",
+        "url": "https://sports.yahoo.com/articles/last-days-liv-golf-hell-005647786.html"
+    },
+    {
+        "id": "qdavk56yt",
+        "title": "Iran says new sanctions threatened by 'desperate' US will fail",
+        "excerpt": "Iranian Foreign Minister Abbas Araqchi has dismissed threatened US sanctions as a sign of desperation, insisting they will fail to defeat Tehran. The warning comes as the Strait of Hormuz remains effectively blocked, disrupting oil shipments and raising price…",
+        "content": "<p>Iranian Foreign Minister Abbas Araqchi has dismissed threatened US sanctions as a sign of desperation, insisting they will fail to defeat Tehran. The warning comes as the Strait of Hormuz remains effectively blocked, disrupting oil shipments and raising price…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-133448881,width-1200,height-630,imgsize-66306,overlay-economictimes/articleshow.jpg",
+        "date": "Aug 24, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-says-new-sanctions-threatened-by-desperate-us-will-fail/articleshow/133448862.cms"
+    },
+    {
+        "id": "qfpfjj8un",
+        "title": "Osun poll: How vote buyers breached EFCC, ICPC, INEC defences",
+        "excerpt": "Despite warnings from INEC, EFCC, and ICPC, vote buying was rampant during the Osun governorship election. Discover how cash transactions undermined the po\n\nRead More: https://punchng.com/osun-poll-how-vote-buyers-breached-efcc-icpc-inec-defences/",
+        "content": "<p>Despite warnings from INEC, EFCC, and ICPC, vote buying was rampant during the Osun governorship election. Discover how cash transactions undermined the po\n\nRead More: https://punchng.com/osun-poll-how-vote-buyers-breached-efcc-icpc-inec-defences/</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2025/11/08165052/inec-BOSS-AMUPITAN-675x630.jpg",
+        "date": "Aug 24, 2026",
+        "url": "https://punchng.com/osun-poll-how-vote-buyers-breached-efcc-icpc-inec-defences/"
+    },
+    {
+        "id": "y1yx0vkyx",
+        "title": "Why Phosphate-Loaded Sodas Hammer Your Metabolism Harder Than Sugar",
+        "excerpt": "A single can of cola delivers more than just refined sugar — it delivers a metabolic ambush that your body absorbs within minutes. While most people know to worry about the high-fructose corn syrup (HFCS) lurking in soft drinks, few realize that the real dama…",
+        "content": "<p>A single can of cola delivers more than just refined sugar — it delivers a metabolic ambush that your body absorbs within minutes. While most people know to worry about the high-fructose corn syrup (HFCS) lurking in soft drinks, few realize that the real dama…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://media.mercola.com/ImageServer/Public/2025/September/FB/phosphate-loaded-sodas-metabolism-damage-fb.jpg",
+        "date": "Aug 24, 2026",
+        "url": "https://articles.mercola.com/sites/articles/archive/2026/08/24/phosphate-loaded-sodas-metabolism-damage.aspx"
+    },
+    {
+        "id": "qiap44xxe",
+        "title": "The Subjection Of Feminists",
+        "excerpt": "Perhaps the most tragic and consequential failure of Y2KMind happened with feminists in Women’s Studies when, in the spring of 2014, Hoover Institution fellow Ayaan Hirsi Ali would get an honorary degree that year in Feminist/Women’s Studies and rapidly, prof…",
+        "content": "<p>Perhaps the most tragic and consequential failure of Y2KMind happened with feminists in Women’s Studies when, in the spring of 2014, Hoover Institution fellow Ayaan Hirsi Ali would get an honorary degree that year in Feminist/Women’s Studies and rapidly, prof…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!DEvJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4a0d482-7e23-44dc-8719-72d8fbbdf33c_550x493.jpeg",
+        "date": "Aug 24, 2026",
+        "url": "https://rlandes.substack.com/p/the-subjection-of-feminists"
+    },
+    {
         "id": "tehvtn0e1",
         "title": "Mass Effect Meets Civilization In Brand-New Space Opera",
         "excerpt": "Mass Effect collides with Sid Meier's Civilization in an epic new strategy space opera-based experience that 4X gamers will not want to skip.",
