@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "r2se6lro6",
+        "title": "CNBC Daily Open: Washington escalates on two fronts; Nvidia earnings in focus",
+        "excerpt": "Markets are bracing for more tests this week, including Nvidia's earnings, an inflation reading, and the Fed's Jackson Hole symposium.",
+        "content": "<p>Markets are bracing for more tests this week, including Nvidia's earnings, an inflation reading, and the Fed's Jackson Hole symposium.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://image.cnbcfm.com/api/v1/image/108353500-1787599350486-gettyimages-2291341712-AA_24082026_2926778.jpeg?v=1787600557&w=1920&h=1080",
+        "date": "Aug 25, 2026",
+        "url": "https://www.cnbc.com/2026/08/25/trump-bessent-us-sanctions-iran-canada-tariffs-nvidia-.html"
+    },
+    {
+        "id": "hqvobxgsa",
+        "title": "What’s new in Android’s August 2026 Google System Updates [U]",
+        "excerpt": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at dev…",
+        "content": "<p>The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at dev…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-2.jpg?quality=82&strip=all&resize=1200,628",
+        "date": "Aug 25, 2026",
+        "url": "http://9to5google.com/2026/08/24/august-2026-google-system-updates/"
+    },
+    {
+        "id": "dr01j5axp",
+        "title": "LG ELECTRONICS BRINGS HIGH-EFFICIENCY LIVING TO MORE CONSUMERS AT IFA 2026",
+        "excerpt": "Extending Advanced Energy-Saving Technologies Beyond Flagship Models to a Broader Appliance Portfolio News Summary LG expands advanced energy-saving technologies beyond flagship products to bring high-efficiency home appliances to a broader range of consumers…",
+        "content": "<p>Extending Advanced Energy-Saving Technologies Beyond Flagship Models to a Broader Appliance Portfolio News Summary LG expands advanced energy-saving technologies beyond flagship products to bring high-efficiency home appliances to a broader range of consumers…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1974290/20260824053228EDT_image_1.jpg?id=OA2906624&p=facebook",
+        "date": "Aug 25, 2026",
+        "url": "https://www.prnewswire.com/news-releases/lg-electronics-brings-high-efficiency-living-to-more-consumers-at-ifa-2026-302858296.html"
+    },
+    {
+        "id": "yvx1zq809",
+        "title": "Global Market Today: Asian stocks dip after US tech selloff, gold gains",
+        "excerpt": "Asian markets followed Wall Street's downward trend as caution in technology stocks seeped into trading. Meanwhile, gold prices soared for the fifth day straight, hitting impressive highs. Investors are on the edge of their seats awaiting Nvidia's earnings an…",
+        "content": "<p>Asian markets followed Wall Street's downward trend as caution in technology stocks seeped into trading. Meanwhile, gold prices soared for the fifth day straight, hitting impressive highs. Investors are on the edge of their seats awaiting Nvidia's earnings an…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-133485824,width-1200,height-630,imgsize-242288,overlay-etmarkets/articleshow.jpg",
+        "date": "Aug 25, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-after-us-tech-selloff-gold-gains/articleshow/133485763.cms"
+    },
+    {
+        "id": "f2dueppux",
+        "title": "Electrifying The Military - Could Batteries Replace Oil Soon?",
+        "excerpt": "Electrification of warfare has outrun that of the military. Advances are underway, but China's advantage is large in hybrid/EVs. Many hurdles exist, including politics.",
+        "content": "<p>Electrification of warfare has outrun that of the military. Advances are underway, but China's advantage is large in hybrid/EVs. Many hurdles exist, including politics.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a8cc386e591e0692026c722/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "Aug 25, 2026",
+        "url": "https://www.forbes.com/sites/scottmontgomery/2026/08/24/electrifying-the-militarycould-batteries-replace-oil-soon/"
+    },
+    {
+        "id": "z01cilovb",
+        "title": "This Small Molecule Reverses Alzheimer’s Disease Progression, Study Shows",
+        "excerpt": "Nicotinamide adenine dinucleotide (NAD+) may be one of the most overlooked factors when it comes to optimizing cellular health. It is a cellular coenzyme that plays a role in many metabolic and signaling reactions.\n\nFor example, it partakes in redox reactions…",
+        "content": "<p>Nicotinamide adenine dinucleotide (NAD+) may be one of the most overlooked factors when it comes to optimizing cellular health. It is a cellular coenzyme that plays a role in many metabolic and signaling reactions.\n\nFor example, it partakes in redox reactions…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://media.mercola.com/ImageServer/Public/2026/February/FB/nad-reverses-alzheimers-progression-fb.jpg",
+        "date": "Aug 25, 2026",
+        "url": "https://articles.mercola.com/sites/articles/archive/2026/08/25/nad-reverses-alzheimers-progression.aspx"
+    },
+    {
+        "id": "81oorx2x5",
+        "title": "Senior Group Product Manager",
+        "excerpt": "Then Just Eat Takeaway.com might be the place for you. We’re a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it’s a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform c…",
+        "content": "<p>Then Just Eat Takeaway.com might be the place for you. We’re a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it’s a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform c…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://s0.wp.com/i/blank.jpg",
+        "date": "Aug 25, 2026",
+        "url": "https://nlppeople.com/job/senior-group-product-manager/"
+    },
+    {
+        "id": "lmhjelr3w",
+        "title": "Sydney Sweeney tells Tom Cruise to 'watch out' after strapping herself to top of airplane",
+        "excerpt": "Sydney Sweeney's video shows her strapped atop a flipping airplane, prompting the official \"Top Gun\" Instagram account to respond to her Tom Cruise joke.",
+        "content": "<p>Sydney Sweeney's video shows her strapped atop a flipping airplane, prompting the official \"Top Gun\" Instagram account to respond to her Tom Cruise joke.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/sweeney-cruise.jpg",
+        "date": "Aug 24, 2026",
+        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-tells-tom-cruise-watch-out-strapping-herself-top-airplane"
+    },
+    {
+        "id": "pxnprw2k8",
+        "title": "Quintessent bags $40M to develop lasers for AI clusters",
+        "excerpt": "Optical interconnect startup Quintessent Inc. today announced that it has raised $40 million in funding to ramp up production of its hardware. Cycle Capital led the Series A raise. It was joined by Goldman Sachs, Susquehanna International Group, Osage Univers…",
+        "content": "<p>Optical interconnect startup Quintessent Inc. today announced that it has raised $40 million in funding to ramp up production of its hardware. Cycle Capital led the Series A raise. It was joined by Goldman Sachs, Susquehanna International Group, Osage Univers…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Quintessent.png",
+        "date": "Aug 24, 2026",
+        "url": "https://siliconangle.com/2026/08/24/quintessent-bags-40m-to-develop-lasers-for-ai-clusters/"
+    },
+    {
+        "id": "rtaflbgal",
+        "title": "Xi meets Jordan’s king; State of the economy; Formaldehyde-dipped cabbages; CCDI Sixth Plenum; US-China",
+        "excerpt": "In this issue: Xi meets Jordan’s king\n\nSixth Plenum of the CPC Central Commission for Discipline Inspection\n\n“Zhong Caiwen 钟才文” on the economy\n\nFiscal revenue grew in July \n\nFormaldehyde-dipped cabbage\n\nUS-China",
+        "content": "<p>In this issue: Xi meets Jordan’s king\n\nSixth Plenum of the CPC Central Commission for Discipline Inspection\n\n“Zhong Caiwen 钟才文” on the economy\n\nFiscal revenue grew in July \n\nFormaldehyde-dipped cabbage\n\nUS-China</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!iBkR!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43fc27de-fbd9-4338-8556-475cb1ffa4eb_1380x900.png",
+        "date": "Aug 24, 2026",
+        "url": "https://sinocism.com/p/xi-meets-jordans-king-state-of-the"
+    },
+    {
         "id": "uu1aul5bu",
         "title": "President Trump wants the US to carry out more than 1,000 space launches a year by 2030 — and speed up sending robots and humans to Mars",
         "excerpt": "Trump signs memo pushing America toward 1,000 annual space launches by 2030, boosting access to land and NASA's moon plans.",
