@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "3ogc5xfnv",
+        "title": "'This is crazy. This is insane': Bill Gates has changed his mind about AI and jobs",
+        "excerpt": "The News\nBill Gates says it’s time to hit the AI panic button.\nThe technology has crossed dangerous thresholds in biology, cybersecurity, white-collar work, and human relationships, Gates said in an interview with Semafor.\nHis warning is a striking shift from…",
+        "content": "<p>The News\nBill Gates says it’s time to hit the AI panic button.\nThe technology has crossed dangerous thresholds in biology, cybersecurity, white-collar work, and human relationships, Gates said in an interview with Semafor.\nHis warning is a striking shift from…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/5ee1a95c40e17640_s.webp",
+        "date": "Aug 26, 2026",
+        "url": "https://biztoc.com/x/5ee1a95c40e17640"
+    },
+    {
+        "id": "guiaj8m7d",
+        "title": "When code is abundant",
+        "excerpt": "Producing code is getting cheap. Trusting it is not. Why enterprises need a durable layer of context, verification, and governance around AI agents.",
+        "content": "<p>Producing code is getting cheap. Trusting it is not. Why enterprises need a durable layer of context, verification, and governance around AI agents.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1785336708/ww4mlighwlvvzgnmbe6w.png",
+        "date": "Aug 26, 2026",
+        "url": "https://about.gitlab.com/blog/when-code-is-abundant/"
+    },
+    {
+        "id": "0po3lqh2e",
+        "title": "Ventures Platform goes bigger — and broader — with its second Africa fund | TechCrunch",
+        "excerpt": "The Pan-African venture firm has raised $83 million and plans to invest in startups beyond its home market of Nigeria.",
+        "content": "<p>The Pan-African venture firm has raised $83 million and plans to invest in startups beyond its home market of Nigeria.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/venture-platform-vc.jpg?resize=1200,778",
+        "date": "Aug 26, 2026",
+        "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/"
+    },
+    {
+        "id": "f66wsy18k",
+        "title": "Meta and the states are talking settlement while the jury is still sitting",
+        "excerpt": "Meta and state attorneys general have held settlement discussions amid the youth social media harm trial now underway in federal court in California, according to Bloomberg. The case is the largest of its kind, with 29 states pursuing the company and four of …",
+        "content": "<p>Meta and state attorneys general have held settlement discussions amid the youth social media harm trial now underway in federal court in California, according to Bloomberg. The case is the largest of its kind, with 29 states pursuing the company and four of …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://media.thenextweb.com/2026/04/Meta.jpg",
+        "date": "Aug 26, 2026",
+        "url": "https://thenextweb.com/news/meta-states-settlement-talks-youth-harm"
+    },
+    {
+        "id": "0arh0n1z2",
+        "title": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia",
+        "excerpt": "The Asian Contents & Film Market (ACFM), the market of the Busan International Film Festival, will present InnoAsia 2026, its program built around the intersection of film and emerging technology. This year’s participants include Amazon Web Services (AWS), Kl…",
+        "content": "<p>The Asian Contents & Film Market (ACFM), the market of the Busan International Film Festival, will present InnoAsia 2026, its program built around the intersection of film and emerging technology. This year’s participants include Amazon Web Services (AWS), Kl…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg?w=1000&h=563&crop=1",
+        "date": "Aug 26, 2026",
+        "url": "https://variety.com/2026/film/news/google-deepmind-amazon-web-services-busan-market-innoasia-1236843573/"
+    },
+    {
+        "id": "xzilyv8rl",
+        "title": "Deloitte puts the lunar economy at up to $566 billion by 2050—and SpaceX is speeding the timeline",
+        "excerpt": "The report, shared with Fortune ahead of its Wednesday release, says ripple effects could push the total above $1.1 trillion if water-ice rocket fuel and orbital data centers pan out.",
+        "content": "<p>The report, shared with Fortune ahead of its Wednesday release, says ripple effects could push the total above $1.1 trillion if water-ice rocket fuel and orbital data centers pan out.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1786604582-e1787627445181.jpg?resize=1200,600",
+        "date": "Aug 26, 2026",
+        "url": "https://fortune.com/2026/08/26/spacex-moon-musk-lunar-economy-566-billion-deloitte/"
+    },
+    {
+        "id": "gaog9kqrr",
+        "title": "Trump's Operation Economic Outcast: How could Iran sanctions impact India?",
+        "excerpt": "Donald Trump's Operation Economic Outcast could hit India through higher oil prices, trade disruptions, payment hurdles and possible US action over New Delhi's purchases of Russian energy",
+        "content": "<p>Donald Trump's Operation Economic Outcast could hit India through higher oil prices, trade disruptions, payment hurdles and possible US action over New Delhi's purchases of Russian energy</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/07/thumb/featurecrop/1200X628/1783391535-797.jpg",
+        "date": "Aug 26, 2026",
+        "url": "https://www.business-standard.com/economy/news/trump-operation-economic-outcast-us-iran-sanctions-india-impact-crude-oil-126082600404_1.html"
+    },
+    {
+        "id": "dlwa9tw5v",
+        "title": "ECB set for September rate hike with no appetite for more",
+        "excerpt": "European Central Bank policymakers are ready to raise interest rates at their next meeting in September to contain the side-effects of the Iran war but they have little appetite to signal further tightening after that, three sources told Reuters.",
+        "content": "<p>European Central Bank policymakers are ready to raise interest rates at their next meeting in September to contain the side-effects of the Iran war but they have little appetite to signal further tightening after that, three sources told Reuters.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.rte.ie/images/0024da58-1600.jpg",
+        "date": "Aug 26, 2026",
+        "url": "https://www.rte.ie/news/business/2026/0826/1589253-european-cental-bank-preview/"
+    },
+    {
+        "id": "cwkx5camm",
+        "title": "Secrets of mysterious 17th-century Polish ‘vampire’ have finally come to light",
+        "excerpt": "Finding a human body buried with a sickle around their neck and a padlock around their big toe isn’t exactly common fare.Continue ReadingCategory: Archaeology, Science, Refractor: Science & HealthTags: grave, vampire, Archaeology, Bones, ancient, Fossils",
+        "content": "<p>Finding a human body buried with a sickle around their neck and a padlock around their big toe isn’t exactly common fare.Continue ReadingCategory: Archaeology, Science, Refractor: Science & HealthTags: grave, vampire, Archaeology, Bones, ancient, Fossils</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://assets.newatlas.com/dims4/default/a5ec32a/2147483647/strip/true/crop/2000x1050+0+100/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fbf%2F3b%2Fc46aa7ad44b3ab4537a7eefabe4a%2Fvampire-pien-grave-header.jpg&na.image_optimisation=0",
+        "date": "Aug 26, 2026",
+        "url": "https://newatlas.com/history/17th-century-vampire-revealed-archaeologists/"
+    },
+    {
+        "id": "r2p2qkn1h",
+        "title": "Vidio Teams With ReelShort for First Indonesian Short-Drama Partnership",
+        "excerpt": "Indonesian streaming platform Vidio has partnered with ReelShort, the microdrama platform owned by Crazy Maple Studio, marking ReelShort’s first entry into the Indonesian market. Hundreds of ReelShort titles will become available on Vidio starting Sept. 1. Th…",
+        "content": "<p>Indonesian streaming platform Vidio has partnered with ReelShort, the microdrama platform owned by Crazy Maple Studio, marking ReelShort’s first entry into the Indonesian market. Hundreds of ReelShort titles will become available on Vidio starting Sept. 1. Th…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://variety.com/wp-content/uploads/2026/08/Vidio-ReelShort.jpg?w=1000&h=563&crop=1",
+        "date": "Aug 26, 2026",
+        "url": "https://variety.com/2026/tv/news/vidio-reelshort-indonesia-partnership-short-drama-1236843567/"
+    },
+    {
         "id": "r2se6lro6",
         "title": "CNBC Daily Open: Washington escalates on two fronts; Nvidia earnings in focus",
         "excerpt": "Markets are bracing for more tests this week, including Nvidia's earnings, an inflation reading, and the Fed's Jackson Hole symposium.",
