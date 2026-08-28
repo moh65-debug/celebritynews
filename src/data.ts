@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "arafze6mo",
+        "title": "Samsung Showcases P9 and P7 SSDs Featuring USB4 at Gamescom 2026",
+        "excerpt": "Samsung Electronics Co., Ltd., a global leader in advanced memory technology, today unveiled the P9 and P7, its next-generation portable solid-state drives (SSDs) featuring USB4 connectivity. The company introduced the new P Series at Gamescom 2026, the world…",
+        "content": "<p>Samsung Electronics Co., Ltd., a global leader in advanced memory technology, today unveiled the P9 and P7, its next-generation portable solid-state drives (SSDs) featuring USB4 connectivity. The company introduced the new P Series at Gamescom 2026, the world…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.global.news.samsung.com/in/wp-content/uploads/2026/08/27114500/feature-Samsung-Semiconductors-P9-P7-SSD-USB4-Gamescom-2026_Main2.jpg",
+        "date": "Aug 27, 2026",
+        "url": "https://news.samsung.com/in/samsung-showcases-p9-and-p7-ssds-featuring-usb4-at-gamescom-2026"
+    },
+    {
+        "id": "k2dk6fxnm",
+        "title": "Why social media harms are hard to regulate",
+        "excerpt": "Meta and other social media platforms face lawsuits alleging they foster addictive use among young people. Now regulators are struggling to rein in their engagement-driven business models.",
+        "content": "<p>Meta and other social media platforms face lawsuits alleging they foster addictive use among young people. Now regulators are struggling to rein in their engagement-driven business models.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.dw.com/image/77572589_6.jpg",
+        "date": "Aug 27, 2026",
+        "url": "https://www.dw.com/en/why-social-media-harms-are-hard-to-regulate/a-78482023"
+    },
+    {
+        "id": "13qh1bv1u",
+        "title": "Social media harms: Hard to ignore, tougher to regulate",
+        "excerpt": "Meta and other social media platforms face lawsuits alleging they foster addictive use among young people. Now regulators are struggling to rein in their engagement-driven business models. Addiction, self-harm, suicide: Social media's engagement-driven strate…",
+        "content": "<p>Meta and other social media platforms face lawsuits alleging they foster addictive use among young people. Now regulators are struggling to rein in their engagement-driven business models. Addiction, self-harm, suicide: Social media's engagement-driven strate…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.dw.com/image/77572589_6.jpg",
+        "date": "Aug 27, 2026",
+        "url": "https://www.dw.com/en/social-media-harms-hard-to-ignore-tougher-to-regulate/a-78482023"
+    },
+    {
+        "id": "6444h2q7q",
+        "title": "Why social media addiction is so hard to regulate",
+        "excerpt": "Meta and other social media platforms face lawsuits alleging they foster addictive use among young people. Now regulators are struggling to rein in their engagement-driven business models.",
+        "content": "<p>Meta and other social media platforms face lawsuits alleging they foster addictive use among young people. Now regulators are struggling to rein in their engagement-driven business models.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.dw.com/image/77572589_6.jpg",
+        "date": "Aug 27, 2026",
+        "url": "https://www.dw.com/en/social-media-meta-addiction-facebook-tiktok-youtube-mental-health-ai/a-78482023"
+    },
+    {
+        "id": "gg1qvsjfo",
+        "title": "NVIDIA DLSS 5 Neural Rendering DLL Leak Hints at Nearby Launch",
+        "excerpt": "NVIDIA's DLSS 5 neural rendering technology might be one of the most controversial announcements, as the gaming community has been quite vocal about their opinions on the new rendering technique. However, the launch of DLSS 5 is expected this fall, and we are…",
+        "content": "<p>NVIDIA's DLSS 5 neural rendering technology might be one of the most controversial announcements, as the gaming community has been quite vocal about their opinions on the new rendering technique. However, the launch of DLSS 5 is expected this fall, and we are…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.techpowerup.com/img/fPJCq8iuA7Xxm78g.jpg",
+        "date": "Aug 27, 2026",
+        "url": "https://www.techpowerup.com/352026/nvidia-dlss-5-neural-rendering-dll-leak-hints-at-nearby-launch"
+    },
+    {
+        "id": "ycnr70tk0",
+        "title": "Iran War: Bloomberg Claims High Oil Flows Through Hormuz as Iran Threatens for Real Closure; Diesel Stress Rises as Canada Oil Exports to Fall Near Term; Investors Diss Bessent Treasury Meddling, Finger Inflation as the Issue",
+        "excerpt": "Today's Iran war news: Diverging claims on Strait of Hormuz oil transits as Iran vows tight closure and investors trash Bessent Treasury meddling.",
+        "content": "<p>Today's Iran war news: Diverging claims on Strait of Hormuz oil transits as Iran vows tight closure and investors trash Bessent Treasury meddling.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.nakedcapitalism.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-1.50.25 PM.png",
+        "date": "Aug 27, 2026",
+        "url": "https://www.nakedcapitalism.com/2026/08/iran-war-bloomberg-claims-high-oil-flows-through-hormuz-as-iran-threatens-for-real-closure-diesel-stress-rises-as-canada-oil-exports-to-fall-near-term-investors-diss-bessent-treasury-meddling-fing.html"
+    },
+    {
+        "id": "9ucmbgnfm",
+        "title": "Spanberger AG draws fire over two-front fight against Trump enforcement agenda",
+        "excerpt": "Virginia Attorney General Jay Jones faces fire over a civil rights probe into Greene County Sheriff Steve Smith's ICE-involved traffic stop operations.",
+        "content": "<p>Virginia Attorney General Jay Jones faces fire over a civil rights probe into Greene County Sheriff Steve Smith's ICE-involved traffic stop operations.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Jay-Jones-Spanberger-_1_.jpg",
+        "date": "Aug 27, 2026",
+        "url": "https://www.foxnews.com/politics/spanberger-ag-draws-fire-two-front-fight-against-trump-enforcement-agenda"
+    },
+    {
+        "id": "5z99da2m8",
+        "title": "Allan to Man City: How 'Mini Balotelli' overcame tragedy to thrive",
+        "excerpt": "With Manchester City signing Allan Elias from Palmeiras, Adam Bate examines the Brazilian late bloomer's tragic but inspiring backstory with insight from the former coach who is backing him to become a success in the Premier League under Enzo Maresca...",
+        "content": "<p>With Manchester City signing Allan Elias from Palmeiras, Adam Bate examines the Brazilian late bloomer's tragic but inspiring backstory with insight from the former coach who is backing him to become a success in the Premier League under Enzo Maresca...</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://e0.365dm.com/26/08/1600x900/skysports-allan-elias-palmeiras_7332099.jpg?20260826183231",
+        "date": "Aug 27, 2026",
+        "url": "https://www.skysports.com/football/news/11679/13577650/allan-elias-to-man-city-how-brazilian-overcame-tragedy-to-go-from-mini-balotelli-to-palmeiras-underrated-gem"
+    },
+    {
+        "id": "pz2fzf47d",
+        "title": "In 2009, NASA sent four painted lady caterpillars to the ISS; reports said all four completed metamorphosis and emerged as adult butterflies in microgravity",
+        "excerpt": "In 2009, four painted lady caterpillars made their way to the International Space Station, embarking on a unique journey. In the absence of gravity, these resilient caterpillars adapted seamlessly to their new environment, ultimately forming chrysalises and t…",
+        "content": "<p>In 2009, four painted lady caterpillars made their way to the International Space Station, embarking on a unique journey. In the absence of gravity, these resilient caterpillars adapted seamlessly to their new environment, ultimately forming chrysalises and t…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://img.etimg.com/thumb/msid-133533402,width-1200,height-630,imgsize-169336,overlay-economictimes/articleshow.jpg",
+        "date": "Aug 27, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/us/in-2009-nasa-sent-four-painted-lady-caterpillars-to-the-iss-all-four-reportedly-completed-metamorphosis-and-emerged-as-adult-butterflies-in-microgravity/articleshow/133532817.cms"
+    },
+    {
+        "id": "txv3ll2xk",
+        "title": "Football Frenzy is back: Where we’ll be tonight as season kicks off",
+        "excerpt": "High school football is back. The Football Frenzy crews will fan out around West Michigan to bring you highlights as games kick off.",
+        "content": "<p>High school football is back. The Football Frenzy crews will fan out around West Michigan to bring you highlights as games kick off.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/eb719c590721bb66d004bcd37573f903d5ed64e943d90a703b3e87babcce4849/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwood_articles_694%2Fdf6dc4d26985201ab82c7f9b2944c39a.jpg",
+        "date": "Aug 27, 2026",
+        "url": "https://www.woodtv.com/sports/football-frenzy/high-school-football-frenzy-highlights-august-27-2026/"
+    },
+    {
         "id": "3ogc5xfnv",
         "title": "'This is crazy. This is insane': Bill Gates has changed his mind about AI and jobs",
         "excerpt": "The News\nBill Gates says it’s time to hit the AI panic button.\nThe technology has crossed dangerous thresholds in biology, cybersecurity, white-collar work, and human relationships, Gates said in an interview with Semafor.\nHis warning is a striking shift from…",
