@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "bdcdtuxjw",
+        "title": "Peyman Kargar set to be new CEO of TVS Motor from Jan 2027",
+        "excerpt": "Peyman Kargar will become CEO of TVS Motor Company in January 2027, succeeding K. N. Radhakrishnan for a seamless transition.",
+        "content": "<p>Peyman Kargar will become CEO of TVS Motor Company in January 2027, succeeding K. N. Radhakrishnan for a seamless transition.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/8ablku/article71399214.ece/alternates/LANDSCAPE_1200/IMG_2894.jpeg",
+        "date": "Aug 28, 2026",
+        "url": "https://www.thehindubusinessline.com/companies/peyman-kargar-set-to-be-new-ceo-of-tvs-motor-from-jan-2027/article71399232.ece"
+    },
+    {
+        "id": "hmehyhs45",
+        "title": "TIME100 AI 2026: Meet the IIT Delhi graduate who helped build Aadhaar and is now on TIME’s list of 100 most influential people in AI",
+        "excerpt": "IIT Delhi graduate and Sarvam AI co-founder Vivek Raghavan has been named to TIME’s TIME100 AI 2026 list for his role in shaping India’s artificial intelligence ecosystem. Raghavan previously served as Chief Project Manager and Biometric Architect for Aadhaar…",
+        "content": "<p>IIT Delhi graduate and Sarvam AI co-founder Vivek Raghavan has been named to TIME’s TIME100 AI 2026 list for his role in shaping India’s artificial intelligence ecosystem. Raghavan previously served as Chief Project Manager and Biometric Architect for Aadhaar…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-133584085,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Aug 28, 2026",
+        "url": "https://timesofindia.indiatimes.com/education/news/time100-ai-2026-meet-the-iit-delhi-graduate-who-helped-build-aadhaar-and-is-now-on-times-list-of-100-most-influential-people-in-ai/articleshow/133584022.cms"
+    },
+    {
+        "id": "kuaf9j058",
+        "title": "What 90 days and a small budget can buy in AI agent security",
+        "excerpt": "In this interview with Help Net Security, Prasad Tharippala, Field CISO at Versa, explains what organizations miss when they run open-weight models in house. He covers the hidden costs of GPU infrastructure, licensing review and staffing, and why hardening an…",
+        "content": "<p>In this interview with Help Net Security, Prasad Tharippala, Field CISO at Versa, explains what organizations miss when they run open-weight models in house. He covers the hidden costs of GPU infrastructure, licensing review and staffing, and why hardening an…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.helpnetsecurity.com/wp-content/uploads/2026/08/26140456/prasad_tharippala-2-versa.webp",
+        "date": "Aug 28, 2026",
+        "url": "https://www.helpnetsecurity.com/2026/08/28/prasad-tharippala-versa-securing-ai-agents/"
+    },
+    {
+        "id": "t70d4dv8n",
+        "title": "Nifty IT index soars 3%; LTM, Coforge, TCS, TechM gain up to 5%; here's why",
+        "excerpt": "IT stocks rallied on Friday after Nvidia's strong revenue forecast reinforced optimism around the artificial intelligence (AI) boom.",
+        "content": "<p>IT stocks rallied on Friday after Nvidia's strong revenue forecast reinforced optimism around the artificial intelligence (AI) boom.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-12/08/thumb/fitandfill/1200X628/1733637577-7783.jpg",
+        "date": "Aug 28, 2026",
+        "url": "https://www.business-standard.com/markets/news/nifty-it-index-soars-3-ltm-coforge-tcs-techm-gain-up-to-5-here-s-why-126082800283_1.html"
+    },
+    {
+        "id": "0z7oy1qru",
+        "title": "We will need more (not fewer) scientists",
+        "excerpt": "AI co-scientists are getting good at precisely the labor we trained to do. But the pursuit of knowledge is not a zero-sum game. Instead, as the scientific frontier expands, the vast space to explore explodes faster than any fleet of agents can fill it.",
+        "content": "<p>AI co-scientists are getting good at precisely the labor we trained to do. But the pursuit of knowledge is not a zero-sum game. Instead, as the scientific frontier expands, the vast space to explore explodes faster than any fleet of agents can fill it.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://blog.valency.io/posts/we-need-more-scientists/little-prince_hu_f9ee4524d83a7e3c.jpg",
+        "date": "Aug 28, 2026",
+        "url": "https://blog.valency.io/posts/we-need-more-scientists/"
+    },
+    {
+        "id": "wunzd1rhz",
+        "title": "Mitsotakis, the complaints, Ivan and Telis, PASOK wakes up from summer (and votes for Akrita), Eleusina, the Piraeus Port Authority and the Chinese, shipowners buy 550 ships ///",
+        "excerpt": "Hello. Straight after the metro inauguration, and before addressing the Megaron concert hall on the city’s infrastructure works, Prime Minister Kyriakos Mitsotakis met New Democracy MPs in Thessaloniki. I’m told he complained, in a way, that not enough projec…",
+        "content": "<p>Hello. Straight after the metro inauguration, and before addressing the Megaron concert hall on the city’s infrastructure works, Prime Minister Kyriakos Mitsotakis met New Democracy MPs in Thessaloniki. I’m told he complained, in a way, that not enough projec…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://en.protothema.gr/wp-content/uploads/2024/06/ProtothemaEn.png",
+        "date": "Aug 28, 2026",
+        "url": "https://en.protothema.gr/2026/08/28/mitsotakis-the-complaints-ivan-and-telis-pasok-wakes-up-from-summer-and-votes-for-akrita-eleusina-the-piraeus-port-authority-and-the-chinese-shipowners-buy-550-ships/"
+    },
+    {
+        "id": "wb4nl5d0e",
+        "title": "HIGHLIGHTS: Coahoma vs. Forsan",
+        "excerpt": "BIG SPRING, Texas (KMID/KPEJ) – The Forsan Buffaloes defeated the Coahoma Bulldogs 22-20 in overtime Thursday night to claim the Howard County Bowl. The win marks Forsan’s first Howard County Bowl victory since 2022 and gives the Buffaloes their fifth win in …",
+        "content": "<p>BIG SPRING, Texas (KMID/KPEJ) – The Forsan Buffaloes defeated the Coahoma Bulldogs 22-20 in overtime Thursday night to claim the Howard County Bowl. The win marks Forsan’s first Howard County Bowl victory since 2022 and gives the Buffaloes their fifth win in …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/0c81b8443114c74a02b4e53dd57656d32f1dcc83c3aca70ce14832c1884187f2/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkmid_midland_articles_115%2F6425895ab01a4a892eaf996205726d23.jpg",
+        "date": "Aug 28, 2026",
+        "url": "https://www.yourbasin.com/sports/basin-gridiron-hsfb/highlights-coahoma-vs-forsan-2/"
+    },
+    {
+        "id": "utw5j3nzt",
+        "title": "No. 4 Pitt State Football falls in season opener against No. 1 Ferris State",
+        "excerpt": "Pitt State Football begins the year with a 42-14 loss at home against No. 1 Ferris State. The Gorillas were outgained by more than 300 yards in the run game, scoring only offensive touchdown. See our recap and highlights below.",
+        "content": "<p>Pitt State Football begins the year with a 42-14 loss at home against No. 1 Ferris State. The Gorillas were outgained by more than 300 yards in the run game, scoring only offensive touchdown. See our recap and highlights below.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/e78be97e11222b234b9a7abf256224a471406e4817df046e55993eea5a21ffc8/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fksnf_joplin_articles_426%2Fdf96ce9588289dd7c52f1ef7e77f6a54.jpg",
+        "date": "Aug 28, 2026",
+        "url": "https://www.fourstateshomepage.com/sports/local-sports/no-4-pitt-state-football-falls-in-season-opener-against-no-1-ferris-state/"
+    },
+    {
+        "id": "205opokzo",
+        "title": "The Four Desires Driving All Human Behavior: Bertrand Russell’s Magnificent Nobel Prize Acceptance Speech",
+        "excerpt": "\"Nothing in the world is more exciting than a moment of sudden discovery or invention, and many more people are capable of experiencing such moments than is sometimes thought.\"",
+        "content": "<p>\"Nothing in the world is more exciting than a moment of sudden discovery or invention, and many more people are capable of experiencing such moments than is sometimes thought.\"</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.themarginalian.org/wp-content/uploads/2012/05/bertrandrussell2.jpg?fit=600%2C315&ssl=1",
+        "date": "Aug 28, 2026",
+        "url": "https://www.themarginalian.org/2026/08/28/bertrand-russell-nobel-prize-acceptance-speech/"
+    },
+    {
+        "id": "l95vwvc2v",
+        "title": "HIGHLIGHTS: Mexico City Prep vs. Odessa",
+        "excerpt": "ODESSA, Texas (KMID/KPEJ) – The Odessa Bronchos start the season 1-0 after defeating Mexico City Prep 51-14. The Bronchos led 37-0 at halftime and stayed on the gas in the second half, adding two more scores. Odessa ran a total of 55 offensive plays for 452 y…",
+        "content": "<p>ODESSA, Texas (KMID/KPEJ) – The Odessa Bronchos start the season 1-0 after defeating Mexico City Prep 51-14. The Bronchos led 37-0 at halftime and stayed on the gas in the second half, adding two more scores. Odessa ran a total of 55 offensive plays for 452 y…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/e79753fb1e1bb788dbb7bf05c38433dae3a1bb759670b269ff38e34a0e62f244/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkmid_midland_articles_115%2Fe05e6d681c5375f9289333764c75b960.jpg",
+        "date": "Aug 28, 2026",
+        "url": "https://www.yourbasin.com/sports/basin-gridiron-hsfb/highlights-mexico-city-prep-vs-odessa/"
+    },
+    {
         "id": "arafze6mo",
         "title": "Samsung Showcases P9 and P7 SSDs Featuring USB4 at Gamescom 2026",
         "excerpt": "Samsung Electronics Co., Ltd., a global leader in advanced memory technology, today unveiled the P9 and P7, its next-generation portable solid-state drives (SSDs) featuring USB4 connectivity. The company introduced the new P Series at Gamescom 2026, the world…",
