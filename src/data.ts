@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "i6f1bti6b",
+        "title": "Interstellar Travel V: Warp Drives, Wormholes, and Halo Drives",
+        "excerpt": "In our fifth installment, we explore the most exotic proposals for interstellar travel, including the Alcubierre Warp Metric, wormhole travel, the Halo Drive, and other truly advanced concepts.",
+        "content": "<p>In our fifth installment, we explore the most exotic proposals for interstellar travel, including the Alcubierre Warp Metric, wormhole travel, the Halo Drive, and other truly advanced concepts.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.universetoday.com/article_images/BwEQfhq41jim78VNt0trex1i7Xt0lrVgxgbGUsxi_20260829_032513.webp",
+        "date": "Aug 29, 2026",
+        "url": "https://www.universetoday.com/articles/interstellar-travel-v-warp-drives-wormholes-and-halo-drives"
+    },
+    {
+        "id": "j6ibxudj0",
+        "title": "IndiGo Ventures backs sovereign AI firm Sarvam in ongoing Series B funding round",
+        "excerpt": "The investment by the corporate venture capital arm of IndiGo builds on an existing relationship between the two entities. Both companies previously collaborated to deploy artificial intelligence technologies aimed at enhancing passenger experience, assisting…",
+        "content": "<p>The investment by the corporate venture capital arm of IndiGo builds on an existing relationship between the two entities. Both companies previously collaborated to deploy artificial intelligence technologies aimed at enhancing passenger experience, assisting…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/photo/42031747.cms",
+        "date": "Aug 29, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/funding/indigo-ventures-backs-sovereign-ai-firm-sarvam-in-ongoing-series-b-funding-round/articleshow/133602926.cms"
+    },
+    {
+        "id": "y36ttbcb4",
+        "title": "Scores and Highlights: Week 2 high school football games",
+        "excerpt": "Final scores and highlights from high school football games across Northeast Tennessee and Southwest Virginia. Final Scores Northeast Tennessee Asheville, NC 32, Dobyns-Bennett 31 Cherokee 62, Campbell County 28 Chuckey-Doak 20, Sullivan East 15 Cumberland Ga…",
+        "content": "<p>Final scores and highlights from high school football games across Northeast Tennessee and Southwest Virginia. Final Scores Northeast Tennessee Asheville, NC 32, Dobyns-Bennett 31 Cherokee 62, Campbell County 28 Chuckey-Doak 20, Sullivan East 15 Cumberland Ga…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/5bdc452c3099e925948b26b4130e75bcae21b68bd00e3b3625456db7becfdb8a/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwjhl_tri_cities_articles_267%2F0154927a273de45cc019cc89d56f168f.png",
+        "date": "Aug 29, 2026",
+        "url": "https://www.wjhl.com/sports/high-school-sports/touchdown-friday-night/scores-and-highlights-week-2-high-school-football-games-2026/"
+    },
+    {
+        "id": "llt2pyxjf",
+        "title": "TestMu Conference 2026: TestMu AI's Flagship Event Marks a New Milestone in the World of Agentic Engineering and Quality",
+        "excerpt": "TestMu Conference 2026: TestMu AI's Flagship Event Marks a New Milestone in the World of Agentic Engineering and Quality",
+        "content": "<p>TestMu Conference 2026: TestMu AI's Flagship Event Marks a New Milestone in the World of Agentic Engineering and Quality</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/oxhfkt/article71403412.ece/alternates/LANDSCAPE_1200/TestMu-AI-Formerly-LambdaTest-Logo.jpg",
+        "date": "Aug 29, 2026",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/testmu-conference-2026-testmu-ais-flagship-event-marks-a-new-milestone-in-the-world-of-agentic-engineering-and-quality/article71403413.ece"
+    },
+    {
+        "id": "nb1bls7cg",
+        "title": "Milwaukee County chase; driver arrested, swallows suspected narcotics",
+        "excerpt": "A person was arrested after authorities say they led Milwaukee police and Milwaukee County sheriff's deputies on a chase on Friday evening.",
+        "content": "<p>A person was arrested after authorities say they led Milwaukee police and Milwaukee County sheriff's deputies on a chase on Friday evening.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2023/05/1200/630/5_16_2023-MILWAUKEE-RECKLESS-VEHICLE-CRASH-WITH-MC_00.00.27.52.jpg?ve=1&tl=1",
+        "date": "Aug 29, 2026",
+        "url": "https://www.fox6now.com/news/milwaukee-county-chase-suspect-arrested-swallows-suspected-narcotics"
+    },
+    {
+        "id": "bo7gprodn",
+        "title": "‘Goods Are Not Coming In’: Tehran Braces for Unrest as Trump Intensifies Economic Offensive",
+        "excerpt": "Iranian President Masoud Pezeshkian acknowledged Friday that the U.S. blockade has slashed Iran’s trade and left critical imports — including gasoline — unable to enter the country, as the Trump administration intensifies an economic offensive aimed at isolat…",
+        "content": "<p>Iranian President Masoud Pezeshkian acknowledged Friday that the U.S. blockade has slashed Iran’s trade and left critical imports — including gasoline — unable to enter the country, as the Trump administration intensifies an economic offensive aimed at isolat…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.breitbart.com/media/2026/08/Masoud-Pezeshkian-President-of-Iran-Sept-2025-ap-640x335.jpg",
+        "date": "Aug 29, 2026",
+        "url": "https://www.breitbart.com/politics/2026/08/28/goods-not-coming-tehran-braces-unrest-trump-intensifies-economic-offensive/"
+    },
+    {
+        "id": "j9x30r122",
+        "title": "Alex Consani, Griff & Jessica Belkin Launch Pandora’s New Zodiac-Inspired Talisman Collection Under the Full Sturgeon Moon",
+        "excerpt": "Alex Consani helped Pandora celebrate the stars with a celestial night in Hollywood! The model joined Griff, Jessica Belkin, Chani […]\nThe post Alex Consani, Griff & Jessica Belkin Launch Pandora’s New Zodiac-Inspired Talisman Collection Under the Full Sturge…",
+        "content": "<p>Alex Consani helped Pandora celebrate the stars with a celestial night in Hollywood! The model joined Griff, Jessica Belkin, Chani […]\nThe post Alex Consani, Griff & Jessica Belkin Launch Pandora’s New Zodiac-Inspired Talisman Collection Under the Full Sturge…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/08/pandora-talisman-feat.jpg",
+        "date": "Aug 29, 2026",
+        "url": "https://www.justjared.com/2026/08/28/alex-consani-griff-jessica-belkin-launch-pandoras-new-zodiac-inspired-talisman-collection-under-the-full-sturgeon-moon/"
+    },
+    {
+        "id": "a7i9idh7s",
+        "title": "Naomi Osaka Debuts a Luxury Accessories Brand at Uncharted’s Fame to Fortune Summit in the Hamptons",
+        "excerpt": "Tennis champion Naomi Osaka has for years made the tennis court a runway, with her Nike outfits often paired with pieces made in collaboration with designers such as Hana Yagi and Robert Wun. Her next staple piece: one she’s designed herself. Such is the bran…",
+        "content": "<p>Tennis champion Naomi Osaka has for years made the tennis court a runway, with her Nike outfits often paired with pieces made in collaboration with designers such as Hana Yagi and Robert Wun. Her next staple piece: one she’s designed herself. Such is the bran…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2285070288.jpg?crop=0px%2C59px%2C5502px%2C3095px&resize=1000%2C563",
+        "date": "Aug 29, 2026",
+        "url": "https://variety.com/2026/biz/news/naomi-osaka-luxury-brand-uncharted-fame-to-fortune-summit-1236846357/"
+    },
+    {
+        "id": "pak6hc37j",
+        "title": "BCCI stance on Sports Bill creates confusion within Board",
+        "excerpt": "State cricket associations find themselves perplexed as the BCCI navigates the National Sports Governance Act. The board asserts that its electoral procedures must reflect its constitution, challenging the government's notice that allows for elections to be p…",
+        "content": "<p>State cricket associations find themselves perplexed as the BCCI navigates the National Sports Governance Act. The board asserts that its electoral procedures must reflect its constitution, challenging the government's notice that allows for elections to be p…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-133602564,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Aug 29, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-stance-on-sports-bill-creates-confusion-within-board/articleshow/133602521.cms"
+    },
+    {
+        "id": "xbam9fhhm",
+        "title": "Ripple prepares XRP Ledger for quantum computing risks ahead of Q-Day",
+        "excerpt": "Ripple's proactive quantum-proofing of XRP Ledger highlights the urgent need for blockchain networks to adapt to emerging quantum threats.\nThe post Ripple prepares XRP Ledger for quantum computing risks ahead of Q-Day appeared first on Crypto Briefing.",
+        "content": "<p>Ripple's proactive quantum-proofing of XRP Ledger highlights the urgent need for blockchain networks to adapt to emerging quantum threats.\nThe post Ripple prepares XRP Ledger for quantum computing risks ahead of Q-Day appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/28223518/library-ripple-prepares-xrp-ledger-for-quantum-computing-risks-a-800x450.png",
+        "date": "Aug 29, 2026",
+        "url": "https://cryptobriefing.com/ripple-xrp-ledger-quantum-computing-readiness/"
+    },
+    {
         "id": "bdcdtuxjw",
         "title": "Peyman Kargar set to be new CEO of TVS Motor from Jan 2027",
         "excerpt": "Peyman Kargar will become CEO of TVS Motor Company in January 2027, succeeding K. N. Radhakrishnan for a seamless transition.",
