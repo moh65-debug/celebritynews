@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "i125blj9q",
+        "title": "AGENTPR™ Named Official Media Intelligence Platform for WPRF Abuja 2026",
+        "excerpt": "African-built AI-powered PR intelligence system to support real-time global, continental and Nigerian media monitoring for the World Public Relations Forum LAGOS, Nigeria, Aug. 30, 2026 /PRNewswire/ -- The Nigerian Institute of Public Relations (NIPR) has app…",
+        "content": "<p>African-built AI-powered PR intelligence system to support real-time global, continental and Nigerian media monitoring for the World Public Relations Forum LAGOS, Nigeria, Aug. 30, 2026 /PRNewswire/ -- The Nigerian Institute of Public Relations (NIPR) has app…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1977965/AgentPR-Official-Media-Intelligence-Platform-for-the-WPRF.jpg?id=OA2919128&p=facebook",
+        "date": "Aug 30, 2026",
+        "url": "https://www.prnewswire.com/news-releases/agentpr-named-official-media-intelligence-platform-for-wprf-abuja-2026-302864355.html"
+    },
+    {
+        "id": "q7zmsvln9",
+        "title": "Storm in a wine glass: As climate change and young consumers reshape the wine world, can India take advantage?",
+        "excerpt": "Global wine regions face climate challenges and declining demand.  India's wine tourism is experiencing significant growth and expansion.  Younger consumers are driving demand for sustainable and diverse wine options.  Technology and new farming methods are f…",
+        "content": "<p>Global wine regions face climate challenges and declining demand.  India's wine tourism is experiencing significant growth and expansion.  Younger consumers are driving demand for sustainable and diverse wine options.  Technology and new farming methods are f…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-133622529,width-1200,height-630,imgsize-50670,overlay-economictimes/articleshow.jpg",
+        "date": "Aug 30, 2026",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/storm-in-a-wine-glass-as-climate-change-and-young-consumers-reshape-the-wine-world-can-india-take-advantage/articleshow/133622448.cms"
+    },
+    {
+        "id": "klv34urhv",
+        "title": "‘AI introduces a new set of problems’ in cybersecurity: Securonix CEO Toby Weiss",
+        "excerpt": "Securonix CEO Toby Weiss believes AI will not simplify the fragmented cybersecurity landscape.  He notes that enterprises are rapidly adopting AI despite security concerns.  The recent Hugging Face incident has intensified discussions about AI regulation and …",
+        "content": "<p>Securonix CEO Toby Weiss believes AI will not simplify the fragmented cybersecurity landscape.  He notes that enterprises are rapidly adopting AI despite security concerns.  The recent Hugging Face incident has intensified discussions about AI regulation and …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-133622423,width-1200,height-630,imgsize-48368,overlay-economictimes/articleshow.jpg",
+        "date": "Aug 30, 2026",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/ai-introduces-a-new-set-of-problems-in-cybersecurity-securonix-ceo-toby-weiss/articleshow/133622403.cms"
+    },
+    {
+        "id": "2sr0bd3ua",
+        "title": "Setback for Anthropic? Sony, Warner Chappell file lawsuit against AI firm, accusing it of intellectual property theft",
+        "excerpt": "Several major music publishers, including Sony Music and Warner Chappell, have sued Anthropic, accusing the AI company of illegally using copyrighted songs to train Claude. They allege Anthropic pirated works on a massive scale and are seeking damages of up t…",
+        "content": "<p>Several major music publishers, including Sony Music and Warner Chappell, have sued Anthropic, accusing the AI company of illegally using copyrighted songs to train Claude. They allege Anthropic pirated works on a massive scale and are seeking damages of up t…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/08/30/1600x900/logo/Sony_Anthropic_Lawsuit_1788058581545_1788058581644_a89e8acd-9354-45c9-ab52-0012e4a16014.jpg",
+        "date": "Aug 30, 2026",
+        "url": "https://www.livemint.com/companies/news/setback-for-anthropic-sony-warner-chappell-file-lawsuit-against-ai-firm-accusing-it-of-intellectual-property-theft-11788058021889.html"
+    },
+    {
+        "id": "0fx5dgaya",
+        "title": "Special Olympics of Texas hosts 4th annual BOCCE",
+        "excerpt": "ODESSA, Texas (KMID/KPEJ) – The Special Olympics of Texas held its 4th annual BOCCE competition this morning at Sherwood Park. The event featured 80 athletes from three teams: Team Odessa, Team Midland and the Basin Twisters. The particpants were qualifying f…",
+        "content": "<p>ODESSA, Texas (KMID/KPEJ) – The Special Olympics of Texas held its 4th annual BOCCE competition this morning at Sherwood Park. The event featured 80 athletes from three teams: Team Odessa, Team Midland and the Basin Twisters. The particpants were qualifying f…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/8e3ce9e34d9196c3615d4584ac2cce33bfd4bd60d85905c7e2fd79689ee286ac/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkmid_midland_articles_115%2F381dc03ba45c2c798ff5edab34bb0174.jpg",
+        "date": "Aug 30, 2026",
+        "url": "https://www.yourbasin.com/sports/local-sports/special-olympics-of-texas-hosts-4th-annual-bocce-in-odessa/"
+    },
+    {
+        "id": "y4gvgpzto",
+        "title": "‘The Whisper Man’ Book vs. Movie: Biggest Changes Netflix Made From Alex North’s Novel",
+        "excerpt": "Spoiler warning: Spoilers for both The Whisper Man book and movie! Netflix’s new thriller movie The Whisper Man adapts Alex […]\nThe post ‘The Whisper Man’ Book vs. Movie: Biggest Changes Netflix Made From Alex North’s Novel appeared first on Just Jared - Cele…",
+        "content": "<p>Spoiler warning: Spoilers for both The Whisper Man book and movie! Netflix’s new thriller movie The Whisper Man adapts Alex […]\nThe post ‘The Whisper Man’ Book vs. Movie: Biggest Changes Netflix Made From Alex North’s Novel appeared first on Just Jared - Cele…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/07/the-whisper-man-04.jpeg",
+        "date": "Aug 30, 2026",
+        "url": "https://www.justjared.com/2026/08/29/the-whisper-man-book-vs-movie-biggest-changes-netflix-made-from-alex-norths-novel/"
+    },
+    {
+        "id": "sduiphg4h",
+        "title": "Highlights! Joe Lauzon Returns After Seven Years, Delivers Bloody TKO | BKFC 92",
+        "excerpt": "Joe Lauzon marked his return to combat sports earlier tonight (Sat., Aug. 29, 2026) at BKFC 92 LIVE on DAZN from inside Fenway Park in Boston, Mass., as the long-time UFC veteran delivered a second-round TKO over Stash Kuykendall. Lauzon, 42, was coming into …",
+        "content": "<p>Joe Lauzon marked his return to combat sports earlier tonight (Sat., Aug. 29, 2026) at BKFC 92 LIVE on DAZN from inside Fenway Park in Boston, Mass., as the long-time UFC veteran delivered a second-round TKO over Stash Kuykendall. Lauzon, 42, was coming into …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/9d27e6f1b6a4e8f4ba07dec98bcf23eb4c46d77fdfa0031161b27cff21f19f02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F8b16305d6505a54fb8d68f6dc68dc65f.jpg",
+        "date": "Aug 30, 2026",
+        "url": "https://www.mmamania.com/latest-news/467867/highlights-ufc-vet-joe-lauzon-delivers-bloody-tko-in-bareknuckle-debut-following-seven-year-layoff-bkfc-92-fenway-results"
+    },
+    {
+        "id": "lad25cn9q",
+        "title": "Cavan Sullivan ties Freddy Adu’s record with incredible golazo",
+        "excerpt": "By Jaime UribarriCavan Sullivan’s remarkable career rise hit a historic milestone on Saturday.The Philadelphia Union’s 16-year-old phenom scored the stunning game-winning goal in a 3-1 victory at ...",
+        "content": "<p>By Jaime UribarriCavan Sullivan’s remarkable career rise hit a historic milestone on Saturday.The Philadelphia Union’s 16-year-old phenom scored the stunning game-winning goal in a 3-1 victory at ...</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/ba235b6e41701a8b2bbf298cc05ccf7c20190e9f435247529aa363465e179afb/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmajor_league_soccer_188%2F629352b8fc8a6fd873084f60021ea53c.png",
+        "date": "Aug 30, 2026",
+        "url": "https://www.mlssoccer.com/news/cavan-sullivan-ties-freddy-adu-s-record-with-incredible-golazo"
+    },
+    {
+        "id": "e0zuexa09",
+        "title": "Harry Styles Shouts Out Ex Taylor Swift at the Same Venue Where She Married Travis Kelce",
+        "excerpt": "Harry Styles unexpectedly gave Taylor Swift a shoutout during the Saturday night (August 29) show of his Madison Square Garden […]\nThe post Harry Styles Shouts Out Ex Taylor Swift at the Same Venue Where She Married Travis Kelce appeared first on Just Jared -…",
+        "content": "<p>Harry Styles unexpectedly gave Taylor Swift a shoutout during the Saturday night (August 29) show of his Madison Square Garden […]\nThe post Harry Styles Shouts Out Ex Taylor Swift at the Same Venue Where She Married Travis Kelce appeared first on Just Jared -…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/08/taylor-swift-harry-styles-shoutout.jpg",
+        "date": "Aug 30, 2026",
+        "url": "https://www.justjared.com/2026/08/29/harry-styles-shouts-out-ex-taylor-swift-at-the-same-venue-where-she-married-travis-kelce/"
+    },
+    {
+        "id": "mhtt8dgf5",
+        "title": "A fifth-grader in Kansas City clicked ball-and-stick atoms together in science class and asked her teacher if she’d made a real molecule — he photographed it, sent it to a chemistry professor, and at ten years old she became co-author of a published paper on a structure nobody had ever described",
+        "excerpt": "A ten-year-old's casual question about her chemistry model kit led to a published paper describing a molecular structure that had eluded professional scientists for decades.\nThe post A fifth-grader in Kansas City clicked ball-and-stick atoms together in scien…",
+        "content": "<p>A ten-year-old's casual question about her chemistry model kit led to a published paper describing a molecular structure that had eluded professional scientists for decades.\nThe post A fifth-grader in Kansas City clicked ball-and-stick atoms together in scien…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/08/ball-and-stick-molecule-model.png",
+        "date": "Aug 30, 2026",
+        "url": "https://spacedaily.com/b-a-fifth-grader-in-kansas-city-clicked-ball-and-stick-atoms-together-in-science-class-and-asked-her-teacher-if-shed-made-a-real-molecule-he-photographed-it-sent-it-to-a-chemistry-professor/"
+    },
+    {
         "id": "i6f1bti6b",
         "title": "Interstellar Travel V: Warp Drives, Wormholes, and Halo Drives",
         "excerpt": "In our fifth installment, we explore the most exotic proposals for interstellar travel, including the Alcubierre Warp Metric, wormhole travel, the Halo Drive, and other truly advanced concepts.",
