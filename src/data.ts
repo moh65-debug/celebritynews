@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "3akiwuiyx",
+        "title": "Why FIIs could continue moving out of largecaps and into mid and smallcaps: Motilal's Rajat Rajgarhia",
+        "excerpt": "If you look at India over a long period, the country has done well. However, the past two or three years have presented several challenges, including tariff-related and war-related issues.",
+        "content": "<p>If you look at India over a long period, the country has done well. However, the past two or three years have presented several challenges, including tariff-related and war-related issues.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-133640752,width-1200,height-630,imgsize-14150,overlay-etmarkets/articleshow.jpg",
+        "date": "Aug 31, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/why-fiis-could-continue-moving-out-of-largecaps-and-into-mid-and-smallcaps-motilals-rajat-rajgarhia/articleshow/133640604.cms"
+    },
+    {
+        "id": "jnywyb015",
+        "title": "John Ternus to lead Apple into the age of AI",
+        "excerpt": "Some analysts had argued software chief Craig Federighi was the more logical pick for a company scrambling to catch up on AI. Ternus, 51, joined Apple's design team in 2001 and worked his way up to senior vice president.",
+        "content": "<p>Some analysts had argued software chief Craig Federighi was the more logical pick for a company scrambling to catch up on AI. Ternus, 51, joined Apple's design team in 2001 and worked his way up to senior vice president.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/08/8950e5563f8d180999d182e8ed984a5aaf68209d.jpg",
+        "date": "Aug 31, 2026",
+        "url": "https://www.digitaljournal.com/article/john-ternus-to-lead-apple-into-the-age-of-ai/"
+    },
+    {
+        "id": "jft85hlo6",
+        "title": "The antisemitism royal commission made two big mistakes — will these compromise their findings? - ABC Religion & Ethics",
+        "excerpt": "Australian society has been riven by a combustible debate about antisemitism, criticism of Israel and the boundaries of free speech. The royal commission could have provided the intellectual and moral leadership we desperately need.",
+        "content": "<p>Australian society has been riven by a combustible debate about antisemitism, criticism of Israel and the boundaries of free speech. The royal commission could have provided the intellectual and moral leadership we desperately need.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/e087b186d4a7e6d04594f9883b91afdc?impolicy=wcms_crop_resize&cropH=2808&cropW=4992&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+        "date": "Aug 31, 2026",
+        "url": "https://www.abc.net.au/religion/josh-bornstein-the-two-mistakes-of-antisemitism-royal-commission/107097812"
+    },
+    {
+        "id": "b6scfdf8i",
+        "title": "Agentic America",
+        "excerpt": "Set artificial intelligence (AI) loose on dense documents and winding email threads, and it cuts through clutter like a hot knife through butter. Applied at scale, AI could modernize old bureaucratic...",
+        "content": "<p>Set artificial intelligence (AI) loose on dense documents and winding email threads, and it cuts through clutter like a hot knife through butter. Applied at scale, AI could modernize old bureaucratic...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://assets.realclear.com/images/72/725512_6_.jpeg",
+        "date": "Aug 31, 2026",
+        "url": "https://www.realclearworld.com/articles/2026/08/29/agentic_america_1203146.html"
+    },
+    {
+        "id": "bhg2v1m9r",
+        "title": "Taiwan manufacturing know-how is key physical AI asset",
+        "excerpt": "As artificial intelligence (AI) technology rapidly evolves, physical AI for industrial applications is drawing growing attention because repeatable and scalable tasks play to AI's strengths. Deloitte Taiwan has just released a full report on physical AI ahead…",
+        "content": "<p>As artificial intelligence (AI) technology rapidly evolves, physical AI for industrial applications is drawing growing attention because repeatable and scalable tasks play to AI's strengths. Deloitte Taiwan has just released a full report on physical AI ahead…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260831pd207_files/1_b.jpg",
+        "date": "Aug 31, 2026",
+        "url": "https://www.digitimes.com/news/a20260831PD207/taiwan-industrial-manufacturing-ai-data-deloitte.html"
+    },
+    {
+        "id": "3kdw9rk04",
+        "title": "Retired cops urge Mamdani to skip 9/11 memorial",
+        "excerpt": "Retired Port Authority officers urge NYC Mayor Zohran Mamdani to skip the 25th anniversary 9/11 ceremony, warning his presence could cause pain.",
+        "content": "<p>Retired Port Authority officers urge NYC Mayor Zohran Mamdani to skip the 25th anniversary 9/11 ceremony, warning his presence could cause pain.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://2.a7.org/files/pictures/000/1207271.jpg",
+        "date": "Aug 31, 2026",
+        "url": "https://www.israelnationalnews.com/news/432469"
+    },
+    {
+        "id": "2refd990a",
+        "title": "Watch: Grand Canyon flash flood sends bunkhouse, boulders rushing downstream; at least 20 missing",
+        "excerpt": "A fierce flash flood surged through Arizona's Grand Canyon on August 29, transforming Bright Angel Canyon and the Colorado River into raging torrents of debris-laden water. Reports confirm that at least twenty people are missing following this alarming occurr…",
+        "content": "<p>A fierce flash flood surged through Arizona's Grand Canyon on August 29, transforming Bright Angel Canyon and the Colorado River into raging torrents of debris-laden water. Reports confirm that at least twenty people are missing following this alarming occurr…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.toiimg.com/thumb/msid-133640321,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Aug 31, 2026",
+        "url": "https://timesofindia.indiatimes.com/world/us/watch-grand-canyon-flash-flood-sends-bunkhouse-boulders-rushing-downstream-at-least-20-missing/articleshow/133639935.cms"
+    },
+    {
+        "id": "z5ozaeimw",
+        "title": "CHINT Showcased Advanced Power Solutions at CIGRE 2026",
+        "excerpt": "PARIS, Aug. 31, 2026 /PRNewswire/ -- As Europe's power grids evolve to accommodate renewable energy, electrification and rapidly growing electricity demand, CHINT, a trusted provider of integrated power and energy solutions, showcased its latest power solutio…",
+        "content": "<p>PARIS, Aug. 31, 2026 /PRNewswire/ -- As Europe's power grids evolve to accommodate renewable energy, electrification and rapidly growing electricity demand, CHINT, a trusted provider of integrated power and energy solutions, showcased its latest power solutio…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1978090/20260830215510EDT_image_1.jpg?id=OA2919514&p=facebook",
+        "date": "Aug 31, 2026",
+        "url": "https://www.prnewswire.com/news-releases/chint-showcased-advanced-power-solutions-at-cigre-2026-302864562.html"
+    },
+    {
+        "id": "994xhjkum",
+        "title": "Cavan Sullivan goes primetime, Messi scores a poker & more from Matchday 23",
+        "excerpt": "By Charles BoehmWas the rule of four in effect across MLS this weekend?We were treated to four-goal thrillers in Seattle, New Jersey and San Diego. The runaway league leaders pinned four unanswered on...",
+        "content": "<p>By Charles BoehmWas the rule of four in effect across MLS this weekend?We were treated to four-goal thrillers in Seattle, New Jersey and San Diego. The runaway league leaders pinned four unanswered on...</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/0981ee30fa92ec3cd50ced0155ac4135e3b54f5c2b5531b589ce634352391827/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmajor_league_soccer_188%2Faf2a6ed842e682d3e6fb99ff61483575.png",
+        "date": "Aug 31, 2026",
+        "url": "https://www.mlssoccer.com/news/cavan-sullivan-goes-primetime-messi-scores-a-poker-more-from-matchday-23"
+    },
+    {
+        "id": "2cvum17k2",
+        "title": "Sparks news: LA signs ex-Valkyries second-round pick with historic background",
+        "excerpt": "The Los Angeles Sparks are making moves as the 2026 WNBA season winds down to the final stretch of games. The upcoming FIBA Women’s World Cup will put a pause on the league’s action, but that won’t stop teams from making signings. Los Angeles made the move to…",
+        "content": "<p>The Los Angeles Sparks are making moves as the 2026 WNBA season winds down to the final stretch of games. The upcoming FIBA Women’s World Cup will put a pause on the league’s action, but that won’t stop teams from making signings. Los Angeles made the move to…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/f90003cc7a315a680f79a1186abb9df77e908c2ace920dbdbbc2c42218841070/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2Ff039ce44fab90ddc3439b5355afeea31.jpg",
+        "date": "Aug 31, 2026",
+        "url": "https://clutchpoints.com/wnba/los-angeles-sparks/sparks-news-la-signs-ex-valkyries-second-round-pick-historic-background"
+    },
+    {
         "id": "i125blj9q",
         "title": "AGENTPR™ Named Official Media Intelligence Platform for WPRF Abuja 2026",
         "excerpt": "African-built AI-powered PR intelligence system to support real-time global, continental and Nigerian media monitoring for the World Public Relations Forum LAGOS, Nigeria, Aug. 30, 2026 /PRNewswire/ -- The Nigerian Institute of Public Relations (NIPR) has app…",
