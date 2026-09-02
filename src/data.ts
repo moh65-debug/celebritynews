@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "6utpickai",
+        "title": "Breaking News Live Updates: PM Modi to participate in the 26th SCO Summit today as India steps up its role in the Global South",
+        "excerpt": "Breaking News Live Updates: Prime Minister Narendra Modi will participate in the 26th SCO Summit in Bishkek on Tuesday, marking 25 years of the Shanghai Cooperation Organisation. India, a full SCO member since 2017, is expected to use the gathering to advance…",
+        "content": "<p>Breaking News Live Updates: Prime Minister Narendra Modi will participate in the 26th SCO Summit in Bishkek on Tuesday, marking 25 years of the Shanghai Cooperation Organisation. India, a full SCO member since 2017, is expected to use the gathering to advance…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://economictimes.indiatimes.com/thumb/msid-133666446,width-1200,height-900,resizemode-4,imglength-65170/news/newsblogs/pm-modi-sco-summit-2026-global-south-india-xi-jinping-vladimir-putin-russia-ukraine-war-trump-iran-us-west-asia.jpg",
+        "date": "Sep 1, 2026",
+        "url": "https://m.economictimes.com/news/newsblogs/pm-modi-sco-summit-2026-global-south-india-xi-jinping-vladimir-putin-russia-ukraine-war-trump-iran-us-west-asia/liveblog/133666446.cms"
+    },
+    {
+        "id": "7alnkm1tw",
+        "title": "Breakout stocks by Geojit: Jubilant Ingrevia, ASK Automotive, KPR Mill",
+        "excerpt": "Stocks to buy today: Anand James of Geojit Investments has shared a bullish outlook on three stocks: Jubilant Ingrevia, ASK Automotive, and KPR Mill.",
+        "content": "<p>Stocks to buy today: Anand James of Geojit Investments has shared a bullish outlook on three stocks: Jubilant Ingrevia, ASK Automotive, and KPR Mill.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/28/thumb/fitandfill/1200X628/1782663969-3199.jpg",
+        "date": "Sep 1, 2026",
+        "url": "https://www.business-standard.com/markets/news/breakout-stocks-by-geojit-jubilant-ingrevia-ask-automotive-kpr-mill-126090100093_1.html"
+    },
+    {
+        "id": "y0t2ixbf0",
+        "title": "High blood sugar may help cancer cells hide from the immune system",
+        "excerpt": "Researchers discovered a possible way cancer cells hide from the immune system: they build a thick, sugar-rich coating around themselves. High blood sugar can strengthen this protective shield under conditions that resemble the environment inside tumors, with…",
+        "content": "<p>Researchers discovered a possible way cancer cells hide from the immune system: they build a thick, sugar-rich coating around themselves. High blood sugar can strengthen this protective shield under conditions that resemble the environment inside tumors, with…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/malignant-cancer-cells.webp",
+        "date": "Sep 1, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260829235950.htm"
+    },
+    {
+        "id": "rjssqrpl3",
+        "title": "Brian Austin Green Makes Candid Confession About His Sex Drive as He Gets Older",
+        "excerpt": "Brian Austin Green is sharing the reality of getting older. On Saturday (August 29) episode of the iHeartRadio’s I Do, […]\nThe post Brian Austin Green Makes Candid Confession About His Sex Drive as He Gets Older appeared first on Just Jared - Celebrity News, …",
+        "content": "<p>Brian Austin Green is sharing the reality of getting older. On Saturday (August 29) episode of the iHeartRadio’s I Do, […]\nThe post Brian Austin Green Makes Candid Confession About His Sex Drive as He Gets Older appeared first on Just Jared - Celebrity News, …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/08/brian-austin-green-talks-sex-drive.jpg",
+        "date": "Sep 1, 2026",
+        "url": "https://www.justjared.com/2026/08/31/brian-austin-green-makes-candid-confession-about-his-sex-drive-as-he-gets-older/"
+    },
+    {
+        "id": "rrwu6yntl",
+        "title": "American Horror Story: 13 Eps. 4-6 Overviews; New AHS 13 Key Art",
+        "excerpt": "Earlier this month, we had a look at the official overviews for the first three chapters of Ryan Murphy and Brad Falchuk's American Horror Story: 13. With the all-star season set to kick off its run with a three-episode premiere on September 24th, the logline…",
+        "content": "<p>Earlier this month, we had a look at the official overviews for the first three chapters of Ryan Murphy and Brad Falchuk's American Horror Story: 13. With the all-star season set to kick off its run with a three-episode premiere on September 24th, the logline…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/08/MixCollage-31-Aug-2026-09-17-PM-796-2000x1125.jpg",
+        "date": "Sep 1, 2026",
+        "url": "https://bleedingcool.com/tv/american-horror-story-13-eps-4-6-overviews-new-ahs-13-key-art/"
+    },
+    {
+        "id": "byqavjtfl",
+        "title": "Coinbase's India return: How a bespoke rupee on-ramp changes the game for foreign exchanges",
+        "excerpt": "Operating under a fresh local entity fully registered with India's Financial Intelligence Unit (FIU-IND) and compliant with local tax frameworks, Coinbase has achieved a major competitive breakthrough: a custom-built, bespoke Indian Rupee (INR) on-ramp and of…",
+        "content": "<p>Operating under a fresh local entity fully registered with India's Financial Intelligence Unit (FIU-IND) and compliant with local tax frameworks, Coinbase has achieved a major competitive breakthrough: a custom-built, bespoke Indian Rupee (INR) on-ramp and of…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-133666185,width-1200,height-630,imgsize-12080,overlay-etmarkets/articleshow.jpg",
+        "date": "Sep 1, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/coinbases-india-return-how-a-bespoke-rupee-on-ramp-changes-the-game-for-foreign-exchanges/articleshow/133666124.cms"
+    },
+    {
+        "id": "41pppcuny",
+        "title": "In 2025, astronomers reported evidence for a planet orbiting two brown dwarfs at nearly 90 degrees—the first candidate world circling over the poles of a binary. But the planet was inferred indirectly, and a later analysis found that a timing error may have produced the signal, leaving the extraordinary world unconfirmed.",
+        "excerpt": "The proposed polar planet around 2M1510 was inferred from backward orbital precession. A half-day timestamp mismatch may have manufactured the signal.\nThe post In 2025, astronomers reported evidence for a planet orbiting two brown dwarfs at nearly 90 degrees—…",
+        "content": "<p>The proposed polar planet around 2M1510 was inferred from backward orbital precession. A half-day timestamp mismatch may have manufactured the signal.\nThe post In 2025, astronomers reported evidence for a planet orbiting two brown dwarfs at nearly 90 degrees—…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/08/eso-spacedaily-2m1510-polar-candidate-1024x576.jpg",
+        "date": "Sep 1, 2026",
+        "url": "https://spacedaily.com/t-2m1510-polar-circumbinary-planet-timing-error-unconfirmed/"
+    },
+    {
+        "id": "afz7s3zsm",
+        "title": "Huawei's revenue climbs 9.6%, but AI, chips and HarmonyOS exact heavier R&D toll",
+        "excerpt": "Huawei Technologies increased first-half revenue in 2026 while profit fell sharply, highlighting the growing cost of its effort to build a self-sufficient technology stack spanning AI chips, smartphones, operating systems and computing infrastructure.",
+        "content": "<p>Huawei Technologies increased first-half revenue in 2026 while profit fell sharply, highlighting the growing cost of its effort to build a self-sufficient technology stack spanning AI chips, smartphones, operating systems and computing infrastructure.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260901vl208_files/2_b.jpg",
+        "date": "Sep 1, 2026",
+        "url": "https://www.digitimes.com/news/a20260901VL208/huawei-harmonyos-ascend-chips-profit-revenue.html"
+    },
+    {
+        "id": "czjofnbaz",
+        "title": "Burger King’s ‘Dragon Ball Super’ Meal: What’s Included, Release Date & All 6 Collectible Figures",
+        "excerpt": "Burger King is powering up its menu with a new Dragon Ball Super collaboration! Beginning September 1, fans can order […]\nThe post Burger King’s ‘Dragon Ball Super’ Meal: What’s Included, Release Date & All 6 Collectible Figures appeared first on Just Jared -…",
+        "content": "<p>Burger King is powering up its menu with a new Dragon Ball Super collaboration! Beginning September 1, fans can order […]\nThe post Burger King’s ‘Dragon Ball Super’ Meal: What’s Included, Release Date & All 6 Collectible Figures appeared first on Just Jared -…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/08/burger-king-dragon-ball.jpg",
+        "date": "Sep 1, 2026",
+        "url": "https://www.justjared.com/2026/08/31/burger-kings-dragon-ball-super-meal-whats-included-release-date-all-6-collectible-figures/"
+    },
+    {
+        "id": "xqam5x3qr",
+        "title": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda",
+        "excerpt": "Demand for computing ​infrastructure has surged following the introduction of ⁠generative AI ‌services, prompting technology companies to invest hundreds of ​billions ​of dollars in data centers equipped with advanced ⁠chips from Nvidia and other manufacturer…",
+        "content": "<p>Demand for computing ​infrastructure has surged following the introduction of ⁠generative AI ‌services, prompting technology companies to invest hundreds of ​billions ​of dollars in data centers equipped with advanced ⁠chips from Nvidia and other manufacturer…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42227,resizemode-75,msid-133666163/tech/artificial-intelligence/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda.jpg",
+        "date": "Sep 1, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda/articleshow/133666163.cms"
+    },
+    {
         "id": "3akiwuiyx",
         "title": "Why FIIs could continue moving out of largecaps and into mid and smallcaps: Motilal's Rajat Rajgarhia",
         "excerpt": "If you look at India over a long period, the country has done well. However, the past two or three years have presented several challenges, including tariff-related and war-related issues.",
