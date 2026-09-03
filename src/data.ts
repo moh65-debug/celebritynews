@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "00ltye5m9",
+        "title": "Audit firms rewire to meet bot book-keepers, data deluge",
+        "excerpt": "India's top audit firms are hiring data scientists, AI specialists and fraud experts to strengthen audit teams. With 600+ companies facing mandatory auditor rotation, firms must prove they can trace bot activity, superuser access and tech risks to win client …",
+        "content": "<p>India's top audit firms are hiring data scientists, AI specialists and fraud experts to strengthen audit teams. With 600+ companies facing mandatory auditor rotation, firms must prove they can trace bot activity, superuser access and tech risks to win client …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/09/01/1600x900/logo/Auditors-are-required-to-report-all-frauds-of--1-c_1687799841368_1788282116021_fc6cbda7-3698-40a1-bec1-5bd2f33ec00e.jpg",
+        "date": "Sep 2, 2026",
+        "url": "https://www.livemint.com/companies/audit-firms-ca-hiring-ai-data-tech-scientists-forensic-rotation-client-mandate-auditors-cyber-experts-11788251668643.html"
+    },
+    {
+        "id": "06zeq65zg",
+        "title": "The next startup revolution is already happening in rural India",
+        "excerpt": "Bharat’s next generation of founders will not be raised in glass office towers. They will be raised in district headquarters and village markets.",
+        "content": "<p>Bharat’s next generation of founders will not be raised in glass office towers. They will be raised in district headquarters and village markets.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/09/01/1600x900/logo/2-0-242684573-DSC-7577-0_1681102555244_1788281299742_55d3035d-8494-4859-9be3-dd633a266cb1.jpg",
+        "date": "Sep 2, 2026",
+        "url": "https://www.livemint.com/opinion/columns/the-next-startup-revolution-is-already-happening-in-rural-india-11788195436099.html"
+    },
+    {
+        "id": "ugyrfozwk",
+        "title": "High school volleyball and soccer highlights and scores for Sept. 1",
+        "excerpt": "(WJHL) — It was a busy night on the high school volleyball and soccer pitch Tuesday night in both states. On the volleyball court, Tennessee High was hosting Daniel Boone, and the Lady Vikings took down Daniel Boone 25-21, 25-13, 21-25, 25-15 in a Big East Co…",
+        "content": "<p>(WJHL) — It was a busy night on the high school volleyball and soccer pitch Tuesday night in both states. On the volleyball court, Tennessee High was hosting Daniel Boone, and the Lady Vikings took down Daniel Boone 25-21, 25-13, 21-25, 25-15 in a Big East Co…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/b6e6476729157a51e8197ec7367427e7676bf9fc3d90d5df8a069e2952169a30/lightyear_networkapi/resizefill_w900_h502%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwjhl_tri_cities_articles_267%2Fa5a448c87fb12076e454d9e6f4afd8a2.jpg",
+        "date": "Sep 2, 2026",
+        "url": "https://www.wjhl.com/sports/high-school-sports/high-school-volleyball-and-soccer-highlights-and-scores-for-sept-1/"
+    },
+    {
+        "id": "z1utbdonm",
+        "title": "NYC public schools to ban AI for teaching students below 9th grade",
+        "excerpt": "The Mamdani administration is placing strict limits on the use of artificial intelligence in classrooms.\n \n\nThe restrictions were released just over a week before the school year and come amid a national backlash against the use of artificial intelligence. [ …",
+        "content": "<p>The Mamdani administration is placing strict limits on the use of artificial intelligence in classrooms.\n \n\nThe restrictions were released just over a week before the school year and come amid a national backlash against the use of artificial intelligence. [ …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://api-prod.gothamist.com/images/358961/fill-1200x650|format-webp|webpquality-85/",
+        "date": "Sep 2, 2026",
+        "url": "https://gothamist.com/news/nyc-public-schools-to-ban-ai-for-teaching-students-below-9th-grade"
+    },
+    {
+        "id": "2145ifk90",
+        "title": "Interest rates have gone up again. Why it won’t affect the prices that matter most",
+        "excerpt": "The Reserve Bank has increased the official cash rate to 2.75%. But much of the inflation affecting New Zealand wallets is imported and beyond the bank’s control.",
+        "content": "<p>The Reserve Bank has increased the official cash rate to 2.75%. But much of the inflation affecting New Zealand wallets is imported and beyond the bank’s control.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://images.theconversation.com/files/757368/original/file-20260901-59-7i1azc.jpg?ixlib=rb-4.1.1&rect=0%2C450%2C5400%2C2700&q=45&auto=format&w=1356&h=668&fit=crop",
+        "date": "Sep 2, 2026",
+        "url": "https://theconversation.com/interest-rates-have-gone-up-again-why-it-wont-affect-the-prices-that-matter-most-290616"
+    },
+    {
+        "id": "llms6a4gs",
+        "title": "John Ternus takes over as Apple enters era of AI, foldable phones",
+        "excerpt": "John Ternus took over as Apple's chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence. He becomes executive chairman of Apple's board, with a mandate the company has said incl…",
+        "content": "<p>John Ternus took over as Apple's chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence. He becomes executive chairman of Apple's board, with a mandate the company has said incl…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-73802,resizemode-75,msid-133695518/tech/artificial-intelligence/john-ternus-takes-over-as-apple-enters-era-of-ai-foldable-phones.jpg",
+        "date": "Sep 2, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/john-ternus-takes-over-as-apple-enters-era-of-ai-foldable-phones/articleshow/133695518.cms"
+    },
+    {
+        "id": "5tb0hwnh7",
+        "title": "Nia Sanchez & Danny Booko Exit ‘The Valley’ After 3 Seasons on Bravo, Share Joint Statement",
+        "excerpt": "Nia Sanchez Booko and Danny Booko are leaving The Valley. The 36-year-old former Miss USA winner and the 42-year-old actor […]\nThe post Nia Sanchez & Danny Booko Exit ‘The Valley’ After 3 Seasons on Bravo, Share Joint Statement appeared first on Just Jared - …",
+        "content": "<p>Nia Sanchez Booko and Danny Booko are leaving The Valley. The 36-year-old former Miss USA winner and the 42-year-old actor […]\nThe post Nia Sanchez & Danny Booko Exit ‘The Valley’ After 3 Seasons on Bravo, Share Joint Statement appeared first on Just Jared - …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/nia-danny-valley.jpg",
+        "date": "Sep 2, 2026",
+        "url": "https://www.justjared.com/2026/09/01/nia-sanchez-danny-booko-exit-the-valley-after-3-seasons-on-bravo-share-joint-statement/"
+    },
+    {
+        "id": "0zoz496bw",
+        "title": "An Oral Pill for Relapsing MS Beat a Standard Drug in Two Trials with No Figures Released",
+        "excerpt": "Novartis says remibrutinib beat teriflunomide in two Phase 3 MS trials. The company released no numbers and the data are unpublished.",
+        "content": "<p>Novartis says remibrutinib beat teriflunomide in two Phase 3 MS trials. The company released no numbers and the data are unpublished.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://d.medicaldaily.com/en/full/485324/joe-klamar-afp-via-getty-image.jpg",
+        "date": "Sep 2, 2026",
+        "url": "https://www.medicaldaily.com/remibrutinib-phase-3-relapsing-multiple-sclerosis-topline-results-478059"
+    },
+    {
+        "id": "jn0olktid",
+        "title": "Jean Smart Lands First Post-‘Hacks’ Role, Joins Ariana Greenblatt in Rom-Com ‘Egg Baby’",
+        "excerpt": "Jean Smart has landed her first major post-Hacks role! The 74-year-old Emmy-winning actor will star in the upcoming Amazon MGM […]\nThe post Jean Smart Lands First Post-‘Hacks’ Role, Joins Ariana Greenblatt in Rom-Com ‘Egg Baby’ appeared first on Just Jared - …",
+        "content": "<p>Jean Smart has landed her first major post-Hacks role! The 74-year-old Emmy-winning actor will star in the upcoming Amazon MGM […]\nThe post Jean Smart Lands First Post-‘Hacks’ Role, Joins Ariana Greenblatt in Rom-Com ‘Egg Baby’ appeared first on Just Jared - …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/jean-smart-egg-baby.jpg",
+        "date": "Sep 2, 2026",
+        "url": "https://www.justjared.com/2026/09/01/jean-smart-lands-first-post-hacks-role-joins-ariana-greenblatt-in-rom-com-egg-baby/"
+    },
+    {
+        "id": "56iccvtk9",
+        "title": "Local high school volleyball highlights and scores (9-1-26)",
+        "excerpt": "Here’s a look at our local high school volleyball highlights and scores from September 1st, 2026: Iowa Sioux City East 3, Sioux City West 0 Remsen St. Mary’s 3, Gehlen Catholic 1 Lewis Central 3, Le Mars 0 Bishop Heelan 3, CB Jefferson 0 Carroll 3, Denison-Sc…",
+        "content": "<p>Here’s a look at our local high school volleyball highlights and scores from September 1st, 2026: Iowa Sioux City East 3, Sioux City West 0 Remsen St. Mary’s 3, Gehlen Catholic 1 Lewis Central 3, Le Mars 0 Bishop Heelan 3, CB Jefferson 0 Carroll 3, Denison-Sc…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/631a2b04ffebc200d56129cfca37eecbc8c54340ea85eaff7c19436b0e6fdc5f/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkcau_sioux_city_articles_201%2F6def649a6777580628da1e6f6ead5f08.jpg",
+        "date": "Sep 2, 2026",
+        "url": "https://www.kcau9.com/sports/local-high-school-volleyball-highlights-and-scores-9-1-26/"
+    },
+    {
         "id": "6utpickai",
         "title": "Breaking News Live Updates: PM Modi to participate in the 26th SCO Summit today as India steps up its role in the Global South",
         "excerpt": "Breaking News Live Updates: Prime Minister Narendra Modi will participate in the 26th SCO Summit in Bishkek on Tuesday, marking 25 years of the Shanghai Cooperation Organisation. India, a full SCO member since 2017, is expected to use the gathering to advance…",
