@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "mrz2ir3vy",
+        "title": "‘Step Up’ Alum Jenna Dewan Responds to ‘Dancing With the Stars’ Casting Backlash: ‘It’s a New Technique’",
+        "excerpt": "“I had to unlearn a lot of … habits of the style that I’m used to,” the actress, who once performed as Janet Jackson’s backup dancer, adds\nThe post ‘Step Up’ Alum Jenna Dewan Responds to ‘Dancing With the Stars’ Casting Backlash: ‘It’s a New Technique’ appear…",
+        "content": "<p>“I had to unlearn a lot of … habits of the style that I’m used to,” the actress, who once performed as Janet Jackson’s backup dancer, adds\nThe post ‘Step Up’ Alum Jenna Dewan Responds to ‘Dancing With the Stars’ Casting Backlash: ‘It’s a New Technique’ appear…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.thewrap.com/wp-content/uploads/2026/09/Untitled-design-2026-09-02T192155.101.jpg",
+        "date": "Sep 3, 2026",
+        "url": "https://www.thewrap.com/creative-content/tv-shows/jenna-dewan-responds-dancing-with-the-stars-casting-backlash/"
+    },
+    {
+        "id": "y41nxszg4",
+        "title": "Hugh Jackman & Jodie Comer Hit the Red Carpet at ‘Death of Robin Hood’ Photocall in London",
+        "excerpt": "Hugh Jackman and Jodie Comer are hitting the red carpet! The Emmy-winning stars stepped out for the photocall for their […]\nThe post Hugh Jackman & Jodie Comer Hit the Red Carpet at ‘Death of Robin Hood’ Photocall in London appeared first on Just Jared - Cele…",
+        "content": "<p>Hugh Jackman and Jodie Comer are hitting the red carpet! The Emmy-winning stars stepped out for the photocall for their […]\nThe post Hugh Jackman & Jodie Comer Hit the Red Carpet at ‘Death of Robin Hood’ Photocall in London appeared first on Just Jared - Cele…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/death-of-robin-hood-london-photocall.jpg",
+        "date": "Sep 3, 2026",
+        "url": "https://www.justjared.com/2026/09/02/hugh-jackman-jodie-comer-hit-the-red-carpet-at-death-of-robin-hood-photocall-in-london/"
+    },
+    {
+        "id": "63dmkd7xi",
+        "title": "Enigma",
+        "excerpt": "Native C++ reverse-engineering engine with disassembly, decompilation, and analysis pipeline for PE/ELF binaries, featuring interactive GUI and Ghidra-compatible decompiler.",
+        "content": "<p>Native C++ reverse-engineering engine with disassembly, decompilation, and analysis pipeline for PE/ELF binaries, featuring interactive GUI and Ghidra-compatible decompiler.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://assets.kitploit.com/production/public/tools/53599/f2604a230f7554d18e716e102913dddced6c04db0f26106fd7e4f8c846f148f7-social-v1.webp",
+        "date": "Sep 3, 2026",
+        "url": "https://kitploit.com/en/tools/github/bunnybuzz/enigma/"
+    },
+    {
+        "id": "nkh8cdxec",
+        "title": "Meta says it has caught up with Anthropic and OpenAI with Muse Spark 1.3, its most powerful AI model so far",
+        "excerpt": "Meta Platforms Inc. says it has more or less caught up with the biggest artificial intelligence labs with the release of its most powerful large language model so far, Muse Spark 1.3. The company said in a blog post today that the new model can be accessed by…",
+        "content": "<p>Meta Platforms Inc. says it has more or less caught up with the biggest artificial intelligence labs with the release of its most powerful large language model so far, Muse Spark 1.3. The company said in a blog post today that the new model can be accessed by…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-03-09-36-07.png",
+        "date": "Sep 3, 2026",
+        "url": "https://siliconangle.com/2026/09/02/meta-says-it-has-caught-up-with-anthropic-and-openai-after-releasing-muse-spark-1-3-its-most-powerful-llm-so-far/"
+    },
+    {
+        "id": "8g3yv4pi2",
+        "title": "New York City bans AI for students through 8th grade",
+        "excerpt": "New York City public schools will ban generative AI for younger students next year. This one-year moratorium aims to assess student interaction with the technology. High school students will receive AI literacy classes and supervised pilot programs. Companion…",
+        "content": "<p>New York City public schools will ban generative AI for younger students next year. This one-year moratorium aims to assess student interaction with the technology. High school students will receive AI literacy classes and supervised pilot programs. Companion…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-133723541,width-1200,height-630,imgsize-143218,overlay-economictimes/articleshow.jpg",
+        "date": "Sep 3, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/new-york-city-bans-ai-for-students-through-8th-grade-zohran-mamdani/articleshow/133723542.cms"
+    },
+    {
+        "id": "ivh78gv0n",
+        "title": "Global stocks climb as investors watch US-Iran conflict, yen surges",
+        "excerpt": "Global stock indexes mostly rose after three days of declines, while the yen jumped sharply and US Treasury yields eased as investors tracked the latest developments in the US-Iran conflict",
+        "content": "<p>Global stock indexes mostly rose after three days of declines, while the yen jumped sharply and US Treasury yields eased as investors tracked the latest developments in the US-Iran conflict</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-01/22/thumb/fitandfill/1200X628/1705945334-0884.jpg",
+        "date": "Sep 3, 2026",
+        "url": "https://www.business-standard.com/markets/news/global-stocks-climb-as-investors-watch-us-iran-conflict-yen-surges-126090300045_1.html"
+    },
+    {
+        "id": "clahytf1a",
+        "title": "Las Vegas Raiders’ WR Ranking Is Bad News for Fernando Mendoza, Kirk Cousins",
+        "excerpt": "The Las Vegas Raiders received a troubling assessment of their wide receiver room entering the 2026 season, creating another concern for quarterbacks Fernando Mendoza and Kirk Cousins. A low ranking for the position group highlights the uncertainty surroundin…",
+        "content": "<p>The Las Vegas Raiders received a troubling assessment of their wide receiver room entering the 2026 season, creating another concern for quarterbacks Fernando Mendoza and Kirk Cousins. A low ranking for the position group highlights the uncertainty surroundin…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/c35ed05f1e7bf0ffb4dc20e747ec7014c78fbe19b415cd356f036193f1cfc349/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F66983731cfaccf115f8dc4814ae33a1f.jpg",
+        "date": "Sep 3, 2026",
+        "url": "https://sports.yahoo.com/articles/las-vegas-raiders-wr-ranking-023435712.html"
+    },
+    {
+        "id": "o08rzbl3e",
+        "title": "Sandra Bullock Reveals Her Kids Have Surprise Cameos in ‘Practical Magic 2’",
+        "excerpt": "Sandra Bullock is making a big revelation about Practical Magic 2! While attending the U.S. premiere earlier this week, the […]\nThe post Sandra Bullock Reveals Her Kids Have Surprise Cameos in ‘Practical Magic 2’ appeared first on Just Jared - Celebrity News,…",
+        "content": "<p>Sandra Bullock is making a big revelation about Practical Magic 2! While attending the U.S. premiere earlier this week, the […]\nThe post Sandra Bullock Reveals Her Kids Have Surprise Cameos in ‘Practical Magic 2’ appeared first on Just Jared - Celebrity News,…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/sandra-bullock-kids-appear-in-practical-magic-2.jpg",
+        "date": "Sep 3, 2026",
+        "url": "https://www.justjared.com/2026/09/02/sandra-bullock-reveals-her-kids-have-surprise-cameos-in-practical-magic-2/"
+    },
+    {
+        "id": "v5ln424ma",
+        "title": "Local college volleyball highlights and scores (9-2-26)",
+        "excerpt": "Here’s a look at our local college volleyball highlights and scores from September 2nd, 2026: Northwestern 3, Briar Cliff 0 Morningside 3, Waldorf 0 Western Iowa Tech 3, NIACC 0",
+        "content": "<p>Here’s a look at our local college volleyball highlights and scores from September 2nd, 2026: Northwestern 3, Briar Cliff 0 Morningside 3, Waldorf 0 Western Iowa Tech 3, NIACC 0</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/419c2feb08813053e6cda5cb97de09dec9440eb129b6edb5fc82df6e1b50dd97/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkcau_sioux_city_articles_201%2Fe02bf2e657efeeba3b03dc448c78a251.jpg",
+        "date": "Sep 3, 2026",
+        "url": "https://www.kcau9.com/sports/local-college-volleyball-highlights-and-scores-9-2-26/"
+    },
+    {
+        "id": "28x3z67fz",
+        "title": "Bengaluru targets $400 billion economy by 2037; eyes 2-2.5 million new jobs",
+        "excerpt": "Economic Master Plan presented to Karnataka CM DK Shivakumar; BMR now contributes nearly 40 percent of Karnataka’s GSDP despite accounting for about a quarter of the state’s population.",
+        "content": "<p>Economic Master Plan presented to Karnataka CM DK Shivakumar; BMR now contributes nearly 40 percent of Karnataka’s GSDP despite accounting for about a quarter of the state’s population.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/09/20260902181545_IMG-20260902-WA0176.jpg",
+        "date": "Sep 3, 2026",
+        "url": "https://www.moneycontrol.com/news/business/bengaluru-metropolitan-region-targets-400-billion-economy-by-2037-plan-eyes-2-2-5-million-new-jobs-14021282.html"
+    },
+    {
         "id": "00ltye5m9",
         "title": "Audit firms rewire to meet bot book-keepers, data deluge",
         "excerpt": "India's top audit firms are hiring data scientists, AI specialists and fraud experts to strengthen audit teams. With 600+ companies facing mandatory auditor rotation, firms must prove they can trace bot activity, superuser access and tech risks to win client …",
