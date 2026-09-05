@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "9nqfazaxj",
+        "title": "Highlights: Geneseo vs. Rock Island volleyball",
+        "excerpt": "Geneseo and Rock Island battled to a 3-set thriller in girls’ volleyball on Thursday. In the end, Geneseo stormed back from a set down and won the match, 2-1...",
+        "content": "<p>Geneseo and Rock Island battled to a 3-set thriller in girls’ volleyball on Thursday. In the end, Geneseo stormed back from a set down and won the match, 2-1...</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/e99d777a38e9c63428c8c59befb6d5a7f0f126f84a56dd7737be8758ed0a4384/lightyear_networkapi/resizefill_w592_h333%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwhbf_davenport_articles_271%2F95935a8ca86b97c85ce82eb310f2cdcb.png",
+        "date": "Sep 4, 2026",
+        "url": "https://www.ourquadcities.com/sports/local-sports/highlights-geneseo-vs-rock-island-volleyball/"
+    },
+    {
+        "id": "yo3k48fdh",
+        "title": "Tesla’s Make-or-Break Cybercab Had a Quiet Debut",
+        "excerpt": "An invite-only event in Austin, Texas, kept online fans in the dark for hours.",
+        "content": "<p>An invite-only event in Austin, Texas, kept online fans in the dark for hours.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://media.wired.com/photos/6a985f4fb0ecbdbb43db44df/191:100/w_1280,c_limit/Tesla-CyberCab-Event-Gear-2270749481.jpg",
+        "date": "Sep 4, 2026",
+        "url": "https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/"
+    },
+    {
+        "id": "jjpuhm22j",
+        "title": "Australian Shares Slip As ASX 200 Snaps Two-Day Rally Amid RBA Rate Fears And Ex-Dividend Drag Today",
+        "excerpt": "Australian shares closed lower as ex-dividend trades and geopolitical tensions overshadowed Wall Street gains and a gold rally. Investors remain cautious amid interest rate concerns and housing market weakness.",
+        "content": "<p>Australian shares closed lower as ex-dividend trades and geopolitical tensions overshadowed Wall Street gains and a gold rally. Investors remain cautious amid interest rate concerns and housing market weakness.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.ibtimes.com.au/en/full/1893564/asx-200-top-gainers-telix-pharma-jumps-323-fda.png",
+        "date": "Sep 4, 2026",
+        "url": "https://www.ibtimes.com.au/australian-shares-dip-ex-dividend-global-tensions-1874983"
+    },
+    {
+        "id": "449wm38me",
+        "title": "Moonshot AI reportedly files for Hong Kong IPO, targets US$3B",
+        "excerpt": "Chinese AI startup Moonshot AI has reportedly filed confidentially for an initial public offering in Hong Kong, potentially setting up one of the city's most closely watched technology listings and one of the largest Chinese AI IPOs in recent years.",
+        "content": "<p>Chinese AI startup Moonshot AI has reportedly filed confidentially for an initial public offering in Hong Kong, potentially setting up one of the city's most closely watched technology listings and one of the largest Chinese AI IPOs in recent years.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260904vl204_files/2_2b.jpg",
+        "date": "Sep 4, 2026",
+        "url": "https://www.digitimes.com/news/a20260904VL204/moonshot-startup-ipo-demand-technology.html"
+    },
+    {
+        "id": "nuiws3s4y",
+        "title": "Local high school football highlights and scores (9-3-26)",
+        "excerpt": "Here’s a look at our local high school football highlights and scores from September 3rd, 2026: Iowa Sioux City West 30, South Sioux City 0 All-Nations Winnebago 44, Lakota Tech 30",
+        "content": "<p>Here’s a look at our local high school football highlights and scores from September 3rd, 2026: Iowa Sioux City West 30, South Sioux City 0 All-Nations Winnebago 44, Lakota Tech 30</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/02b70e425f12e6ea8960037aa3ed33d258d8edde2997d0ac30416ca8ebe7223b/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkcau_sioux_city_articles_201%2F6ef0ec54f4b4488f39eec5a3c72192ee.jpg",
+        "date": "Sep 4, 2026",
+        "url": "https://www.kcau9.com/sports/local-high-school-football-highlights-and-scores-9-3-26/"
+    },
+    {
+        "id": "tg3o26fug",
+        "title": "Community is king in the land of influencer marketing - Realnews Magazine",
+        "excerpt": "By Ugochukwu Ugwuanyi A social media personality has 2 million passive followers, while the other has 50K followers who actively listen to her views, comment on her content and trust her thoughts. It’s a no-brainer which of the two is better suited to serve a…",
+        "content": "<p>By Ugochukwu Ugwuanyi A social media personality has 2 million passive followers, while the other has 50K followers who actively listen to her views, comment on her content and trust her thoughts. It’s a no-brainer which of the two is better suited to serve a…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://realnewsmagazine.net/wp-content/uploads/2026/09/Ugochukwu1.png",
+        "date": "Sep 4, 2026",
+        "url": "https://realnewsmagazine.net/community-is-king-in-the-land-of-influencer-marketing/"
+    },
+    {
+        "id": "umnki9xrq",
+        "title": "WFRV’s Locker Room, Green Bay’s longest-running sports show, returns this fall",
+        "excerpt": "GREEN BAY, Wis. (WFRV) — Local 5’s “Locker Room” show is set to stream for another exciting season this upcoming football season. Airing live on Tuesdays at 6:30 p.m. (sans two episodes that will be prerecorded on November 2 and 23), Locker Room is Green Bay’…",
+        "content": "<p>GREEN BAY, Wis. (WFRV) — Local 5’s “Locker Room” show is set to stream for another exciting season this upcoming football season. Airing live on Tuesdays at 6:30 p.m. (sans two episodes that will be prerecorded on November 2 and 23), Locker Room is Green Bay’…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/9c490e0a3fb4e7a02ec86bba5722dbf1b930caa976cd1ffa8125596d6a516589/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwfrv_articles_965%2F775e082b82d6a83c9c203602469f72c8.jpg",
+        "date": "Sep 4, 2026",
+        "url": "https://www.wearegreenbay.com/news/local-news/wfrv-locker-room-season-return/"
+    },
+    {
+        "id": "qvhdqnut0",
+        "title": "Unwinding the great tech power grab",
+        "excerpt": "Movements to reclaim power over technology are springing up, from Neo-Luddism to Permacomputing to Rewilding the Internet. Alongside these approaches, we must discuss how tech has atrophied the exact civic muscle we’ll need to reclaim power over it.",
+        "content": "<p>Movements to reclaim power over technology are springing up, from Neo-Luddism to Permacomputing to Rewilding the Internet. Alongside these approaches, we must discuss how tech has atrophied the exact civic muscle we’ll need to reclaim power over it.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://storage.ghost.io/c/d3/a8/d3a82ea4-bf77-4423-8a0c-105d0aee02fe/content/images/size/w1200/2026/08/Becchi-Ayumi-3-1.jpg",
+        "date": "Sep 4, 2026",
+        "url": "https://rebeccawilliams.info/unwinding-the-great-tech-power-grab/"
+    },
+    {
+        "id": "gbm2qubbn",
+        "title": "Vance says US-Iran fighting isn't 'war', avoids giving timeline, end date",
+        "excerpt": "Vice President JD Vance on Thursday rejected the use of the word \"war\" to describe the US fighting with Iran as he steered clear of predicting that the six-month-old conflict would be over by November's midterm elections, in which Republicans are trying to ha…",
+        "content": "<p>Vice President JD Vance on Thursday rejected the use of the word \"war\" to describe the US fighting with Iran as he steered clear of predicting that the six-month-old conflict would be over by November's midterm elections, in which Republicans are trying to ha…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/15/thumb/fitandfill/1200X628/1776228128-3213.jpg",
+        "date": "Sep 4, 2026",
+        "url": "https://www.business-standard.com/world-news/vance-says-us-iran-fighting-isn-t-war-avoids-giving-timeline-end-date-126090400070_1.html"
+    },
+    {
+        "id": "rfb3s6xpp",
+        "title": "In 1925, 24-year-old Radcliffe graduate student Cecilia Payne calculated that stars consist overwhelmingly of hydrogen and helium. Princeton astronomer Henry Norris Russell called the result “clearly impossible,” prompting her to declare in her thesis that her own extraordinary finding was “almost certainly not real.” Four years later, Russell confirmed that she had been right.",
+        "excerpt": "Cecilia Payne's 1925 thesis found that hydrogen and helium dominate stellar atmospheres, then retreated from the result after Henry Norris Russell called it impossible.\nThe post In 1925, 24-year-old Radcliffe graduate student Cecilia Payne calculated that sta…",
+        "content": "<p>Cecilia Payne's 1925 thesis found that hydrogen and helium dominate stellar atmospheres, then retreated from the result after Henry Norris Russell called it impossible.\nThe post In 1925, 24-year-old Radcliffe graduate student Cecilia Payne calculated that sta…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/09/cecilia-payne-stellar-composition-representative-pexels-8495471.jpg",
+        "date": "Sep 4, 2026",
+        "url": "https://spacedaily.com/t-cecilia-payne-stars-hydrogen-helium-russell-1925/"
+    },
+    {
         "id": "mrz2ir3vy",
         "title": "‘Step Up’ Alum Jenna Dewan Responds to ‘Dancing With the Stars’ Casting Backlash: ‘It’s a New Technique’",
         "excerpt": "“I had to unlearn a lot of … habits of the style that I’m used to,” the actress, who once performed as Janet Jackson’s backup dancer, adds\nThe post ‘Step Up’ Alum Jenna Dewan Responds to ‘Dancing With the Stars’ Casting Backlash: ‘It’s a New Technique’ appear…",
