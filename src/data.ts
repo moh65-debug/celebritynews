@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "1088v4ju0",
+        "title": "Mars’s interior was long modelled as broadly symmetrical — but a Nature study published on 27 August found evidence that the mantle beneath its southern highlands remains 200 to 400°C hotter than the north and may be partially molten, an enormous thermal divide whose origin remains unexplained.",
+        "excerpt": "Sixteen years of orbiter tracking suggest a 200 to 400°C thermal excess beneath Mars’s southern highlands. The gravitational signal is strong, but heat, composition, partial melt and origin remain entangled in the interpretation.\nThe post Mars’s interior was …",
+        "content": "<p>Sixteen years of orbiter tracking suggest a 200 to 400°C thermal excess beneath Mars’s southern highlands. The gravitational signal is strong, but heat, composition, partial melt and origin remain entangled in the interpretation.\nThe post Mars’s interior was …</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/09/pexels-spacedaily-mars-thermal-divide-20376408.jpg",
+        "date": "Sep 5, 2026",
+        "url": "https://spacedaily.com/t-mars-southern-mantle-thermal-divide-partially-molten/"
+    },
+    {
+        "id": "m4hrh2wuz",
+        "title": "Ambani’s tech titan IPO story isn’t yet credible",
+        "excerpt": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology a…",
+        "content": "<p>Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology a…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-133785128,width-1200,height-630,imgsize-1344973,overlay-etmarkets/articleshow.jpg",
+        "date": "Sep 5, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms"
+    },
+    {
+        "id": "jtqsx21bw",
+        "title": "Friday Football Fever: Week 1 scores and highlights",
+        "excerpt": "The Kansas high school football season is officially underway, and KSN has you covered with scores and highlights from the Wichita area and around the state.",
+        "content": "<p>The Kansas high school football season is officially underway, and KSN has you covered with scores and highlights from the Wichita area and around the state.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/13a8c5f61ddb3d66a69cf5e6f138b9fe1d0288eb47ec11d034a4239f25d7e5b0/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fksnw_wichita_articles_865%2F760f4640a12f660f9f44eabf0bb1f475.png",
+        "date": "Sep 5, 2026",
+        "url": "https://www.ksn.com/sports/fff/friday-football-fever-week-1-scores-and-highlights-2/"
+    },
+    {
+        "id": "8w5stp7h4",
+        "title": "Why you won't be getting a flying car - Asia Times",
+        "excerpt": "Stripe Press was kind enough to send me several books it had published, and one of these was J. Storrs Hall’s \"Where Is My Flying Car?\". I had been",
+        "content": "<p>Stripe Press was kind enough to send me several books it had published, and one of these was J. Storrs Hall’s \"Where Is My Flying Car?\". I had been</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://asiatimes.com/wp-content/uploads/2026/09/Flying-Cars.jpg",
+        "date": "Sep 5, 2026",
+        "url": "https://asiatimes.com/2026/09/why-you-wont-be-getting-a-flying-car/"
+    },
+    {
+        "id": "s2bk3t7ce",
+        "title": "Dolly Parton’s Sister Stella Addresses AI Misinformation & ‘Insensitivity’ as Their Family Grieves",
+        "excerpt": "Dolly Parton‘s sister Stella is speaking out to address the rampant AI misinformation and “insensitivity” she’s seen online as their […]\nThe post Dolly Parton’s Sister Stella Addresses AI Misinformation & ‘Insensitivity’ as Their Family Grieves appeared first…",
+        "content": "<p>Dolly Parton‘s sister Stella is speaking out to address the rampant AI misinformation and “insensitivity” she’s seen online as their […]\nThe post Dolly Parton’s Sister Stella Addresses AI Misinformation & ‘Insensitivity’ as Their Family Grieves appeared first…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/stella-parton-dolly-parton.jpg",
+        "date": "Sep 5, 2026",
+        "url": "https://www.justjared.com/2026/09/04/dolly-partons-sister-stella-addresses-ai-misinformation-insensitivity-as-their-family-grieves/"
+    },
+    {
+        "id": "7wfnbec16",
+        "title": "#9OT scores, highlights for Week 2, 2026",
+        "excerpt": "EL PASO, Texas (KTSM) — It’s Week 2 of that most glorious time of the year. No, not Christmas or the winter holidays. It’s high-school football season. Our 9 Overtime Crew of Sam Guzman, Jesus Baltazar and Jason Flores, plus our talented photographers, are sc…",
+        "content": "<p>EL PASO, Texas (KTSM) — It’s Week 2 of that most glorious time of the year. No, not Christmas or the winter holidays. It’s high-school football season. Our 9 Overtime Crew of Sam Guzman, Jesus Baltazar and Jason Flores, plus our talented photographers, are sc…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/062802b4d626ee3cc886b2b42fd6f4fd3007056d53e4139fa4730651993f913b/lightyear_networkapi/resizefill_w899_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fktsm_articles_153%2Fc76e1f3a9cb722d3090b6defcfbd7dd1.jpg",
+        "date": "Sep 5, 2026",
+        "url": "https://www.ktsm.com/news/9ot-scores-highlights-for-week-2-2026/"
+    },
+    {
+        "id": "kmyc2yhdv",
+        "title": "Analog Your Life: A Philadelphian’s Guide",
+        "excerpt": "In the age of Claude and Waymo and remote work, the task of disengaging feels Sisyphean. So much of life feels constantly, distractingly accessible, but […]",
+        "content": "<p>In the age of Claude and Waymo and remote work, the task of disengaging feels Sisyphean. So much of life feels constantly, distractingly accessible, but […]</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn10.phillymag.com/wp-content/uploads/sites/3/2026/09/1200-PM2609_F_Analog_01.jpg",
+        "date": "Sep 5, 2026",
+        "url": "https://www.phillymag.com/news/analog-guide-philadelphia/"
+    },
+    {
+        "id": "z6wlxo2ar",
+        "title": "An AI Voice Agent Can Deliver Talk Therapy to Medicare Patients Before the FDA Evaluates Its Effectiveness",
+        "excerpt": "The FDA's TEMPO pilot now lists four devices, including an AI voice agent delivering therapy to Medicare patients without premarket authorization.",
+        "content": "<p>The FDA's TEMPO pilot now lists four devices, including an AI voice agent delivering therapy to Medicare patients without premarket authorization.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.medicaldaily.com/en/full/485540/editorial-illustration-via-ai.jpg",
+        "date": "Sep 5, 2026",
+        "url": "https://www.medicaldaily.com/fda-tempo-pilot-ai-voice-therapy-behavioral-health-medicare-478268"
+    },
+    {
+        "id": "yibjgicso",
+        "title": "'Decide something on Monday, revoke it on Wednesday...': Belgian PM takes veiled dig at Trump's tariff, trade policies",
+        "excerpt": "Belgian Prime Minister Bart De Wever criticized arbitrary tariffs and shifting trade policies. He stressed the need for open markets and stronger economic partnerships between nations. De Wever praised Prime Minister Narendra Modi as one of the world's most i…",
+        "content": "<p>Belgian Prime Minister Bart De Wever criticized arbitrary tariffs and shifting trade policies. He stressed the need for open markets and stronger economic partnerships between nations. De Wever praised Prime Minister Narendra Modi as one of the world's most i…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-133783958,width-1200,height-630,imgsize-81866,overlay-economictimes/articleshow.jpg",
+        "date": "Sep 5, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/decide-something-on-monday-revoke-it-on-wednesday-belgian-pm-takes-veiled-dig-at-trumps-tariff-trade-policies/articleshow/133783960.cms"
+    },
+    {
+        "id": "r3asl2wx7",
+        "title": "Belgian PM takes swipe at Trump's 'arbitrary' tariffs during India visit",
+        "excerpt": "Belgian Prime Minister Bart De Wever criticised protectionism and shifting tariff policies, in an apparent reference to US President Donald Trump, during his India visit",
+        "content": "<p>Belgian Prime Minister Bart De Wever criticised protectionism and shifting tariff policies, in an apparent reference to US President Donald Trump, during his India visit</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/04/thumb/fitandfill/1200X628/1788501820-636.jpg",
+        "date": "Sep 5, 2026",
+        "url": "https://www.business-standard.com/world-news/belgian-pm-takes-swipe-at-trump-s-arbitrary-tariffs-during-india-visit-126090500057_1.html"
+    },
+    {
         "id": "9nqfazaxj",
         "title": "Highlights: Geneseo vs. Rock Island volleyball",
         "excerpt": "Geneseo and Rock Island battled to a 3-set thriller in girls’ volleyball on Thursday. In the end, Geneseo stormed back from a set down and won the match, 2-1...",
