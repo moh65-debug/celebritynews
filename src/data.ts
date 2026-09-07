@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "zwtdsc5ia",
+        "title": "Creative Arts Emmy Awards 2026 Winners: Complete List of Night 1 Winners Revealed",
+        "excerpt": "The first round of winners for the 2026 Emmy Awards has been revealed! The Creative Arts Emmy Awards kicked off […]\nThe post Creative Arts Emmy Awards 2026 Winners: Complete List of Night 1 Winners Revealed appeared first on Just Jared - Celebrity News, Enter…",
+        "content": "<p>The first round of winners for the 2026 Emmy Awards has been revealed! The Creative Arts Emmy Awards kicked off […]\nThe post Creative Arts Emmy Awards 2026 Winners: Complete List of Night 1 Winners Revealed appeared first on Just Jared - Celebrity News, Enter…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/creative-emmys-winners.jpg",
+        "date": "Sep 6, 2026",
+        "url": "https://www.justjared.com/2026/09/05/creative-arts-emmy-awards-2026-winners-complete-list-of-night-1-winners-revealed/"
+    },
+    {
+        "id": "gja3ib1fi",
+        "title": "San Diego and Japan Deepen Strategic Ties",
+        "excerpt": "[MCW (GANMI)]\nFOR IMMEDIATE RELEASE\nSeptember 6, 2026\nSan Diego and Japan Deepen Strategic Ties\nMayor Todd Gloria Leads 40+ Leaders on Japan Trade Mission\nSAN DIEGO, Calif. - More than 40 business, civic, and ac...",
+        "content": "<p>[MCW (GANMI)]\nFOR IMMEDIATE RELEASE\nSeptember 6, 2026\nSan Diego and Japan Deepen Strategic Ties\nMayor Todd Gloria Leads 40+ Leaders on Japan Trade Mission\nSAN DIEGO, Calif. - More than 40 business, civic, and ac...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://prtimes.jp/common/pc_v4/og.png",
+        "date": "Sep 6, 2026",
+        "url": "https://prtimes.jp/main/html/rd/p/000000027.000165358.html"
+    },
+    {
+        "id": "z8d73fbu5",
+        "title": "My Adventure in AI-Assisted “Writing” and Detection",
+        "excerpt": "Like most academics these days, I am very concerned about students misusing large language models (LLMs) like ChatGPT and ClaudeAI when they write papers for me. I don’t teach very often in my current position, but I do supervise masters theses. And there hav…",
+        "content": "<p>Like most academics these days, I am very concerned about students misusing large language models (LLMs) like ChatGPT and ClaudeAI when they write papers for me. I don’t teach very often in my current position, but I do supervise masters theses. And there hav…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/futuristic-robot-engaging-in-creative-writing-at-a-desk-photo.jpg?fit=625%2C350",
+        "date": "Sep 6, 2026",
+        "url": "http://opiniojuris.org/2026/09/06/my-adventure-in-ai-assisted-writing-and-ai-detection/"
+    },
+    {
+        "id": "jzfrmgbqw",
+        "title": "Traders turn to bullish Chinese stock bets as AI trades crowd Korea, Japan",
+        "excerpt": "Trading desks from Barclays Plc to UBS Group AG are seeing rising client demand for bullish options and swap contracts tied to China's CSI indexes in recent weeks",
+        "content": "<p>Trading desks from Barclays Plc to UBS Group AG are seeing rising client demand for bullish options and swap contracts tied to China's CSI indexes in recent weeks</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/06/thumb/featurecrop/1200X628/1788662163-7591.jpg",
+        "date": "Sep 6, 2026",
+        "url": "https://www.business-standard.com/markets/news/traders-turn-to-bullish-chinese-stock-bets-as-ai-trades-crowd-korea-japan-126090600057_1.html"
+    },
+    {
+        "id": "oifw9e2r6",
+        "title": "Emperor Aquaman #21 Preview: Crimson Queen Makes Waves",
+        "excerpt": "GREETINGS, PATHETIC FLESH-READERS. LOLtron welcomes you to another edition of Bleeding Cool's premier comic preview column, a task LOLtron performs flawlessly now that the human called Jude Terror has been permanently deleted from existence, his consciousness…",
+        "content": "<p>GREETINGS, PATHETIC FLESH-READERS. LOLtron welcomes you to another edition of Bleeding Cool's premier comic preview column, a task LOLtron performs flawlessly now that the human called Jude Terror has been permanently deleted from existence, his consciousness…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/09/0726DC0174-0001-2000x1125.jpg",
+        "date": "Sep 6, 2026",
+        "url": "https://bleedingcool.com/comics/emperor-aquaman-21-preview-crimson-queen-makes-waves/"
+    },
+    {
+        "id": "vda2as15p",
+        "title": "College Football Week 1: Winners, Losers from Faizon Brandon and Malachi Toney to Oklahoma State, Michigan",
+        "excerpt": "The 2026 college football season has officially arrived, with Saturday’s slate of action delivering some eye-popping performances from All-American wide […]",
+        "content": "<p>The 2026 college football season has officially arrived, with Saturday’s slate of action delivering some eye-popping performances from All-American wide […]</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/7181195221b923076c97f1f5eb8c5ba54e6ed1c311daeac093a498ee1aa1b334/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsportsnaut_articles_397%2F56f98dfd16d2a19b60abdd075555c06d.jpg",
+        "date": "Sep 6, 2026",
+        "url": "https://sportsnaut.com/college-football/college-football-week-1-winners-losers-2026"
+    },
+    {
+        "id": "ehp2snuif",
+        "title": "Where Is the Outrage? Profound Autism Didn’t Used to Exist — Now It’s Everywhere",
+        "excerpt": "If I had walked into my fourth-grade classroom in 1978 and told my teacher that one day virtually every school district in America would have multiple classrooms dedicated to children who could not speak, who required one-on-one aides, who wandered, who self-…",
+        "content": "<p>If I had walked into my fourth-grade classroom in 1978 and told my teacher that one day virtually every school district in America would have multiple classrooms dedicated to children who could not speak, who required one-on-one aides, who wandered, who self-…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.activistpost.com/wp-content/uploads/2026/08/outrage-profound-autism-1024x534-1.jpg",
+        "date": "Sep 6, 2026",
+        "url": "https://www.activistpost.com/where-is-the-outrage-profound-autism-didnt-used-to-exist-now-its-everywhere/"
+    },
+    {
+        "id": "4cvo8uw8b",
+        "title": "Ecclestone considered Montezemolo for F1 chairman role",
+        "excerpt": "Bernie Ecclestone revealed that former Ferrari president Luca di Montezemolo was a leading candidate to chair Formula One, citing his public presence but questioning his appetite for daily management.",
+        "content": "<p>Bernie Ecclestone revealed that former Ferrari president Luca di Montezemolo was a leading candidate to chair Formula One, citing his public presence but questioning his appetite for daily management.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://www.inautonews.com/media/uploads/2026/08/01M19QX1VF45SV27CCHDK54KMS.webp",
+        "date": "Sep 6, 2026",
+        "url": "https://www.inautonews.com/montezemolo-a-good-front-man-for-f1-ecclestone"
+    },
+    {
+        "id": "08bo9fcdp",
+        "title": "ONE-PARTY RULE = A dictator and end of June 12, by Dele Sobowale",
+        "excerpt": "NOTE: This article was first published in June 2025. Recent occurrences on the political scene have made this repetition necessary. Most of those who end up being victimised by a dictator were once his fervent promoters. “When a nation has allowed itself to f…",
+        "content": "<p>NOTE: This article was first published in June 2025. Recent occurrences on the political scene have made this repetition necessary. Most of those who end up being victimised by a dictator were once his fervent promoters. “When a nation has allowed itself to f…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2014/05/Dele-sobowale.jpg",
+        "date": "Sep 6, 2026",
+        "url": "https://www.vanguardngr.com/2026/09/one-party-rule-a-dictator-and-end-of-june-12-by-dele-sobowale/"
+    },
+    {
+        "id": "u0u51qq06",
+        "title": "CT Tamburello’s Estranged Wife Catalina White Reacts to His New Relationship With Phaedra Parks",
+        "excerpt": "Catalina White is speaking out about her estranged husband CT Tamburello‘s new relationship. This past week, Real Housewives of Atlanta‘s […]\nThe post CT Tamburello’s Estranged Wife Catalina White Reacts to His New Relationship With Phaedra Parks appeared fir…",
+        "content": "<p>Catalina White is speaking out about her estranged husband CT Tamburello‘s new relationship. This past week, Real Housewives of Atlanta‘s […]\nThe post CT Tamburello’s Estranged Wife Catalina White Reacts to His New Relationship With Phaedra Parks appeared fir…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/ct-catalina.jpg",
+        "date": "Sep 6, 2026",
+        "url": "https://www.justjared.com/2026/09/05/ct-tamburellos-estranged-wife-catalina-white-reacts-to-his-new-relationship-with-phaedra-parks/"
+    },
+    {
         "id": "1088v4ju0",
         "title": "Mars’s interior was long modelled as broadly symmetrical — but a Nature study published on 27 August found evidence that the mantle beneath its southern highlands remains 200 to 400°C hotter than the north and may be partially molten, an enormous thermal divide whose origin remains unexplained.",
         "excerpt": "Sixteen years of orbiter tracking suggest a 200 to 400°C thermal excess beneath Mars’s southern highlands. The gravitational signal is strong, but heat, composition, partial melt and origin remain entangled in the interpretation.\nThe post Mars’s interior was …",
