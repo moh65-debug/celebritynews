@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "73zc7cgk1",
+        "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
+        "excerpt": "Home to companies like TSMC whose chips power AI applications, diplomatically isolated Taiwan has long sought to leverage its tech prowess to garner international support, something Beijing routinely seeks to block saying the island is merely one of its provi…",
+        "content": "<p>Home to companies like TSMC whose chips power AI applications, diplomatically isolated Taiwan has long sought to leverage its tech prowess to garner international support, something Beijing routinely seeks to block saying the island is merely one of its provi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-87430,resizemode-75,msid-133860775/tech/artificial-intelligence/taiwan-flexes-chip-diplomacy-muscles-as-it-faces-pressure-to-share-ai-wealth-with-allies.jpg",
+        "date": "Sep 7, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-flexes-chip-diplomacy-muscles-as-it-faces-pressure-to-share-ai-wealth-with-allies/articleshow/133860775.cms"
+    },
+    {
+        "id": "1azkv14dc",
+        "title": "DJI Launches the Osmo 360 II: Flagship 360-Degree Camera With a New 1-Inch HDR Sensor and User-Replaceable Lens",
+        "excerpt": "DJI has officially introduced the Osmo 360 II at IFA 2026, marking a significant advancement in panoramic imaging technology. According to DJI, the Osmo 360 II was developed based on the company’s extensive product background: distortion control in aerial pho…",
+        "content": "<p>DJI has officially introduced the Osmo 360 II at IFA 2026, marking a significant advancement in panoramic imaging technology. According to DJI, the Osmo 360 II was developed based on the company’s extensive product background: distortion control in aerial pho…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.fstoppers.com/styles/medium/s3/lead/2026/09/osmo-360-ii_kv.jpg?itok=MkMKKFEi",
+        "date": "Sep 7, 2026",
+        "url": "https://fstoppers.com/news/dji-launches-osmo-360-ii-flagship-360-degree-camera-new-1-inch-hdr-sensor-and-904446"
+    },
+    {
+        "id": "tglboixgk",
+        "title": "Taiwan showcases chip diplomacy amid pressure to share AI wealth",
+        "excerpt": "Taiwan's strategic chip diplomacy strengthens global alliances, reinforcing its pivotal role in AI development and countering China's tech ambitions.\nThe post Taiwan showcases chip diplomacy amid pressure to share AI wealth appeared first on Crypto Briefing.",
+        "content": "<p>Taiwan's strategic chip diplomacy strengthens global alliances, reinforcing its pivotal role in AI development and countering China's tech ambitions.\nThe post Taiwan showcases chip diplomacy amid pressure to share AI wealth appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/06225456/library-taiwan-showcases-chip-diplomacy-amid-pressure-to-share-a-800x450.png",
+        "date": "Sep 7, 2026",
+        "url": "https://cryptobriefing.com/taiwan-chip-diplomacy-ai-wealth/"
+    },
+    {
+        "id": "7b3wdkr0t",
+        "title": "Barbara Eden, 95, says she’s ‘okay’ after last-minute cancelation of festival appearance",
+        "excerpt": "Barbara Eden reassured fans after a \"sudden illness\" forced her to miss the Cinecon Classic Film Festival, revealing a new medication's side effects.",
+        "content": "<p>Barbara Eden reassured fans after a \"sudden illness\" forced her to miss the Cinecon Classic Film Festival, revealing a new medication's side effects.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/barbara-eden-project-angel-food-ktla_001.jpg",
+        "date": "Sep 7, 2026",
+        "url": "https://www.foxnews.com/entertainment/barbara-eden-95-says-shes-okay-after-last-minute-cancelation-festival-appearance"
+    },
+    {
+        "id": "izpeo67nx",
+        "title": "Creative Arts Emmy Awards 2026 Winners Revealed: Full List of Night 2 Winners",
+        "excerpt": "Night two of the 2026 Creative Arts Emmy Awards is coming to an end, and the complete list of winners […]\nThe post Creative Arts Emmy Awards 2026 Winners Revealed: Full List of Night 2 Winners appeared first on Just Jared - Celebrity News, Entertainment News …",
+        "content": "<p>Night two of the 2026 Creative Arts Emmy Awards is coming to an end, and the complete list of winners […]\nThe post Creative Arts Emmy Awards 2026 Winners Revealed: Full List of Night 2 Winners appeared first on Just Jared - Celebrity News, Entertainment News …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/emmy-winners-night-two.jpg",
+        "date": "Sep 7, 2026",
+        "url": "https://www.justjared.com/2026/09/06/creative-arts-emmy-awards-2026-winners-revealed-full-list-of-night-2-winners/"
+    },
+    {
+        "id": "tz8gtpgb9",
+        "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
+        "excerpt": "By Ben Blanchard and Wen-Yee Lee TAIPEI, Sept 7 (Reuters) - Taiwan flexed its chip diplomacy muscles at a major trade show last week, portraying itself as a...",
+        "content": "<p>By Ben Blanchard and Wen-Yee Lee TAIPEI, Sept 7 (Reuters) - Taiwan flexed its chip diplomacy muscles at a major trade show last week, portraying itself as a...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/1fcae18778a055ebe2dc3ee113c12d3945e3bb0b7709dbba6e07cd0ee0635ef6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc4e0e292e8ad475c655896b4dee3eaee.jpg",
+        "date": "Sep 7, 2026",
+        "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-flexes-chip-diplomacy-muscles-022559044.html"
+    },
+    {
+        "id": "rra6ebx1i",
+        "title": "For this woman in her 50s, endurance cycling is quietly radical – and about much more than sport",
+        "excerpt": "Saskia Beudel’s Peaking is a thoughtful account of what it means to inhabit a changing body while continuing to test its limits.",
+        "content": "<p>Saskia Beudel’s Peaking is a thoughtful account of what it means to inhabit a changing body while continuing to test its limits.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://images.theconversation.com/files/758122/original/file-20260907-60-68rspn.jpg?ixlib=rb-4.1.1&rect=5%2C299%2C3007%2C1503&q=45&auto=format&w=1356&h=668&fit=crop",
+        "date": "Sep 7, 2026",
+        "url": "https://theconversation.com/for-this-woman-in-her-50s-endurance-cycling-is-quietly-radical-and-about-much-more-than-sport-285930"
+    },
+    {
+        "id": "dotto3wmi",
+        "title": "Michael Rapaport slams 'clown' Macklemore for anti-Israel performance",
+        "excerpt": "Michael Rapaport called Macklemore a \"clown\" after the rapper chanted \"Free Palestine\" and performed \"Hind's Hall\" at Ed Sheeran's MetLife shows.",
+        "content": "<p>Michael Rapaport called Macklemore a \"clown\" after the rapper chanted \"Free Palestine\" and performed \"Hind's Hall\" at Ed Sheeran's MetLife shows.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/macklemore-michael-rapaport.jpg",
+        "date": "Sep 7, 2026",
+        "url": "https://www.foxnews.com/entertainment/michael-rapaport-slams-clown-macklemore-anti-israel-performance"
+    },
+    {
+        "id": "7uloeihr3",
+        "title": "TECNO Wins Two IFA Global Product Technology Innovation Awards for Modular Phone and Tonino Lamborghini TECNO TAURUS",
+        "excerpt": "BERLIN, Sept. 6, 2026 /PRNewswire/ -- TECNO, a global AI-driven innovative technology brand, achieved two IFA Global Product Technology Innovation Awards at IFA 2026 for its products: the revolutionary TECNO Modular Phone and the ultra-compact Tonino Lamborgh…",
+        "content": "<p>BERLIN, Sept. 6, 2026 /PRNewswire/ -- TECNO, a global AI-driven innovative technology brand, achieved two IFA Global Product Technology Innovation Awards at IFA 2026 for its products: the revolutionary TECNO Modular Phone and the ultra-compact Tonino Lamborgh…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1982025/20260904084910EDT_image_3.jpg?id=OA2930726&p=facebook",
+        "date": "Sep 7, 2026",
+        "url": "https://www.prnewswire.com/news-releases/tecno-wins-two-ifa-global-product-technology-innovation-awards-for-modular-phone-and-tonino-lamborghini-tecno-taurus-302870928.html"
+    },
+    {
+        "id": "s0fzdv01m",
+        "title": "Lexus LF-LC Hybrid Concept Stuns at Geneva Show",
+        "excerpt": "The Lexus LF-LC hybrid sports coupe concept, first seen in Detroit, made its European debut at the 2012 Geneva Motor Show with bold design and advanced hybrid tech.",
+        "content": "<p>The Lexus LF-LC hybrid sports coupe concept, first seen in Detroit, made its European debut at the 2012 Geneva Motor Show with bold design and advanced hybrid tech.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://www.inautonews.com/media/licensed/2026/08/lexus-lf-lc-concept-unveiled-ahead-of-detroit-motor-show-7853669e.jpg?w=1536",
+        "date": "Sep 7, 2026",
+        "url": "https://www.inautonews.com/geneva-lexus-lf-lc-hybrid-concept-revealed"
+    },
+    {
         "id": "zwtdsc5ia",
         "title": "Creative Arts Emmy Awards 2026 Winners: Complete List of Night 1 Winners Revealed",
         "excerpt": "The first round of winners for the 2026 Emmy Awards has been revealed! The Creative Arts Emmy Awards kicked off […]\nThe post Creative Arts Emmy Awards 2026 Winners: Complete List of Night 1 Winners Revealed appeared first on Just Jared - Celebrity News, Enter…",
