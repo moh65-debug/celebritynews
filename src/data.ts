@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "nw0czyxph",
+        "title": "98 Degrees’ Richest Members, Ranked by Net Worth",
+        "excerpt": "98 Degrees has been going strong for nearly three decades! The beloved boy band, also known as 98°, is made […]\nThe post 98 Degrees’ Richest Members, Ranked by Net Worth appeared first on Just Jared - Celebrity News, Entertainment News & Photos.",
+        "content": "<p>98 Degrees has been going strong for nearly three decades! The beloved boy band, also known as 98°, is made […]\nThe post 98 Degrees’ Richest Members, Ranked by Net Worth appeared first on Just Jared - Celebrity News, Entertainment News & Photos.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/98-degrees-net-worth.jpg",
+        "date": "Sep 8, 2026",
+        "url": "https://www.justjared.com/2026/09/07/98-degrees-richest-members-ranked-by-net-worth/"
+    },
+    {
+        "id": "ac3szjigs",
+        "title": "6 Sci-Fi Movie Flops From The Last 10 Years That Deserved To Be As Big As Project Hail Mary",
+        "excerpt": "These Sci-Fi movies from the past decade were not major box office hits, but they deserved to be as big as Ryan Gosling's Project Hail Mary.",
+        "content": "<p>These Sci-Fi movies from the past decade were not major box office hits, but they deserved to be as big as Ryan Gosling's Project Hail Mary.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/ana-de-armas-as-joi-in-blade-runner-2049-looking-scared.jpg?w=1600&h=900&fit=crop",
+        "date": "Sep 8, 2026",
+        "url": "https://screenrant.com/sci-fi-movie-box-office-bombs-project-hail-mary-success/"
+    },
+    {
+        "id": "md5o0r8fn",
+        "title": "China records $119B trade surplus in August as streak above $100B continues",
+        "excerpt": "China's sustained trade surplus highlights its growing global economic influence, potentially reshaping international trade dynamics.\nThe post China records $119B trade surplus in August as streak above $100B continues appeared first on Crypto Briefing.",
+        "content": "<p>China's sustained trade surplus highlights its growing global economic influence, potentially reshaping international trade dynamics.\nThe post China records $119B trade surplus in August as streak above $100B continues appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07224702/library-china-records-119b-trade-surplus-in-august-as-streak-abo-800x450.png",
+        "date": "Sep 8, 2026",
+        "url": "https://cryptobriefing.com/china-119b-trade-surplus-august/"
+    },
+    {
+        "id": "exylat16z",
+        "title": "Asian stocks waver as yen surges, Iran retaliation threat lifts oil prices",
+        "excerpt": "Japan's ​Nikkei 225 fluctuated between gains and losses before edging up 0.2%, as the yen jumped ‌as much as 0.6% to 153.51, its strongest level since February 18",
+        "content": "<p>Japan's ​Nikkei 225 fluctuated between gains and losses before edging up 0.2%, as the yen jumped ‌as much as 0.6% to 153.51, its strongest level since February 18</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/04/thumb/featurecrop/1200X628/1767499942-1329.jpg",
+        "date": "Sep 8, 2026",
+        "url": "https://www.business-standard.com/markets/news/asian-stocks-waver-as-yen-surges-iran-retaliation-threat-lifts-oil-prices-126090800079_1.html"
+    },
+    {
+        "id": "x2d8m92z5",
+        "title": "2026 Volvo EX90 CKD launched in Malaysia – 800V, 680 PS, 617 km; RM14k less at RM429k, plus RM25k rebate",
+        "excerpt": "Volvo Car Malaysia (VCM) today launched the updated Volvo EX90, well over a year after the fully electric SUV was first introduced here in April 2025. The newer version, which was shown to the world […]\nThe post 2026 Volvo EX90 CKD launched in Malaysia – 800V…",
+        "content": "<p>Volvo Car Malaysia (VCM) today launched the updated Volvo EX90, well over a year after the fully electric SUV was first introduced here in April 2025. The newer version, which was shown to the world […]\nThe post 2026 Volvo EX90 CKD launched in Malaysia – 800V…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://paultan.org/image/2026/09/2026-Volvo-EX90-CKD-Launch-Malaysia-Ext-1-1200x801.jpg",
+        "date": "Sep 8, 2026",
+        "url": "https://paultan.org/2026/09/08/2026-volvo-ex90-launched-in-malaysia/"
+    },
+    {
+        "id": "a0z3020iu",
+        "title": "Adria Arjona Throws Some Shade at ‘Morbius’ Movie: ‘You Live & You Learn’",
+        "excerpt": "Adria Arjona was the female lead of the Marvel movie Morbius and it’s pretty clear that she is not a […]\nThe post Adria Arjona Throws Some Shade at ‘Morbius’ Movie: ‘You Live & You Learn’ appeared first on Just Jared - Celebrity News, Entertainment News & Pho…",
+        "content": "<p>Adria Arjona was the female lead of the Marvel movie Morbius and it’s pretty clear that she is not a […]\nThe post Adria Arjona Throws Some Shade at ‘Morbius’ Movie: ‘You Live & You Learn’ appeared first on Just Jared - Celebrity News, Entertainment News & Pho…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/adria-arjona-morbius-shade.jpg",
+        "date": "Sep 8, 2026",
+        "url": "https://www.justjared.com/2026/09/07/adria-arjona-throws-some-shade-at-morbius-movie-you-live-you-learn/"
+    },
+    {
+        "id": "k6rkk8s5q",
+        "title": "Paramount+ Cancels Star Trek: Starfleet Academy After Short Run",
+        "excerpt": "The sudden cancellation of Star Trek: Starfleet Academy marred the franchise's 60th anniversary, ending a promising look at Starfleet's future.",
+        "content": "<p>Paramount+ announced the cancellation of Star Trek: Starfleet Academy just weeks after its January premiere, pulling the plug on a series that had been marketed as a cornerstone of the franchise's anniversary celebrations.</p><p>The decision surprised many fans and critics who had praised the show's fresh take on Starfleet training and its diverse cast of cadets.</p><p>Showrunner Alex Kurtzman said in a statement that the move was part of a broader strategy to focus resources on other Star Trek projects, citing shifting viewer priorities and production costs.</p><p>Reaction on social media was swift, with hashtags like #SaveStarfleetAcademy trending and several veteran Trek actors expressing disappointment over the lost opportunity to explore new stories.</p><p>Industry analysts warn that the cancellation could signal a more conservative approach to the Star Trek brand, while upcoming series such as Star Trek: Strange New Worlds continue to fill the void left by the academy show.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/genesis-lythe-head-on-fist.jpg?w=1600&h=900&fit=crop",
+        "date": "Sep 8, 2026",
+        "url": "https://screenrant.com/star-trek-starfleet-academy-best-future-ended-on-60th-anniversary/"
+    },
+    {
+        "id": "ik8atw6vn",
+        "title": "India joins US and 24 other nations in global 6G network alliance",
+        "excerpt": "India has joined the US and 24 other countries in an initiative focused on developing secure, competitive and innovative 6G networks",
+        "content": "<p>India has joined the US and 24 other countries in an initiative focused on developing secure, competitive and innovative 6G networks</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/08/thumb/fitandfill/1200X628/1788834629-6815.jpg",
+        "date": "Sep 8, 2026",
+        "url": "https://www.business-standard.com/world-news/india-joins-us-and-24-other-nations-in-global-6g-network-alliance-126090800065_1.html"
+    },
+    {
+        "id": "fifrd002n",
+        "title": "Oil will drop below 'two dollars a gallon' after US wins Iran war: Trump",
+        "excerpt": "In a post on his Truth Social platform, Trump linked high energy costs directly to ongoing military operations in the West Asia, asserting that post-war markets would stabilise rapidly",
+        "content": "<p>In a post on his Truth Social platform, Trump linked high energy costs directly to ongoing military operations in the West Asia, asserting that post-war markets would stabilise rapidly</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/04/thumb/fitandfill/1200X628/1788511899-9623.JPG",
+        "date": "Sep 8, 2026",
+        "url": "https://www.business-standard.com/world-news/oil-will-drop-below-two-dollars-a-gallon-after-us-wins-iran-war-trump-126090800077_1.html"
+    },
+    {
+        "id": "gj3r76yul",
+        "title": "Late-stage funding squeeze; ISRO opens up space",
+        "excerpt": "Happy Tuesday! India’s late-stage funding market is tightening, with investors writing smaller cheques and pushing for lower valuations. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Tuesday! India’s late-stage funding market is tightening, with investors writing smaller cheques and pushing for lower valuations. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-133903297,width-1070,height-580,imgsize-785746,overlay-ettech/editionshow.jpg",
+        "date": "Sep 8, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/late-stage-funding-squeeze-isro-opens-up-space/articleshow/133903297.cms"
+    },
+    {
         "id": "73zc7cgk1",
         "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
         "excerpt": "Home to companies like TSMC whose chips power AI applications, diplomatically isolated Taiwan has long sought to leverage its tech prowess to garner international support, something Beijing routinely seeks to block saying the island is merely one of its provi…",
