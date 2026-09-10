@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "y89d5wx6w",
+        "title": "Scott O’Neil Declares Bankruptcy Pivot for LIV Golf",
+        "excerpt": "LIV Golf CEO Scott O'Neil addresses fans after Chapter 11 filing, framing the move as a strategic step toward a player-owned future.",
+        "content": "<p>LIV Golf CEO Scott O'Neil addresses fans after Chapter 11 filing, framing the move as a strategic step toward a player-owned future.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/2f42bf2dc4af609c6b8cf0322fced8f93b2a8cb57173a932c241764bcbf89913/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgolfer_insight_356%2Fad3c449ed5a1abb73deb7d554ec15d72.jpg",
+        "date": "Sep 9, 2026",
+        "url": "https://golferinsight.com/scott-oneil-declares-bankruptcy-pivot-for-liv-golf/"
+    },
+    {
+        "id": "y9tap4qv1",
+        "title": "Sandra Bullock Reveals Which Famous Friend Makes Her ‘Potent’ Margaritas",
+        "excerpt": "Sandra Bullock is opening up about her go-to margarita recipe. The 62-year-old actress stars in the upcoming Practical Magic 2, […]\nThe post Sandra Bullock Reveals Which Famous Friend Makes Her ‘Potent’ Margaritas appeared first on Just Jared - Celebrity News…",
+        "content": "<p>Sandra Bullock is opening up about her go-to margarita recipe. The 62-year-old actress stars in the upcoming Practical Magic 2, […]\nThe post Sandra Bullock Reveals Which Famous Friend Makes Her ‘Potent’ Margaritas appeared first on Just Jared - Celebrity News…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/sandra-marg.jpg",
+        "date": "Sep 9, 2026",
+        "url": "https://www.justjared.com/2026/09/08/sandra-bullock-reveals-which-famous-friend-makes-her-potent-margaritas/"
+    },
+    {
+        "id": "0ydogissc",
+        "title": "Manufacturing firms' factory leasing seen rising to 30-32 million sq ft annually by 2030: Report",
+        "excerpt": "Factory space leasing in India is projected to reach thirty to thirty-two million square feet annually by 2030. This growth is fueled by capacity expansion and localization across key manufacturing sectors. Traditional industrial sectors like auto and electro…",
+        "content": "<p>Factory space leasing in India is projected to reach thirty to thirty-two million square feet annually by 2030. This growth is fueled by capacity expansion and localization across key manufacturing sectors. Traditional industrial sectors like auto and electro…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-133949964,width-1200,height-630,imgsize-192706,overlay-economictimes/articleshow.jpg",
+        "date": "Sep 9, 2026",
+        "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/manufacturing-firms-factory-leasing-seen-rising-to-30-32-million-sq-ft-annually-by-2030-report/articleshow/133949943.cms"
+    },
+    {
+        "id": "fvwc2b5jv",
+        "title": "Meta launches AI agent that can access other apps to send emails, make payments",
+        "excerpt": "The company's Muse agent, known internally as Hatch, is the centerpiece of CEO Mark Zuckerberg's plan to supply \"personal superintelligence\" ​to the billions of people who use Meta's services daily.",
+        "content": "<p>The company's Muse agent, known internally as Hatch, is the centerpiece of CEO Mark Zuckerberg's plan to supply \"personal superintelligence\" ​to the billions of people who use Meta's services daily.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49162,resizemode-75,msid-133949876/tech/artificial-intelligence/meta-launches-ai-agent-that-can-access-other-apps-to-send-emails-make-payments.jpg",
+        "date": "Sep 9, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-launches-ai-agent-that-can-access-other-apps-to-send-emails-make-payments/articleshow/133949876.cms"
+    },
+    {
+        "id": "jjusud79r",
+        "title": "9月16日~18日「HR EXPO（東京ビッグサイト）」に出展！『AI』を活用した人材育成の新ソリューションをお披露目します！｜株式会社LDcube",
+        "excerpt": "[株式会社LDcube]\n[画像1: https://prcdn.freetls.fastly.net/release_image/131307/217/131307-217-c5a3a53c0a769ffc0d7f061acd7c4c74-887x538.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+        "content": "<p>[株式会社LDcube]\n[画像1: https://prcdn.freetls.fastly.net/release_image/131307/217/131307-217-c5a3a53c0a769ffc0d7f061acd7c4c74-887x538.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/131307/217/131307-217-c5a3a53c0a769ffc0d7f061acd7c4c74-887x538.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "date": "Sep 9, 2026",
+        "url": "https://prtimes.jp/main/html/rd/p/000000217.000131307.html"
+    },
+    {
+        "id": "r8j2pp8fh",
+        "title": "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says",
+        "excerpt": "Speaking at Goldman Sachs' Communacopia + Technology Conference in San Francisco, Friar said OpenAI is focusing on sectors including chip design, ‌life sciences ⁠and financial ⁠services, as businesses increasingly seek AI systems tailored to specific tasks. I…",
+        "content": "<p>Speaking at Goldman Sachs' Communacopia + Technology Conference in San Francisco, Friar said OpenAI is focusing on sectors including chip design, ‌life sciences ⁠and financial ⁠services, as businesses increasingly seek AI systems tailored to specific tasks. I…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-63812,resizemode-75,msid-133949798/tech/artificial-intelligence/openai-offers-ai-for-chip-design-touts-cost-advantage-over-open-source-cfo-says.jpg",
+        "date": "Sep 9, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-offers-ai-for-chip-design-touts-cost-advantage-over-open-source-cfo-says/articleshow/133949798.cms"
+    },
+    {
+        "id": "o7wi2cm4n",
+        "title": "‘We Didn’t Get Invited’ — 3-Time Pro Bowler Reveals Whether He’s Still Close With Travis Kelce After Surprise Wedding Snub",
+        "excerpt": "Taylor Lewan spent part of the summer wondering how a decade-long friendship with Travis Kelce somehow failed to produce a wedding invitation. Two months later, the former Tennessee Titans star sounds considerably less concerned about where they stand.",
+        "content": "<p>Taylor Lewan spent part of the summer wondering how a decade-long friendship with Travis Kelce somehow failed to produce a wedding invitation. Two months later, the former Tennessee Titans star sounds considerably less concerned about where they stand.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/02a0cfaf9a4852e6b53952622f2b2754a7665b137a6f04d86c35e63e315d597e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F48bd6d38e814451a78e6cb1e56bff139.jpg",
+        "date": "Sep 9, 2026",
+        "url": "https://www.profootballnetwork.com/taylor-lewan-travis-kelce-taylor-swift-surprise-wedding-snub/?utm_medium=rss&amp;utm_source=nordot"
+    },
+    {
+        "id": "95t0bkka0",
+        "title": "Is Heidi Klum Back on ‘America’s Got Talent’ for Good? Her Return Explained",
+        "excerpt": "Heidi Klum is temporarily returning to the judging panel on America’s Got Talent. The 53-year-old supermodel is back to judge […]\nThe post Is Heidi Klum Back on ‘America’s Got Talent’ for Good? Her Return Explained appeared first on Just Jared - Celebrity New…",
+        "content": "<p>Heidi Klum is temporarily returning to the judging panel on America’s Got Talent. The 53-year-old supermodel is back to judge […]\nThe post Is Heidi Klum Back on ‘America’s Got Talent’ for Good? Her Return Explained appeared first on Just Jared - Celebrity New…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/heidi-klum-returns-temporarily-agt.jpg",
+        "date": "Sep 9, 2026",
+        "url": "https://www.justjared.com/2026/09/08/is-heidi-klum-back-on-americas-got-talent-for-good-her-return-explained/"
+    },
+    {
+        "id": "e8ds9r9zz",
+        "title": "Local high school volleyball highlights and scores (9-8-26)",
+        "excerpt": "Here’s a look at our local high school volleyball highlights and scores from September 8th, 2026: Iowa Kingsley-Pierson 3, Siouxland Christian 0 Sergeant Bluff-Luton 3, Sioux City East 1 Remsen St. Mary’s 2, MMCRU 1 OABCIG 3, MVAOCOU 0 MOC-Floyd Valley 3, Sio…",
+        "content": "<p>Here’s a look at our local high school volleyball highlights and scores from September 8th, 2026: Iowa Kingsley-Pierson 3, Siouxland Christian 0 Sergeant Bluff-Luton 3, Sioux City East 1 Remsen St. Mary’s 2, MMCRU 1 OABCIG 3, MVAOCOU 0 MOC-Floyd Valley 3, Sio…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/a72cf35d9e09732f9dd69254f77de60a189e419a19fa9336cce6355c7653e4b2/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkcau_sioux_city_articles_201%2Feab8d80683bb4cc7eca3978bc76e0e09.jpg",
+        "date": "Sep 9, 2026",
+        "url": "https://www.kcau9.com/sports/local-high-school-volleyball-highlights-and-scores-9-8-26/"
+    },
+    {
+        "id": "4ngb6ajy6",
+        "title": "Galena Volleyball takes down Liberal to open Galena Triangular",
+        "excerpt": "The hosts kicked off the Galena Volleyball Triangular with a win over Liberal! See our recap and highlights from Galena below.",
+        "content": "<p>The hosts kicked off the Galena Volleyball Triangular with a win over Liberal! See our recap and highlights from Galena below.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/c49bbf89a06c46adf734f7613e7fc2a45640f8dbe0a8eb1fca2ab298dda49b1a/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fksnf_joplin_articles_426%2F1cc330471905ac54b6d56add9828a9b5.jpg",
+        "date": "Sep 9, 2026",
+        "url": "https://www.fourstateshomepage.com/sports/local-sports/galena-volleyball-takes-down-liberal-to-open-galena-triangular/"
+    },
+    {
         "id": "nw0czyxph",
         "title": "98 Degrees’ Richest Members, Ranked by Net Worth",
         "excerpt": "98 Degrees has been going strong for nearly three decades! The beloved boy band, also known as 98°, is made […]\nThe post 98 Degrees’ Richest Members, Ranked by Net Worth appeared first on Just Jared - Celebrity News, Entertainment News & Photos.",
