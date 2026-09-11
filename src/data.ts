@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "lunqm6w0f",
+        "title": "Guardians score vs. Orioles. Baltimore uses 8-run inning to beat Cleveland",
+        "excerpt": "Dylan Beavers drove in three runs during Baltimore's eight-run third inning and the Orioles defeated the visiting Cleveland Guardians on Sept. 9.",
+        "content": "<p>Dylan Beavers drove in three runs during Baltimore's eight-run third inning and the Orioles defeated the visiting Cleveland Guardians on Sept. 9.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/4cf64ed63c89a14cd510b9e47348554f629a8a6613347c6aff658910f88098a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fakron-beacon-journal%2F0d075057658037e14c48fd76d298e16c.jpg",
+        "date": "Sep 10, 2026",
+        "url": "https://www.beaconjournal.com/story/sports/mlb/cleveland-guardians/2026/09/09/guardians-game-score-baltimore-orioles-jose-ramirez/91651935007/"
+    },
+    {
+        "id": "nv1fooy01",
+        "title": "Kingdom Come: Deliverance director defends DLSS 5 saying neural lighting restores \"original vision\"",
+        "excerpt": "Kingdom Come: Deliverance director Daniel Vavra says DLSS 5’s neural rendering restores the sequel’s intended lighting, shadows, and facial detail without altering its underlying geometry. Critics argue the technology can overpolish visuals, while unofficial …",
+        "content": "<p>Kingdom Come: Deliverance director Daniel Vavra says DLSS 5’s neural rendering restores the sequel’s intended lighting, shadows, and facial detail without altering its underlying geometry. Critics argue the technology can overpolish visuals, while unofficial …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Henry-in-Kingdom-Come-Deliverance-2-Character-Model-Comparison-with-DLSS-5-Disabled-and-Enabled-Image-Source-Daniel-Vavra-X.jpg.jpeg",
+        "date": "Sep 10, 2026",
+        "url": "https://www.notebookcheck.net/Kingdom-Come-Deliverance-director-defends-DLSS-5-saying-neural-lighting-restores-original-vision.1395564.0.html"
+    },
+    {
+        "id": "12ktfknmj",
+        "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
+        "excerpt": "UBS CEO Sergio Ermotti warns financial markets have grown complacent despite mounting geopolitical and economic risks.",
+        "content": "<p>UBS CEO Sergio Ermotti warns financial markets have grown complacent despite mounting geopolitical and economic risks.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://image.cnbcfm.com/api/v1/image/108360932-1788997814309-gettyimages-2259298040-SWITZERLAND_UBS.jpeg?v=1788998009&w=1920&h=1080",
+        "date": "Sep 10, 2026",
+        "url": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html"
+    },
+    {
+        "id": "cbgj7mtkn",
+        "title": "Buy alert! Expert names 2 surging ASX All Ords tech stocks to buy today",
+        "excerpt": "A leading analyst forecasts more outperformance from these two soaring ASX tech shares.\nThe post Buy alert! Expert names 2 surging ASX All Ords tech stocks to buy today appeared first on The Motley Fool Australia.",
+        "content": "<p>A leading analyst forecasts more outperformance from these two soaring ASX tech shares.\nThe post Buy alert! Expert names 2 surging ASX All Ords tech stocks to buy today appeared first on The Motley Fool Australia.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.fool.com.au/wp-content/uploads/2022/02/buy-16.9-1-1200x675.jpg",
+        "date": "Sep 10, 2026",
+        "url": "https://www.fool.com.au/2026/09/10/buy-alert-expert-names-2-surging-asx-all-ords-tech-stocks-to-buy-today/"
+    },
+    {
+        "id": "tg3qhgdk7",
+        "title": "Wipro unveils AI-focused CISO Command Center with CrowdStrike",
+        "excerpt": "Wipro announced the launch of its Chief Information Security Officer (CISO) Command Center in collaboration with CrowdStrike to help enterprises address emerging cybersecurity risks accelerated by artificial intelligence (AI).",
+        "content": "<p>Wipro announced the launch of its Chief Information Security Officer (CISO) Command Center in collaboration with CrowdStrike to help enterprises address emerging cybersecurity risks accelerated by artificial intelligence (AI).</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+        "date": "Sep 10, 2026",
+        "url": "https://www.business-standard.com/markets/capital-market-news/wipro-unveils-ai-focused-ciso-command-center-with-crowdstrike-126091000111_1.html"
+    },
+    {
+        "id": "jsgkmqi9v",
+        "title": "Malibu’s A-list paradise blocked off by monster sinkhole as Nicolas Cage’s $10.5M mansion teeters beside crater",
+        "excerpt": "Malibu’s ultra-wealthy playground has been blocked off after a monster sinkhole ripped through a private road, forcing dozens of properties in the secluded celebrity enclave into mandatory evacuation. And sitting perilously close to the gaping crater is Nicol…",
+        "content": "<p>Malibu’s ultra-wealthy playground has been blocked off after a monster sinkhole ripped through a private road, forcing dozens of properties in the secluded celebrity enclave into mandatory evacuation. And sitting perilously close to the gaping crater is Nicol…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-3b114uf1m-1789006471223.jpg?quality=75&strip=all&1788992293&w=1200",
+        "date": "Sep 10, 2026",
+        "url": "https://nypost.com/2026/09/09/us-news/monster-sinkhole-hits-exclusive-malibu-celebrity-enclave/"
+    },
+    {
+        "id": "a0sa6w1q0",
+        "title": "San Francisco discovers new invasive species: ‘Hot girls’",
+        "excerpt": "This week, Celeste Amadon released a viral “hot list” of the city’s most datable people — all, like, 87 of them.",
+        "content": "<p>This week, Celeste Amadon released a viral “hot list” of the city’s most datable people — all, like, 87 of them.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-fphtyvwi2-1789005728039.jpg?quality=75&strip=all&1788991369&w=1200",
+        "date": "Sep 10, 2026",
+        "url": "https://nypost.com/2026/09/09/opinion/san-francisco-discovers-new-invasive-species-hot-girls/"
+    },
+    {
+        "id": "8jcz9r01h",
+        "title": "Barry Melrose Dies: Gretzky-Era L.A. Kings Coach And Longtime ESPN Hockey Analyst Was 70",
+        "excerpt": "Barry Melrose, who coached the Wayne Gretzky-led Los Angeles Kings team that helped put the NHL and hockey on the map in the U.S., and who later became ESPN’s signature hockey analyst for almost two decades, died Wednesday. He was 70. Melrose retired from ESP…",
+        "content": "<p>Barry Melrose, who coached the Wayne Gretzky-led Los Angeles Kings team that helped put the NHL and hockey on the map in the U.S., and who later became ESPN’s signature hockey analyst for almost two decades, died Wednesday. He was 70. Melrose retired from ESP…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/b9ed76eb9b3b4cf182d4673c752759e52250d91097d6f62debb45571fd9f1f15/lightyear_networkapi/resizefill_w1000_h563%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fe1824cd062675c91858dad78d86fd6cf.jpg",
+        "date": "Sep 10, 2026",
+        "url": "https://deadline.com/2026/09/barry-melrose-dead-los-angeles-kings-coach-espn-1237073079/"
+    },
+    {
+        "id": "1wpcpwelh",
+        "title": "India to work with BRICS partners to expand opportunities for women-led enterprises in global trade: Piyush Goyal",
+        "excerpt": "Piyush Goyal urged BRICS nations to boost women entrepreneurs in global trade. India shared its success in financial inclusion and collateral-free loans for women. The minister highlighted efforts to increase female workforce participation significantly. BRIC…",
+        "content": "<p>Piyush Goyal urged BRICS nations to boost women entrepreneurs in global trade. India shared its success in financial inclusion and collateral-free loans for women. The minister highlighted efforts to increase female workforce participation significantly. BRIC…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-133989602,width-1200,height-630,imgsize-151704,overlay-economictimes/articleshow.jpg",
+        "date": "Sep 10, 2026",
+        "url": "https://economictimes.indiatimes.com/news/india/india-to-work-with-brics-partners-to-expand-opportunities-for-women-led-enterprises-in-global-trade-piyush-goyal/articleshow/133989603.cms"
+    },
+    {
+        "id": "amzoq3kbp",
+        "title": "Amanda Kloots and Justin Gimelstob Split After More Than a Year of Dating",
+        "excerpt": "Amanda Kloots and Justin Gimelstob are going their separate ways. The 44-year-old former The Talk co-host revealed on Wednesday (September […]\nThe post Amanda Kloots and Justin Gimelstob Split After More Than a Year of Dating appeared first on Just Jared - Ce…",
+        "content": "<p>Amanda Kloots and Justin Gimelstob are going their separate ways. The 44-year-old former The Talk co-host revealed on Wednesday (September […]\nThe post Amanda Kloots and Justin Gimelstob Split After More Than a Year of Dating appeared first on Just Jared - Ce…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/kloots-split.jpg",
+        "date": "Sep 10, 2026",
+        "url": "https://www.justjared.com/2026/09/09/amanda-kloots-and-justin-gimelstob-split-after-more-than-a-year-of-dating/"
+    },
+    {
         "id": "y89d5wx6w",
         "title": "Scott O’Neil Declares Bankruptcy Pivot for LIV Golf",
         "excerpt": "LIV Golf CEO Scott O'Neil addresses fans after Chapter 11 filing, framing the move as a strategic step toward a player-owned future.",
