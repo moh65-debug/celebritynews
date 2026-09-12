@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "6g3aoifhh",
+        "title": "Watch Nifty, Sensex fall together on iPhone Duo: Harsh Goenka joins Rs 3 lakh foldable iPhone debate",
+        "excerpt": "Industrialist Harsh Goenka humorously linked Apple Duo's high price to stock market performance. The new foldable iPhone Duo starts at a significant Rs 2,99,900 in India. This device features advanced specifications and a premium titanium chassis construction…",
+        "content": "<p>Industrialist Harsh Goenka humorously linked Apple Duo's high price to stock market performance. The new foldable iPhone Duo starts at a significant Rs 2,99,900 in India. This device features advanced specifications and a premium titanium chassis construction…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134042432,width-1200,height-630,imgsize-714641,overlay-economictimes/articleshow.jpg",
+        "date": "Sep 11, 2026",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/watch-nifty-sensex-fall-together-on-iphone-duo-harsh-goenka-joins-rs-3-lakh-foldable-iphone-debate/articleshow/134041958.cms"
+    },
+    {
+        "id": "6mn1xmp0n",
+        "title": "Oracle tops estimates as AI demand tempers cash-burn fears",
+        "excerpt": "Shares ​of the company, which have slumped more than 21% this year, rose 4% in extended trading after Oracle reported a jump in revenue backlog, a key metric on future revenue growth prospects.",
+        "content": "<p>Shares ​of the company, which have slumped more than 21% this year, rose 4% in extended trading after Oracle reported a jump in revenue backlog, a key metric on future revenue growth prospects.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-53590,resizemode-75,msid-134042384/tech/technology/oracle-tops-estimates-as-ai-demand-tempers-cash-burn-fears.jpg",
+        "date": "Sep 11, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/oracle-tops-estimates-as-ai-demand-tempers-cash-burn-fears/articleshow/134042384.cms"
+    },
+    {
+        "id": "j7cio5b5t",
+        "title": "AI could possibly end humanity but how are humans supposed to process that?",
+        "excerpt": "The technology is far from the only existential risk our species faces. But weighing such cosmic fears can become a mind-bending exercise",
+        "content": "<p>The technology is far from the only existential risk our species faces. But weighing such cosmic fears can become a mind-bending exercise</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/30/thumb/fitandfill/1200X628/1788106715-6464.jpg",
+        "date": "Sep 11, 2026",
+        "url": "https://www.business-standard.com/technology/artificial-intelligence/ai-could-possibly-end-humanity-but-how-are-humans-supposed-to-process-that-126091100116_1.html"
+    },
+    {
+        "id": "pbn9sm4o9",
+        "title": "ETMarkets Smart Talk| With 87.7% of F&O traders losing money, why systematic trading is becoming more relevant for retail investors, says Prashant Shah",
+        "excerpt": "Retail traders face significant losses in India's derivatives market. Automation and AI tools offer solutions for consistent execution and risk management. Technological advancements make algorithmic trading more accessible to individual investors. This shift…",
+        "content": "<p>Retail traders face significant losses in India's derivatives market. Automation and AI tools offer solutions for consistent execution and risk management. Technological advancements make algorithmic trading more accessible to individual investors. This shift…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134042207,width-1200,height-630,imgsize-82749,overlay-etmarkets/articleshow.jpg",
+        "date": "Sep 11, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-with-87-7-of-fo-traders-losing-money-why-systematic-trading-is-becoming-more-relevant-for-retail-investors-says-prashant-shah/articleshow/134041936.cms"
+    },
+    {
+        "id": "pm6ba0mja",
+        "title": "Sebastian Stan Attends ‘Fjord’ TIFF Premiere After Becoming a New Dad, Makes First Comments About Fatherhood",
+        "excerpt": "Sebastian Stan is stepping out as a new dad! The 44-year-old actor hit the red carpet for the premiere of […]\nThe post Sebastian Stan Attends ‘Fjord’ TIFF Premiere After Becoming a New Dad, Makes First Comments About Fatherhood appeared first on Just Jared - …",
+        "content": "<p>Sebastian Stan is stepping out as a new dad! The 44-year-old actor hit the red carpet for the premiere of […]\nThe post Sebastian Stan Attends ‘Fjord’ TIFF Premiere After Becoming a New Dad, Makes First Comments About Fatherhood appeared first on Just Jared - …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/sebastian-stan-fjord-premiere-tiff.jpg",
+        "date": "Sep 11, 2026",
+        "url": "https://www.justjared.com/2026/09/10/sebastian-stan-attends-fjord-tiff-premiere-after-becoming-a-new-dad-makes-first-comments-about-fatherhood/"
+    },
+    {
+        "id": "fn5wh7cuu",
+        "title": "Investor Relations Associate (AI Lead), Leading Global Private Equity Firm, Hong Kong - PER, Private Equity Recruitment - Hong Kong, HONG KONG",
+        "excerpt": "A new Investor Relations Associate (AI Lead), Leading Global Private Equity Firm, Hong Kong job is available in Hong Kong. Check it out on PR News Online.",
+        "content": "<p>A new Investor Relations Associate (AI Lead), Leading Global Private Equity Firm, Hong Kong job is available in Hong Kong. Check it out on PR News Online.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d3ogvqw9m2inp7.cloudfront.net/assets/static/headers/cc/responsive/img/social-og-image.png",
+        "date": "Sep 11, 2026",
+        "url": "https://careers.caia.org/job/investor-relations-associate-ai-lead-leading-global-private-equity-firm-hong-kong/85922400/"
+    },
+    {
+        "id": "i5zyu610e",
+        "title": "Jonas Brothers’ Melbourne Halftime Show Set List: New Song ‘Listen When Sad’ Makes Live TV Debut, Plus John Farnham Cover (Videos)",
+        "excerpt": "The Jonas Brothers hit the stage for the halftime show during the NFL game at the Melbourne Cricket Ground on […]\nThe post Jonas Brothers’ Melbourne Halftime Show Set List: New Song ‘Listen When Sad’ Makes Live TV Debut, Plus John Farnham Cover (Videos) appea…",
+        "content": "<p>The Jonas Brothers hit the stage for the halftime show during the NFL game at the Melbourne Cricket Ground on […]\nThe post Jonas Brothers’ Melbourne Halftime Show Set List: New Song ‘Listen When Sad’ Makes Live TV Debut, Plus John Farnham Cover (Videos) appea…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/jonas-brothers-kickoff.jpg",
+        "date": "Sep 11, 2026",
+        "url": "https://www.justjared.com/2026/09/10/jonas-brothers-melbourne-halftime-show-set-list-new-song-listen-when-sad-makes-live-tv-debut-plus-john-farnham-cover-videos/"
+    },
+    {
+        "id": "akgzh4aex",
+        "title": "“When someone has an argument...\": How Aaron Rodgers’ friendship with Mina Kimes fell apart after his controversial views changed their friendship",
+        "excerpt": "Aaron Rodgers spoke on a podcast about media friends who changed after his COVID vaccination stance. He specifically named analyst Mina Kimes, stating she had him to her house previously. Rodgers explained his \"immunized\" comment was part of an NFL appeal reg…",
+        "content": "<p>Aaron Rodgers spoke on a podcast about media friends who changed after his COVID vaccination stance. He specifically named analyst Mina Kimes, stating she had him to her house previously. Rodgers explained his \"immunized\" comment was part of an NFL appeal reg…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-134041457,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Sep 11, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/nfl/news/when-someone-has-an-argument-how-aaron-rodgers-friendship-with-mina-kimes-fell-apart-after-his-controversial-views-changed-their-friendship/articleshow/134040879.cms"
+    },
+    {
+        "id": "a84ilnnv1",
+        "title": "Mariska Hargitay Jokes About Wardrobe Malfunction While Rolling Out Emmy Awards Red Carpet",
+        "excerpt": "Mariska Hargitay is hosting the Emmys next week, but first she is helping prepare the red carpet! The Emmy-winning actress […]\nThe post Mariska Hargitay Jokes About Wardrobe Malfunction While Rolling Out Emmy Awards Red Carpet appeared first on Just Jared - C…",
+        "content": "<p>Mariska Hargitay is hosting the Emmys next week, but first she is helping prepare the red carpet! The Emmy-winning actress […]\nThe post Mariska Hargitay Jokes About Wardrobe Malfunction While Rolling Out Emmy Awards Red Carpet appeared first on Just Jared - C…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/mariska-hargitay-rolls-out-emmys-carpet.jpg",
+        "date": "Sep 11, 2026",
+        "url": "https://www.justjared.com/2026/09/10/mariska-hargitay-jokes-about-wardrobe-malfunction-while-rolling-out-emmy-awards-red-carpet/"
+    },
+    {
+        "id": "r90ex9s9w",
+        "title": "Adani Ports among 3 stock ideas for today by Bonanza's Kunal Kamble",
+        "excerpt": "Stocks to buy today: Kunal Kamble is bullish on three stocks, namely Adani Ports, Pine Labs and Aegis Vopak amid bullish signals on tech charts.",
+        "content": "<p>Stocks to buy today: Kunal Kamble is bullish on three stocks, namely Adani Ports, Pine Labs and Aegis Vopak amid bullish signals on tech charts.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/20/thumb/fitandfill/1200X628/1773945705-5146.jpg",
+        "date": "Sep 11, 2026",
+        "url": "https://www.business-standard.com/markets/news/adani-ports-among-3-stock-ideas-for-today-by-bonanza-s-kunal-kamble-126091100091_1.html"
+    },
+    {
         "id": "lunqm6w0f",
         "title": "Guardians score vs. Orioles. Baltimore uses 8-run inning to beat Cleveland",
         "excerpt": "Dylan Beavers drove in three runs during Baltimore's eight-run third inning and the Orioles defeated the visiting Cleveland Guardians on Sept. 9.",
