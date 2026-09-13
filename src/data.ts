@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "3ac8eyy2z",
+        "title": "US, India join hands to strengthen security of undersea cable networks",
+        "excerpt": "The partnership seeks to improve the resilience and diversification of subsea communication infrastructure as India strengthens its position as a global digital and technology hub",
+        "content": "<p>The partnership seeks to improve the resilience and diversification of subsea communication infrastructure as India strengthens its position as a global digital and technology hub</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/16/thumb/featurecrop/1200X628/1739723785-8917.jpg",
+        "date": "Sep 12, 2026",
+        "url": "https://www.business-standard.com/economy/news/us-india-join-hands-to-strengthen-security-of-undersea-cable-networks-126091200066_1.html"
+    },
+    {
+        "id": "2ia7ffqj4",
+        "title": "Scores and Highlights: Week 4 high school football games",
+        "excerpt": "Final scores and highlights from high school football games across Northeast Tennessee and Southwest Virginia. *Highlights will be posted after Touchdown Friday Night airs at 11 p.m.* Final Scores Northeast Tennessee Cherokee 35, Grainger 0 Cloudland 48, Hanc…",
+        "content": "<p>Final scores and highlights from high school football games across Northeast Tennessee and Southwest Virginia. *Highlights will be posted after Touchdown Friday Night airs at 11 p.m.* Final Scores Northeast Tennessee Cherokee 35, Grainger 0 Cloudland 48, Hanc…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/5bdc452c3099e925948b26b4130e75bcae21b68bd00e3b3625456db7becfdb8a/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwjhl_tri_cities_articles_267%2F0154927a273de45cc019cc89d56f168f.png",
+        "date": "Sep 12, 2026",
+        "url": "https://www.wjhl.com/sports/high-school-sports/touchdown-friday-night/scores-and-highlights-week-4-high-school-football-games-2026/"
+    },
+    {
+        "id": "pnmmfjutr",
+        "title": "Lil Durk Found Not Guilty in Federal Murder-for-Hire Trial",
+        "excerpt": "Lil Durk has been acquitted in his federal murder-for-hire trial in Los Angeles. The 33-year-old rapper, whose real name is […]\nThe post Lil Durk Found Not Guilty in Federal Murder-for-Hire Trial appeared first on Just Jared - Celebrity News, Entertainment Ne…",
+        "content": "<p>Lil Durk has been acquitted in his federal murder-for-hire trial in Los Angeles. The 33-year-old rapper, whose real name is […]\nThe post Lil Durk Found Not Guilty in Federal Murder-for-Hire Trial appeared first on Just Jared - Celebrity News, Entertainment Ne…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/lil-durk-acquitted.jpg",
+        "date": "Sep 12, 2026",
+        "url": "https://www.justjared.com/2026/09/11/lil-durk-found-not-guilty-in-federal-murder-for-hire-trial/"
+    },
+    {
+        "id": "rwnn0f0hd",
+        "title": "Staying active! Bilal Hasan booked against Luis Gurule for UFC 334 at Madison Square Garden",
+        "excerpt": "“IndoNinja” goes again. Top Ultimate Fighting Championship (UFC) Flyweight prospect Bilal Hasan has booked his second official Octagon appearance, colliding with Luis Gurule at UFC 334 on Sat., Nov. 14, 2026, inside Madison Square Garden in New York City. MMA…",
+        "content": "<p>“IndoNinja” goes again. Top Ultimate Fighting Championship (UFC) Flyweight prospect Bilal Hasan has booked his second official Octagon appearance, colliding with Luis Gurule at UFC 334 on Sat., Nov. 14, 2026, inside Madison Square Garden in New York City. MMA…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/54500bc1d3c192e6e67fca82590f8a13ab35a4882e6f681e25bfd111f73d239b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F97f9c35a9217c3c2e4f1020abb90f948.jpg",
+        "date": "Sep 12, 2026",
+        "url": "https://www.mmamania.com/ufc-fight-announcements/471268/bilal-hasan-luis-gurule-ufc-334-madison-square-garden"
+    },
+    {
+        "id": "yfyizjhtx",
+        "title": "Op-Ed: Archimedes vs AI as displacement of people and ideas creates difficult, expensive issues",
+        "excerpt": "We talk about AI slop. There’s no shortage of human sloppiness, either.\nThe post Op-Ed: Archimedes vs AI as displacement of people and ideas creates difficult, expensive issues appeared first on Digital Journal.",
+        "content": "<p>We talk about AI slop. There’s no shortage of human sloppiness, either.\nThe post Op-Ed: Archimedes vs AI as displacement of people and ideas creates difficult, expensive issues appeared first on Digital Journal.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2021/05/Computer-use.jpg",
+        "date": "Sep 12, 2026",
+        "url": "https://www.digitaljournal.com/article/op-ed-archimedes-vs-ai-as-displacement-of-people-and-ideas-creates-difficult-expensive-issues/"
+    },
+    {
+        "id": "f16g4jaib",
+        "title": "AI won’t kill us— bad actors exploiting an American tech retreat is a much bigger danger",
+        "excerpt": "One reason that apocalyptic scenarios involving AI are implausible is that, having seen how that particular movie ends, we are unlikely to be foolish enough to give AI custody of the most destructive weapons on the planet.",
+        "content": "<p>One reason that apocalyptic scenarios involving AI are implausible is that, having seen how that particular movie ends, we are unlikely to be foolish enough to give AI custody of the most destructive weapons on the planet.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/09/4343EODLED.jpg?quality=75&strip=all&w=1200",
+        "date": "Sep 12, 2026",
+        "url": "https://nypost.com/2026/09/11/opinion/why-not-to-fear-that-ai-will-kill-us-all/"
+    },
+    {
+        "id": "vefr8s1cy",
+        "title": "Ocean Way Festival With The Killers & Olivia Dean Canceled, Refund Details Revealed",
+        "excerpt": "Ocean Way Festival will no longer make its Santa Monica debut this month. The two-day Goldenvoice event, which was set […]\nThe post Ocean Way Festival With The Killers & Olivia Dean Canceled, Refund Details Revealed appeared first on Just Jared - Celebrity Ne…",
+        "content": "<p>Ocean Way Festival will no longer make its Santa Monica debut this month. The two-day Goldenvoice event, which was set […]\nThe post Ocean Way Festival With The Killers & Olivia Dean Canceled, Refund Details Revealed appeared first on Just Jared - Celebrity Ne…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/ocean-way-festival-canceled.jpg",
+        "date": "Sep 12, 2026",
+        "url": "https://www.justjared.com/2026/09/11/ocean-way-festival-with-the-killers-olivia-dean-canceled-refund-details-revealed/"
+    },
+    {
+        "id": "ez8l70b85",
+        "title": "Odisha wraps up UAE roadshow with ₹2.43 trillion investment proposals",
+        "excerpt": "The three-day roadshow generated 24 investment proposals, including eight MoUs and 16 investment intents, with potential to create 618,725 jobs",
+        "content": "<p>The three-day roadshow generated 24 investment proposals, including eight MoUs and 16 investment intents, with potential to create 618,725 jobs</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/12/thumb/fitandfill/1200X628/1789178408-3743.jpeg",
+        "date": "Sep 12, 2026",
+        "url": "https://www.business-standard.com/india-news/odisha-uae-investment-outreach-rs-2-43-trillion-mohan-majhi-126091200079_1.html"
+    },
+    {
+        "id": "db99bsrq8",
+        "title": "Three Challenging Player Matchups USC Will Face Against Louisiana",
+        "excerpt": "The Ragin' Cajuns may be entering an unfamiliar territory out west, but the USC Trojans must be aware of these three talents on Louisiana's side.",
+        "content": "<p>The Ragin' Cajuns may be entering an unfamiliar territory out west, but the USC Trojans must be aware of these three talents on Louisiana's side.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/bf22e038981fbd66c98398f4dae33cdf203ce3d120798c538be2d7e727b8d672/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusc_trojans_on_si_articles_602%2Fa893632aef4fbb9cef658192a9fb743d.jpg",
+        "date": "Sep 12, 2026",
+        "url": "https://www.si.com/college/usc/football/usc-trojans-three-challenging-player-matchups-face-against-louisiana"
+    },
+    {
+        "id": "u0bp48gvc",
+        "title": "Exclusive - Kyunki Rishton Ke Bhi Roop Badalte Hain actress Prachi Singh on breaking the myth around TV actors: 'It is not a lesser medium at all'",
+        "excerpt": "Actress Prachi Singh disputes the stereotype that television acting is a walk in the park. She points out the rigorous schedules and extended hours that television actors endure. Singh underscores the commitment needed to bring characters to life consistently…",
+        "content": "<p>Actress Prachi Singh disputes the stereotype that television acting is a walk in the park. She points out the rigorous schedules and extended hours that television actors endure. Singh underscores the commitment needed to bring characters to life consistently…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-134102691,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Sep 12, 2026",
+        "url": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-kyunki-rishton-ke-bhi-roop-badalte-hain-actress-prachi-singh-on-breaking-the-myth-around-tv-actors-it-is-not-a-lesser-medium-at-all/articleshow/134102550.cms"
+    },
+    {
         "id": "6g3aoifhh",
         "title": "Watch Nifty, Sensex fall together on iPhone Duo: Harsh Goenka joins Rs 3 lakh foldable iPhone debate",
         "excerpt": "Industrialist Harsh Goenka humorously linked Apple Duo's high price to stock market performance. The new foldable iPhone Duo starts at a significant Rs 2,99,900 in India. This device features advanced specifications and a premium titanium chassis construction…",
