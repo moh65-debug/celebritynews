@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "5awgc575g",
+        "title": "Getting to the last mile, by Bisi Adeleye-Fayemi",
+        "excerpt": "The annual Gender And Inclusion Summit, convened by the Policy Innovation Center (PIC) took place September 8th-9th. The theme for this year was ‘From Agenda to Action: Making Innovations Count for the Last Mile’. I chaired the Economic Inclusion session, and…",
+        "content": "<p>The annual Gender And Inclusion Summit, convened by the Policy Innovation Center (PIC) took place September 8th-9th. The theme for this year was ‘From Agenda to Action: Making Innovations Count for the Last Mile’. I chaired the Economic Inclusion session, and…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+        "date": "Sep 13, 2026",
+        "url": "https://www.vanguardngr.com/2026/09/getting-to-the-last-mile-by-bisi-adeleye-fayemi/"
+    },
+    {
+        "id": "pq2mowyg0",
+        "title": "Sir Gabriel Igbinedion, a tree who made several forests, by Dele Sobowale",
+        "excerpt": "“God could not be everywhere and, therefore, he made mothers” – Jewish proverb. Sir (Chief) Gabriel Osawaru Igbinedion, the Esama of Benin Kingdom, born on Tuesday, September 11, 1934, like all of us, was created by the Almighty God; and moulded by his mother…",
+        "content": "<p>“God could not be everywhere and, therefore, he made mothers” – Jewish proverb. Sir (Chief) Gabriel Osawaru Igbinedion, the Esama of Benin Kingdom, born on Tuesday, September 11, 1934, like all of us, was created by the Almighty God; and moulded by his mother…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2014/05/Dele-sobowale.jpg",
+        "date": "Sep 13, 2026",
+        "url": "https://www.vanguardngr.com/2026/09/sir-gabriel-igbinedion-a-tree-who-made-several-forests-by-dele-sobowale-2/"
+    },
+    {
+        "id": "e4c9g5ykd",
+        "title": "Is SEO Dead in SEMRush? Exploring Its Ongoing Importance in Digital Marketing - Experiments In Search",
+        "excerpt": "Is SEO dead in SEMRush? This article delves into the ongoing relevance of SEO within the SEMRush platform, highlighting its importance despite evolving algorithms and user behaviors. Explore essential strategies such as keyword optimization and quality conten…",
+        "content": "<p>Is SEO dead in SEMRush? This article delves into the ongoing relevance of SEO within the SEMRush platform, highlighting its importance despite evolving algorithms and user behaviors. Explore essential strategies such as keyword optimization and quality conten…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://experimentsinsearch.com/wp-content/uploads/2025/09/a-diverse-group-working-on-marketing-strategies-with-charts-and-laptops-in-an-office-setting-93.jpg",
+        "date": "Sep 13, 2026",
+        "url": "http://experimentsinsearch.com/search-engine-optimization/is-seo-dead-in-semrush-2/"
+    },
+    {
+        "id": "3ro0nxw2k",
+        "title": "Mariska Hargitay Says She’s Still Reeling From Taylor Swift’s ‘Spectacular’ Wedding, Reveals Her Favorite Part",
+        "excerpt": "Mariska Hargitay is gushing over her friend Taylor Swift‘s wedding! It’s been two months since the 62-year-old actress attended the […]\nThe post Mariska Hargitay Says She’s Still Reeling From Taylor Swift’s ‘Spectacular’ Wedding, Reveals Her Favorite Part app…",
+        "content": "<p>Mariska Hargitay is gushing over her friend Taylor Swift‘s wedding! It’s been two months since the 62-year-old actress attended the […]\nThe post Mariska Hargitay Says She’s Still Reeling From Taylor Swift’s ‘Spectacular’ Wedding, Reveals Her Favorite Part app…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/mariska-taylor.jpg",
+        "date": "Sep 13, 2026",
+        "url": "https://www.justjared.com/2026/09/12/mariska-hargitay-says-shes-still-reeling-from-taylor-swifts-spectacular-wedding-reveals-her-favorite-part/"
+    },
+    {
+        "id": "31woxtkfl",
+        "title": "New American Horror Story: 13 Teaser; Paulson on Juggling Roles",
+        "excerpt": "As we inch closer to the three-episode premiere of Ryan Murphy and Brad Falchuk's American Horror Story: 13 on September 24th, we've got two new updates to pass along. First up, FX Networks has released a teaser on social media with some interesting new looks…",
+        "content": "<p>As we inch closer to the three-episode premiere of Ryan Murphy and Brad Falchuk's American Horror Story: 13 on September 24th, we've got two new updates to pass along. First up, FX Networks has released a teaser on social media with some interesting new looks…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/09/MixCollage-12-Sep-2026-09-38-PM-9605-2000x1125.jpg",
+        "date": "Sep 13, 2026",
+        "url": "https://bleedingcool.com/tv/new-american-horror-story-13-teaser-paulson-on-juggling-roles/"
+    },
+    {
+        "id": "sz6t0d7vm",
+        "title": "A Dick Smith VZ200 without the Dick Smith",
+        "excerpt": "Australians! They walk among us ! Do not be deceived by those charming faces!    They might be your parent! They might sleep in the same bed...",
+        "content": "<p>Australians! They walk among us ! Do not be deceived by those charming faces!    They might be your parent! They might sleep in the same bed...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzI4d3lUjUSOBz7RgyrNnl0sCscH-jHDrqCr6AujcruDMLsSme3yHSSlMcMLJqPkvF6CqIQS1GY6jGZ863LseKhPY-6SBfFccw5ez-qiymqEODAjdp96FGaVewh5lQKG7dVghEam6PGv3Q4k4Y9S1zUy11lzYzaaKvY4tuWwedvg3YzHnB1JeSnthmeCU/w1200-h630-p-k-no-nu/PXL_20250102_032046220.jpg",
+        "date": "Sep 13, 2026",
+        "url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html"
+    },
+    {
+        "id": "kjj6uqufu",
+        "title": "Pink, Andrew Garfield, Amy Adams & More Stars Attend the 2026 US Open Women’s Final",
+        "excerpt": "The stars came out to watch Elena Rybakina and Aryna Sabalenka compete in the 2026 US Open women’s singles final! […]\nThe post Pink, Andrew Garfield, Amy Adams & More Stars Attend the 2026 US Open Women’s Final appeared first on Just Jared - Celebrity News, E…",
+        "content": "<p>The stars came out to watch Elena Rybakina and Aryna Sabalenka compete in the 2026 US Open women’s singles final! […]\nThe post Pink, Andrew Garfield, Amy Adams & More Stars Attend the 2026 US Open Women’s Final appeared first on Just Jared - Celebrity News, E…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/pink-andrew-garfield-us-open-womens.jpg",
+        "date": "Sep 13, 2026",
+        "url": "https://www.justjared.com/2026/09/12/pink-andrew-garfield-amy-adams-more-stars-attend-the-2026-us-open-womens-final/"
+    },
+    {
+        "id": "bpxgravth",
+        "title": "No IPO in 2026, firm to prioritise safety, says OpenAI CEO Sam Altman",
+        "excerpt": "Altman said this year would be an 'ill-advised moment' for initial public offering and that a listing won't take place until next year",
+        "content": "<p>Altman said this year would be an 'ill-advised moment' for initial public offering and that a listing won't take place until next year</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/13/thumb/fitandfill/1200X628/1789265255-8724.jpg",
+        "date": "Sep 13, 2026",
+        "url": "https://www.business-standard.com/world-news/no-ipo-in-2026-firm-to-prioritise-safety-says-openai-ceo-sam-altman-126091300045_1.html"
+    },
+    {
+        "id": "7dymct2ti",
+        "title": "Jisoo, Camila Cabello & Kate Moss Attend Star-Studded Tommy Hilfiger Fashion Show at NYFW",
+        "excerpt": "The Tommy Hilfiger Spring/Summer 2027 fashion show was a star-studded affair at New York Fashion Week! Singers Jisoo and Camila […]\nThe post Jisoo, Camila Cabello & Kate Moss Attend Star-Studded Tommy Hilfiger Fashion Show at NYFW appeared first on Just Jared…",
+        "content": "<p>The Tommy Hilfiger Spring/Summer 2027 fashion show was a star-studded affair at New York Fashion Week! Singers Jisoo and Camila […]\nThe post Jisoo, Camila Cabello & Kate Moss Attend Star-Studded Tommy Hilfiger Fashion Show at NYFW appeared first on Just Jared…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/jisoo-camila-kate-tommy.jpg",
+        "date": "Sep 13, 2026",
+        "url": "https://www.justjared.com/2026/09/12/jisoo-camila-cabello-kate-moss-attend-star-studded-tommy-hilfiger-fashion-show-at-nyfw/"
+    },
+    {
+        "id": "zubs0zprp",
+        "title": "Who Is Harry Shum Jr.’s Wife? He’s Been With Shelby Rabara for Nearly 20 Years!",
+        "excerpt": "Harry Shum Jr. is heading to the ballroom for Dancing With the Stars Season 35, and fans might be curious […]\nThe post Who Is Harry Shum Jr.’s Wife? He’s Been With Shelby Rabara for Nearly 20 Years! appeared first on Just Jared - Celebrity News, Entertainment…",
+        "content": "<p>Harry Shum Jr. is heading to the ballroom for Dancing With the Stars Season 35, and fans might be curious […]\nThe post Who Is Harry Shum Jr.’s Wife? He’s Been With Shelby Rabara for Nearly 20 Years! appeared first on Just Jared - Celebrity News, Entertainment…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/harry-shum-jr-wife-shelby1.jpg",
+        "date": "Sep 13, 2026",
+        "url": "https://www.justjared.com/2026/09/12/harry-shum-jr-wife-shelby-rabara-relationship-marriage-kids/"
+    },
+    {
         "id": "3ac8eyy2z",
         "title": "US, India join hands to strengthen security of undersea cable networks",
         "excerpt": "The partnership seeks to improve the resilience and diversification of subsea communication infrastructure as India strengthens its position as a global digital and technology hub",
