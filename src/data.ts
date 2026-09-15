@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "m270xlidv",
+        "title": "Bigg Boss 20: Hina Khan extends her support to Qazi Touqeer, says he is ‘winning hearts as a Rockstar yet again’",
+        "excerpt": "In a heartwarming message, Hina Khan celebrated the journey of fellow Kashmiri Qazi Touqeer on Bigg Boss 20, highlighting her admiration for his intrinsic talent. She emphasized that entertainment can thrive without unnecessary conflict. Although supportive, …",
+        "content": "<p>In a heartwarming message, Hina Khan celebrated the journey of fellow Kashmiri Qazi Touqeer on Bigg Boss 20, highlighting her admiration for his intrinsic talent. She emphasized that entertainment can thrive without unnecessary conflict. Although supportive, …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.toiimg.com/thumb/msid-134231578,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Sep 14, 2026",
+        "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-20-hina-khan-extends-her-support-to-qazi-touqeer-says-he-is-winning-hearts-as-a-rockstar-yet-again/articleshow/134231558.cms"
+    },
+    {
+        "id": "rl6j3e6j8",
+        "title": "RHOM’s Alexia Nepola Reveals Relationship Status 2 Years After Husband Todd Nepola Filed for Divorce",
+        "excerpt": "Alexia Nepola is sharing a relationship update! The 59-year-old Real Housewives of Miami star got married to husband Todd Nepola […]\nThe post RHOM’s Alexia Nepola Reveals Relationship Status 2 Years After Husband Todd Nepola Filed for Divorce appeared first o…",
+        "content": "<p>Alexia Nepola is sharing a relationship update! The 59-year-old Real Housewives of Miami star got married to husband Todd Nepola […]\nThe post RHOM’s Alexia Nepola Reveals Relationship Status 2 Years After Husband Todd Nepola Filed for Divorce appeared first o…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/nepola-update.jpg",
+        "date": "Sep 14, 2026",
+        "url": "https://www.justjared.com/2026/09/13/rhoms-alexia-nepola-reveals-relationship-status-2-years-after-husband-todd-nepola-filed-for-divorce/"
+    },
+    {
+        "id": "kk071mx8i",
+        "title": "Is it possible to slow down the development of AI?",
+        "excerpt": "Top AI executives say they want to slow the breakneck pace of artificial intelligence development, but competition, US government reluctance and geopolitical factors stand in the way. However, the AI race and China's advances in the field create \"the toughest…",
+        "content": "<p>Top AI executives say they want to slow the breakneck pace of artificial intelligence development, but competition, US government reluctance and geopolitical factors stand in the way. However, the AI race and China's advances in the field create \"the toughest…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-101520,resizemode-75,msid-134231518/tech/artificial-intelligence/is-it-possible-to-slow-down-the-development-of-ai.jpg",
+        "date": "Sep 14, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/is-it-possible-to-slow-down-the-development-of-ai/articleshow/134231518.cms"
+    },
+    {
+        "id": "b8s0w9tnt",
+        "title": "A Michigan State chemist made gummy bears out of a wind turbine blade and ate them, because the resin his team designed dissolves in an alkaline solution into food-grade potassium lactate — a chemistry built so the 170-foot blades now being sawed up and buried can end as candy, plexiglass or new blades instead",
+        "excerpt": "Billions of tons of wind turbine blades are destined for landfills—unless chemists can figure out how to unwind them into something useful.\nThe post A Michigan State chemist made gummy bears out of a wind turbine blade and ate them, because the resin his team…",
+        "content": "<p>Billions of tons of wind turbine blades are destined for landfills—unless chemists can figure out how to unwind them into something useful.\nThe post A Michigan State chemist made gummy bears out of a wind turbine blade and ate them, because the resin his team…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://spacedaily.com/wp-content/uploads/2026/09/gummy-bears.png",
+        "date": "Sep 14, 2026",
+        "url": "https://spacedaily.com/b-a-michigan-state-chemist-made-gummy-bears-out-of-a-wind-turbine-blade-and-ate-them-because-the-resin-his-team-designed-dissolves-in-an-alkaline-solution-into-food-grade-potassium-lactate-a/"
+    },
+    {
+        "id": "11m05c5dx",
+        "title": "Tennant’s (TNC) Orders Are Surging While Its Margins Keep Sliding",
+        "excerpt": "On August 5, Tennant Company (NYSE:TNC) reported second-quarter results that pulled in two different directions at once. Orders climbed 6.6% year over year t...",
+        "content": "<p>On August 5, Tennant Company (NYSE:TNC) reported second-quarter results that pulled in two different directions at once. Orders climbed 6.6% year over year t...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/83e79646cb2ab264f779d5fc4a53ade8c03a5060a7ae0a779bcfdd9c7b5a41e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F5786f8c71c314f7987a27ae78a612d6d.jpg",
+        "date": "Sep 14, 2026",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tennant-tnc-orders-surging-while-030335688.html"
+    },
+    {
+        "id": "xs3ocsgi9",
+        "title": "SoftBank gets upsized $11.9 billion loan in OpenAI funding push",
+        "excerpt": "The financing comes as some executives are now voicing the need to slow the pace of AI development due to escalating risks from the technology.",
+        "content": "<p>The financing comes as some executives are now voicing the need to slow the pace of AI development due to escalating risks from the technology.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/bb575786cfa400bc_s.webp",
+        "date": "Sep 14, 2026",
+        "url": "https://biztoc.com/x/bb575786cfa400bc"
+    },
+    {
+        "id": "e2s7p0ypw",
+        "title": "ETMarkets Smart Talk | AI, defence, power: Investors need to be selective as valuations turn expensive, says Aditya Khemani",
+        "excerpt": "Aditya Khemani, Head of Equities at Invesco Mutual Fund, believes investors need to be particularly selective at this stage. He cautions against confusing strong earnings momentum with business quality, especially when red flags such as weak cash flows or str…",
+        "content": "<p>Aditya Khemani, Head of Equities at Invesco Mutual Fund, believes investors need to be particularly selective at this stage. He cautions against confusing strong earnings momentum with business quality, especially when red flags such as weak cash flows or str…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134231402,width-1200,height-630,imgsize-221349,overlay-etmarkets/articleshow.jpg",
+        "date": "Sep 14, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-ai-defence-power-investors-need-to-be-selective-as-valuations-turn-expensive-says-aditya-khemani/articleshow/134231339.cms"
+    },
+    {
+        "id": "0rly9rxe0",
+        "title": "Spawn Will Be Coming To Diablo Immortal As Revealed at BlizzCon",
+        "excerpt": "During BlizzCon 2026, Todd McFarlane confirmed that Spawn will be added to Diablo Immortal in an epic crossover. The news first came down in the weirdest way, as they created a YouTube short (which, for some reason, we can't even link you to because YouTube h…",
+        "content": "<p>During BlizzCon 2026, Todd McFarlane confirmed that Spawn will be added to Diablo Immortal in an epic crossover. The news first came down in the weirdest way, as they created a YouTube short (which, for some reason, we can't even link you to because YouTube h…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/09/Diablo-Immortal-x-Spawn-Art-2000x1125.jpg",
+        "date": "Sep 14, 2026",
+        "url": "https://bleedingcool.com/games/spawn-will-be-coming-to-diablo-immortal-as-revealed-at-blizzcon/"
+    },
+    {
+        "id": "avnzjlf4q",
+        "title": "The NBN speed upgrades launched one year ago — here's how they’ve changed the face of Australian broadband",
+        "excerpt": "Australia's internet access changed for the better 12 months ago, following the arrival of a raft of speed boosts. We've looked at the figures to find out what's changed in the past year.",
+        "content": "<p>Australia's internet access changed for the better 12 months ago, following the arrival of a raft of speed boosts. We've looked at the figures to find out what's changed in the past year.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/qRzvUjdYHFrW3SzGCeyyFJ-2120-80.jpg",
+        "date": "Sep 14, 2026",
+        "url": "https://www.techradar.com/computing/wi-fi-broadband/the-nbn-speed-upgrades-launched-one-year-ago-heres-how-theyve-changed-the-face-of-australian-broadband"
+    },
+    {
+        "id": "frw55cyed",
+        "title": "Hallmark Star Evan Roderick Marries Dion Karas in Greek Wedding Six Months After Saying He Was Married",
+        "excerpt": "Evan Roderick is officially a married man! The 31-year-old Hallmark star tied the knot back in August, marrying his love […]\nThe post Hallmark Star Evan Roderick Marries Dion Karas in Greek Wedding Six Months After Saying He Was Married appeared first on Just…",
+        "content": "<p>Evan Roderick is officially a married man! The 31-year-old Hallmark star tied the knot back in August, marrying his love […]\nThe post Hallmark Star Evan Roderick Marries Dion Karas in Greek Wedding Six Months After Saying He Was Married appeared first on Just…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/evan-roderick-married.jpg",
+        "date": "Sep 14, 2026",
+        "url": "https://www.justjared.com/2026/09/13/hallmark-star-evan-roderick-marries-dion-karas-in-greek-wedding-six-months-after-saying-he-was-married/"
+    },
+    {
         "id": "5awgc575g",
         "title": "Getting to the last mile, by Bisi Adeleye-Fayemi",
         "excerpt": "The annual Gender And Inclusion Summit, convened by the Policy Innovation Center (PIC) took place September 8th-9th. The theme for this year was ‘From Agenda to Action: Making Innovations Count for the Last Mile’. I chaired the Economic Inclusion session, and…",
