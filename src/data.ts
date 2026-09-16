@@ -12,6 +12,122 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "xvo1t2ha4",
+        "title": "The Road Ahead: How Creators Are Combining OpenAI's GPT-6 Astra with Tripo AI for 3D Generation",
+        "excerpt": "SAN FRANCISCO, Sept. 14, 2026 /PRNewswire/ -- The official release of OpenAI's latest model, GPT-6 Astra, has ushered in a new chapter in the world of generative 3D. By combining Astra with Tripo's 3D-native foundation models, creators are turning ideas into …",
+        "content": "<p>SAN FRANCISCO, Sept. 14, 2026 /PRNewswire/ -- The official release of OpenAI's latest model, GPT-6 Astra, has ushered in a new chapter in the world of generative 3D. By combining Astra with Tripo's 3D-native foundation models, creators are turning ideas into …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1987959/Creator-Sayaka.jpg?id=OA2947652&p=facebook",
+        "date": "Sep 15, 2026",
+        "url": "https://www.prnewswire.com/news-releases/the-road-ahead-how-creators-are-combining-openais-gpt-6-astra-with-tripo-ai-for-3d-generation-302878370.html"
+    },
+    {
+        "id": "o4jsxrxfx",
+        "title": "Rs 80,000 crore digital ad pie: Karan Taurani spots a hidden profit lever in new-age stocks",
+        "excerpt": "India’s new-age internet companies may be sitting on a profit engine that investors are still not fully pricing in: advertising.",
+        "content": "<p>India’s new-age internet companies may be sitting on a profit engine that investors are still not fully pricing in: advertising.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134250882,width-1200,height-630,imgsize-131654,overlay-etmarkets/articleshow.jpg",
+        "date": "Sep 15, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/rs-80000-crore-digital-ad-pie-karan-taurani-spots-a-hidden-profit-lever-in-new-age-stocks/articleshow/134250790.cms"
+    },
+    {
+        "id": "euaktyob6",
+        "title": "Reba McEntire Sings ‘Appalachian Memories’ After Sally Field’s Emotional Dolly Parton Tribute at 2026 Emmy Awards",
+        "excerpt": "Reba McEntire and Sally Field came together to remember their late friend Dolly Parton during an emotional tribute at the […]\nThe post Reba McEntire Sings ‘Appalachian Memories’ After Sally Field’s Emotional Dolly Parton Tribute at 2026 Emmy Awards appeared f…",
+        "content": "<p>Reba McEntire and Sally Field came together to remember their late friend Dolly Parton during an emotional tribute at the […]\nThe post Reba McEntire Sings ‘Appalachian Memories’ After Sally Field’s Emotional Dolly Parton Tribute at 2026 Emmy Awards appeared f…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/dolly-parton-tribute-reba-emmys.jpg",
+        "date": "Sep 15, 2026",
+        "url": "https://www.justjared.com/2026/09/14/reba-mcentire-sings-appalachian-memories-after-sally-fields-emotional-dolly-parton-tribute-at-2026-emmy-awards/"
+    },
+    {
+        "id": "m1vnictv7",
+        "title": "Ossoff Claims Trump Won’t Regulate AI Because of Don Jr’s Business Ventures: ‘The President of the United States Is Compromised’",
+        "excerpt": "Jon Ossoff accused Trump of downplaying AI's dangers because of his son’s business interests, declaring, “The president of the United States is compromised.”\nThe post Ossoff Claims Trump Won’t Regulate AI Because of Don Jr’s Business Ventures: ‘The President …",
+        "content": "<p>Jon Ossoff accused Trump of downplaying AI's dangers because of his son’s business interests, declaring, “The president of the United States is compromised.”\nThe post Ossoff Claims Trump Won’t Regulate AI Because of Don Jr’s Business Ventures: ‘The President …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.mediaite.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-7-58-09-PM-scaled.jpg",
+        "date": "Sep 15, 2026",
+        "url": "https://www.mediaite.com/media/tv/ossoff-claims-trump-wont-regulate-ai-because-of-don-jrs-business-ventures-the-president-of-the-united-states-is-compromised/"
+    },
+    {
+        "id": "i0m06nw3y",
+        "title": "Michael J. Fox receives standing ovation at 2026 Emmys for Parkinson's disease advocacy work",
+        "excerpt": "Michael J. Fox received a standing ovation at the 2026 Emmys alongside wife Tracy Pollan, revealing his foundation is \"close\" to a Parkinson's cure.",
+        "content": "<p>Michael J. Fox received a standing ovation at the 2026 Emmys alongside wife Tracy Pollan, revealing his foundation is \"close\" to a Parkinson's cure.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/fox.jpg",
+        "date": "Sep 15, 2026",
+        "url": "https://www.foxnews.com/entertainment/michael-j-fox-standing-ovation-2026-emmys-parkinsons-disease-advocacy"
+    },
+    {
+        "id": "w4sbauya8",
+        "title": "Stark County high school volleyball, soccer scores for Sept. 14-19",
+        "excerpt": "A look at Stark County-area high school golf and tennis results, and OHSAA volleyball and soccer scores and recaps for Sept. 14-19.",
+        "content": "<p>A look at Stark County-area high school golf and tennis results, and OHSAA volleyball and soccer scores and recaps for Sept. 14-19.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/ba695a4647c486319154728cb34cb0f999dff7ea08e18edebf269e28ea297d46/lightyear_networkapi/resizefill_w720_h960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-repository%2F8b12a73f55bb2e91631cfe74b521e53d.jpg",
+        "date": "Sep 15, 2026",
+        "url": "https://www.cantonrep.com/story/sports/high-school/2026/09/14/ohio-high-school-soccer-scores-stark-county-volleyball-golf-tennis-results/91768758007/"
+    },
+    {
+        "id": "t2fx5avpb",
+        "title": "RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) plus LAZCLUZE® (lazertinib) with prophylactic strategies shows low rates of treatment-related events at WCLC 2026",
+        "excerpt": "Low rates of rash, blood clots and administration-related reactions were observed with subcutaneous treatment and prophylaxis Fewer than 1% of patients discontinued treatment due to treatment-related events at one year New findings from Johnson & Johnson buil…",
+        "content": "<p>Low rates of rash, blood clots and administration-related reactions were observed with subcutaneous treatment and prophylaxis Fewer than 1% of patients discontinued treatment due to treatment-related events at one year New findings from Johnson & Johnson buil…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS225644/Johnson-and-Johnson-Logo-v1.jpg?id=OA2935698&p=facebook",
+        "date": "Sep 15, 2026",
+        "url": "https://www.prnewswire.com/news-releases/rybrevant-faspro-amivantamab-and-hyaluronidase-lpuj-plus-lazcluze-lazertinib-with-prophylactic-strategies-shows-low-rates-of-treatment-related-events-at-wclc-2026-302878165.html"
+    },
+    {
+        "id": "lp6f0ar8w",
+        "title": "More U.S. Workers Fear Losing Their Jobs to Technology",
+        "excerpt": "The share of workers who worry that technology could make their jobs obsolete has risen seven percentage points in the past year, to 27%.",
+        "content": "<p>The share of workers who worry that technology could make their jobs obsolete has risen seven percentage points in the past year, to 27%.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/5e49318d-1807-438e-86c4-3bb981906054.jpg",
+        "date": "Sep 15, 2026",
+        "url": "https://news.gallup.com/poll/714368/workers-fear-losing-jobs-technology.aspx"
+    },
+    {
+        "id": "c2cowmp8x",
+        "title": "Mudslide at Nepal-China border leaves dozens missing, families cling to hope",
+        "excerpt": "Families of pilgrims and workers stranded after a Himalayan mudslide destroyed a key crossing continue to await news as rescue teams race against time.",
+        "content": "<p>A sudden torrent of mud and rocks swept through a high-altitude border crossing between Nepal and Tibet last month, wiping out the temporary settlement that housed pilgrims, traders and border personnel. The slide struck early in the morning, burying tents and supply routes under debris up to several metres deep. Rescue crews from both countries have been working around the clock, but the rugged terrain and ongoing weather hazards have slowed progress. Officials say the incident underscores the vulnerability of mountain corridors that link South Asia with the Tibetan plateau.</p>\n<p>The crossing, located near the Korala Pass at roughly 4,600 metres above sea level, is a seasonal route used by Hindu and Buddhist pilgrims traveling to Mount Kailash and by local traders moving goods between Nepal and the Tibetan Autonomous Region. It is usually operational only during the summer months when snow melts enough to allow safe passage. In recent years, increased traffic and climate‑related glacial melt have raised concerns about the stability of the slopes above the route. Experts warn that similar events could become more frequent as temperatures rise.</p>\n<p>Among those unaccounted for is Arushi Gupta, a 28‑year‑old Indian national who was part of a pilgrimage group. Her parents, speaking from New Delhi, said they call and message her phone every day, hoping for a sign. \"We keep hoping for a miracle,\" her mother told a local reporter, her voice trembling. Rescue teams have recovered 12 bodies so far, and list 23 people as still missing, including several Nepali guides and Chinese support staff. The Indian Ministry of External Affairs has coordinated with Beijing and Kathmandu to share satellite imagery and deploy additional helicopters.</p>\n<p>The disaster has prompted diplomatic discussions about improving early‑warning systems and reinforcing infrastructure at remote border posts. Nepal’s Home Ministry announced plans to install more rain‑gauges and slope‑monitoring sensors along the corridor, while China pledged to send engineering teams to assess slope stability. Humanitarian organisations have begun distributing blankets, food and medical kits to survivors sheltered in nearby villages. Families of the missing have set up vigils, holding candles and praying for safe returns.</p>\n<p>Looking ahead, authorities will review the adequacy of current evacuation routes and consider constructing permanent shelters that can withstand landslides. Meteorologists are monitoring the monsoon season, which typically brings heavy rains to the region from June to September. The incident serves as a stark reminder of the risks faced by those who traverse the world’s highest trade and pilgrimage routes, and it may influence future policy on cross‑border mountain safety.</p>",
+        "celebrities": [
+            "Arushi Gupta",
+            "Nepal",
+            "China",
+            "Korala Pass",
+            "Times of India"
+        ],
+        "category": "Breaking",
+        "image_url": "https://img.etimg.com/thumb/msid-134250713,width-1200,height-630,imgsize-183648,overlay-economictimes/articleshow.jpg",
+        "date": "Sep 15, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/miracles-do-happen-families-await-news-of-pilgrims-missing-after-nepal-china-flood/articleshow/134250697.cms"
+    },
+    {
+        "id": "rj47jx5d8",
+        "title": "Emmys 2026 – Complete Winners List, Included All Categories from Pre-Show",
+        "excerpt": "The full list of winners for the 2026 Emmy Awards has been announced 19 categories were announced live during the […]\nThe post Emmys 2026 – Complete Winners List, Included All Categories from Pre-Show appeared first on Just Jared - Celebrity News, Entertainme…",
+        "content": "<p>The full list of winners for the 2026 Emmy Awards has been announced 19 categories were announced live during the […]\nThe post Emmys 2026 – Complete Winners List, Included All Categories from Pre-Show appeared first on Just Jared - Celebrity News, Entertainme…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/emmys-full-list-of-presenters.jpg",
+        "date": "Sep 15, 2026",
+        "url": "https://www.justjared.com/2026/09/14/emmys-2026-complete-winners-list-included-all-categories-from-pre-show/"
+    },
+    {
         "id": "m270xlidv",
         "title": "Bigg Boss 20: Hina Khan extends her support to Qazi Touqeer, says he is ‘winning hearts as a Rockstar yet again’",
         "excerpt": "In a heartwarming message, Hina Khan celebrated the journey of fellow Kashmiri Qazi Touqeer on Bigg Boss 20, highlighting her admiration for his intrinsic talent. She emphasized that entertainment can thrive without unnecessary conflict. Although supportive, …",
