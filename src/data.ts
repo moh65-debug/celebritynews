@@ -12,6 +12,121 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "xsyepixej",
+        "title": "“We don’t need any new laws”: Jensen Huang splits with Amodei at Dreamforce",
+        "excerpt": "“We don’t need any new laws. We don’t need new regulations,” Nvidia chief executive Jensen Huang said on Tuesday, on the main stage of Salesforce’s Dreamforce conference in San Francisco. Earlier in the same keynote, Anthropic chief executive Dario Amodei mad…",
+        "content": "<p>“We don’t need any new laws. We don’t need new regulations,” Nvidia chief executive Jensen Huang said on Tuesday, on the main stage of Salesforce’s Dreamforce conference in San Francisco. Earlier in the same keynote, Anthropic chief executive Dario Amodei mad…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://media.thenextweb.com/2026/09/jensen-huang-marc-benioff-handshake-dreamforce-stage.jpg",
+        "date": "Sep 16, 2026",
+        "url": "https://thenextweb.com/news/jensen-huang-dreamforce-no-new-ai-laws-amodei"
+    },
+    {
+        "id": "rse2ctbb7",
+        "title": "‘Big Brother UK’ Contestant Frankie Taber Comes Out as Bisexual in Emotional Diary Room Moment",
+        "excerpt": "A contestant on the current season of Big Brother UK has come out on the show. Frankie Taber, a 23-year-old […]\nThe post ‘Big Brother UK’ Contestant Frankie Taber Comes Out as Bisexual in Emotional Diary Room Moment appeared first on Just Jared - Celebrity Ne…",
+        "content": "<p>A contestant on the current season of Big Brother UK has come out on the show. Frankie Taber, a 23-year-old […]\nThe post ‘Big Brother UK’ Contestant Frankie Taber Comes Out as Bisexual in Emotional Diary Room Moment appeared first on Just Jared - Celebrity Ne…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/frankie-comes-out.jpg",
+        "date": "Sep 16, 2026",
+        "url": "https://www.justjared.com/2026/09/15/big-brother-uk-contestant-frankie-taber-comes-out-as-bisexual-in-emotional-diary-room-moment/"
+    },
+    {
+        "id": "iy9pu01j8",
+        "title": "Meta's Mark Zuckerberg says AI labs have enough incentive to build safely",
+        "excerpt": "Meta Platforms CEO Mark Zuckerberg said on Tuesday that competition and liability give AI companies enough reason to act individually on safety, appearing to break from calls by leaders of top AI firms for a coordinated slowdown in AI development.",
+        "content": "<p>Meta Platforms CEO Mark Zuckerberg said on Tuesday that competition and liability give AI companies enough reason to act individually on safety, appearing to break from calls by leaders of top AI firms for a coordinated slowdown in AI development.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/photo/42031747.cms",
+        "date": "Sep 16, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/metas-mark-zuckerberg-says-ai-labs-have-enough-incentive-to-build-safely/articleshow/134277084.cms"
+    },
+    {
+        "id": "b21fu557p",
+        "title": "Young and improving Watertown tennis team makes final home appearance",
+        "excerpt": "Watertown High School's girls tennis team split duals against Harrisburg and Sioux Falls Roosevelt at the Highland Park courts.",
+        "content": "<p>Watertown High School's girls tennis team split duals against Harrisburg and Sioux Falls Roosevelt at the Highland Park courts.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/e31c68455ea0954aeb98e8e38b045a34bd7698ff5639807c52e85d90d0118186/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwatertown-public-opinion%2Fda78f4a4fde3c6a3202f374a2184edb0.jpg",
+        "date": "Sep 16, 2026",
+        "url": "https://www.thepublicopinion.com/story/sports/2026/09/15/watertown-tennis-update/91587042007/"
+    },
+    {
+        "id": "s3km21e2c",
+        "title": "...",
+        "excerpt": "...",
+        "content": "<p>...</p>\n<p>...</p>\n<p>...</p>\n<p>...</p>\n<p>...</p>",
+        "celebrities": [
+            "Hong Kong",
+            "AlphaTech Partners",
+            "AI",
+            "Data Center"
+        ],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/15225940/library-hong-kong-s-data-center-ambitions-face-slow-start-amid-f-800x450.png",
+        "date": "Sep 16, 2026",
+        "url": "https://cryptobriefing.com/hong-kong-data-center-funding-challenges/"
+    },
+    {
+        "id": "a1xwtl5bz",
+        "title": "Red Sox reliever Justin Slaten is likely done for the season",
+        "excerpt": "Boston Red Sox reliever Justin Slaten likely will miss the rest of the season after being on the injured list the past month because of right elbow inflammation.",
+        "content": "<p>Boston Red Sox reliever Justin Slaten likely will miss the rest of the season after being on the injured list the past month because of right elbow inflammation.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/1b0cbbfc3ea496ac10607113344b3a2daaa5dd402a267d9a80e0abeda50f5e39/lightyear_networkapi/resizefill_w300_h209%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwfxt_cox_articles_703%2F98be967fc5f4571c921f4fb9acfd77fa.jpg",
+        "date": "Sep 16, 2026",
+        "url": "https://sports.yahoo.com/articles/red-sox-reliever-justin-slaten-025137985.html"
+    },
+    {
+        "id": "pwqm203b4",
+        "title": "What’s new in Gutenberg 24.0? (16 September)",
+        "excerpt": "“What’s new in Gutenberg…” posts (labeled with the #gutenberg-new tag) are posted following every Gutenberg release on a biweekly basis, showcasing new features included in each release. As a reminder, here’s an overview of different ways to keep up with Gute…",
+        "content": "<p>“What’s new in Gutenberg…” posts (labeled with the #gutenberg-new tag) are posted following every Gutenberg release on a biweekly basis, showcasing new features included in each release. As a reminder, here’s an overview of different ways to keep up with Gute…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://s.w.org/images/home/wordpress-default-ogimage.png",
+        "date": "Sep 16, 2026",
+        "url": "https://make.wordpress.org/core/2026/09/16/whats-new-in-gutenberg-24-0-16-september/"
+    },
+    {
+        "id": "cpg9ed9ny",
+        "title": "Meta's Zuckerberg says AI labs have enough incentive to build safely",
+        "excerpt": "CALIFORNIA: Meta CEO Mark Zuckerberg said on Tuesday (Sep 15) that competition and liability give AI companies enough reason to act individually on safety, appearing to break from calls by leaders of top AI",
+        "content": "<p>CALIFORNIA: Meta CEO Mark Zuckerberg said on Tuesday (Sep 15) that competition and liability give AI companies enough reason to act individually on safety, appearing to break from calls by leaders of top AI</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--0YsarYTM--/c_crop,h_449,w_799,x_1,y_12/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-16T022928Z_1_LYNXMPEM8F05H_RTROPTP_3_META-PLATFORMS-VIRTUAL-REALITY.JPG?itok=Avoo7LLe",
+        "date": "Sep 16, 2026",
+        "url": "https://www.channelnewsasia.com/world/ai-artificial-intelligence-zuckerberg-meta-6387866"
+    },
+    {
+        "id": "t8v5n03yf",
+        "title": "Democrats vote down crypto’s Clarity Act, citing ethics concerns and Trump’s vast crypto wealth",
+        "excerpt": "A crucial vote on U.S. President Donald Trump’s landmark digital asset legislation, the Clarity Act, resulted in a crushing defeat for the cryptocurrency industry today. Earlier today, the Senate voted 50-49 against passing the Clarity Act, which aimed to reg…",
+        "content": "<p>A crucial vote on U.S. President Donald Trump’s landmark digital asset legislation, the Clarity Act, resulted in a crushing defeat for the cryptocurrency industry today. Earlier today, the Senate voted 50-49 against passing the Clarity Act, which aimed to reg…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/freepik__comic-art-graphic-novel-art-comic-illustration-hig__70356.jpeg",
+        "date": "Sep 16, 2026",
+        "url": "https://siliconangle.com/2026/09/15/democrats-vote-down-cryptos-clarity-act-citing-ethics-concerns-and-trumps-vast-crypto-wealth/"
+    },
+    {
+        "id": "y6k785eqe",
+        "title": "AJ McLean Drops New Song ‘Into Your Heart,’ Announces ‘Sex, Love & Money’ Album",
+        "excerpt": "AJ McLean is kicking off a new era of music! The 48-year-old Backstreet Boys singer, who is releasing solo music […]\nThe post AJ McLean Drops New Song ‘Into Your Heart,’ Announces ‘Sex, Love & Money’ Album appeared first on Just Jared - Celebrity News, Entert…",
+        "content": "<p>AJ McLean is kicking off a new era of music! The 48-year-old Backstreet Boys singer, who is releasing solo music […]\nThe post AJ McLean Drops New Song ‘Into Your Heart,’ Announces ‘Sex, Love & Money’ Album appeared first on Just Jared - Celebrity News, Entert…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/aj-mclean-into-your-heart.png",
+        "date": "Sep 16, 2026",
+        "url": "https://www.justjared.com/2026/09/15/aj-mclean-into-your-heart-new-song-lyrics-sex-love-money-album-announcement/"
+    },
+    {
         "id": "xvo1t2ha4",
         "title": "The Road Ahead: How Creators Are Combining OpenAI's GPT-6 Astra with Tripo AI for 3D Generation",
         "excerpt": "SAN FRANCISCO, Sept. 14, 2026 /PRNewswire/ -- The official release of OpenAI's latest model, GPT-6 Astra, has ushered in a new chapter in the world of generative 3D. By combining Astra with Tripo's 3D-native foundation models, creators are turning ideas into …",
