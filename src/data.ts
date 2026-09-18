@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "2157k2bai",
+        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+        "excerpt": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+        "content": "<p>The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a25/live/9ebbb350-b238-11f1-9f5d-fbda72f7de0b.jpg",
+        "date": "Sep 17, 2026",
+        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o"
+    },
+    {
+        "id": "8e4ts51vz",
+        "title": "Apple's AI ambitions are outgrowing the Mac — Nvidia may hold the key",
+        "excerpt": "Apple is exploring a return to the enterprise server market with an AI inference system built around future M8 Ultra chips, potentially using Nvidia's NVLink Fusion interconnect technology.",
+        "content": "<p>Apple is exploring a return to the enterprise server market with an AI inference system built around future M8 Ultra chips, potentially using Nvidia's NVLink Fusion interconnect technology.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20260917vl209_files/2_b.jpg",
+        "date": "Sep 17, 2026",
+        "url": "https://www.digitimes.com/news/a20260917VL209/apple-nvidia-enterprise-server-ai-inference-market.html"
+    },
+    {
+        "id": "lpg9lvaoe",
+        "title": "Trump-Xi summit: Tariffs, trade imbalance and rare earths loom over US-China talks",
+        "excerpt": "US President Donald Trump will host Chinese President Xi Jinping next week at the White House.  Tariffs, trade imbalances, and technology competition will dominate their important discussions.  Both nations have lowered tariffs, but a complex system still aff…",
+        "content": "<p>US President Donald Trump will host Chinese President Xi Jinping next week at the White House.  Tariffs, trade imbalances, and technology competition will dominate their important discussions.  Both nations have lowered tariffs, but a complex system still aff…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134300465,width-1200,height-630,imgsize-99496,overlay-economictimes/articleshow.jpg",
+        "date": "Sep 17, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-xi-summit-tariffs-trade-imbalance-and-rare-earths-loom-over-us-china-talks/articleshow/134300261.cms"
+    },
+    {
+        "id": "lnx5ogrrx",
+        "title": "Computer Sector Leads Drops in Industry Ratings",
+        "excerpt": "Americans' ratings of the computer industry, farming, electric and gas utilities, and oil and gas have declined, with computers reaching a record low.",
+        "content": "<p>Americans' ratings of the computer industry, farming, electric and gas utilities, and oil and gas have declined, with computers reaching a record low.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/4ddf2e1b-3cbf-4f33-bcab-eabaf6e7342b.jpg",
+        "date": "Sep 17, 2026",
+        "url": "https://news.gallup.com/poll/714548/computer-sector-leads-drops-industry-ratings.aspx"
+    },
+    {
+        "id": "w52yx37oh",
+        "title": "BEYOND Expo Upgrades to BEYOND as Asia’s Most Dynamic Tech Festival, Returning to Macao on 26–29 May 2027",
+        "excerpt": "BEYOND today announced that its flagship annual event will return to The Venetian Macao Cotai Expo from May 26-29, 2027, with a refreshed global identity under the BEYOND brand. Previously known as BEYOND Expo, the move to BEYOND reflects the event’s evolutio…",
+        "content": "<p>BEYOND today announced that its flagship annual event will return to The Venetian Macao Cotai Expo from May 26-29, 2027, with a refreshed global identity under the BEYOND brand. Previously known as BEYOND Expo, the move to BEYOND reflects the event’s evolutio…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://technode.com/wp-content/uploads/2026/09/beyond-2027-cover.png",
+        "date": "Sep 17, 2026",
+        "url": "https://technode.com/2026/09/17/beyond-upgrades-to-beyond-asias-most-dynamic-tech-festival-returning-to-macao-on-26-29-may-2027/"
+    },
+    {
+        "id": "esdtf31mn",
+        "title": "Gene-Silencing Biopesticides Could Transform Australia's $50 Billion Cropping Industry, Researchers Say",
+        "excerpt": "RNAi-based biopesticides are advancing as a targeted alternative to synthetic chemicals, but researchers say field performance, regulatory consistency, manufacturing and public trust will determine their adoption in Australia.",
+        "content": "<p>RNAi-based biopesticides are advancing as a targeted alternative to synthetic chemicals, but researchers say field performance, regulatory consistency, manufacturing and public trust will determine their adoption in Australia.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://d.ibtimes.com.au/en/full/1896288/australia-farming-cropping.jpg",
+        "date": "Sep 17, 2026",
+        "url": "https://www.ibtimes.com.au/rnai-biopesticides-australia-cropping-industry-1875668"
+    },
+    {
+        "id": "dmu4ut944",
+        "title": "J Balvin & Girlfriend Valentina Ferrer Split After Nearly 10 Years Together",
+        "excerpt": "J Balvin and Valentina Ferrer have called it quits. On Wednesday (September 16), the 32-year-old Miss Universe contestant announced that […]\nThe post J Balvin & Girlfriend Valentina Ferrer Split After Nearly 10 Years Together appeared first on Just Jared - Ce…",
+        "content": "<p>J Balvin and Valentina Ferrer have called it quits. On Wednesday (September 16), the 32-year-old Miss Universe contestant announced that […]\nThe post J Balvin & Girlfriend Valentina Ferrer Split After Nearly 10 Years Together appeared first on Just Jared - Ce…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/j-balvin-valentina-ferrer-split.jpg",
+        "date": "Sep 17, 2026",
+        "url": "https://www.justjared.com/2026/09/16/j-balvin-girlfriend-valentina-ferrer-split-after-nearly-10-years-together/"
+    },
+    {
+        "id": "g8n430fx7",
+        "title": "Hidden “immune organ” in the skull may help fight brain cancer",
+        "excerpt": "Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that tar…",
+        "content": "<p>Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that tar…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/human-brain-neural-connections-and-electrical-pulses-close.webp",
+        "date": "Sep 17, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm"
+    },
+    {
+        "id": "wrrsi2i23",
+        "title": "Cavan Sullivan represents potential generational shift for USMNT as next World Cup cycle nears",
+        "excerpt": "When the 2030 World Cup rolls around, U.S. men’s national team head coach Mauricio Pochettino will have had a full cycle to figure out his roster.",
+        "content": "<p>When the 2030 World Cup rolls around, U.S. men’s national team head coach Mauricio Pochettino will have had a full cycle to figure out his roster.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-887777rdt-1789611371415.jpg?quality=75&strip=all&1789596999&w=1200",
+        "date": "Sep 17, 2026",
+        "url": "https://nypost.com/2026/09/16/sports/cavan-sullivan-represents-a-potential-generational-shift-for-usmnt/"
+    },
+    {
+        "id": "p8kdb3v8m",
+        "title": "Gastech 2026: Nigeria’s gas future in the new equation of energy security, capital and prosperity",
+        "excerpt": "By Kunle Odusola-Stevenson With an audience expected to exceed 50,000 and more than 800 exhibiting companies from across the global energy value chain, Gastech 2026 has made Bangkok a meeting point for the forces reshaping the energy economy: supply security,…",
+        "content": "<p>By Kunle Odusola-Stevenson With an audience expected to exceed 50,000 and more than 800 exhibiting companies from across the global energy value chain, Gastech 2026 has made Bangkok a meeting point for the forces reshaping the energy economy: supply security,…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/viewpoint-e1789268889242.jpg",
+        "date": "Sep 17, 2026",
+        "url": "https://www.vanguardngr.com/2026/09/gastech-2026-nigerias-gas-future-in-the-new-equation-of-energy-security-capital-and-prosperity/"
+    },
+    {
         "id": "xsyepixej",
         "title": "“We don’t need any new laws”: Jensen Huang splits with Amodei at Dreamforce",
         "excerpt": "“We don’t need any new laws. We don’t need new regulations,” Nvidia chief executive Jensen Huang said on Tuesday, on the main stage of Salesforce’s Dreamforce conference in San Francisco. Earlier in the same keynote, Anthropic chief executive Dario Amodei mad…",
