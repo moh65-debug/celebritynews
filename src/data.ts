@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "jhs35qwsz",
+        "title": "Nabfid sanctions Rs 3,000 crore-plus loans to at least four data centres as AI capex accelerates in India",
+        "excerpt": "Nabfid is sanctioning significant loans for India's growing data center infrastructure needs.  These facilities support the nation's push for artificial intelligence and cloud computing capacity.  The lender anticipates continued strong demand from hyperscale…",
+        "content": "<p>Nabfid is sanctioning significant loans for India's growing data center infrastructure needs.  These facilities support the nation's push for artificial intelligence and cloud computing capacity.  The lender anticipates continued strong demand from hyperscale…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134324655,width-1200,height-630,imgsize-335714,overlay-economictimes/articleshow.jpg",
+        "date": "Sep 18, 2026",
+        "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/nabfid-sanctions-rs-3000-crore-plus-loans-to-at-least-four-data-centres-as-ai-capex-accelerates-in-india/articleshow/134324527.cms"
+    },
+    {
+        "id": "97oxsraw5",
+        "title": "Chinese AI not powerful enough to see rogue-AI risks, says Huawei",
+        "excerpt": "Some Chinese commentators have portrayed proposals to \"pace\" frontier AI development as an attempt to constrain rivals that remain behind leading U.S. labs, rather than simply as a response to safety concerns.",
+        "content": "<p>Some Chinese commentators have portrayed proposals to \"pace\" frontier AI development as an attempt to constrain rivals that remain behind leading U.S. labs, rather than simply as a response to safety concerns.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-124392,resizemode-75,msid-134324675/tech/artificial-intelligence/chinese-ai-not-powerful-enough-to-see-rogue-ai-risks-says-huawei.jpg",
+        "date": "Sep 18, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-ai-not-powerful-enough-to-see-rogue-ai-risks-says-huawei/articleshow/134324675.cms"
+    },
+    {
+        "id": "qeocio9no",
+        "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+        "excerpt": "Article URL: https://linguisticdiscovery.com/posts/pre-greek/\nComments URL: https://news.ycombinator.com/item?id=49749771\nPoints: 3\n# Comments: 0",
+        "content": "<p>Article URL: https://linguisticdiscovery.com/posts/pre-greek/\nComments URL: https://news.ycombinator.com/item?id=49749771\nPoints: 3\n# Comments: 0</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://storage.ghost.io/c/c7/75/c775a216-7ca2-4c5f-96a7-f2defe0fd756/content/images/size/w1200/2026/09/map--3840x2160---1-.png",
+        "date": "Sep 18, 2026",
+        "url": "https://linguisticdiscovery.com/posts/pre-greek/"
+    },
+    {
+        "id": "mbqsc10fc",
+        "title": "Wipro launches STO360 solution to streamline outage management",
+        "excerpt": "Wipro announced the launch of Wipro STO360, a solution designed to help asset-intensive organisations modernise and efficiently manage shutdown, turnaround and outage (STO) activities.",
+        "content": "<p>Wipro announced the launch of Wipro STO360, a solution designed to help asset-intensive organisations modernise and efficiently manage shutdown, turnaround and outage (STO) activities.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+        "date": "Sep 18, 2026",
+        "url": "https://www.business-standard.com/markets/capital-market-news/wipro-launches-sto360-solution-to-streamline-outage-management-126091800119_1.html"
+    },
+    {
+        "id": "vdl659quf",
+        "title": "Pessimism Reigns Over AI and Jobs, Pew Poll Finds",
+        "excerpt": "Across a 37-country median, 46% of people predict AI will eliminate more jobs than it creates. Just nine percent said AI will fuel job creation.",
+        "content": "<p>Across a 37-country median, 46% of people predict AI will eliminate more jobs than it creates. Just nine percent said AI will fuel job creation.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+        "date": "Sep 18, 2026",
+        "url": "https://gizmodo.com/pessimism-reigns-over-ai-and-jobs-pew-poll-finds-2000813685"
+    },
+    {
+        "id": "fm9pblcp0",
+        "title": "OpenAI launches legal-focused AI platform, escalating race for law firm users",
+        "excerpt": "OpenAI on Thursday released a legal industry-focused version of its latest AI technology, GPT-6 Astra, that it said is designed to help law firms and legal software",
+        "content": "<p>OpenAI on Thursday released a legal industry-focused version of its latest AI technology, GPT-6 Astra, that it said is designed to help law firms and legal software</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-46330,resizemode-75,msid-134324330/tech/artificial-intelligence/openai-launches-legal-focused-ai-platform-escalating-race-for-law-firm-users.jpg",
+        "date": "Sep 18, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-legal-focused-ai-platform-escalating-race-for-law-firm-users/articleshow/134324330.cms"
+    },
+    {
+        "id": "w806vne80",
+        "title": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue",
+        "excerpt": "OpenAI and its largest financial backer, Microsoft, have argued in the Manhattan federal court case that their AI training on millions of newspaper articles is protected as fair use because it transforms copyrighted material into new content and does not comp…",
+        "content": "<p>OpenAI and its largest financial backer, Microsoft, have argued in the Manhattan federal court case that their AI training on millions of newspaper articles is protected as fair use because it transforms copyrighted material into new content and does not comp…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-5760,resizemode-75,msid-134324289/tech/artificial-intelligence/openai-microsoft-executives-quotes-on-ai-training-threaten-copyright-defense-news-outlets-argue.jpg",
+        "date": "Sep 18, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-microsoft-executives-quotes-on-ai-training-threaten-copyright-defense-news-outlets-argue/articleshow/134324289.cms"
+    },
+    {
+        "id": "bf89odozy",
+        "title": "Ms. Rachel Matches Macklemore’s $1 Million Donation to Palestinian Relief",
+        "excerpt": "Ms. Rachel promises to match Macklemore’s donation of $1 million towards Palestine by giving the money to Palestine Children’s Relief Fund.",
+        "content": "<p>Ms. Rachel promises to match Macklemore’s donation of $1 million towards Palestine by giving the money to Palestine Children’s Relief Fund.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://pyxis.nymag.com/v1/imgs/f8e/5ad/9b87d68e017db976177329be48f9613250-ms-rachel.1x.rsocial.w1200.jpg",
+        "date": "Sep 18, 2026",
+        "url": "http://www.vulture.com/article/ms-rachel-macklemore-palestine-donation.html"
+    },
+    {
+        "id": "cbkz6b17w",
+        "title": "Will Nifty, Bank Nifty reverse the downtrend? Here's what tech analysts say",
+        "excerpt": "Pabitro Mukherjee of Bajaj Broking says that the Nifty is showing signs of a pullback after forming higher highs and higher lows on Thursday, and adds that the key hurdle stands at 23,600 levels.",
+        "content": "<p>Pabitro Mukherjee of Bajaj Broking says that the Nifty is showing signs of a pullback after forming higher highs and higher lows on Thursday, and adds that the key hurdle stands at 23,600 levels.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/22/thumb/fitandfill/1200X628/1771780934-9578.jpg",
+        "date": "Sep 18, 2026",
+        "url": "https://www.business-standard.com/markets/news/will-nifty-bank-nifty-reverse-the-downtrend-here-s-what-tech-analysts-say-126091800112_1.html"
+    },
+    {
+        "id": "oo91iiyax",
+        "title": "What Happened to Nicole Scherzinger? Rep Explains Why She Missed ‘Buttons’ Performance During Pussycat Dolls Show in Warsaw",
+        "excerpt": "There was a mishap during the Pussycat Dolls‘ concert in Warsaw, Poland and a rep for the band is explaining […]\nThe post What Happened to Nicole Scherzinger? Rep Explains Why She Missed ‘Buttons’ Performance During Pussycat Dolls Show in Warsaw appeared firs…",
+        "content": "<p>There was a mishap during the Pussycat Dolls‘ concert in Warsaw, Poland and a rep for the band is explaining […]\nThe post What Happened to Nicole Scherzinger? Rep Explains Why She Missed ‘Buttons’ Performance During Pussycat Dolls Show in Warsaw appeared firs…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/nicole-scherzinger-misses-buttons.jpg",
+        "date": "Sep 18, 2026",
+        "url": "https://www.justjared.com/2026/09/17/what-happened-to-nicole-scherzinger-rep-explains-why-she-missed-buttons-performance-during-pussycat-dolls-show-in-warsaw/"
+    },
+    {
         "id": "2157k2bai",
         "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
         "excerpt": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
