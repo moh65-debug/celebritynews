@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "0neo0fimj",
+        "title": "Miami football news: Darian Mensah whips out archer celly",
+        "excerpt": "Miami quarterback Darian Mensah is already giving Hurricanes fans plenty of moments to remember , thanks to both his skills and his personality. Mensah recently added to his list of highlights by celebrating a touchdown pass with an archer-inspired move . Aft…",
+        "content": "<p>Miami quarterback Darian Mensah is already giving Hurricanes fans plenty of moments to remember , thanks to both his skills and his personality. Mensah recently added to his list of highlights by celebrating a touchdown pass with an archer-inspired move . Aft…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/c5045ca37e8a9d4928daf1cc31573c07d8d68c76f5d99d4ccb8c55c2604bc8af/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F34abba3e472204a19c2a0aaf648bb154.jpg",
+        "date": "Sep 19, 2026",
+        "url": "https://clutchpoints.com/ncaa-football/miami-football-darian-mensah-archer-celebration-touchdown-pass"
+    },
+    {
+        "id": "r836jwfij",
+        "title": "The Angry Birds Movie 3: New Poster Is Teasing \"Resident Eagle\"",
+        "excerpt": "Paramount Pictures has continued the parody poster thing for The Angry Birds Movie 3, which is still so weird. However, unlike the last two, which didn't make up new movies and instead just put the birds in place of established characters, this new one is tea…",
+        "content": "<p>Paramount Pictures has continued the parody poster thing for The Angry Birds Movie 3, which is still so weird. However, unlike the last two, which didn't make up new movies and instead just put the birds in place of established characters, this new one is tea…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/06/the-angry-birds-3-feature-image-2000x1125.jpg",
+        "date": "Sep 19, 2026",
+        "url": "https://bleedingcool.com/movies/the-angry-birds-movie-3-new-poster-is-teasing-resident-eagle/"
+    },
+    {
+        "id": "lz6skmbiu",
+        "title": "Vicky Krieps Explains Why She Spit on Charlie Hunnam While Filming ‘Monster: The Lizzie Borden Story’",
+        "excerpt": "Vicky Krieps had a wild moment on the set of Monster: The Lizzie Borden Story that involved her spitting on […]\nThe post Vicky Krieps Explains Why She Spit on Charlie Hunnam While Filming ‘Monster: The Lizzie Borden Story’ appeared first on Just Jared - Celeb…",
+        "content": "<p>Vicky Krieps had a wild moment on the set of Monster: The Lizzie Borden Story that involved her spitting on […]\nThe post Vicky Krieps Explains Why She Spit on Charlie Hunnam While Filming ‘Monster: The Lizzie Borden Story’ appeared first on Just Jared - Celeb…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/vicky-krieps-charlie-hunnam-monster-lizzie-borden.jpg",
+        "date": "Sep 19, 2026",
+        "url": "https://www.justjared.com/2026/09/18/vicky-krieps-explains-why-she-spit-on-charlie-hunnam-while-filming-monster-the-lizzie-borden-story/"
+    },
+    {
+        "id": "dj65rd8sv",
+        "title": "Beacon Acquires Haize Labs to Power AI for the Real Economy",
+        "excerpt": "-Beacon Software (Beacon), the first centralized AI holding company, today announced that it has acquired Haize Labs, an AI reliability company that tests and ...",
+        "content": "<p>-Beacon Software (Beacon), the first centralized AI holding company, today announced that it has acquired Haize Labs, an AI reliability company that tests and ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2020/03/23/Logo-BusinessWire-800x600.jpg",
+        "date": "Sep 19, 2026",
+        "url": "https://en.antaranews.com/news/431940/beacon-acquires-haize-labs-to-power-ai-for-the-real-economy"
+    },
+    {
+        "id": "wj68k3q2p",
+        "title": "Mountain lion caught on camera evading capture in San Francisco before being tranquilized, released",
+        "excerpt": "A mountain lion was tranquilized in San Francisco's Sunset District after evading capture for hours. It was later released back into the wild.",
+        "content": "<p>A mountain lion was tranquilized in San Francisco's Sunset District after evading capture for hours. It was later released back into the wild.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/mountian-lion-evading-capture-in-sf.jpg",
+        "date": "Sep 19, 2026",
+        "url": "https://www.foxnews.com/lifestyle/mountain-lion-caught-camera-evading-capture-san-francisco-tranquilized-released"
+    },
+    {
+        "id": "jyeuxkkne",
+        "title": "India globally competitive in chips: Ashwini Vaishnaw",
+        "excerpt": "Speaking to the press on the sidelines of the annual Semicon India Summit 2026 in the capital, Vaishnaw said the growth of the ecosystem in India has given the government confidence that more than 100,000 new jobs will easily be created in the semiconductor i…",
+        "content": "<p>Speaking to the press on the sidelines of the annual Semicon India Summit 2026 in the capital, Vaishnaw said the growth of the ecosystem in India has given the government confidence that more than 100,000 new jobs will easily be created in the semiconductor i…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-189120,resizemode-75,msid-134346379/tech/technology/india-globally-competitive-in-chips-ashwini-vaishnaw.jpg",
+        "date": "Sep 19, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/india-globally-competitive-in-chips-ashwini-vaishnaw/articleshow/134346379.cms"
+    },
+    {
+        "id": "p4ghua11a",
+        "title": "Madonna & Charli xcx Announce ‘Danceteria Afterhours’ Collaboration",
+        "excerpt": "Madonna and Charli xcx are teaming up for a new project! They will collaborate on “Danceteria (Afterhours),” a new remix […]\nThe post Madonna & Charli xcx Announce ‘Danceteria Afterhours’ Collaboration appeared first on Just Jared - Celebrity News, Entertainm…",
+        "content": "<p>Madonna and Charli xcx are teaming up for a new project! They will collaborate on “Danceteria (Afterhours),” a new remix […]\nThe post Madonna & Charli xcx Announce ‘Danceteria Afterhours’ Collaboration appeared first on Just Jared - Celebrity News, Entertainm…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/madonna-charli-xcx-collaboration.jpg",
+        "date": "Sep 19, 2026",
+        "url": "https://www.justjared.com/2026/09/18/madonna-charli-xcx-announce-danceteria-afterhours-collaboration/"
+    },
+    {
+        "id": "d9ge6oysu",
+        "title": "Building Better Business Relationships in the Age of AI",
+        "excerpt": "Discover how “blind blaming” keeps entrepreneurs stuck and learn the RCD method to identify root problems, improve decision-making, and drive real business growth.",
+        "content": "<p>Discover how “blind blaming” keeps entrepreneurs stuck and learn the RCD method to identify root problems, improve decision-making, and drive real business growth.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://ducttapemarketing.com/wp-content/uploads/2026/09/Podcast-Main-Pics-13-1024x576.png",
+        "date": "Sep 19, 2026",
+        "url": "https://ducttapemarketing.com/building-better-business-relationships-in-the-age-of-ai/"
+    },
+    {
+        "id": "1s20t32v1",
+        "title": "Ruby Rose Says She & Hayden Panettiere Spoke Every Day for Five Years",
+        "excerpt": "Ruby Rose is opening up about her friendship with actress Hayden Panettiere, who passed away in South Carolina on August […]\nThe post Ruby Rose Says She & Hayden Panettiere Spoke Every Day for Five Years appeared first on Just Jared - Celebrity News, Entertai…",
+        "content": "<p>Ruby Rose is opening up about her friendship with actress Hayden Panettiere, who passed away in South Carolina on August […]\nThe post Ruby Rose Says She & Hayden Panettiere Spoke Every Day for Five Years appeared first on Just Jared - Celebrity News, Entertai…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/ruby-rose-hayden-panettiere.jpg",
+        "date": "Sep 19, 2026",
+        "url": "https://www.justjared.com/2026/09/18/ruby-rose-says-she-hayden-panettiere-spoke-every-day-for-five-years/"
+    },
+    {
+        "id": "744bgbc29",
+        "title": "What happens to your brain after 50?",
+        "excerpt": "By Sola Ogundipe It starts innocently. A name refuses to come. You walk into a room and forget why you’re there. Your phone is in your hand, yet you spend several minutes looking for it. An old friend’s face is familiar, but the name just won’t come. “It’s ol…",
+        "content": "<p>By Sola Ogundipe It starts innocently. A name refuses to come. You walk into a room and forget why you’re there. Your phone is in your hand, yet you spend several minutes looking for it. An old friend’s face is familiar, but the name just won’t come. “It’s ol…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/Brain.png",
+        "date": "Sep 19, 2026",
+        "url": "https://www.vanguardngr.com/2026/09/what-happens-to-your-brain-after-50/"
+    },
+    {
         "id": "jhs35qwsz",
         "title": "Nabfid sanctions Rs 3,000 crore-plus loans to at least four data centres as AI capex accelerates in India",
         "excerpt": "Nabfid is sanctioning significant loans for India's growing data center infrastructure needs.  These facilities support the nation's push for artificial intelligence and cloud computing capacity.  The lender anticipates continued strong demand from hyperscale…",
