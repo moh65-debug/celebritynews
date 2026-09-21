@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "6p6p1g9tm",
+        "title": "DUO POWER BOOST: Clivet Debuts Next-Gen Magnetic Levitation Technology and AI Cooling Portfolio at AI Infra Summit 2026",
+        "excerpt": "SANTA CLARA, Calif., Sept. 19, 2026 /PRNewswire/ -- Under the DUO POWER BOOST theme, Clivet made the global debut of its Next-Gen Magnetic Levitation Technology at AI Infra Summit 2026 in Santa Clara, California. The company also presented a portfolio of cool…",
+        "content": "<p>SANTA CLARA, Calif., Sept. 19, 2026 /PRNewswire/ -- Under the DUO POWER BOOST theme, Clivet made the global debut of its Next-Gen Magnetic Levitation Technology at AI Infra Summit 2026 in Santa Clara, California. The company also presented a portfolio of cool…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1992052/20260919223107EDT_image_2.jpg?id=OA2958951&p=facebook",
+        "date": "Sep 20, 2026",
+        "url": "https://www.prnewswire.com/news-releases/duo-power-boost-clivet-debuts-next-gen-magnetic-levitation-technology-and-ai-cooling-portfolio-at-ai-infra-summit-2026-302883902.html"
+    },
+    {
+        "id": "bsnxqylot",
+        "title": "AI ‘warning shots’ focus Beijing on national security risks",
+        "excerpt": "\"There are more similarities than differences when it comes to AI safety issues\" in China and the United States, said Kevin Xu, founder of US-based technology hedge fund Interconnected Capital.\nThe post AI ‘warning shots’ focus Beijing on national security ri…",
+        "content": "<p>\"There are more similarities than differences when it comes to AI safety issues\" in China and the United States, said Kevin Xu, founder of US-based technology hedge fund Interconnected Capital.\nThe post AI ‘warning shots’ focus Beijing on national security ri…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/09/f1db56ff4b5d88984ba4d91f722bf4f42855a2c2.jpg",
+        "date": "Sep 20, 2026",
+        "url": "https://www.digitaljournal.com/article/ai-warning-shots-focus-beijing-on-national-security-risks/"
+    },
+    {
+        "id": "y3cnkd3qp",
+        "title": "Sharon Stone Appears to Shade Sydney Sweeney’s Lingerie Brand With Pointed ‘Euphoria’ Joke",
+        "excerpt": "Sharon Stone is making a dig at her former Euphoria co-star Sydney Sweeney‘s new lingerie line. The Basic Instinct star […]\nThe post Sharon Stone Appears to Shade Sydney Sweeney’s Lingerie Brand With Pointed ‘Euphoria’ Joke appeared first on Just Jared - Cele…",
+        "content": "<p>Sharon Stone is making a dig at her former Euphoria co-star Sydney Sweeney‘s new lingerie line. The Basic Instinct star […]\nThe post Sharon Stone Appears to Shade Sydney Sweeney’s Lingerie Brand With Pointed ‘Euphoria’ Joke appeared first on Just Jared - Cele…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/sharon-stone-sydney-sweeney-shade.jpg",
+        "date": "Sep 20, 2026",
+        "url": "https://www.justjared.com/2026/09/19/sharon-stone-appears-to-shade-sydney-sweeneys-lingerie-brand-with-pointed-euphoria-joke/"
+    },
+    {
+        "id": "z0iqep5ky",
+        "title": "Sunil Grover’s Rs 2.5 crore Mumbai home features unique dining area at entrance, black piano separating dining and living spaces, Moroccan-tiled kitchen, reading nook filled with books and scripts and upstairs soundproof TV room",
+        "excerpt": "Sunil Grover house tour: Comedian's Mumbai home showcases a warm and artistic personal style. Rustic interiors and vibrant furniture fill the space with city views. The dining area greets visitors first, featuring a wooden table and balcony access. A colorful…",
+        "content": "<p>Sunil Grover house tour: Comedian's Mumbai home showcases a warm and artistic personal style. Rustic interiors and vibrant furniture fill the space with city views. The dining area greets visitors first, featuring a wooden table and balcony access. A colorful…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://img.etimg.com/thumb/msid-134362894,width-1200,height-630,imgsize-94528,overlay-economictimes/articleshow.jpg",
+        "date": "Sep 20, 2026",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/sunil-grovers-rs-2-5-crore-mumbai-home-features-unique-dining-area-at-entrance-black-piano-separating-dining-and-living-spaces-moroccan-tiled-kitchen-reading-nook-filled-with-books-and-scripts-and-upstairs-soundproof-tv-room/articleshow/134362870.cms"
+    },
+    {
+        "id": "0b5bauvwo",
+        "title": "Trump calls to rename artificial intelligence after whistleblower says new tech could destroy humanity",
+        "excerpt": "It follows Trump's lengthy rant on Saturday afternoon, likening concerns surrounding the environmental impact of data centers to climate change and a slew of other hot-button issues.",
+        "content": "<p>It follows Trump's lengthy rant on Saturday afternoon, likening concerns surrounding the environmental impact of data centers to climate change and a slew of other hot-button issues.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/09/20/03/111354635-0-image-a-15_1789870542428.jpg",
+        "date": "Sep 20, 2026",
+        "url": "https://www.dailymail.com/news/article-16145395/Donald-Trump-rename-artificial-intelligence.html"
+    },
+    {
+        "id": "7mf4orq7f",
+        "title": "Frankie Muniz Reunites with Ex-Wife Paige Price for Son’s Soccer Game After ‘Rock Bottom’ Comments",
+        "excerpt": "Frankie Muniz reunited with his ex-wife, Paige Price, over the weekend. The 40-year-old actor and racecar driver took to social […]\nThe post Frankie Muniz Reunites with Ex-Wife Paige Price for Son’s Soccer Game After ‘Rock Bottom’ Comments appeared first on J…",
+        "content": "<p>Frankie Muniz reunited with his ex-wife, Paige Price, over the weekend. The 40-year-old actor and racecar driver took to social […]\nThe post Frankie Muniz Reunites with Ex-Wife Paige Price for Son’s Soccer Game After ‘Rock Bottom’ Comments appeared first on J…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/frankie-reunites.jpg",
+        "date": "Sep 20, 2026",
+        "url": "https://www.justjared.com/2026/09/19/frankie-muniz-reunites-with-ex-wife-paige-price-for-sons-soccer-game-after-rock-bottom-comments/"
+    },
+    {
+        "id": "tuz3hvlu0",
+        "title": "RHOSLC’s Angie Katsanevas Opens Up About Split From Husband Shawn Trujillo, Reveals Why She Didn’t Think It Would Ever Happen",
+        "excerpt": "Angie Katsanevas is speaking out about her split from her longtime husband, Shawn Trujillo. The 52-year-old Real Housewives of Salt […]\nThe post RHOSLC’s Angie Katsanevas Opens Up About Split From Husband Shawn Trujillo, Reveals Why She Didn’t Think It Would …",
+        "content": "<p>Angie Katsanevas is speaking out about her split from her longtime husband, Shawn Trujillo. The 52-year-old Real Housewives of Salt […]\nThe post RHOSLC’s Angie Katsanevas Opens Up About Split From Husband Shawn Trujillo, Reveals Why She Didn’t Think It Would …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/angie-divorce.jpg",
+        "date": "Sep 20, 2026",
+        "url": "https://www.justjared.com/2026/09/19/rhoslcs-angie-katsanevas-opens-up-about-split-from-husband-shawn-trujillo-reveals-why-she-didnt-think-it-would-ever-happen/"
+    },
+    {
+        "id": "f8rw2jh65",
+        "title": "NASCAR Cup Series Driver Steals the Show With Dolly Parton Tribute at Bristol",
+        "excerpt": "One NASCAR Cup Series driver fully embraced Bristol's Dolly Parton celebration, arriving at driver introductions wearing an unmistakable platinum-blonde wig.",
+        "content": "<p>One NASCAR Cup Series driver fully embraced Bristol's Dolly Parton celebration, arriving at driver introductions wearing an unmistakable platinum-blonde wig.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/9a3a397c4f07687b8327744ba251527209c34a2430c14c664731ac5f0addae66/lightyear_networkapi/resizefill_w768_h433%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotorbiscuit_articles_333%2F7bb86b0b3f86731c4fc3dfe7d8a3ea34.jpg",
+        "date": "Sep 20, 2026",
+        "url": "https://www.motorbiscuit.com/nascar-driver-dolly-parton-tribute-bristol/"
+    },
+    {
+        "id": "0i5q38uhl",
+        "title": "Win the AI Race. Then Face What Comes Next.",
+        "excerpt": "In the long term, we should not let the fear of human obsolescence deter our pursuit of technological supremacy. By winning the AI race at full throttle, we secure our nation. \nThe post Win the AI Race. Then Face What Comes Next. appeared first on Watts Up Wi…",
+        "content": "<p>In the long term, we should not let the fear of human obsolescence deter our pursuit of technological supremacy. By winning the AI race at full throttle, we secure our nation. \nThe post Win the AI Race. Then Face What Comes Next. appeared first on Watts Up Wi…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/03/Laptop_with_many_charts_on_screen_on_cluttered_desk.webp?fit=1024%2C512&quality=75&ssl=1",
+        "date": "Sep 20, 2026",
+        "url": "https://wattsupwiththat.com/2026/09/19/win-the-ai-race-then-face-what-comes-next/"
+    },
+    {
+        "id": "2czo4s9pq",
+        "title": "Inquiry may pave the way for clean up at City of Perth",
+        "excerpt": "The first inquiry by Western Australia's new Local Government Inspector into the City of Perth may be the last one the problem-plagued council will need to get back on track.",
+        "content": "<p>The first inquiry by Western Australia's new Local Government Inspector into the City of Perth may be the last one the problem-plagued council will need to get back on track.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/0abcba0191dc4f2dd206384af61c7d9c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "date": "Sep 20, 2026",
+        "url": "https://www.abc.net.au/news/2026-09-20/inquiry-city-perth-dysfunction/107155594"
+    },
+    {
         "id": "0neo0fimj",
         "title": "Miami football news: Darian Mensah whips out archer celly",
         "excerpt": "Miami quarterback Darian Mensah is already giving Hurricanes fans plenty of moments to remember , thanks to both his skills and his personality. Mensah recently added to his list of highlights by celebrating a touchdown pass with an archer-inspired move . Aft…",
