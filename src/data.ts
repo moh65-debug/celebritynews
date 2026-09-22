@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "4uf5js5ua",
+        "title": "10 Best Project Hail Mary Quotes That Are Already Iconic Sci-Fi Movie Lines",
+        "excerpt": "Project Hail Mary is easily one of the best movie releases of the year, featuring a collection of truly great lines that have already become iconic.",
+        "content": "<p>Project Hail Mary is easily one of the best movie releases of the year, featuring a collection of truly great lines that have already become iconic.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/ryan-gosling-looking-at-something-in-project-hail-mary.jpg?w=1600&h=900&fit=crop",
+        "date": "Sep 21, 2026",
+        "url": "https://screenrant.com/project-hail-mary-movie-best-quotes/"
+    },
+    {
+        "id": "9gv2ws7df",
+        "title": "Call of Duty: Modern Warfare 4 Drops a Pair Of Narrative Trailers",
+        "excerpt": "Activision dropped a couple of trailers this week that tie into the narrative of Call of Duty: Modern Warfare 4 ahead of the game's October 23 launch. A good chunk of the promotion for this game has focused on the gameplay, multiplayer, and all the new elemen…",
+        "content": "<p>Activision dropped a couple of trailers this week that tie into the narrative of Call of Duty: Modern Warfare 4 ahead of the game's October 23 launch. A good chunk of the promotion for this game has focused on the gameplay, multiplayer, and all the new elemen…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/05/Call-of-Duty-Modern-Warfare-4-Single-Player-Screenshots-9-2000x1125.jpg",
+        "date": "Sep 21, 2026",
+        "url": "https://bleedingcool.com/games/call-of-duty-modern-warfare-4-drops-a-pair-of-narrative-trailers/"
+    },
+    {
+        "id": "ousipg7jc",
+        "title": "ETMarkets Smart Talk | From Anthropic to SpaceX: Mehul Vora on AI valuations, IPO hype and investor risks",
+        "excerpt": "The excitement around AI and high-profile IPOs is undeniable—but the bigger question is whether valuations are being driven by current business economics or expectations of what these companies could become five or ten years from now.",
+        "content": "<p>The excitement around AI and high-profile IPOs is undeniable—but the bigger question is whether valuations are being driven by current business economics or expectations of what these companies could become five or ten years from now.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134378877,width-1200,height-630,imgsize-178365,overlay-etmarkets/articleshow.jpg",
+        "date": "Sep 21, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-smart-talk-from-anthropic-to-spacex-mehul-vora-on-ai-valuations-ipo-hype-and-investor-risks/articleshow/134378808.cms"
+    },
+    {
+        "id": "qh266e4q9",
+        "title": "Iran and U.S. exchange fresh warnings as Saudi-Houthi conflict escalates",
+        "excerpt": "Flames and large plume of black smoke seen rising near Riyadh airport - Reuters\r\n\nAs world leaders prepare to gather in New York for the United Nations General Assembly (UNGA) this week, a growing number of flashpoints across the Middle East are raising conce…",
+        "content": "<p>Flames and large plume of black smoke seen rising near Riyadh airport - Reuters\r\n\nAs world leaders prepare to gather in New York for the United Nations General Assembly (UNGA) this week, a growing number of flashpoints across the Middle East are raising conce…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap26255412712674.jpg?c=16x9&q=w_800,c_fill",
+        "date": "Sep 21, 2026",
+        "url": "https://www.cnn.com/2026/09/20/middleeast/mideast-tensions-un-general-assembly-heres-what-to-know"
+    },
+    {
+        "id": "6u0l20q78",
+        "title": "Agrograde working on AI-powered sorting, grading machines for tomato, garlic",
+        "excerpt": "The Pune-based agri-robotics firm is already providing such services for onions, potatoes, apples and arecanuts, says its founder and CEO Kshitij Thakur",
+        "content": "<p>The Pune-based agri-robotics firm is already providing such services for onions, potatoes, apples and arecanuts, says its founder and CEO Kshitij Thakur</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/economy/agri-business/n1limj/article71489001.ece/alternates/LANDSCAPE_1200/AI%20powered%20Arecanut%20Sorting%20Machine%20Agrograde.jpg.jpeg",
+        "date": "Sep 21, 2026",
+        "url": "https://www.thehindubusinessline.com/economy/agri-business/agrograde-working-on-ai-powered-sorting-grading-machines-for-tomato-garlic/article71488997.ece"
+    },
+    {
+        "id": "r859yv3qd",
+        "title": "15 High-Protein Snacks for Young Athletes",
+        "excerpt": "15 High-Protein Snacks for Young Athletes\nBetween school, practices, games, tournaments, and everything in between, young athletes can work up some serious appetites. And when kids are constantly on the move, having the right snacks ready can make a big diffe…",
+        "content": "<p>15 High-Protein Snacks for Young Athletes\nBetween school, practices, games, tournaments, and everything in between, young athletes can work up some serious appetites. And when kids are constantly on the move, having the right snacks ready can make a big diffe…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://www.superhealthykids.com/wp-content/uploads/2026/09/Screenshot-2026-09-20-at-9.00.36-PM.png",
+        "date": "Sep 21, 2026",
+        "url": "https://www.superhealthykids.com/15-high-protein-snacks-for-young-athletes/"
+    },
+    {
+        "id": "dl4d9y4we",
+        "title": "Presley Gerber Dies at 27: Cindy Crawford’s Son Passed Away at Rehab Facility",
+        "excerpt": "Presley Gerber has passed away at 27. The son of Cindy Crawford and Rande Gerber was reportedly at a rehab […]\nThe post Presley Gerber Dies at 27: Cindy Crawford’s Son Passed Away at Rehab Facility appeared first on Just Jared - Celebrity News, Entertainment …",
+        "content": "<p>Presley Gerber has passed away at 27. The son of Cindy Crawford and Rande Gerber was reportedly at a rehab […]\nThe post Presley Gerber Dies at 27: Cindy Crawford’s Son Passed Away at Rehab Facility appeared first on Just Jared - Celebrity News, Entertainment …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/presley-gerber-dead.jpg",
+        "date": "Sep 21, 2026",
+        "url": "https://www.justjared.com/2026/09/20/presley-gerber-dies-at-27-cindy-crawfords-son-passed-away-at-rehab-facility/"
+    },
+    {
+        "id": "mirpbq5sd",
+        "title": "Younger Australians face a harder path to wealth, report shows",
+        "excerpt": "Younger Australians are better educated and likely to live and work longer, but are missing some of the early income and wealth gains enjoyed by previous generations, according to a new report.",
+        "content": "<p>Younger Australians are better educated and likely to live and work longer, but are missing some of the early income and wealth gains enjoyed by previous generations, according to a new report.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/c19a2699b6486c1d555525e02f80bb0b?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+        "date": "Sep 21, 2026",
+        "url": "https://www.abc.net.au/news/2026-09-21/intergenerational-report-falling-fertility-aging-population/107175426"
+    },
+    {
+        "id": "h492jcmmw",
+        "title": "Microsoft's Nadella to join OpenAI, Nvidia CEOs at Trump's dinner for Xi",
+        "excerpt": "The summit stands to bring together some of the most powerful figures in the technology world in the middle of an escalating debate over artificial intelligence and how to control the technology",
+        "content": "<p>The summit stands to bring together some of the most powerful figures in the technology world in the middle of an escalating debate over artificial intelligence and how to control the technology</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/21/thumb/fitandfill/1200X628/1789959026-91.jpg",
+        "date": "Sep 21, 2026",
+        "url": "https://www.business-standard.com/world-news/microsoft-s-nadella-to-join-openai-nvidia-ceos-at-trump-s-dinner-for-xi-126092100077_1.html"
+    },
+    {
+        "id": "ljzucfrw7",
+        "title": "Paramount Settlement Talks Prospects Dim For Now As Gang Of Four AGs Resist Quick Ellison Deal",
+        "excerpt": "EXCLUSIVE: As Hollywood prepares to celebrate Yom Kippur at sundown tonight, a framework for a settlement of the antitrust suit hampering Paramount’s $111 billion acquisition of Warner Bros Discovery has hit some political potholes on the way to what some hop…",
+        "content": "<p>EXCLUSIVE: As Hollywood prepares to celebrate Yom Kippur at sundown tonight, a framework for a settlement of the antitrust suit hampering Paramount’s $111 billion acquisition of Warner Bros Discovery has hit some political potholes on the way to what some hop…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://deadline.com/wp-content/uploads/2026/09/Rob-Bontas-Leticia-James-and-David-Ellison.jpg?w=1024",
+        "date": "Sep 21, 2026",
+        "url": "http://deadline.com/2026/09/paramount-settlement-latest-opposition-bonta-1237109024/"
+    },
+    {
         "id": "6p6p1g9tm",
         "title": "DUO POWER BOOST: Clivet Debuts Next-Gen Magnetic Levitation Technology and AI Cooling Portfolio at AI Infra Summit 2026",
         "excerpt": "SANTA CLARA, Calif., Sept. 19, 2026 /PRNewswire/ -- Under the DUO POWER BOOST theme, Clivet made the global debut of its Next-Gen Magnetic Levitation Technology at AI Infra Summit 2026 in Santa Clara, California. The company also presented a portfolio of cool…",
