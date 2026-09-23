@@ -12,6 +12,122 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "u59qkqm1u",
+        "title": "A Rare, Distant Clump of Early Galaxies Reveals Ancient Cosmic Secrets",
+        "excerpt": "The discovery of a very early and rare proto-supercluster of infant galaxies may help give clues to the formation of such clusters and their connection to the Cosmic Web.",
+        "content": "<p>The discovery of a very early and rare proto-supercluster of infant galaxies may help give clues to the formation of such clusters and their connection to the Cosmic Web.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.universetoday.com/article_images/noirlab2622b_20260922_025349.jpg",
+        "date": "Sep 22, 2026",
+        "url": "https://www.universetoday.com/articles/a-rare-distant-clump-of-early-galaxies-reveals-ancient-cosmic-secrets"
+    },
+    {
+        "id": "05jujfu4s",
+        "title": "Highlights/scores: High school sports (9/19/26)",
+        "excerpt": "CENTRAL ILLINOIS (WCIA) — The girls’ volleyball season has entered its fifth week, with regionals beginning in just over a month. Monday night saw action across the state including a battle between two single-loss teams in St. Joseph-Ogden and Marshall. GIRLS…",
+        "content": "<p>CENTRAL ILLINOIS (WCIA) — The girls’ volleyball season has entered its fifth week, with regionals beginning in just over a month. Monday night saw action across the state including a battle between two single-loss teams in St. Joseph-Ogden and Marshall. GIRLS…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/9061e4f83adb635bfeed879e74de71c8de47e7795d87e210ee1c1832db09af1c/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwcia_champaign_articles_414%2F38dfef1098dd4b0019ae6b54fac1f0cd.jpg",
+        "date": "Sep 22, 2026",
+        "url": "https://www.wcia.com/sports/high-school-sports/highlights-scores-high-school-sports-9-19-26-2/"
+    },
+    {
+        "id": "xyi06y71m",
+        "title": "AI Job Disruption: The Proven Future of Work",
+        "excerpt": "AI job disruption is reshaping industries, pushing for an entrepreneurial mindset. Discover insights from Dr. J. A. Chowdary.",
+        "content": "<p>AI job disruption is reshaping industries, pushing for an entrepreneurial mindset. Discover insights from Dr. J. A. Chowdary.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://blogdoandroid.com/wp-content/uploads/2026/09/ai-job-disruption.jpg",
+        "date": "Sep 22, 2026",
+        "url": "https://blogdoandroid.com/ai-job-disruption/"
+    },
+    {
+        "id": "m92i8d8zm",
+        "title": "Macron says France, US to 'act together' to ease energy market tensions, protect Strait of Hormuz",
+        "excerpt": "French President Emmanuel Macron said France and the US have agreed to work together to ease energy-market tensions, protect critical infrastructure in West Asia and ensure freedom of navigation in the Strait of Hormuz. His remarks came as Iranian officials a…",
+        "content": "<p>French President Emmanuel Macron said France and the US have agreed to work together to ease energy-market tensions, protect critical infrastructure in West Asia and ensure freedom of navigation in the Strait of Hormuz. His remarks came as Iranian officials a…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-134400944,width-1200,height-630,imgsize-163480,overlay-economictimes/articleshow.jpg",
+        "date": "Sep 22, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/macron-says-france-us-to-act-together-to-ease-energy-market-tensions-protect-strait-of-hormuz/articleshow/134400945.cms"
+    },
+    {
+        "id": "b7uhqn44i",
+        "title": "JPMorgan's Dimon backs Chandrasekaran, warns Tata rift could hit investment",
+        "excerpt": "Dimon's remarks come as Tata Sons' board faces-off with its controlling shareholder Tata Trusts, a clash that is increasingly drawing scrutiny from investors and policymakers",
+        "content": "<p>Dimon's remarks come as Tata Sons' board faces-off with its controlling shareholder Tata Trusts, a clash that is increasingly drawing scrutiny from investors and policymakers</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/22/thumb/fitandfill/1200X628/1790045699-6259.jpg",
+        "date": "Sep 22, 2026",
+        "url": "https://www.business-standard.com/companies/news/jpmorgan-s-dimon-backs-chandrasekaran-warns-tata-rift-could-hit-investment-126092200112_1.html"
+    },
+    {
+        "id": "coevnteq1",
+        "title": "Bernie Sanders: \"People Are Sick and Tired of the Status Quo. People Want Change.\"",
+        "excerpt": "Sen. Bernie Sanders\n\n\n\nExclusive: Read the text of a major foreign policy address delivered by the independent senator at Riverside Church.\r\n\n\r\n\n\nThe post Bernie Sanders: \"People Are Sick and Tired of the Status Quo. People Want Change.\" appeared first on The…",
+        "content": "<p>Sen. Bernie Sanders\n\n\n\nExclusive: Read the text of a major foreign policy address delivered by the independent senator at Riverside Church.\r\n\n\r\n\n\nThe post Bernie Sanders: \"People Are Sick and Tired of the Status Quo. People Want Change.\" appeared first on The…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.thenation.com/wp-content/uploads/2026/09/GettyImages-2281702998.jpg",
+        "date": "Sep 22, 2026",
+        "url": "https://www.thenation.com/article/politics/bernie-sanders-speech-riverside-church/"
+    },
+    {
+        "id": "53foklbnt",
+        "title": "CBS Sports Launches hoopHer Vertical to Boost Women’s Basketball Coverage",
+        "excerpt": "The new social‑media focused platform aims to deepen fan engagement with the WNBA and college women’s basketball as viewership continues to rise.",
+        "content": "<p>CBS Sports announced on Monday the creation of hoopHer, a dedicated social media vertical that will produce short‑form video, highlights and behind‑the‑scenes content for women’s basketball across platforms such as Instagram, TikTok and YouTube.</p><p>The move comes as the WNBA recorded its highest average attendance in a decade and NCAA women’s tournament games drew record television ratings, signalling a growing appetite for the sport.</p><p>CBS Sports President David Berson said in a press release, “hoopHer will give fans the fast, shareable moments they crave while shining a brighter light on the athletes driving the game’s growth.” He added that the vertical will employ a team of editors and creators formerly involved with the network’s Olympic and March Madness digital units.</p><p>Industry analysts note that the launch reflects a broader shift among traditional broadcasters to meet younger audiences where they consume sports, and they expect hoopHer to increase CBS’s digital ad revenue in the women’s basketball niche.</p><p>Looking ahead, CBS plans to integrate hoopHer content into its broadcast telecasts and to explore partnerships with WNBA teams and college conferences for exclusive access.</p>",
+        "celebrities": [
+            "CBS Sports",
+            "WNBA",
+            "NCAA",
+            "hoopHer",
+            "Women's Basketball"
+        ],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/11d3ca962f8939eec886e624d4e0d4c03522d9d83c84d5f955a5a7de46511b16/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fawful_announcing_173%2Fc63fec8a574f67aa3adb1101c8e197e6.png",
+        "date": "Sep 22, 2026",
+        "url": "https://awfulannouncing.com/cbs/hoopher-social-media-brand-womens-basketball.html"
+    },
+    {
+        "id": "8bj7ovjku",
+        "title": "Alibaba plans AI model with up to 10 trillion parameters, unveils new AI chip",
+        "excerpt": "The Chinese technology giant is expanding its artificial intelligence infrastructure, combining larger models with new chip technology and a major data centre buildout",
+        "content": "<p>The Chinese technology giant is expanding its artificial intelligence infrastructure, combining larger models with new chip technology and a major data centre buildout</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/suqtb5/article71494018.ece/alternates/LANDSCAPE_1200/2026-09-03T070848Z_983133842_RC2TOGAXHJR6_RTRMADP_3_CHINA-INSTANT-RETAIL.JPG",
+        "date": "Sep 22, 2026",
+        "url": "https://www.thehindubusinessline.com/info-tech/alibaba-plans-ai-model-with-up-to-10-trillion-parameters-unveils-new-ai-chip/article71494015.ece"
+    },
+    {
+        "id": "e2frdcdil",
+        "title": "Stark County high school golf, volleyball, soccer scores for Sept. 21-26",
+        "excerpt": "A look at Stark County-area high school golf and tennis results, and OHSAA volleyball and soccer scores and recaps for Sept. 21-26.",
+        "content": "<p>A look at Stark County-area high school golf and tennis results, and OHSAA volleyball and soccer scores and recaps for Sept. 21-26.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/cff9df0c4acb6f5b3344848ecd0388afe318cc7db1b7cbd139238d06f86c2727/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-repository%2Fd6bf097b8b734ad7491d62bb81290b68.jpg",
+        "date": "Sep 22, 2026",
+        "url": "https://www.cantonrep.com/story/sports/high-school/2026/09/21/ohio-high-school-soccer-scores-stark-county-volleyball-golf-tennis-results/91768852007/"
+    },
+    {
+        "id": "enj9r89j9",
+        "title": "Factory floor or family office? Why India’s young rich are leaving family businesses",
+        "excerpt": "Succession, wealth preservation and changing business opportunities are prompting younger members of Indian business families to explore alternatives to traditional enterprises",
+        "content": "<p>Succession, wealth preservation and changing business opportunities are prompting younger members of Indian business families to explore alternatives to traditional enterprises</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bl-i.thgim.com/public/incoming/xxcylv/article71493996.ece/alternates/LANDSCAPE_1200/family%20businesses%20younger%20generation.jpg",
+        "date": "Sep 22, 2026",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-22/rich-heirs-of-india-s-family-businesses-cash-out-inheritance-manage-wealth"
+    },
+    {
         "id": "4uf5js5ua",
         "title": "10 Best Project Hail Mary Quotes That Are Already Iconic Sci-Fi Movie Lines",
         "excerpt": "Project Hail Mary is easily one of the best movie releases of the year, featuring a collection of truly great lines that have already become iconic.",
