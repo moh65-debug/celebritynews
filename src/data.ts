@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "gmvbcbk26",
+        "title": "Highlights/scores: High school sports (9/22/26)",
+        "excerpt": "CENTRAL ILLINOIS (WCIA) — As the weather starts to turn, high school sports heat up on the volleyball court, soccer pitch and flag football field. Fisher hosted Arthur-Lovington-Atwood-Hammond in a battle of two one-loss volleyball teams, and Mahomet-Seymour …",
+        "content": "<p>CENTRAL ILLINOIS (WCIA) — As the weather starts to turn, high school sports heat up on the volleyball court, soccer pitch and flag football field. Fisher hosted Arthur-Lovington-Atwood-Hammond in a battle of two one-loss volleyball teams, and Mahomet-Seymour …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/08da27dfbdf8b0df941a501a511ab8b5dcc502759b6ae31fae41fcbf2161f1ee/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwcia_champaign_articles_414%2F5bd1354f2d9400884b825e14ee105cab.jpg",
+        "date": "Sep 23, 2026",
+        "url": "https://www.wcia.com/sports/high-school-sports/highlights-scores-high-school-sports-9-22-26/"
+    },
+    {
+        "id": "gnv3620ai",
+        "title": "Will Trump's AI rebrand as 'super intelligence' catch on?",
+        "excerpt": "Published\nUS President Donald Trump says artificial intelligence (AI) makes the technology \"sound fake\" and wants it to be called \"super intelligence\" from now on.\n\"Welcome to the new world of super intelligence - SI,\" Trump said during a wide-ranging speech …",
+        "content": "<p>Published\nUS President Donald Trump says artificial intelligence (AI) makes the technology \"sound fake\" and wants it to be called \"super intelligence\" from now on.\n\"Welcome to the new world of super intelligence - SI,\" Trump said during a wide-ranging speech …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/946c59ddc5b7766b_s.webp",
+        "date": "Sep 23, 2026",
+        "url": "https://biztoc.com/x/946c59ddc5b7766b"
+    },
+    {
+        "id": "ucpeenztf",
+        "title": "India, US discuss boosting AI economy through energy, digital infrastructure at UNGA",
+        "excerpt": "A roundtable discussing US-India partnership in artificial intelligence and energy was hosted by the Indian Consulate. The event gathered over 40 participants from various sectors to strengthen cooperation in key areas. Key topics included scaling AI infrastr…",
+        "content": "<p>A roundtable discussing US-India partnership in artificial intelligence and energy was hosted by the Indian Consulate. The event gathered over 40 participants from various sectors to strengthen cooperation in key areas. Key topics included scaling AI infrastr…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134424589,width-1200,height-630,imgsize-120398,overlay-economictimes/articleshow.jpg",
+        "date": "Sep 23, 2026",
+        "url": "https://economictimes.indiatimes.com/news/india/india-us-discuss-boosting-ai-economy-through-energy-digital-infrastructure-at-unga/articleshow/134424591.cms"
+    },
+    {
+        "id": "low2wb7l6",
+        "title": "Will Trump's AI rebrand as 'super intelligence' catch on?",
+        "excerpt": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
+        "content": "<p>Some people close to the president have started to use the term but experts say it is unlikely to catch on.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/891c/live/a452a4e0-b6ed-11f1-af5e-b359cc50acc4.jpg",
+        "date": "Sep 23, 2026",
+        "url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po"
+    },
+    {
+        "id": "m9s0qx4s6",
+        "title": "Nasdaq hits record high as oil prices fall on improved West Asia flows",
+        "excerpt": "The Nasdaq was boosted by Micron Technology and other ​AI-related stocks as AI demand showed no signs of abating and corporate earnings stayed resilient",
+        "content": "<p>The Nasdaq was boosted by Micron Technology and other ​AI-related stocks as AI demand showed no signs of abating and corporate earnings stayed resilient</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/featurecrop/1200X628/1789712557-859.JPG",
+        "date": "Sep 23, 2026",
+        "url": "https://www.business-standard.com/markets/news/nasdaq-hits-record-high-as-oil-prices-fall-on-improved-west-asia-flows-126092300062_1.html"
+    },
+    {
+        "id": "j5x5l4gku",
+        "title": "Local high school volleyball highlights and scores (9-22-26)",
+        "excerpt": "Here’s a look at our local high school volleyball highlights and scores from September 22nd, 2026: Iowa Hinton 3, South O’Brien 0 Woodbury Central 3, Lawton-Bronson 0 IKM-Manning 3, Exira-EHK 0 Boyer Valley 3, Ar-We-Va 1 C-G-D 3, Pocahontas Area 0 Gehlen Cath…",
+        "content": "<p>Here’s a look at our local high school volleyball highlights and scores from September 22nd, 2026: Iowa Hinton 3, South O’Brien 0 Woodbury Central 3, Lawton-Bronson 0 IKM-Manning 3, Exira-EHK 0 Boyer Valley 3, Ar-We-Va 1 C-G-D 3, Pocahontas Area 0 Gehlen Cath…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/b20c052b1489b2608a67aa967cb25853a2c21ece88a91e7ec4a35704e3de1259/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkcau_sioux_city_articles_201%2F0c984608cc2424ff2c3bfd0593399623.jpg",
+        "date": "Sep 23, 2026",
+        "url": "https://www.kcau9.com/sports/local-high-school-volleyball-highlights-and-scores-9-22-26/"
+    },
+    {
+        "id": "k3q67me2p",
+        "title": "RBA Board Member Iain Ross Rejects Wage-Price Spiral Threat, Pointing to Enterprise Bargaining Protections",
+        "excerpt": "RBA Monetary Policy Board member Iain Ross says Australia's current wage growth reflects recovering purchasing power, not an emerging wage-price spiral, citing enterprise bargaining and anchored inflation expectations.",
+        "content": "<p>RBA Monetary Policy Board member Iain Ross says Australia's current wage growth reflects recovering purchasing power, not an emerging wage-price spiral, citing enterprise bargaining and anchored inflation expectations.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://d.ibtimes.com.au/en/full/1896335/rba-board-member-lain-ross.png",
+        "date": "Sep 23, 2026",
+        "url": "https://www.ibtimes.com.au/rba-iain-ross-dismisses-wage-price-spiral-fears-1875771"
+    },
+    {
+        "id": "b21ioowr1",
+        "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+        "excerpt": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance comp…",
+        "content": "<p>NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance comp…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/ai-day-singapore-key-visul-1920x1080-1.jpg",
+        "date": "Sep 23, 2026",
+        "url": "https://blogs.nvidia.com/blog/ai-day-singapore/"
+    },
+    {
+        "id": "6nj6x359j",
+        "title": "Why a unified compliance stack could unlock India’s startup potential",
+        "excerpt": "We have world-class founders, exceptional tech talent, and digital public infrastructure like UPI that have set global benchmarks. The next opportunity is to apply this exact infrastructure mindset to entrepreneurship itself.&nbsp;",
+        "content": "<p>We have world-class founders, exceptional tech talent, and digital public infrastructure like UPI that have set global benchmarks. The next opportunity is to apply this exact infrastructure mindset to entrepreneurship itself.&nbsp;</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/311872555_1-20_1692550752900_1790070798216_aRKF_653860e6-dbb4-4c10-90f9-53979f6c3183_b8JU.jpg",
+        "date": "Sep 23, 2026",
+        "url": "https://www.livemint.com/opinion/columns/indias-startups-ecosystem-solving-regulatory-friction-for-global-growth-11789982980882.html"
+    },
+    {
+        "id": "7dlyx0b0b",
+        "title": "Trump suggests Ukraine deal could be close while meeting with Zelenskyy",
+        "excerpt": "Ukrainian President Volodymyr Zelenskyy met with his US counterpart Donald Trump and said he trusted that the White House can help end Russia's 4-year war on his country - even as attacks from both sides keep escalating.\n\"I hope that we will end this war, and…",
+        "content": "<p>Ukrainian President Volodymyr Zelenskyy met with his US counterpart Donald Trump and said he trusted that the White House can help end Russia's 4-year war on his country - even as attacks from both sides keep escalating.\n\"I hope that we will end this war, and…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/09/thumb/featurecrop/1200X628/1788930957-1349.jpg",
+        "date": "Sep 23, 2026",
+        "url": "https://www.business-standard.com/world-news/trump-suggests-ukraine-deal-could-be-close-while-meeting-with-zelenskyy-126092300056_1.html"
+    },
+    {
         "id": "u59qkqm1u",
         "title": "A Rare, Distant Clump of Early Galaxies Reveals Ancient Cosmic Secrets",
         "excerpt": "The discovery of a very early and rare proto-supercluster of infant galaxies may help give clues to the formation of such clusters and their connection to the Cosmic Web.",
