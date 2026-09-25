@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "h3t341bz3",
+        "title": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
+        "excerpt": "Both said the countries of the world, through the U.N. Security Council, where they testified Wednesday, have to set safeguards of some kind, which would be actual controls to prevent the technology from getting too powerful to rein in.",
+        "content": "<p>Both said the countries of the world, through the U.N. Security Council, where they testified Wednesday, have to set safeguards of some kind, which would be actual controls to prevent the technology from getting too powerful to rein in.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-8841309,resizemode-75,msid-134450452/tech/artificial-intelligence/heads-of-ai-firms-tell-un-security-council-that-it-could-be-a-risk-to-all-humanity.jpg",
+        "date": "Sep 24, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/heads-of-ai-firms-tell-un-security-council-that-it-could-be-a-risk-to-all-humanity/articleshow/134450452.cms"
+    },
+    {
+        "id": "s6gvx436h",
+        "title": "Angel Reese injury update: What we know as Dream star exits early after being hit in face",
+        "excerpt": "Atlanta Dream All-Star Angel Reese was sidelined after a Flagrant 1 foul by Sabrina Ionescu, but she's expected to play in the WNBA playoffs.",
+        "content": "<p>Atlanta Dream All-Star Angel Reese was sidelined after a Flagrant 1 foul by Sabrina Ionescu, but she's expected to play in the WNBA playoffs.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/4b7ba1289a98c8140e6231565558059773b91748cbd164f68288206e30185303/lightyear_networkapi/resizefill_w1149_h1723%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F9126337c8c10e535f7c75c94748d019e.jpg",
+        "date": "Sep 24, 2026",
+        "url": "https://www.usatoday.com/story/sports/wnba/dream/2026/09/23/angel-reese-injury-update-dream-liberty-flagrant-foul-sabrina-ionescu/91914708007/"
+    },
+    {
+        "id": "5g0qnaqqu",
+        "title": "US diplomats told to use term 'super intelligence' for AI after Trump call",
+        "excerpt": "The State Department is ordering diplomats in its international organisations bureau to use the term \"super intelligence\" instead of \"artificial intelligence\" in all communications following President Donald Trump's attempt to rebrand the technology in his ad…",
+        "content": "<p>The State Department is ordering diplomats in its international organisations bureau to use the term \"super intelligence\" instead of \"artificial intelligence\" in all communications following President Donald Trump's attempt to rebrand the technology in his ad…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/fitandfill/1200X628/1789540933-7711.JPG",
+        "date": "Sep 24, 2026",
+        "url": "https://www.business-standard.com/world-news/us-diplomats-told-to-use-term-super-intelligence-for-ai-after-trump-call-126092400063_1.html"
+    },
+    {
+        "id": "rbawygmsu",
+        "title": "Indonesia targets 10 percent cut in logistics costs",
+        "excerpt": "Indonesia aims to reduce national logistics costs to 10 percent to improve economic efficiency amid persistent global uncertainty, Coordinating Minister for ...",
+        "content": "<p>Indonesia aims to reduce national logistics costs to 10 percent to improve economic efficiency amid persistent global uncertainty, Coordinating Minister for ...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/09/23/WhatsApp-Image-2026-09-23-at-1.29.30-PM.jpeg",
+        "date": "Sep 24, 2026",
+        "url": "https://en.antaranews.com/news/432505/indonesia-targets-10-percent-cut-in-logistics-costs"
+    },
+    {
+        "id": "t3p5a7ujh",
+        "title": "For humanity's sake, please control the AI we created: Tech leaders urge UN",
+        "excerpt": "The heads of major artificial intelligence firms pleaded with the United Nations on Wednesday to save the world or at least its people - by somehow regulating the fast-expanding technology that they have been designing.\n\"If managed poorly, I even believe AI c…",
+        "content": "<p>The heads of major artificial intelligence firms pleaded with the United Nations on Wednesday to save the world or at least its people - by somehow regulating the fast-expanding technology that they have been designing.\n\"If managed poorly, I even believe AI c…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/23/thumb/fitandfill/1200X628/1776911209-1791.jpg",
+        "date": "Sep 24, 2026",
+        "url": "https://www.business-standard.com/technology/tech-news/for-humanity-s-sake-please-control-the-ai-we-created-tech-leaders-urge-un-126092400079_1.html"
+    },
+    {
+        "id": "9pg0911wc",
+        "title": "Marshall Faulk Criticizes HBCU Player Development in SWAC Comments",
+        "excerpt": "Marshall Faulk sparked controversy by urging HBCU athletes to leave college programs early for the FBS, calling for a 'cut and fire' approach to player development.",
+        "content": "<p>Marshall Faulk drew headlines at the 2024 SWAC Media Day when he told reporters that HBCU players should treat the FBS as their true next step, not the NFL, and advocated a blunt 'cut and fire' philosophy for underperforming athletes and staff.</p>\n<p>The remarks came in Faulk's first season as head coach at Southern University, where he is trying to rebuild a program that has struggled in recent years. Faulk, a Pro Football Hall of Fame running back, has previously suggested that the FBS offers a higher level of competition than the NFL for talented HBCU players.</p>\n<p>He said, \"We need to cut and fire the guys who aren't getting it done, and move on to the next level,\" adding that staying in the SWAC only limits growth. Faulk also noted that Southern's 2023 record was 3-8, underscoring the urgency he feels to improve results quickly.</p>\n<p>Reactions were mixed: several SWAC coaches called the comments disrespectful to the conference's mission of developing student-athletes, while some players praised the honesty and said it could motivate higher standards. Critics warned that the rhetoric might encourage premature departures that hurt academic progress and team cohesion.</p>\n<p>The broader significance lies in how Faulk's stance could influence recruiting trends, push HBCU programs to consider more aggressive performance metrics, and spark debate about the balance between athletic ambition and educational responsibility. Observers will watch Southern's 2024 season for signs of change in player retention and on-field performance.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/b4698ff70613101214aca23cf653e1823796957716b9ec1760a10764bfd4d308/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F1e7aeac7b7ffb85c31c3a297e2a741ed.jpg",
+        "date": "Sep 24, 2026",
+        "url": "https://clutchpoints.com/hbcu/marshall-faulk-went-too-far-with-cut-and-fire-players-rant"
+    },
+    {
+        "id": "okwt4ndmf",
+        "title": "Multilateralism in a divided world: Why cooperation matters more than ever",
+        "excerpt": "By Sharachchandra Bhandary The world is more interconnected than ever, yet international relations are becoming increasingly divided. Geopolitical rivalry, armed conflicts, trade tensions, strategic competition and economic uncertainty are making cooperation …",
+        "content": "<p>By Sharachchandra Bhandary The world is more interconnected than ever, yet international relations are becoming increasingly divided. Geopolitical rivalry, armed conflicts, trade tensions, strategic competition and economic uncertainty are making cooperation …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://peoplesreview.com.np/wp-content/uploads/2026/06/By-Sharachchandra-Bhandary.jpg",
+        "date": "Sep 24, 2026",
+        "url": "https://peoplesreview.com.np/2026/09/24/multilateralism-in-a-divided-world-why-cooperation-matters-more-than-ever/"
+    },
+    {
+        "id": "kxuq884lm",
+        "title": "Local GPAC soccer highlights and scores (9-23-26)",
+        "excerpt": "Here’s a look at our local GPAC soccer highlights and scores from September 23rd, 2026: Women’s Soccer Morningside 0, Briar Cliff 0 Dakota Wesleyan 2, Northwestern 1 Dordt 8, Waldorf 0 Men’s Soccer Morningside 3, Briar Cliff 1 Dakota Wesleyan 2, Northwestern …",
+        "content": "<p>Here’s a look at our local GPAC soccer highlights and scores from September 23rd, 2026: Women’s Soccer Morningside 0, Briar Cliff 0 Dakota Wesleyan 2, Northwestern 1 Dordt 8, Waldorf 0 Men’s Soccer Morningside 3, Briar Cliff 1 Dakota Wesleyan 2, Northwestern …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/29f936e245d012ac73a76f817d3fe8f96615aa78f7be57efe742bd82c815fc3d/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkcau_sioux_city_articles_201%2F6c5ba9bc9814b2c6058b3d1eb3f92fe0.jpg",
+        "date": "Sep 24, 2026",
+        "url": "https://www.kcau9.com/sports/local-gpac-soccer-highlights-and-scores-9-23-26/"
+    },
+    {
+        "id": "hstbcls6q",
+        "title": "Dolly Parton’s Sister Breaks Her Silence on Family ‘Feud’ Rumors",
+        "excerpt": "One of Dolly Parton‘s sisters is speaking out. If you didn’t see the news, the late country music singer’s nephew […]\nThe post Dolly Parton’s Sister Breaks Her Silence on Family ‘Feud’ Rumors appeared first on Just Jared - Celebrity News, Entertainment News &…",
+        "content": "<p>One of Dolly Parton‘s sisters is speaking out. If you didn’t see the news, the late country music singer’s nephew […]\nThe post Dolly Parton’s Sister Breaks Her Silence on Family ‘Feud’ Rumors appeared first on Just Jared - Celebrity News, Entertainment News &…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/dolly-parton-sister-feud-rumors.jpg",
+        "date": "Sep 24, 2026",
+        "url": "https://www.justjared.com/2026/09/23/dolly-partons-sister-breaks-her-silence-on-family-feud-rumors/"
+    },
+    {
+        "id": "sel1yvw9e",
+        "title": "US invites Putin to December G20 meeting, possible Trump summit",
+        "excerpt": "The United States has extended an invitation to Russian President Vladimir Putin for a December G20 meeting. This meeting, set to take place in Miami, could facilitate discussions between Putin and President Donald Trump. Secretary of State Marco Rubio mentio…",
+        "content": "<p>The United States has extended an invitation to Russian President Vladimir Putin for a December G20 meeting. This meeting, set to take place in Miami, could facilitate discussions between Putin and President Donald Trump. Secretary of State Marco Rubio mentio…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-134449750,width-1200,height-630,imgsize-38438,overlay-economictimes/articleshow.jpg",
+        "date": "Sep 24, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-invites-putin-to-december-g20-meeting-possible-trump-summit/articleshow/134449709.cms"
+    },
+    {
         "id": "gmvbcbk26",
         "title": "Highlights/scores: High school sports (9/22/26)",
         "excerpt": "CENTRAL ILLINOIS (WCIA) — As the weather starts to turn, high school sports heat up on the volleyball court, soccer pitch and flag football field. Fisher hosted Arthur-Lovington-Atwood-Hammond in a battle of two one-loss volleyball teams, and Mahomet-Seymour …",
