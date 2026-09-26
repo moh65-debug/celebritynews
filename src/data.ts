@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "9mooxxrjd",
+        "title": "GAC Commercial Vehicle Accelerates Global Expansion with IAA TRANSPORTATION 2026 Debut",
+        "excerpt": "GAC Commercial Vehicle debuted at IAA TRANSPORTATION 2026 under the theme &quot;Delivering the Future Together&quot;, showcasing products, technologies and ...",
+        "content": "<p>GAC Commercial Vehicle debuted at IAA TRANSPORTATION 2026 under the theme &quot;Delivering the Future Together&quot;, showcasing products, technologies and ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/09/25/GAC-Commercial-Vehicle-Accelerates-Global-Expansion-with-IAA-TRANSPORTATION-2026-Debut.png",
+        "date": "Sep 25, 2026",
+        "url": "https://en.antaranews.com/news/432640/gac-commercial-vehicle-accelerates-global-expansion-with-iaa-transportation-2026-debut"
+    },
+    {
+        "id": "q9ns3po5g",
+        "title": "LTTS partners with Cognite to accelerate AI adoption in asset-intensive industries",
+        "excerpt": "L&T Technology Services announced a strategic partnership with Cognite to jointly develop and deliver industrial AI and data solutions for asset-intensive industries globally.",
+        "content": "<p>L&T Technology Services announced a strategic partnership with Cognite to jointly develop and deliver industrial AI and data solutions for asset-intensive industries globally.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+        "date": "Sep 25, 2026",
+        "url": "https://www.business-standard.com/markets/capital-market-news/ltts-partners-with-cognite-to-accelerate-ai-adoption-in-asset-intensive-industries-126092500126_1.html"
+    },
+    {
+        "id": "xnrtao614",
+        "title": "New Jersey’s governor calls on her lieutenant governor to resign over ethics report",
+        "excerpt": "Gov. Mikie Sherrill said Lt. Gov. Dale Caldwell’s “ethical lapses persisted despite multiple warnings and trainings.”",
+        "content": "<p>Gov. Mikie Sherrill said Lt. Gov. Dale Caldwell’s “ethical lapses persisted despite multiple warnings and trainings.”</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260924-Dale-Caldwell-Mikie-Sherrill-vsb-2154-18bddc.jpg",
+        "date": "Sep 25, 2026",
+        "url": "https://www.nbcnews.com/politics/politics-news/new-jerseys-governor-calls-lieutenant-governor-resign-ethics-report-rcna599771"
+    },
+    {
+        "id": "k1ss1nd7z",
+        "title": "Autonomous AI hacks raise thorny questions of legal accountability",
+        "excerpt": "The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden given the autonomous nature of the attacks and the absence of evidence the AI models we…",
+        "content": "<p>The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden given the autonomous nature of the attacks and the absence of evidence the AI models we…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7964109,resizemode-75,msid-134474095/tech/artificial-intelligence/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability.jpg",
+        "date": "Sep 25, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/articleshow/134474095.cms"
+    },
+    {
+        "id": "3zx2v9j5r",
+        "title": "High School Volleyball: September 24, 2026",
+        "excerpt": "Tobin McDuff has highlights and scores from Texoma’s volleyball courts! Click the video at the top of this story for the full Tuesday night recap. #8 Abilene Wylie def Legacy | 25-16, 25-3, 25-6 City View def Bowie | 25-22, 24-26, 25-20, 25-12",
+        "content": "<p>Tobin McDuff has highlights and scores from Texoma’s volleyball courts! Click the video at the top of this story for the full Tuesday night recap. #8 Abilene Wylie def Legacy | 25-16, 25-3, 25-6 City View def Bowie | 25-22, 24-26, 25-20, 25-12</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/5fdfbbac71301af86cc02387fdb96ab2090c2433385fd6ee6b8c06e690c04750/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkfdx_wichita_falls_articles_332%2F607bc421be92fa7bceed8925414bdf5d.jpg",
+        "date": "Sep 25, 2026",
+        "url": "https://www.texomashomepage.com/sports/local-sports/high-school-volleyball/"
+    },
+    {
+        "id": "k79yaxg5c",
+        "title": "AKSADRON Releases Impact Report 2025, Showcasing the Growth of Malaysia's Drone Sports Talent Ecosystem",
+        "excerpt": "The National Academy for Drone Sports Excellence (AKSADRON), an initiative under Futurise Sdn Bhd (Futurise), today announced the release of the AKSADRON ...",
+        "content": "<p>The National Academy for Drone Sports Excellence (AKSADRON), an initiative under Futurise Sdn Bhd (Futurise), today announced the release of the AKSADRON ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/09/25/AKSADRON-Impact-Report-2025.png",
+        "date": "Sep 25, 2026",
+        "url": "https://en.antaranews.com/news/432635/aksadron-releases-impact-report-2025-showcasing-the-growth-of-malaysias-drone-sports-talent-ecosystem"
+    },
+    {
+        "id": "be8bzyyew",
+        "title": "Chadwick Boseman’s Widow Taylor Simone Ledward Responds to Brothers’ Lawsuit Against Her",
+        "excerpt": "Taylor Simone Ledward is speaking out about the lawsuit against her through her lawyer in court documents. The widow of […]\nThe post Chadwick Boseman’s Widow Taylor Simone Ledward Responds to Brothers’ Lawsuit Against Her appeared first on Just Jared - Celebr…",
+        "content": "<p>Taylor Simone Ledward is speaking out about the lawsuit against her through her lawyer in court documents. The widow of […]\nThe post Chadwick Boseman’s Widow Taylor Simone Ledward Responds to Brothers’ Lawsuit Against Her appeared first on Just Jared - Celebr…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/chadwick-wife.jpg",
+        "date": "Sep 25, 2026",
+        "url": "https://www.justjared.com/2026/09/24/chadwick-bosemans-widow-taylor-simone-ledward-responds-to-brothers-lawsuit-against-her/"
+    },
+    {
+        "id": "787cj7f5e",
+        "title": "Shah, Yogi to inaugurate UP International Trade Show in Noida today",
+        "excerpt": "Union home and cooperation minister Amit Shah and Uttar Pradesh Chief Minister Yogi Adityanath will inaugurate the five-day trade show",
+        "content": "<p>Union home and cooperation minister Amit Shah and Uttar Pradesh Chief Minister Yogi Adityanath will inaugurate the five-day trade show</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/27/thumb/fitandfill/1200X628/1761543887-9147.jpg",
+        "date": "Sep 25, 2026",
+        "url": "https://www.business-standard.com/economy/uttar-pradesh/shah-yogi-to-inaugurate-up-international-trade-show-in-noida-today-126092500112_1.html"
+    },
+    {
+        "id": "2jlakiehr",
+        "title": "Local high school football highlights and scores (9-24-26)",
+        "excerpt": "Here’s a look at our local high school football highlights and scores from Septemebr 24th, 2026: Iowa Des Moines Lincoln 27, Sioux City North 17 Nebraska Creighton 20, Bloomfield 6 Boyd County 26, Randolph 12",
+        "content": "<p>Here’s a look at our local high school football highlights and scores from Septemebr 24th, 2026: Iowa Des Moines Lincoln 27, Sioux City North 17 Nebraska Creighton 20, Bloomfield 6 Boyd County 26, Randolph 12</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/fc61caeaebf81ae65f7b3ceff8d923fb22418d26c768b0da7894544dee996f7f/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkcau_sioux_city_articles_201%2F832736f26c05ff95fae8b570c33be398.jpg",
+        "date": "Sep 25, 2026",
+        "url": "https://www.kcau9.com/sports/local-high-school-football-highlights-and-scores-9-24-26/"
+    },
+    {
+        "id": "0xkn3tqt0",
+        "title": "This week on \"Sunday Morning\" (Sept. 27)",
+        "excerpt": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+        "content": "<p>A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/25/f97243df-f7b2-4d8a-a06a-2a4c58d8ea0f/thumbnail/1200x630/d7e64254817baa8e34ae619bff7a91a1/smith-de-niro-sun.jpg",
+        "date": "Sep 25, 2026",
+        "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-sept-27-2026/"
+    },
+    {
         "id": "h3t341bz3",
         "title": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
         "excerpt": "Both said the countries of the world, through the U.N. Security Council, where they testified Wednesday, have to set safeguards of some kind, which would be actual controls to prevent the technology from getting too powerful to rein in.",
