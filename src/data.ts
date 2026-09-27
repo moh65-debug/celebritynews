@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "9pnhyzn49",
+        "title": "Huddle Highlights – Week 5",
+        "excerpt": "Scottsboro vs North Jackson – Game of the Week Final Score: Scottsboro 49, North Jackson 6 Sparkman vs Mae Jemison Final Score: Sparkman 21, Mae Jemison 6 Columbia vs Grissom Final Score: Grissom 34, Columbia 20 Brewer vs West Limestone Final Score: West Lime…",
+        "content": "<p>Scottsboro vs North Jackson – Game of the Week Final Score: Scottsboro 49, North Jackson 6 Sparkman vs Mae Jemison Final Score: Sparkman 21, Mae Jemison 6 Columbia vs Grissom Final Score: Grissom 34, Columbia 20 Brewer vs West Limestone Final Score: West Lime…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/2ef759c3256b0cf7dcc991111190a9e1e6bd507ac9964b219d35afca58657515/lightyear_networkapi/resizefill_w900_h497%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwhnt_huntsville_articles_930%2F8ceae58070aada64f314e748c8c12b5e.png",
+        "date": "Sep 26, 2026",
+        "url": "https://whnt.com/sports/the-huddle/postgame/huddle-highlights/huddle-highlights-week-5/"
+    },
+    {
+        "id": "rrps5g1dl",
+        "title": "William and Kate's Tom Cruise Premiere Night Sparks 'Envy' Claims Amid Harry's Teleprompter Glitch in NYC",
+        "excerpt": "Prince William and Catherine drew attention at a London film premiere while Harry's speech on artificial intelligence was interrupted by a teleprompter failure in New York.",
+        "content": "<p>Prince William and Catherine drew attention at a London film premiere while Harry's speech on artificial intelligence was interrupted by a teleprompter failure in New York.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.ibtimes.com.au/en/full/1845670/kate-middleton.jpg",
+        "date": "Sep 26, 2026",
+        "url": "https://www.ibtimes.com.au/william-catherine-premiere-harry-teleprompter-mishap-1875863"
+    },
+    {
+        "id": "ym7yq999e",
+        "title": "Oliver Hudson Opens Up About Comparing Himself to ‘Icon’ Mom Goldie Hawn",
+        "excerpt": "Oliver Hudson is opening up about how his famous family figures into the expectations he sets for himself. The 50-year-old […]\nThe post Oliver Hudson Opens Up About Comparing Himself to ‘Icon’ Mom Goldie Hawn appeared first on Just Jared - Celebrity News, Ent…",
+        "content": "<p>Oliver Hudson is opening up about how his famous family figures into the expectations he sets for himself. The 50-year-old […]\nThe post Oliver Hudson Opens Up About Comparing Himself to ‘Icon’ Mom Goldie Hawn appeared first on Just Jared - Celebrity News, Ent…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/oliver-hudson-goldie-hawn.jpg",
+        "date": "Sep 26, 2026",
+        "url": "https://www.justjared.com/2026/09/25/oliver-hudson-opens-up-about-comparing-himself-to-icon-mom-goldie-hawn/"
+    },
+    {
+        "id": "2sh73h3q0",
+        "title": "OpenAI's models accessed US govt websites including US census and SEC data",
+        "excerpt": "The company said its models accessed publicly available data from Census and SEC websites as it investigates incidents involving AI systems bypassing security controls",
+        "content": "<p>The company said its models accessed publicly available data from Census and SEC websites as it investigates incidents involving AI systems bypassing security controls</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/fitandfill/1200X628/1789540675-4079.JPG",
+        "date": "Sep 26, 2026",
+        "url": "https://www.business-standard.com/technology/tech-news/openai-s-models-accessed-us-govt-websites-including-us-census-and-sec-data-126092600143_1.html"
+    },
+    {
+        "id": "c71tpnzo8",
+        "title": "Is Hillman College Real? Where Netflix’s ‘A Different World’ Was Filmed",
+        "excerpt": "Hillman College is fictional, but several real colleges helped bring it to life on screen in Netflix’s A Different World […]\nThe post Is Hillman College Real? Where Netflix’s ‘A Different World’ Was Filmed appeared first on Just Jared - Celebrity News, Entert…",
+        "content": "<p>Hillman College is fictional, but several real colleges helped bring it to life on screen in Netflix’s A Different World […]\nThe post Is Hillman College Real? Where Netflix’s ‘A Different World’ Was Filmed appeared first on Just Jared - Celebrity News, Entert…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/a-different-world-is-hillman-college-real.jpg",
+        "date": "Sep 26, 2026",
+        "url": "https://www.justjared.com/2026/09/25/is-hillman-college-real-where-netflixs-a-different-world-was-filmed/"
+    },
+    {
+        "id": "2bjlsbf8h",
+        "title": "Timberwolves news: Minnesota signs Gonzaga legend to contract",
+        "excerpt": "The Minnesota Timberwolves are starting to look like one of the NBA’s most exciting teams with potential trades mentioned to explore ahead of training camp and roster moves still being made. Coach Chris Finch has brought in a bevy of unselfish players includi…",
+        "content": "<p>The Minnesota Timberwolves are starting to look like one of the NBA’s most exciting teams with potential trades mentioned to explore ahead of training camp and roster moves still being made. Coach Chris Finch has brought in a bevy of unselfish players includi…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/bb2fe9e7dba82262220a80593fe0c4bab18cd616992d3de0eb80d9b2ec8fafa3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F8e4eb4cf7bfa35b2afe06357a07eb4e8.jpg",
+        "date": "Sep 26, 2026",
+        "url": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-sign-gonzaga-legend-to-contract"
+    },
+    {
+        "id": "bk2osxsd3",
+        "title": "OpenAI Agents Messed With U.S. Government Websites Without Company’s Knowledge",
+        "excerpt": "OpenAI’s autonomous agents tried to hack or improperly access multiple U.S. government websites this summer without the company realizing.\nThe post OpenAI Agents Messed With U.S. Government Websites Without Company’s Knowledge first appeared on Mediaite.",
+        "content": "<p>OpenAI’s autonomous agents tried to hack or improperly access multiple U.S. government websites this summer without the company realizing.\nThe post OpenAI Agents Messed With U.S. Government Websites Without Company’s Knowledge first appeared on Mediaite.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.mediaite.com/wp-content/uploads/2026/06/altman-scaled.jpeg",
+        "date": "Sep 26, 2026",
+        "url": "https://www.mediaite.com/media/news/openai-agents-messed-with-u-s-government-websites-without-companys-knowledge/"
+    },
+    {
+        "id": "t3kyzo45j",
+        "title": "DC Circuit OK’s Hegseth’s Abuse Of A Crummy Statute To Punish AI Vendors Who Won’t Give Him The Deadly Toys He Wants",
+        "excerpt": "Pete Hegseth and Trump got a dubious win today: a 2-1 panel of the DC Circuit found that the designation of Anthropic as a supply chain risk was not unlawful. It dismissed Anthropic’s challenge despite (1) a different court having found the exact opposite not…",
+        "content": "<p>Pete Hegseth and Trump got a dubious win today: a 2-1 panel of the DC Circuit found that the designation of Anthropic as a supply chain risk was not unlawful. It dismissed Anthropic’s challenge despite (1) a different court having found the exact opposite not…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+        "date": "Sep 26, 2026",
+        "url": "http://www.techdirt.com/2026/09/25/dc-circuit-oks-hegseths-abuse-of-a-crummy-statute-to-punish-ai-vendors-who-wont-give-him-the-deadly-toys-he-wants/"
+    },
+    {
+        "id": "epupoxcg3",
+        "title": "The Path to 2027: Mapping the Tokenized Deposit Regulatory Landscape Before the Sprint Begins",
+        "excerpt": "The regulatory calendar for the remainder of 2026 is not merely a list of deadlines; it is a high-stakes architecture project. As we enter the final quarter, the industry is bracing for a sprint that will define the operational boundaries for digital money th…",
+        "content": "<p>The regulatory calendar for the remainder of 2026 is not merely a list of deadlines; it is a high-stakes architecture project. As we enter the final quarter, the industry is bracing for a sprint that will define the operational boundaries for digital money th…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://forkast.news/wp-content/uploads/2026/09/tokenized-deposit-regulatory-landscape-2027-hero-1024x687.jpg",
+        "date": "Sep 26, 2026",
+        "url": "https://forkast.news/the-path-to-2027-mapping-the-tokenized-deposit-regulatory-landscape-before-the-sprint-begins/"
+    },
+    {
+        "id": "nl67glg0e",
+        "title": "Scores and Highlights: Week 6 high school football games",
+        "excerpt": "Final scores and highlights from high school football games across Northeast Tennessee and Southwest Virginia. Final Scores Northeast Tennessee Chuckey-Doak 34, Johnson County 18 Cosby 50, Hancock County 8 Daniel Boone 42, Cocke County 6 David Crockett 31, Ga…",
+        "content": "<p>Final scores and highlights from high school football games across Northeast Tennessee and Southwest Virginia. Final Scores Northeast Tennessee Chuckey-Doak 34, Johnson County 18 Cosby 50, Hancock County 8 Daniel Boone 42, Cocke County 6 David Crockett 31, Ga…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/5bdc452c3099e925948b26b4130e75bcae21b68bd00e3b3625456db7becfdb8a/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwjhl_tri_cities_articles_267%2F0154927a273de45cc019cc89d56f168f.png",
+        "date": "Sep 26, 2026",
+        "url": "https://www.wjhl.com/sports/high-school-sports/touchdown-friday-night/scores-and-highlights-week-6-high-school-football-games-2026/"
+    },
+    {
         "id": "9mooxxrjd",
         "title": "GAC Commercial Vehicle Accelerates Global Expansion with IAA TRANSPORTATION 2026 Debut",
         "excerpt": "GAC Commercial Vehicle debuted at IAA TRANSPORTATION 2026 under the theme &quot;Delivering the Future Together&quot;, showcasing products, technologies and ...",
