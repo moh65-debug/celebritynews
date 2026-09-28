@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "zkbfxinmz",
+        "title": "The Real Chris Hansen Grades Robert Pattinson’s Performance in ‘Primetime’ While Slamming the Film",
+        "excerpt": "Chris Hansen is sharing his thoughts on the movie Primetime, which follows Robert Pattinson playing him during the To Catch […]\nThe post The Real Chris Hansen Grades Robert Pattinson’s Performance in ‘Primetime’ While Slamming the Film appeared first on Just …",
+        "content": "<p>Chris Hansen is sharing his thoughts on the movie Primetime, which follows Robert Pattinson playing him during the To Catch […]\nThe post The Real Chris Hansen Grades Robert Pattinson’s Performance in ‘Primetime’ While Slamming the Film appeared first on Just …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/chris-hansen-grades-robert.jpg",
+        "date": "Sep 27, 2026",
+        "url": "https://www.justjared.com/2026/09/26/the-real-chris-hansen-grades-robert-pattinsons-performance-in-primetime-while-slamming-the-film/"
+    },
+    {
+        "id": "zhg420z96",
+        "title": "OpenAI agents scanned UN data hub over 16,000 times, used aggressive access methods: Report",
+        "excerpt": "OpenAI agents flooded a United Nations website with search requests and employed multiple aggressive methods to access data from the system in June, an",
+        "content": "<p>OpenAI agents flooded a United Nations website with search requests and employed multiple aggressive methods to access data from the system in June, an</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-134514343,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Sep 27, 2026",
+        "url": "https://timesofindia.indiatimes.com/world/us/openai-agents-scanned-un-data-hub-over-16000-times-used-aggressive-access-methods-report/articleshow/134514337.cms"
+    },
+    {
+        "id": "3h2f16qwm",
+        "title": "Got Emotional",
+        "excerpt": "Once in a while, you’ve got to bend the rules a bit. hjhornbeck: I know, I know, I’m not allowed to comment here, but this is definitely worth clarifying in public. i wonder if he ever feels weird about me insta posting shit-talk when he drops a long and care…",
+        "content": "<p>Once in a while, you’ve got to bend the rules a bit. hjhornbeck: I know, I know, I’m not allowed to comment here, but this is definitely worth clarifying in public. i wonder if he ever feels weird about me insta posting shit-talk when he drops a long and care…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://freethoughtblogs.com/reprobate/wp-content/themes/ftb2-theme/images/logo.gif",
+        "date": "Sep 27, 2026",
+        "url": "https://freethoughtblogs.com/reprobate/2026/09/26/got-emotional/"
+    },
+    {
+        "id": "5m3irirv4",
+        "title": "Boeing finds software glitch that may disable landing guidance on some 737 MAX jets",
+        "excerpt": "Boeing also faced renewed scrutiny in January 2024 after a door plug blew out of an almost-new 737 MAX 9 operated by Alaska Airlines during a flight. The latest software issue does not mean that the aircraft is unsafe to fly. Regulators and the company are st…",
+        "content": "<p>Boeing also faced renewed scrutiny in January 2024 after a door plug blew out of an almost-new 737 MAX 9 operated by Alaska Airlines during a flight. The latest software issue does not mean that the aircraft is unsafe to fly. Regulators and the company are st…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-134514293,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Sep 27, 2026",
+        "url": "https://timesofindia.indiatimes.com/world/us/boeing-finds-software-glitch-that-may-disable-landing-guidance-on-some-737-max-jets/articleshow/134514231.cms"
+    },
+    {
+        "id": "4i0w9e499",
+        "title": "KBC 18: Amitabh Bachchan reacts after Ujjwal Nikam reveals Ajmal Kasab claimed he came to meet Big B during 26/11 case; ‘Wahi hum Goli maar dete Usse’",
+        "excerpt": "In the recent episode of Kaun Banega Crorepati 18, Amitabh Bachchan had a forceful response to Ujjwal Nikam's remarks regarding Ajmal Kasab. Nikam disclosed that Kasab allegedly stated his intention to visit Bachchan in Mumbai. Reacting strongly, Bachchan exp…",
+        "content": "<p>In the recent episode of Kaun Banega Crorepati 18, Amitabh Bachchan had a forceful response to Ujjwal Nikam's remarks regarding Ajmal Kasab. Nikam disclosed that Kasab allegedly stated his intention to visit Bachchan in Mumbai. Reacting strongly, Bachchan exp…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-134514257,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Sep 27, 2026",
+        "url": "https://timesofindia.indiatimes.com/tv/news/hindi/kbc-18-amitabh-bachchan-reacts-after-ujjwal-nikam-reveals-ajmal-kasab-claimed-he-came-to-meet-big-b-during-26/11-case-wahi-hum-goli-maar-dete-usse/articleshow/134514237.cms"
+    },
+    {
+        "id": "l12hxzona",
+        "title": "Miami news: Malachi Toney makes otherworldly 1-handed grab vs. Central Michigan",
+        "excerpt": "Malachi Toney went viral for another viral catch he made during the No. 6 Miami Hurricanes’ matchup against the Central Michigan Chippewas on Saturday night. Toney is going through the second season of his collegiate career with the Hurricanes. He has emerged…",
+        "content": "<p>Malachi Toney went viral for another viral catch he made during the No. 6 Miami Hurricanes’ matchup against the Central Michigan Chippewas on Saturday night. Toney is going through the second season of his collegiate career with the Hurricanes. He has emerged…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/aba52d9298f0724bfd65a2711d86d1c9f7b8f4f4c290bc3eab37672a143a88af/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F70471eeb3b540a977162b6ae976c6e4d.jpg",
+        "date": "Sep 27, 2026",
+        "url": "https://clutchpoints.com/ncaa-football/miami-football-news-malachi-toney-makes-1-handed-grab-central-michigan"
+    },
+    {
+        "id": "834rnz4hh",
+        "title": "VMAs Producer Says Taylor Swift’s Special Award Was an Idea from ‘External’ Person",
+        "excerpt": "Taylor Swift is going to be receiving a special award at the 2026 MTV VMAs and the show’s producer is […]\nThe post VMAs Producer Says Taylor Swift’s Special Award Was an Idea from ‘External’ Person appeared first on Just Jared - Celebrity News, Entertainment …",
+        "content": "<p>Taylor Swift is going to be receiving a special award at the 2026 MTV VMAs and the show’s producer is […]\nThe post VMAs Producer Says Taylor Swift’s Special Award Was an Idea from ‘External’ Person appeared first on Just Jared - Celebrity News, Entertainment …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/taylor-swift-vmas-external.jpg",
+        "date": "Sep 27, 2026",
+        "url": "https://www.justjared.com/2026/09/26/vmas-producer-says-taylor-swifts-special-award-was-an-idea-from-external-person/"
+    },
+    {
+        "id": "v73dchf6t",
+        "title": "Louisiana football keeps winning, but concerns grow before SBC play",
+        "excerpt": "After snagging its first road win of the season in Week 4 vs Charlotte, Louisiana football is getting used to ugly wins.",
+        "content": "<p>After snagging its first road win of the season in Week 4 vs Charlotte, Louisiana football is getting used to ugly wins.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/bc57f6916947c1f9d136506fe4223885036e9220fd4ea325ea49d39c626fa9e0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-daily-advertiser%2F0e613c5669836b14c0ce02e6963ac03f.jpg",
+        "date": "Sep 27, 2026",
+        "url": "https://www.theadvertiser.com/story/sports/college/ul/2026/09/26/louisiana-football-keeps-winning-but-concerns-grow-before-sbc-play/91826063007/"
+    },
+    {
+        "id": "rwjmlkacn",
+        "title": "Justin Verlander’s Daughter Gives Him an On-Field Hug During Final Baseball Game Ever",
+        "excerpt": "Justin Verlander has officially retired from the MLB and his family was in attendance for his final game ever. The […]\nThe post Justin Verlander’s Daughter Gives Him an On-Field Hug During Final Baseball Game Ever appeared first on Just Jared - Celebrity News…",
+        "content": "<p>Justin Verlander has officially retired from the MLB and his family was in attendance for his final game ever. The […]\nThe post Justin Verlander’s Daughter Gives Him an On-Field Hug During Final Baseball Game Ever appeared first on Just Jared - Celebrity News…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/justin-verlander-last-game.jpg",
+        "date": "Sep 27, 2026",
+        "url": "https://www.justjared.com/2026/09/26/justin-verlanders-daughter-gives-him-an-on-field-hug-during-final-baseball-game-ever/"
+    },
+    {
+        "id": "gtj8estwd",
+        "title": "Michigan State defenders break down loss to Nebraska",
+        "excerpt": "Michigan State defenders Nikai Martinez and Kenny Soares Jr. break down loss to Nebraska.",
+        "content": "<p>Michigan State defenders Nikai Martinez and Kenny Soares Jr. break down loss to Nebraska.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/aba49f9256a52c2f4cb5a320a563e26309a66e9759c8d7036ab73d6103a7ffa7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspartans_wire_usa_today_articles_977%2Fe25bd6fd7db623e6f5390a5e20d5885e.jpg",
+        "date": "Sep 27, 2026",
+        "url": "https://spartanswire.usatoday.com/story/sports/college/spartans/football/2026/09/26/michigan-state-defenders-break-down-loss-to-nebraska/91912701007/"
+    },
+    {
         "id": "9pnhyzn49",
         "title": "Huddle Highlights – Week 5",
         "excerpt": "Scottsboro vs North Jackson – Game of the Week Final Score: Scottsboro 49, North Jackson 6 Sparkman vs Mae Jemison Final Score: Sparkman 21, Mae Jemison 6 Columbia vs Grissom Final Score: Grissom 34, Columbia 20 Brewer vs West Limestone Final Score: West Lime…",
