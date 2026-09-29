@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "mlmhdle4w",
+        "title": "ETMarkets Smart Talk| F&O STT, UPI charges and trading costs: Sandeep Neema on the hidden drag on retail returns",
+        "excerpt": "In this segment of ETMarkets Smart Talk, we speak with Sandeep Neema, Director and Fund Manager at PL Asset Management, about the real risks facing retail investors, the hidden cost of excessive trading, and why he believes the market is increasingly rewardin…",
+        "content": "<p>In this segment of ETMarkets Smart Talk, we speak with Sandeep Neema, Director and Fund Manager at PL Asset Management, about the real risks facing retail investors, the hidden cost of excessive trading, and why he believes the market is increasingly rewardin…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-134531496,width-1200,height-630,imgsize-45521,overlay-etmarkets/articleshow.jpg",
+        "date": "Sep 28, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-fo-stt-upi-charges-and-trading-costs-sandeep-neema-on-the-hidden-drag-on-retail-returns/articleshow/134531355.cms"
+    },
+    {
+        "id": "x2rhl200b",
+        "title": "Michigan Vets Outline everyday Impacts of Iran War, airing Frustrations with GOP",
+        "excerpt": "As gas prices surge amidst the ongoing war in Iran, veterans led protestors outside a gas station Friday in opposition to the war",
+        "content": "<p>As gas prices surge amidst the ongoing war in Iran, veterans led protestors outside a gas station Friday in opposition to the war</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://media.juancole.com/images/2026/09/vetsprotest1.jpg",
+        "date": "Sep 28, 2026",
+        "url": "https://www.juancole.com/2026/09/michigan-everyday-frustrations.html"
+    },
+    {
+        "id": "w754osf4n",
+        "title": "Why AI Treats Publisher Content As A Commodity; Playing Your Credit Cards Right",
+        "excerpt": "Why AI commoditizes publisher content; credit cards are incorporating brand deals at the expense of exclusivity; and McDonald's launches a media network.\nThe post Why AI Treats Publisher Content As A Commodity; Playing Your Credit Cards Right appeared first o…",
+        "content": "<p>Why AI commoditizes publisher content; credit cards are incorporating brand deals at the expense of exclusivity; and McDonald's launches a media network.\nThe post Why AI Treats Publisher Content As A Commodity; Playing Your Credit Cards Right appeared first o…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.adexchanger.com/wp-content/uploads/2026/04/Chez-Premium-Publishers-AI-search-Sam-Altman-comic-featured.jpg",
+        "date": "Sep 28, 2026",
+        "url": "http://www.adexchanger.com/daily-news-roundup/monday-28092026/"
+    },
+    {
+        "id": "nwmkqdf4t",
+        "title": "John D. Rockefeller Is a Cautionary Tale for Today’s Business Titans",
+        "excerpt": "The oil tycoon was celebrated as a pioneer before the public turned on him.",
+        "content": "<p>The oil tycoon was celebrated as a pioneer before the public turned on him.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://foreignpolicy.com/wp-content/uploads/2026/09/john-rockefeller-GettyImages-82091682.jpg",
+        "date": "Sep 28, 2026",
+        "url": "http://foreignpolicy.com/2026/09/28/john-rockefeller-business-titans/"
+    },
+    {
+        "id": "09nkkohw5",
+        "title": "Digiday Publishing Summit September 2026 Recap: How publishers are rebuilding for the post-search era",
+        "excerpt": "Execs at DPS described how they’re preparing for a post-search era by prioritizing direct audiences, diversified revenue and AI strategies.",
+        "content": "<p>Execs at DPS described how they’re preparing for a post-search era by prioritizing direct audiences, diversified revenue and AI strategies.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/01/zero-click-trends-digiday.jpg",
+        "date": "Sep 28, 2026",
+        "url": "http://digiday.com/media/digiday-publishing-summit-september-2026-recap-how-publishers-are-rebuilding-for-the-post-search-era/"
+    },
+    {
+        "id": "1b6np5jby",
+        "title": "Media Buying Briefing: Stagwell’s chief AI officer explains why Palantir differentiates its data platform from competitors",
+        "excerpt": "John Kahan explains how Palantir lets clients control their own data destiny, and what differential privacy means as a differentiator.",
+        "content": "<p>John Kahan explains how Palantir lets clients control their own data destiny, and what differential privacy means as a differentiator.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2024/05/computer-data-digiday.png",
+        "date": "Sep 28, 2026",
+        "url": "http://digiday.com/media-buying/media-buying-briefing-stagwells-chief-ai-officer-explains-why-palantir-differentiates-its-data-platform-from-competitors/"
+    },
+    {
+        "id": "mo7kereqc",
+        "title": "IND vs AFG Asian Games 2026 quarterfinal live score, toss winner, winning probability, result and highlights from Nisshin",
+        "excerpt": "India vs Afghanistan Asian Games 2026 quarterfinal live win probability, ball-by-ball score, live match predictor, chances of victory, and key highlights.",
+        "content": "<p>India vs Afghanistan Asian Games 2026 quarterfinal live win probability, ball-by-ball score, live match predictor, chances of victory, and key highlights.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/ec3f2087160d2362ebeb532eb47095e1403882c6d2c8eb5e282dffabd4c062cd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7fccc9ca357ceb339b6a6f19af127711",
+        "date": "Sep 28, 2026",
+        "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-afg-asian-games-2026-quarterfinal-live-score-result-highlights-nisshin/c5d8340f7e1255bd69e34228"
+    },
+    {
+        "id": "n0sww74el",
+        "title": "Inside Photos from MTV VMAs 2026 – Moments You Didn’t See on TV, from Backstage & Audience Shots!",
+        "excerpt": "There were so many fun moments at this year’s VMAs that you didn’t get to see on TV, but thankfully […]\nThe post Inside Photos from MTV VMAs 2026 – Moments You Didn’t See on TV, from Backstage & Audience Shots! appeared first on Just Jared - Celebrity News, E…",
+        "content": "<p>There were so many fun moments at this year’s VMAs that you didn’t get to see on TV, but thankfully […]\nThe post Inside Photos from MTV VMAs 2026 – Moments You Didn’t See on TV, from Backstage & Audience Shots! appeared first on Just Jared - Celebrity News, E…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/inside-photos-from-mtv-vmas.jpg",
+        "date": "Sep 28, 2026",
+        "url": "https://www.justjared.com/2026/09/27/inside-photos-from-mtv-vmas-2026-moments-you-didnt-see-on-tv-from-backstage-audience-shots/"
+    },
+    {
+        "id": "buo7qwjb7",
+        "title": "The Islamabad Memorandum Returns to the Spotlight",
+        "excerpt": "For Pakistan, the coming days will test whether its mediation capacity can keep pace with a conflict that continues to expand in both geography and complexity.",
+        "content": "<p>For Pakistan, the coming days will test whether its mediation capacity can keep pace with a conflict that continues to expand in both geography and complexity.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-28-121215.jpg",
+        "date": "Sep 28, 2026",
+        "url": "https://thediplomat.com/2026/09/the-islamabad-memorandum-returns-to-the-spotlight/"
+    },
+    {
+        "id": "wthq8thky",
+        "title": "Taylor Swift Dedicates Video of the Year Award to ‘Ultimate Showgirl’ Dolly Parton at MTV VMAs 2026",
+        "excerpt": "Taylor Swift won the final award of the night at the 2026 MTV Video Music Awards on Sunday (September 27) […]\nThe post Taylor Swift Dedicates Video of the Year Award to ‘Ultimate Showgirl’ Dolly Parton at MTV VMAs 2026 appeared first on Just Jared - Celebrity…",
+        "content": "<p>Taylor Swift won the final award of the night at the 2026 MTV Video Music Awards on Sunday (September 27) […]\nThe post Taylor Swift Dedicates Video of the Year Award to ‘Ultimate Showgirl’ Dolly Parton at MTV VMAs 2026 appeared first on Just Jared - Celebrity…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/taylor-dedicates-dolly.jpg",
+        "date": "Sep 28, 2026",
+        "url": "https://www.justjared.com/2026/09/27/taylor-swift-dedicates-video-of-the-year-award-to-ultimate-showgirl-dolly-parton-at-mtv-vmas-2026/"
+    },
+    {
         "id": "zkbfxinmz",
         "title": "The Real Chris Hansen Grades Robert Pattinson’s Performance in ‘Primetime’ While Slamming the Film",
         "excerpt": "Chris Hansen is sharing his thoughts on the movie Primetime, which follows Robert Pattinson playing him during the To Catch […]\nThe post The Real Chris Hansen Grades Robert Pattinson’s Performance in ‘Primetime’ While Slamming the Film appeared first on Just …",
