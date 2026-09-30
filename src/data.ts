@@ -12,6 +12,122 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "3qowmcs5d",
+        "title": "How Drones and Robots Are Reshaping Renewable-Energy Operations",
+        "excerpt": "Editor’s note: This article was written by Lucia, a TechNode reporter. When photovoltaic panels develop defects such as hot spots, physical damage, dust buildup, or other obstructions, workers have traditionally had to inspect them one by one, often at height…",
+        "content": "<p>Editor’s note: This article was written by Lucia, a TechNode reporter. When photovoltaic panels develop defects such as hot spots, physical damage, dust buildup, or other obstructions, workers have traditionally had to inspect them one by one, often at height…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://technode.com/wp-content/uploads/2026/09/4.png",
+        "date": "Sep 29, 2026",
+        "url": "https://technode.com/2026/09/29/how-drones-and-robots-are-reshaping-renewable-energy-operations/"
+    },
+    {
+        "id": "5osefy0ct",
+        "title": "Global Market: South Korean stocks under pressure ahead of trade data, Micron results",
+        "excerpt": "South Korean shares were largely flat as semiconductor gains offset declines across other sectors. Investors awaited September trade data and Micron Technology’s earnings for signals on AI-chip demand, while higher oil prices, Treasury yields and foreign sell…",
+        "content": "<p>South Korean shares were largely flat as semiconductor gains offset declines across other sectors. Investors awaited September trade data and Micron Technology’s earnings for signals on AI-chip demand, while higher oil prices, Treasury yields and foreign sell…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134555480,width-1200,height-630,imgsize-224062,overlay-etmarkets/articleshow.jpg",
+        "date": "Sep 29, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/global-market-south-korean-stocks-under-pressure-ahead-of-trade-data-micron-results/articleshow/134555448.cms"
+    },
+    {
+        "id": "gajgew8h8",
+        "title": "15-year setback on cards? Nifty heading for worst annual performance since 2011",
+        "excerpt": "As 2023 unfolds, the Nifty index appears headed for its most disappointing year in a decade and a half. Key contributors to this downturn include high valuations and a flight of foreign investors. The IT sector continues to struggle amid geopolitical conflict…",
+        "content": "<p>As 2023 unfolds, the Nifty index appears headed for its most disappointing year in a decade and a half. Key contributors to this downturn include high valuations and a flight of foreign investors. The IT sector continues to struggle amid geopolitical conflict…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134555461,width-1200,height-630,imgsize-2504185,overlay-etmarkets/articleshow.jpg",
+        "date": "Sep 29, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/15-year-setback-on-cards-nifty-heading-for-worst-annual-performance-since-2011/articleshow/134555433.cms"
+    },
+    {
+        "id": "7b5yyi8s7",
+        "title": "...",
+        "excerpt": "...",
+        "content": "<p>...</p>\n<p>...</p>\n<p>...</p>\n<p>...</p>\n<p>...</p>",
+        "celebrities": [
+            "Marvel Studios",
+            "Avengers: Endgame",
+            "Secret Wars",
+            "Kevin Feige",
+            "Disney"
+        ],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/chris-evans-as-steve-rogers-and-hayley-atwell-as-peggy-carter-embracing-in-avengers-endgame.jpg?w=1600&h=900&fit=crop",
+        "date": "Sep 29, 2026",
+        "url": "https://screenrant.com/avengers-endgame-encore-debunked-secret-wars-reboot-theory/"
+    },
+    {
+        "id": "plg5p7i7u",
+        "title": "Tom Cruise & ‘Digger’ Cast Celebrate Los Angeles Premiere Ahead of Friday’s Release",
+        "excerpt": "Tom Cruise led the cast of Digger at the film’s Los Angeles premiere! The 64-year-old actor joined co-stars Riz Ahmed, […]\nThe post Tom Cruise & ‘Digger’ Cast Celebrate Los Angeles Premiere Ahead of Friday’s Release appeared first on Just Jared - Celebrity Ne…",
+        "content": "<p>Tom Cruise led the cast of Digger at the film’s Los Angeles premiere! The 64-year-old actor joined co-stars Riz Ahmed, […]\nThe post Tom Cruise & ‘Digger’ Cast Celebrate Los Angeles Premiere Ahead of Friday’s Release appeared first on Just Jared - Celebrity Ne…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/tom-cruise-digger-los-angeles-premiere.jpg",
+        "date": "Sep 29, 2026",
+        "url": "https://www.justjared.com/2026/09/28/tom-cruise-digger-cast-celebrate-los-angeles-premiere-ahead-of-fridays-release/"
+    },
+    {
+        "id": "0s3zsh1rl",
+        "title": "Hunt stays undefeated after 35-21 win over Martin County",
+        "excerpt": "WILSON, N.C. (WNCT) — Hunt and Martin County were able to complete their game that was postponed back on September 4 due to weather, with the Warriors fending off the Gators 35-21. When the game was stopped, Hunt led 14-6 with just over three minutes left in …",
+        "content": "<p>WILSON, N.C. (WNCT) — Hunt and Martin County were able to complete their game that was postponed back on September 4 due to weather, with the Warriors fending off the Gators 35-21. When the game was stopped, Hunt led 14-6 with just over three minutes left in …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/d4f64cb03d915e40b3d80c0e5d5a6aae82fe117e4791ef6fb525090b82d9e82e/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwnct_greenville_articles_424%2F2c3a0dec2437b5de81d1325513775440.jpg",
+        "date": "Sep 29, 2026",
+        "url": "https://www.wnct.com/sports/hunt-stays-undefeated-after-35-21-win-over-martin-county/"
+    },
+    {
+        "id": "xlqqdyzkp",
+        "title": "Rajinikanth’s co-star, a Mani Ratnam favourite and pan-Indian hearthrob, left showbiz, was bedridden for two years after an accident. Today, he runs a Rs 3,300 crore empire",
+        "excerpt": "Although it can be difficult to leave the entertainment industry to pursue a completely different job, some actors have been successful in reinventing themselves. South Indian celebrity Arvind Swamy followed a different route, much like 90s actress Mayoori Ka…",
+        "content": "<p>Although it can be difficult to leave the entertainment industry to pursue a completely different job, some actors have been successful in reinventing themselves. South Indian celebrity Arvind Swamy followed a different route, much like 90s actress Mayoori Ka…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://img.etimg.com/thumb/msid-134555115,width-1200,height-630,imgsize-53636,overlay-etpanache/articleshow.jpg",
+        "date": "Sep 29, 2026",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/rajinikanths-co-star-a-mani-ratnam-favourite-and-pan-indian-hearthrob-left-showbiz-was-bedridden-for-two-years-after-an-accident-today-he-runs-a-rs-3300-crore-empire/articleshow/134555085.cms"
+    },
+    {
+        "id": "jdsb91s6s",
+        "title": "‘Wonka’s The Golden Ticket’ Spoilers: Final 6 Contestants Revealed Ahead of Finale",
+        "excerpt": "The Netflix reality series Wonka’s The Golden Ticket is being released in two drops and there are only six contestants […]\nThe post ‘Wonka’s The Golden Ticket’ Spoilers: Final 6 Contestants Revealed Ahead of Finale appeared first on Just Jared - Celebrity New…",
+        "content": "<p>The Netflix reality series Wonka’s The Golden Ticket is being released in two drops and there are only six contestants […]\nThe post ‘Wonka’s The Golden Ticket’ Spoilers: Final 6 Contestants Revealed Ahead of Finale appeared first on Just Jared - Celebrity New…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/09/wonka-top-contestants.jpg",
+        "date": "Sep 29, 2026",
+        "url": "https://www.justjared.com/2026/09/28/wonkas-the-golden-ticket-spoilers-final-6-contestants-revealed-ahead-of-finale/"
+    },
+    {
+        "id": "86bf31gi9",
+        "title": "Stark County high school golf, soccer scores for Sept. 28-Oct. 3",
+        "excerpt": "A look at Stark County-area high school golf and tennis results, and OHSAA volleyball and soccer scores and recaps for Sept. 28-Oct. 3.",
+        "content": "<p>A look at Stark County-area high school golf and tennis results, and OHSAA volleyball and soccer scores and recaps for Sept. 28-Oct. 3.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/8ae6b00b945de48d834af450acd58f52cd88706fa2a312cee8a1cc4352742a50/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-repository%2Faa4f8412fee493e6fdfc0e112bfdaaf2.jpg",
+        "date": "Sep 29, 2026",
+        "url": "https://www.cantonrep.com/story/sports/high-school/2026/09/28/ohio-high-school-soccer-scores-stark-county-volleyball-golf-tennis-results/91880852007/"
+    },
+    {
+        "id": "x7xdlft06",
+        "title": "Titans QB Cam Ward’s Sister Reveals Disturbing Threats Against Family After Loss",
+        "excerpt": "The Tennessee Titans have plenty of problems to address following another disappointing performance, but quarterback Cam Ward’s sister has revealed something far more troubling than anything happening on the football field. Chantel Ward took to Instagram to a…",
+        "content": "<p>The Tennessee Titans have plenty of problems to address following another disappointing performance, but quarterback Cam Ward’s sister has revealed something far more troubling than anything happening on the football field. Chantel Ward took to Instagram to a…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/467e418701acc83298323a17181413241835bad12c0a013693d291024e624500/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F0f60f3b1cd87153013320ce6e9ea6a91.jpg",
+        "date": "Sep 29, 2026",
+        "url": "https://heavy.com/sports/nfl/tennessee-titans/titans-cam-ward-sister-family-threats/"
+    },
+    {
         "id": "mlmhdle4w",
         "title": "ETMarkets Smart Talk| F&O STT, UPI charges and trading costs: Sandeep Neema on the hidden drag on retail returns",
         "excerpt": "In this segment of ETMarkets Smart Talk, we speak with Sandeep Neema, Director and Fund Manager at PL Asset Management, about the real risks facing retail investors, the hidden cost of excessive trading, and why he believes the market is increasingly rewardin…",
