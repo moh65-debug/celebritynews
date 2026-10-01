@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ch4faa4uv",
+        "title": "Amazon Delivery Drivers Routinely Speed, Block Bus And Bike Lanes",
+        "excerpt": "Amazon delivery drivers have racked up thousands of serious traffic violations in New York City, according to city data.",
+        "content": "<p>Amazon delivery drivers have racked up thousands of serious traffic violations in New York City, according to city data.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://nyc.streetsblog.org/wp-content/uploads/sites/9/2026/09/Amazon-truck-in-Tribeca.jpg",
+        "date": "Sep 30, 2026",
+        "url": "http://nyc.streetsblog.org/2026/09/30/amazon-delivery-drivers-routinely-speed-block-bus-and-bike-lanes"
+    },
+    {
+        "id": "r3ig4f98y",
+        "title": "Highlights/scores: High school sports (9/29/26)",
+        "excerpt": "CENTRAL ILLINOIS (WCIA) — September is winding down and volleyball season is heating up. Check out highlights from a Central State 8 match that went down to the wire and an upset in the Illini Prairie Conference. GIRLS’ VOLLEYBALL Glenwood 2, Rochester 1 Mont…",
+        "content": "<p>CENTRAL ILLINOIS (WCIA) — September is winding down and volleyball season is heating up. Check out highlights from a Central State 8 match that went down to the wire and an upset in the Illini Prairie Conference. GIRLS’ VOLLEYBALL Glenwood 2, Rochester 1 Mont…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/5d28d9dea9007a5fd0bd2333bd95e5ee11e8cfaae36e798239e1556beb9fce31/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwcia_champaign_articles_414%2Fdbef86212078102d61c5e02d2c8c0535.jpg",
+        "date": "Sep 30, 2026",
+        "url": "https://www.wcia.com/sports/high-school-sports/highlights-scores-high-school-sports-9-29-26/"
+    },
+    {
+        "id": "y2gxg6ft1",
+        "title": "Enhanced RFID: Touch ‘n Go reveals 10 more lanes for faster toll payments, covering MEX, SILK, Grand Sepadu, GCE and EKVE",
+        "excerpt": "Touch ‘n Go (TNG) is expanding its Enhanced RFID network with 10 additional lanes across five highways in Malaysia. The upgraded lanes promise faster and more reliable RFID detection while serving as a stepping stone towards Single Lane Fast Flow (SLFF) and e…",
+        "content": "<p>Touch ‘n Go (TNG) is expanding its Enhanced RFID network with 10 additional lanes across five highways in Malaysia. The upgraded lanes promise faster and more reliable RFID detection while serving as a stepping stone towards Single Lane Fast Flow (SLFF) and e…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://soyacincau.com/wp-content/uploads/2026/09/290630-tng-enhanced-rfid-02.jpg",
+        "date": "Sep 30, 2026",
+        "url": "https://soyacincau.com/2026/09/30/tng-enhanced-rfid-roll-out-10-lanes/"
+    },
+    {
+        "id": "u4807ttuf",
+        "title": "How Kroger, Giant Eagle and DoorDash are building their agentic AI assistants",
+        "excerpt": "Companies are finding that they must deploy practical AI tools that bridge the gap between physical stores and online ordering.",
+        "content": "<p>Companies are finding that they must deploy practical AI tools that bridge the gap between physical stores and online ordering.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/09/sponsored-rmn-digiday.001.jpeg",
+        "date": "Sep 30, 2026",
+        "url": "http://digiday.com/marketing/how-kroger-giant-eagle-and-doordash-are-building-their-agentic-ai-assistants/"
+    },
+    {
+        "id": "dlsn02bkz",
+        "title": "Failing Canada And Britain Blame Trump, Putin, And ‘White Supremacy’",
+        "excerpt": "Photo Credit:Image: Global Panorama via Flickr, CC BY 3.0.\r\n\n \n Vladimir PutinBy J.B. ShurkCarney and Burnham are Dumb and Dumber.",
+        "content": "<p>Photo Credit:Image: Global Panorama via Flickr, CC BY 3.0.\r\n\n \n Vladimir PutinBy J.B. ShurkCarney and Burnham are Dumb and Dumber.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.americanthinker.com/lf/lfa9kcttmbbygrmgpxa7_1200.jpg",
+        "date": "Sep 30, 2026",
+        "url": "https://www.americanthinker.com/articles/2026/09/failing-canada-and-britain-blame-trump-putin-and-white-supremacy/"
+    },
+    {
+        "id": "29imvxang",
+        "title": "High school volleyball and soccer highlights and scores for Sept. 29",
+        "excerpt": "(WJHL) — It was a busy night on the high school volleyball court and soccer pitch in Northeast Tennessee and Southwest Virginia. In Church Hill, the Dobyns-Bennett Indians took care of Volunteer by winning 4-0 on the pitch, while Sullivan East Volleyball took…",
+        "content": "<p>(WJHL) — It was a busy night on the high school volleyball court and soccer pitch in Northeast Tennessee and Southwest Virginia. In Church Hill, the Dobyns-Bennett Indians took care of Volunteer by winning 4-0 on the pitch, while Sullivan East Volleyball took…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/1056122f90baf85eee1334766a0f1400669b60601e025987c18ea3e1a097af21/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwjhl_tri_cities_articles_267%2F03971b4501e364a5a10a1f722632c6fe.png",
+        "date": "Sep 30, 2026",
+        "url": "https://www.wjhl.com/news/high-school-volleyball-and-soccer-highlights-and-scores-for-sept-29/"
+    },
+    {
+        "id": "96njd578q",
+        "title": "With $20 million gift, Dartmouth Health establishes caregiver institute, at-home primary and palliative care - Valley News",
+        "excerpt": "Richard Levy donated $20 million to Dartmouth Health to launch an at-home primary and palliative care initiative and a Family Caregiver Institute.",
+        "content": "<p>Richard Levy donated $20 million to Dartmouth Health to launch an at-home primary and palliative care initiative and a Family Caregiver Institute.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/09/DSC05705-scaled-1.jpg?fit=2560%2C1707&ssl=1",
+        "date": "Sep 30, 2026",
+        "url": "https://vnews.com/2026/09/29/dartmouth-health-at-home-caregiver-institute/"
+    },
+    {
+        "id": "8rc8ttk6e",
+        "title": "Michael Goodwin: Mamdani unveils new NYC antisemitism strategy —but can’t hide his hatred for Israel",
+        "excerpt": "According to a lengthy release issued by Mayor Zohran Mamdani's office Tuesday, Hizzoner has discovered that Jew hatred in Gotham is dangerous and widespread.",
+        "content": "<p>According to a lengthy release issued by Mayor Zohran Mamdani's office Tuesday, Hizzoner has discovered that Jew hatred in Gotham is dangerous and widespread.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/09/new-york-ny-nyc-public-140491324-e1790732371579.jpg?quality=75&strip=all&w=1200",
+        "date": "Sep 30, 2026",
+        "url": "https://nypost.com/2026/09/29/opinion/michael-goodwin-mamdani-unveils-new-nyc-antisemitism-strategy-but-cant-hide-his-hatred-for-israel/"
+    },
+    {
+        "id": "8n2qcz0gv",
+        "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
+        "excerpt": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+        "content": "<p>The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a",
+        "date": "Sep 30, 2026",
+        "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260930~d495288355.en.html"
+    },
+    {
+        "id": "whwvvgohz",
+        "title": "Strange giant planet TOI-1355 b set to vanish from view in 2033",
+        "excerpt": "Since their first discovery in 1995, hot Jupiter exoplanets (hot Jupiters, for short) quickly challenged our understanding of exoplanet formation and evolution, including exoplanetary system architecture. This is because, as their name implies, they orbit at …",
+        "content": "<p>Since their first discovery in 1995, hot Jupiter exoplanets (hot Jupiters, for short) quickly challenged our understanding of exoplanet formation and evolution, including exoplanetary system architecture. This is because, as their name implies, they orbit at …</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.universetoday.com/article_images/MIT_Shortest-Giant-02-press.jpg_750_20260930_020639.jpg",
+        "date": "Sep 30, 2026",
+        "url": "https://www.universetoday.com/articles/strange-giant-planet-toi-1355-b-set-to-vanish-from-view-in-2033"
+    },
+    {
         "id": "3qowmcs5d",
         "title": "How Drones and Robots Are Reshaping Renewable-Energy Operations",
         "excerpt": "Editor’s note: This article was written by Lucia, a TechNode reporter. When photovoltaic panels develop defects such as hot spots, physical damage, dust buildup, or other obstructions, workers have traditionally had to inspect them one by one, often at height…",
