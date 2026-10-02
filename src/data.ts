@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "5i1y1qn7t",
+        "title": "Media Briefing: Publishers are turning GEO from an experiment into a business",
+        "excerpt": "Publishers are turning GEO into a new revenue stream as clients increasingly look to boost their brands’ visibility in AI-generated answers.",
+        "content": "<p>Publishers are turning GEO into a new revenue stream as clients increasingly look to boost their brands’ visibility in AI-generated answers.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg",
+        "date": "Oct 1, 2026",
+        "url": "http://digiday.com/media/media-briefing-publishers-are-turning-geo-from-an-experiment-into-a-business/"
+    },
+    {
+        "id": "hy0ak78ga",
+        "title": "IBM Introduces Self-Hosted Deployment for IBM Bob to Help Enterprises Advance AI Sovereignty and Governance",
+        "excerpt": "Enterprises can now benefit from AI-powered software development and modernization without moving sensitive code, data, or workflows outside their controlled infrastructure ARMONK, N.Y., Oct. 1, 2026 /PRNewswire/ -- Today IBM (NYSE: IBM) announced self-hosted…",
+        "content": "<p>Enterprises can now benefit from AI-powered software development and modernization without moving sensitive code, data, or workflows outside their controlled infrastructure ARMONK, N.Y., Oct. 1, 2026 /PRNewswire/ -- Today IBM (NYSE: IBM) announced self-hosted…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1836571/Bob-home-page-light-Banner.jpg?id=OA2977205&p=facebook",
+        "date": "Oct 1, 2026",
+        "url": "https://www.prnewswire.com/news-releases/ibm-introduces-self-hosted-deployment-for-ibm-bob-to-help-enterprises-advance-ai-sovereignty-and-governance-302893486.html"
+    },
+    {
+        "id": "ah1njxhbz",
+        "title": "As AI slop spreads, Pixability offers a way to root it out on YouTube",
+        "excerpt": "All social media platforms these days bristle with exponentially increasing amounts of AI slop. What if there's a new way to root it out?",
+        "content": "<p>All social media platforms these days bristle with exponentially increasing amounts of AI slop. What if there's a new way to root it out?</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2024/02/youtube-filming-digiday.jpg",
+        "date": "Oct 1, 2026",
+        "url": "http://digiday.com/media-buying/as-ai-slop-spreads-pixability-offers-a-way-to-root-it-out-on-youtube/"
+    },
+    {
+        "id": "zi8pllqnh",
+        "title": "Kyndryl Report: As AI Broadens Modernization Agenda, Leaders Prioritize Business Outcomes Over Replacing Legacy Systems",
+        "excerpt": "Global survey reveals how 2,000 business and technology leaders are addressing AI-driven demand across IT elements Nearly half of organizations are behind schedule despite modernization being a top priority 98% of organizations delayed modernization and exper…",
+        "content": "<p>Global survey reveals how 2,000 business and technology leaders are addressing AI-driven demand across IT elements Nearly half of organizations are behind schedule despite modernization being a top priority 98% of organizations delayed modernization and exper…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1331634/Kyndryl-Logo-v1.jpg?id=OA2981436&p=facebook",
+        "date": "Oct 1, 2026",
+        "url": "https://www.prnewswire.com/news-releases/kyndryl-report-as-ai-broadens-modernization-agenda-leaders-prioritize-business-outcomes-over-replacing-legacy-systems-302895199.html"
+    },
+    {
+        "id": "ldznr3zkd",
+        "title": "The Politics Of Panic",
+        "excerpt": "Photo Credit:\n \n AI for American ThinkerBy Jack HellnerFrom tariffs and grocery shelves to AI and martial law, election-season fear keeps outrunning the facts.",
+        "content": "<p>Photo Credit:\n \n AI for American ThinkerBy Jack HellnerFrom tariffs and grocery shelves to AI and martial law, election-season fear keeps outrunning the facts.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.americanthinker.com/qu/qu2srz5vyfn5bwytx13u_1200.jpg",
+        "date": "Oct 1, 2026",
+        "url": "https://www.americanthinker.com/articles/2026/10/the-politics-of-panic/"
+    },
+    {
+        "id": "qyuyi6od0",
+        "title": "PropertyGuru’s Home Run: Singapore returns with Tyler Ten, The Muttons and 12 property agents",
+        "excerpt": "The property reality competition returns on Oct 8 with 12 agents battling it out in creative challenges, plus celebrity appearances by Tyler Ten, The Muttons, Annette Lee and more.",
+        "content": "<p>The property reality competition returns on Oct 8 with 12 agents battling it out in creative challenges, plus celebrity appearances by Tyler Ten, The Muttons, Annette Lee and more.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--ekEFT0Zk--/c_crop,h_1080,w_1921,x_1,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/01/home_run_3.png?itok=moyek9f7",
+        "date": "Oct 1, 2026",
+        "url": "https://cnalifestyle.channelnewsasia.com/entertainment/propertyguru-home-run-singapore-mediacorp-589821"
+    },
+    {
+        "id": "jv941emgc",
+        "title": "A Hip Tendon Tear Hid Beneath Intact Fibers, and Surgeons Gave It a Designer Name: GUCCI",
+        "excerpt": "A 63-year-old's hip tendon looked intact in surgery until a subtle wave sign revealed hidden damage. Surgeons named the lesion GUCCI.",
+        "content": "<p>A 63-year-old's hip tendon looked intact in surgery until a subtle wave sign revealed hidden damage. Surgeons named the lesion GUCCI.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://d.medicaldaily.com/en/full/486670/editorial-illustration-via-ai.jpg",
+        "date": "Oct 1, 2026",
+        "url": "https://www.medicaldaily.com/gucci-lesion-gluteal-tendon-tear-wave-sign-479339"
+    },
+    {
+        "id": "4za3o8x35",
+        "title": "First Direct Image of Protoplanet Swirling Surrounding Gas",
+        "excerpt": "The formation and evolution of planets is the driving force behind both where and how we might find life beyond Earth. This complex and lengthy process first begins with a massive ball of gas and dust that swirls until it flattens into a disk, followed by roc…",
+        "content": "<p>The formation and evolution of planets is the driving force behind both where and how we might find life beyond Earth. This complex and lengthy process first begins with a massive ball of gas and dust that swirls until it flattens into a disk, followed by roc…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.universetoday.com/article_images/ezgif-2df6c5926098d061.jpg_750_20261001_025844.jpg",
+        "date": "Oct 1, 2026",
+        "url": "https://www.universetoday.com/articles/first-direct-image-of-protoplanet-swirling-surrounding-gas"
+    },
+    {
+        "id": "n57wjrl11",
+        "title": "South Park S29E02: \"Billionaire Weenietown\": AI Trump Returns & More",
+        "excerpt": "Trey Parker and Matt Stone's Emmy Award-winning South Park/South America Season 29 returns tonight, and Butters has a problem. A serious problem. It seems there's an infestation of billionaires looking to build AI data centers wherever there's a free patch of…",
+        "content": "<p>Trey Parker and Matt Stone's Emmy Award-winning South Park/South America Season 29 returns tonight, and Butters has a problem. A serious problem. It seems there's an infestation of billionaires looking to build AI data centers wherever there's a free patch of…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/09/MixCollage-30-Sep-2026-10-47-PM-9775-2000x1125.jpg",
+        "date": "Oct 1, 2026",
+        "url": "https://bleedingcool.com/tv/south-park-s29e02-billionaire-weenietown-ai-trump-returns-more/"
+    },
+    {
+        "id": "71a5kl0e8",
+        "title": "Coldest Lava Exoplanet Found to Hold an Atmosphere",
+        "excerpt": "Exoplanets continue to challenge our understanding of planetary formation, evolution, and whether they might be able to support life as we know it. Scientists often use planets in our solar system as analogs for exoplanets, studying exoplanets with extremely …",
+        "content": "<p>Exoplanets continue to challenge our understanding of planetary formation, evolution, and whether they might be able to support life as we know it. Scientists often use planets in our solar system as analogs for exoplanets, studying exoplanets with extremely …</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.universetoday.com/article_images/lava-planet-1380.jpg_750_20261001_024616.jpg",
+        "date": "Oct 1, 2026",
+        "url": "https://www.universetoday.com/articles/coldest-lava-exoplanet-found-to-hold-an-atmosphere"
+    },
+    {
         "id": "ch4faa4uv",
         "title": "Amazon Delivery Drivers Routinely Speed, Block Bus And Bike Lanes",
         "excerpt": "Amazon delivery drivers have racked up thousands of serious traffic violations in New York City, according to city data.",
