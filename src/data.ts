@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "isrrlje34",
+        "title": "Putin sees ‘very big potential’ in India ties, backs joint use of global trade corridors",
+        "excerpt": "Vladimir Putin highlighted significant potential for economic collaboration with India, particularly in transport and shipping corridors. He expressed readiness for joint maritime initiatives following successful pilot voyages with China and South Korea. Puti…",
+        "content": "<p>Vladimir Putin highlighted significant potential for economic collaboration with India, particularly in transport and shipping corridors. He expressed readiness for joint maritime initiatives following successful pilot voyages with China and South Korea. Puti…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-134631285,width-1200,height-900,imgsize-38398,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 2, 2026",
+        "url": "https://economictimes.indiatimes.com/news/india/putin-sees-very-big-potential-in-india-ties-backs-joint-use-of-global-trade-corridors/articleshow/134631286.cms"
+    },
+    {
+        "id": "0oexxa5ij",
+        "title": "Fed’s Lisa Cook warns AI spending could fuel inflation into 2027",
+        "excerpt": "AI-driven investments may strain supply chains, potentially elevating inflation risks, while productivity gains remain uncertain in timing.\nThe post Fed’s Lisa Cook warns AI spending could fuel inflation into 2027 appeared first on Crypto Briefing.",
+        "content": "<p>AI-driven investments may strain supply chains, potentially elevating inflation risks, while productivity gains remain uncertain in timing.\nThe post Fed’s Lisa Cook warns AI spending could fuel inflation into 2027 appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/01234416/library-fed-s-lisa-cook-warns-ai-spending-could-fuel-inflation-i-800x450.png",
+        "date": "Oct 2, 2026",
+        "url": "https://cryptobriefing.com/fed-lisa-cook-ai-inflation-risk-2027/"
+    },
+    {
+        "id": "z87nogii6",
+        "title": "WATCH: High school volleyball scores & highlights | October 1, 2026",
+        "excerpt": "Tobin McDuff breaks down highlights and scores from local high school volleyball games played on Thursday, October 1, 2026. Henrietta vs City View | Lady Mustangs def. Lady ‘Cats | 25-17, 25-15, 25-12 Legacy vs No. 20 Memorial | (20)Mavericks def. Leopards | …",
+        "content": "<p>Tobin McDuff breaks down highlights and scores from local high school volleyball games played on Thursday, October 1, 2026. Henrietta vs City View | Lady Mustangs def. Lady ‘Cats | 25-17, 25-15, 25-12 Legacy vs No. 20 Memorial | (20)Mavericks def. Leopards | …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/5fdfbbac71301af86cc02387fdb96ab2090c2433385fd6ee6b8c06e690c04750/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkfdx_wichita_falls_articles_332%2F607bc421be92fa7bceed8925414bdf5d.jpg",
+        "date": "Oct 2, 2026",
+        "url": "https://www.texomashomepage.com/sports/local-sports/watch-high-school-volleyball-scores-highlights-october-1-2026/"
+    },
+    {
+        "id": "wgm57tcgj",
+        "title": "HIGHLIGHTS: Camden (NJ) vs. Permian",
+        "excerpt": "ODESSA, Texas (KMID/KPEJ) – It was a battle of Panthers as the Permian Panthers hosted the Camden Panthers from New Jersey. After a 14-13 lead at the half MOJO would control the second half with a 14-0 run. With the win Permian finishes non-district play unbe…",
+        "content": "<p>ODESSA, Texas (KMID/KPEJ) – It was a battle of Panthers as the Permian Panthers hosted the Camden Panthers from New Jersey. After a 14-13 lead at the half MOJO would control the second half with a 14-0 run. With the win Permian finishes non-district play unbe…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/0aa7ea7c4f49912ff1b1e07bfa9dc3945c9ffcaf753322b42366b47477581e7c/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkmid_midland_articles_115%2F36932b5782d594fb92b385360c4b4e59.jpg",
+        "date": "Oct 2, 2026",
+        "url": "https://www.yourbasin.com/sports/basin-gridiron-hsfb/highlights-camden-nj-vs-permian/"
+    },
+    {
+        "id": "1s3gi5le6",
+        "title": "Born This Day 37 Years Ago, An Academy Award-Winning Marvel Actress Who First Appeared at Age 8 in a Tonight Show With Jay Leno Skit",
+        "excerpt": "Brie Larson’s career seems complete with her Oscar, her Marvel movies, and the enormous roles that came later. But every actor has to start somewhere, and Larson’s early Hollywood résumé is considerably different than you might normally expect. Long before sh…",
+        "content": "<p>Brie Larson’s career seems complete with her Oscar, her Marvel movies, and the enormous roles that came later. But every actor has to start somewhere, and Larson’s early Hollywood résumé is considerably different than you might normally expect. Long before sh…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2026/09/brie-larson-right-on-trak-2003.png?resize=2000,1125",
+        "date": "Oct 2, 2026",
+        "url": "http://comicbook.com/movies/feature/born-this-day-37-years-ago-an-academy-award-winning-marvel-actress-who-first-appeared-at-age-8-in-a-tonight-show-with-jay-leno-skit/"
+    },
+    {
+        "id": "1lpmj97ie",
+        "title": "Thursday high school volleyball highlights and scores for Oct. 1",
+        "excerpt": "(WJHL) — There were a small number of volleyball games played in the area in both states. The Tennessee High Volleyball team opened District Tournament play by eliminating Boone 25-21, 26-28, 25-17, 27-25. Libby Boyles and Zoey Phillips led the offense with 1…",
+        "content": "<p>(WJHL) — There were a small number of volleyball games played in the area in both states. The Tennessee High Volleyball team opened District Tournament play by eliminating Boone 25-21, 26-28, 25-17, 27-25. Libby Boyles and Zoey Phillips led the offense with 1…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/e0dade9e962d96e549876d410d3cd927750c254d3fc2153b02d7c6c686e233a7/lightyear_networkapi/resizefill_w900_h502%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwjhl_tri_cities_articles_267%2Fa2ad73ca21589f815df7b6502cba5ee9.jpg",
+        "date": "Oct 2, 2026",
+        "url": "https://www.wjhl.com/sports/thursday-high-school-volleyball-highlights-and-scores-for-oct-1/"
+    },
+    {
+        "id": "06xfbz70l",
+        "title": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China",
+        "excerpt": "The arrest highlights escalating tensions in US-China tech relations, potentially tightening export controls and scrutiny on global tech supply chains.\nThe post California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China appeare…",
+        "content": "<p>The arrest highlights escalating tensions in US-China tech relations, potentially tightening export controls and scrutiny on global tech supply chains.\nThe post California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China appeare…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/01231356/library-california-man-arrested-over-alleged-300-million-nvidia--800x450.png",
+        "date": "Oct 2, 2026",
+        "url": "https://cryptobriefing.com/california-man-arrested-nvidia-chip-smuggling-china/"
+    },
+    {
+        "id": "q12kheygf",
+        "title": "India, Bulgaria review bilateral ties; push for early India-EU FTA",
+        "excerpt": "India and Bulgaria have called for early implementation of the India-EU free trade agreement, saying it could significantly deepen bilateral economic ties. The two sides also reviewed cooperation in trade, investment, AI, space, defence, science and technolog…",
+        "content": "<p>India and Bulgaria have called for early implementation of the India-EU free trade agreement, saying it could significantly deepen bilateral economic ties. The two sides also reviewed cooperation in trade, investment, AI, space, defence, science and technolog…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134630910,width-1200,height-900,imgsize-71174,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 2, 2026",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-bulgaria-review-bilateral-ties-push-for-early-india-eu-fta/articleshow/134630911.cms"
+    },
+    {
+        "id": "qm889uxnt",
+        "title": "This & That: October 2, 2026",
+        "excerpt": "A new-to-me French drama series set in Paris (loving it!), friends and family sales not to miss, books about seasonal decorating, reading, books and the humor bookselling can bring, a mystery set in London that revolves around . . . (you’ll just have to start…",
+        "content": "<p>A new-to-me French drama series set in Paris (loving it!), friends and family sales not to miss, books about seasonal decorating, reading, books and the humor bookselling can bring, a mystery set in London that revolves around . . . (you’ll just have to start…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://i0.wp.com/thesimplyluxuriouslife.com/wp-content/uploads/2026/10/overthemoonrose-scaled.jpg?fit=1920%2C2560&ssl=1",
+        "date": "Oct 2, 2026",
+        "url": "https://thesimplyluxuriouslife.com/tt10226/"
+    },
+    {
+        "id": "m84a2rvbc",
+        "title": "Local high school football highlights and scores (10-1-26)",
+        "excerpt": "Here’s a look at our local high school football highlights and scores from October 1st, 2026: Iowa Sioux City East vs. Des Moines Roosevelt G-T/R-A 66, St. Edmond 12 Nebraska Pierce 40, Norfolk Catholic 12 All-Nations League Walthill 54, Flandreau Indian 6",
+        "content": "<p>Here’s a look at our local high school football highlights and scores from October 1st, 2026: Iowa Sioux City East vs. Des Moines Roosevelt G-T/R-A 66, St. Edmond 12 Nebraska Pierce 40, Norfolk Catholic 12 All-Nations League Walthill 54, Flandreau Indian 6</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/9ea9b3dc0924dd11779c8ff054b9e6420bfa79a24fca1fd9186d5438cfdd23ca/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkcau_sioux_city_articles_201%2F0a5f6697463091c1fe7e8842cf972581.jpg",
+        "date": "Oct 2, 2026",
+        "url": "https://www.kcau9.com/sports/local-high-school-football-highlights-and-scores-10-1-26/"
+    },
+    {
         "id": "5i1y1qn7t",
         "title": "Media Briefing: Publishers are turning GEO from an experiment into a business",
         "excerpt": "Publishers are turning GEO into a new revenue stream as clients increasingly look to boost their brands’ visibility in AI-generated answers.",
