@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "clnqiol2z",
+        "title": "Apple's Next Big Bet Could Reportedly Be Home Security Cameras, With a Twist",
+        "excerpt": "Instead of recording video, Apple's security cams will act as sensors using AI.\nFollowing the foldable iPhone Duo and rumored smart home hubs, Apple's next product category expansion could be home security cameras. Work on the security cameras, codenamed J450…",
+        "content": "<p>Instead of recording video, Apple's security cams will act as sensors using AI.\nFollowing the foldable iPhone Duo and rumored smart home hubs, Apple's next product category expansion could be home security cameras. Work on the security cameras, codenamed J450…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://sm.pcmag.com/t/pcmag_me/news/a/apples-nex/apples-next-big-bet-could-reportedly-be-home-security-camera_377s.1200.jpg",
+        "date": "Oct 3, 2026",
+        "url": "https://me.pcmag.com/en/home-security-cameras/38223/apples-next-big-bet-could-reportedly-be-home-security-cameras-with-a-twist"
+    },
+    {
+        "id": "2y7uap2rx",
+        "title": "The State as an Extension of Self: Psychological Evil",
+        "excerpt": "“Alas, when the freedom of the individual is defined and woven into the freedom of an imaginary whole, the individual ceases to have any freedom uniquely their own. It is no longer your freedom, but our freedom. It is no longer about your health, but our heal…",
+        "content": "<p>“Alas, when the freedom of the individual is defined and woven into the freedom of an imaginary whole, the individual ceases to have any freedom uniquely their own. It is no longer your freedom, but our freedom. It is no longer about your health, but our heal…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://lrc-cdn.s3.amazonaws.com/assets/2021/02/LRC-share.jpg",
+        "date": "Oct 3, 2026",
+        "url": "https://www.lewrockwell.com/2026/10/gary-d-barnett/the-state-as-an-extension-of-self-psychological-evil/"
+    },
+    {
+        "id": "qwnhp2743",
+        "title": "5th Quarter Scoreboard: Several area teams lock up conference title shares in Week 6",
+        "excerpt": "LANSING, Mich. (WLNS) – Week six of the high school football season delivered an instant classic in our 6 Sports Big Game of the Week, as Pewamo-Westphalia outlasted Fowler 34-28 in double overtime to secure at least a share of the CMAC championship. The Pira…",
+        "content": "<p>LANSING, Mich. (WLNS) – Week six of the high school football season delivered an instant classic in our 6 Sports Big Game of the Week, as Pewamo-Westphalia outlasted Fowler 34-28 in double overtime to secure at least a share of the CMAC championship. The Pira…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/084f931827925ce1f25e5f2ac8995967c41d7c584b9808e0c568f9164c302dc8/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwlns_lansing_articles_314%2F94e05af510a32ab1a2d31a15698282fc.jpg",
+        "date": "Oct 3, 2026",
+        "url": "https://www.wlns.com/sports/5th-quarter-scoreboard-several-area-teams-lock-up-conference-title-shares-in-week-6/"
+    },
+    {
+        "id": "epexev8jo",
+        "title": "Maurizio Cattelan: “My kneeling Hitler is now in Berlin, so we never forget”",
+        "excerpt": "The Italian artist discusses his exhibition at the Neue Nationalgalerie, where his sculpture of the Führer is on show as Germany grapples with the rise of the far right",
+        "content": "<p>The Italian artist discusses his exhibition at the Neue Nationalgalerie, where his sculpture of the Führer is on show as Germany grapples with the rise of the far right</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.repstatic.it/content/localirep/img/rep-europe/2026/10/02/150319782-b146f6df-eb15-474d-a36a-ae7fdb579c1f.jpg",
+        "date": "Oct 3, 2026",
+        "url": "https://europe.repubblica.it/en/culture/2026/10/03/news/maurizio_cattelan_interview_kneeling_hitler_berlin_afd_germany-425621621/"
+    },
+    {
+        "id": "x8rkskd62",
+        "title": "Anthropic warns Pentagon fight could cost it billions beyond defense",
+        "excerpt": "Anthropic's Pentagon dispute highlights the potential for policy disagreements to significantly impact AI companies' commercial viability.\nThe post Anthropic warns Pentagon fight could cost it billions beyond defense appeared first on Crypto Briefing.",
+        "content": "<p>Anthropic's Pentagon dispute highlights the potential for policy disagreements to significantly impact AI companies' commercial viability.\nThe post Anthropic warns Pentagon fight could cost it billions beyond defense appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/02234607/library-anthropic-warns-pentagon-fight-could-cost-it-billions-be-800x450.png",
+        "date": "Oct 3, 2026",
+        "url": "https://cryptobriefing.com/anthropic-pentagon-dispute-government-pressure/"
+    },
+    {
+        "id": "9nyts873a",
+        "title": "Bloom Energy Trades at a 380x P/E Ratio. Here's What Has to Go Right to Justify That",
+        "excerpt": "For years, Bloom Energy (NYSE: BE) lost money as it worked to perfect its hydrogen fuel cells. Even as the technology improved, it still wasn't clear that there was a huge market opportunity. Artificial intelligence (AI) has dramatically changed the story. Th…",
+        "content": "<p>For years, Bloom Energy (NYSE: BE) lost money as it worked to perfect its hydrogen fuel cells. Even as the technology improved, it still wasn't clear that there was a huge market opportunity. Artificial intelligence (AI) has dramatically changed the story. Th…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/1dd0b0ba6c683a53_s.webp",
+        "date": "Oct 3, 2026",
+        "url": "https://biztoc.com/x/1dd0b0ba6c683a53"
+    },
+    {
+        "id": "06wr8dqzg",
+        "title": "More Chinese banks likely to adopt AI rules after Ping An move: analysts",
+        "excerpt": "After Ping An Bank became the first listed Chinese lender to formally adopt rules governing its use of artificial intelligence, analysts said more mainland institutions were likely to follow, with the move setting an early benchmark for how far the sector can…",
+        "content": "<p>After Ping An Bank became the first listed Chinese lender to formally adopt rules governing its use of artificial intelligence, analysts said more mainland institutions were likely to follow, with the move setting an early benchmark for how far the sector can…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/a8db269c5e5bb0d5_s.webp",
+        "date": "Oct 3, 2026",
+        "url": "https://biztoc.com/x/a8db269c5e5bb0d5"
+    },
+    {
+        "id": "j14403vcx",
+        "title": "How Do You Know That You Love Somebody? Philosopher Martha Nussbaum’s Incompleteness Theorem of the Heart’s Truth, from Plato to Proust",
+        "excerpt": "\"The alternations between love and its denial, suffering and denial of suffering … constitute the most essential and ubiquitous structural feature of the human heart.\"",
+        "content": "<p>\"The alternations between love and its denial, suffering and denial of suffering … constitute the most essential and ubiquitous structural feature of the human heart.\"</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.themarginalian.org/wp-content/uploads/2014/03/dali_divinecomedy211.jpg?fit=550%2C289&ssl=1",
+        "date": "Oct 3, 2026",
+        "url": "https://www.themarginalian.org/2026/10/02/martha-nussbaum-loves-knowledge/"
+    },
+    {
+        "id": "6tlabw6vw",
+        "title": "Jensen Huang's net worth crosses $200 billion, becomes world's 7th-richest person as Nvidia shares hit record",
+        "excerpt": "Nvidia's CEO, Jensen Huang, has a net worth exceeding $200 billion as his company’s shares reached an all-time high of $237. Huang's fortune increased by $3.4 billion, positioning him as the seventh-richest person globally, driven by demand for AI chips and a…",
+        "content": "<p>Nvidia's CEO, Jensen Huang, has a net worth exceeding $200 billion as his company’s shares reached an all-time high of $237. Huang's fortune increased by $3.4 billion, positioning him as the seventh-richest person globally, driven by demand for AI chips and a…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/im-52726894_1786451780417_1790992168694_jpLz_f26c02d5-0d49-40ef-b416-8aa52546a6ae_vQJ5.jpg",
+        "date": "Oct 3, 2026",
+        "url": "https://www.livemint.com/companies/news/jensen-huangs-net-worth-crosses-200-billion-becomes-worlds-7th-richest-person-as-nvidia-shares-hit-record-11790990983761.html"
+    },
+    {
+        "id": "s7h9gd8ra",
+        "title": "InfraCredit builds capacity as infrastructure pipeline grows",
+        "excerpt": "InfraCredit has secured a $50m debt facility from the International Finance Corporation to strengthen its capacity to mobilise capital for infrastructure.\n\nRead More: https://punchng.com/infracredit-builds-capacity-as-infrastructure-pipeline-grows/",
+        "content": "<p>InfraCredit has secured a $50m debt facility from the International Finance Corporation to strengthen its capacity to mobilise capital for infrastructure.\n\nRead More: https://punchng.com/infracredit-builds-capacity-as-infrastructure-pipeline-grows/</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/10/03023141/Infracredit_1790991101.webp",
+        "date": "Oct 3, 2026",
+        "url": "https://punchng.com/infracredit-builds-capacity-as-infrastructure-pipeline-grows/"
+    },
+    {
         "id": "isrrlje34",
         "title": "Putin sees ‘very big potential’ in India ties, backs joint use of global trade corridors",
         "excerpt": "Vladimir Putin highlighted significant potential for economic collaboration with India, particularly in transport and shipping corridors. He expressed readiness for joint maritime initiatives following successful pilot voyages with China and South Korea. Puti…",
