@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "h4qyfscn0",
+        "title": "In Arkansas, the Good, the Brad, and the Ugly",
+        "excerpt": "Mores about race have changed since the ’90s, but there is such a thing as overcorrection.\nThe post In Arkansas, the Good, the Brad, and the Ugly appeared first on The American Conservative.",
+        "content": "<p>Mores about race have changed since the ’90s, but there is such a thing as overcorrection.\nThe post In Arkansas, the Good, the Brad, and the Ugly appeared first on The American Conservative.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://www.theamericanconservative.com/wp-content/uploads/2026/10/Sanders.jpg",
+        "date": "Oct 4, 2026",
+        "url": "https://www.theamericanconservative.com/in-arkansas-the-good-the-brad-and-the-ugly/"
+    },
+    {
+        "id": "09izfie26",
+        "title": "Breaking News Live: Aichi-Nagoya Asian Games 2026 to conclude today with closing ceremony",
+        "excerpt": "Breaking News Live Updates: The Aichi-Nagoya Asian Games 2026 will draw to a close today, bringing more than two weeks of sporting action to an end. The closing ceremony will be held at the Nagoya City Mizuho Park Athletic Stadium in Japan, which also hosted …",
+        "content": "<p>Breaking News Live Updates: The Aichi-Nagoya Asian Games 2026 will draw to a close today, bringing more than two weeks of sporting action to an end. The closing ceremony will be held at the Nagoya City Mizuho Park Athletic Stadium in Japan, which also hosted …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://economictimes.indiatimes.com/thumb/msid-134669407,width-1200,height-900,resizemode-4,imglength-153610/news/newsblogs/latest-news-updates-today-october-4-aichi-nagoya-asian-games-2026-closing-ceremony-sir-protest-gyanesh-kumar-cjp-jantar-mantar-delhi-mumbai-smit-machchhar-us-israel-iran-modi-trump.jpg",
+        "date": "Oct 4, 2026",
+        "url": "https://m.economictimes.com/news/newsblogs/latest-news-updates-today-october-4-aichi-nagoya-asian-games-2026-closing-ceremony-sir-protest-gyanesh-kumar-cjp-jantar-mantar-delhi-mumbai-smit-machchhar-us-israel-iran-modi-trump/liveblog/134669407.cms"
+    },
+    {
+        "id": "uiatxycoy",
+        "title": "Decades Of Refinery Mismanagement Are Behind $6 Per Gallon Diesel",
+        "excerpt": "Photo Credit:\n \n AI by Luis GonzalezBy Luis GonzalezThe people who gave us $6 per gallon diesel now want to be elected because diesel is punishingly expensive.",
+        "content": "<p>Photo Credit:\n \n AI by Luis GonzalezBy Luis GonzalezThe people who gave us $6 per gallon diesel now want to be elected because diesel is punishingly expensive.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.americanthinker.com/st/stsp6ibb7zuvqbyp5txx_1200.jpg",
+        "date": "Oct 4, 2026",
+        "url": "https://www.americanthinker.com/articles/2026/10/decades-of-refinery-mismanagement-are-behind-6-per-gallon-diesel/"
+    },
+    {
+        "id": "lulo1t3qn",
+        "title": "Don’t Wait For Another Pearl Harbor",
+        "excerpt": "Photo Credit:\n \n AI for American ThinkerBy Allan J. FeiferAmerica must distinguish between avoiding unnecessary wars and ignoring gathering threats.",
+        "content": "<p>Photo Credit:\n \n AI for American ThinkerBy Allan J. FeiferAmerica must distinguish between avoiding unnecessary wars and ignoring gathering threats.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://images.americanthinker.com/j1/j16po0tbcxm01rqyazau_1200.jpg",
+        "date": "Oct 4, 2026",
+        "url": "https://www.americanthinker.com/articles/2026/10/don-t-wait-for-another-pearl-harbor/"
+    },
+    {
+        "id": "dtjaadx1u",
+        "title": "WATCH: College volleyball highlights, high school volleyball scores | October 3, 2026",
+        "excerpt": "Parker Hollendoner breaks down scores and highlights from Texoma volleyball games played on Saturday, October 3, 2026. Cameron vs Midwestern State | Mustangs def. Aggies | 25-22, 25-17, 25-19 Vernon College vs Cisco College | Wranglers def. Chaparrals | 25-20…",
+        "content": "<p>Parker Hollendoner breaks down scores and highlights from Texoma volleyball games played on Saturday, October 3, 2026. Cameron vs Midwestern State | Mustangs def. Aggies | 25-22, 25-17, 25-19 Vernon College vs Cisco College | Wranglers def. Chaparrals | 25-20…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/924f425a5001e0a12cb8a7eb28242a4a7000ac099b3f2bd5f11394dcb552c661/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkfdx_wichita_falls_articles_332%2F737b619ed8b610e606b71e6e7f5cf968.jpg",
+        "date": "Oct 4, 2026",
+        "url": "https://www.texomashomepage.com/sports/local-sports/watch-college-volleyball-highlights-high-school-volleyball-scores-october-3-2026/"
+    },
+    {
+        "id": "73ynwnwl0",
+        "title": "Keralam renames IT dept to reflect state's next-Gen tech ambitions",
+        "excerpt": "Kerala renames Electronics & IT to Information Technology, AI and Future Technologies, expanding its tech mandate toward AI, quantum, semiconductors, and future innovation.",
+        "content": "<p>Kerala renames Electronics & IT to Information Technology, AI and Future Technologies, expanding its tech mandate toward AI, quantum, semiconductors, and future innovation.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/sq6378/article71542915.ece/alternates/LANDSCAPE_1200/Centre-fortifieGLUGK2KU2.4.jpg.jpg",
+        "date": "Oct 4, 2026",
+        "url": "https://www.thehindubusinessline.com/info-tech/keralam-renames-it-dept-to-reflect-states-next-gen-tech-ambitions/article71542872.ece"
+    },
+    {
+        "id": "sg859esm2",
+        "title": "I Tested Every Apple Intelligence Feature: Here's What’s Actually Worth Using",
+        "excerpt": "From Siri's massive overhaul to AI photo editing, I separate the game-changing tools from the total gimmicks so you don't have to.\nApple Intelligence has officially landed across the iPhone, iPad, and Mac—bringing everything from an upgraded, chat-ready Siri …",
+        "content": "<p>From Siri's massive overhaul to AI photo editing, I separate the game-changing tools from the total gimmicks so you don't have to.\nApple Intelligence has officially landed across the iPhone, iPad, and Mac—bringing everything from an upgraded, chat-ready Siri …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://sm.pcmag.com/t/pcmag_me/explainers/i/i-tested-e/i-tested-every-apple-intelligence-feature-heres-whats-actual_rvmj.1200.jpg",
+        "date": "Oct 4, 2026",
+        "url": "https://me.pcmag.com/en/ai/38230/i-tested-every-apple-intelligence-feature-heres-whats-actually-worth-using"
+    },
+    {
+        "id": "bsdinlcgc",
+        "title": "I Asked a Privacy Tool What ChatGPT Knows About Me. The Result Was Terrifyingly Accurate",
+        "excerpt": "Every chat leaves a trace. A new tool reveals the startlingly specific inferences ChatGPT makes about your job, location, habits, and more.\nEver wonder what AI chatbots actually know about you? Hint: It’s far more than what appears on screen. Every prompt you…",
+        "content": "<p>Every chat leaves a trace. A new tool reveals the startlingly specific inferences ChatGPT makes about your job, location, habits, and more.\nEver wonder what AI chatbots actually know about you? Hint: It’s far more than what appears on screen. Every prompt you…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://sm.pcmag.com/t/pcmag_me/explainers/i/i-asked-a-/i-asked-a-privacy-tool-what-chatgpt-knows-about-me-the-resul_ny34.1200.jpg",
+        "date": "Oct 4, 2026",
+        "url": "https://me.pcmag.com/en/security/38229/i-asked-a-privacy-tool-what-chatgpt-knows-about-me-the-result-was-terrifyingly-accurate"
+    },
+    {
+        "id": "x3r2b24ku",
+        "title": "Toyota Deeside becomes first carbon-neutral plant outside Japan",
+        "excerpt": "Toyota's Deeside engine plant achieves carbon-neutral production using renewable energy, biomethane from local waste, and recycled aluminium, setting a template for its European factories.",
+        "content": "<p>Toyota's Deeside engine plant achieves carbon-neutral production using renewable energy, biomethane from local waste, and recycled aluminium, setting a template for its European factories.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.inautonews.com/media/licensed/2026/10/toyota-deeside-becomes-first-carbon-neutral-plant-outside-ja-4376d3af.jpg?w=1536",
+        "date": "Oct 4, 2026",
+        "url": "https://www.inautonews.com/toyota-deeside-becomes-first-carbon-neutral-plant-outside-japan"
+    },
+    {
+        "id": "41zeilhce",
+        "title": "Brazil election: Lula, Flavio Bolsonaro face off in tight race shaped by Trump factor",
+        "excerpt": "Brazilians are preparing to vote in a tight election between President Lula and Flavio Bolsonaro on Sunday. Lula is seeking a fourth term while Bolsonaro aims to take advantage of his father's legacy. Opinion polls indicate neither candidate is expected to ac…",
+        "content": "<p>Brazilians are preparing to vote in a tight election between President Lula and Flavio Bolsonaro on Sunday. Lula is seeking a fourth term while Bolsonaro aims to take advantage of his father's legacy. Opinion polls indicate neither candidate is expected to ac…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://img.etimg.com/thumb/msid-134668851,width-1200,height-900,imgsize-338136,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 4, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/brazil-election-lula-flavio-bolsonaro-face-off-in-tight-race-shaped-by-trump-factor/articleshow/134668845.cms"
+    },
+    {
         "id": "clnqiol2z",
         "title": "Apple's Next Big Bet Could Reportedly Be Home Security Cameras, With a Twist",
         "excerpt": "Instead of recording video, Apple's security cams will act as sensors using AI.\nFollowing the foldable iPhone Duo and rumored smart home hubs, Apple's next product category expansion could be home security cameras. Work on the security cameras, codenamed J450…",
