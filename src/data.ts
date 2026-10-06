@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "bg9q6e71z",
+        "title": "US stocks enter seasonally strong Q4 with bond yields, AI spending in focus",
+        "excerpt": "US stocks enter Q4 with strong seasonal support, but rising Treasury yields, elevated valuations and heavy AI spending create risks. The S&P 500’s direction will hinge on earnings, Federal Reserve policy, AI capital expenditure and November’s midterm election…",
+        "content": "<p>US stocks enter Q4 with strong seasonal support, but rising Treasury yields, elevated valuations and heavy AI spending create risks. The S&P 500’s direction will hinge on earnings, Federal Reserve policy, AI capital expenditure and November’s midterm election…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134686171,width-1200,height-900,imgsize-254300,overlay-etmarkets/articleshow.jpg",
+        "date": "Oct 5, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-enter-seasonally-strong-q4-with-bond-yields-ai-spending-in-focus/articleshow/134686121.cms"
+    },
+    {
+        "id": "f6wckp4o0",
+        "title": "Schneider Electric in advanced talks to buy US-based software firm PTC for roughly $20 billion: What we know",
+        "excerpt": "France-based Schneider Electric is in advanced talks to acquire US software company PTC for nearly $20 billion. The deal would be Schneider’s largest acquisition, strengthening its industrial software portfolio as it expands through acquisitions and benefits …",
+        "content": "<p>France-based Schneider Electric is in advanced talks to acquire US software company PTC for nearly $20 billion. The deal would be Schneider’s largest acquisition, strengthening its industrial software portfolio as it expands through acquisitions and benefits …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Schneider_Electric_PTC_1791175081548_UOsM_1791175081670_JFCv_6530b4c1-33d9-49c1-a92b-12b004916629_Cl1S.jpg",
+        "date": "Oct 5, 2026",
+        "url": "https://www.livemint.com/companies/news/schneider-electric-in-advanced-talks-to-buy-us-based-software-firm-ptc-for-roughly-20-billion-what-we-know-11791174772132.html"
+    },
+    {
+        "id": "lx9gf1fuv",
+        "title": "ITC Harnesses AI for Faster Decision-Making in Marketing Strategies, ETBrandEquity",
+        "excerpt": "The FMCG major is exploring AI across consumer insights, product development, content creation, first-party data and media optimisation, said its chief marketing and digital officer.",
+        "content": "<p>The FMCG major is exploring AI across consumer insights, product development, content creation, first-party data and media optimisation, said its chief marketing and digital officer.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://etimg.etb2bimg.com/thumb/msid-134685127,imgsize-191620,width-1200,height=627,overlay-etbrandequity,resizemode-75/marketing/digiplus-fest-2026-itc-uses-ai-to-reduce-decision-making-latency-across-marketing-shuvadip-banerjee.jpg",
+        "date": "Oct 5, 2026",
+        "url": "https://brandequity.economictimes.indiatimes.com/news/marketing/digiplus-fest-2026-itc-uses-ai-to-reduce-decision-making-latency-across-marketing-shuvadip-banerjee/134685127"
+    },
+    {
+        "id": "z7crqlwis",
+        "title": "Lotus Tech to Join WasabiCard's TOKEN2049 Singapore Side Event, Spotlighting Real-World Stablecoin Applications",
+        "excerpt": "SINGAPORE, Oct. 5, 2026 /PRNewswire/ -- WasabiCard, a stablecoin-powered global payment infrastructure platform, announced that it will host its TOKEN2049 Singapore Side Event, \"STABLECOIN & PAYMENTS: FUNDS FLOW,\" on October 6 at Raffles Singapore. Lotus Tech…",
+        "content": "<p>SINGAPORE, Oct. 5, 2026 /PRNewswire/ -- WasabiCard, a stablecoin-powered global payment infrastructure platform, announced that it will host its TOKEN2049 Singapore Side Event, \"STABLECOIN & PAYMENTS: FUNDS FLOW,\" on October 6 at Raffles Singapore. Lotus Tech…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://mmx.prnewswire.com/media/MS2000524/20260930222646EDT_image_1.jpg?id=OA2981844&p=facebook",
+        "date": "Oct 5, 2026",
+        "url": "https://www.prnewswire.com/news-releases/lotus-tech-to-join-wasabicards-token2049-singapore-side-event-spotlighting-real-world-stablecoin-applications-302898014.html"
+    },
+    {
+        "id": "bth4z0906",
+        "title": "Global Market: Japan’s Nikkei jumps 2.5% to 3-month high as AI stocks rally",
+        "excerpt": "Japan’s Nikkei surged 2.53% to a three-month high, led by AI and chip stocks following Wall Street gains. Advantest and Tokyo Electron rallied, while SoftBank also advanced. Easing expectations for a Federal Reserve rate hike supported sentiment, though inves…",
+        "content": "<p>Japan’s Nikkei surged 2.53% to a three-month high, led by AI and chip stocks following Wall Street gains. Advantest and Tokyo Electron rallied, while SoftBank also advanced. Easing expectations for a Federal Reserve rate hike supported sentiment, though inves…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134685893,width-1200,height-900,imgsize-238498,overlay-etmarkets/articleshow.jpg",
+        "date": "Oct 5, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-jumps-2-5-to-3-month-high-as-ai-stocks-rally/articleshow/134685851.cms"
+    },
+    {
+        "id": "xime7c2f0",
+        "title": "Markets snap eight-week losing streak; Financials lead, Healthcare and IT drag",
+        "excerpt": "The Nifty 50 opened at 22,532.40, against a previous close of 22,421.95, and was trading at 22,544.50, up 122.55 points or 0.55%, as of 9.25 am",
+        "content": "<p>The Nifty 50 opened at 22,532.40, against a previous close of 22,421.95, and was trading at 22,544.50, up 122.55 points or 0.55%, as of 9.25 am</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bl-i.thgim.com/public/incoming/e1vnno/article71545806.ece/alternates/LANDSCAPE_1200/iStock-1035988708.jpg",
+        "date": "Oct 5, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/markets-snap-eight-week-losing-streak-financials-lead-healthcare-and-it-drag/article71545803.ece"
+    },
+    {
+        "id": "xc2ughfaz",
+        "title": "Cornell student who gave police leads in alleged rape says she feels ‘betrayed’ over its handling",
+        "excerpt": "The student said she spoke with campus police in 2024 with what she believed was useful information about what was alleged at the Chi Phi fraternity house.",
+        "content": "<p>The student said she spoke with campus police in 2024 with what she believed was useful information about what was alleged at the Chi Phi fraternity house.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261002-heather-ainsworth-cornell-ww-28-4de77a.jpg",
+        "date": "Oct 5, 2026",
+        "url": "https://www.nbcnews.com/news/us-news/cornell-student-gave-police-leads-alleged-rape-feels-betrayed-handling-rcna601520"
+    },
+    {
+        "id": "twv1nd34b",
+        "title": "India’s Rising Global Resilience: Upward GDP Forecast Revisions Reflect Stronger Economic Fundamentals",
+        "excerpt": "India’s rising economic resilience is reflected in upward revisions to GDP forecasts by the OECD, S&P Global, Fitch, ADB and Moody’s. Strong 7.8% growth, robust services and manufacturing, accelerating investment, resilient consumption and expanding exports d…",
+        "content": "<p>India’s rising economic resilience is reflected in upward revisions to GDP forecasts by the OECD, S&P Global, Fitch, ADB and Moody’s. Strong 7.8% growth, robust services and manufacturing, accelerating investment, resilient consumption and expanding exports d…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://english.khabarhub.com/wp-content/uploads/2026/10/Upward-GDP-India.jpg",
+        "date": "Oct 5, 2026",
+        "url": "https://english.khabarhub.com/2026/05/570714/"
+    },
+    {
+        "id": "vt4ftwplx",
+        "title": "Flavio Bolsonaro pushes Lula to brink of defeat ahead of Brazil runoff",
+        "excerpt": "With conservative allies dominating across Brazil in Sunday's voting, Bolsonaro capped the day by taking about 47% of the vote to the leftist Lula's roughly 45% with counting nearly complete",
+        "content": "<p>With conservative allies dominating across Brazil in Sunday's voting, Bolsonaro capped the day by taking about 47% of the vote to the leftist Lula's roughly 45% with counting nearly complete</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/05/thumb/fitandfill/1200X628/1791169879-7879.jpg",
+        "date": "Oct 5, 2026",
+        "url": "https://www.business-standard.com/world-news/flavio-bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-runoff-126100500081_1.html"
+    },
+    {
+        "id": "cz0u57d6b",
+        "title": "The “glue” holding your cells together has a surprising second job",
+        "excerpt": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that …",
+        "content": "<p>Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that …</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/living-zebrafish-embryo-with-actin.webp",
+        "date": "Oct 5, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm"
+    },
+    {
         "id": "h4qyfscn0",
         "title": "In Arkansas, the Good, the Brad, and the Ugly",
         "excerpt": "Mores about race have changed since the ’90s, but there is such a thing as overcorrection.\nThe post In Arkansas, the Good, the Brad, and the Ugly appeared first on The American Conservative.",
