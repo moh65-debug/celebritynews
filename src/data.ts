@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "b4nrwrteg",
+        "title": "A reckoning on social media addiction came late for many kids. Will AI safety be different?",
+        "excerpt": "When Meta agreed to changes to its social media platforms and enhanced safeguards in an $18 billion settlement, it made progress by \"getting at what we've known for years\" about the dangers, said Kristin Bride, a parent advocate who has fought for social medi…",
+        "content": "<p>When Meta agreed to changes to its social media platforms and enhanced safeguards in an $18 billion settlement, it made progress by \"getting at what we've known for years\" about the dangers, said Kristin Bride, a parent advocate who has fought for social medi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1738352,resizemode-75,msid-134722797/tech/technology/a-reckoning-on-social-media-addiction-came-late-for-many-kids-will-ai-safety-be-different.jpg",
+        "date": "Oct 6, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/a-reckoning-on-social-media-addiction-came-late-for-many-kids-will-ai-safety-be-different/articleshow/134722797.cms"
+    },
+    {
+        "id": "hddvd8zhc",
+        "title": "Pneumonic plague: As fear grips after Siberia lab accident, Delhi NCR doctor explains how the plague spreads between people, its early symptoms and why treatment cannot wait",
+        "excerpt": "Pneumonic plague, caused by Yersinia pestis, spreads through respiratory droplets, particularly in close contact situations. Symptoms such as fever, cough, and breathing difficulties can manifest quickly after infection. Timely detection and antibiotic treatm…",
+        "content": "<p>Pneumonic plague, caused by Yersinia pestis, spreads through respiratory droplets, particularly in close contact situations. Symptoms such as fever, cough, and breathing difficulties can manifest quickly after infection. Timely detection and antibiotic treatm…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-134722710,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 6, 2026",
+        "url": "https://timesofindia.indiatimes.com/health/pneumonic-plague-as-fear-grips-after-siberia-lab-accident-delhi-ncr-doctor-explains-how-the-plague-spreads-between-people-its-early-symptoms-and-why-treatment-cannot-wait/articleshow/134722502.cms"
+    },
+    {
+        "id": "55iil105d",
+        "title": "MP plans new airports, permanent helipads in all 230 assembly seats",
+        "excerpt": "Madhya Pradesh is enhancing its aviation services by planning ten new airports and permanent helipads statewide. The development will include upgrading airstrips and connecting remote districts to better transport links. New routes are being established under…",
+        "content": "<p>Madhya Pradesh is enhancing its aviation services by planning ten new airports and permanent helipads statewide. The development will include upgrading airstrips and connecting remote districts to better transport links. New routes are being established under…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-134722562,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 6, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/bhopal/mp-plan-an-airport-every-150-km-airstrip-every-75-km-and-a-helipad-every-45-km/articleshow/134722530.cms"
+    },
+    {
+        "id": "xjkwakbdu",
+        "title": "Soldiers looking for land mines in South Korea have found the country's oldest gun, a 600-year-old inscribed bronze tube used to fire gunpowder-propelled arrows",
+        "excerpt": "In a fascinating search for hidden landmines, South Korean troops discovered a small bronze gun buried beneath the earth. Dubbed a Hwangja Hwatong, this artifact dates back to the 14th or 15th century. The intricate details engraved on it can help historians …",
+        "content": "<p>In a fascinating search for hidden landmines, South Korean troops discovered a small bronze gun buried beneath the earth. Dubbed a Hwangja Hwatong, this artifact dates back to the 14th or 15th century. The intricate details engraved on it can help historians …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-134722559,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 6, 2026",
+        "url": "https://timesofindia.indiatimes.com/science/archaeology/soldiers-looking-for-land-mines-in-south-korea-have-found-the-countrys-oldest-gun-a-600-year-old-inscribed-bronze-tube-used-to-fire-gunpowder-propelled-arrows/articleshow/134722534.cms"
+    },
+    {
+        "id": "tfvlvi9ql",
+        "title": "Sensex rises over 100 points, Nifty above 22,600 as market extends gains. Why caution is warranted",
+        "excerpt": "Indian equities extended their recovery for a second session, with Sensex and Nifty posting modest gains amid improved investor sentiment. Trent surged nearly 9% following a strong business update, while banks and NTPC advanced. However, analysts warned of co…",
+        "content": "<p>Indian equities extended their recovery for a second session, with Sensex and Nifty posting modest gains amid improved investor sentiment. Trent surged nearly 9% following a strong business update, while banks and NTPC advanced. However, analysts warned of co…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-134722733,width-1200,height-900,imgsize-149016,overlay-etmarkets/articleshow.jpg",
+        "date": "Oct 6, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-100-points-nifty-above-22600-as-market-extends-gains-why-caution-is-warranted/articleshow/134722541.cms"
+    },
+    {
+        "id": "sfnnatchl",
+        "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+        "excerpt": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
+        "content": "<p>The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://image.cnbcfm.com/api/v1/image/108133850-1745207559864-gettyimages-2187282084-200530_0515.jpeg?v=1745207848&w=1920&h=1080",
+        "date": "Oct 6, 2026",
+        "url": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html"
+    },
+    {
+        "id": "hwodmd45y",
+        "title": "Highlights/scores: High school sports (10/5/26)",
+        "excerpt": "CENTRAL ILLINOIS (WCIA) — The postseason has arrived for several fall sports, including boys’ golf and girls’ flag football. Catch the highlights from two regional semifinals plus scores from across Central Illinois. GIRLS’ FLAG FOOTBALL – REGIONAL SEMIFINALS…",
+        "content": "<p>CENTRAL ILLINOIS (WCIA) — The postseason has arrived for several fall sports, including boys’ golf and girls’ flag football. Catch the highlights from two regional semifinals plus scores from across Central Illinois. GIRLS’ FLAG FOOTBALL – REGIONAL SEMIFINALS…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/0260335edd2199942d22960101e5ea6fa9016df8e3c5422cd7708491284d4184/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwcia_champaign_articles_414%2F833c087e05581afc4d5f3bd149b5c7aa.jpg",
+        "date": "Oct 6, 2026",
+        "url": "https://www.wcia.com/sports/high-school-sports/highlights-scores-high-school-sports-10-5-26/"
+    },
+    {
+        "id": "p8eznuzoy",
+        "title": "How Spain’s snap election could blow up Brussels",
+        "excerpt": "Spain’s snap election is poised to upend not just domestic politics … but EU politics, too. On today’s show, Zoya Sheftalovich and Ian Wishart break down the potential impact of the Madrid tumult — from the EU long-term budget to the potential puncturing of U…",
+        "content": "<p>Spain’s snap election is poised to upend not just domestic politics … but EU politics, too. On today’s show, Zoya Sheftalovich and Ian Wishart break down the potential impact of the Madrid tumult — from the EU long-term budget to the potential puncturing of U…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/14/Brussels-Playbook-Podcast_featured-image-updated-26-Feb-2026.png",
+        "date": "Oct 6, 2026",
+        "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-spains-snap-election-could-blow-up-brussels/"
+    },
+    {
+        "id": "8820quzbc",
+        "title": "Asia's economic buffers too thin to keep absorbing oil shock: World Bank",
+        "excerpt": "The region's governments have responded more aggressively than peers elsewhere as the US-Iran war drove global prices up, and they've relied more heavily on subsidies",
+        "content": "<p>The region's governments have responded more aggressively than peers elsewhere as the US-Iran war drove global prices up, and they've relied more heavily on subsidies</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/06/thumb/fitandfill/1200X628/1791258906-6281.jpg",
+        "date": "Oct 6, 2026",
+        "url": "https://www.business-standard.com/world-news/asia-s-economic-buffers-too-thin-to-keep-absorbing-oil-shock-world-bank-126100600155_1.html"
+    },
+    {
+        "id": "wr82ky9q0",
+        "title": "What 117 Years Reveal about Living at Peace with Others",
+        "excerpt": "What does the Bible say about arguments and disagreement? Discover how Christians can pursue peace, defend truth, and respond with gentleness.",
+        "content": "<p>What does the Bible say about arguments and disagreement? Discover how Christians can pursue peace, defend truth, and respond with gentleness.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.swncdn.com/via/13231-peaceful-stairway-up-hill-at-beach-at-sunset.jpg",
+        "date": "Oct 6, 2026",
+        "url": "https://www.christianity.com/wiki/current-events/living-at-peace-with-others-biblical-peacemaking.html"
+    },
+    {
         "id": "bg9q6e71z",
         "title": "US stocks enter seasonally strong Q4 with bond yields, AI spending in focus",
         "excerpt": "US stocks enter Q4 with strong seasonal support, but rising Treasury yields, elevated valuations and heavy AI spending create risks. The S&P 500’s direction will hinge on earnings, Federal Reserve policy, AI capital expenditure and November’s midterm election…",
