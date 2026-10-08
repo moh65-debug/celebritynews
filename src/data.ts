@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "m5ghyr4xw",
+        "title": "TCS Q2 Results Preview: Can the IT bellwether show enough growth to calm investors?",
+        "excerpt": "Tata Consultancy Services is scheduled to release its second-quarter results on October 8, with analysts predicting a year-on-year revenue growth of roughly 13%. However, the sequential growth might be modest at around 0.5%-0.6%. Investors will also be lookin…",
+        "content": "<p>Tata Consultancy Services is scheduled to release its second-quarter results on October 8, with analysts predicting a year-on-year revenue growth of roughly 13%. However, the sequential growth might be modest at around 0.5%-0.6%. Investors will also be lookin…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134755866,width-1200,height-900,imgsize-2114581,overlay-etmarkets/articleshow.jpg",
+        "date": "Oct 7, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-q2-results-preview-can-the-it-bellwether-show-enough-growth-to-calm-investors/articleshow/134755846.cms"
+    },
+    {
+        "id": "48h79wrlq",
+        "title": "Micron licenses Netlist's memory tech for US$600M to settle patent dispute",
+        "excerpt": "Netlist and Micron reached a settlement for a patent dispute, with Micron agreeing to license Netlist's patents for US$600 million over 5 years. The deal concludes a complaint launched by Netlist over alleged infringements of its proprietary memory technology…",
+        "content": "<p>Netlist and Micron reached a settlement for a patent dispute, with Micron agreeing to license Netlist's patents for US$600 million over 5 years. The deal concludes a complaint launched by Netlist over alleged infringements of its proprietary memory technology…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20261007vl212_files/1_2b.jpg",
+        "date": "Oct 7, 2026",
+        "url": "https://www.digitimes.com/news/a20261007VL212/micron-patent-hbm-technology-demand.html"
+    },
+    {
+        "id": "dh9jhx3w3",
+        "title": "Ray Dalio warns AI bubble is nearing its bursting point as rates rise",
+        "excerpt": "Rising interest rates and debt reliance could trigger financial strain in the AI sector, echoing past market bubbles' collapse patterns.\nThe post Ray Dalio warns AI bubble is nearing its bursting point as rates rise appeared first on Crypto Briefing.",
+        "content": "<p>Rising interest rates and debt reliance could trigger financial strain in the AI sector, echoing past market bubbles' collapse patterns.\nThe post Ray Dalio warns AI bubble is nearing its bursting point as rates rise appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+        "date": "Oct 7, 2026",
+        "url": "https://cryptobriefing.com/ray-dalio-ai-bubble-rising-rates/"
+    },
+    {
+        "id": "vf2913458",
+        "title": "Technologies of Peace: Give Imma’s sprawling exhibition the time and attention it deserves",
+        "excerpt": "The Irish Museum of Modern Art show incorporates work by artists from 17 countries, including Frances Hegarty and the Slavs and Tatars collective",
+        "content": "<p>The Irish Museum of Modern Art show incorporates work by artists from 17 countries, including Frances Hegarty and the Slavs and Tatars collective</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.irishtimes.com/resizer/v2/SKT6VNRNJ5G4RKFTH3TXALYVSI.jpg?smart=true&auth=51b859e0b54a1d7d3cad4dc05d143f470dda65af3c324efe58d3ca834316e915&width=1200&height=630",
+        "date": "Oct 7, 2026",
+        "url": "https://www.irishtimes.com/culture/art/2026/10/07/technologies-of-peace-give-immas-sprawling-exhibition-the-time-and-attention-it-deserves/"
+    },
+    {
+        "id": "iozfx9h7s",
+        "title": "The Race to an AI Apocalypse: How an Obsession with Autonomous Weapons Ignores Decades of Warnings",
+        "excerpt": "In its genocidal war against the people of Gaza, Israel has deployed the AI-enabled DDS called “Lavender” to identify human targets.",
+        "content": "<p>In its genocidal war against the people of Gaza, Israel has deployed the AI-enabled DDS called “Lavender” to identify human targets.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://media.juancole.com/images/2026/10/swords-robot-e6240d.jpg",
+        "date": "Oct 7, 2026",
+        "url": "https://www.juancole.com/2026/10/apocalypse-obsession-autonomous.html"
+    },
+    {
+        "id": "z0ncni508",
+        "title": "The Godfather of AI wants an FDA-style approval system for the technology",
+        "excerpt": "The Godfather of AI said he proposes an FDA-style approval system for AI models.\nRamsey Cardy/Sportsfile for Collision via Getty Images\nGeoffrey Hinton proposed an FDA-style approval system for AI models.\nHinton said companies should prove their models are sa…",
+        "content": "<p>The Godfather of AI said he proposes an FDA-style approval system for AI models.\nRamsey Cardy/Sportsfile for Collision via Getty Images\nGeoffrey Hinton proposed an FDA-style approval system for AI models.\nHinton said companies should prove their models are sa…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/efd1f1e7583a9cea_s.webp",
+        "date": "Oct 7, 2026",
+        "url": "https://biztoc.com/x/efd1f1e7583a9cea"
+    },
+    {
+        "id": "hlh463vgc",
+        "title": "Why Mike Ryan Ruiz Believes The Dan Le Batard Show Still Has More Stories to Tell",
+        "excerpt": "\"Sports always had a starch to it where the gatekeepers didn't allow a lot of what we provided. We changed the industry in many ways, and I don't know if we get the proper respect for it.\" The post Why Mike Ryan Ruiz Believes The Dan Le Batard Show Still Has …",
+        "content": "<p>\"Sports always had a starch to it where the gatekeepers didn't allow a lot of what we provided. We changed the industry in many ways, and I don't know if we get the proper respect for it.\" The post Why Mike Ryan Ruiz Believes The Dan Le Batard Show Still Has …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/4ca8350d2c02396553d5b41db366b6f98903363018a4e33aa6b62d988edcf41a/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarrett_media_699%2Feb6f6e6cde495d672f9a1b60acbb2aaa.jpg",
+        "date": "Oct 7, 2026",
+        "url": "https://barrettmedia.com/2026/10/07/mike-ryan-ruiz-dan-le-batard-show-stories/"
+    },
+    {
+        "id": "eqyz4d15s",
+        "title": "'We'll Take The Two Points': Sebastian Aho, Taylor Hall, Rod Brind'Amour On Offensive Outing In Montreal",
+        "excerpt": "Sebastian Aho’s three-point night and Taylor Hall’s clutch finishing propelled Carolina past Montreal, overcoming a penalty-filled battle as the Hurricanes’ leaders dominated an electric Centre Bell atmosphere.",
+        "content": "<p>Sebastian Aho’s three-point night and Taylor Hall’s clutch finishing propelled Carolina past Montreal, overcoming a penalty-filled battle as the Hurricanes’ leaders dominated an electric Centre Bell atmosphere.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/a73b65ddb08a1ae8a7e826296a7c43fa9b274d34f05f7fd62eb51558f1786aec/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hockey_news_carolina_hurricanes_articles_659%2Fdd211cad98c636ee856637608cd1fdae.jpg",
+        "date": "Oct 7, 2026",
+        "url": "https://thehockeynews.com/nhl/carolina-hurricanes/game-day/well-take-the-two-points-sebastian-aho-taylor-hall-rod-brindamour-on-offensive-outing-in-montreal"
+    },
+    {
+        "id": "ono9omstd",
+        "title": "Cable Might Be Declining, But Skydance Sees Value In The Content From Its Core Brands Such as MTV & Food Network",
+        "excerpt": "As David Ellison brings together Paramount and Warner Bros. Discovery under the Skydance umbrella, series such as Game of Thrones spinoff House of the Dragon, Harry Potter and Taylor Sheridan’s Landman have been in the spotlight. But another swathe of content…",
+        "content": "<p>As David Ellison brings together Paramount and Warner Bros. Discovery under the Skydance umbrella, series such as Game of Thrones spinoff House of the Dragon, Harry Potter and Taylor Sheridan’s Landman have been in the spotlight. But another swathe of content…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://deadline.com/wp-content/uploads/2026/10/Northwestern_52d05f.jpeg?w=1024",
+        "date": "Oct 7, 2026",
+        "url": "http://deadline.com/2026/10/skydance-cable-tv-future-mtv-food-network-1237148727/"
+    },
+    {
+        "id": "nurek7xvl",
+        "title": "WATCH: High school volleyball scores, highlights | October 6, 2026",
+        "excerpt": "Tobin McDuff breaks down results and highlights from Texoma high school volleyball games played on Tuesday, October 6, 2026. No. 10 Saint Jo vs Midway | (10)Lady Panthers def. Lady Falcons | 25-11, 25-11, 25-18 No 23 Forestburg vs Bellevue | (23)Lady Longhorn…",
+        "content": "<p>Tobin McDuff breaks down results and highlights from Texoma high school volleyball games played on Tuesday, October 6, 2026. No. 10 Saint Jo vs Midway | (10)Lady Panthers def. Lady Falcons | 25-11, 25-11, 25-18 No 23 Forestburg vs Bellevue | (23)Lady Longhorn…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/5fdfbbac71301af86cc02387fdb96ab2090c2433385fd6ee6b8c06e690c04750/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkfdx_wichita_falls_articles_332%2F607bc421be92fa7bceed8925414bdf5d.jpg",
+        "date": "Oct 7, 2026",
+        "url": "https://www.texomashomepage.com/sports/local-sports/watch-high-school-volleyball-scores-highlights-october-6-2026/"
+    },
+    {
         "id": "b4nrwrteg",
         "title": "A reckoning on social media addiction came late for many kids. Will AI safety be different?",
         "excerpt": "When Meta agreed to changes to its social media platforms and enhanced safeguards in an $18 billion settlement, it made progress by \"getting at what we've known for years\" about the dangers, said Kristin Bride, a parent advocate who has fought for social medi…",
