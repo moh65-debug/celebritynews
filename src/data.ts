@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "98mtlfssc",
+        "title": "Hilton is betting on people in an industry that can’t afford to lose them",
+        "excerpt": "A focus on purpose and retaining a people-centric approach in the age of AI has helped Hilton claim the top spot on Fortune 100 Best Companies to Work For — Europe list.",
+        "content": "<p>A focus on purpose and retaining a people-centric approach in the age of AI has helped Hilton claim the top spot on Fortune 100 Best Companies to Work For — Europe list.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Hilton1-e1791381792819.jpg?resize=1200,600",
+        "date": "Oct 8, 2026",
+        "url": "https://fortune.com/2026/10/08/hilton-betting-on-people-in-an-industry-that-cant-afford-to-lose-them/"
+    },
+    {
+        "id": "juozhrfnk",
+        "title": "Does Frame Generation Actually Help the Switch 2? It Depends on the Game",
+        "excerpt": "I tested the first two Switch 2 titles to use AMD FSR Frame Generation, Dragon's Dogma 2: Dark Arisen and Stellar Blade, and came away with very different impressions.\nIn less than two years on the market, the Nintendo Switch 2 has proven itself an impressive…",
+        "content": "<p>I tested the first two Switch 2 titles to use AMD FSR Frame Generation, Dragon's Dogma 2: Dark Arisen and Stellar Blade, and came away with very different impressions.\nIn less than two years on the market, the Nintendo Switch 2 has proven itself an impressive…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://sm.pcmag.com/t/pcmag_me/news/d/does-frame/does-frame-generation-actually-help-the-switch-2-it-depends_hvtv.1200.jpg",
+        "date": "Oct 8, 2026",
+        "url": "https://me.pcmag.com/en/nintendo-games/38271/does-frame-generation-actually-help-the-switch-2-it-depends-on-the-game"
+    },
+    {
+        "id": "4nsbuen7z",
+        "title": "The people who know passkeys best are still typing passwords",
+        "excerpt": "Yubico and Okta asked 1,890 technology and security professionals across nine countries how they sign in to work accounts. The most common answer was a username and password, at 43%, from a group in which 87% said they were familiar with passkeys. High famili…",
+        "content": "<p>Yubico and Okta asked 1,890 technology and security professionals across nine countries how they sign in to work accounts. The most common answer was a username and password, at 43%, from a group in which 87% said they were familiar with passkeys. High famili…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/23141041/llm-door-people.webp",
+        "date": "Oct 8, 2026",
+        "url": "https://www.helpnetsecurity.com/2026/10/08/passkey-adoption-typing-passwords/"
+    },
+    {
+        "id": "2eycg8gs5",
+        "title": "AI eats into entry-level tech jobs as India's graduates seek work",
+        "excerpt": "Banks and other global capability centres are automating routine tasks once handled by fresh graduates, intensifying competition for entry-level jobs in India's tech sector",
+        "content": "<p>Banks and other global capability centres are automating routine tasks once handled by fresh graduates, intensifying competition for entry-level jobs in India's tech sector</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791433620-2092.jpg",
+        "date": "Oct 8, 2026",
+        "url": "https://www.business-standard.com/industry/news/ai-eats-into-entry-level-tech-jobs-as-india-s-graduates-seek-work-126100800232_1.html"
+    },
+    {
+        "id": "fhgeblcjh",
+        "title": "Why Did HPE, ANET, NTAP Stocks Surge To 52-Week Highs Today?",
+        "excerpt": "Hewlett Packard Enterprise shares hit a record $73.28 as the company expands its enterprise AI business with new AMD-powered servers.\n- Arista Networks shares hit an all-time high as its new Ethernet rack-scale technology strengthens its position in AI data c…",
+        "content": "<p>Hewlett Packard Enterprise shares hit a record $73.28 as the company expands its enterprise AI business with new AMD-powered servers.\n- Arista Networks shares hit an all-time high as its new Ethernet rack-scale technology strengthens its position in AI data c…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/2d6df6b7a98b25b7_s.webp",
+        "date": "Oct 8, 2026",
+        "url": "https://biztoc.com/x/2d6df6b7a98b25b7"
+    },
+    {
+        "id": "2sbe4c4g4",
+        "title": "Stupidity: Is It The New Political Power?",
+        "excerpt": "Photo Credit:\n \n AI for American ThinkerBy Allan J. FeiferHow grievance, identity, and performance are reshaping self-government",
+        "content": "<p>Photo Credit:\n \n AI for American ThinkerBy Allan J. FeiferHow grievance, identity, and performance are reshaping self-government</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://images.americanthinker.com/z2/z2hf81spzl5hzkbhmnhq_1200.jpg",
+        "date": "Oct 8, 2026",
+        "url": "https://www.americanthinker.com/articles/2026/10/stupidity-is-it-the-new-political-power/"
+    },
+    {
+        "id": "5wpf6qn1y",
+        "title": "Freddie Freeman reveals how Dodgers can help Tarik Skubal, Yoshinobu Yamamoto in NLCS",
+        "excerpt": "The Los Angeles Dodgers are back in the NLCS . This is now the third year that Los Angeles has made it to the penultimate series before the World Series. This time, LA defeated the Atlanta Braves to make it to the Championship Series. After dismantling the Br…",
+        "content": "<p>The Los Angeles Dodgers are back in the NLCS . This is now the third year that Los Angeles has made it to the penultimate series before the World Series. This time, LA defeated the Atlanta Braves to make it to the Championship Series. After dismantling the Br…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/b51dda3020a789d2213f85f41ffb9ba537b51de7a20bda258a9e21063632dd56/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2Feb0438989a04e9ecae9e36dc73eb6959.jpg",
+        "date": "Oct 8, 2026",
+        "url": "https://clutchpoints.com/mlb/los-angeles-dodgers/dodgers-news-freddie-freeman-reveals-help-tarik-skubal-yoshinobu-yamamoto-nlcs"
+    },
+    {
+        "id": "byazvhzuo",
+        "title": "Dave Roberts highlights why Dodgers are smarter, better, tougher than rest of MLB",
+        "excerpt": "Once again the National League must deal with the Los Angeles Dodgers. As well as the rest of the league during the MLB Playoffs. Manager Dave Roberts has LA nearing a third straight World Series title by eliminating the Atlanta Braves 4-1 Wednesday . This ti…",
+        "content": "<p>Once again the National League must deal with the Los Angeles Dodgers. As well as the rest of the league during the MLB Playoffs. Manager Dave Roberts has LA nearing a third straight World Series title by eliminating the Atlanta Braves 4-1 Wednesday . This ti…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/b70b3082d6bca94fd5d546589e0de0000f2f8903c299f901923985a3bad4ded9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2Fa198993422c23057708ede4a281d0e37.jpg",
+        "date": "Oct 8, 2026",
+        "url": "https://clutchpoints.com/mlb/los-angeles-dodgers/dodgers-news-dave-roberts-highlights-why-la-smarter-better-tougher-than-mlb"
+    },
+    {
+        "id": "5qewsed0g",
+        "title": "US to invest over $100 million on STEM programmes amid AI race with China",
+        "excerpt": "The initiative will fund fellowships for US citizens pursuing PhDs in science and engineering, while the NSF's Young Scholars programme will return with $30 million in government funding",
+        "content": "<p>The initiative will fund fellowships for US citizens pursuing PhDs in science and engineering, while the NSF's Young Scholars programme will return with $30 million in government funding</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791429470-0803.jpg",
+        "date": "Oct 8, 2026",
+        "url": "https://www.business-standard.com/world-news/us-to-invest-over-100-million-on-stem-programmes-amid-ai-race-with-china-126100800147_1.html"
+    },
+    {
+        "id": "hiqqkpb3a",
+        "title": "Trump says Iran war will end 'very quickly', oil prices will tumble",
+        "excerpt": "Trump said the US had taken away Iran's nuclear power and predicted a swift end to the war, while Tehran rejected his claims over the Iranian oil minister's resignation",
+        "content": "<p>Trump said the US had taken away Iran's nuclear power and predicted a swift end to the war, while Tehran rejected his claims over the Iranian oil minister's resignation</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/07/thumb/fitandfill/1200X628/1791348613-6998.jpg",
+        "date": "Oct 8, 2026",
+        "url": "https://www.business-standard.com/world-news/trump-says-iran-war-will-end-very-quickly-oil-prices-will-tumble-126100800052_1.html"
+    },
+    {
         "id": "m5ghyr4xw",
         "title": "TCS Q2 Results Preview: Can the IT bellwether show enough growth to calm investors?",
         "excerpt": "Tata Consultancy Services is scheduled to release its second-quarter results on October 8, with analysts predicting a year-on-year revenue growth of roughly 13%. However, the sequential growth might be modest at around 0.5%-0.6%. Investors will also be lookin…",
