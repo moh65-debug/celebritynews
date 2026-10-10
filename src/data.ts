@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "v4byn9dwp",
+        "title": "Fusion CX sets price band for Rs 702 crore IPO; issue opens on October 14",
+        "excerpt": "Fusion CX has set a price band of Rs 275–289 per share for its Rs 702 crore IPO, which will open on October 14 and close on October 16. The issue comprises a fresh issue worth Rs 500 crore and an offer for sale (OFS) of Rs 202 crore. Allotment is expected on …",
+        "content": "<p>Fusion CX has set a price band of Rs 275–289 per share for its Rs 702 crore IPO, which will open on October 14 and close on October 16. The issue comprises a fresh issue worth Rs 500 crore and an offer for sale (OFS) of Rs 202 crore. Allotment is expected on …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134806932,width-1200,height-900,imgsize-107067,overlay-etmarkets/articleshow.jpg",
+        "date": "Oct 9, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/fusion-cx-sets-price-band-for-rs-702-crore-ipo-issue-opens-on-october-14/articleshow/134806844.cms"
+    },
+    {
+        "id": "icy61fbad",
+        "title": "Lethal Katie Hannon dismantles the budget and dismisses Jack Chambers",
+        "excerpt": "Radio: RTÉ host’s precision-guided dismantling of Government’s thinly spread profligacy is arguably more lethal than the brickbats of Opposition TDs",
+        "content": "<p>Radio: RTÉ host’s precision-guided dismantling of Government’s thinly spread profligacy is arguably more lethal than the brickbats of Opposition TDs</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.irishtimes.com/resizer/v2/WAJ7224K75FWNJGDGS45IVPB74.jpg?smart=true&auth=00e91db7b156a778023f30ba3f8967ad2115340e01642278259ec8530cfecdc3&width=1200&height=630",
+        "date": "Oct 9, 2026",
+        "url": "https://www.irishtimes.com/culture/tv-radio/2026/10/09/katie-hannon-lethally-dismantles-the-jack-chambers-budget/"
+    },
+    {
+        "id": "fz8gvglu6",
+        "title": "HIGHLIGHTS: Robert Lee thrashes Paint Rock in district opener with mercy-rule win",
+        "excerpt": "SAN ANGELO, Texas (Concho Valley Homepage) — The Paint Rock Indians take on the Robert Lee Steers on Thursday, Oct 8. Week seven of the 2026 high school football season kicked off with an all-Concho Valley matchup between Paint Rock and Robert Lee Thursday ni…",
+        "content": "<p>SAN ANGELO, Texas (Concho Valley Homepage) — The Paint Rock Indians take on the Robert Lee Steers on Thursday, Oct 8. Week seven of the 2026 high school football season kicked off with an all-Concho Valley matchup between Paint Rock and Robert Lee Thursday ni…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/8e4162294880ca6c84a7526e0240dd65e2c9f125ed16f0cb9cd2ec7186c08d75/lightyear_networkapi/resizefill_w596_h334%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fklst_san_angelo_articles_638%2F6220639ad5a01ae4113f03a855279ec8.png",
+        "date": "Oct 9, 2026",
+        "url": "https://www.conchovalleyhomepage.com/locker-room/highlights-robert-lee-thrashes-paint-rock-in-district-opener-with-mercy-rule-win/"
+    },
+    {
+        "id": "5kegp63zp",
+        "title": "Bonduel football program clinches at least a share of conference title",
+        "excerpt": "(WFRV) – The Bonduel Bears remain unbeaten and have clinched at least a share of the Packerland Conference title following a dominant Week 8 win. Bonduel blanked Sturgeon Bay 69-0 Thursday night to improve to 8-0 overall and 6-0 in conference play. The Bears …",
+        "content": "<p>(WFRV) – The Bonduel Bears remain unbeaten and have clinched at least a share of the Packerland Conference title following a dominant Week 8 win. Bonduel blanked Sturgeon Bay 69-0 Thursday night to improve to 8-0 overall and 6-0 in conference play. The Bears …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/18c05e5abe063fa59dd2575b8603b8b2815d1fc38b7fd96ad670b0a2302032f1/lightyear_networkapi/resizefill_w899_h509%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwfrv_articles_965%2Fcd6eea7861dae4dc797e95c1e7bf6117.jpg",
+        "date": "Oct 9, 2026",
+        "url": "https://www.wearegreenbay.com/sports/highschoolsports/bonduel-football-program-clinches-at-least-a-share-of-conference-title/"
+    },
+    {
+        "id": "933zyqzbo",
+        "title": "TCS stock jumps nearly 4% after Q2 results, IT stocks rally up to 3.8% despite US visa curbs",
+        "excerpt": "Indian information technology stocks soared on Friday, led by strong gains in TCS shares post the company's fiscal second quarter results, despite fresh regulatory uncertainty stemming from the US government's decision to suspend several technology companies …",
+        "content": "<p>Indian information technology stocks soared on Friday, led by strong gains in TCS shares post the company's fiscal second quarter results, despite fresh regulatory uncertainty stemming from the US government's decision to suspend several technology companies …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/09/20260921052135_Nifty_sensex_marketup.jpg",
+        "date": "Oct 9, 2026",
+        "url": "https://www.moneycontrol.com/news/business/markets/tcs-stock-jumps-nearly-4-after-q2-results-it-stocks-rally-up-to-3-8-despite-us-visa-curbs-14048205.html"
+    },
+    {
+        "id": "khfdplhre",
+        "title": "Nvidia Stock Faces Critical Warning Sign. Is the AI Trade Breaking?",
+        "excerpt": "Nvidia stock fell 2.94% Thursday after OpenAI told investors its annualized revenue is roughly $50 billion, about $18 billion below the $68 billion widely reported last month.\nAlex Kantrowitz, founder of Big Technology, called the gap largely an accounting is…",
+        "content": "<p>Nvidia stock fell 2.94% Thursday after OpenAI told investors its annualized revenue is roughly $50 billion, about $18 billion below the $68 billion widely reported last month.\nAlex Kantrowitz, founder of Big Technology, called the gap largely an accounting is…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/733fd2a8d7c2cd31_s.webp",
+        "date": "Oct 9, 2026",
+        "url": "https://biztoc.com/x/733fd2a8d7c2cd31"
+    },
+    {
+        "id": "bzlq6v2gi",
+        "title": "TCS shares jump 4% after Q2 results. What are Goldman Sachs, Nomura, others saying?",
+        "excerpt": "TCS shares surged after the IT major reported a 15% year-on-year rise in Q2 consolidated net profit to Rs 13,884 crore. Revenue in constant currency terms grew 0.5% quarter-on-quarter, while operating margin stood at 24%. The company declared a second interim…",
+        "content": "<p>TCS shares surged after the IT major reported a 15% year-on-year rise in Q2 consolidated net profit to Rs 13,884 crore. Revenue in constant currency terms grew 0.5% quarter-on-quarter, while operating margin stood at 24%. The company declared a second interim…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134806524,width-1200,height-900,imgsize-27856,overlay-etmarkets/articleshow.jpg",
+        "date": "Oct 9, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-4-after-q2-results-what-are-goldman-sachs-nomura-others-saying/articleshow/134806449.cms"
+    },
+    {
+        "id": "hfwtzbqfr",
+        "title": "Former U.N. human rights chief Navanethem 'Navi' Pillay wins Nobel Peace Prize",
+        "excerpt": "OSLO, Norway (AP) — Former U.N. human rights chief Navanethem “Navi” Pillay, a judge on the International Court of Justice, won the Nobel Peace Prize on Friday in Oslo, Norway.\n The South Africa-born Pillay, 85 years old, was recognized for her efforts to pro…",
+        "content": "<p>OSLO, Norway (AP) — Former U.N. human rights chief Navanethem “Navi” Pillay, a judge on the International Court of Justice, won the Nobel Peace Prize on Friday in Oslo, Norway.\n The South Africa-born Pillay, 85 years old, was recognized for her efforts to pro…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/4107e9b986373048c268a4defd85fc0156adbacd3a02b83d4833c5c6ceb32705/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F130607cfede6b17c098f541cd8169165.jpg",
+        "date": "Oct 9, 2026",
+        "url": "https://www.yahoo.com/news/world/articles/nobel-peace-prize-awarded-norway-040329869.html"
+    },
+    {
+        "id": "sufn35gza",
+        "title": "How Estée Lauder Cos. CEO Stéphane de La Faverie Is Transforming the Culture of the Company",
+        "excerpt": "After taking the reins during one of the most tumultuous times in the company's history, de La Faverie is set not just on restoring growth and profitability but on a total transformation to ready it for the future.",
+        "content": "<p>After taking the reins during one of the most tumultuous times in the company's history, de La Faverie is set not just on restoring growth and profitability but on a total transformation to ready it for the future.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://wwd.com/wp-content/uploads/2026/10/Stephane_De_La_Faverie_078.jpg?w=1000&h=563&crop=1",
+        "date": "Oct 9, 2026",
+        "url": "http://wwd.com/beauty-industry-news/beauty-features/how-estee-lauder-cos-ceo-stephane-de-la-faverie-transforming-the-culture-of-the-company-1239240265/"
+    },
+    {
+        "id": "ruws2qaa2",
+        "title": "Future of Marketing Briefing: Why top creators are taking fewer brand deals",
+        "excerpt": "The biggest creators are cutting their brand rosters. The partners they keep are being asked for equity, product input and even a job title.",
+        "content": "<p>The biggest creators are cutting their brand rosters. The partners they keep are being asked for equity, product input and even a job title.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/03/creator-biz-digiday.jpg",
+        "date": "Oct 9, 2026",
+        "url": "http://digiday.com/marketing/future-of-marketing-briefing-why-top-creators-are-taking-fewer-brand-deals/"
+    },
+    {
         "id": "98mtlfssc",
         "title": "Hilton is betting on people in an industry that can’t afford to lose them",
         "excerpt": "A focus on purpose and retaining a people-centric approach in the age of AI has helped Hilton claim the top spot on Fortune 100 Best Companies to Work For — Europe list.",
