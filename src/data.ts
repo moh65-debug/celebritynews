@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "x42x9bphr",
+        "title": "News 3 PrepZone Week 8: Georgia high school football highlights",
+        "excerpt": "COLUMBUS, Ga. (WRBL) — WRBL is now in week eight of News 3 PrepZone coverage! Stick with WRBL on air and online throughout the football season as we cover high school football games in Georgia, Alabama and across the Chattahoochee Valley. RELATED: News 3 Prep…",
+        "content": "<p>COLUMBUS, Ga. (WRBL) — WRBL is now in week eight of News 3 PrepZone coverage! Stick with WRBL on air and online throughout the football season as we cover high school football games in Georgia, Alabama and across the Chattahoochee Valley. RELATED: News 3 Prep…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/e2c8ae52c724e4a0d737162399a199ccac177d7c9c399d71adfed363a9788c37/lightyear_networkapi/resizefill_w898_h392%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwrbl_columbus_articles_658%2Fc16fbf8a77632125f8a7e7ea78fa49c8.png",
+        "date": "Oct 10, 2026",
+        "url": "https://www.wrbl.com/sports/prepzone/news-3-prepzone-week-8-georgia-high-school-football-highlights-2/"
+    },
+    {
+        "id": "2pnil2mbc",
+        "title": "News 3 PrepZone Week 8: Alabama high school football highlights",
+        "excerpt": "PHENIX CITY, Ala. (WRBL) — WRBL is now in week eight of News 3 PrepZone coverage! Stick with WRBL on air and online throughout the football season as we cover high school football games in Alabama, Georgia and across the Chattahoochee Valley. RELATED: News 3 …",
+        "content": "<p>PHENIX CITY, Ala. (WRBL) — WRBL is now in week eight of News 3 PrepZone coverage! Stick with WRBL on air and online throughout the football season as we cover high school football games in Alabama, Georgia and across the Chattahoochee Valley. RELATED: News 3 …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/ac6f21dabf978026eb50aa854ca1119236c547a9dc99baf88784192e77101a51/lightyear_networkapi/resizefill_w898_h433%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwrbl_columbus_articles_658%2Ffd9f41c8a4a440284cc05354bc799392.png",
+        "date": "Oct 10, 2026",
+        "url": "https://www.wrbl.com/sports/prepzone/news-3-prepzone-week-8-alabama-high-school-football-highlights-2/"
+    },
+    {
+        "id": "9s1lxwsgm",
+        "title": "12 SportsZone High School Football Highlights: Week 7",
+        "excerpt": "Cold air has begun sweeping in across north central West Virginia, setting the stage for another week of great high school football action.",
+        "content": "<p>Cold air has begun sweeping in across north central West Virginia, setting the stage for another week of great high school football action.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/5a1ab571390fde9b4da81723c6150eb4f3af6cac2c9596cc59ea4cd1eece507e/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwboy_clarksburg_articles_885%2Fbcbe64db8c8d2853d3ded256432de36f.png",
+        "date": "Oct 10, 2026",
+        "url": "https://www.wboy.com/sports/high-school-football-highlights/12-sportszone-high-school-football-highlights-week-7-3/"
+    },
+    {
+        "id": "11f3czb2c",
+        "title": "Huddle Highlights – Week 7",
+        "excerpt": "Thursday Night Games West Limestone vs Wilson Final Score: Wilson 14, West Limestone 7 East Limestone vs Florence Final Score: Florence 49, East Limestone 13 JPII vs Randolph Final Score: Randolph 48, JPII 0 Friday Night Games James Clemens vs Sparkman Final …",
+        "content": "<p>Thursday Night Games West Limestone vs Wilson Final Score: Wilson 14, West Limestone 7 East Limestone vs Florence Final Score: Florence 49, East Limestone 13 JPII vs Randolph Final Score: Randolph 48, JPII 0 Friday Night Games James Clemens vs Sparkman Final …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/2ef759c3256b0cf7dcc991111190a9e1e6bd507ac9964b219d35afca58657515/lightyear_networkapi/resizefill_w900_h497%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwhnt_huntsville_articles_930%2F8ceae58070aada64f314e748c8c12b5e.png",
+        "date": "Oct 10, 2026",
+        "url": "https://whnt.com/sports/the-huddle/postgame/huddle-highlights/huddle-highlights-week-7/"
+    },
+    {
+        "id": "jm1t0eci1",
+        "title": "Tech and AI Firms Lobbied Federal Health Officials in a CMS-Run Slack as Medicare Promotes Commercial Health Apps",
+        "excerpt": "A KFF Health News probe found tech firms lobbying officials in a CMS-run Slack. What it means for seniors using Medicare-promoted health apps.",
+        "content": "<p>A KFF Health News probe found tech firms lobbying officials in a CMS-run Slack. What it means for seniors using Medicare-promoted health apps.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.medicaldaily.com/en/full/487132/editorial-illustration-via-ai.jpg",
+        "date": "Oct 10, 2026",
+        "url": "https://www.medicaldaily.com/cms-slack-tech-ai-lobbying-medicare-apps-kff-479789"
+    },
+    {
+        "id": "01qi8wvf3",
+        "title": "Trump warns Norway he won't forget Nobel Peace Prize snub, slams decision",
+        "excerpt": "Trump called the decision an 'indelible stain' on Norway after the Nobel Peace Prize was awarded to South African judge and human rights lawyer Navi Pillay",
+        "content": "<p>Trump called the decision an 'indelible stain' on Norway after the Nobel Peace Prize was awarded to South African judge and human rights lawyer Navi Pillay</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/10/thumb/featurecrop/1200X628/1791601350-0156.jpg",
+        "date": "Oct 10, 2026",
+        "url": "https://www.business-standard.com/world-news/trump-warns-norway-he-won-t-forget-nobel-peace-prize-snub-slams-decision-126101000112_1.html"
+    },
+    {
+        "id": "74vz8uqyy",
+        "title": "【不正アクセス速報】サム・アルトマン「AIがもたらす恩恵の方が大きいので、多少の悪いことは受け入れるべき」",
+        "excerpt": "AIの恩恵と利用者の主体性（agency）のため、多少の悪いこと（ハック、詐欺、悪用など）は受け入れるべき。人々がAIで生む善の方が「桁違いに大きい」と主張。 “We believe the world should accept some bad things happening for the benefits of this technology.” I...",
+        "content": "<p>AIの恩恵と利用者の主体性（agency）のため、多少の悪いこと（ハック、詐欺、悪用など）は受け入れるべき。人々がAIで生む善の方が「桁違いに大きい」と主張。 “We believe the world should accept some bad things happening for the benefits of this technology.” I...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://livedoor.blogimg.jp/sg3lqj86/imgs/2/8/28c10a45.jpg",
+        "date": "Oct 10, 2026",
+        "url": "https://lifehack2ch.livedoor.biz/archives/51931813.html"
+    },
+    {
+        "id": "4zbxqx47f",
+        "title": "The Remarried Empress: The Best K-Drama Of 2026 Is Officially Here | Review",
+        "excerpt": "With its thrilling political intrigue, messy love plots, and gorgeous visuals, The Remarried Empress may be a contender for the best K-drama of 2026.",
+        "content": "<p>With its thrilling political intrigue, messy love plots, and gorgeous visuals, The Remarried Empress may be a contender for the best K-drama of 2026.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/navier-the-remarried-empress.jpg?w=1600&h=900&fit=crop",
+        "date": "Oct 10, 2026",
+        "url": "https://screenrant.com/the-remarried-empress-review/"
+    },
+    {
+        "id": "lefthbcbk",
+        "title": "‘Zimmedari uthao badalne ki’: CJP founder Abhijeet Dipke to reach Delhi around 10am for ‘Jantar Mantar 2.0’ as capital turns into fortress",
+        "excerpt": "Cockroach Janta Party is preparing for a protest at Jantar Mantar against Chief Election Commissioner Gyanesh Kumar. Delhi Police has denied permission for the demonstration due to potential law-and-order issues. The police cited an untimely application and p…",
+        "content": "<p>Cockroach Janta Party is preparing for a protest at Jantar Mantar against Chief Election Commissioner Gyanesh Kumar. Delhi Police has denied permission for the demonstration due to potential law-and-order issues. The police cited an untimely application and p…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-134846094,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 10, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/delhi/zimmedari-uthao-badalne-ki-cjp-founder-abhijeet-dipke-to-reach-delhi-around-10am-for-jantar-mantar-2-0-as-capital-turns-into-fortress/articleshow/134846009.cms"
+    },
+    {
+        "id": "v28du0iu3",
+        "title": "'Things going to get treacherous': Hurricane Isaias makes landfall in Florida as Category 3 storm",
+        "excerpt": "Hurricane Isaias has made its presence felt near Destin, Florida, registering maximum sustained winds of 105 mph. Residents in coastal areas across Florida's Panhandle and Alabama are on high alert. In response, officials issued hurricane warnings, with some …",
+        "content": "<p>Hurricane Isaias has made its presence felt near Destin, Florida, registering maximum sustained winds of 105 mph. Residents in coastal areas across Florida's Panhandle and Alabama are on high alert. In response, officials issued hurricane warnings, with some …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-134846196,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 10, 2026",
+        "url": "https://timesofindia.indiatimes.com/world/us/things-going-to-get-treacherous-hurricane-isaias-makes-landfall-in-florida-as-category-3-storm/articleshow/134846171.cms"
+    },
+    {
         "id": "v4byn9dwp",
         "title": "Fusion CX sets price band for Rs 702 crore IPO; issue opens on October 14",
         "excerpt": "Fusion CX has set a price band of Rs 275–289 per share for its Rs 702 crore IPO, which will open on October 14 and close on October 16. The issue comprises a fresh issue worth Rs 500 crore and an offer for sale (OFS) of Rs 202 crore. Allotment is expected on …",
