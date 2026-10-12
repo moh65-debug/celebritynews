@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "qjjwvzryi",
+        "title": "Drone attack disrupts data centre in eastern Moscow, Russia says",
+        "excerpt": "The drone attack highlights the vulnerability of digital infrastructure to physical threats, potentially impacting investor confidence and tech operations.\nThe post Drone attack disrupts data centre in eastern Moscow, Russia says appeared first on Crypto Brie…",
+        "content": "<p>The drone attack highlights the vulnerability of digital infrastructure to physical threats, potentially impacting investor confidence and tech operations.\nThe post Drone attack disrupts data centre in eastern Moscow, Russia says appeared first on Crypto Brie…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/11001433/library-drone-attack-disrupts-data-centre-in-eastern-moscow-russ-800x417.png",
+        "date": "Oct 11, 2026",
+        "url": "https://cryptobriefing.com/drone-attack-disrupts-moscow-data-centre/"
+    },
+    {
+        "id": "cj0bq0e5n",
+        "title": "HIGHLIGHTS: No. 23 UTPB survives a thriller against West Texas A&M",
+        "excerpt": "CANYON, Texas (KMID/KPEJ) – The No. 23 UTPB Falcons went toe-to-toe with West Texas A&M, defeating the Buffaloes 24-17 for their fifth straight win. The Falcons put up 419 total yards, 284 through the air and 135 on the ground. The defense continues to be opp…",
+        "content": "<p>CANYON, Texas (KMID/KPEJ) – The No. 23 UTPB Falcons went toe-to-toe with West Texas A&M, defeating the Buffaloes 24-17 for their fifth straight win. The Falcons put up 419 total yards, 284 through the air and 135 on the ground. The defense continues to be opp…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/47e9b97af2f7c65f8201b40e5ad723266b96cdf75114d963ce6f9bcf9347571b/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkmid_midland_articles_115%2F828f04f5a2f4fab6ec5cec7b20b7db05.jpg",
+        "date": "Oct 11, 2026",
+        "url": "https://www.yourbasin.com/sports/utpb-football/no-23-utpb-survives-a-thriller-against-west-texas-am/"
+    },
+    {
+        "id": "gc199eq4c",
+        "title": "AnX Robotica Highlights Documented ProScan AI Workflow Performance from Submission to FDA",
+        "excerpt": "Separate FDA submissions report mean small-bowel capsule review-time reductions of 88.6% with ProScan-assisted reading and 24.7% with a recently cleared comparator AI-assisted workflow. PLANO, Texas, Oct. 11, 2026 /PRNewswire/ -- AnX Robotica today highlighte…",
+        "content": "<p>Separate FDA submissions report mean small-bowel capsule review-time reductions of 88.6% with ProScan-assisted reading and 24.7% with a recently cleared comparator AI-assisted workflow. PLANO, Texas, Oct. 11, 2026 /PRNewswire/ -- AnX Robotica today highlighte…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS1401732/ANX-main-logo-vector-Logo.jpg?id=OA3006984&p=facebook",
+        "date": "Oct 11, 2026",
+        "url": "https://www.prnewswire.com/news-releases/anx-robotica-highlights-documented-proscan-ai-workflow-performance-from-submission-to-fda-302905102.html"
+    },
+    {
+        "id": "led2sx5jx",
+        "title": "Why Are Tech Bros So Desperate to Say AI Is Sentient?",
+        "excerpt": "Photo Credit:Image: UW News via Flickr, CC BY 2.0.\r\n\n\n \n UW NewsBy Mark St. CyrIt’s not because they’re over-excited about new technology. Follow the money.",
+        "content": "<p>Photo Credit:Image: UW News via Flickr, CC BY 2.0.\r\n\n\n \n UW NewsBy Mark St. CyrIt’s not because they’re over-excited about new technology. Follow the money.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.americanthinker.com/6v/6vfrpv0kbajazdfmx5jg_1200.jpg",
+        "date": "Oct 11, 2026",
+        "url": "https://www.americanthinker.com/articles/2026/10/why-are-tech-bros-so-desperate-to-say-ai-is-sentient/"
+    },
+    {
+        "id": "qx9no74d5",
+        "title": "Takeaways: Penguins Deliver Complete Effort In 2-1 Shootout Win Over Dallas Stars To Snap Three-Game Skid",
+        "excerpt": "The Pittsburgh Penguins brought their A-game against one of the league's best teams Saturday to get back in the win column.",
+        "content": "<p>The Pittsburgh Penguins brought their A-game against one of the league's best teams Saturday to get back in the win column.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/ca420be33b82f9cf1c0249c8023943e3667fadbc6649103b6b641e92fc57b105/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hockey_news_pittsburgh_penguins_articles_513%2F687526693176bd14d1a81d5bdabf443b.jpg",
+        "date": "Oct 11, 2026",
+        "url": "https://thehockeynews.com/nhl/pittsburgh-penguins/game-day/takeaways-penguins-deliver-complete-effort-in-2-1-shootout-win-over-dallas-stars-to-snap-three-game-skid"
+    },
+    {
+        "id": "34l7tahpu",
+        "title": "24-Year-Old Star Fell Ill Ahead Of Shakur Stevenson Fight — But Won His First World Title On Saturday",
+        "excerpt": "Floyd Schofield beat Lucas Bahdi by unanimous decision (116-110, 115-111, 119-108) to win the WBA lightweight title in Chicago. Full results and highlights.",
+        "content": "<p>Floyd Schofield beat Lucas Bahdi by unanimous decision (116-110, 115-111, 119-108) to win the WBA lightweight title in Chicago. Full results and highlights.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/975770377c1df4b618f25d0d9340ab9982f0e1d69ea37e910f0aea7758b323a2/lightyear_networkapi/resizefill_w958_h539%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F65d963391d54cf3c7aa81428adc11e22.jpg",
+        "date": "Oct 11, 2026",
+        "url": "https://www.forbes.com/sites/brianmazique/2026/10/10/24-year-old-star-fell-ill-ahead-of-shakur-stevenson-fight---but-won-his-first-world-title-on-saturday/"
+    },
+    {
+        "id": "tud5q89q3",
+        "title": "HIGHLIGHTS: Angelo State Rams send local fans home happy with dominant homecoming performance",
+        "excerpt": "SAN ANGELO, Texas (Concho Valley Homepage) — The Angelo State Rams take on the Sul Ross State Lobos on Saturday, Oct 10, 2026. It hasn’t been an easy season for Angelo State football. Entering week seven, the Rams were just 1-4 overall and 1-2 against Lone St…",
+        "content": "<p>SAN ANGELO, Texas (Concho Valley Homepage) — The Angelo State Rams take on the Sul Ross State Lobos on Saturday, Oct 10, 2026. It hasn’t been an easy season for Angelo State football. Entering week seven, the Rams were just 1-4 overall and 1-2 against Lone St…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/8d3c0d7e3c8fe47c9a849ce52a00fbaa9a99762012b16617dafa059c956eee55/lightyear_networkapi/resizefill_w586_h351%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fklst_san_angelo_articles_638%2F4d293936c75d7a123adfd487e55a22fd.png",
+        "date": "Oct 11, 2026",
+        "url": "https://www.conchovalleyhomepage.com/locker-room/highlights-angelo-state-rams-send-local-fans-home-happy-with-dominant-homecoming-performance/"
+    },
+    {
+        "id": "6zsugeb1m",
+        "title": "WATCH: Saturday college sport spectacular | October 10, 2026",
+        "excerpt": "Parker Hollendoner breaks down scores and highlights from college athletic matches from Midwestern State and Vernon College played on Saturday, October 10, 2026. Soccer: Women’s | No. 8 Midwestern State vs Sul Ross State | (8)Mustangs def. Lady Lobos | 3-0 Me…",
+        "content": "<p>Parker Hollendoner breaks down scores and highlights from college athletic matches from Midwestern State and Vernon College played on Saturday, October 10, 2026. Soccer: Women’s | No. 8 Midwestern State vs Sul Ross State | (8)Mustangs def. Lady Lobos | 3-0 Me…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/e97393b4ea23e411a983cc1383f6e7e6632b73939df7be7158c09fe76138f181/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkfdx_wichita_falls_articles_332%2F52a70c23029fd1e0eef9f74c9206d587.jpg",
+        "date": "Oct 11, 2026",
+        "url": "https://www.texomashomepage.com/sports/local-sports/watch-saturday-college-sport-spectacular-october-10-2026/"
+    },
+    {
+        "id": "yr6qb5upl",
+        "title": "WATCH: High school volleyball highlights and scores | October 10, 2026",
+        "excerpt": "Parker Hollendoner breaks down high school volleyball scores and highlights from local teams playing on Saturday, October 10, 2026. Electra vs Munday | Lady Tigers def. Mogulettes | 25-21, 25-18, 18-25, 25-16 No. 13 Olney vs Petrolia | (13)Lady Cubs def. Lady…",
+        "content": "<p>Parker Hollendoner breaks down high school volleyball scores and highlights from local teams playing on Saturday, October 10, 2026. Electra vs Munday | Lady Tigers def. Mogulettes | 25-21, 25-18, 18-25, 25-16 No. 13 Olney vs Petrolia | (13)Lady Cubs def. Lady…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/5fdfbbac71301af86cc02387fdb96ab2090c2433385fd6ee6b8c06e690c04750/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkfdx_wichita_falls_articles_332%2F607bc421be92fa7bceed8925414bdf5d.jpg",
+        "date": "Oct 11, 2026",
+        "url": "https://www.texomashomepage.com/sports/local-sports/watch-high-school-volleyball-highlights-and-scores-october-10-2026/"
+    },
+    {
+        "id": "c2q0ympcw",
+        "title": "Japan Declares Cybersecurity Emergency, Experts Nod to AI",
+        "excerpt": "Masaki Hiraoka, managing director Blackpanda, told The Financial Times AI could mean that ‘smaller services that previously weren’t worth the effort could become viable targets.’\nJapan has declared a cybersecurity emergency, following a spate of attacks on it…",
+        "content": "<p>Masaki Hiraoka, managing director Blackpanda, told The Financial Times AI could mean that ‘smaller services that previously weren’t worth the effort could become viable targets.’\nJapan has declared a cybersecurity emergency, following a spate of attacks on it…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://sm.pcmag.com/t/pcmag_me/news/j/japan-decl/japan-declares-cybersecurity-emergency-experts-nod-to-ai_qra1.1200.jpg",
+        "date": "Oct 11, 2026",
+        "url": "https://me.pcmag.com/en/old-it-security/38300/japan-declares-cybersecurity-emergency-experts-nod-to-ai"
+    },
+    {
         "id": "x42x9bphr",
         "title": "News 3 PrepZone Week 8: Georgia high school football highlights",
         "excerpt": "COLUMBUS, Ga. (WRBL) — WRBL is now in week eight of News 3 PrepZone coverage! Stick with WRBL on air and online throughout the football season as we cover high school football games in Georgia, Alabama and across the Chattahoochee Valley. RELATED: News 3 Prep…",
