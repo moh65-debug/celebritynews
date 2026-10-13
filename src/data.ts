@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "xsxi2pw40",
+        "title": "Soulja Boy hints at 2028 presidential run and lays out four platforms: 'The future starts with a conversation'",
+        "excerpt": "The 36-year-old rapper, whose real name is DeAndre Cortez Way, titled the post 'SOULJA BOY 2028' and posed in front of an American flag in the picture.",
+        "content": "<p>The 36-year-old rapper, whose real name is DeAndre Cortez Way, titled the post 'SOULJA BOY 2028' and posed in front of an American flag in the picture.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/10/12/05/111801239-0-image-m-11_1791778526024.jpg",
+        "date": "Oct 12, 2026",
+        "url": "https://www.dailymail.com/tvshowbiz/article-16201557/soulja-boy-presidential-run-platforms.html"
+    },
+    {
+        "id": "jug40kuwq",
+        "title": "Why did Pakistan declare Emergency in Imran Khan's bastion Khyber Pakhtunkhwa",
+        "excerpt": "Pakistan's political battle with jailed former prime minister Imran Khan has taken a sharp turn, with the Shehbaz Sharif government suspending his",
+        "content": "<p>Pakistan's political battle with jailed former prime minister Imran Khan has taken a sharp turn, with the Shehbaz Sharif government suspending his</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static.toiimg.com/thumb/msid-134883286,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 12, 2026",
+        "url": "https://timesofindia.indiatimes.com/world/pakistan/why-did-pakistan-declare-emergency-in-imran-khans-bastion-khyber-pakhtunkhwa/articleshow/134883270.cms"
+    },
+    {
+        "id": "l25oehehp",
+        "title": "'Edited version, if you have the courage, release entire video': CJP's Abhijeet Dipke",
+        "excerpt": "Abhijeet Dipke, founder of Cockroach Janata Party, claims that Delhi Police violated his basic rights during detention. He alleges that the police denied him contact with his lawyer and family. Dipke states that police caused distress by asking him to contact…",
+        "content": "<p>Abhijeet Dipke, founder of Cockroach Janata Party, claims that Delhi Police violated his basic rights during detention. He alleges that the police denied him contact with his lawyer and family. Dipke states that police caused distress by asking him to contact…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static.toiimg.com/thumb/msid-134883468,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 12, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/aurangabad/edited-version-if-you-have-the-courage-release-entire-video-cjps-abhijeet-dipke/articleshow/134883208.cms"
+    },
+    {
+        "id": "8lxko09qh",
+        "title": "'Why is Gyanesh Kumar so indispensable to PM Modi?': Abhijeet Dipke on Delhi police assaults",
+        "excerpt": "CJP founder Abhijeet Dipke accused Delhi Police of violently targeting protesters and journalists during demonstrations. The protests were aimed at demanding the resignation of Chief Election Commissioner Gyanesh Kumar. CPM MP John Brittas also reported polic…",
+        "content": "<p>CJP founder Abhijeet Dipke accused Delhi Police of violently targeting protesters and journalists during demonstrations. The protests were aimed at demanding the resignation of Chief Election Commissioner Gyanesh Kumar. CPM MP John Brittas also reported polic…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static.toiimg.com/thumb/msid-134883429,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 12, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/delhi/why-is-gyanesh-kumar-so-indispensable-to-pm-modi-abhijeet-dipke-on-delhi-police-assaults/articleshow/134883160.cms"
+    },
+    {
+        "id": "0td321j8n",
+        "title": "Better understanding of AI cybersecurity risks needed, says TikTok’s Chew Shou Zi",
+        "excerpt": "TikTok’s top executive thinks there’s a “non-zero chance” that AI will become superior to human beings in certain aspects. “The technology is evolving, but you can see a world where silicon is just superior to carbon.”",
+        "content": "<p>TikTok’s top executive thinks there’s a “non-zero chance” that AI will become superior to human beings in certain aspects. “The technology is evolving, but you can see a world where silicon is just superior to carbon.”</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--Cb3AeaCp--/c_crop,h_1125,w_2000,x_0,y_170/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/12/tiktok_shou_chew.jpg?itok=zwvr_zCJ",
+        "date": "Oct 12, 2026",
+        "url": "https://www.channelnewsasia.com/singapore/tiktok-ceo-shou-chew-ai-6451691"
+    },
+    {
+        "id": "iqcso7wj8",
+        "title": "Brian Solis Named a Best AI Keynote Speakers for 2027 Events",
+        "excerpt": "Source Brian Solis: Mindshift and the Post-Digital Organization Brian Solis is a digital anthropologist, nine-time bestselling author, and Head of Global Innovation at ServiceNow. He previously held the same role at Salesforce and serves as a special advisor …",
+        "content": "<p>Source Brian Solis: Mindshift and the Post-Digital Organization Brian Solis is a digital anthropologist, nine-time bestselling author, and Head of Global Innovation at ServiceNow. He previously held the same role at Salesforce and serves as a special advisor …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://briansolis.com/wp-content/uploads/2026/10/2026.08.29_E6N_0516_3259419_325524-scaled.jpeg",
+        "date": "Oct 12, 2026",
+        "url": "https://briansolis.com/2026/10/brian-solis-named-a-best-ai-keynote-speakers-for-2027-events/"
+    },
+    {
+        "id": "oknxz58e5",
+        "title": "Malaysia’s tech, automotive and finance industries react to Belanjawan MADANI",
+        "excerpt": "Prime Minister and Finance Minister Datuk Seri Anwar Ibrahim presented Budget 2027 in Parliament on Friday, 9 October 2026. The RM510 billion national budget focuses on boosting household income, managing government spending better, and helping local business…",
+        "content": "<p>Prime Minister and Finance Minister Datuk Seri Anwar Ibrahim presented Budget 2027 in Parliament on Friday, 9 October 2026. The RM510 billion national budget focuses on boosting household income, managing government spending better, and helping local business…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://soyacincau.com/wp-content/uploads/2026/10/budget-belanjawan-2027-logo02.jpg",
+        "date": "Oct 12, 2026",
+        "url": "https://soyacincau.com/2026/10/12/malaysias-tech-automotive-and-finance-industries-react-to-belanjawan-madani/"
+    },
+    {
+        "id": "yndtpk813",
+        "title": "Cambridgeshire weather update: cool, overcast day with mild temperatures and high humidity",
+        "excerpt": "On October 12, 2026, residents in Cambridgeshire will experience cool and overcast weather, with temperatures between 14 and 16 degrees Celsius. High humidity levels of 98% will contribute to a cooler feeling throughout the day, particularly in the morning. W…",
+        "content": "<p>On October 12, 2026, residents in Cambridgeshire will experience cool and overcast weather, with temperatures between 14 and 16 degrees Celsius. High humidity levels of 98% will contribute to a cooler feeling throughout the day, particularly in the morning. W…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static.toiimg.com/thumb/msid-134883333,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 12, 2026",
+        "url": "https://timesofindia.indiatimes.com/weather/uk/cambridgeshire-weather-update-cool-overcast-day-with-mild-temperatures-and-high-humidity/articleshow/134883335.cms"
+    },
+    {
+        "id": "nv6lhbkra",
+        "title": "Oxfordshire weather forecast: mild and overcast conditions with temperatures around 17°C on October 12, 2026",
+        "excerpt": "Oxfordshire is set to have an overcast day with mild temperatures of 17°C and high humidity at 96%. Residents can partake in outdoor activities during the late afternoon, while also being mindful of possible evening coolness. A significant warming trend is ex…",
+        "content": "<p>Oxfordshire is set to have an overcast day with mild temperatures of 17°C and high humidity at 96%. Residents can partake in outdoor activities during the late afternoon, while also being mindful of possible evening coolness. A significant warming trend is ex…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static.toiimg.com/thumb/msid-134883331,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 12, 2026",
+        "url": "https://timesofindia.indiatimes.com/weather/uk/oxfordshire-weather-forecast-mild-and-overcast-conditions-with-temperatures-around-17c-on-october-12-2026/articleshow/134883334.cms"
+    },
+    {
+        "id": "7z3q5bz1m",
+        "title": "Over 1 crore manuscripts reported to Gyan Bharatam; mission aims to preserve, digitise them",
+        "excerpt": "Gyan Bharatam is an initiative to document, preserve, and digitise a large number of manuscripts in India. Custodians of manuscripts are encouraged to register their collections while retaining their ownership. The project faces challenges related to technolo…",
+        "content": "<p>Gyan Bharatam is an initiative to document, preserve, and digitise a large number of manuscripts in India. Custodians of manuscripts are encouraged to register their collections while retaining their ownership. The project faces challenges related to technolo…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-134883233,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 12, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/delhi/over-1-crore-manuscripts-reported-to-gyan-bharatam-mission-aims-to-preserve-digitise-them/articleshow/134881829.cms"
+    },
+    {
         "id": "qjjwvzryi",
         "title": "Drone attack disrupts data centre in eastern Moscow, Russia says",
         "excerpt": "The drone attack highlights the vulnerability of digital infrastructure to physical threats, potentially impacting investor confidence and tech operations.\nThe post Drone attack disrupts data centre in eastern Moscow, Russia says appeared first on Crypto Brie…",
