@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "3hehxgicx",
+        "title": "Linus Torvalds On Why AI Works For Him",
+        "excerpt": "An anonymous reader quotes a report from ZDNet: Many open-source developers still dislike AI. The latest example is System76 banning AI-generated content from its COSMIC desktop. At Open Source Summit Europe, Linux creator Linus Torvalds offered a different t…",
+        "content": "<p>An anonymous reader quotes a report from ZDNet: Many open-source developers still dislike AI. The latest example is System76 banning AI-generated content from its COSMIC desktop. At Open Source Summit Europe, Linux creator Linus Torvalds offered a different t…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://a.fsdn.com/sd/topics/programming_64.png",
+        "date": "Oct 13, 2026",
+        "url": "https://linux.slashdot.org/story/26/10/13/034206/linus-torvalds-on-why-ai-works-for-him"
+    },
+    {
+        "id": "lt4jlocve",
+        "title": "AI server tracker: Supply, not demand, caps BMC growth as Aspeed's 2027 orders top this year's revenue",
+        "excerpt": "Taiwan-based server management chip supplier Aspeed Technology reported consolidated revenue of NT$1.636 billion (approx. US$51.16 million) for September 2026, up 100.93% year-over-year and 0.64% from August. It was the company's 11th consecutive month of rec…",
+        "content": "<p>Taiwan-based server management chip supplier Aspeed Technology reported consolidated revenue of NT$1.636 billion (approx. US$51.16 million) for September 2026, up 100.93% year-over-year and 0.64% from August. It was the company's 11th consecutive month of rec…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20261013vl206_files/2_2b.jpg",
+        "date": "Oct 13, 2026",
+        "url": "https://www.digitimes.com/news/a20261013VL206/aspeed-ai-server-demand-growth.html"
+    },
+    {
+        "id": "3votpgj2w",
+        "title": "IMF warns AI risks could push more global banks to fail",
+        "excerpt": "AI risks could destabilize global finance, necessitating enhanced cross-border cooperation and robust contingency planning to mitigate systemic threats.\nThe post IMF warns AI risks could push more global banks to fail appeared first on Crypto Briefing.",
+        "content": "<p>AI risks could destabilize global finance, necessitating enhanced cross-border cooperation and robust contingency planning to mitigate systemic threats.\nThe post IMF warns AI risks could push more global banks to fail appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/12232851/library-imf-warns-ai-risks-could-push-more-global-banks-to-fail-800x450.png",
+        "date": "Oct 13, 2026",
+        "url": "https://cryptobriefing.com/imf-warns-ai-risks-global-banks/"
+    },
+    {
+        "id": "xuj11mye4",
+        "title": "Who is the translator for José Ramírez? Meet Agustin Rivero",
+        "excerpt": "Agustin Rivero of Venezuela was once a professional baseball player but an injury led him to find a new purpose in life in Cleveland.",
+        "content": "<p>Agustin Rivero of Venezuela was once a professional baseball player but an injury led him to find a new purpose in life in Cleveland.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/301e4a461b85aa55e03fa87df4c0b24a4a4ed1b48824f8ac71198737f72b5253/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fakron-beacon-journal%2Fa7d31b734f66845721cd3be72fba99e9.jpg",
+        "date": "Oct 13, 2026",
+        "url": "https://www.beaconjournal.com/story/sports/mlb/cleveland-guardians/2026/10/12/guardians-interpreter-agustin-rivero-jose-ramirez/92227311007/"
+    },
+    {
+        "id": "bu7hqzrv9",
+        "title": "RUHS Medical Officer Recruitment 2026: Registration closes today for 600 posts, check fees and exam date",
+        "excerpt": "RUHS Medical Officer Recruitment 2026: RUHS Medical Officer Recruitment 2026 registration closes on October 13, 2026, for 600 vacancies in Rajasthan. The recruitment is open to eligible candidates with an MBBS degree and permanent Rajasthan Medical Council re…",
+        "content": "<p>RUHS Medical Officer Recruitment 2026: RUHS Medical Officer Recruitment 2026 registration closes on October 13, 2026, for 600 vacancies in Rajasthan. The recruitment is open to eligible candidates with an MBBS degree and permanent Rajasthan Medical Council re…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-134906579,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 13, 2026",
+        "url": "https://timesofindia.indiatimes.com/education/news/ruhs-medical-officer-recruitment-2026-registration-closes-today-for-600-posts-check-fees-and-exam-date/articleshow/134906534.cms"
+    },
+    {
+        "id": "qg0om1n8k",
+        "title": "Jesse Eisenberg donated a kidney to a stranger: What makes someone help a person they have never met?",
+        "excerpt": "In a remarkable display of generosity, Jesse Eisenberg has donated a kidney to a stranger, showcasing an extraordinary level of altruism that reaches far beyond personal ties. Research highlights that many feel a profound urge to lessen the pain of those they…",
+        "content": "<p>In a remarkable display of generosity, Jesse Eisenberg has donated a kidney to a stranger, showcasing an extraordinary level of altruism that reaches far beyond personal ties. Research highlights that many feel a profound urge to lessen the pain of those they…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-134906435,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 13, 2026",
+        "url": "https://timesofindia.indiatimes.com/relationships/jesse-eisenberg-donated-a-kidney-to-a-stranger-what-makes-someone-help-a-person-they-have-never-met/articleshow/134906407.cms"
+    },
+    {
+        "id": "c7dulyzi5",
+        "title": "Watch Timberwolves’ Anthony Edwards beat 1st half buzzer with logo 3 vs. Knicks",
+        "excerpt": "Anthony Edwards and the Minnesota Timberwolves looked for their third win of the preseason as they visited the New York Knicks at Madison Square Garden on Monday. The Timberwolves were coming off a one-point victory over the Miami Heat, while the Knicks dropp…",
+        "content": "<p>Anthony Edwards and the Minnesota Timberwolves looked for their third win of the preseason as they visited the New York Knicks at Madison Square Garden on Monday. The Timberwolves were coming off a one-point victory over the Miami Heat, while the Knicks dropp…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/15076fc5520fdc8fd905934550cd7fe51870f3d519bd506e104de766acf15e97/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2Ff0c35a23950df8af639028c0823dfaca.jpg",
+        "date": "Oct 13, 2026",
+        "url": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-watch-anthony-edwards-beat-buzzer-3-knicks"
+    },
+    {
+        "id": "eh75ylfen",
+        "title": "SCOREBOARD | Northeast Florida high school sports for Oct. 12-17",
+        "excerpt": "The Times-Union rounds up high school sports scores and results across Jacksonville and Northeast Florida for Oct. 12-17, 2026.",
+        "content": "<p>The Times-Union rounds up high school sports scores and results across Jacksonville and Northeast Florida for Oct. 12-17, 2026.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/180e2855b7a9b7c6c6a0da506a0c8c811cb87fad966de6da5bd070ec9e845238/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-florida-times-union%2F329514be9a2581fd3811ddb5fed395eb.jpg",
+        "date": "Oct 13, 2026",
+        "url": "https://www.jacksonville.com/story/sports/high-school/2026/10/12/jacksonville-area-high-school-sports-scores-oct-12-17/91203829007/"
+    },
+    {
+        "id": "kxrjbtktp",
+        "title": "Celebrity boxing: Boom for entertainers, bane of professional boxers?",
+        "excerpt": "Nigerian entertainers are earning up to N50m in celebrity boxing matches, sparking a debate among professional boxers over fair pay and the sport’s future.\n\nRead More: https://punchng.com/celebrity-boxing-boom-for-entertainers-bane-of-professional-boxers/",
+        "content": "<p>Nigerian entertainers are earning up to N50m in celebrity boxing matches, sparking a debate among professional boxers over fair pay and the sport’s future.\n\nRead More: https://punchng.com/celebrity-boxing-boom-for-entertainers-bane-of-professional-boxers/</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/10/13004744/Screenshot-2026-10-13-004713_1791848864-1200x630.webp",
+        "date": "Oct 13, 2026",
+        "url": "https://punchng.com/celebrity-boxing-boom-for-entertainers-bane-of-professional-boxers/"
+    },
+    {
+        "id": "d7dtf3mrs",
+        "title": "Toshiba Launches Small-Package eFuse IC Supporting 1.7V Low-Voltage Operation",
+        "excerpt": "KAWASAKI, Japan — Toshiba Electronic Devices & Storage Corporation (“Toshiba”) has launched a lineup of four electronic fuses (eFuse ICs), the TCKE5 Series, that integrate multiple functions for the protection of power supply lines. Shipments start today. The…",
+        "content": "<p>KAWASAKI, Japan — Toshiba Electronic Devices & Storage Corporation (“Toshiba”) has launched a lineup of four electronic fuses (eFuse ICs), the TCKE5 Series, that integrate multiple functions for the protection of power supply lines. Shipments start today. The…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/bw20261012204269_efuse-ic-tcke5_series.jpeg",
+        "date": "Oct 13, 2026",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/toshiba-launches-small-package-efuse-ic-supporting-1-7v-low-voltage-operation"
+    },
+    {
         "id": "xsxi2pw40",
         "title": "Soulja Boy hints at 2028 presidential run and lays out four platforms: 'The future starts with a conversation'",
         "excerpt": "The 36-year-old rapper, whose real name is DeAndre Cortez Way, titled the post 'SOULJA BOY 2028' and posed in front of an American flag in the picture.",
