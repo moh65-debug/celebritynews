@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "30tdipzir",
+        "title": "Terrorists deploy AI, crypto to evade security agencies – Ribadu",
+        "excerpt": "Nigeria’s NSA, Nuhu Ribadu, warns that terrorist groups are increasingly using AI, social media, and cryptocurrency to recruit, hide funds, and coordinate\n\nRead More: https://punchng.com/terrorists-deploy-ai-crypto-to-evade-security-agencies-ribadu/",
+        "content": "<p>Nigeria’s NSA, Nuhu Ribadu, warns that terrorist groups are increasingly using AI, social media, and cryptocurrency to recruit, hide funds, and coordinate\n\nRead More: https://punchng.com/terrorists-deploy-ai-crypto-to-evade-security-agencies-ribadu/</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://punchng.com/wp-content/uploads/2026/06/National-Security-Adviser-Nuhu-Ribadu-1200x630.webp",
+        "date": "Oct 14, 2026",
+        "url": "https://punchng.com/terrorists-deploy-ai-crypto-to-evade-security-agencies-ribadu/"
+    },
+    {
+        "id": "06u07j0t6",
+        "title": "Autumn Electronics Fair and electronicAsia open today bringing global buyers to Hong Kong",
+        "excerpt": "The Hong Kong Electronics Fair (Autumn Edition), organised by the Hong Kong Trade Development Council (HKTDC), and electronicAsia, jointly organised by the ...",
+        "content": "<p>The Hong Kong Electronics Fair (Autumn Edition), organised by the Hong Kong Trade Development Council (HKTDC), and electronicAsia, jointly organised by the ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/08/20/WhatsApp-Image-2026-08-20-at-16.19.20.jpeg",
+        "date": "Oct 14, 2026",
+        "url": "https://en.antaranews.com/news/435345/autumn-electronics-fair-and-electronicasia-open-today-bringing-global-buyers-to-hong-kong"
+    },
+    {
+        "id": "elp2wzluu",
+        "title": "DXC Just Re-Cut Itself as the Governed-Deployment Layer. The Numbers Selling It Are DXC’s Own.",
+        "excerpt": "In roughly 48 hours, HCLTech and DXC have both pivoted from selling IT labor to selling the guardrails around AI agents. DXC's release prints the wave's first outcome figures: 95% faster resolution across 500 use cases, self-measured, no customers named.",
+        "content": "<p>In roughly 48 hours, HCLTech and DXC have both pivoted from selling IT labor to selling the guardrails around AI agents. DXC's release prints the wave's first outcome figures: 95% faster resolution across 500 use cases, self-measured, no customers named.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://forkast.news/wp-content/uploads/2026/10/dxc-langchain-governed-deployment-layer-1024x687.jpg",
+        "date": "Oct 14, 2026",
+        "url": "https://forkast.news/dxc-just-re-cut-itself-as-the-governed-deployment-layer-the-numbers-selling-it-are-dxcs-own/"
+    },
+    {
+        "id": "vzc78z7x4",
+        "title": "Applied Materials CEO says AI race hinges on technology and capacity",
+        "excerpt": "The contest for leadership in AI computing is being fought on two fronts—technology and manufacturing capacity—and chipmakers must advance chips, memory, advanced packaging and system interconnects simultaneously to keep pace with demand, Applied Materials Pr…",
+        "content": "<p>The contest for leadership in AI computing is being fought on two fronts—technology and manufacturing capacity—and chipmakers must advance chips, memory, advanced packaging and system interconnects simultaneously to keep pace with demand, Applied Materials Pr…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20261014pd226_files/2_b.jpg",
+        "date": "Oct 14, 2026",
+        "url": "https://www.digitimes.com/news/a20261014PD226/applied-materials-ceo-technology-manufacturing-capacity.html"
+    },
+    {
+        "id": "qw30pzz2n",
+        "title": "OpenAI engineer accused of bugging executive conference room",
+        "excerpt": "An OpenAI engineer has been arrested for allegedly hiding a recording device in a conference room used by company executives",
+        "content": "<p>An OpenAI engineer has been arrested for allegedly hiding a recording device in a conference room used by company executives</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mf.b37mrtl.ru/files/2026.10/article/6aceecee20302776a52c7d23.jpg",
+        "date": "Oct 14, 2026",
+        "url": "https://rt-english.com/news/647165-openai-bugging-allegations-fbi/"
+    },
+    {
+        "id": "x5e7yo6j2",
+        "title": "\"I know the time and energy that she puts into it\": Connor McDavid’s wife Lauren Kyle has a growing business portfolio, and her biggest breakthrough came from an unexpected lesson",
+        "excerpt": "From her foundation in interior design, Lauren Kyle expanded her entrepreneurial horizons into sports apparel, hospitality, and even publishing. Fueled by Connor McDavid's generous gift of business coaching sessions, she sharpened her leadership skills. Kyle'…",
+        "content": "<p>From her foundation in interior design, Lauren Kyle expanded her entrepreneurial horizons into sports apparel, hospitality, and even publishing. Fueled by Connor McDavid's generous gift of business coaching sessions, she sharpened her leadership skills. Kyle'…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-134930406,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 14, 2026",
+        "url": "https://timesofindia.indiatimes.com/sports/nhl/news/i-know-the-time-and-energy-that-she-puts-into-it-connor-mcdavids-wife-lauren-kyle-has-a-growing-business-portfolio-and-her-biggest-breakthrough-came-from-an-unexpected-lesson/articleshow/134930209.cms"
+    },
+    {
+        "id": "snbi17790",
+        "title": "JPMorgan posts rare profit miss amid uncertain outlook",
+        "excerpt": "NEW YORK: JPMorgan Chase fell short of quarterly profit estimates for the first time in nearly three years as market volatility and an uncertain economic outloo...",
+        "content": "<p>NEW YORK: JPMorgan Chase fell short of quarterly profit estimates for the first time in nearly three years as market volatility and an uncertain economic outloo...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/10/13/456573.jpg",
+        "date": "Oct 14, 2026",
+        "url": "https://kuwaittimes.com/article/51528/business/jpmorgan-posts-rare-profit-miss-amid-uncertain-outlook/"
+    },
+    {
+        "id": "0icbn0i07",
+        "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+        "excerpt": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations.\n\nAbdulrahman Alfozan, 35, has been ch…",
+        "content": "<p>A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations.\n\nAbdulrahman Alfozan, 35, has been ch…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6tXAfDSv5HwaNsBdrtgbjvOoTMYJuMGQPGpLM5auUfz9dUSuExG-IY_42zMx-VP8GbM-oXAVGbKjHIqNOHy08-lKsCPrJMbhPrDw-9UlJpapcAMZohyphenhypheng7IZh192IoEGs66NRp6TNCWIFYsO5oh9gKkIeILKD_8zdzCHBmoJCeCi65kZjDvQyZwzicV2I/s1700-nu-rw-lo-l85-e365/opens.jpg",
+        "date": "Oct 14, 2026",
+        "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html"
+    },
+    {
+        "id": "gc4yn7hxs",
+        "title": "Rare Nanotyrannus skeleton goes on display at NYC Sotheby’s before heading to historic auction",
+        "excerpt": "Standing 6.5 feet tall and stretching nearly 20 feet long, the rare fossil is one of only three such skeletons known to exist.",
+        "content": "<p>Standing 6.5 feet tall and stretching nearly 20 feet long, the rare fossil is one of only three such skeletons known to exist.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41321625.jpg?quality=75&strip=all&w=1200",
+        "date": "Oct 14, 2026",
+        "url": "https://nypost.com/2026/10/13/us-news/rare-nanotyrannus-skeleton-goes-on-display-at-nyc-sothebys-before-heading-to-historic-auction/"
+    },
+    {
+        "id": "7ue7u291v",
+        "title": "Crystal Lake Preview Clip: Jason Really Should Have Been Watched",
+        "excerpt": "In case there's any confusion, Bleeding Cool ran its review of the first season of Peacock and Showrunner Brad Caleb Kane's Linda Cardellini-starring Crystal Lake. Yeah, it's a winner. But in case you need more convincing, we've got a preview clip to pass alo…",
+        "content": "<p>In case there's any confusion, Bleeding Cool ran its review of the first season of Peacock and Showrunner Brad Caleb Kane's Linda Cardellini-starring Crystal Lake. Yeah, it's a winner. But in case you need more convincing, we've got a preview clip to pass alo…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-19-PM-7313-2000x1125.jpg",
+        "date": "Oct 14, 2026",
+        "url": "https://bleedingcool.com/tv/crystal-lake-preview-clip-jason-really-should-have-been-watched/"
+    },
+    {
         "id": "3hehxgicx",
         "title": "Linus Torvalds On Why AI Works For Him",
         "excerpt": "An anonymous reader quotes a report from ZDNet: Many open-source developers still dislike AI. The latest example is System76 banning AI-generated content from its COSMIC desktop. At Open Source Summit Europe, Linux creator Linus Torvalds offered a different t…",
