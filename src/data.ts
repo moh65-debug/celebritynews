@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "x0u6yq6tx",
+        "title": "Murata and MELT Showcase Award-Winning ContactGlove3 Pro For Robotic Hand Training",
+        "excerpt": "Murata Manufacturing is back at CEATEC 2026 with several technology demonstrations, led by the award-winning ContactGlove3 Pro, an advanced hand-tracking glove developed by MELT Interface Technologies in collaboration with Murata. The technology received a CE…",
+        "content": "<p>Murata Manufacturing is back at CEATEC 2026 with several technology demonstrations, led by the award-winning ContactGlove3 Pro, an advanced hand-tracking glove developed by MELT Interface Technologies in collaboration with Murata. The technology received a CE…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/10/Melt-Murata-ContactGlove3-Pro-THUMB.jpg",
+        "date": "Oct 15, 2026",
+        "url": "https://www.ubergizmo.com/2026/10/murata-and-melt-contactglove3-pro-robotic-hand-training/"
+    },
+    {
+        "id": "n08hu0rqp",
+        "title": "Nvidia’s Jensen Huang wants ‘no incidents’ of AI cybersecurity, and says AI doomers ‘ought to stop working on’ the technology",
+        "excerpt": "Nvidia CEO Jensen Huang says the AI industry shouldn’t tolerate any cybersecurity incidents caused by the technology, putting him at odds with OpenAI’s Sam Altman, who has recently said that some hacks and scams may be a necessary tradeoff for AI’s benefits.\n…",
+        "content": "<p>Nvidia CEO Jensen Huang says the AI industry shouldn’t tolerate any cybersecurity incidents caused by the technology, putting him at odds with OpenAI’s Sam Altman, who has recently said that some hacks and scams may be a necessary tradeoff for AI’s benefits.\n…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/ec4897ccd313552d_s.webp",
+        "date": "Oct 15, 2026",
+        "url": "https://biztoc.com/x/ec4897ccd313552d"
+    },
+    {
+        "id": "rymm4nfa4",
+        "title": "ByteDance reportedly in talks to buy MediaTek AI chips for data centers",
+        "excerpt": "ByteDance's diversification in AI chip sourcing highlights the strategic shift in global tech supply chains amid geopolitical tensions.\nThe post ByteDance reportedly in talks to buy MediaTek AI chips for data centers appeared first on Crypto Briefing.",
+        "content": "<p>ByteDance's diversification in AI chip sourcing highlights the strategic shift in global tech supply chains amid geopolitical tensions.\nThe post ByteDance reportedly in talks to buy MediaTek AI chips for data centers appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/14225507/library-bytedance-reportedly-in-talks-to-buy-mediatek-ai-chips-f-800x450.png",
+        "date": "Oct 15, 2026",
+        "url": "https://cryptobriefing.com/bytedance-talks-mediatek-ai-chips-data-centers/"
+    },
+    {
+        "id": "5pl8rzvy4",
+        "title": "Lawyer of arrested OpenAI engineer says allegations are ‘wholly out of character,’ one-way ticket to Saudi Arabia with wife and child was pre-booked",
+        "excerpt": "The arrest was a \"surprise,\" said the attorney, and the suspect, Abdulrahman Alfozan, was \"proud\" to be an OpenAI employee.",
+        "content": "<p>The arrest was a \"surprise,\" said the attorney, and the suspect, Abdulrahman Alfozan, was \"proud\" to be an OpenAI employee.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2295252875-e1792025576697.jpg?resize=1200,600",
+        "date": "Oct 15, 2026",
+        "url": "https://fortune.com/2026/10/14/lawyer-of-arrested-openai-engineer-says-allegations-are-wholly-out-of-character-charges-were-a-surprise/"
+    },
+    {
+        "id": "oz617oxwm",
+        "title": "Asian stocks slide as US inflation stokes rate fears; Kospi plunges 5.6%",
+        "excerpt": "South Korea's Kospi led losses across Asia, while the Nikkei fell 1.3%, as hotter-than-expected US inflation weighed on rate-cut hopes and renewed pressure on technology and AI-linked stocks",
+        "content": "<p>South Korea's Kospi led losses across Asia, while the Nikkei fell 1.3%, as hotter-than-expected US inflation weighed on rate-cut hopes and renewed pressure on technology and AI-linked stocks</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/14/thumb/fitandfill/1200X628/1755192575-5051.jpg",
+        "date": "Oct 15, 2026",
+        "url": "https://www.business-standard.com/markets/news/asian-stocks-slide-as-us-inflation-stokes-rate-fears-kospi-plunges-5-6-126101500075_1.html"
+    },
+    {
+        "id": "x2lt14pqu",
+        "title": "CBI arrests MIL executive director, 2 others in defence project bribery case; Rs 2.2 crore seized",
+        "excerpt": "CBI recently arrested Anil Kumar, executive director of Munitions India Limited, and two others in a bribery case. They are accused of demanding illegal payments in exchange for sensitive defense procurement information. During searches, CBI recovered a large…",
+        "content": "<p>CBI recently arrested Anil Kumar, executive director of Munitions India Limited, and two others in a bribery case. They are accused of demanding illegal payments in exchange for sensitive defense procurement information. During searches, CBI recovered a large…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-134955428,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 15, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/pune/cbi-arrests-mil-executive-director-2-others-in-defence-project-bribery-case-2-2-crore-seized/articleshow/134955370.cms"
+    },
+    {
+        "id": "14bf7epie",
+        "title": "Browns QB Shedeur Sanders’ New Agency Sends Bold 3-Word Message",
+        "excerpt": "Cleveland Browns quarterback Shedeur Sanders has hired his first NFL agent as he waits for another chance to lead an offense.Young Money APAA Sports welcomed Sanders on Wednesday with a hype video featuring highlights from his rookie season in Cleveland. The …",
+        "content": "<p>Cleveland Browns quarterback Shedeur Sanders has hired his first NFL agent as he waits for another chance to lead an offense.Young Money APAA Sports welcomed Sanders on Wednesday with a hype video featuring highlights from his rookie season in Cleveland. The …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/41e3f9d885b4f176edf7dad9157ced84ca9db9e13317701df73ac1fcf147b59d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F667489fb33c9b8b84d59bc0b638bec6a.jpg",
+        "date": "Oct 15, 2026",
+        "url": "https://heavy.com/sports/nfl/cleveland-browns/browns-qb-shedeur-sanders-new-agency-sends-bold-3-word-message/"
+    },
+    {
+        "id": "95zb2tb4u",
+        "title": "Losing weight is one thing. Keeping your muscle is another, experts say",
+        "excerpt": "The International Society of Sports Nutrition (ISSN) position stand concludes that sustained calorie restriction drives weight loss, while adequate protein intake and resistance training help preserve lean mass. Reviewing intermittent fasting, ketogenic diets…",
+        "content": "<p>The International Society of Sports Nutrition (ISSN) position stand concludes that sustained calorie restriction drives weight loss, while adequate protein intake and resistance training help preserve lean mass. Reviewing intermittent fasting, ketogenic diets…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://www.news-medical.net/images/news/ImageForNews_848886_17920283901093588.jpg",
+        "date": "Oct 15, 2026",
+        "url": "https://www.news-medical.net/news/20261014/Losing-weight-is-one-thing-Keeping-your-muscle-is-another-experts-say.aspx"
+    },
+    {
+        "id": "5blyyjm2b",
+        "title": "California officials won’t open DOJ drive with alleged noncitizen voter records — here’s their excuse",
+        "excerpt": "It’s not a tough call. LA County should comply with the Trump administration’s reasonable request to investigate non-citizens on the local voter rolls.",
+        "content": "<p>It’s not a tough call. LA County should comply with the Trump administration’s reasonable request to investigate non-citizens on the local voter rolls.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/10/trumpelection02.jpg?quality=75&strip=all&w=1200",
+        "date": "Oct 15, 2026",
+        "url": "https://nypost.com/2026/10/14/opinion/california-wont-open-non-citizen-voter-list-heres-their-excuse/"
+    },
+    {
+        "id": "n9nerntlh",
+        "title": "Canadian singer Joni Mitchell officially becomes American citizen after 62-year journey",
+        "excerpt": "Joni Mitchell shared a photo and video from her naturalization ceremony, becoming a U.S. citizen at 82 while retaining Canadian citizenship.",
+        "content": "<p>Joni Mitchell shared a photo and video from her naturalization ceremony, becoming a U.S. citizen at 82 while retaining Canadian citizenship.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/joni-mitchell.png",
+        "date": "Oct 15, 2026",
+        "url": "https://www.foxnews.com/entertainment/canadian-singer-joni-mitchell-officially-becomes-american-citizen-after-62-year-journey"
+    },
+    {
         "id": "30tdipzir",
         "title": "Terrorists deploy AI, crypto to evade security agencies – Ribadu",
         "excerpt": "Nigeria’s NSA, Nuhu Ribadu, warns that terrorist groups are increasingly using AI, social media, and cryptocurrency to recruit, hide funds, and coordinate\n\nRead More: https://punchng.com/terrorists-deploy-ai-crypto-to-evade-security-agencies-ribadu/",
