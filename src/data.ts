@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "1pfuyvmbo",
+        "title": "India’s family offices bet on homegrown AI firms to gain ground",
+        "excerpt": "India’s tech landscape is witnessing an influx of investments from family offices and wealthy individuals. Key players like Premji Invest and Claypond Capital are funding promising AI startups. With at least six companies achieving unicorn status, the environ…",
+        "content": "<p>India’s tech landscape is witnessing an influx of investments from family offices and wealthy individuals. Key players like Premji Invest and Claypond Capital are funding promising AI startups. With at least six companies achieving unicorn status, the environ…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-134980873,width-1200,height-900,imgsize-78214,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 16, 2026",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-family-offices-bet-on-homegrown-ai-firms-to-gain-ground/articleshow/134980799.cms"
+    },
+    {
+        "id": "bxpdc0042",
+        "title": "Booming ETF Popularity Drives Record Number of Australians to Invest Outside Super and Property",
+        "excerpt": "An ASX study says 11.5 million Australian adults now invest outside superannuation and property, with ETFs and digital platforms helping expand participation since 2020.",
+        "content": "<p>An ASX study says 11.5 million Australian adults now invest outside superannuation and property, with ETFs and digital platforms helping expand participation since 2020.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.ibtimes.com.au/en/full/1896758/etf.jpg",
+        "date": "Oct 16, 2026",
+        "url": "https://www.ibtimes.com.au/australia-retail-investors-etf-growth-asx-study-1876783"
+    },
+    {
+        "id": "h1db084bw",
+        "title": "Waymo Opens To Everyone In San Antonio, San Diego, & Tampa",
+        "excerpt": "It’s hard to keep track of where Waymo robotaxis are going to launch, are testing, are launching, are open to some people but not others, are open to everyone, etc. Three cities where it recently launched robotaxi service are Tampa, San Antonio, and San Diego…",
+        "content": "<p>It’s hard to keep track of where Waymo robotaxis are going to launch, are testing, are launching, are open to some people but not others, are open to everyone, etc. Three cities where it recently launched robotaxi service are Tampa, San Antonio, and San Diego…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cleantechnica.com/wp-content/uploads/2026/10/Waymo-taxi-service-in-Tampa-San-Antonio.png",
+        "date": "Oct 16, 2026",
+        "url": "https://cleantechnica.com/2026/10/15/waymo-opens-to-everyone-in-san-antonio-san-diego-tampa/"
+    },
+    {
+        "id": "cmhktuj7o",
+        "title": "NEW MEDIA / NEW TECHNOLOGY / NEW ARTIST｜10/17より原宿・ISLANDにて開催",
+        "excerpt": "[アイランドジャパン株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/57302/46/57302-46-de5f72d605adf33a1b74ae7309740964-1157x1608.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+        "content": "<p>[アイランドジャパン株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/57302/46/57302-46-de5f72d605adf33a1b74ae7309740964-1157x1608.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/57302/46/57302-46-de5f72d605adf33a1b74ae7309740964-1157x1608.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "date": "Oct 16, 2026",
+        "url": "https://prtimes.jp/main/html/rd/p/000000046.000057302.html"
+    },
+    {
+        "id": "njigqmhls",
+        "title": "Gaylord volleyball honors cancer fighters during Pink Out match",
+        "excerpt": "The scoreboard favored TC Central, but Gaylord's Pink Out night celebrated courage, community and those fighting breast cancer.",
+        "content": "<p>The scoreboard favored TC Central, but Gaylord's Pink Out night celebrated courage, community and those fighting breast cancer.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/c6428001217be62d29a7e670765aec30c96d100c656d7773dc8ee979957e8708/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpetoskey-news-review%2F0e52229242d5e1a35f0ae88290b0f16e.jpg",
+        "date": "Oct 16, 2026",
+        "url": "https://www.petoskeynews.com/story/sports/high-school/2026/10/15/gaylord-volleyball-honors-community-members-at-annual-pink-out-game/92173482007/"
+    },
+    {
+        "id": "f0eu1uk2d",
+        "title": "Ukraine strikes on Russia refineries 'a disgrace' - Trump",
+        "excerpt": "Ukraine's resumption of strikes on Russian refineries is a \"disgrace\" that keeps global energy prices elevated, US President Donald Trump has told the Newsmax news outlet.",
+        "content": "<p>Ukraine's resumption of strikes on Russian refineries is a \"disgrace\" that keeps global energy prices elevated, US President Donald Trump has told the Newsmax news outlet.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.rte.ie/images/00252701-1600.jpg",
+        "date": "Oct 16, 2026",
+        "url": "https://www.rte.ie/news/ukraine/2026/1016/1595586-ukraine-disgrace/"
+    },
+    {
+        "id": "b4ap100ee",
+        "title": "'India's dynamic market': Canada Trade Minister Sidhu highlights opportunities for Canadian firms",
+        "excerpt": "Canadian International Trade Minister Maninder Sidhu has highlighted opportunities for Canadian companies in India's \"dynamic market\", identifying artificial intelligence, quantum computing, aviation infrastructure, digital innovation, sustainability and smar…",
+        "content": "<p>Canadian International Trade Minister Maninder Sidhu has highlighted opportunities for Canadian companies in India's \"dynamic market\", identifying artificial intelligence, quantum computing, aviation infrastructure, digital innovation, sustainability and smar…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-134980413,width-1200,height-900,imgsize-181699,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 16, 2026",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-dynamic-market-canada-trade-minister-sidhu-highlights-opportunities-for-canadian-firms/articleshow/134980414.cms"
+    },
+    {
+        "id": "iyyz8vl8r",
+        "title": "Pax Silica—The Dollar’s Next Foundation",
+        "excerpt": "“And it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead, so that no one can buy or sell unless he has the mark.” — Revelation 13:17 Pax Silica is a U.S.-led strategic initiative launche…",
+        "content": "<p>“And it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead, so that no one can buy or sell unless he has the mark.” — Revelation 13:17 Pax Silica is a U.S.-led strategic initiative launche…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://activistpost.com/wp-content/uploads/2026/10/3a283daf-89b4-4d9e-aac5-5dbb84c8ca68_1376x768.webp",
+        "date": "Oct 16, 2026",
+        "url": "https://activistpost.com/pax-silica-the-dollars-next-foundation/"
+    },
+    {
+        "id": "cezbh8gvd",
+        "title": "Jaylen Warren a big part of Steelers offense’s newly found spark",
+        "excerpt": "Pittsburgh Steelers running back Jaylen Warren has accumulated 490 yards from scrimmage over the past three weeks as the NFL season reaches its sixth week.",
+        "content": "<p>Pittsburgh Steelers running back Jaylen Warren has accumulated 490 yards from scrimmage over the past three weeks as the NFL season reaches its sixth week.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/e57762bdadbcc4c00ac20e493c1d603618271da19ee380e94b9eb58524021367/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwpxi_cox_articles_540%2Fb95959977f7cac44bdbf8aefbacfabc6.jpg",
+        "date": "Oct 16, 2026",
+        "url": "https://sports.yahoo.com/articles/jaylen-warren-big-part-steelers-005246526.html"
+    },
+    {
+        "id": "9kf1kdtli",
+        "title": "Dodgers star's wife shares disturbing message threatening to 'cut off fingers' after losing in NLCS",
+        "excerpt": "The wife of Dodgers star Blake Snell has revealed the terrifying threats she received on social media after Los Angeles' defeat in Game 3 of National League Championship Series.",
+        "content": "<p>The wife of Dodgers star Blake Snell has revealed the terrifying threats she received on social media after Los Angeles' defeat in Game 3 of National League Championship Series.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://i.dailymail.com/1s/2026/10/16/01/111894607-0-image-m-10_1792111461035.jpg",
+        "date": "Oct 16, 2026",
+        "url": "https://www.dailymail.com/sport/mlb/article-16213411/dodgers-blake-snell-wife-threat.html"
+    },
+    {
         "id": "x0u6yq6tx",
         "title": "Murata and MELT Showcase Award-Winning ContactGlove3 Pro For Robotic Hand Training",
         "excerpt": "Murata Manufacturing is back at CEATEC 2026 with several technology demonstrations, led by the award-winning ContactGlove3 Pro, an advanced hand-tracking glove developed by MELT Interface Technologies in collaboration with Murata. The technology received a CE…",
