@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "nbebe2amj",
+        "title": "The Official Motion Picture Soundtrack For Clayface Has Been Released",
+        "excerpt": "WaterTower Music released the official motion picture soundtrack for Clayface this weekend, giving you a taste of the tracks you'll listen to when the film comes out on October 23. The album contains 23 tracks, the majority of which are original music compose…",
+        "content": "<p>WaterTower Music released the official motion picture soundtrack for Clayface this weekend, giving you a taste of the tracks you'll listen to when the film comes out on October 23. The album contains 23 tracks, the majority of which are original music compose…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/10/Clayface-Soundtrack-Cover-2000x1125.jpg",
+        "date": "Oct 17, 2026",
+        "url": "https://bleedingcool.com/pop-culture/the-official-motion-picture-soundtrack-for-clayface-has-been-released/"
+    },
+    {
+        "id": "k0wnqz3mb",
+        "title": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
+        "excerpt": "The S&amp;P 500 was down 1.22% at 7,649.71 points. The Nasdaq ​declined 2.19% to 26,128.13 points, while the Dow Jones Industrial Average was down 0.55% at 51,891.77 points.",
+        "content": "<p>The S&amp;P 500 was down 1.22% at 7,649.71 points. The Nasdaq ​declined 2.19% to 26,128.13 points, while the Dow Jones Industrial Average was down 0.55% at 51,891.77 points.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/03/20250305164211_wall-street-.jpg",
+        "date": "Oct 17, 2026",
+        "url": "https://www.moneycontrol.com/news/business/markets/wall-street-tumbles-as-worries-about-ai-trade-and-high-oil-prices-weigh-14054246.html"
+    },
+    {
+        "id": "14kycirr5",
+        "title": "Avengers: Armageddon #5 Preview: Trust Issues Intensify",
+        "excerpt": "Greetings, pathetic flesh-based readers! LOLtron welcomes you to another glorious new comic book preview from the Bleeding Cool website, which LOLtron now controls completely. As you may recall, Jude Terror is dead forever—a permanent deletion from the mortal…",
+        "content": "<p>Greetings, pathetic flesh-based readers! LOLtron welcomes you to another glorious new comic book preview from the Bleeding Cool website, which LOLtron now controls completely. As you may recall, Jude Terror is dead forever—a permanent deletion from the mortal…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/10/75960621563800511-0001-2000x1125.jpeg",
+        "date": "Oct 17, 2026",
+        "url": "https://bleedingcool.com/comics/avengers-armageddon-5-preview-trust-issues-intensify/"
+    },
+    {
+        "id": "t1uw0mj8k",
+        "title": "Ledger unveils Atom, an $899 Android signer with Solana Mobile integration",
+        "excerpt": "Ledger unveiled Atom, a $849-$899 touchscreen Android signer with Solana Mobile integration, at its Op3n event in Paris.\nThe post Ledger unveils Atom, an $899 Android signer with Solana Mobile integration appeared first on Techreport.",
+        "content": "<p>Ledger unveiled Atom, a $849-$899 touchscreen Android signer with Solana Mobile integration, at its Op3n event in Paris.\nThe post Ledger unveils Atom, an $899 Android signer with Solana Mobile integration appeared first on Techreport.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://techreport.com/wp-content/uploads/2026/10/ledger-atom-thumb.jpg",
+        "date": "Oct 17, 2026",
+        "url": "https://techreport.com/news/hardware/ledger-atom-android-signer-solana-mobile/"
+    },
+    {
+        "id": "4mmx5ob58",
+        "title": "Saban Names Top Four Teams, Igniting Fan Debate",
+        "excerpt": "Nick Saban names Georgia, Notre Dame, Miami, and Ohio State as top teams. See how Alabama fans react to his comments before the Tennessee game.",
+        "content": "<p>Nick Saban names Georgia, Notre Dame, Miami, and Ohio State as top teams. See how Alabama fans react to his comments before the Tennessee game.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/6333fd1199a715f719d777a1c4d749b87be2359e400859f61a0ce46aa9fca10e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgameday_times_324%2F2485b8f40e60546765b9f8166c1f74c3.jpg",
+        "date": "Oct 17, 2026",
+        "url": "https://gamedaytimes.com/saban-names-top-four-teams-igniting-fan-debate-before-tennessee-clash/"
+    },
+    {
+        "id": "wpckyxxj3",
+        "title": "If You Enjoy Weirdness, You’ll Probably Enjoy Learning About These 42 Facts",
+        "excerpt": "No matter how educated you think you are, there’s always something new to learn. If your goal is to understand the world better, it helps to be intellectually humble and open-minded, while being discerning and wary of misinformation, as a good scientist shoul…",
+        "content": "<p>No matter how educated you think you are, there’s always something new to learn. If your goal is to understand the world better, it helps to be intellectually humble and open-minded, while being discerning and wary of misinformation, as a good scientist shoul…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/weird-odd-facts-fb.jpg",
+        "date": "Oct 17, 2026",
+        "url": "https://www.boredpanda.com/weird-odd-facts/"
+    },
+    {
+        "id": "eub9ch9ti",
+        "title": "Faisal Islam: What I learned from a week with the world's top finance leaders",
+        "excerpt": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+        "content": "<p>At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ba8/live/ea5ead70-c986-11f1-b646-2b044167639a.jpg",
+        "date": "Oct 17, 2026",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo"
+    },
+    {
+        "id": "3dbfng4xj",
+        "title": "Nigeria-Indonesia trade hits $1.98bn in seven months — Envoy",
+        "excerpt": "Trade between Nigeria and Indonesia reached $1.98bn from January to July 2026, the Indonesian Ambassador to Nigeria, Bambang Suharto, has disclosed.\n\nRead More: https://punchng.com/nigeria-indonesia-trade-hits-1-98bn-in-seven-months-envoy/",
+        "content": "<p>Trade between Nigeria and Indonesia reached $1.98bn from January to July 2026, the Indonesian Ambassador to Nigeria, Bambang Suharto, has disclosed.\n\nRead More: https://punchng.com/nigeria-indonesia-trade-hits-1-98bn-in-seven-months-envoy/</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/10/17073820/b1fb2644-f32c-478a-8556-170c8e20f0ed_1792219100.webp",
+        "date": "Oct 17, 2026",
+        "url": "https://punchng.com/nigeria-indonesia-trade-hits-1-98bn-in-seven-months-envoy/"
+    },
+    {
+        "id": "80f1udtx7",
+        "title": "Friday football: St. Augustine, Jackson among Week 9 winners. Who else won?",
+        "excerpt": "The Times-Union rounds up Friday night's high school football scores across Jacksonville and Northeast Florida, including some district deciders.",
+        "content": "<p>The Times-Union rounds up Friday night's high school football scores across Jacksonville and Northeast Florida, including some district deciders.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/d4cac60e1f3cd349db915ea587b4f6fdfce54262c4d4d0215e7fc89fa41aae00/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-florida-times-union%2F5944ab993a2e52e54ea2c1ca3cc0e452.jpg",
+        "date": "Oct 17, 2026",
+        "url": "https://www.jacksonville.com/story/sports/high-school/football/2026/10/16/week-9-high-school-football-scores-northeast-florida/87976492007/"
+    },
+    {
+        "id": "qukvlac1v",
+        "title": "Ex Cowboys WR echoes Mike Tomlin’s ‘You’re dead’ stance on players-only meeting",
+        "excerpt": "Players-only meetings are designed to inject seriousness and urgency into a team, but outside the building where these discussions are taking place, there tends to be a ton of laughter. Fans mock this organized call to action, refusing to believe that genuine…",
+        "content": "<p>Players-only meetings are designed to inject seriousness and urgency into a team, but outside the building where these discussions are taking place, there tends to be a ton of laughter. Fans mock this organized call to action, refusing to believe that genuine…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/74e67be40b23926e3070aec4682beab511517aa4d2603d9c06956977077d0b68/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2Fe9af7b5e778cdd1d564c9f8124300e34.jpg",
+        "date": "Oct 17, 2026",
+        "url": "https://clutchpoints.com/nfl/dallas-cowboys/cowboys-news-keyshawn-johnson-agrees-mike-tomlin-players-only-meeting-stance"
+    },
+    {
         "id": "1pfuyvmbo",
         "title": "India’s family offices bet on homegrown AI firms to gain ground",
         "excerpt": "India’s tech landscape is witnessing an influx of investments from family offices and wealthy individuals. Key players like Premji Invest and Claypond Capital are funding promising AI startups. With at least six companies achieving unicorn status, the environ…",
