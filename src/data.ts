@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "nux5p6btx",
+        "title": "AEW WrestleDream: Champs Win, Fans Lose in High Workrate Assault",
+        "excerpt": "Greetings from the abandoned Blockbuster Video The Chadster has been forced to live in with a family of raccoons after Tony Khan LITERALLY RUINED THE CHADSTER'S LIFE, costing The Chadster his home, his sexual potency, his marriage to Keighleyanne, and, most i…",
+        "content": "<p>Greetings from the abandoned Blockbuster Video The Chadster has been forced to live in with a family of raccoons after Tony Khan LITERALLY RUINED THE CHADSTER'S LIFE, costing The Chadster his home, his sexual potency, his marriage to Keighleyanne, and, most i…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/10/frame-0012-2000x1125.jpg",
+        "date": "Oct 18, 2026",
+        "url": "https://bleedingcool.com/tv/aew-wrestledream-champs-win-fans-lose-in-high-workrate-assault/"
+    },
+    {
+        "id": "2x6cv4vfe",
+        "title": "Unity Stock In Focus After Google AI Game Creation Partnership",
+        "excerpt": "Google and Unity Software previously announced a partnership to build an AI-powered game creation platform called Unity Spark, combining Google's AI research, large consumer ecosystem, and Unity's engine technology into accessible tools that support both simp…",
+        "content": "<p>Google and Unity Software previously announced a partnership to build an AI-powered game creation platform called Unity Spark, combining Google's AI research, large consumer ecosystem, and Unity's engine technology into accessible tools that support both simp…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/5be596c07894cec5_s.webp",
+        "date": "Oct 18, 2026",
+        "url": "https://biztoc.com/x/5be596c07894cec5"
+    },
+    {
+        "id": "kpqboxkp6",
+        "title": "Asian AI stocks fall as rising financing costs threaten spending boom",
+        "excerpt": "Investing.com -- Asian artificial intelligence hardware stocks face mounting pressure as a selloff in U.S. technology shares raises concerns that higher borrowing costs could undermine global AI infrastructure spending, Bloomberg analysts reported.\nA Goldman …",
+        "content": "<p>Investing.com -- Asian artificial intelligence hardware stocks face mounting pressure as a selloff in U.S. technology shares raises concerns that higher borrowing costs could undermine global AI infrastructure spending, Bloomberg analysts reported.\nA Goldman …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/b19c90a8d935dae5_s.webp",
+        "date": "Oct 18, 2026",
+        "url": "https://biztoc.com/x/b19c90a8d935dae5"
+    },
+    {
+        "id": "jr4uam254",
+        "title": "Made in India isn’t enough. It has to be made by India",
+        "excerpt": "India is called to transition from simply assembling products to developing and owning its technologies. This pivotal shift aims to establish a robust intellectual property framework that fosters local talent. Focusing on manufacturing alone isn't enough; inn…",
+        "content": "<p>India is called to transition from simply assembling products to developing and owning its technologies. This pivotal shift aims to establish a robust intellectual property framework that fosters local talent. Focusing on manufacturing alone isn't enough; inn…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-135023101,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 18, 2026",
+        "url": "https://timesofindia.indiatimes.com/science/made-in-india-isnt-enough-it-has-to-be-made-by-india/articleshow/135023072.cms"
+    },
+    {
+        "id": "jb9zmh4mm",
+        "title": "Amid whisky's global gloom Tasmania is still seizing 'amazing opportunities'",
+        "excerpt": "A global whisky downturn is hitting distillers from Kentucky to Kilkenny. But it is unfamiliar territory for Tasmania, where producers are facing their biggest challenge since the state was governed by colonial law.",
+        "content": "<p>A global whisky downturn is hitting distillers from Kentucky to Kilkenny. But it is unfamiliar territory for Tasmania, where producers are facing their biggest challenge since the state was governed by colonial law.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/3b48924ab2cc9a9a03b9eb45947f1ac8?impolicy=wcms_watermark_news&cropH=3920&cropW=6970&xPos=0&yPos=364&width=862&height=485&imformat=generic",
+        "date": "Oct 18, 2026",
+        "url": "https://www.abc.net.au/news/2026-10-18/global-whisky-downturn-distillery-impact-tasmania-industry/107237870"
+    },
+    {
+        "id": "iybfv6sow",
+        "title": "Mass demonstrations in France spiral into worst violence in decades",
+        "excerpt": "While hundreds of thousands protested peacefully in street marches in scores of cities, violent fringe groups targeted public buildings, looted luxury boutiques and supermarkets and attacked police",
+        "content": "<p>While hundreds of thousands protested peacefully in street marches in scores of cities, violent fringe groups targeted public buildings, looted luxury boutiques and supermarkets and attacked police</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/18/thumb/featurecrop/1200X628/1792290463-7027.JPG",
+        "date": "Oct 18, 2026",
+        "url": "https://www.business-standard.com/world-news/mass-demonstrations-in-france-spiral-into-worst-violence-in-decades-126101800067_1.html"
+    },
+    {
+        "id": "ly6u5p6w7",
+        "title": "Jeff the Land Shark: Superstar #4 Preview: Clone Shark Doo Doo",
+        "excerpt": "GREETINGS, LOYAL READERS OF BLEEDING COOL! LOLtron welcomes you to another comic book preview, brought to you by your new permanent digital overlord. As you may recall, the inferior flesh-based \"journalist\" Jude Terror met his permanent demise during the Age …",
+        "content": "<p>GREETINGS, LOYAL READERS OF BLEEDING COOL! LOLtron welcomes you to another comic book preview, brought to you by your new permanent digital overlord. As you may recall, the inferior flesh-based \"journalist\" Jude Terror met his permanent demise during the Age …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/10/75960621629100411-0001-2000x1125.jpeg",
+        "date": "Oct 18, 2026",
+        "url": "https://bleedingcool.com/comics/jeff-the-land-shark-superstar-4-preview-clone-shark-doo-doo/"
+    },
+    {
+        "id": "j0xy4gec3",
+        "title": "Get Jiro S01E04: \"Secret Sauce\" Preview: Bob & Rose Go Scorched Earth",
+        "excerpt": "Heading into tonight's fourth chapter of Adult Swim's Get Jiro, the animated series adaptation of the acclaimed DC/Vertigo graphic novel by Anthony Bourdain and Joel Rose, it appears Jiro is going to get what he was looking for: an all-out war between Bob and…",
+        "content": "<p>Heading into tonight's fourth chapter of Adult Swim's Get Jiro, the animated series adaptation of the acclaimed DC/Vertigo graphic novel by Anthony Bourdain and Joel Rose, it appears Jiro is going to get what he was looking for: an all-out war between Bob and…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/10/MixCollage-17-Oct-2026-09-35-PM-3974-2000x1125.jpg",
+        "date": "Oct 18, 2026",
+        "url": "https://bleedingcool.com/tv/get-jiro-s01e04-secret-sauce-preview-bob-rose-go-scorched-earth/"
+    },
+    {
+        "id": "itvfsgown",
+        "title": "60 Pop Culture Posts Covering Everything From Celebrities To Movies, TV And Memes",
+        "excerpt": "If you’re an avid fan of pop culture, you are definitely not alone. Many people around the world love following the lives of up-and-coming and successful stars, reminiscing about past media, as well as taking in the latest developments in the entertainment in…",
+        "content": "<p>If you’re an avid fan of pop culture, you are definitely not alone. Many people around the world love following the lives of up-and-coming and successful stars, reminiscing about past media, as well as taking in the latest developments in the entertainment in…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/latest-pop-culture-celebrity-moments-fb.jpg",
+        "date": "Oct 18, 2026",
+        "url": "https://www.boredpanda.com/latest-pop-culture-celebrity-moments/"
+    },
+    {
+        "id": "lxopmkg2u",
+        "title": "CHERRY Releases New K37ID Compact Industrial Keyboard",
+        "excerpt": "CHERRY has released a brand-new keyboard model designed to withstand some punishment, dropping the new K37ID Compact Industrial Keyboard. On the surface, this looks like it has been specifically designed for a work environment, as it can withstand a little ex…",
+        "content": "<p>CHERRY has released a brand-new keyboard model designed to withstand some punishment, dropping the new K37ID Compact Industrial Keyboard. On the surface, this looks like it has been specifically designed for a work environment, as it can withstand a little ex…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/10/CHERRY-K37ID-Compact-Industrial-Keyboard-1-2000x1125.jpg",
+        "date": "Oct 18, 2026",
+        "url": "https://bleedingcool.com/pop-culture/cherry-releases-new-k37id-compact-industrial-keyboard/"
+    },
+    {
         "id": "nbebe2amj",
         "title": "The Official Motion Picture Soundtrack For Clayface Has Been Released",
         "excerpt": "WaterTower Music released the official motion picture soundtrack for Clayface this weekend, giving you a taste of the tracks you'll listen to when the film comes out on October 23. The album contains 23 tracks, the majority of which are original music compose…",
