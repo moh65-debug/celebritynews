@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "xjknxkezf",
+        "title": "Lens Technology enters AI server cooling market with US$25 million PMG takeover",
+        "excerpt": "China's precision manufacturing giant Lens Technology is expanding into AI server infrastructure through a proposed US$25 million acquisition of a controlling stake in PMG International, gaining access to server rack manufacturing and liquid-cooling technolog…",
+        "content": "<p>China's precision manufacturing giant Lens Technology is expanding into AI server infrastructure through a proposed US$25 million acquisition of a controlling stake in PMG International, gaining access to server rack manufacturing and liquid-cooling technolog…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20261019vl208_files/2_b.jpg",
+        "date": "Oct 19, 2026",
+        "url": "https://www.digitimes.com/news/a20261019VL208/ai-server-manufacturing-cooling-acquisition-infrastructure.html"
+    },
+    {
+        "id": "e42pvq2ts",
+        "title": "Cyberattacks on critical financial infra could disrupt payments, credit and market confidence, IMF warns",
+        "excerpt": "Cyberattacks targeting critical financial institutions and market infrastructure could disrupt essential financial services and undermine market confidence, the International Monetary Fund (IMF) has warned, identifying cyber threats as a growing systemic risk…",
+        "content": "<p>Cyberattacks targeting critical financial institutions and market infrastructure could disrupt essential financial services and undermine market confidence, the International Monetary Fund (IMF) has warned, identifying cyber threats as a growing systemic risk…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135038542,width-1200,height-900,imgsize-209300,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 19, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/cyberattacks-on-critical-financial-infrastructure-could-disrupt-payments-credit-and-market-confidence-imf-warns/articleshow/135038543.cms"
+    },
+    {
+        "id": "ts9ynagn7",
+        "title": "The $3.5 trillion man? Wall Street thinks Elon Musk is ready to launch a Tesla-SpaceX merger 'within weeks'",
+        "excerpt": "The eye-watering tie-up would bring together Musk's electric-car giant and his rocket company in a deal that would rank among the biggest corporate combinations ever contemplated.",
+        "content": "<p>The eye-watering tie-up would bring together Musk's electric-car giant and his rocket company in a deal that would rank among the biggest corporate combinations ever contemplated.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/10/16/11/111901829-0-image-a-11_1792148204057.jpg",
+        "date": "Oct 19, 2026",
+        "url": "https://www.dailymail.com/yourmoney/article-16214373/elon-musk-tesla-spacex-merger.html"
+    },
+    {
+        "id": "jzev14bte",
+        "title": "Trade Expo Indonesia 2026 hits US$22.9 billion, surpassing target",
+        "excerpt": "Trade Expo Indonesia (TEI) 2026 concluded with a remarkable milestone, booking a total transaction value of US$22.94 billion, far exceeding its initial target ...",
+        "content": "<p>Trade Expo Indonesia (TEI) 2026 concluded with a remarkable milestone, booking a total transaction value of US$22.94 billion, far exceeding its initial target ...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/10/18/329971.jpg",
+        "date": "Oct 19, 2026",
+        "url": "https://en.antaranews.com/news/436337/trade-expo-indonesia-2026-hits-us229-billion-surpassing-target"
+    },
+    {
+        "id": "wgae2el30",
+        "title": "Are you being ripped off at the checkout? The hidden pricing tactic that could cost shoppers more - and how to protect your wallet",
+        "excerpt": "Consumers are used to algorithm-driven prices when booking flights or ordering an Uber. But watching a price change in front of them in a supermarket aisle is a different matter.",
+        "content": "<p>Consumers are used to algorithm-driven prices when booking flights or ordering an Uber. But watching a price change in front of them in a supermarket aisle is a different matter.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/10/16/18/111911069-0-image-a-57_1792170912400.jpg",
+        "date": "Oct 19, 2026",
+        "url": "https://www.dailymail.com/yourmoney/article-16214537/ripoff-checkout-surveillance-pricing-retailers.html"
+    },
+    {
+        "id": "z0odhbx2s",
+        "title": "American Airlines abandons destinations in Mexico and Qatar as passengers face shrinking flight choices",
+        "excerpt": "American has axed three routes, leaving some travelers facing longer journeys and fewer nonstop options - but there are ways to avoid getting caught out.",
+        "content": "<p>American has axed three routes, leaving some travelers facing longer journeys and fewer nonstop options - but there are ways to avoid getting caught out.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://i.dailymail.com/1s/2026/10/16/18/111760415-0-image-m-68_1792171783695.jpg",
+        "date": "Oct 19, 2026",
+        "url": "https://www.dailymail.com/yourmoney/article-16211879/american-airlines-abandons-mexico-qatar-destinations.html"
+    },
+    {
+        "id": "lcuydcby1",
+        "title": "HISTOINDEX AND A*STAR PARTNER TO ADVANCE EARLY-STAGE DEVELOPMENT OF PIPELINE THERAPIES FOR FIBROTIC DISEASES",
+        "excerpt": "SINGAPORE, Oct. 18, 2026 /PRNewswire/ -- HistoIndex, a pioneer in AI-driven digital pathology for fibrotic diseases, and the Agency for Science, Technology and Research (A*STAR), Singapore's lead public sector R&D agency, have signed a Memorandum of Understan…",
+        "content": "<p>SINGAPORE, Oct. 18, 2026 /PRNewswire/ -- HistoIndex, a pioneer in AI-driven digital pathology for fibrotic diseases, and the Agency for Science, Technology and Research (A*STAR), Singapore's lead public sector R&D agency, have signed a Memorandum of Understan…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://mmx.prnewswire.com/media/MS2015564/20261018014217EDT_image_1.jpg?id=OA3025144&p=facebook",
+        "date": "Oct 19, 2026",
+        "url": "https://www.prnewswire.com/news-releases/histoindex-and-astar-partner-to-advance-early-stage-development-of-pipeline-therapies-for-fibrotic-diseases-302911939.html"
+    },
+    {
+        "id": "v6agf9j5d",
+        "title": "GMIF2026: AI Inference Powers the \"Token Factory\" and Drives System-Level Rethinking of Memory & Storage",
+        "excerpt": "SHENZHEN, China, Oct. 18, 2026 /PRNewswire/ -- The 5th GMIF Innovation Summit (Global Memory Innovation Forum 2026, GMIF2026) recently concluded at the Renaissance Shenzhen Bay Hotel. Co-hosted by the Shenzhen Memory Industry Association (SMIA) and the School…",
+        "content": "<p>SHENZHEN, China, Oct. 18, 2026 /PRNewswire/ -- The 5th GMIF Innovation Summit (Global Memory Innovation Forum 2026, GMIF2026) recently concluded at the Renaissance Shenzhen Bay Hotel. Co-hosted by the Shenzhen Memory Industry Association (SMIA) and the School…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://mmx.prnewswire.com/media/MS2014956/20261016055714EDT_image_1.jpg?id=OA3023388&p=facebook",
+        "date": "Oct 19, 2026",
+        "url": "https://www.prnewswire.com/news-releases/gmif2026-ai-inference-powers-the-token-factory-and-drives-system-level-rethinking-of-memory--storage-302912123.html"
+    },
+    {
+        "id": "fzuxlh4u9",
+        "title": "Strait of Hormuz crisis traps 6,000 sailors as attacks on ships mount, UN maritime chief says",
+        "excerpt": "Around 6,000 seafarers remain trapped near the Strait of Hormuz as 24 ships face attacks, while Iran accuses the U.S. military of using VHF Channel 16.",
+        "content": "<p>Around 6,000 seafarers remain trapped near the Strait of Hormuz as 24 ships face attacks, while Iran accuses the U.S. military of using VHF Channel 16.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/marines-hormuz.jpeg",
+        "date": "Oct 19, 2026",
+        "url": "https://www.foxnews.com/world/strait-hormuz-crisis-traps-6000-sailors-attacks-ships-mount-un-maritime-chief-says"
+    },
+    {
+        "id": "w2zaiv2hf",
+        "title": "Breaking: Climate activists charged after Woodside offshore rig stunt",
+        "excerpt": "Two Greenpeace activists are due to face court after sailing out to open waters and occupying an offshore gas platform to protest Woodside's planned gas developments.",
+        "content": "<p>Two Greenpeace activists are due to face court after sailing out to open waters and occupying an offshore gas platform to protest Woodside's planned gas developments.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/a74ecebbdace6a0826a8d3f60934354d?impolicy=wcms_watermark_news&cropH=918&cropW=1633&xPos=61&yPos=162&width=862&height=485&imformat=generic",
+        "date": "Oct 19, 2026",
+        "url": "https://www.abc.net.au/news/2026-10-19/greenpeace-woodside-protestors-charged-scarborough-stunt/107282650"
+    },
+    {
         "id": "nux5p6btx",
         "title": "AEW WrestleDream: Champs Win, Fans Lose in High Workrate Assault",
         "excerpt": "Greetings from the abandoned Blockbuster Video The Chadster has been forced to live in with a family of raccoons after Tony Khan LITERALLY RUINED THE CHADSTER'S LIFE, costing The Chadster his home, his sexual potency, his marriage to Keighleyanne, and, most i…",
