@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "mcck67h6j",
+        "title": "‘Star Wars’ Headed To Super Bowl LXI For Animated Altcast On Disney+, Disney Channel and Disney XD",
+        "excerpt": "Characters from “A Galaxy Far, Far Away” are headed to Super Bowl LXI as ESPN, Lucasfilm and the NFL team up for a Star Wars alternative telecast. On Sunday, February 14, Disney+, Disney Channel, and Disney XD will air an alternate telecast featuring iconic c…",
+        "content": "<p>Characters from “A Galaxy Far, Far Away” are headed to Super Bowl LXI as ESPN, Lucasfilm and the NFL team up for a Star Wars alternative telecast. On Sunday, February 14, Disney+, Disney Channel, and Disney XD will air an alternate telecast featuring iconic c…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://deadline.com/wp-content/uploads/2026/10/super-bowl-star-wars-nfl.jpg?w=1024",
+        "date": "Oct 20, 2026",
+        "url": "http://deadline.com/2026/10/star-wars-super-bowl-2027-altcast-disney-nfl-1237168321/"
+    },
+    {
+        "id": "nodyqy2h5",
+        "title": "China's tech-driven commerce plan pushes AI into phones, PCs, and robots",
+        "excerpt": "On October 19, 2026, China's Ministry of Commerce and eight other government departments issued guidelines on accelerating \"technology-driven commerce\" that call for deepening the country's \"AI+ manufacturing\" campaign and enriching the supply of smart goods …",
+        "content": "<p>On October 19, 2026, China's Ministry of Commerce and eight other government departments issued guidelines on accelerating \"technology-driven commerce\" that call for deepening the country's \"AI+ manufacturing\" campaign and enriching the supply of smart goods …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20261020vl202_files/1_b.jpg",
+        "date": "Oct 20, 2026",
+        "url": "https://www.digitimes.com/news/a20261020VL202/government-2026-manufacturing-production-policy.html"
+    },
+    {
+        "id": "c7v7n38ct",
+        "title": "DeepSeek deep-sixed at all US federal civilian agencies",
+        "excerpt": "The US Department of Homeland Security on Monday issued an order directing federal civilian agencies not to use technology products from Chinese AI lab DeepSeek, and to remove any existing implementations.\n The order [PDF] is broad, as it requires agencies to…",
+        "content": "<p>The US Department of Homeland Security on Monday issued an order directing federal civilian agencies not to use technology products from Chinese AI lab DeepSeek, and to remove any existing implementations.\n The order [PDF] is broad, as it requires agencies to…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/0a3545caaf56f789_s.webp",
+        "date": "Oct 20, 2026",
+        "url": "https://biztoc.com/x/0a3545caaf56f789"
+    },
+    {
+        "id": "xjvum16ew",
+        "title": "Scientists reach the ultimate quantum limit on a surface",
+        "excerpt": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over molecules and help dri…",
+        "content": "<p>Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over molecules and help dri…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/optically-excited-molecule-on-crystal-surface.webp",
+        "date": "Oct 20, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm"
+    },
+    {
+        "id": "2gn23n2vr",
+        "title": "ESPN, Lucasfilm Team Up For ‘Star Wars’ Super Bowl Telecast",
+        "excerpt": "The presentation will re-create every play of the game, turning players into animated avatars and bring characters from across the Lucasfilm franchise into key moments.",
+        "content": "<p>The presentation will re-create every play of the game, turning players into animated avatars and bring characters from across the Lucasfilm franchise into key moments.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/fc2c06d5844a98534db22ecb4d40347df01e99dafdb2c74761a7439bdb84d2cc/lightyear_networkapi/resizefill_w958_h539%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Ff1d8cace8b45b7e3002c850344c205f8.jpg",
+        "date": "Oct 20, 2026",
+        "url": "https://www.forbes.com/sites/rickellis/2026/10/19/espn-lucasfilm-team-up-for-star-wars-super-bowl-telecast/"
+    },
+    {
+        "id": "yb8l6ym48",
+        "title": "NASA solves a strange mystery hidden inside asteroid Bennu’s boulders",
+        "excerpt": "NASA scientists have finally uncovered why asteroid Bennu loses heat so quickly despite being covered in massive boulders. Samples returned to Earth reveal that its rocks are filled with hidden cracks, solving a mystery that has puzzled researchers for years.",
+        "content": "<p>NASA scientists have finally uncovered why asteroid Bennu loses heat so quickly despite being covered in massive boulders. Samples returned to Earth reveal that its rocks are filled with hidden cracks, solving a mystery that has puzzled researchers for years.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/bennu-sample-particle-x-ray-analysis.webp",
+        "date": "Oct 20, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261018205101.htm"
+    },
+    {
+        "id": "mj4zwzopb",
+        "title": "Crusader Kings III: Silk & Silver Launches November 17",
+        "excerpt": "Paradox Interactive has revealed the next major content update for Crusader Kings III, as they'll take more of the humble path in Silk & Silver. The new content will have you working as a merchant as you explore and work in the kingdom and farther lands, trad…",
+        "content": "<p>Paradox Interactive has revealed the next major content update for Crusader Kings III, as they'll take more of the humble path in Silk & Silver. The new content will have you working as a merchant as you explore and work in the kingdom and farther lands, trad…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/10/Crusader-Kings-3-Silk-and-Silver-Art-2000x1125.jpg",
+        "date": "Oct 20, 2026",
+        "url": "https://bleedingcool.com/games/crusader-kings-3-silk-silver-launches-november-17/"
+    },
+    {
+        "id": "9k0jgw257",
+        "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
+        "excerpt": "- Novo Nordisk and Eli Lilly presented early data at the ARDD conference suggesting semaglutide and tirzepatide may slow molecular measures of biological aging.\n- Novo reported proteomic clock differences of roughly two to three years, with up to four years o…",
+        "content": "<p>- Novo Nordisk and Eli Lilly presented early data at the ARDD conference suggesting semaglutide and tirzepatide may slow molecular measures of biological aging.\n- Novo reported proteomic clock differences of roughly two to three years, with up to four years o…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://trial.medpath.com/og-banner.png",
+        "date": "Oct 20, 2026",
+        "url": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd"
+    },
+    {
+        "id": "5o9v5h9d3",
+        "title": "Breaking: Kumanjayi Little Baby review finds extensive failings",
+        "excerpt": "An independent review into the NT child protection department's conduct surrounding Kumanjayi Little Baby before her alleged murder has revealed extensive failings, with the department rating her safety as two out of 10.",
+        "content": "<p>An independent review into the NT child protection department's conduct surrounding Kumanjayi Little Baby before her alleged murder has revealed extensive failings, with the department rating her safety as two out of 10.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/07c2e238408e7bd414637321eb66a1ec?impolicy=wcms_watermark_news&cropH=2592&cropW=4608&xPos=0&yPos=240&width=862&height=485&imformat=generic",
+        "date": "Oct 20, 2026",
+        "url": "https://www.abc.net.au/news/2026-10-20/kumanjayi-little-baby-independent-review-nt-child-protection/107285266"
+    },
+    {
+        "id": "o8ktffi72",
+        "title": "ISEF 2026 records nearly Rp3.16 tln in Islamic financing, trade deals",
+        "excerpt": "Bank Indonesia (BI) reported that business matching transactions for Islamic financing and trade reached nearly Rp3.16 trillion (approximately US$175.35 ...",
+        "content": "<p>Bank Indonesia (BI) reported that business matching transactions for Islamic financing and trade reached nearly Rp3.16 trillion (approximately US$175.35 ...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/10/19/ISEF-2026.jpeg",
+        "date": "Oct 20, 2026",
+        "url": "https://en.antaranews.com/news/436613/isef-2026-records-nearly-rp316-tln-in-islamic-financing-trade-deals"
+    },
+    {
         "id": "xjknxkezf",
         "title": "Lens Technology enters AI server cooling market with US$25 million PMG takeover",
         "excerpt": "China's precision manufacturing giant Lens Technology is expanding into AI server infrastructure through a proposed US$25 million acquisition of a controlling stake in PMG International, gaining access to server rack manufacturing and liquid-cooling technolog…",
