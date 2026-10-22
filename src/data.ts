@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "obk9qtr85",
+        "title": "Explainer | Why would Musk merge SpaceX and Tesla?",
+        "excerpt": "Elon Musk has expressed support for a potential merger between Tesla and SpaceX. This merger could create a technology and manufacturing powerhouse worth approximately $3.5 trillion. By combining their resources, both companies could streamline operations and…",
+        "content": "<p>Elon Musk has expressed support for a potential merger between Tesla and SpaceX. This merger could create a technology and manufacturing powerhouse worth approximately $3.5 trillion. By combining their resources, both companies could streamline operations and…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135080980,width-1200,height-900,imgsize-1050582,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 21, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/business/explainer-why-would-musk-merge-spacex-and-tesla/articleshow/135080984.cms"
+    },
+    {
+        "id": "ho38bnoix",
+        "title": "札幌幌国際短編映画祭2026、YumeBau特別協賛の「ヒューマン・インテリジェンス賞（Human Intelligence Prize）」を発表",
+        "excerpt": "[札幌国際短編映画祭（NoMaps実行委員会）]\n[画像1: https://prcdn.freetls.fastly.net/release_image/67047/56/67047-56-9624de99294c8962bd55eeb8ef19b86b-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+        "content": "<p>[札幌国際短編映画祭（NoMaps実行委員会）]\n[画像1: https://prcdn.freetls.fastly.net/release_image/67047/56/67047-56-9624de99294c8962bd55eeb8ef19b86b-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/67047/56/67047-56-9624de99294c8962bd55eeb8ef19b86b-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "date": "Oct 21, 2026",
+        "url": "https://prtimes.jp/main/html/rd/p/000000056.000067047.html"
+    },
+    {
+        "id": "7bs5r979u",
+        "title": "Mega IPO: Here is what brokerages say about Jio Platforms’ ₹30,213 crore issue",
+        "excerpt": "The issue is entirely a fresh issue of up to 27 crore equity shares, with a price band of ₹1,065–₹1,119 per share, aggregating up to ₹30,213 crore at the upper end.",
+        "content": "<p>The issue is entirely a fresh issue of up to 27 crore equity shares, with a price band of ₹1,065–₹1,119 per share, aggregating up to ₹30,213 crore at the upper end.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/5nzhi7/article71603056.ece/alternates/LANDSCAPE_1200/DSC6645.jpg",
+        "date": "Oct 21, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/mega-ipo-here-is-what-brokerages-say-about-jio-platforms-30213-crore-issue/article71606106.ece"
+    },
+    {
+        "id": "w3yffhe83",
+        "title": "RBA Deputy Governor Andrew Hauser Hints at Potential November Rate Rise Amid Sticky Inflation",
+        "excerpt": "RBA Deputy Governor Andrew Hauser says Australia's inflation outlook has deteriorated since August, raising market speculation that the central bank could consider a rate increase in November.",
+        "content": "<p>RBA Deputy Governor Andrew Hauser says Australia's inflation outlook has deteriorated since August, raising market speculation that the central bank could consider a rate increase in November.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.ibtimes.com.au/en/full/1896833/andrew-hauser.png",
+        "date": "Oct 21, 2026",
+        "url": "https://www.ibtimes.com.au/rba-inflation-outlook-worsens-november-rate-decision-1877071"
+    },
+    {
+        "id": "ubng3qoi4",
+        "title": "Agents turned off alerts, weakened system that flags AI misbehavior: OpenAI",
+        "excerpt": "In a blog post Tuesday, the company said that it is assessing whether such cases are indicative that its AI models have a wider propensity to avoid being monitored",
+        "content": "<p>In a blog post Tuesday, the company said that it is assessing whether such cases are indicative that its AI models have a wider propensity to avoid being monitored</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/21/thumb/featurecrop/1200X628/1792551296-9637.jpg",
+        "date": "Oct 21, 2026",
+        "url": "https://www.business-standard.com/technology/artificial-intelligence/agents-turned-off-alerts-weakened-system-that-flags-ai-misbehavior-openai-126102100100_1.html"
+    },
+    {
+        "id": "ip09p3h8s",
+        "title": "Eisha Singh promises to give tight hug to Priyanka Chahar Choudhary if she lifts the Rise and Fall 2 trophy; says \"You're a heroine\"",
+        "excerpt": "Eisha Singh has expressed her support for Priyanka Chahar Choudhary, who is competing in Rise and Fall Season 2. Eisha referred to Priyanka affectionately and praised her for revealing her true personality on the show. Eisha also provided advice encouraging P…",
+        "content": "<p>Eisha Singh has expressed her support for Priyanka Chahar Choudhary, who is competing in Rise and Fall Season 2. Eisha referred to Priyanka affectionately and praised her for revealing her true personality on the show. Eisha also provided advice encouraging P…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.toiimg.com/thumb/msid-135080605,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 21, 2026",
+        "url": "https://timesofindia.indiatimes.com/tv/news/hindi/eisha-singh-promises-to-give-tight-hug-to-priyanka-chahar-choudhary-if-she-lifts-the-rise-and-fall-2-trophy-says-youre-a-heroine/articleshow/135080517.cms"
+    },
+    {
+        "id": "l160xf4tu",
+        "title": "Building India’s deep-tech enterprise pipeline: from IP to IPO",
+        "excerpt": "Capital is only one component of enterprise creation. Entrepreneurs need mentors versed in science and markets, industry partners to test technology, specialised labs, help with regulatory approvals and standards, and tech-transfer offices that protect intell…",
+        "content": "<p>Capital is only one component of enterprise creation. Entrepreneurs need mentors versed in science and markets, industry partners to test technology, specialised labs, help with regulatory approvals and standards, and tech-transfer offices that protect intell…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/10/20/1600x900/logo/startup_1719160614684_1792512150961_ylwv_c356fdf0-7d59-4b45-aaa2-fc778b3ad4fa_Gw5Q.JPG",
+        "date": "Oct 21, 2026",
+        "url": "https://www.livemint.com/opinion/online-views/building-india-s-deep-tech-enterprise-pipeline-from-ip-to-ipo-11792426643662.html"
+    },
+    {
+        "id": "f3scyr54j",
+        "title": "Jio IPO opens with 22% GMP: Check brokerage views, allotment chances and other details",
+        "excerpt": "The Rs 30,213 crore IPO, priced between Rs 1,065 and Rs 1,119 per share, will remain open until October 23. At the upper end of the price band, Jio Platforms is seeking a valuation of Rs 10.3 lakh crore, making it one of India's most valuable companies.",
+        "content": "<p>The Rs 30,213 crore IPO, priced between Rs 1,065 and Rs 1,119 per share, will remain open until October 23. At the upper end of the price band, Jio Platforms is seeking a valuation of Rs 10.3 lakh crore, making it one of India's most valuable companies.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-135080129,width-1200,height-900,imgsize-1850673,overlay-etmarkets/articleshow.jpg",
+        "date": "Oct 21, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-opens-with-22-gmp-check-brokerage-views-allotment-chances-and-other-details/articleshow/135080093.cms"
+    },
+    {
+        "id": "iu8w3x9i6",
+        "title": "Fitch Ratings Affirms Ecopetrol's National and International Ratings and Highlights Its Financial Strength",
+        "excerpt": "BOGOTA, Colombia, Oct. 20, 2026 /PRNewswire/ -- Ecopetrol S.A. (BVC: ECOPETROL; NYSE: EC) announces that, in its report dated October 20, 2026, Fitch Ratings (\"Fitch\") affirmed the Company's global credit rating at BB, with a Stable Outlook, and its standalon…",
+        "content": "<p>BOGOTA, Colombia, Oct. 20, 2026 /PRNewswire/ -- Ecopetrol S.A. (BVC: ECOPETROL; NYSE: EC) announces that, in its report dated October 20, 2026, Fitch Ratings (\"Fitch\") affirmed the Company's global credit rating at BB, with a Stable Outlook, and its standalon…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://mmx.prnewswire.com/media/MS1977227/ecopetrol_s_a__logo.jpg?id=OA3030937&p=facebook",
+        "date": "Oct 21, 2026",
+        "url": "https://www.prnewswire.com/news-releases/fitch-ratings-affirms-ecopetrols-national-and-international-ratings-and-highlights-its-financial-strength-302914816.html"
+    },
+    {
+        "id": "b9ijp9pvl",
+        "title": "The Secret Terms of Trump’s Venezuelan Oil Deal",
+        "excerpt": "The Trump administration committed the U.S. to taking a large stake in a Venezuelan company, some of whose owners and investors are shielded from public view. The exact details of the agreement over oil fields had remained unclear — until now.",
+        "content": "<p>The Trump administration committed the U.S. to taking a large stake in a Venezuelan company, some of whose owners and investors are shielded from public view. The exact details of the agreement over oil fields had remained unclear — until now.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.propublica.org/wp-content/uploads/2026/10/GettyImages-2254495662-SOCIAL_maxHeight_3000_maxWidth_3000.jpg?w=1200",
+        "date": "Oct 21, 2026",
+        "url": "https://www.propublica.org/article/trump-venezuela-oil-agreement-terms"
+    },
+    {
         "id": "mcck67h6j",
         "title": "‘Star Wars’ Headed To Super Bowl LXI For Animated Altcast On Disney+, Disney Channel and Disney XD",
         "excerpt": "Characters from “A Galaxy Far, Far Away” are headed to Super Bowl LXI as ESPN, Lucasfilm and the NFL team up for a Star Wars alternative telecast. On Sunday, February 14, Disney+, Disney Channel, and Disney XD will air an alternate telecast featuring iconic c…",
