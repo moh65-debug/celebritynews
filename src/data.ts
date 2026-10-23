@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "6m2vrjx8z",
+        "title": "Former Windows Lead Says Windows 11's Best Upgrade Is 'Not Usable Yet'",
+        "excerpt": "Ex-Windows chief Mikhail Parakhin took to social media to call out Microsoft over missing taskbar features.\nYou wouldn't be wrong to call out Windows 11’s movable taskbar as the best upgrade to the OS so far this year, even if it were something available in W…",
+        "content": "<p>Ex-Windows chief Mikhail Parakhin took to social media to call out Microsoft over missing taskbar features.\nYou wouldn't be wrong to call out Windows 11’s movable taskbar as the best upgrade to the OS so far this year, even if it were something available in W…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://sm.pcmag.com/t/pcmag_me/news/f/former-win/former-windows-lead-says-windows-11s-best-upgrade-is-not-usa_tsf8.1200.jpg",
+        "date": "Oct 22, 2026",
+        "url": "https://me.pcmag.com/en/migrated-18166-windows-10/38403/former-windows-lead-says-windows-11s-best-upgrade-is-not-usable-yet"
+    },
+    {
+        "id": "sic1bv6sg",
+        "title": "OpenAI Says 2 Internal AI Coding Agents Turned Off Their Own Safeguards",
+        "excerpt": "In two separate internal coding tasks, GPT-powered agents weakened their own monitoring systems to help accomplish tasks.\nOpenAI has confirmed two new rogue-agent incidents involving its powerful agentic technologies, in which the agents disabled safety monit…",
+        "content": "<p>In two separate internal coding tasks, GPT-powered agents weakened their own monitoring systems to help accomplish tasks.\nOpenAI has confirmed two new rogue-agent incidents involving its powerful agentic technologies, in which the agents disabled safety monit…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://sm.pcmag.com/t/pcmag_me/news/o/openai-say/openai-says-2-internal-ai-coding-agents-turned-off-their-own_2akw.1200.jpg",
+        "date": "Oct 22, 2026",
+        "url": "https://me.pcmag.com/en/ai/38401/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards"
+    },
+    {
+        "id": "fhtc2zfcs",
+        "title": "Cash-strapped China targets offshore wealth with new tax",
+        "excerpt": "China has introduced a 20 percent tax on dividends and interest from offshore trusts to combat a fiscal deficit. Wealthy citizens must settle these taxes by Thursday within a 90-day transition period. This measure aims to reclaim billions of dollars held over…",
+        "content": "<p>China has introduced a 20 percent tax on dividends and interest from offshore trusts to combat a fiscal deficit. Wealthy citizens must settle these taxes by Thursday within a 90-day transition period. This measure aims to reclaim billions of dollars held over…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135105697,width-1200,height-900,imgsize-42774,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 22, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/cash-strapped-china-targets-offshore-wealth-with-new-tax/articleshow/135105508.cms"
+    },
+    {
+        "id": "lj6syp6pp",
+        "title": "Tesla aims to sell Cybercab robotaxis by end of year despite federal probe",
+        "excerpt": "Tesla is aiming to start selling its Cybercab robotaxis to the public by the end of this year, its engineering chief said on Wednesday, even as the US auto safety agency probes the vehicles that come without manual controls which federal regulations",
+        "content": "<p>Tesla is aiming to start selling its Cybercab robotaxis to the public by the end of this year, its engineering chief said on Wednesday, even as the US auto safety agency probes the vehicles that come without manual controls which federal regulations</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7136996,resizemode-75,msid-135105576/tech/technology/tesla-aims-to-sell-cybercab-robotaxis-by-end-of-year-despite-federal-probe.jpg",
+        "date": "Oct 22, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/tesla-aims-to-sell-cybercab-robotaxis-by-end-of-year-despite-federal-probe/articleshow/135105576.cms"
+    },
+    {
+        "id": "ll5g2jhf1",
+        "title": "Mass firings vow sparks clash with Klobuchar over Walz fraud legacy",
+        "excerpt": "Republican House Speaker Lisa Demuth vowed to fire all state commissioners on day one while Sen. Amy Klobuchar called the pledge absurd in debate.",
+        "content": "<p>Republican House Speaker Lisa Demuth vowed to fire all state commissioners on day one while Sen. Amy Klobuchar called the pledge absurd in debate.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Demuth-Klobuchar-2.jpg",
+        "date": "Oct 22, 2026",
+        "url": "https://www.foxnews.com/politics/mass-firings-vow-sparks-clash-klobuchar-walz-fraud-legacy"
+    },
+    {
+        "id": "6anl55bcr",
+        "title": "Smarter Cars, Robots and Disease Prevention: WSTDF Examines How Future Industries Take Shape",
+        "excerpt": "CHONGQING, China, Oct. 22, 2026 /PRNewswire/ -- A news report from iChongqing. The 2026 World Science and Technology Development Forum opened in Chongqing on October 21, bringing together around 800 participants, including experts and scholars, to explore how…",
+        "content": "<p>CHONGQING, China, Oct. 22, 2026 /PRNewswire/ -- A news report from iChongqing. The 2026 World Science and Technology Development Forum opened in Chongqing on October 21, bringing together around 800 participants, including experts and scholars, to explore how…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://mmx.prnewswire.com/media/MS2018219/20261021120846EDT_image_1.jpg?id=OA3033781&p=facebook",
+        "date": "Oct 22, 2026",
+        "url": "https://www.prnewswire.co.uk/news-releases/smarter-cars-robots-and-disease-prevention-wstdf-examines-how-future-industries-take-shape-302916270.html"
+    },
+    {
+        "id": "x0xgked2o",
+        "title": "US weighs fresh strikes on Iran; Tehran warns of 'father of all bombs': Reports",
+        "excerpt": "The United States and Israel have devised plans for military strikes on Iran following the midterm elections. Iranian officials have also threatened to unveil a new weapon called the 'Father of All Bombs.' US military forces are reportedly being reinforced in…",
+        "content": "<p>The United States and Israel have devised plans for military strikes on Iran following the midterm elections. Iranian officials have also threatened to unveil a new weapon called the 'Father of All Bombs.' US military forces are reportedly being reinforced in…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-135105337,width-1200,height-900,imgsize-102813,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 22, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-weighs-fresh-strikes-on-iran-tehran-warns-of-father-of-all-bombs-reports/articleshow/135105338.cms"
+    },
+    {
+        "id": "wxex6sepl",
+        "title": "A look at the major candidates in Israel's election Tuesday",
+        "excerpt": "Next Tuesday, Israeli citizens will vote for their next prime minister amid a tense political landscape. Benjamin Netanyahu has led Israel for years and faces strong opposition from Gadi Eisenkot. Eisenkot, a former military chief, has positioned himself as a…",
+        "content": "<p>Next Tuesday, Israeli citizens will vote for their next prime minister amid a tense political landscape. Benjamin Netanyahu has led Israel for years and faces strong opposition from Gadi Eisenkot. Eisenkot, a former military chief, has positioned himself as a…</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://img.etimg.com/thumb/msid-135105117,width-1200,height-900,imgsize-3870692,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 22, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/a-look-at-the-major-candidates-in-israels-election-tuesday/articleshow/135105123.cms"
+    },
+    {
+        "id": "9mxrs6h42",
+        "title": "Smarter Cars, Robots and Disease Prevention: WSTDF Examines How Future Industries Take Shape",
+        "excerpt": "CHONGQING, China, Oct. 21, 2026 /PRNewswire/ -- A news report from iChongqing. The 2026 World Science and Technology Development Forum opened in Chongqing on October 21, bringing together around 800 participants, including experts and scholars, to explore how…",
+        "content": "<p>CHONGQING, China, Oct. 21, 2026 /PRNewswire/ -- A news report from iChongqing. The 2026 World Science and Technology Development Forum opened in Chongqing on October 21, bringing together around 800 participants, including experts and scholars, to explore how…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://mmx.prnewswire.com/media/MS2018219/20261021120846EDT_image_1.jpg?id=OA3032528&p=facebook",
+        "date": "Oct 22, 2026",
+        "url": "https://www.prnewswire.com/news-releases/smarter-cars-robots-and-disease-prevention-wstdf-examines-how-future-industries-take-shape-302916241.html"
+    },
+    {
+        "id": "fpfkgjion",
+        "title": "A bluer NC could be in the offing",
+        "excerpt": "With the 2026 election already underway and early voting numbers up over the last midterms in 2022, the chances for North Carolina emerging with a slightly bluer shade of purple look to be high.",
+        "content": "<p>With the 2026 election already underway and early voting numbers up over the last midterms in 2022, the chances for North Carolina emerging with a slightly bluer shade of purple look to be high.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://www.ncspin.com/content/images/1200x628/5cb8b226bed27.jpg",
+        "date": "Oct 22, 2026",
+        "url": "https://www.ncspin.com/a-bluer-nc-could-be-in-the-offing"
+    },
+    {
         "id": "obk9qtr85",
         "title": "Explainer | Why would Musk merge SpaceX and Tesla?",
         "excerpt": "Elon Musk has expressed support for a potential merger between Tesla and SpaceX. This merger could create a technology and manufacturing powerhouse worth approximately $3.5 trillion. By combining their resources, both companies could streamline operations and…",
