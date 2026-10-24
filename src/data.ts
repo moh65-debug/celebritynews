@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "vcqvk2d36",
+        "title": "José Mourinho Defends Vinícius Júnior After Real Madrid Fans Whistle Him",
+        "excerpt": "José Mourinho said whistles from home fans “hurt” after Vinícius Júnior was jeered at the Bernabéu in Wednesday’s 4-1 Champions League win over RB Leipzig. Vinícius has gone nine games without a goal and has one goal and three assists in 11 appearances this s…",
+        "content": "<p>José Mourinho said whistles from home fans “hurt” after Vinícius Júnior was jeered at the Bernabéu in Wednesday’s 4-1 Champions League win over RB Leipzig. Vinícius has gone nine games without a goal and has one goal and three assists in 11 appearances this s…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/3a2e7aa984a7673eb14e307f3a87424a41ec752bee04e0fcf5f0e9e13fd7a694/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffutbol_chronicle_671%2F510d3c6e442d7aac07a0998bb6cd72de.jpg",
+        "date": "Oct 23, 2026",
+        "url": "https://futbolchronicle.com/jose-mourinho-defends-vinicius-junior-after-real-madrid-fans-whistle-him/"
+    },
+    {
+        "id": "g5mjtgqm8",
+        "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+        "excerpt": "Microsoft researchers say an AI tool that diagnoses patients step by step, as doctors do, was more than twice as accurate as general physicians at solving complex medical cases, according to a study published on Thursday in Science.",
+        "content": "<p>Microsoft researchers say an AI tool that diagnoses patients step by step, as doctors do, was more than twice as accurate as general physicians at solving complex medical cases, according to a study published on Thursday in Science.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2277041,resizemode-75,msid-135132770/tech/technology/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor.jpg",
+        "date": "Oct 23, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/articleshow/135132770.cms"
+    },
+    {
+        "id": "6stkl1kp6",
+        "title": "Milwaukee mayor writes excuse note for Bucks, Brewers fans",
+        "excerpt": "Milwaukee Mayor Cavalier Johnson shared an excuse letter encouraging bosses and teachers to let Bucks and Brewers fans leave early Friday.",
+        "content": "<p>Milwaukee Mayor Cavalier Johnson shared an excuse letter encouraging bosses and teachers to let Bucks and Brewers fans leave early Friday.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/44f6790a429debf171a3004a19a5713e624a4429e48416e046bb70acf1b2ab98/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmilwaukee_journal_sentinel_natl_articles_362%2Fa33366d5efacad85cb9d70debd1c96f8.jpg",
+        "date": "Oct 23, 2026",
+        "url": "https://www.jsonline.com/story/sports/2026/10/22/milwaukee-mayor-excuse-letter-bucks-brewers-world-series/92390327007/"
+    },
+    {
+        "id": "01lrzxrf1",
+        "title": "Microsoft develops AI tool that can diagnose 'sequentially' like doctor",
+        "excerpt": "A Microsoft AI tool that mimics doctors' step-by-step diagnostic process outperformed general physicians on complex medical cases and emergency room scenarios",
+        "content": "<p>A Microsoft AI tool that mimics doctors' step-by-step diagnostic process outperformed general physicians on complex medical cases and emergency room scenarios</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/03/thumb/fitandfill/1200X628/1780454362-8408.jpg",
+        "date": "Oct 23, 2026",
+        "url": "https://www.business-standard.com/world-news/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-126102300098_1.html"
+    },
+    {
+        "id": "tnhrk9bl1",
+        "title": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries",
+        "excerpt": "The U.S. Treasury Department plans to enforce a rule limiting high-tech investments in China and Russia. This initiative aims to curb investments that may boost military capabilities in identified countries. The proposed restrictions will apply specifically t…",
+        "content": "<p>The U.S. Treasury Department plans to enforce a rule limiting high-tech investments in China and Russia. This initiative aims to curb investments that may boost military capabilities in identified countries. The proposed restrictions will apply specifically t…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135132177,width-1200,height-900,imgsize-117182,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 23, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-treasury-proposes-a-rule-to-crack-down-on-high-tech-investments-in-china-other-adversaries/articleshow/135132178.cms"
+    },
+    {
+        "id": "jwkrij9yj",
+        "title": "'The problem was caused by you': Commerce Minister Piyush Goyal calls out Europe over carbon emissions",
+        "excerpt": "Union Commerce Minister Piyush Goyal said India accounts for less than 3% of global carbon emissions despite representing 17% of the world's population. Speaking in Berlin, he said Europe's per capita emissions and environmental impact were seven to eight tim…",
+        "content": "<p>Union Commerce Minister Piyush Goyal said India accounts for less than 3% of global carbon emissions despite representing 17% of the world's population. Speaking in Berlin, he said Europe's per capita emissions and environmental impact were seven to eight tim…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135132171,width-1200,height-900,imgsize-56524,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 23, 2026",
+        "url": "https://economictimes.indiatimes.com/news/india/the-problem-was-caused-by-you-commerce-minister-piyush-goyal-calls-out-europe-over-carbon-emissions/articleshow/135132080.cms"
+    },
+    {
+        "id": "qnrywrtpm",
+        "title": "Asian shares slip as tech rout boosts bonds, dents rate hike bets",
+        "excerpt": "MSCI's broadest index of Asia-Pacific shares excluding Japan fell 0.3% on Friday, bringing its weekly loss to 2.7% and marking a fourth straight week in the red",
+        "content": "<p>MSCI's broadest index of Asia-Pacific shares excluding Japan fell 0.3% on Friday, bringing its weekly loss to 2.7% and marking a fourth straight week in the red</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/07/thumb/fitandfill/1200X628/1791341797-2003.jpg",
+        "date": "Oct 23, 2026",
+        "url": "https://www.business-standard.com/markets/news/asian-shares-slip-as-tech-rout-boosts-bonds-dents-rate-hike-bets-126102300074_1.html"
+    },
+    {
+        "id": "9aymwv2vv",
+        "title": "Mohammad Shams Aalam Shaikh overcame a tumour that left him paraplegic to become world No. 1 para-swimmer; now faces possible lifetime ban after 'sexual harassment' of hotel employee in Japan ahead of Asian Para Games",
+        "excerpt": "Mohammad Shams Aalam Shaikh, a para-swimmer, has been accused of molesting a hotel employee in Japan. The incident occurred shortly before the start of the Asian Para Games, raising concerns about his sporting career. Following the accusations, police detaine…",
+        "content": "<p>Mohammad Shams Aalam Shaikh, a para-swimmer, has been accused of molesting a hotel employee in Japan. The incident occurred shortly before the start of the Asian Para Games, raising concerns about his sporting career. Following the accusations, police detaine…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-135131845,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 23, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/patna/mohammad-shams-aalam-shaikh-overcame-a-tumour-that-left-him-paraplegic-to-become-world-no-1-para-swimmer-now-faces-possible-lifetime-ban-after-sexual-harassment-of-hotel-employee-in-japan-ahead-of-asian-para-games/articleshow/135131837.cms"
+    },
+    {
+        "id": "bk2aphfiz",
+        "title": "Swiggy narrows loss in Q2; eMudhra cofounder on what went wrong",
+        "excerpt": "Happy Friday! Swiggy reported a rise in revenue in Q2 FY27 while cutting its losses. This and more in today’s ETtech Morning Dispatch.",
+        "content": "<p>Happy Friday! Swiggy reported a rise in revenue in Q2 FY27 while cutting its losses. This and more in today’s ETtech Morning Dispatch.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://img.etimg.com/thumb/msid-135131640,width-1070,height-580,imgsize-166494,overlay-ettech/editionshow.jpg",
+        "date": "Oct 23, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-narrows-loss-in-q2-emudhra-cofounder-on-what-went-wrong/articleshow/135131640.cms"
+    },
+    {
+        "id": "hqa2h6vxu",
+        "title": "10 Best Princess Donut Quotes From Dungeon Crawler Carl",
+        "excerpt": "The most hilarious Princess Donut quotes in Dungeon Crawler Carl make the Queen Anne Chonk's status as a fan-favorite character easy to understand.",
+        "content": "<p>The most hilarious Princess Donut quotes in Dungeon Crawler Carl make the Queen Anne Chonk's status as a fan-favorite character easy to understand.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/princess-donut-ont-he-cover-of-the-butcher-s-masquerade.jpg?w=1600&h=900&fit=crop",
+        "date": "Oct 23, 2026",
+        "url": "https://screenrant.com/best-princess-donut-quotes-dungeon-crawler-carl/"
+    },
+    {
         "id": "6m2vrjx8z",
         "title": "Former Windows Lead Says Windows 11's Best Upgrade Is 'Not Usable Yet'",
         "excerpt": "Ex-Windows chief Mikhail Parakhin took to social media to call out Microsoft over missing taskbar features.\nYou wouldn't be wrong to call out Windows 11’s movable taskbar as the best upgrade to the OS so far this year, even if it were something available in W…",
