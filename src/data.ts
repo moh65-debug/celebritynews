@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "9vxe30doc",
+        "title": "Trump whisperers",
+        "excerpt": "Tech billionaires having all his ear, is risky Per Trump, he was all set to make Atlantic Ocean into Trump Ocean, except Pichai said, please, please don’t",
+        "content": "<p>Tech billionaires having all his ear, is risky Per Trump, he was all set to make Atlantic Ocean into Trump Ocean, except Pichai said, please, please don’t</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-135160757,width-1280,height-720,resizemode-6,overlay-toiblogs,pt-32,x_pad-1045,y_pad-670/photo.jpg",
+        "date": "Oct 24, 2026",
+        "url": "https://timesofindia.indiatimes.com/toi-blogs/from-toi-print/trump-whisperers/articleshow/135160684.cms"
+    },
+    {
+        "id": "e8a39ex5q",
+        "title": "Spider 2 Y Banana! Why Jon Gruden and Maryland Football Could Be a Match Made in Heaven",
+        "excerpt": "Maryland desperately needs a football coach who can win games, attract recruits and make the program relevant again. Jon Gruden […]",
+        "content": "<p>Maryland desperately needs a football coach who can win games, attract recruits and make the program relevant again. Jon Gruden […]</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/79e78d5c32168da89bc1285bceeb3b7a6bcd9a29500c01b8a07f9c2a463a0ab7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsportsnaut_articles_397%2F4fa8423fd95ea2ff036bbd57f910e1d6.jpg",
+        "date": "Oct 24, 2026",
+        "url": "https://sportsnaut.com/uncategorized/spider-2-y-banana-why-jon-gruden-and-maryland-football-could-be-a-match-made-in-heaven"
+    },
+    {
+        "id": "7smrmgs7e",
+        "title": "NEET PG counselling 2026: MCC releases round 1 seat allotment result, check direct link to download",
+        "excerpt": "The Medical Counselling Committee has released the provisional seat allotment result for NEET PG Counselling 2026. A total of 28,728 candidates have received provisional seat allotments as of October 23, 2026. Candidates are required to report to their respec…",
+        "content": "<p>The Medical Counselling Committee has released the provisional seat allotment result for NEET PG Counselling 2026. A total of 28,728 candidates have received provisional seat allotments as of October 23, 2026. Candidates are required to report to their respec…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-135160721,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 24, 2026",
+        "url": "https://timesofindia.indiatimes.com/education/news/neet-pg-counselling-2026-mcc-releases-round-1-seat-allotment-result-check-direct-link-to-download/articleshow/135160513.cms"
+    },
+    {
+        "id": "jb072w6dt",
+        "title": "'Another little Epic Fury': Trump issues new warning; Iran says 'don't play with fire'",
+        "excerpt": "US President Donald Trump threatened Iran with potential military action if no diplomatic agreement is reached soon. He referenced the previous operation named 'Epic Fury' while addressing supporters in Florida. Additionally, US intelligence reports indicate …",
+        "content": "<p>US President Donald Trump threatened Iran with potential military action if no diplomatic agreement is reached soon. He referenced the previous operation named 'Epic Fury' while addressing supporters in Florida. Additionally, US intelligence reports indicate …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-135160476,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 24, 2026",
+        "url": "https://timesofindia.indiatimes.com/world/us/another-little-epic-fury-trump-issues-new-warning-iran-says-dont-play-with-fire/articleshow/135160331.cms"
+    },
+    {
+        "id": "yrj192u13",
+        "title": "Facts are hares, but truth is a tortoise",
+        "excerpt": "Don’t believe every ‘study’ that comes your way Last year, researchers at King’s College London reported that theobromine, a key component of cocoa, might",
+        "content": "<p>Don’t believe every ‘study’ that comes your way Last year, researchers at King’s College London reported that theobromine, a key component of cocoa, might</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-135160637,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 24, 2026",
+        "url": "https://timesofindia.indiatimes.com/world/mind-field/facts-are-hares-but-truth-is-a-tortoise/articleshow/135160568.cms"
+    },
+    {
+        "id": "81yjaph6e",
+        "title": "Is your favourite beauty influencer FAKE? Millions are being duped by women struggling with midlife divorce, menopause and ageing - who have products to sell...",
+        "excerpt": "…they're not actually real. The social-media stars have, in fact, been created by AI, solely to sell you stuff. Claire Cohen reports",
+        "content": "<p>…they're not actually real. The social-media stars have, in fact, been created by AI, solely to sell you stuff. Claire Cohen reports</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/10/22/12/112023317-0-image-a-18_1792670168583.jpg",
+        "date": "Oct 24, 2026",
+        "url": "https://www.dailymail.com/lifestyle/food-drink/article-16227489/Is-favourite-beauty-influencer-FAKE-Millions-duped-women-struggling-midlife-divorce-menopause-ageing-products-sell.html"
+    },
+    {
+        "id": "em5e0qjrn",
+        "title": "Gorakhpur-Faizabad records highest 79.32% turnout in UP MLC polls; repoll recommended at three booths",
+        "excerpt": "In the biennial elections for 11 Uttar Pradesh Legislative Council seats, voter turnout varied dramatically. Gorakhpur-Faizabad Teachers' constituency excelled with 79.32% participation, contrasting sharply with the 35.81% seen in the Meerut Graduates' consti…",
+        "content": "<p>In the biennial elections for 11 Uttar Pradesh Legislative Council seats, voter turnout varied dramatically. Gorakhpur-Faizabad Teachers' constituency excelled with 79.32% participation, contrasting sharply with the 35.81% seen in the Meerut Graduates' consti…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-135159625,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 24, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/lucknow/gorakhpur-faizabad-records-highest-79-32-turnout-in-up-mlc-polls-repoll-recommended-at-three-booths/articleshow/135159612.cms"
+    },
+    {
+        "id": "xzp3uloyw",
+        "title": "HP Nanda: A master of the old economy whose successors inherited a different world",
+        "excerpt": "In post-Partition India, Nanda built an engineering and automotive group spanning tractors, farm machinery, motorcycles and construction equipment.",
+        "content": "<p>In post-Partition India, Nanda built an engineering and automotive group spanning tractors, farm machinery, motorcycles and construction equipment.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/10/24/1600x900/logo/har_prasad_nanda_1792805525300_0Dph_1792805530385_Yh31_b6bd876b-a013-478d-a95f-581bbbb2ba04_nPqq.jpg",
+        "date": "Oct 24, 2026",
+        "url": "https://www.livemint.com/opinion/online-views/hp-nanda-a-master-of-the-old-economy-whose-successors-inherited-a-different-world-11792687156383.html"
+    },
+    {
+        "id": "j2t0xrzpf",
+        "title": "Rediscovering civility, respect and the art of disagreeing well",
+        "excerpt": "The attack on federal MP Helen Haines has Australians contemplating the state of our public and political discourse. Experts explain how to respectfully disagree with someone.",
+        "content": "<p>The attack on federal MP Helen Haines has Australians contemplating the state of our public and political discourse. Experts explain how to respectfully disagree with someone.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/13b43c0462c180a803bda172fc3d1704?impolicy=wcms_watermark_news&cropH=1696&cropW=3016&xPos=501&yPos=212&width=862&height=485&imformat=generic",
+        "date": "Oct 24, 2026",
+        "url": "https://www.abc.net.au/news/2026-10-24/helen-haines-public-discourse-civility-respect-disagreeing/107301488"
+    },
+    {
+        "id": "ul5gisa1h",
+        "title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
+        "excerpt": "Moonshot AI today introduced Kim K3.1 Pro, a large language model that can perform some tasks better than Claude Opus 5.5 and GPT-6 Astra. The LLM is a post-trained, or upgraded, version of an algorithm that the Chinese artificial intelligence company release…",
+        "content": "<p>Moonshot AI today introduced Kim K3.1 Pro, a large language model that can perform some tasks better than Claude Opus 5.5 and GPT-6 Astra. The LLM is a post-trained, or upgraded, version of an algorithm that the Chinese artificial intelligence company release…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/unsplash2-2.png",
+        "date": "Oct 24, 2026",
+        "url": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/"
+    },
+    {
         "id": "vcqvk2d36",
         "title": "José Mourinho Defends Vinícius Júnior After Real Madrid Fans Whistle Him",
         "excerpt": "José Mourinho said whistles from home fans “hurt” after Vinícius Júnior was jeered at the Bernabéu in Wednesday’s 4-1 Champions League win over RB Leipzig. Vinícius has gone nine games without a goal and has one goal and three assists in 11 appearances this s…",
