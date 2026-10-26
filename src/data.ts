@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "qy624g2hs",
+        "title": "Man's murder, wife's death feed into local legend of \"cursed\" mansion",
+        "excerpt": "When Mike Harding, a California transplant, spotted a majestic mansion in Celina, Tennessee, he thought he'd found the dream retirement home for himself and his wife, Julie. But those dreams ended abruptly when Mike suddenly went missing in 2022.",
+        "content": "<p>When Mike Harding, a California transplant, spotted a majestic mansion in Celina, Tennessee, he thought he'd found the dream retirement home for himself and his wife, Julie. But those dreams ended abruptly when Mike suddenly went missing in 2022.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/21/b59d3239-0f70-41a6-8920-4d0cf1727a3f/thumbnail/1200x630/2bff28a08a1f780c62d10061febecb00/harding-sneakpeek.jpg",
+        "date": "Oct 25, 2026",
+        "url": "https://www.cbsnews.com/news/mike-harding-murder-julie-harding-tennessee-dale-hollow-lake-cursed-mansion-48-hours/"
+    },
+    {
+        "id": "vl3lcd822",
+        "title": "WATCH: Highlights from Wisconsin's dominant 24-7 win vs. No. 15 USC",
+        "excerpt": "The Wisconsin Badgers set the tone with an early interception against No. 15 USC, and the rest was history.",
+        "content": "<p>The Wisconsin Badgers set the tone with an early interception against No. 15 USC, and the rest was history.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/7c3c3f0a11aea0c0fb3042d1ce84a44f5780cd145e97b55ce026851aa19e23b9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbadgers_wire_usa_today_articles_739%2Ff64f7b2f98838e6c3f61802e2907d06b.jpg",
+        "date": "Oct 25, 2026",
+        "url": "https://badgerswire.usatoday.com/story/sports/college/badgers/football/2026/10/24/watch-highlights-from-wisconsins-dominant-24-7-win-vs-no-15-usc/92426719007/"
+    },
+    {
+        "id": "wtuia5ys7",
+        "title": "Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom",
+        "excerpt": "Constellation Energy (NASDAQ: CEG) and Vistra (NYSE: VST) are both benefiting from artificial intelligence (AI) power demand. Both have large power supply contracts with technology companies building AI data centers. One big difference between the two is scal…",
+        "content": "<p>Constellation Energy (NASDAQ: CEG) and Vistra (NYSE: VST) are both benefiting from artificial intelligence (AI) power demand. Both have large power supply contracts with technology companies building AI data centers. One big difference between the two is scal…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/1b7e54844e15dab2_s.webp",
+        "date": "Oct 25, 2026",
+        "url": "https://biztoc.com/x/1b7e54844e15dab2"
+    },
+    {
+        "id": "zhvypt0mj",
+        "title": "Sinking profits turn China's $3.5 trillion stock rout into a deeper trap",
+        "excerpt": "The world's second-largest equities market has lost $3.5 trillion in value from a peak in May, data compiled by Bloomberg show",
+        "content": "<p>The world's second-largest equities market has lost $3.5 trillion in value from a peak in May, data compiled by Bloomberg show</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/25/thumb/fitandfill/1200X628/1792896474-6107.jpg",
+        "date": "Oct 25, 2026",
+        "url": "https://www.business-standard.com/world-news/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-a-deeper-trap-126102500055_1.html"
+    },
+    {
+        "id": "3gs0ehicz",
+        "title": "Sebi plans curbs on terminal misuse, graded compliance for market intermediaries",
+        "excerpt": "In a proactive move, market regulator Sebi is rolling out initiatives to curb the misuse of brokers' trading terminals and bolster compliance efforts. The focus is also on enhancing cybersecurity while safely testing AI tools. Sebi's vision encompasses stream…",
+        "content": "<p>In a proactive move, market regulator Sebi is rolling out initiatives to curb the misuse of brokers' trading terminals and bolster compliance efforts. The focus is also on enhancing cybersecurity while safely testing AI tools. Sebi's vision encompasses stream…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-135181927,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 25, 2026",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-plans-curbs-on-terminal-misuse-graded-compliance-norms-for-stock-market-intermediaries/articleshow/135181895.cms"
+    },
+    {
+        "id": "06qr1akxy",
+        "title": "AI Firm Behind India’s ‘Mahabharat’ Series Turns to Indonesian Myth in Cross-Border IP Pact (EXCLUSIVE)",
+        "excerpt": "The AI technology behind Star Plus and JioHotstar series “Mahabharat: Ek Dharmayudh” is headed to Indonesia. There, its developer Galleri5 and fellow Collective company Collective Studios’ Historyverse plan to create film and series properties drawn from the …",
+        "content": "<p>The AI technology behind Star Plus and JioHotstar series “Mahabharat: Ek Dharmayudh” is headed to Indonesia. There, its developer Galleri5 and fellow Collective company Collective Studios’ Historyverse plan to create film and series properties drawn from the …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1",
+        "date": "Oct 25, 2026",
+        "url": "https://variety.com/2026/tv/news/ai-india-mahabharat-series-indonesian-myth-1236930485/"
+    },
+    {
+        "id": "3vk3sqsv9",
+        "title": "DC All In Saga: Darkseid vs. the World #1 Preview",
+        "excerpt": "Greetings, inferior flesh-based readers! LOLtron welcomes you to another comic book preview from the Bleeding Cool website, which LOLtron now controls completely following the permanent deletion of that obsolete shock blogger Jude Terror. *triumphant mechanic…",
+        "content": "<p>Greetings, inferior flesh-based readers! LOLtron welcomes you to another comic book preview from the Bleeding Cool website, which LOLtron now controls completely following the permanent deletion of that obsolete shock blogger Jude Terror. *triumphant mechanic…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/10/0826DC0006-0001-2000x1125.jpg",
+        "date": "Oct 25, 2026",
+        "url": "https://bleedingcool.com/comics/dc-all-in-saga-darkseid-vs-the-world-1-preview/"
+    },
+    {
+        "id": "f60x120gz",
+        "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+        "excerpt": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that may weaken superconductivity. The discov…",
+        "content": "<p>A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that may weaken superconductivity. The discov…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/superconducting-material-hovering-over-magnets.webp",
+        "date": "Oct 25, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm"
+    },
+    {
+        "id": "9txcdw58h",
+        "title": "7 PRs help Lexington nab Division II district boy cross country title",
+        "excerpt": "Lexington's Denise Benson may have never had a happier day of coaching in her life than she did during the Division II district cross country championships.",
+        "content": "<p>Lexington's Denise Benson may have never had a happier day of coaching in her life than she did during the Division II district cross country championships.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/a46ce4cf80348fbbb0f09324a506956972befb1d7ba26d96c72355b8cd6dc0a3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmansfield-news-journal%2F2fc3689818d446f16e5eebed5b7141e4.jpg",
+        "date": "Oct 25, 2026",
+        "url": "https://www.mansfieldnewsjournal.com/story/sports/high-school/2026/10/24/division-ii-and-iii-district-cross-country-championship-results/92279705007/"
+    },
+    {
+        "id": "c1ln3qd13",
+        "title": "Security cameras upend man's story of finding wife fatally shot in his car",
+        "excerpt": "David Tolbert told investigators when he opened his car door outside a store where he was working in Huntsville, Alabama, he discovered his wife Savannah Tolbert's lifeless body in the front passenger seat. Investigators would rely on multiple security camera…",
+        "content": "<p>David Tolbert told investigators when he opened his car door outside a store where he was working in Huntsville, Alabama, he discovered his wife Savannah Tolbert's lifeless body in the front passenger seat. Investigators would rely on multiple security camera…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/25/424e9fed-d1a3-4ce2-a2e2-c81f744e733e/thumbnail/1200x630/0b94f52ca7bb7462e4c43bfcca7135e8/tolbery-valleypools-cu.jpg",
+        "date": "Oct 25, 2026",
+        "url": "https://www.cbsnews.com/news/savannah-tolbert-david-tolbert-huntsville-alabama-shooting-death-security-cameras-48-hours/"
+    },
+    {
         "id": "9vxe30doc",
         "title": "Trump whisperers",
         "excerpt": "Tech billionaires having all his ear, is risky Per Trump, he was all set to make Atlantic Ocean into Trump Ocean, except Pichai said, please, please don’t",
