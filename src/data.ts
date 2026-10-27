@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "of17nbdv8",
+        "title": "The Debate Over the Maldives’ Deal with Eagle Hills",
+        "excerpt": "Handing over prime land in a land-scarce country, on an island pitched as a lasting solution to an acute housing crisis, warrants deeper scrutiny.",
+        "content": "<p>Handing over prime land in a land-scarce country, on an island pitched as a lasting solution to an acute housing crisis, warrants deeper scrutiny.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-26-124210.jpg",
+        "date": "Oct 26, 2026",
+        "url": "https://thediplomat.com/2026/10/the-debate-over-the-maldives-deal-with-eagle-hills/"
+    },
+    {
+        "id": "tgma81bxg",
+        "title": "What If This is the Worst Time to Retire?",
+        "excerpt": "I talked to Christine Benz about the many challenges involved in retirement planning.\nThe post What If This is the Worst Time to Retire? appeared first on A Wealth of Common Sense.\n...",
+        "content": "<p>I talked to Christine Benz about the many challenges involved in retirement planning.\nThe post What If This is the Worst Time to Retire? appeared first on A Wealth of Common Sense.\n...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://awealthofcommonsense.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-221855.png",
+        "date": "Oct 26, 2026",
+        "url": "https://awealthofcommonsense.com/2026/10/what-if-this-is-the-worst-time-to-retire/"
+    },
+    {
+        "id": "pujwrwmq5",
+        "title": "ASX 200 Claws Back Early Losses as Energy Stocks Rally on US$115 Oil and Rate Hike Fears Weigh on Banks",
+        "excerpt": "The S&P/ASX 200 recovered from early losses as energy and mining stocks gained, while banks and retailers weakened amid rising oil prices and growing bets on an RBA rate hike.",
+        "content": "<p>The S&P/ASX 200 recovered from early losses as energy and mining stocks gained, while banks and retailers weakened amid rising oil prices and growing bets on an RBA rate hike.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://d.ibtimes.com.au/en/full/1893564/asx-200-top-gainers-telix-pharma-jumps-323-fda.png",
+        "date": "Oct 26, 2026",
+        "url": "https://www.ibtimes.com.au/australian-shares-recover-energy-stocks-rba-rate-hike-1877374"
+    },
+    {
+        "id": "ep3aedoao",
+        "title": "Talent, compute and R&D key to India's AI ambitions: Report",
+        "excerpt": "India will need to strengthen its talent pool, research and development (R&D) capabilities, computing infrastructure and data systems to translate advances in artificial intelligence (AI) and other emerging technologies into economic and social benefits, acco…",
+        "content": "<p>India will need to strengthen its talent pool, research and development (R&D) capabilities, computing infrastructure and data systems to translate advances in artificial intelligence (AI) and other emerging technologies into economic and social benefits, acco…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-254700,resizemode-75,msid-135201920/tech/artificial-intelligence/talent-compute-and-rd-key-to-indias-ai-ambitions-report.jpg",
+        "date": "Oct 26, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talent-compute-and-rd-key-to-indias-ai-ambitions-report/articleshow/135201920.cms"
+    },
+    {
+        "id": "gghme3sn3",
+        "title": "Oklahoma State's Drew Mestemaker, West Virginia's Michael Hawkins crack Heisman Watch",
+        "excerpt": "Two very different quarterbacks -- Oklahoma State's Drew Mestemaker and West Virginia's Michael Hawkins -- debut on the Heisman Watch top contenders list this week.",
+        "content": "<p>Two very different quarterbacks -- Oklahoma State's Drew Mestemaker and West Virginia's Michael Hawkins -- debut on the Heisman Watch top contenders list this week.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/11d860a5b4d96f74dc2972f1ffa4a7c408b6f0b05bea5f7e72d88df7277e0a11/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fb40ce386302c97e7a5fb64ca493a767e",
+        "date": "Oct 26, 2026",
+        "url": "https://www.sportingnews.com/us/ncaa-football/news/oklahoma-states-drew-mestemaker-west-virginias-michael-hawkins-join-heisman-watch/5cd229db67bc5abe5de53593"
+    },
+    {
+        "id": "aj2lrorxn",
+        "title": "Musk says SpaceX raised $40 bn in debt deal, predicts neocloud shakeout",
+        "excerpt": "Musk, in a post on X, attributed the successful debt raise to the company's investment-grade status and revenue from its Starlink satellite internet and launch businesses",
+        "content": "<p>Musk, in a post on X, attributed the successful debt raise to the company's investment-grade status and revenue from its Starlink satellite internet and launch businesses</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/06/thumb/fitandfill/1200X628/1791257789-1066.jpg",
+        "date": "Oct 26, 2026",
+        "url": "https://www.business-standard.com/world-news/musk-says-spacex-raised-40-bn-in-debt-deal-predicts-neocloud-shakeout-126102600084_1.html"
+    },
+    {
+        "id": "sddokm1lp",
+        "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+        "excerpt": "Microsoft launched Decision-1, a 9B Qwen3.5-based model for AI decision scoring. See pricing, benchmarks, and how it compares to rivals.",
+        "content": "<p>Microsoft launched Decision-1, a 9B Qwen3.5-based model for AI decision scoring. See pricing, benchmarks, and how it compares to rivals.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://shattered.io/wp-content/uploads/2026/10/microsoft-decision-1-qwen3-5-9b-model-2026-gen.jpg",
+        "date": "Oct 26, 2026",
+        "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/"
+    },
+    {
+        "id": "6j2gca7g7",
+        "title": "UAE's Nusseibeh vows independence, dialogue with Iran if elected UN chief",
+        "excerpt": "A former UAE ambassador to the UN, Nusseibeh vowed to act as a voice for international diplomacy and the rule of law, principles she said would underpin her credibility",
+        "content": "<p>A former UAE ambassador to the UN, Nusseibeh vowed to act as a voice for international diplomacy and the rule of law, principles she said would underpin her credibility</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/26/thumb/featurecrop/1200X628/1792983385-283.jpg",
+        "date": "Oct 26, 2026",
+        "url": "https://www.business-standard.com/world-news/uae-s-nusseibeh-vows-independence-dialogue-with-iran-if-elected-un-chief-126102600079_1.html"
+    },
+    {
+        "id": "bfc1lomrf",
+        "title": "Five economic challenges facing Brazil's re-elected President Lula",
+        "excerpt": "Brazil's economy has beaten expectations in recent years, but mounting debt and entrenchedstructural problems could complicate leftist President Luiz Inacio Lula da Silva's fourth ​term, which begins in January.",
+        "content": "<p>Brazil's economy has beaten expectations in recent years, but mounting debt and entrenchedstructural problems could complicate leftist President Luiz Inacio Lula da Silva's fourth ​term, which begins in January.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bl-i.thgim.com/public/incoming/fgbyyi/article71625503.ece/alternates/LANDSCAPE_1200/2026-10-26T024030Z_394427_RC2PAOA5PALH_RTRMADP_3_BRAZIL-ELECTION.JPG",
+        "date": "Oct 26, 2026",
+        "url": "https://www.thehindubusinessline.com/news/world/five-economic-challenges-facing-brazils-re-elected-president-lula/article71625501.ece"
+    },
+    {
+        "id": "s368lrzni",
+        "title": "Asian shares cautious ahead of central bank meetings, AI earnings",
+        "excerpt": "Japan's Nikkei dipped 0.8%, after losing 4.0% last week, while South Korea fell 0.4%, having shed almost 19% so far this month",
+        "content": "<p>Japan's Nikkei dipped 0.8%, after losing 4.0% last week, while South Korea fell 0.4%, having shed almost 19% so far this month</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/04/thumb/fitandfill/1200X628/1767499942-1329.jpg",
+        "date": "Oct 26, 2026",
+        "url": "https://www.business-standard.com/markets/news/asian-shares-cautious-ahead-of-central-bank-meetings-ai-earnings-126102600044_1.html"
+    },
+    {
         "id": "qy624g2hs",
         "title": "Man's murder, wife's death feed into local legend of \"cursed\" mansion",
         "excerpt": "When Mike Harding, a California transplant, spotted a majestic mansion in Celina, Tennessee, he thought he'd found the dream retirement home for himself and his wife, Julie. But those dreams ended abruptly when Mike suddenly went missing in 2022.",
