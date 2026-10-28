@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "yfrpd8d4n",
+        "title": "Nvidia says GPUs last 8 years, unlocking AI financing",
+        "excerpt": "After the GTC Berlin conference, Nvidia CEO Jensen Huang and Silicon Valley technology investor Gavin Baker spoke with Yahoo Finance for about half an hour. Huang confirmed Nvidia GPUs can remain in service for up to eight years and said their high residual v…",
+        "content": "<p>After the GTC Berlin conference, Nvidia CEO Jensen Huang and Silicon Valley technology investor Gavin Baker spoke with Yahoo Finance for about half an hour. Huang confirmed Nvidia GPUs can remain in service for up to eight years and said their high residual v…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20261027pd203_files/3_b.jpg",
+        "date": "Oct 27, 2026",
+        "url": "https://www.digitimes.com/news/a20261027PD203/nvidia-financing-gtc-berlin-ceo.html"
+    },
+    {
+        "id": "nk20idyf7",
+        "title": "中国政府が公道での自動運転システムのテストをフォルクスワーゲンと小鵬に許可",
+        "excerpt": "フォルクスワーゲンと中国のEVメーカー・小鵬汽車(Xpeng)が、中国国内の公道で自動運転システムのテストをする許可を取得したことがわかりました。フォルクスワーゲンは自動運転レベル3、小鵬は自動運転レベル4のテストを行うとみられます。XPENG Robotaxi Granted L4 Demonstration Operation Qualification in Guangzhou, Accelerating Physical AI Commercializationhttps://www.xpeng.com/…",
+        "content": "<p>フォルクスワーゲンと中国のEVメーカー・小鵬汽車(Xpeng)が、中国国内の公道で自動運転システムのテストをする許可を取得したことがわかりました。フォルクスワーゲンは自動運転レベル3、小鵬は自動運転レベル4のテストを行うとみられます。XPENG Robotaxi Granted L4 Demonstration Operation Qualification in Guangzhou, Accelerating Physical AI Commercializationhttps://www.xpeng.com/…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://image.news.livedoor.com/newsimage/stf/9/c/9c700_88_cfe5f2badcef202080bbdb4dcabdd370.jpg",
+        "date": "Oct 27, 2026",
+        "url": "https://news.livedoor.com/article/detail/32666983/"
+    },
+    {
+        "id": "j7tg0rzl0",
+        "title": "New Queensland laws ironing out a legal loophole on pornographic 'deepfakes'",
+        "excerpt": "The proposed laws introduce a maximum penalty of three years in jail for adult offenders, and 18 months behind bars for children.",
+        "content": "<p>The proposed laws introduce a maximum penalty of three years in jail for adult offenders, and 18 months behind bars for children.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/0677389f3f44887ee189e80649175743?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=97&width=862&height=485&imformat=generic",
+        "date": "Oct 27, 2026",
+        "url": "https://www.abc.net.au/news/2026-10-27/new-ai-deepfake-laws-in-queensland/107313374"
+    },
+    {
+        "id": "hkyuw3voa",
+        "title": "Anthropic relies on rival Google, Amazon, Microsoft for 48% of revenue",
+        "excerpt": "Amazon, Google and Microsoft customers can buy access to Anthropic's AI models through their existing cloud accounts. The cloud providers bill the customer, keep a fee and pass the rest to Anthropic",
+        "content": "<p>Amazon, Google and Microsoft customers can buy access to Anthropic's AI models through their existing cloud accounts. The cloud providers bill the customer, keep a fee and pass the rest to Anthropic</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/27/thumb/fitandfill/1200X628/1793071694-0803.jpg",
+        "date": "Oct 27, 2026",
+        "url": "https://www.business-standard.com/world-news/anthropic-relies-on-rival-google-amazon-microsoft-for-48-of-revenue-126102700125_1.html"
+    },
+    {
+        "id": "1y0wcnniu",
+        "title": "[Podcast] 10 Design Industry Beliefs That Might Be Complete Bullshit with Massimo Zefferino",
+        "excerpt": "With over 25 years of experience and a seven-figure design agency under his belt, Massimo brings hard-earned insights, strong opinions and a willingness to challenge industry norms.",
+        "content": "<p>With over 25 years of experience and a seven-figure design agency under his belt, Massimo brings hard-earned insights, strong opinions and a willingness to challenge industry norms.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://justcreative.com/wp-content/uploads/2026/10/massimo-youtube-80.jpg",
+        "date": "Oct 27, 2026",
+        "url": "https://justcreative.com/design-industry-beliefs/"
+    },
+    {
+        "id": "6308edsba",
+        "title": "Motilal Oswal sector of the week: Auto; TVS Motor, Bajaj Auto top picks",
+        "excerpt": "Motilal Oswal Wealth Management Research Desk remains constructive on the auto sector, while expecting volume growth to moderate from the elevated levels seen in 1HFY27.",
+        "content": "<p>Motilal Oswal Wealth Management Research Desk remains constructive on the auto sector, while expecting volume growth to moderate from the elevated levels seen in 1HFY27.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/10/thumb/fitandfill/1200X628/1639129924-72.jpg",
+        "date": "Oct 27, 2026",
+        "url": "https://www.business-standard.com/markets/news/motilal-oswal-sector-of-the-week-auto-tvs-motor-bajaj-auto-top-picks-126102700106_1.html"
+    },
+    {
+        "id": "0pq1101ca",
+        "title": "Stark County high school volleyball, soccer scores for Oct. 26-31",
+        "excerpt": "A look at Stark County-area high school cross country results, and OHSAA volleyball and soccer scores and recaps for Oct. 26-31.",
+        "content": "<p>A look at Stark County-area high school cross country results, and OHSAA volleyball and soccer scores and recaps for Oct. 26-31.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/abe3a712c4b354a8e5469f7ca30b96e5ef23d063494a710433050ae3f04cdad8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-repository%2Fbebe032b9615fae3caa7bc43ba5b65df.jpg",
+        "date": "Oct 27, 2026",
+        "url": "https://www.cantonrep.com/story/sports/high-school/2026/10/26/ohio-high-school-soccer-scores-stark-county-volleyball-cross-country-results/92339962007/"
+    },
+    {
+        "id": "aaqytckr8",
+        "title": "Benjamin Netanyahu: Israel's longest-serving PM fighting for survival",
+        "excerpt": "Prime Minister Benjamin Netanyahu, Israel's consummate political survivor, faces the fight of his life in Tuesday's election as he tries to convince voters he is still the only candidate capable of keeping them safe. In 1996, in the first election after the a…",
+        "content": "<p>Prime Minister Benjamin Netanyahu, Israel's consummate political survivor, faces the fight of his life in Tuesday's election as he tries to convince voters he is still the only candidate capable of keeping them safe. In 1996, in the first election after the a…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-135223067,width-1200,height-900,imgsize-64560,overlay-economictimes/articleshow.jpg",
+        "date": "Oct 27, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/benjamin-netanyahu-israels-longest-serving-pm-fighting-for-survival/articleshow/135223002.cms"
+    },
+    {
+        "id": "bbirph731",
+        "title": "Patriots’ Mike Vrabel refuses to comment on $250,000 fine for behavior to officials",
+        "excerpt": "The New England Patriots haven’t exactly been happy with the play of AJ Brown. And they couldn’t handle the Bears in their most recent game. Furthermore, head coach Mike Vrabel got a $250,000 fine for his behavior toward officials, but he had no comment on it…",
+        "content": "<p>The New England Patriots haven’t exactly been happy with the play of AJ Brown. And they couldn’t handle the Bears in their most recent game. Furthermore, head coach Mike Vrabel got a $250,000 fine for his behavior toward officials, but he had no comment on it…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/cc203e2d8aa226473e6a8a49e49ec21ed4160bf32633d0bec3eb3be30642b407/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F6fbee53901b4aabd8f8bdce63b54ec67.jpg",
+        "date": "Oct 27, 2026",
+        "url": "https://clutchpoints.com/nfl/new-england-patriots/patriots-news-mike-vrabel-refuses-comment-250000-fine-behavior-officials"
+    },
+    {
+        "id": "magja7leb",
+        "title": "Cutting both ways: AI sharpens systems protection while opening new exploits for malicious actors",
+        "excerpt": "The cybersecurity industry is discovering that powerful frontier AI models are a double-edged sword. Companies can use models to identify vulnerabilities in source code and system configurations faster than ever before. As it turns out, malicious actors can d…",
+        "content": "<p>The cybersecurity industry is discovering that powerful frontier AI models are a double-edged sword. Companies can use models to identify vulnerabilities in source code and system configurations faster than ever before. As it turns out, malicious actors can d…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/AI-Security_-Protection-vs-Attacks.jpg",
+        "date": "Oct 27, 2026",
+        "url": "https://siliconangle.com/2026/10/26/cybersecurity-ai-resilience-recovery-thecube-aicybersecurityresiliencesummit/"
+    },
+    {
         "id": "of17nbdv8",
         "title": "The Debate Over the Maldives’ Deal with Eagle Hills",
         "excerpt": "Handing over prime land in a land-scarce country, on an island pitched as a lasting solution to an acute housing crisis, warrants deeper scrutiny.",
