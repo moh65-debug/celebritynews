@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "4yyt8re97",
+        "title": "Oracle NetSuite Sees India As Key Market For AI-Driven SME Expansion",
+        "excerpt": "Oracle NetSuite identifies India as one of its highest-priority markets, noting that small businesses, particularly outside major metros, are increasingly leveraging artificial intelligence (AI) and cloud technologies to expand domestically and internationall…",
+        "content": "<p>Oracle NetSuite identifies India as one of its highest-priority markets, noting that small businesses, particularly outside major metros, are increasingly leveraging artificial intelligence (AI) and cloud technologies to expand domestically and internationall…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://im.rediff.com/1200-630/getahead/2017/apr/artificial-intelligence.jpg",
+        "date": "Oct 28, 2026",
+        "url": "https://www.rediff.com/business/report/india-a-high-priority-market-for-oracle-netsuite/20261028.htm"
+    },
+    {
+        "id": "o1wdcxxlb",
+        "title": "The AI trade is roaring back in South Korea, where the profits are getting harder to ignore",
+        "excerpt": "South Korean stocks surged as SK Hynix's record profits fueled the AI trade, following months of volatility and concerns over massive AI spending.",
+        "content": "<p>South Korean stocks surged as SK Hynix's record profits fueled the AI trade, following months of volatility and concerns over massive AI spending.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.insider.com/6ae1631cca24d51c5f89fa57?width=1200&format=jpeg",
+        "date": "Oct 28, 2026",
+        "url": "https://www.businessinsider.com/kospi-stock-index-today-sk-hynix-skhy-earnings-ai-trade-2026-10#article"
+    },
+    {
+        "id": "07jhbw1t4",
+        "title": "IT stocks drag Sensex, Nifty lower at open; Jio Platforms debut, Fed decision in focus",
+        "excerpt": "Indian equities open lower as IT stocks drag Sensex/Nifty; Jio Platforms debut amid Fed decision focus and global macro cues.",
+        "content": "<p>Indian equities open lower as IT stocks drag Sensex/Nifty; Jio Platforms debut amid Fed decision focus and global macro cues.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/sd44rq/article71630279.ece/alternates/LANDSCAPE_1200/iStock-1255683032%201.jpg",
+        "date": "Oct 28, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/it-stocks-drag-sensex-nifty-lower-at-open-jio-platforms-debut-fed-decision-in-focus/article71634253.ece"
+    },
+    {
+        "id": "qpqmmcalp",
+        "title": "Savannah Chrisley’s New Fiance Jason Galanis Was in Prison with Her Dad, Was Also Freed by Trump",
+        "excerpt": "New details about Savannah Chrisley‘s new fiance Jason Galanis have been revealed, including his surprising connection to her father, Todd […]\nThe post Savannah Chrisley’s New Fiance Jason Galanis Was in Prison with Her Dad, Was Also Freed by Trump appeared f…",
+        "content": "<p>New details about Savannah Chrisley‘s new fiance Jason Galanis have been revealed, including his surprising connection to her father, Todd […]\nThe post Savannah Chrisley’s New Fiance Jason Galanis Was in Prison with Her Dad, Was Also Freed by Trump appeared f…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/savannah-chrisley-fiance-father.jpg",
+        "date": "Oct 28, 2026",
+        "url": "https://www.justjared.com/2026/10/28/savannah-chrisleys-new-fiance-jason-galanis-was-in-prison-with-her-dad-was-also-freed-by-trump/"
+    },
+    {
+        "id": "6ivn1kw0s",
+        "title": "EXCLUSIVE: Offe Market Raises $3 Million to Shake Up Off-Price Retail",
+        "excerpt": "The Los Angeles-based marketplace, founded by Rachel Gannon, is investing in AI-powered inventory management and personalized shopping as it expands its roster of more than 200 brands.",
+        "content": "<p>The Los Angeles-based marketplace, founded by Rachel Gannon, is investing in AI-powered inventory management and personalized shopping as it expands its roster of more than 200 brands.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://wwd.com/wp-content/uploads/2026/10/03-Store_0816.jpg?w=1000&h=563&crop=1",
+        "date": "Oct 28, 2026",
+        "url": "http://wwd.com/fashion-news/fashion-features/offe-market-3-million-seed-funding-off-price-retail-1239388003/"
+    },
+    {
+        "id": "7dhn7eiw3",
+        "title": "Creators are now classified as small businesses, but what does that actually mean?",
+        "excerpt": "The Small Business Administration has officially welcomed creators under its umbrella; let's unpack what that means for brands, creators, and the economy at large.",
+        "content": "<p>The Small Business Administration has officially welcomed creators under its umbrella; let's unpack what that means for brands, creators, and the economy at large.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/08/fencing-creators-digiday_8d009d.png",
+        "date": "Oct 28, 2026",
+        "url": "http://digiday.com/media/creators-are-now-classified-as-small-businesses-but-what-does-that-actually-mean/"
+    },
+    {
+        "id": "iifza2wx8",
+        "title": "Carlsberg India files updated IPO prospectus for 86.42 million shares",
+        "excerpt": "This is the first public IPO ‌prospectus from Carlsberg India, which had confidentially filed papers for the planned offering in July",
+        "content": "<p>This is the first public IPO ‌prospectus from Carlsberg India, which had confidentially filed papers for the planned offering in July</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/21/thumb/fitandfill/1200X628/1792569706-0156.jpg",
+        "date": "Oct 28, 2026",
+        "url": "https://www.business-standard.com/markets/news/carlsberg-india-files-updated-ipo-prospectus-for-86-42-million-shares-126102800133_1.html"
+    },
+    {
+        "id": "vs3gfapz2",
+        "title": "Inde Navarrette Joins ‘SNL’ Cast & Crew for Tuesday Kickoff Dinner (Photos)",
+        "excerpt": "Inde Navarrette is hosting this weekend’s episode of Saturday Night Live and she just kicked off the week with a […]\nThe post Inde Navarrette Joins ‘SNL’ Cast & Crew for Tuesday Kickoff Dinner (Photos) appeared first on Just Jared - Celebrity News, Entertainm…",
+        "content": "<p>Inde Navarrette is hosting this weekend’s episode of Saturday Night Live and she just kicked off the week with a […]\nThe post Inde Navarrette Joins ‘SNL’ Cast & Crew for Tuesday Kickoff Dinner (Photos) appeared first on Just Jared - Celebrity News, Entertainm…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/inde-navarrette-snl-dinner0.jpg",
+        "date": "Oct 28, 2026",
+        "url": "https://www.justjared.com/2026/10/27/inde-navarrette-joins-snl-cast-crew-for-tuesday-kickoff-dinner-photos/"
+    },
+    {
+        "id": "a3ryddtej",
+        "title": "Kylie Kelce Reveals Boundary She Set With Her & Jason’s Parents for Their Daughters",
+        "excerpt": "Kylie Kelce has strict rules regarding her daughter’s boundaries, even amongst family. The 34-year-old podcast host revealed in a new […]\nThe post Kylie Kelce Reveals Boundary She Set With Her & Jason’s Parents for Their Daughters appeared first on Just Jared…",
+        "content": "<p>Kylie Kelce has strict rules regarding her daughter’s boundaries, even amongst family. The 34-year-old podcast host revealed in a new […]\nThe post Kylie Kelce Reveals Boundary She Set With Her & Jason’s Parents for Their Daughters appeared first on Just Jared…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/jason-kelce-kylie-kids-boundaries.jpg",
+        "date": "Oct 28, 2026",
+        "url": "https://www.justjared.com/2026/10/27/kylie-kelce-reveals-boundary-she-set-with-her-jasons-parents-for-their-daughters/"
+    },
+    {
+        "id": "kk46w1ax2",
+        "title": "4.3%: What do today's hot inflation numbers mean for ASX shares?",
+        "excerpt": "Today's hot inflation numbers could be bad news for shares...\nThe post 4.3%: What do today's hot inflation numbers mean for ASX shares? appeared first on The Motley Fool Australia.",
+        "content": "<p>Today's hot inflation numbers could be bad news for shares...\nThe post 4.3%: What do today's hot inflation numbers mean for ASX shares? appeared first on The Motley Fool Australia.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.fool.com.au/wp-content/uploads/2023/09/GettyImages-1466028642-1-1200x675.jpg",
+        "date": "Oct 28, 2026",
+        "url": "https://www.fool.com.au/2026/10/28/4-3-what-do-todays-hot-inflation-numbers-mean-for-asx-shares/"
+    },
+    {
         "id": "yfrpd8d4n",
         "title": "Nvidia says GPUs last 8 years, unlocking AI financing",
         "excerpt": "After the GTC Berlin conference, Nvidia CEO Jensen Huang and Silicon Valley technology investor Gavin Baker spoke with Yahoo Finance for about half an hour. Huang confirmed Nvidia GPUs can remain in service for up to eight years and said their high residual v…",
