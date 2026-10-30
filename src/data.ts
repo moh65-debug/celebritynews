@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "u0418fkn2",
+        "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models: Report",
+        "excerpt": "‌The practice, known as distillation, has become a flashpoint for ‌leading AI companies as US-China ‌technology competition ⁠intensifies, with firms arguing it ⁠allows rivals to reproduce advanced capabilities more quickly and cheaply",
+        "content": "<p>‌The practice, known as distillation, has become a flashpoint for ‌leading AI companies as US-China ‌technology competition ⁠intensifies, with firms arguing it ⁠allows rivals to reproduce advanced capabilities more quickly and cheaply</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/efwbm8/article71638966.ece/alternates/LANDSCAPE_1200/2026-10-22T160354Z_473746185_RC2B6OACN2ND_RTRMADP_3_OPENAI-VULNERABILITIES.JPG",
+        "date": "Oct 29, 2026",
+        "url": "https://www.thehindubusinessline.com/info-tech/deepseek-moonshot-used-openaisgpt-6-astra-to-train-latest-models-report/article71638817.ece"
+    },
+    {
+        "id": "okcwtv4x9",
+        "title": "‘We have run down our stock of missiles’: Obama asks 'how is this war going' - watch",
+        "excerpt": "Former US president Barack Obama has renewed his criticism of president Donald Trump’s war against Iran, saying the conflict has depleted US missile",
+        "content": "<p>Former US president Barack Obama has renewed his criticism of president Donald Trump’s war against Iran, saying the conflict has depleted US missile</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.toiimg.com/thumb/msid-135289535,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Oct 29, 2026",
+        "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/we-have-run-down-our-stock-of-missiles-obama-asks-how-is-this-war-going-watch/articleshow/135289480.cms"
+    },
+    {
+        "id": "8srrhk4eb",
+        "title": "Ernie Johnson Is Irreplaceable, but Inside the NBA Could Have a Future On ESPN",
+        "excerpt": "\"ESPN has an opportunity to use this moment not to preserve something that can never be replicated, but to build something that feels authentic to the next generation of basketball fans.\" The post Ernie Johnson Is Irreplaceable, but Inside the NBA Could Have …",
+        "content": "<p>\"ESPN has an opportunity to use this moment not to preserve something that can never be replicated, but to build something that feels authentic to the next generation of basketball fans.\" The post Ernie Johnson Is Irreplaceable, but Inside the NBA Could Have …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/d2b8825bf38b6089d29f22d0eacf2ddfb58b10ddc9320184430bfccae19062c8/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarrett_media_699%2Fc3c93a603680d065976c8ade56ef4247.jpg",
+        "date": "Oct 29, 2026",
+        "url": "https://barrettmedia.com/2026/10/29/ernie-johnson-irreplaceable-inside-the-nba-espn/"
+    },
+    {
+        "id": "d07t5ypn3",
+        "title": "Nvidia unveils DSX POD server racks to speed up AI factory buildouts",
+        "excerpt": "Nvidia's DSX PODs could revolutionize AI infrastructure by drastically reducing setup time, potentially accelerating AI advancements and economic gains.\nThe post Nvidia unveils DSX POD server racks to speed up AI factory buildouts appeared first on Crypto Bri…",
+        "content": "<p>Nvidia's DSX PODs could revolutionize AI infrastructure by drastically reducing setup time, potentially accelerating AI advancements and economic gains.\nThe post Nvidia unveils DSX POD server racks to speed up AI factory buildouts appeared first on Crypto Bri…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/29000619/library-nvidia-unveils-dsx-pod-server-racks-to-speed-up-ai-facto-800x450.png",
+        "date": "Oct 29, 2026",
+        "url": "https://cryptobriefing.com/nvidia-dsx-pod-ai-factory-racks/"
+    },
+    {
+        "id": "t44571cso",
+        "title": "Show HN: Real Time AI Heat Map Sourced from over 140 News Feeds",
+        "excerpt": "An interactive heat map of the AI companies, models, products, people and ideas getting the most attention in AI news over the last 7 days.",
+        "content": "<p>An interactive heat map of the AI companies, models, products, people and ideas getting the most attention in AI news over the last 7 days.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://ai-news.jagular.io/og-image.png",
+        "date": "Oct 29, 2026",
+        "url": "https://ai-news.jagular.io/"
+    },
+    {
+        "id": "enyg4j3wm",
+        "title": "Retailers are still figuring out how to tie AI goals to executive compensation",
+        "excerpt": "AI is starting to show up more in conversations around executive incentive plans. But those conversations are still largely relegated to the tech industry. Here's why it's still an anomaly in retail.",
+        "content": "<p>AI is starting to show up more in conversations around executive incentive plans. But those conversations are still largely relegated to the tech industry. Here's why it's still an anomaly in retail.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/09/sponsored-robot-hand-digiday.001.jpeg",
+        "date": "Oct 29, 2026",
+        "url": "http://digiday.com/marketing/retailers-are-still-figuring-out-how-to-tie-ai-goals-to-executive-compensation/"
+    },
+    {
+        "id": "qof8ar61t",
+        "title": "Media Briefing: Publishers are selling more subscriptions to smaller audiences. The midterms are the next test.",
+        "excerpt": "Ahead of the U.S. midterms and with referral traffic declines, news publishers are racing to turn election interest into paying subscribers.",
+        "content": "<p>Ahead of the U.S. midterms and with referral traffic declines, news publishers are racing to turn election interest into paying subscribers.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2021/01/subscribe-news.jpg",
+        "date": "Oct 29, 2026",
+        "url": "http://digiday.com/media/media-briefing-publishers-are-selling-more-subscriptions-to-smaller-audiences-the-midterms-are-the-next-test/"
+    },
+    {
+        "id": "q7larfehx",
+        "title": "Huawei launches 8,800mAh phone with up to 512GB storage",
+        "excerpt": "Huawei has launched the Enjoy 100 Pro Max in China with an 8,800mAh battery. It runs HarmonyOS 7 and comes with either the Kirin 8020A or Kirin 8020 chipset, depending on the storage configuration.",
+        "content": "<p>Huawei has launched the Enjoy 100 Pro Max in China with an 8,800mAh battery. It runs HarmonyOS 7 and comes with either the Kirin 8020A or Kirin 8020 chipset, depending on the storage configuration.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/huawei-new-phone-enjoy-100-pro-max-news.png",
+        "date": "Oct 29, 2026",
+        "url": "https://www.notebookcheck.net/Huawei-launches-8-800mAh-phone-with-up-to-512GB-storage.1436311.0.html"
+    },
+    {
+        "id": "45maq1mxn",
+        "title": "Huawei officially launches 8,800mAh phone with 120Hz OLED display",
+        "excerpt": "Huawei has launched the Enjoy 100 Pro Max in China with an 8,800mAh battery. It runs HarmonyOS 7 and comes with either the Kirin 8020A or Kirin 8020 chipset, depending on the storage configuration.",
+        "content": "<p>Huawei has launched the Enjoy 100 Pro Max in China with an 8,800mAh battery. It runs HarmonyOS 7 and comes with either the Kirin 8020A or Kirin 8020 chipset, depending on the storage configuration.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/huawei-enjoy-100-pro-max-news-official.png",
+        "date": "Oct 29, 2026",
+        "url": "https://www.notebookcheck.net/Huawei-officially-launches-8-800mAh-phone-with-120Hz-OLED-display.1436311.0.html"
+    },
+    {
+        "id": "71v9sy33v",
+        "title": "Is Ryan Seacrest Dating Anyone? ‘Wheel of Fortune’ Host Shares Rare Update on His Relationship Status!",
+        "excerpt": "Ryan Seacrest is sharing some very rare comments about his love life! During the Wednesday episode of his radio show, […]\nThe post Is Ryan Seacrest Dating Anyone? ‘Wheel of Fortune’ Host Shares Rare Update on His Relationship Status! appeared first on Just Ja…",
+        "content": "<p>Ryan Seacrest is sharing some very rare comments about his love life! During the Wednesday episode of his radio show, […]\nThe post Is Ryan Seacrest Dating Anyone? ‘Wheel of Fortune’ Host Shares Rare Update on His Relationship Status! appeared first on Just Ja…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/ryan-seacrest-relationship-update.jpg",
+        "date": "Oct 29, 2026",
+        "url": "https://www.justjared.com/2026/10/28/is-ryan-seacrest-dating-anyone-wheel-of-fortune-host-shares-rare-update-on-his-relationship-status/"
+    },
+    {
         "id": "4yyt8re97",
         "title": "Oracle NetSuite Sees India As Key Market For AI-Driven SME Expansion",
         "excerpt": "Oracle NetSuite identifies India as one of its highest-priority markets, noting that small businesses, particularly outside major metros, are increasingly leveraging artificial intelligence (AI) and cloud technologies to expand domestically and internationall…",
