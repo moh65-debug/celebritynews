@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "n46hoplje",
+        "title": "Is China Indirectly Enabling America’s Adversaries?",
+        "excerpt": "Photo Credit:\n \n AI for American ThinkerBy A. JathindraChinese technology and commercial ties are helping the Houthis and Russia challenge U.S. interests, raising questions about Beijing’s strategic intentions.",
+        "content": "<p>Photo Credit:\n \n AI for American ThinkerBy A. JathindraChinese technology and commercial ties are helping the Houthis and Russia challenge U.S. interests, raising questions about Beijing’s strategic intentions.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.americanthinker.com/et/etaop1tgbl0mabsoslcn_1200.jpg",
+        "date": "Oct 30, 2026",
+        "url": "https://www.americanthinker.com/articles/2026/10/is-china-indirectly-enabling-america-s-adversaries/"
+    },
+    {
+        "id": "rffux1kbg",
+        "title": "First Look: What's Actually New in the 14-Inch M6 MacBook Pro?",
+        "excerpt": "The new M6 model is a minor update, but it could be a big deal if you're already planning on upgrading. I tried it at Apple's launch event in Los Angeles, then sifted through the details to see where it lands.\nLOS ANGELES—In its deluge of updates during the l…",
+        "content": "<p>The new M6 model is a minor update, but it could be a big deal if you're already planning on upgrading. I tried it at Apple's launch event in Los Angeles, then sifted through the details to see where it lands.\nLOS ANGELES—In its deluge of updates during the l…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://sm.pcmag.com/t/pcmag_me/news/f/first-look/first-look-whats-actually-new-in-the-14-inch-m6-macbook-pro_9qzv.1200.jpg",
+        "date": "Oct 30, 2026",
+        "url": "https://me.pcmag.com/en/laptops/38485/first-look-whats-actually-new-in-the-14-inch-m6-macbook-pro"
+    },
+    {
+        "id": "qfrhe2sjc",
+        "title": "“I Didn’t Live Up to the Standards”: Brian Kelly Makes Honest Admission About Getting Fired by LSU",
+        "excerpt": "Brian Kelly came into Baton Rouge with one objective in mind: win a national championship. He never managed to achieve the objective, not even reaching the College Football Playoff once during his four seasons with the LSU Tigers.",
+        "content": "<p>Brian Kelly came into Baton Rouge with one objective in mind: win a national championship. He never managed to achieve the objective, not even reaching the College Football Playoff once during his four seasons with the LSU Tigers.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/dfdb309184135aafd95dcb17bb9e03a002b657dfe47e458c01ee40aafad2cf36/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcollege_football_network_979%2Ff7d32921e9066a2294ca91326e4ff1f1.jpg",
+        "date": "Oct 30, 2026",
+        "url": "https://collegefootballnetwork.com/i-didnt-live-up-to-the-standards-brian-kelly-makes-honest-admission-about-getting-fired-by-lsu/?utm_medium=rss&amp;utm_source=nordot"
+    },
+    {
+        "id": "1wuq4uhgs",
+        "title": "AI Built a Photoshop Clone in a Day. I Asked Experts What Happens Next",
+        "excerpt": "Brandon Thomas built PhotoCraft, a free Photoshop rival, in about 24 hours. I asked him, rival developers, and a lawyer whether AI clones are legal, reliable, or ethical.\nAI coding tools have graduated from helpful autocomplete bots to full-blown software eng…",
+        "content": "<p>Brandon Thomas built PhotoCraft, a free Photoshop rival, in about 24 hours. I asked him, rival developers, and a lawyer whether AI clones are legal, reliable, or ethical.\nAI coding tools have graduated from helpful autocomplete bots to full-blown software eng…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://sm.pcmag.com/t/pcmag_me/news/a/ai-built-a/ai-built-a-photoshop-clone-in-a-day-i-asked-experts-what-hap_cr5p.1200.jpg",
+        "date": "Oct 30, 2026",
+        "url": "https://me.pcmag.com/en/ai/38479/ai-built-a-photoshop-clone-in-a-day-i-asked-experts-what-happens-next"
+    },
+    {
+        "id": "nm4a26c1d",
+        "title": "Céline Dion’s Paris Comeback Shows Grossed Over $125 Million",
+        "excerpt": "Céline Dion‘s Parisian comeback tour has banked more than $125 million! The 58-year-old singing icon returned to the stage this […]\nThe post Céline Dion’s Paris Comeback Shows Grossed Over $125 Million appeared first on Just Jared - Celebrity News, Entertainm…",
+        "content": "<p>Céline Dion‘s Parisian comeback tour has banked more than $125 million! The 58-year-old singing icon returned to the stage this […]\nThe post Céline Dion’s Paris Comeback Shows Grossed Over $125 Million appeared first on Just Jared - Celebrity News, Entertainm…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/celine-dion-comeback-shows-grosses.jpg",
+        "date": "Oct 30, 2026",
+        "url": "https://www.justjared.com/2026/10/29/celine-dions-paris-comeback-shows-grossed-over-125-million/"
+    },
+    {
+        "id": "notqeg9i5",
+        "title": "‘What a Joke,’ ‘This League Keeps You on Your Toes’ — NFL Fans Irritated as Unknown Drone Delays Panthers-Packers TNF Clash",
+        "excerpt": "It had already been a bumpy night at Lambeau Field for the Green Bay Packers and Carolina Panthers, and then came an interruption from above that nobody had planned for. With the Packers leading 20-10 and facing third-and-1 inside the Panthers’ 10 in the thir…",
+        "content": "<p>It had already been a bumpy night at Lambeau Field for the Green Bay Packers and Carolina Panthers, and then came an interruption from above that nobody had planned for. With the Packers leading 20-10 and facing third-and-1 inside the Panthers’ 10 in the thir…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/17ea88bfd58baaa43a782990629cf09f34fa26b435de4974a9eb6a11cf1aa6ba/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F84de8e25f6e5e5e8ab88edb0537a1e10.jpg",
+        "date": "Oct 30, 2026",
+        "url": "https://www.profootballnetwork.com/drone-delays-panthers-packers-fans-react-tnf-week-8/?utm_medium=rss&amp;utm_source=nordot"
+    },
+    {
+        "id": "y6ikvleu8",
+        "title": "Jordan Love For MVP? 3 Takeaways From Packers' Win Over Panthers",
+        "excerpt": "Jordan Love should be considered an MVP candidate is among the things we learned from the Packers' win over the Panthers.",
+        "content": "<p>Jordan Love should be considered an MVP candidate is among the things we learned from the Packers' win over the Panthers.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/62494ca4-jordan-love-takeaways.jpg?ve=1&tl=1",
+        "date": "Oct 30, 2026",
+        "url": "https://www.foxsports.com/stories/nfl/jordan-love-mvp-packers-panthers-takeaways"
+    },
+    {
+        "id": "4q2xibjws",
+        "title": "NASA astronaut reveals reason he is convinced aliens exist as he warns of possible war in space",
+        "excerpt": "A veteran NASA astronaut has revealed how he knows there is intelligent life in outer space, and issued a dark warning about a military showdown in orbit.",
+        "content": "<p>A veteran NASA astronaut has revealed how he knows there is intelligent life in outer space, and issued a dark warning about a military showdown in orbit.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://i.dailymail.com/1s/2026/10/29/18/112178221-0-image-m-27_1793299960170.jpg",
+        "date": "Oct 30, 2026",
+        "url": "https://www.dailymail.com/sciencetech/article-16249871/nasa-astronaut-winston-scott-aliens-space-war.html"
+    },
+    {
+        "id": "6y9jliljq",
+        "title": "Dua Lipa, Cara Delevingne, Ciara & Russell Wilson Join Rosalía at WSJ Innovator Awards 2026",
+        "excerpt": "The 2026 WSJ Innovator Awards brought a wide-ranging guest list to the MOMA in New York City on Thursday night […]\nThe post Dua Lipa, Cara Delevingne, Ciara & Russell Wilson Join Rosalía at WSJ Innovator Awards 2026 appeared first on Just Jared - Celebrity Ne…",
+        "content": "<p>The 2026 WSJ Innovator Awards brought a wide-ranging guest list to the MOMA in New York City on Thursday night […]\nThe post Dua Lipa, Cara Delevingne, Ciara & Russell Wilson Join Rosalía at WSJ Innovator Awards 2026 appeared first on Just Jared - Celebrity Ne…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/2026-wsj-awards.jpg",
+        "date": "Oct 30, 2026",
+        "url": "https://www.justjared.com/2026/10/29/dua-lipa-cara-delevingne-ciara-russell-wilson-join-rosalia-at-wsj-innovator-awards-2026/"
+    },
+    {
+        "id": "mezgayyvu",
+        "title": "Thursday night high school football highlights and scores",
+        "excerpt": "(WJHL) — A few teams in Northeast Tennessee and Southwest Virginia got an early start on Halloween by playing their football games on Thursday night. Cloudland 26, Hampton 16 Gatlinburg-Pittman 40, Chuckey-Doak 21 Graham 44, Tazewell 13 Marion 41, Richlands 1…",
+        "content": "<p>(WJHL) — A few teams in Northeast Tennessee and Southwest Virginia got an early start on Halloween by playing their football games on Thursday night. Cloudland 26, Hampton 16 Gatlinburg-Pittman 40, Chuckey-Doak 21 Graham 44, Tazewell 13 Marion 41, Richlands 1…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/0983ff507378ae96be50057778caf696a4408ce95957da787356aa71aa124062/lightyear_networkapi/resizefill_w900_h504%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwjhl_tri_cities_articles_267%2Fc07df31b67a219cae9b4465ba9debfbc.jpg",
+        "date": "Oct 30, 2026",
+        "url": "https://www.wjhl.com/sports/high-school-sports/thursday-night-high-school-football-highlights-and-scores-10-29-26/"
+    },
+    {
         "id": "u0418fkn2",
         "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models: Report",
         "excerpt": "‌The practice, known as distillation, has become a flashpoint for ‌leading AI companies as US-China ‌technology competition ⁠intensifies, with firms arguing it ⁠allows rivals to reproduce advanced capabilities more quickly and cheaply",
