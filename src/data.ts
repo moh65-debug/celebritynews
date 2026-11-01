@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ow6vdiizh",
+        "title": "Jio Platforms profit zooms 14% on healthy user mix, digital play",
+        "excerpt": "Jio Platforms has unveiled an impressive 14% net profit growth to ₹8,387 crore for the September quarter, achieving a milestone subscriber count of 542 million, which includes 300 million utilizing 5G services. Revenue from operations climbed to ₹40,475 crore…",
+        "content": "<p>Jio Platforms has unveiled an impressive 14% net profit growth to ₹8,387 crore for the September quarter, achieving a milestone subscriber count of 542 million, which includes 300 million utilizing 5G services. Revenue from operations climbed to ₹40,475 crore…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135387724,width-1200,height-900,imgsize-2377649,overlay-etmarkets/articleshow.jpg",
+        "date": "Oct 31, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-profit-zooms-14-on-healthy-user-mix-digital-play/articleshow/135387627.cms"
+    },
+    {
+        "id": "damwj1fcj",
+        "title": "Building the Internet We Want: Law for a Connected World",
+        "excerpt": "Prof Dennis Crouch introduces Building the Internet We Want, a new book on speech, privacy, AI, contracts and the laws shaping our digital lives.\nContinue reading this post on Patently-O.",
+        "content": "<p>Prof Dennis Crouch introduces Building the Internet We Want, a new book on speech, privacy, AI, contracts and the laws shaping our digital lives.\nContinue reading this post on Patently-O.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.patentlyo.com/media/2026/10/81uV0erH95L._SL1500_-717x1024.jpg",
+        "date": "Oct 31, 2026",
+        "url": "https://patentlyo.com/patent/2026/10/building-the-internet-we-want-law-for-a-connected-world.html"
+    },
+    {
+        "id": "z7ocm5yna",
+        "title": "Top 10&10 | RIL hits a Q2 high, Jio adds to the cheer; market gains 2nd straight session",
+        "excerpt": "Top 10@10 — CNBC-TV18’s daily newsletter featuring the top 10 stories on markets, corporate updates, economic insights, and financial highlights — delivered at 10 pm.",
+        "content": "<p>Top 10@10 — CNBC-TV18’s daily newsletter featuring the top 10 stories on markets, corporate updates, economic insights, and financial highlights — delivered at 10 pm.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.cnbctv18.com/uploads/2026/09/top-1010-newsletter-sheersh-2026-09-a2a418c0c7a2c06e0bccb6654cb307bd.jpg?im=FitAndFill,width=1200,height=675",
+        "date": "Oct 31, 2026",
+        "url": "https://www.cnbctv18.com/business/top-1010-ril-hits-a-q2-high-jio-adds-to-the-cheer-market-gains-2nd-straight-session-20023704.htm"
+    },
+    {
+        "id": "wtak6v8o4",
+        "title": "What Masters of Horror Can Teach Us About AI",
+        "excerpt": "Science can be scary.\nThe post What Masters of Horror Can Teach Us About AI appeared first on The American Conservative.",
+        "content": "<p>Science can be scary.\nThe post What Masters of Horror Can Teach Us About AI appeared first on The American Conservative.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://tac.imgix.net/wp-content/uploads/2026/10/960px-Frankensteins_monster_Boris_Karloff.jpg?auto=compress&crop=faces%2Centropy&fit=crop&fm=jpg&h=630&ixlib=php-3.3.1&q=80&w=1200",
+        "date": "Oct 31, 2026",
+        "url": "https://www.theamericanconservative.com/what-masters-of-horror-can-teach-us-about-ai/"
+    },
+    {
+        "id": "vd2g5etg6",
+        "title": "Google in talks to join Trump’s Golden Dome defense program",
+        "excerpt": "Google is in early talks with the Pentagon regarding involvement in the Golden Dome missile defense program. The initiative aims to secure critical data for military software and infrastructure. Multiple companies, including Aalyria Technologies, are likely t…",
+        "content": "<p>Google is in early talks with the Pentagon regarding involvement in the Golden Dome missile defense program. The initiative aims to secure critical data for military software and infrastructure. Multiple companies, including Aalyria Technologies, are likely t…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135387147,width-1200,height-900,imgsize-150328,overlay-etdefence/articleshow.jpg",
+        "date": "Oct 31, 2026",
+        "url": "https://economictimes.indiatimes.com/news/defence/google-in-talks-to-join-trumps-golden-dome-defense-program/articleshow/135387062.cms"
+    },
+    {
+        "id": "e87s6pabr",
+        "title": "‘Big Little Lies’ Season 3 Filmed for Just One Day — Here’s Why",
+        "excerpt": "Filming for the new season of Big Little Lies started this week. The HBO series has been getting ready to […]\nThe post ‘Big Little Lies’ Season 3 Filmed for Just One Day — Here’s Why appeared first on Just Jared - Celebrity News, Entertainment News & Photos.",
+        "content": "<p>Filming for the new season of Big Little Lies started this week. The HBO series has been getting ready to […]\nThe post ‘Big Little Lies’ Season 3 Filmed for Just One Day — Here’s Why appeared first on Just Jared - Celebrity News, Entertainment News & Photos.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/big-little-lies-season-3-filming.jpg",
+        "date": "Oct 31, 2026",
+        "url": "https://www.justjared.com/2026/10/30/big-little-lies-season-3-filmed-for-just-one-day-heres-why/"
+    },
+    {
+        "id": "v7iqd2049",
+        "title": "Brewers parade drew 750,000 fans; a look at just how big that crowd is",
+        "excerpt": "How big is 750,000 Brewers fans? From filling Lambeau Field nine times to outnumbering Milwaukee residents, here's how the massive parade crowd stacks up.",
+        "content": "<p>How big is 750,000 Brewers fans? From filling Lambeau Field nine times to outnumbering Milwaukee residents, here's how the massive parade crowd stacks up.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/3776ea6fbcbe8c28e7e802ab51e69b38d25faa8237f25403bd5dfc581b217305/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmilwaukee_journal_sentinel_natl_articles_362%2F121a994d78176db085bd59954acac6e9.jpg",
+        "date": "Oct 31, 2026",
+        "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/30/brewers-world-series-parade-750000-crowd-size-comparisons/92527842007/"
+    },
+    {
+        "id": "gnx9abqy7",
+        "title": "Where Is Jack Nicholson Now? Michael Douglas Gives Rare Update on His Retired Friend",
+        "excerpt": "Michael Douglas is sharing a rare update on his longtime friend Jack Nicholson. The 82-year-old actor recently appeared at an […]\nThe post Where Is Jack Nicholson Now? Michael Douglas Gives Rare Update on His Retired Friend appeared first on Just Jared - Cele…",
+        "content": "<p>Michael Douglas is sharing a rare update on his longtime friend Jack Nicholson. The 82-year-old actor recently appeared at an […]\nThe post Where Is Jack Nicholson Now? Michael Douglas Gives Rare Update on His Retired Friend appeared first on Just Jared - Cele…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/jack-nicholson-michaeal-douglas.jpg",
+        "date": "Oct 31, 2026",
+        "url": "https://www.justjared.com/2026/10/30/where-is-jack-nicholson-now-michael-douglas-gives-rare-update-on-his-retired-friend/"
+    },
+    {
+        "id": "hubi2a9tm",
+        "title": "RSC Chairman August Pfluger: Undercover Video Shows James Talarico Has Not Changed His Views on Transgender Issues",
+        "excerpt": "Republican Study Committee Chairman August Pfluger (R-TX) criticized Texas Democrat U.S. Senate candidate James Talarico over undercover footage in which the candidate maintained that his views on transgender issues had not changed, arguing that voters could …",
+        "content": "<p>Republican Study Committee Chairman August Pfluger (R-TX) criticized Texas Democrat U.S. Senate candidate James Talarico over undercover footage in which the candidate maintained that his views on transgender issues had not changed, arguing that voters could …</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://media.breitbart.com/media/2026/10/Talarico-silouette-640x335.jpeg",
+        "date": "Oct 31, 2026",
+        "url": "https://www.breitbart.com/politics/2026/10/30/rrsc-chairman-august-pfluger-undercover-video-shows-james-talarico-has-not-changed-his-views-on-transgender-issues/"
+    },
+    {
+        "id": "j3rc89swr",
+        "title": "Breaking news LIVE: INDIA bloc to hold public impeachment programme against CEC Gyanesh Kumar today",
+        "excerpt": "INDIA bloc leaders will hold their postponed public impeachment programme against Chief Election Commissioner Gyanesh Kumar at Congress president Mallikarjun Kharge's residence at 3.30 pm on Saturday, a day after rain forced its rescheduling. The Opposition h…",
+        "content": "<p>INDIA bloc leaders will hold their postponed public impeachment programme against Chief Election Commissioner Gyanesh Kumar at Congress president Mallikarjun Kharge's residence at 3.30 pm on Saturday, a day after rain forced its rescheduling. The Opposition h…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://economictimes.indiatimes.com/thumb/msid-135384986,width-1200,height-900,resizemode-4,imglength-68494/news/newsblogs/breaking-news-live-updates-31-october-india-bloc-cec-impeachment-kharge-rahul-gandhi-pm-modi-amit-shah-todays-weather-crypto-cyclone-arnab-gyanesh-kumar-samsung-news-europe-halloween-protests.jpg",
+        "date": "Oct 31, 2026",
+        "url": "https://m.economictimes.com/news/newsblogs/breaking-news-live-updates-31-october-india-bloc-cec-impeachment-kharge-rahul-gandhi-pm-modi-amit-shah-todays-weather-crypto-cyclone-arnab-gyanesh-kumar-samsung-news-europe-halloween-protests/liveblog/135384986.cms"
+    },
+    {
         "id": "n46hoplje",
         "title": "Is China Indirectly Enabling America’s Adversaries?",
         "excerpt": "Photo Credit:\n \n AI for American ThinkerBy A. JathindraChinese technology and commercial ties are helping the Houthis and Russia challenge U.S. interests, raising questions about Beijing’s strategic intentions.",
