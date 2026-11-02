@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "znz8uqgiv",
+        "title": "British-Bangladeshi doctors team up with Startup Bangladesh on health tech",
+        "excerpt": "A network of British-Bangladeshi doctors plans to send its first health-tech projects to Startup Bangladesh in December, under a new collaboration to turn doctors' ideas into working products with help from Bangladesh's technology sector.\r\nThe initiative was …",
+        "content": "<p>A network of British-Bangladeshi doctors plans to send its first health-tech projects to Startup Bangladesh in December, under a new collaboration to turn doctors' ideas into working products with help from Bangladesh's technology sector.\r\nThe initiative was …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/179772/british-bangladesh.jpg",
+        "date": "Nov 1, 2026",
+        "url": "https://thefinancialexpress.com.bd/education/article/british-bangladeshi-doctors-team-up-with-startup-bangladesh-on-health-tech"
+    },
+    {
+        "id": "r4aalhwns",
+        "title": "HIGHLIGHTS: WIAA Sectional Champions Crowned",
+        "excerpt": "(WFRV) – A handful of area teams have punched their tickets to the state tournament after a successful Saturday of sectional championship action. Area teams battled for sectional titles in boys and girls volleyball and boys soccer, with seven squads across th…",
+        "content": "<p>(WFRV) – A handful of area teams have punched their tickets to the state tournament after a successful Saturday of sectional championship action. Area teams battled for sectional titles in boys and girls volleyball and boys soccer, with seven squads across th…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/a081819490be49009aa6e10ca762d35102e4cce902d148063563717b98685f34/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwfrv_articles_965%2Fe6cb56322b593bf80dbd711da6032212.jpg",
+        "date": "Nov 1, 2026",
+        "url": "https://www.wearegreenbay.com/sports/highlights-wiaa-sectional-champions-crowned/"
+    },
+    {
+        "id": "3ehgo33gc",
+        "title": "Kioxia warns flash memory prices stalling after outlook miss",
+        "excerpt": "Kioxia Holdings delivered a profit outlook that trailed estimates, warning that an AI-fueled surge in flash memory chip prices was fading after several quarters of breakneck growth.\nThe Tokyo-based rival to Samsung Electronics, SK Hynix and Micron Technology …",
+        "content": "<p>Kioxia Holdings delivered a profit outlook that trailed estimates, warning that an AI-fueled surge in flash memory chip prices was fading after several quarters of breakneck growth.\nThe Tokyo-based rival to Samsung Electronics, SK Hynix and Micron Technology …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/4eb349686d3be6d8_s.webp",
+        "date": "Nov 1, 2026",
+        "url": "https://biztoc.com/x/4eb349686d3be6d8"
+    },
+    {
+        "id": "pfjdcovxl",
+        "title": "DC Unveils Cyberpunk Redesign Of Classic Alan Moore Hero, And It's Beyond Epic",
+        "excerpt": "DC unveils the latest iteration of Swamp Thing, by way of Alan Moore's ingenious reimagining of the character back in the 1980s.",
+        "content": "<p>DC unveils the latest iteration of Swamp Thing, by way of Alan Moore's ingenious reimagining of the character back in the 1980s.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/swamp-thing-alan-moore-featured-image.png?w=1600&h=900&fit=crop",
+        "date": "Nov 1, 2026",
+        "url": "https://screenrant.com/dc-cyberpunk-swamp-thing-alan-moore-deadman/"
+    },
+    {
+        "id": "z7gp5lpwv",
+        "title": "Ferrari accelerates India push as 'market of the future', targets younger buyers while guarding exclusivity",
+        "excerpt": "Benedetto Vigna, CEO of Ferrari, who has been driving around Indian roads, talks about the need to be closer to the clients, how their Indian customer is younger than in the rest of the world and why Ferrari always makes one less car than what the market dema…",
+        "content": "<p>Benedetto Vigna, CEO of Ferrari, who has been driving around Indian roads, talks about the need to be closer to the clients, how their Indian customer is younger than in the rest of the world and why Ferrari always makes one less car than what the market dema…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135416707,width-1200,height-900,imgsize-138244,overlay-economictimes/articleshow.jpg",
+        "date": "Nov 1, 2026",
+        "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/ferrari-accelerates-india-push-as-market-of-the-future-targets-younger-buyers-while-guarding-exclusivity/articleshow/135416528.cms"
+    },
+    {
+        "id": "umlltixn7",
+        "title": "HSE completes undefeated season, tops Center Grove in 3A state title game",
+        "excerpt": "The Hamilton Southeastern girls soccer team won its second consecutive Class 3A state title with a 3-1 win over Center Grove on Saturday.",
+        "content": "<p>The Hamilton Southeastern girls soccer team won its second consecutive Class 3A state title with a 3-1 win over Center Grove on Saturday.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/41af2df26e26b15ec9420aae56bc54c7f39e6db8d0ab4b5252a3bfb43fc1eef2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findystar-the-indianapolis-star%2F46870b95a452d5233f833fc01dc14873.jpg",
+        "date": "Nov 1, 2026",
+        "url": "https://www.indystar.com/story/sports/high-school/2026/10/31/hamilton-southeastern-beats-center-grove-for-second-consecutive-3a-state-title-soccer-high-school/92449587007/"
+    },
+    {
+        "id": "bjf2bfrbl",
+        "title": "What Asian stock investors need to watch ahead of US midterm elections",
+        "excerpt": "A Democratic sweep of both chambers of Congress would likely bring greater scrutiny of the AI industry and data-center buildout",
+        "content": "<p>A Democratic sweep of both chambers of Congress would likely bring greater scrutiny of the AI industry and data-center buildout</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/01/thumb/fitandfill/1200X628/1793502897-6179.jpg",
+        "date": "Nov 1, 2026",
+        "url": "https://www.business-standard.com/world-news/what-asian-stock-investors-need-to-watch-ahead-of-us-midterm-elections-126110100070_1.html"
+    },
+    {
+        "id": "o2xog79xg",
+        "title": "Ranking top 3 Bills most likely to be dealt at 2026 NFL trade deadline",
+        "excerpt": "The Buffalo Bills received positive news ahead of their Week 8 matchup against the Baltimore Ravens. Defensive tackle Ed Oliver has been cleared to return, and wide receiver DJ Moore is reportedly expected to play despite being listed as questionable. Both de…",
+        "content": "<p>The Buffalo Bills received positive news ahead of their Week 8 matchup against the Baltimore Ravens. Defensive tackle Ed Oliver has been cleared to return, and wide receiver DJ Moore is reportedly expected to play despite being listed as questionable. Both de…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/80571a6ae028ac756ea33c1d5f16e0cbf1c6379bdc6bf79bf25a36e0df7e2c6d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F13e8fa2dbf5982d30a2369369df6921e.jpg",
+        "date": "Nov 1, 2026",
+        "url": "https://clutchpoints.com/nfl/buffalo-bills/ranking-top-3-bills-most-likely-be-dealt-2026-nfl-trade-deadline"
+    },
+    {
+        "id": "d0up2buos",
+        "title": "Do Clocks Go Back Tonight? What Time Daylight Saving Time Ends in 2026",
+        "excerpt": "If you’re wondering whether the clocks change tonight, the answer is yes for most people in the United States. Daylight […]\nThe post Do Clocks Go Back Tonight? What Time Daylight Saving Time Ends in 2026 appeared first on Just Jared - Celebrity News, Entertai…",
+        "content": "<p>If you’re wondering whether the clocks change tonight, the answer is yes for most people in the United States. Daylight […]\nThe post Do Clocks Go Back Tonight? What Time Daylight Saving Time Ends in 2026 appeared first on Just Jared - Celebrity News, Entertai…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/daylight-savings-time-halloween-2026.jpg",
+        "date": "Nov 1, 2026",
+        "url": "https://www.justjared.com/2026/10/31/do-clocks-go-back-tonight-what-time-daylight-saving-time-ends-in-2026/"
+    },
+    {
+        "id": "v1lwh21y8",
+        "title": "Heidi Klum Dresses Up as a Severed Hand for Halloween 2026 – Full Costume Revealed",
+        "excerpt": "Heidi Klum has unveiled her 2026 Halloween costume!! The 53-year-old model and Project Runway host goes all out with major […]\nThe post Heidi Klum Dresses Up as a Severed Hand for Halloween 2026 – Full Costume Revealed appeared first on Just Jared - Celebrity…",
+        "content": "<p>Heidi Klum has unveiled her 2026 Halloween costume!! The 53-year-old model and Project Runway host goes all out with major […]\nThe post Heidi Klum Dresses Up as a Severed Hand for Halloween 2026 – Full Costume Revealed appeared first on Just Jared - Celebrity…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/heidi-hand.jpg",
+        "date": "Nov 1, 2026",
+        "url": "https://www.justjared.com/2026/10/31/heidi-klum-dresses-up-as-a-severed-hand-for-halloween-2026-full-costume-revealed/"
+    },
+    {
         "id": "ow6vdiizh",
         "title": "Jio Platforms profit zooms 14% on healthy user mix, digital play",
         "excerpt": "Jio Platforms has unveiled an impressive 14% net profit growth to ₹8,387 crore for the September quarter, achieving a milestone subscriber count of 542 million, which includes 300 million utilizing 5G services. Revenue from operations climbed to ₹40,475 crore…",
