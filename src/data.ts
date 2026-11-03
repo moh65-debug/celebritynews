@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "7tc74p78b",
+        "title": "South Korea to double spending on AI and chips in 2027",
+        "excerpt": "Seoul – South Korea will double spending on artificial intelligence and semiconductors in 2027 to a record high, the president said Monday, pledging to use the technology to turn the military into a “smart, elite force.”\nPresident Lee Jae Myung in his annual …",
+        "content": "<p>Seoul – South Korea will double spending on artificial intelligence and semiconductors in 2027 to a record high, the president said Monday, pledging to use the technology to turn the military into a “smart, elite force.”\nPresident Lee Jae Myung in his annual …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/6398d1db96b42db3_s.webp",
+        "date": "Nov 2, 2026",
+        "url": "https://biztoc.com/x/6398d1db96b42db3"
+    },
+    {
+        "id": "ve6d7l52w",
+        "title": "SINEXCEL Named to Forbes Asia's Best Under A Billion 2026 for the Second Time",
+        "excerpt": "SINEXCEL (300693.SZ), a global provider of energy storage, EV charging, power quality, and critical power solutions for AI data centers (AIDCs), has been ...",
+        "content": "<p>SINEXCEL (300693.SZ), a global provider of energy storage, EV charging, power quality, and critical power solutions for AI data centers (AIDCs), has been ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/11/02/forbes.jpg",
+        "date": "Nov 2, 2026",
+        "url": "https://en.antaranews.com/news/439419/sinexcel-named-to-forbes-asias-best-under-a-billion-2026-for-the-second-time"
+    },
+    {
+        "id": "bgbzgp9xy",
+        "title": "“They Needed Atrocity Propaganda to Justify Mass Slaughter of Palestinians” – Adam Johnson",
+        "excerpt": "That level of just raw brutality and violence and mass killing needed to have a correspondingly horrific atrocity propaganda to justify",
+        "content": "<p>That level of just raw brutality and violence and mass killing needed to have a correspondingly horrific atrocity propaganda to justify</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://media.juancole.com/images/2026/11/howtosellgen.jpg",
+        "date": "Nov 2, 2026",
+        "url": "https://www.juancole.com/2026/11/propaganda-slaughter-palestinians.html"
+    },
+    {
+        "id": "2ageng63s",
+        "title": "The Biggest October Surprise of All",
+        "excerpt": "A crisis that brought the U.S. and the Soviets to the brink of nuclear war in 1962 reshaped U.S. politics.",
+        "content": "<p>A crisis that brought the U.S. and the Soviets to the brink of nuclear war in 1962 reshaped U.S. politics.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://foreignpolicy.com/wp-content/uploads/2026/11/cuban-crisis-GettyImages-2241374017.jpg",
+        "date": "Nov 2, 2026",
+        "url": "http://foreignpolicy.com/2026/11/02/biggest-october-surprise-1962-cuba/"
+    },
+    {
+        "id": "hvlwfg5ds",
+        "title": "Media Buying Briefing: Overheard at Media Buying Summit: How AI is helping and hurting client relations and office work",
+        "excerpt": "Worries about lazy use of AI for client briefs and internal documents has agencies wondering how to make better use of the tech.",
+        "content": "<p>Worries about lazy use of AI for client briefs and internal documents has agencies wondering how to make better use of the tech.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/11/ai-creators-slop-digiday.jpg",
+        "date": "Nov 2, 2026",
+        "url": "http://digiday.com/media-buying/media-buying-briefing-overheard-at-media-buying-summit-how-ai-is-helping-and-hurting-client-relations-and-office-work/"
+    },
+    {
+        "id": "p5qai67cp",
+        "title": "Ransomware gang talked AI agents into doing much of its dirty work",
+        "excerpt": "The group behind the Aur0ra ransomware has been using AI agents to move through victim networks, collect credentials and work its way up to domain administrator access, according to Sophos. AI-assisted intrusion workflow (Source: Sophos) The company, which tr…",
+        "content": "<p>The group behind the Aur0ra ransomware has been using AI agents to move through victim networks, collect credentials and work its way up to domain administrator access, according to Sophos. AI-assisted intrusion workflow (Source: Sophos) The company, which tr…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.helpnetsecurity.com/wp-content/uploads/2024/08/21131911/ransomare-threat-2.webp",
+        "date": "Nov 2, 2026",
+        "url": "https://www.helpnetsecurity.com/2026/11/02/aur0ra-ransomware-ai-agents/"
+    },
+    {
+        "id": "ao6e2g50y",
+        "title": "OpenAI and Inception42 to offer tailored enterprise AI to large UAE organisations, ADMO says",
+        "excerpt": "The collaboration could accelerate AI adoption in UAE's large enterprises, potentially transforming operational efficiencies and innovation.\nThe post OpenAI and Inception42 to offer tailored enterprise AI to large UAE organisations, ADMO says appeared first o…",
+        "content": "<p>The collaboration could accelerate AI adoption in UAE's large enterprises, potentially transforming operational efficiencies and innovation.\nThe post OpenAI and Inception42 to offer tailored enterprise AI to large UAE organisations, ADMO says appeared first o…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/02000008/library-openai-and-inception42-to-offer-tailored-enterprise-ai-t-800x450.png",
+        "date": "Nov 2, 2026",
+        "url": "https://cryptobriefing.com/openai-inception42-uae-enterprise-ai/"
+    },
+    {
+        "id": "m0inbpnyr",
+        "title": "Salvini and the pro-Russia camp: why so many in Italy are rooting for Putin",
+        "excerpt": "The League leader has been re-elected after pledging to block further weapons and aid for Kyiv. But from Roberto Vannacci to the Five Star Movement and the far left, sympathy for Moscow stretches across much of Italy’s political spectrum",
+        "content": "<p>The League leader has been re-elected after pledging to block further weapons and aid for Kyiv. But from Roberto Vannacci to the Five Star Movement and the far left, sympathy for Moscow stretches across much of Italy’s political spectrum</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/30/172112494-267fae6d-c254-49ac-a51e-b207f8437535.jpg",
+        "date": "Nov 2, 2026",
+        "url": "https://www.repubblica.it/en/europe/news/2026/11/02/news/salvini_italy_pro_putin_politicians_kremlin_political_spectrum-425687949/"
+    },
+    {
+        "id": "if17ubipx",
+        "title": "5 key global market themes investors will watch this week",
+        "excerpt": "The US midterm elections could reshape the political landscape and influence market sentiment. Democrats are widely expected to win the House of Representatives, while control of the Senate remains uncertain. The outcome could affect AI regulation, fiscal spe…",
+        "content": "<p>The US midterm elections could reshape the political landscape and influence market sentiment. Democrats are widely expected to win the House of Representatives, while control of the Senate remains uncertain. The outcome could affect AI regulation, fiscal spe…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-135446004,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+        "date": "Nov 2, 2026",
+        "url": "https://m.economictimes.com/markets/us-stocks/news/5-key-global-market-themes-investors-will-watch-this-week/us-midterm-elections-take-centre-stage/slideshow/135446004.cms"
+    },
+    {
+        "id": "6duaelljt",
+        "title": "Autumn Lighting Fair, Outdoor and Tech Light Expo, Eco Expo Asia draw some 62,000 buyers",
+        "excerpt": "The 28th Hong Kong International Lighting Fair (Autumn Edition) and the 11th Hong Kong International Outdoor and Tech Light Expo, both organised by the HKTDC, ...",
+        "content": "<p>The 28th Hong Kong International Lighting Fair (Autumn Edition) and the 11th Hong Kong International Outdoor and Tech Light Expo, both organised by the HKTDC, ...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/08/20/WhatsApp-Image-2026-08-20-at-16.19.20.jpeg",
+        "date": "Nov 2, 2026",
+        "url": "https://en.antaranews.com/news/439387/autumn-lighting-fair-outdoor-and-tech-light-expo-eco-expo-asia-draw-some-62000-buyers"
+    },
+    {
         "id": "znz8uqgiv",
         "title": "British-Bangladeshi doctors team up with Startup Bangladesh on health tech",
         "excerpt": "A network of British-Bangladeshi doctors plans to send its first health-tech projects to Startup Bangladesh in December, under a new collaboration to turn doctors' ideas into working products with help from Bangladesh's technology sector.\r\nThe initiative was …",
