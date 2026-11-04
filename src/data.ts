@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "bh7pktfhq",
+        "title": "Gemtek joins three optical standards groups for AI data center development",
+        "excerpt": "Gemtek Technology has joined three optical communications standards groups as the industry develops alternatives for connecting AI data centers. The move could influence interoperability, power use, scalability, and supply-chain integration across global data…",
+        "content": "<p>Gemtek Technology has joined three optical communications standards groups as the industry develops alternatives for connecting AI data centers. The move could influence interoperability, power use, scalability, and supply-chain integration across global data…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20261103pd204_files/2_s.jpg",
+        "date": "Nov 3, 2026",
+        "url": "https://www.digitimes.com/news/a20261103PD204/gemtek-optical-communications-data-center-2026.html"
+    },
+    {
+        "id": "odamkj01m",
+        "title": "Nanning Expands ASEAN Ties Through Trade, Transport and AI",
+        "excerpt": "Autumn has brought fresh momentum for opening-up to Nanning, capital of south China&#39;s Guangxi Zhuang Autonomous Region. The 23rd China-ASEAN Expo (CAEXPO) ...",
+        "content": "<p>Autumn has brought fresh momentum for opening-up to Nanning, capital of south China&#39;s Guangxi Zhuang Autonomous Region. The 23rd China-ASEAN Expo (CAEXPO) ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/11/03/robot.jpg",
+        "date": "Nov 3, 2026",
+        "url": "https://en.antaranews.com/news/439735/nanning-expands-asean-ties-through-trade-transport-and-ai"
+    },
+    {
+        "id": "dy5kqlpww",
+        "title": "Why is Microsoft borrowing $25 billion after offering buyouts to 60,000 employees?",
+        "excerpt": "Microsoft 25 billion bond sale: Microsoft is raising $25 billion through a bond sale as AI infrastructure costs rise, days after offering voluntary buyouts to nearly 60,000 employees. The company expects up to 3,000 employees to accept the exit offer as it pr…",
+        "content": "<p>Microsoft 25 billion bond sale: Microsoft is raising $25 billion through a bond sale as AI infrastructure costs rise, days after offering voluntary buyouts to nearly 60,000 employees. The company expects up to 3,000 employees to accept the exit offer as it pr…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135482103,width-1200,height-900,imgsize-175709,overlay-economictimes/articleshow.jpg",
+        "date": "Nov 3, 2026",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/why-is-microsoft-borrowing-25-billion-after-offering-buyouts-to-60000-employees/articleshow/135481921.cms"
+    },
+    {
+        "id": "pipqt3ahe",
+        "title": "WATCH: California Jail Goes on Three-Hour Lockdown Rather Than Hand Criminal Illegal Aliens to ICE, Monterey County Supervisor Tells Agent They Will Not Release Anyone When ICE is Present",
+        "excerpt": "The Monterey County Jail in Salinas was visited by ICE agents on Tuesday for a targeted operation seeking three individuals with prior arrests for DUI, drug offenses, and providing false identification.\nThe post WATCH: California Jail Goes on Three-Hour Lockd…",
+        "content": "<p>The Monterey County Jail in Salinas was visited by ICE agents on Tuesday for a targeted operation seeking three individuals with prior arrests for DUI, drug offenses, and providing false identification.\nThe post WATCH: California Jail Goes on Three-Hour Lockd…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.thegatewaypundit.com/wp-content/uploads/2026/11/r-2026-11-02t225201.027-1200x630.jpg",
+        "date": "Nov 3, 2026",
+        "url": "https://www.thegatewaypundit.com/2026/11/watch-california-jail-goes-three-hour-lockdown-rather/"
+    },
+    {
+        "id": "9yd75b8rn",
+        "title": "South Korean shares slide nearly 3% as tech selloff deepens; won strengthens",
+        "excerpt": "South Korean shares fell sharply as a global technology selloff dragged chipmakers and other heavyweight stocks lower. A stronger won and plunging oil prices offered little support as foreign investors continued to sell equities.",
+        "content": "<p>South Korean shares fell sharply as a global technology selloff dragged chipmakers and other heavyweight stocks lower. A stronger won and plunging oil prices offered little support as foreign investors continued to sell equities.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135482069,width-1200,height-900,imgsize-210678,overlay-etmarkets/articleshow.jpg",
+        "date": "Nov 3, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-slide-nearly-3-as-tech-selloff-deepens-won-strengthens/articleshow/135482020.cms"
+    },
+    {
+        "id": "6us0h3m76",
+        "title": "Apple Q4 results beat estimates as iPhone 18 Pro demand, price hikes offset rising chip costs",
+        "excerpt": "Apple reported better-than-expected Q4 revenue of $114.48 billion and earnings of $2.10 per share, driven by strong iPhone 18 Pro demand and Mac sales. Higher product prices helped offset rising memory-chip costs. The company is also expanding its AI offering…",
+        "content": "<p>Apple reported better-than-expected Q4 revenue of $114.48 billion and earnings of $2.10 per share, driven by strong iPhone 18 Pro demand and Mac sales. Higher product prices helped offset rising memory-chip costs. The company is also expanding its AI offering…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135481938,width-1200,height-900,imgsize-115682,overlay-etmarkets/articleshow.jpg",
+        "date": "Nov 3, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/apple-q4-results-beat-estimates-as-iphone-18-pro-demand-price-hikes-offset-rising-chip-costs/articleshow/135481907.cms"
+    },
+    {
+        "id": "bjop1qthx",
+        "title": "Josh Turek pitches \"generational change\" in tight Iowa Senate race",
+        "excerpt": "In Iowa's crucial Senate race, Democrat Josh Turek pitched his campaign as an opportunity for a \"generational change.\"",
+        "content": "<p>In Iowa's crucial Senate race, Democrat Josh Turek pitched his campaign as an opportunity for a \"generational change.\"</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/03/34a6398a-095e-4d5b-ae05-9c1475ab7f33/thumbnail/1200x630/e57a983b41986c62f352deb20b7a86d8/screenshot-2026-11-02-at-9-40-32-pm-1.png",
+        "date": "Nov 3, 2026",
+        "url": "https://www.cbsnews.com/news/josh-turek-generational-change-iowa-senate-midterms-ashley-hinson/"
+    },
+    {
+        "id": "lzu81x7rg",
+        "title": "Zelenskyy says Russia preparing massive attack on Ukraine's energy, logistics infrastructure amid US midterm elections",
+        "excerpt": "Ukrainian President Volodymyr Zelenskyy indicated that Russia is planning a significant new attack on Ukraine's infrastructure. He expressed concerns that the US midterm elections might distract global attention from the ongoing conflict. Zelenskyy urged inte…",
+        "content": "<p>Ukrainian President Volodymyr Zelenskyy indicated that Russia is planning a significant new attack on Ukraine's infrastructure. He expressed concerns that the US midterm elections might distract global attention from the ongoing conflict. Zelenskyy urged inte…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://img.etimg.com/thumb/msid-135481297,width-1200,height-900,imgsize-166758,overlay-economictimes/articleshow.jpg",
+        "date": "Nov 3, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/zelenskyy-warns-of-imminent-russian-attack-on-ukraines-energy-infrastructure-during-us-midterms/articleshow/135481298.cms"
+    },
+    {
+        "id": "93tjp2iw0",
+        "title": "Business Council Warns Labor's Budget Savings Package Will Stifle Australian Investment",
+        "excerpt": "The Business Council of Australia says proposed budget savings measures could increase corporate tax and compliance costs, discouraging private investment while complicating efforts to lift productivity and repair the budget.",
+        "content": "<p>The Business Council of Australia says proposed budget savings measures could increase corporate tax and compliance costs, discouraging private investment while complicating efforts to lift productivity and repair the budget.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://d.ibtimes.com.au/en/full/1897046/business-council-australia.png",
+        "date": "Nov 3, 2026",
+        "url": "https://www.ibtimes.com.au/bca-warns-budget-savings-could-hurt-investment-1877685"
+    },
+    {
+        "id": "5o6x9jlym",
+        "title": "Milwaukee police scene, STH 175 closed north of Stadium Interchange",
+        "excerpt": "A Milwaukee police sergeant shot and killed a person driving the wrong-way on State Highway 175 after that person showed a firearm.",
+        "content": "<p>A Milwaukee police sergeant shot and killed a person driving the wrong-way on State Highway 175 after that person showed a firearm.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2026/11/1200/630/175-and-vliet-cvz-witieme001_mxf_00.23.24.10.jpg?ve=1&tl=1",
+        "date": "Nov 3, 2026",
+        "url": "https://www.fox6now.com/news/milwaukee-officer-involved-shooting-highway-175-suspect-dead"
+    },
+    {
         "id": "7tc74p78b",
         "title": "South Korea to double spending on AI and chips in 2027",
         "excerpt": "Seoul – South Korea will double spending on artificial intelligence and semiconductors in 2027 to a record high, the president said Monday, pledging to use the technology to turn the military into a “smart, elite force.”\nPresident Lee Jae Myung in his annual …",
