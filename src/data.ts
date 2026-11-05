@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "spam6lfis",
+        "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
+        "excerpt": "Three indigenous artificial intelligence (AI) models launched under the Centre's IndiaAI Mission are being developed for applications ranging from offline access on mobile phones to secure use in critical sectors such as defence, cybersecurity and banking.",
+        "content": "<p>Three indigenous artificial intelligence (AI) models launched under the Centre's IndiaAI Mission are being developed for applications ranging from offline access on mobile phones to secure use in critical sectors such as defence, cybersecurity and banking.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-167343,resizemode-75,msid-135524432/tech/artificial-intelligence/indiaai-missions-three-indigenous-ai-models-target-offline-mobile-access-secure-use-in-critical-sectors.jpg",
+        "date": "Nov 4, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indiaai-missions-three-indigenous-ai-models-target-offline-mobile-access-secure-use-in-critical-sectors/articleshow/135524432.cms"
+    },
+    {
+        "id": "gtztjvjm5",
+        "title": "These college students launched a legal tech startup during finals week. Now, it's business first, school second.",
+        "excerpt": "Raphael Lim and Jamison Teng have had to sacrifice social life, grades, and Brazilian Jiu-Jitsu training to build up Jam & Raph.",
+        "content": "<p>Raphael Lim and Jamison Teng have had to sacrifice social life, grades, and Brazilian Jiu-Jitsu training to build up Jam & Raph.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.insider.com/6acc5bf87bf24b4467e6a292?width=1029&format=jpeg",
+        "date": "Nov 4, 2026",
+        "url": "https://www.businessinsider.com/college-students-singapore-legal-tech-startup-2026-11#article"
+    },
+    {
+        "id": "ywvvh7oiq",
+        "title": "Stephanie Phair Bets on AI-powered Fragrance Discovery With Parfumerie",
+        "excerpt": "The nascent platform aims to connect personalized scent discovery to purchases through multibrand retailers, beginning in the U.K. with Selfridges, Sephora, Space NK and more.",
+        "content": "<p>The nascent platform aims to connect personalized scent discovery to purchases through multibrand retailers, beginning in the U.K. with Selfridges, Sephora, Space NK and more.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://wwd.com/wp-content/uploads/2026/11/Parfumerie_AllThree_16x9_4K_backdrop.png?crop=0px%2C11px%2C3840px%2C2149px&resize=1000%2C563",
+        "date": "Nov 4, 2026",
+        "url": "http://wwd.com/beauty-industry-news/fragrance/stephanie-phair-ai-powered-fragrance-discovery-parfumerie-1239397903/"
+    },
+    {
+        "id": "u5f3ghvqc",
+        "title": "Fashiontech Firm Hyphen Group Sells Chalco Technologies to Valsoft",
+        "excerpt": "Canadian investor Valsoft has acquired Hyphen’s software unit Chalco Technologies, targeting geographic expansion and development of generative AI.",
+        "content": "<p>Canadian investor Valsoft has acquired Hyphen’s software unit Chalco Technologies, targeting geographic expansion and development of generative AI.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://wwd.com/wp-content/uploads/2026/11/Inside-the-Hyphen-headquarters-in-Milan.jpeg?crop=0px%2C0px%2C1360px%2C761px&resize=1000%2C563",
+        "date": "Nov 4, 2026",
+        "url": "http://wwd.com/business-news/technology/valsoft-acquires-hyphen-group-chalco-technologies-1239397863/"
+    },
+    {
+        "id": "5kkil3vps",
+        "title": "What DoorDash’s Instacart acquisition says about the modern delivery platform pitch",
+        "excerpt": "DoorDash’s announced plans to acquire Instacart for $17 billion point to the constant need to gain market share by diversifying services and offerings.",
+        "content": "<p>DoorDash’s announced plans to acquire Instacart for $17 billion point to the constant need to gain market share by diversifying services and offerings.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Modern-Retail-The-rise-and-fall-of-quick-delivery-startups-72-01.webp",
+        "date": "Nov 4, 2026",
+        "url": "http://digiday.com/media/what-doordashs-instacart-acquisition-says-about-the-modern-delivery-platform-pitch/"
+    },
+    {
+        "id": "mrozfkloq",
+        "title": "MIT-led team receives funding to develop a wearable monitor for early disease detection",
+        "excerpt": "An MIT-led team will develop PYTHIA, a non-invasive, wearable patch to measure biomarkers for heart disease and sepsis, with an up to $38 million award from ARPA-H. The patch could help clinicians detect diseases earlier and design better therapeutic approach…",
+        "content": "<p>An MIT-led team will develop PYTHIA, a non-invasive, wearable patch to measure biomarkers for heart disease and sepsis, with an up to $38 million award from ARPA-H. The patch could help clinicians detect diseases earlier and design better therapeutic approach…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://news.mit.edu/sites/default/files/images/202611/MIT-Pythia-Grant-01-press.jpg",
+        "date": "Nov 4, 2026",
+        "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-for-early-disease-detection-wearable-monitor-1104"
+    },
+    {
+        "id": "rcmhwnyf1",
+        "title": "Scandal-plagued Ilhan Omar easily secures 5th term in deep blue Minnesota despite immigration fraud probe",
+        "excerpt": "Ilhan Omar won reelection despite a federal probe into whether she committed immigration fraud, including claims she married her brother in 2009.",
+        "content": "<p>Ilhan Omar won reelection despite a federal probe into whether she committed immigration fraud, including claims she married her brother in 2009.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/omar-town-hall.jpg",
+        "date": "Nov 4, 2026",
+        "url": "https://www.foxnews.com/politics/scandal-plagued-ilhan-omar-easily-secures-5th-term-deep-blue-minnesota-despite-immigration-fraud-probe"
+    },
+    {
+        "id": "mderos1y5",
+        "title": "James Talarico notches historic U.S. Senate win, a first for Texas since 1988",
+        "excerpt": "James Talarico has won the U.S. Senate election in Texas, the Associated Press projects, securing Democrats their first Senate win in the Lone Star State since 1988.",
+        "content": "<p>James Talarico has won the U.S. Senate election in Texas, the Associated Press projects, securing Democrats their first Senate win in the Lone Star State since 1988.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://kubrick.htvapps.com/htv-prod/images/eb1a5c41-8b5e-4705-9750-9395fe6c72e0.jpg?crop=1.00xw%3A0.847xh%3B0%2C0.132xh&resize=1200%3A*",
+        "date": "Nov 4, 2026",
+        "url": "https://www.koat.com/article/james-talarico-wins-texas-senat-paxton/74328166"
+    },
+    {
+        "id": "2ktyk2ecf",
+        "title": "Rep. Laura Gillen wins key Long Island congressional race crucial to helping decide who holds onto House",
+        "excerpt": "NY-4 was considered a crucial race that could help decide which party holds the House majority in Congress and may have major impacts on Trump's presidency.",
+        "content": "<p>NY-4 was considered a crucial race that could help decide which party holds the House majority in Congress and may have major impacts on Trump's presidency.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/10/Laura-Gillen-Jeanine-Driscoll-comp.jpg?quality=75&strip=all&w=1200",
+        "date": "Nov 4, 2026",
+        "url": "https://nypost.com/2026/11/03/us-news/rep-laura-gillen-wins-key-long-island-congressional-race-crucial-to-helping-decide-who-holds-onto-house/"
+    },
+    {
+        "id": "x7nvt7gqv",
+        "title": "Parents erupt as Florida students seen battling rising floods after exiting bus into waist-deep water amid 'one in 1000-year' rainfall",
+        "excerpt": "Shocking footage showed young students battling the rising waters as torrential rainfall, described as a 'one-in-1,000-year' event, submerged roads and left school buses partially underwater.",
+        "content": "<p>Shocking footage showed young students battling the rising waters as torrential rainfall, described as a 'one-in-1,000-year' event, submerged roads and left school buses partially underwater.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://i.dailymail.com/1s/2026/11/04/04/112287229-0-image-m-37_1793765448153.jpg",
+        "date": "Nov 4, 2026",
+        "url": "https://www.dailymail.com/news/article-16263617/Outrage-students-bus-waist-deep-floodwaters-historic-rainfall-Florida.html"
+    },
+    {
         "id": "bh7pktfhq",
         "title": "Gemtek joins three optical standards groups for AI data center development",
         "excerpt": "Gemtek Technology has joined three optical communications standards groups as the industry develops alternatives for connecting AI data centers. The move could influence interoperability, power use, scalability, and supply-chain integration across global data…",
