@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "p7ayyv48l",
+        "title": "Google turns off AI for schoolchildren by default",
+        "excerpt": "Google has said it will switch off its AI tools for schoolchildren by default, after drawing criticism for pushing artificial intelligence features to students while schools are still debating how the technology should be used in classrooms. The feature was s…",
+        "content": "<p>Google has said it will switch off its AI tools for schoolchildren by default, after drawing criticism for pushing artificial intelligence features to students while schools are still debating how the technology should be used in classrooms. The feature was s…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-31088,resizemode-75,msid-135559712/tech/artificial-intelligence/google-turns-off-ai-for-schoolchildren-by-default.jpg",
+        "date": "Nov 5, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-turns-off-ai-for-schoolchildren-by-default/articleshow/135559712.cms"
+    },
+    {
+        "id": "mag4cxtb8",
+        "title": "Agencies find AI overuse is leading to brief bloat",
+        "excerpt": "Agencies and marketers now frequently use AI tools to create media and creative briefs. But the practice could be a canary in the coalmine for AI overuse in advertising.",
+        "content": "<p>Agencies and marketers now frequently use AI tools to create media and creative briefs. But the practice could be a canary in the coalmine for AI overuse in advertising.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://digiday.com/wp-content/uploads/sites/3/2024/09/robot-hand-digiday.gif",
+        "date": "Nov 5, 2026",
+        "url": "http://digiday.com/marketing/a-little-bit-ridiculous-agencies-find-ai-overuse-is-leading-to-brief-bloat/"
+    },
+    {
+        "id": "2eyw67xlj",
+        "title": "Most consumers aren’t ready to let AI agents shop unsupervised",
+        "excerpt": "Customer control, account security and ease of use are influencing the adoption of AI agents that make purchases, book services and access personal information, according to Okta’s 2026 Customer Identity Trends Report. Consumers’ willingness to delegate depen…",
+        "content": "<p>Customer control, account security and ease of use are influencing the adoption of AI agents that make purchases, book services and access personal information, according to Okta’s 2026 Customer Identity Trends Report. Consumers’ willingness to delegate depen…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/14074130/identity-face-2-1500.webp",
+        "date": "Nov 5, 2026",
+        "url": "https://www.helpnetsecurity.com/2026/11/05/okta-ai-customer-experiences-report/"
+    },
+    {
+        "id": "5uj0nxwf9",
+        "title": "Clearing up a robot’s fuzzy memory",
+        "excerpt": "MIT researchers developed a system that identifies and corrects the descriptions of mislabeled objects stored in a robot’s memory. The method could make household or industrial robots better able to perform complex, multistep tasks.",
+        "content": "<p>MIT researchers developed a system that identifies and corrects the descriptions of mislabeled objects stored in a robot’s memory. The method could make household or industrial robots better able to perform complex, multistep tasks.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://news.mit.edu/sites/default/files/images/202611/MIT-Confident-Mem-01-press.jpg",
+        "date": "Nov 5, 2026",
+        "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105"
+    },
+    {
+        "id": "wdrdlkuxa",
+        "title": "10 Greatest Opening Lines In Sci-Fi Movie History, Ranked",
+        "excerpt": "Sometimes the opening line or text in a sci-fi movie can become its most memorable/significant, so here's a ranking of some of the absolute greatest.",
+        "content": "<p>Sometimes the opening line or text in a sci-fi movie can become its most memorable/significant, so here's a ranking of some of the absolute greatest.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/the-millennium-falcon-entering-hyperspace-in-star-wars-the-last-jedi.jpg?w=1600&h=900&fit=crop",
+        "date": "Nov 5, 2026",
+        "url": "https://screenrant.com/best-sci-fi-movie-opening-lines-ranked/"
+    },
+    {
+        "id": "hiunh1q9l",
+        "title": "76ers HC Nick Nurse provides encouraging update on Adem Bona’s neck injury",
+        "excerpt": "The Philadelphia 76ers maintained their impressive start to the NBA season by securing a 112-106 win over the Detroit Pistons on Wednesday night . However, the crucial road win also featured a worrying moment for Philadelphia as young center Adem Bona appeare…",
+        "content": "<p>The Philadelphia 76ers maintained their impressive start to the NBA season by securing a 112-106 win over the Detroit Pistons on Wednesday night . However, the crucial road win also featured a worrying moment for Philadelphia as young center Adem Bona appeare…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/cd0d7e431336c02f75c30bba9641008513c2ce5114426b771b1419bcf9fcf584/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F58a734494e8908df4f1eeb699c76b59c.jpg",
+        "date": "Nov 5, 2026",
+        "url": "https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-nick-nurse-provides-encouraging-update-adem-bonas-neck-injury"
+    },
+    {
+        "id": "ghi74q4gx",
+        "title": "Sensex zooms 1600 pts intraday; India m-cap tops ₹500 trn: Key reasons",
+        "excerpt": "VK Vijayakumar of Geojit Investments said that tailwinds for the economy are getting stronger. The strongest positive for the market is the sharp fall in Brent crude prices overnight.",
+        "content": "<p>VK Vijayakumar of Geojit Investments said that tailwinds for the economy are getting stronger. The strongest positive for the market is the sharp fall in Brent crude prices overnight.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/23/thumb/fitandfill/1200X628/1766485503-0124.jpg",
+        "date": "Nov 5, 2026",
+        "url": "https://www.business-standard.com/markets/news/sensex-zooms-1600-pts-intraday-india-m-cap-tops-500-trn-key-reasons-126110500454_1.html"
+    },
+    {
+        "id": "m35l7th7t",
+        "title": "Asian shares mostly advance following US midterms, though Kospi falls",
+        "excerpt": "Asian shares are mostly higher after U.S. stocks rallied following the midterm election, with the Dow Jones Industrial Average jumping more than 3%",
+        "content": "<p>Asian shares are mostly higher after U.S. stocks rallied following the midterm election, with the Dow Jones Industrial Average jumping more than 3%</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://i.abcnewsfe.com/a/aada8b52-dd61-4206-b692-c65ae8e88d23/wirestory_7ee9c212805aa5e70cf34d25aab7a36e_16x9.jpg?w=1600",
+        "date": "Nov 5, 2026",
+        "url": "https://abcnews.com/Business/wireStory/asian-shares-advance-us-midterms-kospi-falls-selling-137865044"
+    },
+    {
+        "id": "nf6xkvmyr",
+        "title": "Sanya and Maldives Sign Agreements to Deepen Trade and Investment Ties",
+        "excerpt": "Sanya has secured new agreements to advance trade and investment ties with the Maldives following a two-day mission focused on the blue economy, yacht ...",
+        "content": "<p>Sanya has secured new agreements to advance trade and investment ties with the Maldives following a two-day mission focused on the blue economy, yacht ...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/11/05/sanya.jpg",
+        "date": "Nov 5, 2026",
+        "url": "https://en.antaranews.com/news/440323/sanya-and-maldives-sign-agreements-to-deepen-trade-and-investment-ties"
+    },
+    {
+        "id": "hbn2n6v9g",
+        "title": "Asian shares mostly advance following US midterms, though Kospi falls on selling of chipmakers",
+        "excerpt": "Asian shares are mostly higher after U.S. stocks rallied following the midterm election, with the Dow Jones Industrial Average jumping more than 3%",
+        "content": "<p>Asian shares are mostly higher after U.S. stocks rallied following the midterm election, with the Dow Jones Industrial Average jumping more than 3%</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://i.abcnewsfe.com/a/aada8b52-dd61-4206-b692-c65ae8e88d23/wirestory_7ee9c212805aa5e70cf34d25aab7a36e_16x9.jpg?w=1600",
+        "date": "Nov 5, 2026",
+        "url": "https://abcnews.com/US/wireStory/asian-shares-advance-us-midterms-kospi-falls-selling-137865043"
+    },
+    {
         "id": "spam6lfis",
         "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
         "excerpt": "Three indigenous artificial intelligence (AI) models launched under the Centre's IndiaAI Mission are being developed for applications ranging from offline access on mobile phones to secure use in critical sectors such as defence, cybersecurity and banking.",
