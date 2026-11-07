@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "fxxflx8rs",
+        "title": "Pope Leo begins major Latin America tour three weeks after lung surgery",
+        "excerpt": "Pope Leo XIV is set to commence a 12-day journey through Latin America, including an important stop in Peru. Following his recovery from lung cancer surgery, he is eager to fulfill his responsibilities. This tour not only aims to bolster his health but also t…",
+        "content": "<p>Pope Leo XIV is set to commence a 12-day journey through Latin America, including an important stop in Peru. Following his recovery from lung cancer surgery, he is eager to fulfill his responsibilities. This tour not only aims to bolster his health but also t…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-135593990,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Nov 6, 2026",
+        "url": "https://timesofindia.indiatimes.com/world/us/pope-leo-begins-major-latin-america-tour-three-weeks-after-lung-surgery/articleshow/135592933.cms"
+    },
+    {
+        "id": "6b33j97m8",
+        "title": "Scientists examining dinosaur fossils report evidence of preserved red blood cells and collagen amino acids, a finding led by Curtin University that could change how researchers investigate ancient biological material",
+        "excerpt": "Palaeontologists found fossilised signs of dinosaur blood and collagen in a 115-million-year-old dinosaur bone. These structures were discovered in a theropod dinosaur known as Aratasaurus museunacionali. Advanced techniques identified iron-containing heme an…",
+        "content": "<p>Palaeontologists found fossilised signs of dinosaur blood and collagen in a 115-million-year-old dinosaur bone. These structures were discovered in a theropod dinosaur known as Aratasaurus museunacionali. Advanced techniques identified iron-containing heme an…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-135568541,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Nov 6, 2026",
+        "url": "https://timesofindia.indiatimes.com/science/discovery/scientists-examining-dinosaur-fossils-report-evidence-of-preserved-red-blood-cells-and-collagen-amino-acids-a-finding-led-by-curtin-university-that-could-change-how-researchers-investigate-ancient-biological-material/articleshow/135568018.cms"
+    },
+    {
+        "id": "le33t7i4y",
+        "title": "Archaeologists studying an ancient Spanish copper mine uncovered stone tools and new evidence of Bronze Age production; the findings suggest metal from Iberia may have travelled as far north as Scandinavia",
+        "excerpt": "Archaeologists conducted a thorough investigation of Las Minillas, an ancient copper mine in southern Spain, revealing its historical impact. Over 700 stone tools and pottery shards were found, pinpointing extensive activity from 1300 to 700 BC. This research…",
+        "content": "<p>Archaeologists conducted a thorough investigation of Las Minillas, an ancient copper mine in southern Spain, revealing its historical impact. Over 700 stone tools and pottery shards were found, pinpointing extensive activity from 1300 to 700 BC. This research…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-135571520,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Nov 6, 2026",
+        "url": "https://timesofindia.indiatimes.com/science/archaeology/archaeologists-studying-an-ancient-spanish-copper-mine-uncovered-stone-tools-and-new-evidence-of-bronze-age-production-the-findings-suggest-metal-from-iberia-may-have-travelled-as-far-north-as-scandinavia/articleshow/135570922.cms"
+    },
+    {
+        "id": "9vnd1uy3u",
+        "title": "Motilal Oswal Wealth’s 10 Diwali stock picks for Samvat 2083: Kotak Bank, Titan, Eternal, BSE and more",
+        "excerpt": "Samvat 2083 begins with a cautious mood on Dalal Street. An energy shock from the West Asia conflict is overshadowing an economy that is still growing strongly. The Nifty fell about 12% over Samvat 2082, and foreign investors have been selling heavily. But br…",
+        "content": "<p>Samvat 2083 begins with a cautious mood on Dalal Street. An energy shock from the West Asia conflict is overshadowing an economy that is still growing strongly. The Nifty fell about 12% over Samvat 2082, and foreign investors have been selling heavily. But br…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-135593766,width-1200,height-900,overlay-etwealth/slideshow.jpg",
+        "date": "Nov 6, 2026",
+        "url": "https://m.economictimes.com/wealth/invest/motilal-oswal-wealths-10-diwali-stock-picks-for-samvat-2083-kotak-bank-titan-eternal-bse-and-more/samvat-2083-starts-cautious-is-this-the-time-to-buy-indian-stocks/slideshow/135593766.cms"
+    },
+    {
+        "id": "7bbh30bdo",
+        "title": "Unique blend of Petoskey volleyball players capture D1 district title",
+        "excerpt": "It's a unique blend of Petoskey volleyball players this season and a group that came together at just the right time to celebrate a district title.",
+        "content": "<p>It's a unique blend of Petoskey volleyball players this season and a group that came together at just the right time to celebrate a district title.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/c964ca4fae5a39f13bf94f05c811041a37502c7858944ddc7e0cec2eb50c757b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpetoskey-news-review%2Ff0af9d15c1d812525793678b145e9c7c.jpg",
+        "date": "Nov 6, 2026",
+        "url": "https://www.petoskeynews.com/story/sports/high-school/2026/11/05/petoskey-volleyball-claims-d1-district-title-in-big-defensive-effort/92608496007/"
+    },
+    {
+        "id": "ev5o9ywt7",
+        "title": "What Indonesia's 'Watergate' moment says about two powerful men",
+        "excerpt": "After the alleged wire-tapping of the president and some of his most trusted allies, some experts wonder if it signals a growing rift between Indonesia's political heavyweights.",
+        "content": "<p>After the alleged wire-tapping of the president and some of his most trusted allies, some experts wonder if it signals a growing rift between Indonesia's political heavyweights.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/f39a8873ec25ad8ecd7831bcd820eaa4?impolicy=wcms_watermark_news&cropH=1453&cropW=2582&xPos=171&yPos=0&width=862&height=485&imformat=generic",
+        "date": "Nov 6, 2026",
+        "url": "https://www.abc.net.au/news/2026-11-06/indonesia-alleged-wire-tapping-widodo-subianto-political-drama/107354636"
+    },
+    {
+        "id": "l5evxsyot",
+        "title": "No Electricity But Lots Of Scandals – Ukraine Is Coming Apart",
+        "excerpt": "There seems to be little notice in the media that Ukraine is on the verge of a catastrophe. Its electricity network is on the border of systemic failure. The moral standing of its government within the Ukrainian population is breaking down. While there has be…",
+        "content": "<p>There seems to be little notice in the media that Ukraine is on the verge of a catastrophe. Its electricity network is on the border of systemic failure. The moral standing of its government within the Ukrainian population is breaking down. While there has be…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://lrc-cdn.s3.amazonaws.com/assets/2021/02/LRC-share.jpg",
+        "date": "Nov 6, 2026",
+        "url": "https://www.lewrockwell.com/2026/11/no_author/no-electricity-but-lots-of-scandals-ukraine-is-coming-apart/"
+    },
+    {
+        "id": "t8fi7ec9r",
+        "title": "Sweden builds houses and apartments like Lego sets. Why don’t we?",
+        "excerpt": "Sweden has given the world many wonderful gifts. Zara Larsson, obviously. Spotify and social democracy. And Ikea, the company that showed us you can furnish your apartment, stylishly and affordably, with the contents of a few flatpack boxes.  Sweden’s talent …",
+        "content": "<p>Sweden has given the world many wonderful gifts. Zara Larsson, obviously. Spotify and social democracy. And Ikea, the company that showed us you can furnish your apartment, stylishly and affordably, with the contents of a few flatpack boxes.  Sweden’s talent …</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/11/LucyJones_Vox_Housing.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "date": "Nov 6, 2026",
+        "url": "https://www.vox.com/future-perfect/509022/sweden-prefabricated-housing-affordability"
+    },
+    {
+        "id": "5m24urjs6",
+        "title": "Carnelian’s Vikas Khemani on small-caps, valuations and market risks",
+        "excerpt": "Carnelian’s Vikas Khemani sees long-term opportunities in small-caps, but says investors must assess their risk appetite and investment horizon.",
+        "content": "<p>Carnelian’s Vikas Khemani sees long-term opportunities in small-caps, but says investors must assess their risk appetite and investment horizon.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/Vikas_Khemanijpg_1781588101322_1781588101486_3beb80aa-a26c-478e-8888-9ac057b560fd_1793863295837_1kD7_5a947fea-d7ff-4d4b-9609-e670128006eb_H6Ci.jpeg",
+        "date": "Nov 6, 2026",
+        "url": "https://www.livemint.com/money/personal-finance/carnelians-vikas-khemani-on-small-caps-valuations-and-market-risks-11793783816432.html"
+    },
+    {
+        "id": "7adpwgki2",
+        "title": "Dead stars could break one of physics' most famous limits",
+        "excerpt": "A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Sun, dramatically exc…",
+        "content": "<p>A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Sun, dramatically exc…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/ultradense-white-dwarf-star.webp",
+        "date": "Nov 6, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm"
+    },
+    {
         "id": "p7ayyv48l",
         "title": "Google turns off AI for schoolchildren by default",
         "excerpt": "Google has said it will switch off its AI tools for schoolchildren by default, after drawing criticism for pushing artificial intelligence features to students while schools are still debating how the technology should be used in classrooms. The feature was s…",
