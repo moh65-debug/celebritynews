@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "6jzocd9yb",
+        "title": "From the front row to the hot seat — what the midterms mean for Big Tech | TechCrunch",
+        "excerpt": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+        "content": "<p>After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/SHAWN-THEW-Contributor-Getty.jpg?w=1024",
+        "date": "Nov 7, 2026",
+        "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
+    },
+    {
+        "id": "917yw6s6m",
+        "title": "Wall Street stocks rally after heavy AI-related selloff",
+        "excerpt": "Wall Street's trading session presented a mixed scenario as the S&P 500 and Nasdaq climbed, contrasting with a modest dip in the Dow. Investor apprehensions regarding impending regulations for the AI sector, especially after recent Democratic electoral succes…",
+        "content": "<p>Wall Street's trading session presented a mixed scenario as the S&P 500 and Nasdaq climbed, contrasting with a modest dip in the Dow. Investor apprehensions regarding impending regulations for the AI sector, especially after recent Democratic electoral succes…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135626172,width-1200,height-900,imgsize-250072,overlay-etmarkets/articleshow.jpg",
+        "date": "Nov 7, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-stocks-rally-after-heavy-ai-related-selloff/articleshow/135626123.cms"
+    },
+    {
+        "id": "yjq7wwqfx",
+        "title": "Nasdaq rebounds but posts fourth straight weekly decline",
+        "excerpt": "On Friday, technology stocks saw a significant rebound, boosting investor optimism about growth in artificial intelligence amidst recent market fluctuations. The semiconductor sector soared, primarily driven by impressive gains from Nvidia and Advanced Micro …",
+        "content": "<p>On Friday, technology stocks saw a significant rebound, boosting investor optimism about growth in artificial intelligence amidst recent market fluctuations. The semiconductor sector soared, primarily driven by impressive gains from Nvidia and Advanced Micro …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135626147,width-1200,height-900,imgsize-205944,overlay-etmarkets/articleshow.jpg",
+        "date": "Nov 7, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline/articleshow/135626093.cms"
+    },
+    {
+        "id": "fvfi13lki",
+        "title": "USDA to launch AI tool to check crop production data after errors",
+        "excerpt": "After the USDA discovered errors in its corn data from September, officials determined the AI tool would have flagged the problem and decided to use it on the crop production report due on November 10, USDA Under Secretary Scott Hutchins said in an interview.",
+        "content": "<p>After the USDA discovered errors in its corn data from September, officials determined the AI tool would have flagged the problem and decided to use it on the crop production report due on November 10, USDA Under Secretary Scott Hutchins said in an interview.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-126138,resizemode-75,msid-135626006/tech/artificial-intelligence/usda-to-launch-ai-tool-to-check-crop-production-data-after-errors.jpg",
+        "date": "Nov 7, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/usda-to-launch-ai-tool-to-check-crop-production-data-after-errors/articleshow/135626006.cms"
+    },
+    {
+        "id": "1395vqdt4",
+        "title": "Champions again! How Ponte Vedra extended title streak to six years",
+        "excerpt": "It's six years, six championships for Ponte Vedra girls swimming and diving at the FHSAA state meet. Here's how they won their latest trophy.",
+        "content": "<p>It's six years, six championships for Ponte Vedra girls swimming and diving at the FHSAA state meet. Here's how they won their latest trophy.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/723f419642629e06310b4137387a48a2e32516461f7dc0d705b4393e485378a0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-florida-times-union%2Fa057774c8e653e84c38c6ef3e99e28c8.jpg",
+        "date": "Nov 7, 2026",
+        "url": "https://www.jacksonville.com/story/sports/high-school/swimming-diving/2026/11/06/ponte-vedra-high-school-swimming-wins-fhsaa-girls-championship/90133167007/"
+    },
+    {
+        "id": "buj4p849e",
+        "title": "Bitcoin steadies after record hack fallout, US midterms turbulence",
+        "excerpt": "Bitcoin settled near recent lows after a bruising selloff on Nov 5 swept through risky assets.  Read more at straitstimes.com.",
+        "content": "<p>Bitcoin settled near recent lows after a bruising selloff on Nov 5 swept through risky assets.  Read more at straitstimes.com.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cassette.sphdigital.com.sg/image/straitstimes/c6a16fed9a51766384e6b97f8051372c77dd386acd4044a1663a1ed5b65b51be?w=1200",
+        "date": "Nov 7, 2026",
+        "url": "https://www.straitstimes.com/business/companies-markets/bitcoin-steadies-after-record-hack-fallout-us-midterms-turbulence"
+    },
+    {
+        "id": "7lhgu96hk",
+        "title": "Mohammed Shami retires from Tests: A legacy of seam, swing and 229 wickets",
+        "excerpt": "From Johannesburg with the ball to Lord's with the bat, Mohammed Shami leaves Tests with 229 wickets in 64 matches. The 36-year-old will continue playing white-ball cricket.",
+        "content": "<p>From Johannesburg with the ball to Lord's with the bat, Mohammed Shami leaves Tests with 229 wickets in 64 matches. The 36-year-old will continue playing white-ball cricket.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/07/thumb/featurecrop/1200X628/1794022173-5767.jpg",
+        "date": "Nov 7, 2026",
+        "url": "https://www.business-standard.com/cricket/news/mohammed-shami-test-retirement-229-wickets-lords-fifty-126110700101_1.html"
+    },
+    {
+        "id": "9cynkn7nq",
+        "title": "US offers $29m reward for details on Iran's nuclear program",
+        "excerpt": "A US State Department program, Rewards for Justice, \"is offering a $US20 million reward — and possible relocation — for information on Iran's nuclear program\".",
+        "content": "<p>A US State Department program, Rewards for Justice, \"is offering a $US20 million reward — and possible relocation — for information on Iran's nuclear program\".</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/fa9a17192449fc463e08335df364bab8?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=377&width=862&height=485&imformat=generic",
+        "date": "Nov 7, 2026",
+        "url": "https://www.abc.net.au/news/2026-11-07/us-20-million-rewards-for-justice-iran-nuclear-program-details/107359156"
+    },
+    {
+        "id": "shpi97hev",
+        "title": "The United States’ Myanmar Strategy Towards 2030: Implications for Foreign Direct Investment and National Economic Development",
+        "excerpt": "By Dr Kyaw Linn Htun – Public Administration Introduction Foreign Direct Investment (FDI) plays an important role in promoting economic […]",
+        "content": "<p>By Dr Kyaw Linn Htun – Public Administration Introduction Foreign Direct Investment (FDI) plays an important role in promoting economic […]</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.digitalagencybangkok.com/file/client-cdn/gnlm/wp-content/uploads/2015/01/Article.jpg",
+        "date": "Nov 7, 2026",
+        "url": "https://www.gnlm.com.mm/the-united-states-myanmar-strategy-towards-2030-implications-for-foreign-direct-investment-and-national-economic-development/"
+    },
+    {
+        "id": "bj57ss4fo",
+        "title": "Why ‘Suits’ Japan Swapped Drugs for Cash: NBCUniversal, TBS Format Chiefs on Localizing Hits at Taiwan Creative Content Fest",
+        "excerpt": "In the pilot of “Suits,” the briefcase that springs open during a job interview is full of marijuana, and it stays that way in the show’s Korean and Mongolian remakes. In Japan, the drugs became money, because drugs can’t be shown on Japanese TV, according to…",
+        "content": "<p>In the pilot of “Suits,” the briefcase that springs open during a job interview is full of marijuana, and it stays that way in the show’s Korean and Mongolian remakes. In Japan, the drugs became money, because drugs can’t be shown on Japanese TV, according to…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://variety.com/wp-content/uploads/2026/11/TCCF-formats-panel.jpg?w=1000&h=563&crop=1",
+        "date": "Nov 7, 2026",
+        "url": "https://variety.com/2026/tv/markets-festivals/suits-japan-swapped-drugs-cash-nbcuniversal-tbs-format-localization-1236941878/"
+    },
+    {
         "id": "fxxflx8rs",
         "title": "Pope Leo begins major Latin America tour three weeks after lung surgery",
         "excerpt": "Pope Leo XIV is set to commence a 12-day journey through Latin America, including an important stop in Peru. Following his recovery from lung cancer surgery, he is eager to fulfill his responsibilities. This tour not only aims to bolster his health but also t…",
