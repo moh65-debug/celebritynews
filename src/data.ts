@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "zoba8x578",
+        "title": "FIIs return to Dalal Street, pump Rs 38,971 crore into Indian equities amid AI sell-off",
+        "excerpt": "In a remarkable week, foreign portfolio investors flocked to Indian equities, pouring over Rs 38,000 crore into the market. This influx was largely driven by a global downturn in technology stocks fueled by AI concerns. While domestic institutional investors …",
+        "content": "<p>In a remarkable week, foreign portfolio investors flocked to Indian equities, pouring over Rs 38,000 crore into the market. This influx was largely driven by a global downturn in technology stocks fueled by AI concerns. While domestic institutional investors …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/msid-135650480,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Nov 8, 2026",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/fiis-return-to-dalal-street-pump-rs-38971-crore-into-indian-equities-amid-ai-sell-off/articleshow/135650408.cms"
+    },
+    {
+        "id": "9r8yv5pf5",
+        "title": "Notre Dame rises to CFP committee's challenge vs Miami. Did Fighting Irish lock in playoff?",
+        "excerpt": "Notre Dame took No. 1 Miami, jumped out to a big lead and withheld a furious second-half comeback. Did the Irish lock in their CFP spot?",
+        "content": "<p>Notre Dame took No. 1 Miami, jumped out to a big lead and withheld a furious second-half comeback. Did the Irish lock in their CFP spot?</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/ad6f806bd5637f37e7ad774e1a4557223949b4af85a738e4d5d73072c9c3028f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F4b426b4d430496c32e4594cc129682e9.jpg",
+        "date": "Nov 8, 2026",
+        "url": "https://www.usatoday.com/story/sports/ncaaf/2026/11/07/notre-dame-cfp-college-football-playoff-chances-win-miami/92671975007/"
+    },
+    {
+        "id": "bm1l902op",
+        "title": "Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week - The Tribune",
+        "excerpt": "The return of foreign investors comes amid a sharp sell-off in global technology stocks, triggered by concerns over artificial intelligence-related investments and a possible slowdown in data centre spending.",
+        "content": "<p>The return of foreign investors comes amid a sharp sell-off in global technology stocks, triggered by concerns over artificial intelligence-related investments and a possible slowdown in data centre spending.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNkMjBkOTUwLWRiMjItMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
+        "date": "Nov 8, 2026",
+        "url": "https://www.tribuneindia.com/news/business/global-ai-sell-off-triggers-fpi-return-to-indian-markets-rs-38971-crore-equity-inflows-this-week/"
+    },
+    {
+        "id": "8me6y1c64",
+        "title": "NYT Strands Answers Today Nov. 8, 2026: Hints, Spangram and Solutions for Puzzle 980 on a Fighting Theme",
+        "excerpt": "Sunday's NYT Strands puzzle features structured combat disciplines, with five martial arts to find and MARTIAL ARTS as the 11-letter spangram.",
+        "content": "<p>Sunday's NYT Strands puzzle features structured combat disciplines, with five martial arts to find and MARTIAL ARTS as the 11-letter spangram.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://d.ibtimes.com.au/en/full/1893891/nyt-strands.png",
+        "date": "Nov 8, 2026",
+        "url": "https://www.ibtimes.com.au/nyt-strands-answers-november-8-martial-arts-1878087"
+    },
+    {
+        "id": "sqmbv0ky8",
+        "title": "15.3-inch gaming laptop releases with 2.5K 240Hz screen and 10-core Ryzen AI processor",
+        "excerpt": "Mechrevo has listed the Unbounded 15X Blizzard Gaming Edition in China with an AMD Ryzen AI 9 365 processor and a 240Hz display. The laptop also features 16GB of RAM, a 1TB SSD and an 80Wh battery.",
+        "content": "<p>Mechrevo has listed the Unbounded 15X Blizzard Gaming Edition in China with an AMD Ryzen AI 9 365 processor and a 240Hz display. The laptop also features 16GB of RAM, a 1TB SSD and an 80Wh battery.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo-boundless-15x-blizzard-gaming-edition.png",
+        "date": "Nov 8, 2026",
+        "url": "https://www.notebookcheck.net/15-3-inch-gaming-laptop-releases-with-2-5K-240Hz-screen-and-10-core-Ryzen-AI-processor.1444742.0.html"
+    },
+    {
+        "id": "n3x3wns5d",
+        "title": "AMD Ryzen-powered gaming laptop releases with 15.3-inch 2.5K 240Hz display, 16GB RAM and 1TB SSD",
+        "excerpt": "Mechrevo has listed the Unbounded 15X Blizzard Gaming Edition in China with an AMD Ryzen AI 9 365 processor and a 240Hz display. The laptop also features 16GB of RAM, a 1TB SSD and an 80Wh battery.",
+        "content": "<p>Mechrevo has listed the Unbounded 15X Blizzard Gaming Edition in China with an AMD Ryzen AI 9 365 processor and a 240Hz display. The laptop also features 16GB of RAM, a 1TB SSD and an 80Wh battery.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo-boundless-15x-blizzard-gaming-edition.png",
+        "date": "Nov 8, 2026",
+        "url": "https://www.notebookcheck.net/AMD-Ryzen-powered-gaming-laptop-releases-with-15-3-inch-2-5K-240Hz-display-16GB-RAM-and-1TB-SSD.1444742.0.html"
+    },
+    {
+        "id": "b8v7u4smf",
+        "title": "AMD-powered 15.3-inch gaming laptop releases with 2.5K 240Hz display, 16GB RAM and 1TB SSD",
+        "excerpt": "Mechrevo has listed the Unbounded 15X Blizzard Gaming Edition in China with an AMD Ryzen AI 9 365 processor and a 240Hz display. The laptop also features 16GB of RAM, a 1TB SSD and an 80Wh battery.",
+        "content": "<p>Mechrevo has listed the Unbounded 15X Blizzard Gaming Edition in China with an AMD Ryzen AI 9 365 processor and a 240Hz display. The laptop also features 16GB of RAM, a 1TB SSD and an 80Wh battery.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo-boundless-15x-blizzard-gaming-edition.png",
+        "date": "Nov 8, 2026",
+        "url": "https://www.notebookcheck.net/AMD-powered-15-3-inch-gaming-laptop-releases-with-2-5K-240Hz-display-16GB-RAM-and-1TB-SSD.1444742.0.html"
+    },
+    {
+        "id": "qtd6ki9t5",
+        "title": "Get Jiro S01E07: \"Cage Free\" Preview: Jiro Gets a Surprise Assist",
+        "excerpt": "As far as animation goes, Adult Swim's Get Jiro, the animated series adaptation of the acclaimed DC/Vertigo graphic novel by Anthony Bourdain and Joel Rose, has to be in the conversation when it comes to the best that 2026 had to offer. If there isn't a campa…",
+        "content": "<p>As far as animation goes, Adult Swim's Get Jiro, the animated series adaptation of the acclaimed DC/Vertigo graphic novel by Anthony Bourdain and Joel Rose, has to be in the conversation when it comes to the best that 2026 had to offer. If there isn't a campa…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/11/MixCollage-07-Nov-2026-10-04-PM-5630-2000x1125.jpg",
+        "date": "Nov 8, 2026",
+        "url": "https://bleedingcool.com/tv/get-jiro-s01e07-cage-free-preview-jiro-gets-a-surprise-assist/"
+    },
+    {
+        "id": "qarvzh6q7",
+        "title": "‘Hey Jealousy’: WNBA Has-Been Slams Caitlin Clark and Sophie Cunningham",
+        "excerpt": "WNBA legends and analysts clash over claims that Caitlin Clark's success comes from looks. See the full debate and expert reactions here.",
+        "content": "<p>WNBA legends and analysts clash over claims that Caitlin Clark's success comes from looks. See the full debate and expert reactions here.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/e6d291d72ee45d09b68ad0e874ce73c0ccbebecd491d37d57b56cbb4b44a6cbf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgameday_times_324%2F3ac7bba5ece0b1f16e44493a4c41ae1c.jpg",
+        "date": "Nov 8, 2026",
+        "url": "https://gamedaytimes.com/wnba-analysts-push-back-on-mccoughtrys-comments-about-clark-and-cunningham/"
+    },
+    {
+        "id": "2s1mnmw0n",
+        "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+        "excerpt": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer&apos;s disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 and older and found that those who rece…",
+        "content": "<p>A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer&apos;s disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 and older and found that those who rece…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.sciencedaily.com/images/1920/elderly-patient-doctor-vaccine-injection.webp",
+        "date": "Nov 8, 2026",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm"
+    },
+    {
         "id": "6jzocd9yb",
         "title": "From the front row to the hot seat — what the midterms mean for Big Tech | TechCrunch",
         "excerpt": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
