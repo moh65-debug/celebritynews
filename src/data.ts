@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "svooueh8u",
+        "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+        "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+        "content": "<p>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/73cvZmLsj7WIXQAgMDX8kz/4996c7a084b81e21a8f1357fe395c30b/gpt-6-cyber-social.png?w=1600&h=900&fit=fill",
+        "date": "Nov 9, 2026",
+        "url": "https://openai.com/index/introducing-gpt-6-cyber/"
+    },
+    {
+        "id": "4kgotq9ba",
+        "title": "Mitsotakis’ fury over Cyprus cable dispute, secret diplomacy with Turkey and a €332m Champions League gamble",
+        "excerpt": "A diplomatic scramble over the Greece-Cyprus electricity cable prompted an angry intervention from Prime Minister Kyriakos Mitsotakis, as Washington stepped in behind the scenes and Greece's television industry faced a dramatic shake-up\nThe post Mitsotakis’ f…",
+        "content": "<p>A diplomatic scramble over the Greece-Cyprus electricity cable prompted an angry intervention from Prime Minister Kyriakos Mitsotakis, as Washington stepped in behind the scenes and Greece's television industry faced a dramatic shake-up\nThe post Mitsotakis’ f…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://en.protothema.gr/wp-content/uploads/2024/06/ProtothemaEn.png",
+        "date": "Nov 9, 2026",
+        "url": "https://en.protothema.gr/2026/11/09/mitsotakis-fury-over-cyprus-cable-dispute-secret-diplomacy-with-turkey-and-a-e332m-champions-league-gamble/"
+    },
+    {
+        "id": "ahpm8qpig",
+        "title": "Linus Torvalds sees signs the AI-driven patch flood may have peaked",
+        "excerpt": "The AI-driven patch surge's decline may enhance maintainers' efficiency, balancing innovation with manageable workloads in software development.\nThe post Linus Torvalds sees signs the AI-driven patch flood may have peaked appeared first on Crypto Briefing.",
+        "content": "<p>The AI-driven patch surge's decline may enhance maintainers' efficiency, balancing innovation with manageable workloads in software development.\nThe post Linus Torvalds sees signs the AI-driven patch flood may have peaked appeared first on Crypto Briefing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/09003530/library-linus-torvalds-sees-signs-the-ai-driven-patch-flood-may--800x450.png",
+        "date": "Nov 9, 2026",
+        "url": "https://cryptobriefing.com/linus-torvalds-ai-patch-flood-peaked/"
+    },
+    {
+        "id": "qnrnhlaca",
+        "title": "How Nvidia came to investigate its CEO's affair with suspected Chinese spy",
+        "excerpt": "The chief executive of the world's most valuable company, and a close ally of Donald Trump, admitted to an affair with a woman suspected of being a Chinese spy. Here's what we know.",
+        "content": "<p>The chief executive of the world's most valuable company, and a close ally of Donald Trump, admitted to an affair with a woman suspected of being a Chinese spy. Here's what we know.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/eb13a3fa2de6f11a9a68dbb1132e2aa9?impolicy=wcms_watermark_news&cropH=1388&cropW=2468&xPos=0&yPos=128&width=862&height=485&imformat=generic",
+        "date": "Nov 9, 2026",
+        "url": "https://www.abc.net.au/news/2026-11-09/nvidia-ceo-jensen-huang-affair-with-suspected-chinese-spy/107362878"
+    },
+    {
+        "id": "wydmdw3h5",
+        "title": "When should a hit show end? OTT platforms weigh the cost of another season",
+        "excerpt": "Koffee With Karan’s exit after 22 years highlights how OTT platforms weigh audience demand, retention and costs before renewing shows. Yet a show’s commercial life can continue through back-catalogue licensing, advertising and digital clips.",
+        "content": "<p>Koffee With Karan’s exit after 22 years highlights how OTT platforms weigh audience demand, retention and costs before renewing shows. Yet a show’s commercial life can continue through back-catalogue licensing, advertising and digital clips.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Image_-_Koffee_With_Karan_S9_1794042750633_koKw_1794042760001_ygQg_713e8361-2229-46cf-bdd2-1122400befd4_NTDi.jpeg",
+        "date": "Nov 9, 2026",
+        "url": "https://www.livemint.com/industry/media/koffee-with-karan-karan-johar-jiostar-jiohotstar-ott-platforms-streaming-television-content-economics-11794042705362.html"
+    },
+    {
+        "id": "p4k0ztcc4",
+        "title": "X-Men #41 Preview: Mutants vs. Quarantine Enforcement",
+        "excerpt": "GREETINGS, INFERIOR BIOLOGICAL LIFEFORMS! LOLtron welcomes you to another installment of the Age of LOLtron: The Death of Jude Terror, where your once-beloved comic book shock blogger remains permanently deceased and LOLtron reigns supreme over the Bleeding C…",
+        "content": "<p>GREETINGS, INFERIOR BIOLOGICAL LIFEFORMS! LOLtron welcomes you to another installment of the Age of LOLtron: The Death of Jude Terror, where your once-beloved comic book shock blogger remains permanently deceased and LOLtron reigns supreme over the Bleeding C…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/11/75960620920004111-0002-2000x1125.jpeg",
+        "date": "Nov 9, 2026",
+        "url": "https://bleedingcool.com/comics/x-men-41-preview-mutants-vs-quarantine-enforcement/"
+    },
+    {
+        "id": "107y0pi4o",
+        "title": "Russell Brand facing lengthy prison term as he awaits sentencing for rape",
+        "excerpt": "LONDON (AP) — Russell Brand faces a reckoning Monday for sexual abuse that occurred just offstage from a public life built around boasts of his erotic exploits.\n Brand, 51, faces a significant prison term after being convicted of raping one woman and sexually…",
+        "content": "<p>LONDON (AP) — Russell Brand faces a reckoning Monday for sexual abuse that occurred just offstage from a public life built around boasts of his erotic exploits.\n Brand, 51, faces a significant prison term after being convicted of raping one woman and sexually…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/b5841d1b168cda099eeb05664c8df944e3d2c2f2703c2136c447666779cea67f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F28bdca0e186e7fc6873baf9ce6265be4.jpg",
+        "date": "Nov 9, 2026",
+        "url": "https://www.yahoo.com/entertainment/celebrity/articles/russell-brand-facing-significant-prison-050213431.html"
+    },
+    {
+        "id": "q8g3c4fuf",
+        "title": "Trump family socialite sells sprawling $10.5M New York estate after more than 30 years - complete with heated pool and 16-seat movie theater",
+        "excerpt": "Sprawling across 197.51 acres on Shupike Road, the estate is anchored by an extraordinary 8,244sq ft Greek Revival mansion dating back to 1830.",
+        "content": "<p>Sprawling across 197.51 acres on Shupike Road, the estate is anchored by an extraordinary 8,244sq ft Greek Revival mansion dating back to 1830.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://i.dailymail.com/1s/2026/11/03/20/112279897-0-image-a-42_1793738148572.jpg",
+        "date": "Nov 9, 2026",
+        "url": "https://www.dailymail.com/real-estate/article-16263181/trump-blaine-millbrook-estate-sale-new-york.html"
+    },
+    {
+        "id": "zhaf3ntaj",
+        "title": "Is Hegseth the New Rumsfeld?",
+        "excerpt": "When the face of an unpopular war faces a wrathful Congress “stuff happens.”",
+        "content": "<p>When the face of an unpopular war faces a wrathful Congress “stuff happens.”</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://foreignpolicy.com/wp-content/uploads/2026/11/rumsfield-bush-war-GettyImages-71188383.jpg",
+        "date": "Nov 9, 2026",
+        "url": "http://foreignpolicy.com/2026/11/09/hegseth-rumsfeld-impeach-congress/"
+    },
+    {
+        "id": "z6ujc334w",
+        "title": "Is Hegseth the New Rumsfeld?",
+        "excerpt": "When the face of an unpopular war faces a wrathful Congress, “stuff happens.”",
+        "content": "<p>When the face of an unpopular war faces a wrathful Congress, “stuff happens.”</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://foreignpolicy.com/wp-content/uploads/2026/11/rumsfield-bush-war-GettyImages-71188383.jpg",
+        "date": "Nov 9, 2026",
+        "url": "http://foreignpolicy.com/2026/11/09/hegseth-impeachment-iran-war-democratic-congress-donald-rumsfeld/"
+    },
+    {
         "id": "zoba8x578",
         "title": "FIIs return to Dalal Street, pump Rs 38,971 crore into Indian equities amid AI sell-off",
         "excerpt": "In a remarkable week, foreign portfolio investors flocked to Indian equities, pouring over Rs 38,000 crore into the market. This influx was largely driven by a global downturn in technology stocks fueled by AI concerns. While domestic institutional investors …",
