@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "eg9th6myc",
+        "title": "China's trade surplus surpasses USD 1 trillion for 2nd straight year, as exports surge 35 per cent",
+        "excerpt": "China's trade surplus has surpassed USD 1 trillion for the second consecutive year as exports continue to rise significantly. Imports increased sharply in October, contributing to a narrowing of the monthly surplus. The trade situation presents challenges as …",
+        "content": "<p>China's trade surplus has surpassed USD 1 trillion for the second consecutive year as exports continue to rise significantly. Imports increased sharply in October, contributing to a narrowing of the monthly surplus. The trade situation presents challenges as …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135699421,width-1200,height-900,imgsize-89470,overlay-economictimes/articleshow.jpg",
+        "date": "Nov 10, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/business/chinas-trade-surplus-surpasses-usd-1-trillion-for-2nd-straight-year-as-exports-surge-35-per-cent/articleshow/135699179.cms"
+    },
+    {
+        "id": "33l2rcrzr",
+        "title": "Foxconn extends vertical integration across 5 battery layers",
+        "excerpt": "Young Liu, chairman of Hon Hai Technology Group (Foxconn), repeatedly highlighted the company's strength in vertical integration at Hon Hai Tech Day 2026 (HHTD26), underscoring progress beyond AI data centers and into battery applications. Foxconn is linking …",
+        "content": "<p>Young Liu, chairman of Hon Hai Technology Group (Foxconn), repeatedly highlighted the company's strength in vertical integration at Hon Hai Tech Day 2026 (HHTD26), underscoring progress beyond AI data centers and into battery applications. Foxconn is linking …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.digitimes.com/newsshow/20261110pd218_files/2_2b.jpg",
+        "date": "Nov 10, 2026",
+        "url": "https://www.digitimes.com/news/a20261110PD218/foxconn-young-liu-manufacturing-chairman-materials.html"
+    },
+    {
+        "id": "917x0rs5b",
+        "title": "GTA 6 preloads are live — there's still time to upgrade your NBN before launch day",
+        "excerpt": "The biggest game of the decade is almost here. This is your final chance to make sure your NBN plan is up the task of handling the huge download of GTA 6.",
+        "content": "<p>The biggest game of the decade is almost here. This is your final chance to make sure your NBN plan is up the task of handling the huge download of GTA 6.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/SJKYKDB6EHfFrEWKpCaxcJ-2000-80.jpg",
+        "date": "Nov 10, 2026",
+        "url": "https://www.techradar.com/computing/wi-fi-broadband/gta-6-preloads-are-live-theres-still-time-to-upgrade-your-nbn-before-launch-day"
+    },
+    {
+        "id": "yo4pjxsbo",
+        "title": "Quantum could solve AI energy drain, says tech founder",
+        "excerpt": "Quantum computers could curb the vast energy demands of artificial intelligence data centres with their ability to run complex calculations, one of the tech's pioneers told AFP. Australian startup Diraq is conducting the first field test worldwide putting a s…",
+        "content": "<p>Quantum computers could curb the vast energy demands of artificial intelligence data centres with their ability to run complex calculations, one of the tech's pioneers told AFP. Australian startup Diraq is conducting the first field test worldwide putting a s…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-225898,resizemode-75,msid-135699105/tech/artificial-intelligence/quantum-could-solve-ai-energy-drain-says-tech-founder.jpg",
+        "date": "Nov 10, 2026",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/quantum-could-solve-ai-energy-drain-says-tech-founder/articleshow/135699105.cms"
+    },
+    {
+        "id": "4ee5gktbp",
+        "title": "Anthropic retracts $69.3 bn IPO figures, says revised details to follow",
+        "excerpt": "Anthropic IPO: The Claude maker had circulated details showing plans to sell 867 million shares at $70-80 apiece, before telling bankers that the pricing information was inaccurate",
+        "content": "<p>Anthropic IPO: The Claude maker had circulated details showing plans to sell 867 million shares at $70-80 apiece, before telling bankers that the pricing information was inaccurate</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/27/thumb/featurecrop/1200X628/1793071694-0803.jpg",
+        "date": "Nov 10, 2026",
+        "url": "https://www.business-standard.com/world-news/anthropic-retracts-69-3-bn-ipo-figures-says-revised-details-to-follow-126111000143_1.html"
+    },
+    {
+        "id": "h98xespue",
+        "title": "Everything Dan Lanning said before Oregon hosts Michigan",
+        "excerpt": "Dan Lanning looked back at Oregon's win over Ohio State and previewed the Ducks' matchup vs. Michigan at his weekly press conference.",
+        "content": "<p>Dan Lanning looked back at Oregon's win over Ohio State and previewed the Ducks' matchup vs. Michigan at his weekly press conference.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/790382851c890802966be936c693334a41a3d2b7a0857aa3dc8966a7b86fb275/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fducks_wire_usa_today_articles_200%2F6d7a3477b608cbb0d308391f2dbe3d6d.jpg",
+        "date": "Nov 10, 2026",
+        "url": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/11/09/oregon-football-dan-lanning-previews-matchup-vs-michigan/92699209007/"
+    },
+    {
+        "id": "i2uhjgm81",
+        "title": "Bigg Boss 18 fame Rajat Dalal mourns pet dog Ballu’s demise; shares heartbreaking note",
+        "excerpt": "Rajat Dalal, a familiar face from Bigg Boss 18, is mourning the loss of his beloved pet dog, Ballu. Tragically, Ballu ingested a thorny plant that caused severe intestinal damage. Despite efforts to save him, Ballu's health deteriorated, leading to his untime…",
+        "content": "<p>Rajat Dalal, a familiar face from Bigg Boss 18, is mourning the loss of his beloved pet dog, Ballu. Tragically, Ballu ingested a thorny plant that caused severe intestinal damage. Despite efforts to save him, Ballu's health deteriorated, leading to his untime…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/msid-135698315,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Nov 10, 2026",
+        "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-18-fame-rajat-dalal-mourns-pet-dog-ballus-demise-shares-heartbreaking-note/articleshow/135698276.cms"
+    },
+    {
+        "id": "0vw1t8khu",
+        "title": "Lakers’ JJ Redick highlights Luka Doncic’s motivation amid scoring spree",
+        "excerpt": "The Los Angeles Lakers have gotten off to such a hot start in the 2026-27 season, and that’s thanks in large part to the heater Luka Doncic has been on all season long to this point. Doncic entered play on Monday against the Atlanta Hawks with a league-leadin…",
+        "content": "<p>The Los Angeles Lakers have gotten off to such a hot start in the 2026-27 season, and that’s thanks in large part to the heater Luka Doncic has been on all season long to this point. Doncic entered play on Monday against the Atlanta Hawks with a league-leadin…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/64f17b7d00e2fdc283a4724825cf488429730e82111b5da9a4f643fff7dbfd1e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F7b0c991178a7b76f9821dab60911f0b4.jpg_up.jpg",
+        "date": "Nov 10, 2026",
+        "url": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-jj-redick-highlights-luka-doncics-motivation-amid-scoring-spree"
+    },
+    {
+        "id": "6018bg65r",
+        "title": "Carson Daly Gets Standing Ovation From ‘The Voice’ Coaches After Kelly Clarkson Congratulates Him on Saturday TODAY Gig",
+        "excerpt": "Carson Daly was surprised with a standing ovation during the Nov. 9 episode of “The Voice” after Kelly Clarkson congratulated him on his Saturday TODAY job.",
+        "content": "<p>Carson Daly was surprised with a standing ovation during the Nov. 9 episode of “The Voice” after Kelly Clarkson congratulated him on his Saturday TODAY job.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/carson-the-voice-lc-261109-416f2e.jpg",
+        "date": "Nov 10, 2026",
+        "url": "https://www.today.com/popculture/tv/kelly-clarkson-congratulates-carson-daly-saturday-today-job-the-voice-rcna608471"
+    },
+    {
+        "id": "cez0n6fyv",
+        "title": "SCOREBOARD | Northeast Florida high school sports for Nov. 9-14",
+        "excerpt": "The Times-Union rounds up high school sports scores and results across Jacksonville and Northeast Florida for Nov. 9-14, 2026.",
+        "content": "<p>The Times-Union rounds up high school sports scores and results across Jacksonville and Northeast Florida for Nov. 9-14, 2026.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/2758a134ef2adf5f60a83ef75b13d69de4c96ed9bc849a7a5766829581db9a91/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-florida-times-union%2Fac6d60d5e257343dba9e1c23021cc3ab.jpg",
+        "date": "Nov 10, 2026",
+        "url": "https://www.jacksonville.com/story/sports/high-school/2026/11/09/jacksonville-area-high-school-sports-scores-nov-9-14/91203841007/"
+    },
+    {
         "id": "svooueh8u",
         "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
         "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
