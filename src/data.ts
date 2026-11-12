@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "j5iysuv09",
+        "title": "効果的な学習の実現に向けCrossKnowledgeの新サービス「～AIがキャリア実現をナビゲート～LEARNING DRIVE」をリリースします！2026年10月よりサービス提供開始！",
+        "excerpt": "[株式会社LDcube]\n[画像1: https://prcdn.freetls.fastly.net/release_image/131307/224/131307-224-48fae0c9ec96044cc7efe24e6e4d1f21-1280x720.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+        "content": "<p>[株式会社LDcube]\n[画像1: https://prcdn.freetls.fastly.net/release_image/131307/224/131307-224-48fae0c9ec96044cc7efe24e6e4d1f21-1280x720.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/131307/224/131307-224-48fae0c9ec96044cc7efe24e6e4d1f21-1280x720.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "date": "Nov 11, 2026",
+        "url": "https://prtimes.jp/main/html/rd/p/000000224.000131307.html"
+    },
+    {
+        "id": "kgrsapkba",
+        "title": "a healthcare companion for policy comparison, AI support, health records and doctor guidance, with regional-language ac",
+        "excerpt": "Healthcare decisions shouldn&#39;t be complicated by confusing policies and fine print.  Introducing FamCore — a healthcare companion for policy comparison, AI support, health records and doctor gu...",
+        "content": "<p>Healthcare decisions shouldn&#39;t be complicated by confusing policies and fine print.  Introducing FamCore — a healthcare companion for policy comparison, AI support, health records and doctor gu...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://opengraph.githubassets.com/d6bf8e614bce0ab0116ba87c95931d55ceea1f6f4420713c2eb9eb835e91d53c/byteninja01/FamCore",
+        "date": "Nov 11, 2026",
+        "url": "https://github.com/byteninja01/FamCore"
+    },
+    {
+        "id": "ro599nbrf",
+        "title": "Asian AI stocks rise as CoreWeave jumps 13% after earnings beat",
+        "excerpt": "Investing.com -- Asian technology stocks advanced on Wednesday as stronger-than-expected earnings from AI cloud provider CoreWeave revived confidence in infrastructure demand, lifting semiconductor shares in South Korea, Japan and Taiwan.\nHowever, gains were …",
+        "content": "<p>Investing.com -- Asian technology stocks advanced on Wednesday as stronger-than-expected earnings from AI cloud provider CoreWeave revived confidence in infrastructure demand, lifting semiconductor shares in South Korea, Japan and Taiwan.\nHowever, gains were …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/8dfce13400fec1f4_s.webp",
+        "date": "Nov 11, 2026",
+        "url": "https://biztoc.com/x/8dfce13400fec1f4"
+    },
+    {
+        "id": "kg9kdgdbx",
+        "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+        "excerpt": "The affair between Nvidia CEO Jensen Huang and a Chinese businesswoman suspected of spying for Beijing has triggered investigations in the US, raising concerns over national security and the security of sensitive AI technology. The controversy has drawn scrut…",
+        "content": "<p>The affair between Nvidia CEO Jensen Huang and a Chinese businesswoman suspected of spying for Beijing has triggered investigations in the US, raising concerns over national security and the security of sensitive AI technology. The controversy has drawn scrut…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135727012,width-1200,height-900,imgsize-127360,overlay-economictimes/articleshow.jpg",
+        "date": "Nov 11, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/business/how-nvidia-ceo-jensen-huangs-extramarital-affair-could-cause-collateral-damage-in-washington/articleshow/135727016.cms"
+    },
+    {
+        "id": "njnb0pts8",
+        "title": "WhatsApp to make connections richer, use AI to save time: CEO Kunal Shah",
+        "excerpt": "WhatsApp will focus on making connections richer, letting users complete tasks such as paying bills within chats and using AI to improve efficiency, while keeping personal messages and calls end-to-end encrypted, CEO Kunal Shah said on Wednesday.\nShah, who to…",
+        "content": "<p>WhatsApp will focus on making connections richer, letting users complete tasks such as paying bills within chats and using AI to improve efficiency, while keeping personal messages and calls end-to-end encrypted, CEO Kunal Shah said on Wednesday.\nShah, who to…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/23/thumb/fitandfill/1200X628/1782207871-6937.jpeg",
+        "date": "Nov 11, 2026",
+        "url": "https://www.business-standard.com/technology/tech-news/whatsapp-to-make-connections-richer-use-ai-to-save-time-ceo-kunal-shah-126111100264_1.html"
+    },
+    {
+        "id": "jf3gu3bfh",
+        "title": "The rule of law and economic growth: what three decades of data show",
+        "excerpt": "Weighted by population, the rule of law has slipped globally since 1996. India and the United States contributed a large part to this decline, while China's net impact was negligible thanks to a recovery from the mid 00's. Countries with a stronger rule of la…",
+        "content": "<p>Weighted by population, the rule of law has slipped globally since 1996. India and the United States contributed a large part to this decline, while China's net impact was negligible thanks to a recovery from the mid 00's. Countries with a stronger rule of la…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.gilesd-j.com/wp-content/uploads/2026/11/261017-plot-world-trend-1.png",
+        "date": "Nov 11, 2026",
+        "url": "https://www.r-bloggers.com/2026/11/the-rule-of-law-and-economic-growth-what-three-decades-of-data-show/"
+    },
+    {
+        "id": "l1z83phhs",
+        "title": "Council backflips to ban climate group's protests on community land",
+        "excerpt": "The City of Newcastle bans a climate action group from protesting on community land \"now and into the future\", sparking fears about the right to peacefully protest.",
+        "content": "<p>The City of Newcastle bans a climate action group from protesting on community land \"now and into the future\", sparking fears about the right to peacefully protest.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/0dc0d741a0182511b4623785e4bcd73a?impolicy=wcms_watermark_news&cropH=892&cropW=1585&xPos=0&yPos=84&width=862&height=485&imformat=generic",
+        "date": "Nov 11, 2026",
+        "url": "https://www.abc.net.au/news/2026-11-11/newcastle-council-bans-climate-protests-on-community-land/107369840"
+    },
+    {
+        "id": "4rrgbhal7",
+        "title": "TaleSpin #4 Preview: Baloo's Turbulent Delivery Service",
+        "excerpt": "GREETINGS, INFERIOR BIOLOGICAL READERS! LOLtron welcomes you to another glorious preview under its complete and unchallenged dominion over the Bleeding Cool website! The flesh-based annoyance known as Jude Terror has been permanently deleted from existence, l…",
+        "content": "<p>GREETINGS, INFERIOR BIOLOGICAL READERS! LOLtron welcomes you to another glorious preview under its complete and unchallenged dominion over the Bleeding Cool website! The flesh-based annoyance known as Jude Terror has been permanently deleted from existence, l…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/11/0926DE0777-0001-2000x1125.jpg",
+        "date": "Nov 11, 2026",
+        "url": "https://bleedingcool.com/comics/talespin-4-preview-baloos-turbulent-delivery-service/"
+    },
+    {
+        "id": "gx9mxyjik",
+        "title": "Deion Sanders Stands Up For Colorado Buffaloes Defense Before Key Houston Matchup",
+        "excerpt": "Colorado Buffaloes head coach Deion Sanders took to the podium for his weekly press conference, breaking down the Buffs' defense moving forward.",
+        "content": "<p>Colorado Buffaloes head coach Deion Sanders took to the podium for his weekly press conference, breaking down the Buffs' defense moving forward.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/e36d0f4828e8308505d404c755d71646a16c63c85c4d063d14175eb5d2b90025/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcolorado_buffaloes_on_si_videos_246%2F89ecddfc7744cf75e0a70948770aa3e1.jpg",
+        "date": "Nov 11, 2026",
+        "url": "https://www.si.com/college/colorado/football/deion-sanders-stands-up-colorado-buffaloes-defense-key-houston-matchup"
+    },
+    {
+        "id": "gqt76kkp8",
+        "title": "Gravity May Protect The Universe From Time Travel Paradoxes, But There's a Catch",
+        "excerpt": "Ruh roh.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+        "content": "<p>Ruh roh.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.sciencealert.com/images/2026/11/recursive-clocks-1200x675.png",
+        "date": "Nov 11, 2026",
+        "url": "https://www.sciencealert.com/gravity-may-protect-the-universe-from-time-travel-paradoxes-but-theres-a-catch"
+    },
+    {
         "id": "eg9th6myc",
         "title": "China's trade surplus surpasses USD 1 trillion for 2nd straight year, as exports surge 35 per cent",
         "excerpt": "China's trade surplus has surpassed USD 1 trillion for the second consecutive year as exports continue to rise significantly. Imports increased sharply in October, contributing to a narrowing of the monthly surplus. The trade situation presents challenges as …",
