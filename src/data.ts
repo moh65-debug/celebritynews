@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "d38w0myv3",
+        "title": "Who's next CEO at Nvidia? Top engineer and CFO favored as candidates",
+        "excerpt": "Nvidia's CEO Jensen Huang faces potential ousting from the board due to reported extramarital affairs. If removed, Colette Kress could serve as interim CEO due to her experience and familiarity. Meanwhile, Ian Buck, a key engineer at Nvidia, is seen as a stro…",
+        "content": "<p>Nvidia's CEO Jensen Huang faces potential ousting from the board due to reported extramarital affairs. If removed, Colette Kress could serve as interim CEO due to her experience and familiarity. Meanwhile, Ian Buck, a key engineer at Nvidia, is seen as a stro…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135755763,width-1200,height-900,imgsize-137212,overlay-economictimes/articleshow.jpg",
+        "date": "Nov 12, 2026",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/whos-next-ceo-at-nvidia-top-engineer-and-cfo-favored-as-candidates/articleshow/135755764.cms"
+    },
+    {
+        "id": "4cznusmol",
+        "title": "Nvidia’s memory chip push with Taiwan’s TSMC could weaken the roles of Samsung and SK hynix in supply chains",
+        "excerpt": "Nvidia is seeking greater control over memory for its AI chips, reportedly asking Samsung, SK hynix and Micron to use TSMC’s 3-nanometre process for custom HBM base dies. TSMC is also considering 3D DRAM production.",
+        "content": "<p>Nvidia is seeking greater control over memory for its AI chips, reportedly asking Samsung, SK hynix and Micron to use TSMC’s 3-nanometre process for custom HBM base dies. TSMC is also considering 3D DRAM production.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/NVIDIA-CEO--0_1794458856288_j9HK_1794458870376_TDNS_24e5f05c-0250-4e8a-84c2-810bd0a926bd_emuc.JPG",
+        "date": "Nov 12, 2026",
+        "url": "https://www.livemint.com/companies/news/nvidias-memory-chip-push-with-taiwan-s-tsmc-could-weaken-the-roles-of-samsung-and-sk-hynix-in-supply-chains-11794458730152.html"
+    },
+    {
+        "id": "memwger8d",
+        "title": "Who would be next CEO at Nvidia? Top engineer and CFO favored as candidates",
+        "excerpt": "SAN FRANCISCO, Nov 11 : Nvidia CEO Jensen Huang has never anointed a successor, but many analysts and investors see two people as particularly likely candidates, at least for the short term: Nvidia's uber-engineer Ian Buck and Chief Financial Officer Colette …",
+        "content": "<p>SAN FRANCISCO, Nov 11 : Nvidia CEO Jensen Huang has never anointed a successor, but many analysts and investors see two people as particularly likely candidates, at least for the short term: Nvidia's uber-engineer Ian Buck and Chief Financial Officer Colette …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s---cCflhB9--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-12T045022Z_1_LYNXNPEMAB0CD_RTROPTP_3_NVIDIA-HUANG-AI.JPG?itok=OOW-umeF",
+        "date": "Nov 12, 2026",
+        "url": "https://www.channelnewsasia.com/business/who-would-be-next-ceo-nvidia-top-engineer-and-cfo-favored-candidates-6544986"
+    },
+    {
+        "id": "tsvh46oj9",
+        "title": "Who's next CEO at Nvidia? Top engineer and CFO favored as candidates",
+        "excerpt": "SAN FRANCISCO, Nov 11 : Nvidia CEO Jensen Huang has never anointed a successor, but many analysts and investors see two people as particularly likely candidates, at least for the short term: Nvidia's uber-engineer Ian Buck and Chief Financial Officer Colette …",
+        "content": "<p>SAN FRANCISCO, Nov 11 : Nvidia CEO Jensen Huang has never anointed a successor, but many analysts and investors see two people as particularly likely candidates, at least for the short term: Nvidia's uber-engineer Ian Buck and Chief Financial Officer Colette …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--7XsGAkkU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-12T044659Z_1_LYNXNPEMAB0C1_RTROPTP_3_NVIDIA-CEO.JPG?itok=H10IRlwD",
+        "date": "Nov 12, 2026",
+        "url": "https://www.channelnewsasia.com/business/whos-next-ceo-nvidia-top-engineer-and-cfo-favored-candidates-6544986"
+    },
+    {
+        "id": "f3xb3o8ww",
+        "title": "Nvidia's Jensen Huang has no obvious successor: Why that could become a problem for the AI giant",
+        "excerpt": "Nvidia's leadership faces scrutiny as controversies surrounding Jensen Huang raise succession concerns. With no publicly identified successor, questions are emerging over whether the AI chip giant can sustain its growth and technological dominance without its…",
+        "content": "<p>Nvidia's leadership faces scrutiny as controversies surrounding Jensen Huang raise succession concerns. With no publicly identified successor, questions are emerging over whether the AI chip giant can sustain its growth and technological dominance without its…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Nvidia_and_Huang_1794458644331_hpMe_1794458648846_QEPn_42eb713f-b870-46ca-97c0-c68f2b1ba29e_n0Js.png",
+        "date": "Nov 12, 2026",
+        "url": "https://www.livemint.com/companies/people/nvidias-jensen-huang-has-no-obvious-successor-why-that-could-become-a-problem-for-the-ai-giant-11794458435895.html"
+    },
+    {
+        "id": "2vo49t1e9",
+        "title": "A 3-metre shark caught off Kerala puzzled scientists for decades: DNA finally revealed its secret",
+        "excerpt": "Indian scientists have identified a new deep-sea shark species, Echinorhinus roinee, after specimens caught off Kerala were mistakenly classified as Atlantic bramble sharks for decades. Researchers from the Zoological Survey of India and ICAR-Central Marine F…",
+        "content": "<p>Indian scientists have identified a new deep-sea shark species, Echinorhinus roinee, after specimens caught off Kerala were mistakenly classified as Atlantic bramble sharks for decades. Researchers from the Zoological Survey of India and ICAR-Central Marine F…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/msid-135755504,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Nov 12, 2026",
+        "url": "https://timesofindia.indiatimes.com/education/news/a-3-metre-shark-caught-off-kerala-puzzled-scientists-for-decades-dna-finally-revealed-its-secret/articleshow/135755452.cms"
+    },
+    {
+        "id": "g5bpjtfr1",
+        "title": "Researchers recorded three Sistan sand boas in Rajasthan's Sikar district",
+        "excerpt": "In a groundbreaking discovery, three Sistan sand boas have been identified in Sikar district, Rajasthan, a first for the nation. Researchers pointed out unique characteristics that set this species apart from the Indian red sand boa. Interestingly, these snak…",
+        "content": "<p>In a groundbreaking discovery, three Sistan sand boas have been identified in Sikar district, Rajasthan, a first for the nation. Researchers pointed out unique characteristics that set this species apart from the Indian red sand boa. Interestingly, these snak…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static.toiimg.com/thumb/msid-135707744,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Nov 12, 2026",
+        "url": "https://timesofindia.indiatimes.com/science/wildlife/researchers-recorded-three-sistan-sand-boas-in-rajasthans-sikar-district-the-non-venomous-snake-previously-known-from-iran-and-pakistan-has-now-been-officially-documented-in-india/articleshow/135707744.cms"
+    },
+    {
+        "id": "k8y1pb34i",
+        "title": "The XRP Ledger’s Quantum Upgrade Would Make Each Payment 3.1 Times Bigger",
+        "excerpt": "An XRP Ledger plan to adopt ML-DSA-44 quantum-safe signatures would grow a payment from 1,704 to 5,331 bytes, with a study set for the first half of 2027.",
+        "content": "<p>An XRP Ledger plan to adopt ML-DSA-44 quantum-safe signatures would grow a payment from 1,704 to 5,331 bytes, with a study set for the first half of 2027.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://www.dcforecasts.com/wp-content/uploads/2026/11/ml-dsa-xrp-ledger-quantum-signatures-transaction-size.webp",
+        "date": "Nov 12, 2026",
+        "url": "https://www.dcforecasts.com/altcoin-news/ml-dsa-xrp-ledger-quantum-signatures-transaction-size/"
+    },
+    {
+        "id": "8mo0v0njd",
+        "title": "Our Future as the Democrats Reveal It to Us",
+        "excerpt": "Three news items from yesterday provide an indication of where the New Democrats will be taking us. One comes from Democrat Texas Governor-elect Gina Hinojosa.  She is preparing an emergency freeze on electricity rates to protect Texans facing surging utility…",
+        "content": "<p>Three news items from yesterday provide an indication of where the New Democrats will be taking us. One comes from Democrat Texas Governor-elect Gina Hinojosa.  She is preparing an emergency freeze on electricity rates to protect Texans facing surging utility…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.lewrockwell.com/wp-content/uploads/2026/11/Paul-Craig-Roberts-Copy-2.png",
+        "date": "Nov 12, 2026",
+        "url": "https://www.lewrockwell.com/2026/11/paul-craig-roberts/our-future-as-the-democrats-reveal-it-to-us/"
+    },
+    {
+        "id": "ovdn7axdi",
+        "title": "South Park S29E05: \"We Be Clubbin'\": Heated Rivalry, Happy Ending",
+        "excerpt": "Tweek wants to spend more time with Craig, sending him spiraling down a rabbit hole of South America club sports. Let's just say that it's not exactly the greatest thing to hit Tweek's family. That's where things stand heading into tonight's episode of Comedy…",
+        "content": "<p>Tweek wants to spend more time with Craig, sending him spiraling down a rabbit hole of South America club sports. Let's just say that it's not exactly the greatest thing to hit Tweek's family. That's where things stand heading into tonight's episode of Comedy…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/11/MixCollage-11-Nov-2026-10-35-PM-4929-2000x1125.jpg",
+        "date": "Nov 12, 2026",
+        "url": "https://bleedingcool.com/tv/south-park-s29e05-we-be-clubbin-heated-rivalry-happy-ending/"
+    },
+    {
         "id": "j5iysuv09",
         "title": "効果的な学習の実現に向けCrossKnowledgeの新サービス「～AIがキャリア実現をナビゲート～LEARNING DRIVE」をリリースします！2026年10月よりサービス提供開始！",
         "excerpt": "[株式会社LDcube]\n[画像1: https://prcdn.freetls.fastly.net/release_image/131307/224/131307-224-48fae0c9ec96044cc7efe24e6e4d1f21-1280x720.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
