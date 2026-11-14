@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "oalmxur61",
+        "title": "Malaysia says probing Megaspeed subsidiary over possible AI chip diversion",
+        "excerpt": "<![CDATA[ SpeedMatrix, a Malaysian subsidiary of Singapore-based cloud computing firm Megaspeed, is a tenant at data centres in Malaysia. ]]>",
+        "content": "<p><![CDATA[ SpeedMatrix, a Malaysian subsidiary of Singapore-based cloud computing firm Megaspeed, is a tenant at data centres in Malaysia. ]]></p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--PlzCjscJ--/c_crop,h_576,w_1024,x_0,y_53/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/10/000_d6zd2ke.jpg?itok=MAkHQOvv",
+        "date": "Nov 13, 2026",
+        "url": "https://www.channelnewsasia.com/asia/malaysia-probe-megaspeed-speedmatrix-ai-alice-huang-nvidia-6548491"
+    },
+    {
+        "id": "odrlmiirs",
+        "title": "Fletcher savors High School Gator Bowl football chance: 'One more time'",
+        "excerpt": "Powered by three Maverick Mills touchdown catches, Fletcher became the first-ever winner of the new High School Gator Bowl in football.",
+        "content": "<p>Powered by three Maverick Mills touchdown catches, Fletcher became the first-ever winner of the new High School Gator Bowl in football.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/7ec7f09354a46e512b315582cb921a747271e358e2e383c47df66a2aa2a24396/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-florida-times-union%2F0b4df2ec2a20ca73ea4b576c17749701.jpg",
+        "date": "Nov 13, 2026",
+        "url": "https://www.jacksonville.com/story/sports/high-school/football/2026/11/12/fletcher-football-wins-high-school-gator-bowl-in-jacksonville/92706201007/"
+    },
+    {
+        "id": "1us00qz3p",
+        "title": "CTA Previews Health Innovation at CES 2027, Announces New Wearable Technology White Paper",
+        "excerpt": "ARLINGTON, Va., Nov. 12, 2026 /PRNewswire/ -- The Consumer Technology Association (CTA)® is announcing an expanded health experience at CES® 2027, including more than 115 exhibitors across more than 6",
+        "content": "<p>ARLINGTON, Va., Nov. 12, 2026 /PRNewswire/ -- The Consumer Technology Association (CTA)® is announcing an expanded health experience at CES® 2027, including more than 115 exhibitors across more than 6</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://nynewscast.com/wp-content/uploads/2026/11/CTALogo-Color-RGB-Logo-Logo-scaled.jpg",
+        "date": "Nov 13, 2026",
+        "url": "https://nynewscast.com/cta-previews-health-innovation-at-ces-2027-announces-new-wearable-technology-white-paper-291333/"
+    },
+    {
+        "id": "hbg7aat02",
+        "title": "‘I’m a Piece of Sh*t’: Bloomberg News Gets Inside Look at Jensen Huang’s Unraveling as Nvidia CEO",
+        "excerpt": "Bloomberg got an inside look at how Jensen Huang apparently changed from an energetic force to a defeated man before resigning in disgrace from Nvidia.\nThe post ‘I’m a Piece of Sh*t’: Bloomberg News Gets Inside Look at Jensen Huang’s Unraveling as Nvidia CEO …",
+        "content": "<p>Bloomberg got an inside look at how Jensen Huang apparently changed from an energetic force to a defeated man before resigning in disgrace from Nvidia.\nThe post ‘I’m a Piece of Sh*t’: Bloomberg News Gets Inside Look at Jensen Huang’s Unraveling as Nvidia CEO …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.mediaite.com/wp-content/uploads/2026/11/AP26316465392119.jpg",
+        "date": "Nov 13, 2026",
+        "url": "https://www.mediaite.com/media/news/im-a-piece-of-sht-bloomberg-news-gets-inside-look-at-jensen-huangs-unraveling-as-nvidia-ceo/"
+    },
+    {
+        "id": "o4oxys22q",
+        "title": "‘Special Forces’ Season 5 Winners Revealed: 3 Celebrities Survive Grueling Finale",
+        "excerpt": "Spoilers ahead for the season 5 finale of Special Forces: World’s Toughest Test. Special Forces: World’s Toughest Test has officially […]\nThe post ‘Special Forces’ Season 5 Winners Revealed: 3 Celebrities Survive Grueling Finale appeared first on Just Jared -…",
+        "content": "<p>Spoilers ahead for the season 5 finale of Special Forces: World’s Toughest Test. Special Forces: World’s Toughest Test has officially […]\nThe post ‘Special Forces’ Season 5 Winners Revealed: 3 Celebrities Survive Grueling Finale appeared first on Just Jared -…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/special-forces-season-5-winners.jpg",
+        "date": "Nov 13, 2026",
+        "url": "https://www.justjared.com/2026/11/12/special-forces-season-5-winners-revealed-3-celebrities-survive-grueling-finale/"
+    },
+    {
+        "id": "4beqxe9eu",
+        "title": "Why ‘The Secret Lives of Mormon Wives’ Producer Wants Taylor Frankie Paul to Return to the Show",
+        "excerpt": "It’s been two months since Taylor Frankie Paul quit The Secret Lives of Mormon Wives. The 32-year-old original cast member […]\nThe post Why ‘The Secret Lives of Mormon Wives’ Producer Wants Taylor Frankie Paul to Return to the Show appeared first on Just Jare…",
+        "content": "<p>It’s been two months since Taylor Frankie Paul quit The Secret Lives of Mormon Wives. The 32-year-old original cast member […]\nThe post Why ‘The Secret Lives of Mormon Wives’ Producer Wants Taylor Frankie Paul to Return to the Show appeared first on Just Jare…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/taylor-slomw.jpg",
+        "date": "Nov 13, 2026",
+        "url": "https://www.justjared.com/2026/11/12/why-the-secret-lives-of-mormon-wives-producer-wants-taylor-frankie-paul-to-return-to-the-show/"
+    },
+    {
+        "id": "01tr0evbj",
+        "title": "Nvidia crisis prompts scrutiny of Lutnick’s role in chip policy",
+        "excerpt": "Commerce chief under scrutiny over BIS actions and export-control gaps tied to Nvidia’s China ties, even as Trump pledges support and lawmakers prepare inquiries",
+        "content": "<p>Commerce chief under scrutiny over BIS actions and export-control gaps tied to Nvidia’s China ties, even as Trump pledges support and lawmakers prepare inquiries</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/an3qv1/article71696519.ece/alternates/LANDSCAPE_1200/2026-11-12T202931Z_419656292_RC2KMOA0WBF6_RTRMADP_3_NVIDIA-CEO.JPG",
+        "date": "Nov 13, 2026",
+        "url": "https://www.thehindubusinessline.com/info-tech/nvidia-crisis-prompts-scrutiny-of-lutnicks-role-in-chip-policy/article71696451.ece"
+    },
+    {
+        "id": "a3vod2o4p",
+        "title": "Kylie Jenner’s Former Housekeeper Claims She Was Locked in Closet, Bitten by Dog in New Lawsuit",
+        "excerpt": "Kylie Jenner‘s former housekeeper Dinora Carolina Cabria Amaya is suing her, marking the fourth lawsuit against The Kardashians star by […]\nThe post Kylie Jenner’s Former Housekeeper Claims She Was Locked in Closet, Bitten by Dog in New Lawsuit appeared first…",
+        "content": "<p>Kylie Jenner‘s former housekeeper Dinora Carolina Cabria Amaya is suing her, marking the fourth lawsuit against The Kardashians star by […]\nThe post Kylie Jenner’s Former Housekeeper Claims She Was Locked in Closet, Bitten by Dog in New Lawsuit appeared first…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/kylie-jenner-fourth-housekeeper-lawsuit.jpg",
+        "date": "Nov 13, 2026",
+        "url": "https://www.justjared.com/2026/11/12/kylie-jenners-former-housekeeper-claims-she-was-locked-in-closet-bitten-by-dog-in-new-lawsuit/"
+    },
+    {
+        "id": "m5ifx074r",
+        "title": "UN-backed programme offers $100,000 funding for land restoration startups",
+        "excerpt": "The 2026-27 Youth Ecopreneur Programme is inviting applications from entrepreneurs under 35 working on green business solutions and land restoration. Winners can also receive $10,000 in prize money,",
+        "content": "<p>The 2026-27 Youth Ecopreneur Programme is inviting applications from entrepreneurs under 35 working on green business solutions and land restoration. Winners can also receive $10,000 in prize money,</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/10/thumb/featurecrop/1200X628/1773127648-4535.jpg",
+        "date": "Nov 13, 2026",
+        "url": "https://www.business-standard.com/finance/personal-finance/un-backed-programme-offers-100-000-funding-for-land-restoration-startups-126111300010_1.html"
+    },
+    {
+        "id": "ecac0rd5y",
+        "title": "Jakarta charity bazaar helps women MSMEs expand market reach: Minister",
+        "excerpt": "Indonesian Minister of Women&#39;s Empowerment and Child Protection Arifah Fauzi said the annual charity bazaar organized by the Women&#39;s International ...",
+        "content": "<p>Indonesian Minister of Women&#39;s Empowerment and Child Protection Arifah Fauzi said the annual charity bazaar organized by the Women&#39;s International ...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/11/12/20261112_103107.jpg",
+        "date": "Nov 13, 2026",
+        "url": "https://en.antaranews.com/news/442291/jakarta-charity-bazaar-helps-women-msmes-expand-market-reach-minister"
+    },
+    {
         "id": "d38w0myv3",
         "title": "Who's next CEO at Nvidia? Top engineer and CFO favored as candidates",
         "excerpt": "Nvidia's CEO Jensen Huang faces potential ousting from the board due to reported extramarital affairs. If removed, Colette Kress could serve as interim CEO due to her experience and familiarity. Meanwhile, Ian Buck, a key engineer at Nvidia, is seen as a stro…",
