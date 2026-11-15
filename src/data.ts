@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "l1tifgbn1",
+        "title": "Bitcoin’s billion-dollar wipeouts are becoming a familiar sight",
+        "excerpt": "Bitcoin liquidation events exceeding $500 million have become common, reflecting significant market volatility. Recent trading sessions have seen large losses, including a $1.3 billion liquidation. Factors affecting the market include high oil prices and pote…",
+        "content": "<p>Bitcoin liquidation events exceeding $500 million have become common, reflecting significant market volatility. Recent trading sessions have seen large losses, including a $1.3 billion liquidation. Factors affecting the market include high oil prices and pote…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135822591,width-1200,height-900,imgsize-678715,overlay-etmarkets/articleshow.jpg",
+        "date": "Nov 14, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoins-billion-dollar-wipeouts-are-becoming-a-familiar-sight/articleshow/135822462.cms"
+    },
+    {
+        "id": "fooqk1pnw",
+        "title": "Governor Evers issues first commutations in decades",
+        "excerpt": "Governor Tony Evers issued 14 commutations, including 10 for homicide, cutting short sentences for inmates like Michael Maldonado.",
+        "content": "<p>Governor Tony Evers issued 14 commutations, including 10 for homicide, cutting short sentences for inmates like Michael Maldonado.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2026/11/1200/630/6p-gov-evers-commutations-vo-_00.00.12.06.jpg?ve=1&tl=1",
+        "date": "Nov 14, 2026",
+        "url": "https://www.fox6now.com/news/wisconsin-governor-issues-first-commutations-decades"
+    },
+    {
+        "id": "laxiqajlf",
+        "title": "Bitcoin is either the best or worst asset class every year. ZebPay CEO Rahul Pagidipati explains why",
+        "excerpt": "I wouldn’t say the trader community has increased, but the investor community certainly has. We now see high-net-worth individuals, family offices and fund houses asking detailed questions about how they can hedge and participate in crypto—not just in their t…",
+        "content": "<p>I wouldn’t say the trader community has increased, but the investor community certainly has. We now see high-net-worth individuals, family offices and fund houses asking detailed questions about how they can hedge and participate in crypto—not just in their t…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135822497,width-1200,height-900,imgsize-146184,overlay-etmarkets/articleshow.jpg",
+        "date": "Nov 14, 2026",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-is-either-the-best-or-worst-asset-class-every-year-zebpay-ceo-rahul-pagidipati-explains-why/articleshow/135822463.cms"
+    },
+    {
+        "id": "waetybvjk",
+        "title": "Hailee Steinfeld Turns Heads in See-Through Black Lace at Disney’s ‘Hexed’ Premiere",
+        "excerpt": "Hailee Steinfeld is stunning in a see-through dress! The 29-year-old actress stepped out in a black lace outfit to the […]\nThe post Hailee Steinfeld Turns Heads in See-Through Black Lace at Disney’s ‘Hexed’ Premiere appeared first on Just Jared - Celebrity Ne…",
+        "content": "<p>Hailee Steinfeld is stunning in a see-through dress! The 29-year-old actress stepped out in a black lace outfit to the […]\nThe post Hailee Steinfeld Turns Heads in See-Through Black Lace at Disney’s ‘Hexed’ Premiere appeared first on Just Jared - Celebrity Ne…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/hailee-steinfeld-hexed-premiere.jpg",
+        "date": "Nov 14, 2026",
+        "url": "https://www.justjared.com/2026/11/13/hailee-steinfeld-turns-heads-in-see-through-black-lace-at-disneys-hexed-premiere/"
+    },
+    {
+        "id": "cmw6d4zag",
+        "title": "Ex-Nvidia CEO Misled Top Lawyer On Affair With Chinese Businesswoman, Sources Say",
+        "excerpt": "In two separate messages in October, Jensen Huang told Nvidia leaders that interactions with Alice Huang reflected standard business dealings with customers.",
+        "content": "<p>In two separate messages in October, Jensen Huang told Nvidia leaders that interactions with Alice Huang reflected standard business dealings with customers.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.huffingtonpost.com/asset/6af7dcf0180000417394c1e7.jpeg?cache=5TzM7niC4u&ops=1200_630",
+        "date": "Nov 14, 2026",
+        "url": "https://www.huffpost.com/entry/nvidia-ceo-affair-jensen-huang_n_6af7dca9e4b0016f2eb7c888"
+    },
+    {
+        "id": "r7uck973k",
+        "title": "The DC Studios To-Do List: Here’s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era",
+        "excerpt": "The news earlier this week of James Gunn and Peter Safran’s exit from DC shook the town like Suicide Squad‘s Starro stomping down Melrose Ave. Now it’s up to incoming former Marvel executive and Dungeons & Dragons: Honor Among Thieves producer Jeremy Latcham …",
+        "content": "<p>The news earlier this week of James Gunn and Peter Safran’s exit from DC shook the town like Suicide Squad‘s Starro stomping down Melrose Ave. Now it’s up to incoming former Marvel executive and Dungeons & Dragons: Honor Among Thieves producer Jeremy Latcham …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://deadline.com/wp-content/uploads/2026/11/Superman-Jimmy-Olson-LAnters-The-Batman-II.jpg?w=1000",
+        "date": "Nov 14, 2026",
+        "url": "http://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/"
+    },
+    {
+        "id": "25njfd76w",
+        "title": "Steven Spielberg Honored by MoMA & Chanel at Star-Studded Gala in NYC – Full Guest List Revealed!",
+        "excerpt": "Hollywood legend Steven Spielberg is being honored during a star-studded gala! The 79-year-old Oscar-winning filmmaker was honored during the 2026 […]\nThe post Steven Spielberg Honored by MoMA & Chanel at Star-Studded Gala in NYC – Full Guest List Revealed! a…",
+        "content": "<p>Hollywood legend Steven Spielberg is being honored during a star-studded gala! The 79-year-old Oscar-winning filmmaker was honored during the 2026 […]\nThe post Steven Spielberg Honored by MoMA & Chanel at Star-Studded Gala in NYC – Full Guest List Revealed! a…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/steven-spielberg-honored-at-moma-gala.jpg",
+        "date": "Nov 14, 2026",
+        "url": "https://www.justjared.com/2026/11/13/steven-spielberg-honored-by-moma-chanel-at-star-studded-gala-in-nyc-full-guest-list-revealed/"
+    },
+    {
+        "id": "uc61o7wa1",
+        "title": "Measles is roaring back in the US after decades of being effectively eliminated",
+        "excerpt": "Thanks to widespread vaccination, measles had been considered “eliminated” as a continually transmitting illness in the United States since 2000 – but not anymore.",
+        "content": "<p>Thanks to widespread vaccination, measles had been considered “eliminated” as a continually transmitting illness in the United States since 2000 – but not anymore.</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://ewscripps.brightspotcdn.com/dims4/default/08784df/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F98%2Fb2%2F5788069a4cb3aa3cabfd14a663e2%2Fap25069752802839.jpg",
+        "date": "Nov 14, 2026",
+        "url": "https://www.scrippsnews.com/health/the-us-has-had-the-tools-to-control-measles-for-almost-65-years-heres-how-its-come-raging-back"
+    },
+    {
+        "id": "81293vby4",
+        "title": "FAA Lifts Nationwide Ground Stop After Thousands of Flights Are Canceled & Delayed",
+        "excerpt": "The US Federal Aviation Administration has lifted its nationwide ground stop at approximately 8:15 p.m. EST. On Friday (November 13), […]\nThe post FAA Lifts Nationwide Ground Stop After Thousands of Flights Are Canceled & Delayed appeared first on Just Jared …",
+        "content": "<p>The US Federal Aviation Administration has lifted its nationwide ground stop at approximately 8:15 p.m. EST. On Friday (November 13), […]\nThe post FAA Lifts Nationwide Ground Stop After Thousands of Flights Are Canceled & Delayed appeared first on Just Jared …</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/faa-lifts-nationwide-ground-stop.jpg",
+        "date": "Nov 14, 2026",
+        "url": "https://www.justjared.com/2026/11/13/faa-lifts-nationwide-ground-stop-after-thousands-of-flights-are-canceled-delayed/"
+    },
+    {
+        "id": "lv01o9qg7",
+        "title": "How Lula’s army beat the algorithm",
+        "excerpt": "The digital campaign behind Lula’s victory demonstrated the possibilities of popular mobilization — and the dangers of fighting the far right on its own terms.",
+        "content": "<p>The digital campaign behind Lula’s victory demonstrated the possibilities of popular mobilization — and the dangers of fighting the far right on its own terms.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://media.africasacountry.com/images/2026/11/773375623296.jpg",
+        "date": "Nov 14, 2026",
+        "url": "https://africasacountry.com/2026/11/how-lulas-army-beat-the-algorithm"
+    },
+    {
         "id": "oalmxur61",
         "title": "Malaysia says probing Megaspeed subsidiary over possible AI chip diversion",
         "excerpt": "<![CDATA[ SpeedMatrix, a Malaysian subsidiary of Singapore-based cloud computing firm Megaspeed, is a tenant at data centres in Malaysia. ]]>",
