@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "2enszmjn3",
+        "title": "Arch Manning stats vs LSU: How Longhorns QB performed in comeback win vs Tigers",
+        "excerpt": "Texas pulled off another come-from-behind win on Saturday, as Arch Manning led the Longhorns to a go-ahead touchdown. Here's a look at his stats:",
+        "content": "<p>Texas pulled off another come-from-behind win on Saturday, as Arch Manning led the Longhorns to a go-ahead touchdown. Here's a look at his stats:</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/97676fc1efb190002b350ab2675166963e3f3e6add1187ec18391afa58af8a3d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fd7a842896261302fdae6c6ff3b4ee83a.jpg",
+        "date": "Nov 15, 2026",
+        "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/11/14/arch-manning-stats-texas-qb-lsu-loss/92791170007/"
+    },
+    {
+        "id": "23t0qt4h5",
+        "title": "Wall Street’s wild Nvidia ride delivers big paydays and even bigger bruises",
+        "excerpt": "Investors are doubling down on speculative wagers that have delivered both spectacular gains and crushing losses this year.",
+        "content": "<p>Investors are doubling down on speculative wagers that have delivered both spectacular gains and crushing losses this year.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/f31f06e7d53ec6b16983ab4786dc1e0c332f494b",
+        "date": "Nov 15, 2026",
+        "url": "https://www.smh.com.au/business/markets/wall-street-s-wild-nvidia-ride-delivers-big-paydays-and-even-bigger-bruises-20261115-p61e8o.html"
+    },
+    {
+        "id": "f5aukn32g",
+        "title": "Call for Papers on Human-AI Relationships",
+        "excerpt": "Dear colleagues,\n\nHenry Shevlin and I are reopening our call for abstracts for the AI & Relationships unit of Oxford Intersections: AI in Society (Oxford University Press).\n\nThe first round produced 24 published articles exploring how humans are making, break…",
+        "content": "<p>Dear colleagues,\n\nHenry Shevlin and I are reopening our call for abstracts for the AI & Relationships unit of Oxford Intersections: AI in Society (Oxford University Press).\n\nThe first round produced 24 published articles exploring how humans are making, break…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "http://www.socialpsychology.org/images/SPNlogo-facebook.jpg",
+        "date": "Nov 15, 2026",
+        "url": "https://www.socialpsychology.org/forums/listservcenter.htm?from=rss&view=9850"
+    },
+    {
+        "id": "rabblvkry",
+        "title": "Izzy Riva ends Wolfson's half-century wait in girls swimming",
+        "excerpt": "For the first time in more than 50 years, Wolfson has a Florida High School Athletic Association girls swimming champion.",
+        "content": "<p>For the first time in more than 50 years, Wolfson has a Florida High School Athletic Association girls swimming champion.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/723f419642629e06310b4137387a48a2e32516461f7dc0d705b4393e485378a0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-florida-times-union%2Fa057774c8e653e84c38c6ef3e99e28c8.jpg",
+        "date": "Nov 15, 2026",
+        "url": "https://www.jacksonville.com/story/sports/high-school/swimming-diving/2026/11/14/izzy-riva-wins-at-fhsaa-class-2a-high-school-swimming-championships/90133166007/"
+    },
+    {
+        "id": "wnevsb5t6",
+        "title": "India’s commodity supply chains: Why market intelligence must translate into smarter logistics",
+        "excerpt": "The businesses that do better will be the ones that close the gap between what the market tells them and what their logistics does about it, before ships arrive and the queues build",
+        "content": "<p>The businesses that do better will be the ones that close the gap between what the market tells them and what their logistics does about it, before ships arrive and the queues build</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bl-i.thgim.com/public/incoming/7sdmcj/article71704077.ece/alternates/LANDSCAPE_1200/IMG_BL02_Think_Logistics_2_1_U9FPTFAK.jpg",
+        "date": "Nov 15, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/indias-commodity-supply-chains-why-market-intelligence-must-translate-into-smarter-logistics/article71702779.ece"
+    },
+    {
+        "id": "3e1l18mqz",
+        "title": "Danielle Fishel Recalls ‘Purging & Overexercising’ After ‘Boy Meets World’ Creator Commented on Her Weight",
+        "excerpt": "Danielle Fishel shared how challenging it was to navigate her self-esteem and body image issues as a teen on the […]\nThe post Danielle Fishel Recalls ‘Purging & Overexercising’ After ‘Boy Meets World’ Creator Commented on Her Weight appeared first on Just Jar…",
+        "content": "<p>Danielle Fishel shared how challenging it was to navigate her self-esteem and body image issues as a teen on the […]\nThe post Danielle Fishel Recalls ‘Purging & Overexercising’ After ‘Boy Meets World’ Creator Commented on Her Weight appeared first on Just Jar…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/danielle-fishel-bmw-weight-comments.jpg",
+        "date": "Nov 15, 2026",
+        "url": "https://www.justjared.com/2026/11/14/danielle-fishel-recalls-disordered-purging-overexercising-after-boy-meets-world-creator-commented-on-her-weight/"
+    },
+    {
+        "id": "h3kz4edr6",
+        "title": "Trump Offers Little Public Response More Than 24 Hours After Nationwide Ground Stop",
+        "excerpt": "The president instead chose to focus his attention on golf course renovations and attacking Gavin Newsom.",
+        "content": "<p>The president instead chose to focus his attention on golf course renovations and attacking Gavin Newsom.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.huffingtonpost.com/asset/6af91da81500001ee913bb3f.jpeg?cache=EiDxJ5WAIq&ops=1200_630",
+        "date": "Nov 15, 2026",
+        "url": "https://www.huffpost.com/entry/trump-faa-ground-stop-public-response_n_6af8faa9e4b0e2644ec83fc2"
+    },
+    {
+        "id": "j78edl54x",
+        "title": "New ‘Harry Potter’ Clip Shows McGonagall’s Reaction to Harry Joining Gryffindor",
+        "excerpt": "HBO has released a new clip from its upcoming Harry Potter series, offering another look at life at Hogwarts. The […]\nThe post New ‘Harry Potter’ Clip Shows McGonagall’s Reaction to Harry Joining Gryffindor appeared first on Just Jared - Celebrity News, Enter…",
+        "content": "<p>HBO has released a new clip from its upcoming Harry Potter series, offering another look at life at Hogwarts. The […]\nThe post New ‘Harry Potter’ Clip Shows McGonagall’s Reaction to Harry Joining Gryffindor appeared first on Just Jared - Celebrity News, Enter…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/harry-potter-banquet-clip-kcas.jpg",
+        "date": "Nov 15, 2026",
+        "url": "https://www.justjared.com/2026/11/14/new-harry-potter-clip-shows-mcgonagalls-reaction-to-harry-joining-gryffindor/"
+    },
+    {
+        "id": "71a4dpcgz",
+        "title": "Indiana’s Win Exposes Lincoln Riley’s USC As All Flash No Substance",
+        "excerpt": "Indiana's 27-13 win over USC proves the Trojans are a mediocre program with too many mistakes and a coach feeling the heat.",
+        "content": "<p>Indiana's 27-13 win over USC proves the Trojans are a mediocre program with too many mistakes and a coach feeling the heat.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/6f51974e0f1002cce6f45037c40b08c53e4059bca90337d9649d70bfcf19497a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgameday_times_324%2F7e0e6d4f72ea02438b675f6ad55e3cc1.jpg",
+        "date": "Nov 15, 2026",
+        "url": "https://gamedaytimes.com/indianas-win-exposes-lincoln-rileys-usc-as-all-flash-no-substance/"
+    },
+    {
+        "id": "ethdrta6g",
+        "title": "US corporate bonds attract investors as stock market turbulence grows",
+        "excerpt": "High-grade US company debt gained 1.2% from the end of September through Friday's close, according to Bloomberg Index total return data",
+        "content": "<p>High-grade US company debt gained 1.2% from the end of September through Friday's close, according to Bloomberg Index total return data</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/15/thumb/fitandfill/1200X628/1794711138-6806.jpg",
+        "date": "Nov 15, 2026",
+        "url": "https://www.business-standard.com/world-news/us-corporate-bonds-attract-investors-as-stock-market-turbulence-grows-126111500065_1.html"
+    },
+    {
         "id": "l1tifgbn1",
         "title": "Bitcoin’s billion-dollar wipeouts are becoming a familiar sight",
         "excerpt": "Bitcoin liquidation events exceeding $500 million have become common, reflecting significant market volatility. Recent trading sessions have seen large losses, including a $1.3 billion liquidation. Factors affecting the market include high oil prices and pote…",
