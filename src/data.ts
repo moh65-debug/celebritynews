@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "ba1xshhbz",
+        "title": "India feels less threatened by AI than the US, official says",
+        "excerpt": "Indians see AI as less of a threat than people in the US because fewer workers hold the “cognitive and office-oriented jobs” that the technology could replace, one of the country’s top tech officials said.\nYoung Indians are drawn to technology and see AI as a…",
+        "content": "<p>Indians see AI as less of a threat than people in the US because fewer workers hold the “cognitive and office-oriented jobs” that the technology could replace, one of the country’s top tech officials said.\nYoung Indians are drawn to technology and see AI as a…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://biztoc.com/cdn/f5e03ef5d6c4cd99_s.webp",
+        "date": "Nov 16, 2026",
+        "url": "https://biztoc.com/x/f5e03ef5d6c4cd99"
+    },
+    {
+        "id": "mh55wx884",
+        "title": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
+        "excerpt": "Asian shares have mostly declined as investors’ worries over the future of the artificial intelligence trade extend into another week following Nvidia’s fallout",
+        "content": "<p>Asian shares have mostly declined as investors’ worries over the future of the artificial intelligence trade extend into another week following Nvidia’s fallout</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+        "date": "Nov 16, 2026",
+        "url": "https://abcnews.com/Business/wireStory/stocks-decline-asia-investor-concerns-nvidia-fallout-extend-138169919"
+    },
+    {
+        "id": "l0cpnj0tq",
+        "title": "Regional trade cooperation improving despite US-China tensions: APEC chief",
+        "excerpt": "APEC Secretariat executive director Eduardo Pedrosa tells CNA about progress in trade discussions, while highlighting supply chain resilience, global economic imbalances and AI as key areas of cooperation.",
+        "content": "<p>APEC Secretariat executive director Eduardo Pedrosa tells CNA about progress in trade discussions, while highlighting supply chain resilience, global economic imbalances and AI as key areas of cooperation.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--qVQ266oz--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/16/img_3670.jpg?itok=CONzt2V4",
+        "date": "Nov 16, 2026",
+        "url": "https://www.channelnewsasia.com/asia/apec-shenzhen-summit-trade-relations-us-china-asean-6554366"
+    },
+    {
+        "id": "sjwuvp6zn",
+        "title": "Apple launches an AI health tool as part of a research study",
+        "excerpt": "On Sunday, Apple announced a new approach, launching the Apple Health AI Usage Study app that they say will answer health questions only using trusted medical research.",
+        "content": "<p>On Sunday, Apple announced a new approach, launching the Apple Health AI Usage Study app that they say will answer health questions only using trusted medical research.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.abcnewsfe.com/a/b2dbaa7b-c77b-4aef-9d3d-54fb46dc6208/Apple_1794784120529_hpMain_16x9.jpeg?w=992",
+        "date": "Nov 16, 2026",
+        "url": "https://www.goodmorningamerica.com/news/story/apple-launches-ai-health-chatbot-part-research-study-138164909"
+    },
+    {
+        "id": "z7xbovrnn",
+        "title": "AI is reshaping banking jobs – but its ability to drive profits remains unclear",
+        "excerpt": "Europe's banks are using AI to cut routine work, redeploy staff and hire more technical talent.",
+        "content": "<p>Europe's banks are using AI to cut routine work, redeploy staff and hire more technical talent.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://image.cnbcfm.com/api/v1/image/108181056-1754310162874-gettyimages-2226898553-redstill25071501.jpeg?v=1760127393&w=1920&h=1080",
+        "date": "Nov 16, 2026",
+        "url": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html"
+    },
+    {
+        "id": "e55rbjn4u",
+        "title": "Jackson Olson Says Having Girlfriend Maggie Sajak’s Support During ‘DWTS’ Was ‘Everything,’ Reveals How She Helped Him Through the Process",
+        "excerpt": "Jackson Olson is opening up about having his girlfriend, Maggie Sajak‘s support while he was competing on Dancing with the […]\nThe post Jackson Olson Says Having Girlfriend Maggie Sajak’s Support During ‘DWTS’ Was ‘Everything,’ Reveals How She Helped Him Thro…",
+        "content": "<p>Jackson Olson is opening up about having his girlfriend, Maggie Sajak‘s support while he was competing on Dancing with the […]\nThe post Jackson Olson Says Having Girlfriend Maggie Sajak’s Support During ‘DWTS’ Was ‘Everything,’ Reveals How She Helped Him Thro…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/jackson-maggie-dwts.jpg",
+        "date": "Nov 16, 2026",
+        "url": "https://www.justjared.com/2026/11/16/jackson-olson-says-having-girlfriend-maggie-sajaks-support-during-dwts-was-everything-reveals-how-she-helped-him-through-the-process/"
+    },
+    {
+        "id": "c8zkrgn1n",
+        "title": "Nvidia CEO Resignation Tests Metals Demand Outlook for Miners",
+        "excerpt": "Nvidia Corp. said Jensen Huang resigned on Thursday, Nov. 12 as the firm’s CEO, president and director, with chief financial officer Colette Kress taking over on an interim basis, according to the company. The departure raised concerns about artificial intell…",
+        "content": "<p>Nvidia Corp. said Jensen Huang resigned on Thursday, Nov. 12 as the firm’s CEO, president and director, with chief financial officer Colette Kress taking over on an interim basis, according to the company. The departure raised concerns about artificial intell…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/nvidia-ceo-resignation-metals-demand-outlook-mining-stocks-6677-d8673d4f-original.jpg",
+        "date": "Nov 16, 2026",
+        "url": "https://www.naturalnews.com/2026-11-16-nvidia-ceo-resignation-tests-metals-demand-outlook.html"
+    },
+    {
+        "id": "2g5qoxg87",
+        "title": "Iraq, Turkey and Pakistan Refuse to Seal Borders with Iran Despite U.S. Pressure, Report Says",
+        "excerpt": "Iraq, Turkey and Pakistan have declined to seal their land borders with Iran despite weeks of diplomatic pressure from the U.S., according to a report published Nov. 12, 2026, by The Cradle that cited a New York Times account. The report said Washington has s…",
+        "content": "<p>Iraq, Turkey and Pakistan have declined to seal their land borders with Iran despite weeks of diplomatic pressure from the U.S., according to a report published Nov. 12, 2026, by The Cradle that cited a New York Times account. The report said Washington has s…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/iran-border-closures-us-pressure-iraq-border-policy-6675-02826da4-original.jpg",
+        "date": "Nov 16, 2026",
+        "url": "https://www.naturalnews.com/2026-11-16-iraq-turkey-pakistan-refuse-seal-borders-iran.html"
+    },
+    {
+        "id": "4gskpg3yw",
+        "title": "‘People are appalled’: How Israel lost America",
+        "excerpt": "Never before has Israel found itself at the centre of such a political storm, blamed for an epochal shift in US politics",
+        "content": "<p>Never before has Israel found itself at the centre of such a political storm, blamed for an epochal shift in US politics</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.irishtimes.com/resizer/v2/GDHQGDOFF57RXE75REBCZAVUDI.jpg?smart=true&auth=15e566155b61e1fddba9829a3ef48e6883d812a07d5060debb5982715bd88e26&width=1200&height=630",
+        "date": "Nov 16, 2026",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/11/16/sea-change-an-alliance-that-helped-define-the-modern-middle-east-is-at-crisis-point/"
+    },
+    {
+        "id": "3af6py2y2",
+        "title": "Report: UAE Laundered Over 650 Tons of Gold From War Zones in 2024",
+        "excerpt": "The United Arab Emirates laundered more than 650 tons of gold looted from war zones in 2024, according to a report cited by The Cradle. The figure was published in a report dated Nov. 12, 2026, and placed the activity inside the UAE, linking the gold to confl…",
+        "content": "<p>The United Arab Emirates laundered more than 650 tons of gold looted from war zones in 2024, according to a report cited by The Cradle. The figure was published in a report dated Nov. 12, 2026, and placed the activity inside the UAE, linking the gold to confl…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/uae-gold-laundering-650-tons-gold-war-zones-6728-b1184216-original.jpg",
+        "date": "Nov 16, 2026",
+        "url": "https://www.naturalnews.com/2026-11-16-uae-laundered-650-tons-gold-war-zones.html"
+    },
+    {
         "id": "2enszmjn3",
         "title": "Arch Manning stats vs LSU: How Longhorns QB performed in comeback win vs Tigers",
         "excerpt": "Texas pulled off another come-from-behind win on Saturday, as Arch Manning led the Longhorns to a go-ahead touchdown. Here's a look at his stats:",
