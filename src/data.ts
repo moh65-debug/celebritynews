@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "svnf9kene",
+        "title": "CATL founder seeks ‘AI Einstein’ to drive battery breakthroughs amid market headwinds",
+        "excerpt": "Contemporary Amperex Technology Ltd (CATL) is seeking an “AI Einstein” to speed up scientific research and drive innovation-led growth, as the Chinese battery giant grapples with a number of setbacks.\nThe goal was to find an artificial intelligence model that…",
+        "content": "<p>Contemporary Amperex Technology Ltd (CATL) is seeking an “AI Einstein” to speed up scientific research and drive innovation-led growth, as the Chinese battery giant grapples with a number of setbacks.\nThe goal was to find an artificial intelligence model that…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.biztoc.com/3d33aa0d389b94f6_s.webp",
+        "date": "Nov 17, 2026",
+        "url": "https://biztoc.com/x/3d33aa0d389b94f6"
+    },
+    {
+        "id": "zeftdmy6w",
+        "title": "Ryan Lochte’s Ex-Wife Is Auctioning Off Her Wedding Ring After Their Divorce",
+        "excerpt": "Ryan Lochte‘s ex-wife Kayla Reid has shared that she is auctioning off her wedding ring. Kayla revealed to People that […]\nThe post Ryan Lochte’s Ex-Wife Is Auctioning Off Her Wedding Ring After Their Divorce appeared first on Just Jared - Celebrity News, Ent…",
+        "content": "<p>Ryan Lochte‘s ex-wife Kayla Reid has shared that she is auctioning off her wedding ring. Kayla revealed to People that […]\nThe post Ryan Lochte’s Ex-Wife Is Auctioning Off Her Wedding Ring After Their Divorce appeared first on Just Jared - Celebrity News, Ent…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/kayla-reid-auction-ryan-lochte-ring.jpg",
+        "date": "Nov 17, 2026",
+        "url": "https://www.justjared.com/2026/11/17/ryan-lochtes-ex-wife-is-auctioning-off-her-wedding-ring-after-their-divorce/"
+    },
+    {
+        "id": "236ixsc8q",
+        "title": "From memes to plot theories, fandom fuels entertainment buzz",
+        "excerpt": "Studios and streaming platforms are turning to fan pages, meme accounts and creators to promote films and shows through content that feels organic, with campaigns increasingly prioritizing audience relevance and engagement over follower counts.",
+        "content": "<p>Studios and streaming platforms are turning to fan pages, meme accounts and creators to promote films and shows through content that feels organic, with campaigns increasingly prioritizing audience relevance and engagement over follower counts.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/11/16/1600x900/logo/HPDWY5nXkAA0rRQ_1794816078910_vT9z_1794816084486_CmQK_77039895-55de-47db-a9bc-53f52461f7f0_Ap0A.jpg",
+        "date": "Nov 17, 2026",
+        "url": "https://www.livemint.com/industry/media/film-studios-streaming-platforms-tap-fan-pages-for-movie-promotion-11794816035791.html"
+    },
+    {
+        "id": "nkyq7xr79",
+        "title": "US moves to restrict China's remote access to AI chips after Nvidia row",
+        "excerpt": "The US will require companies in five countries, including Singapore and Malaysia, to obtain export licences for advanced AI chips under new rules taking effect from November 19",
+        "content": "<p>The US will require companies in five countries, including Singapore and Malaysia, to obtain export licences for advanced AI chips under new rules taking effect from November 19</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/30/full/1761792731-4755.jpg",
+        "date": "Nov 17, 2026",
+        "url": "https://www.business-standard.com/world-news/us-china-ai-chips-exports-restrictions-jensen-huang-nvidia-row-access-126111700312_1.html"
+    },
+    {
+        "id": "7ebs7z7jy",
+        "title": "The Great Moon Hoax of 1835",
+        "excerpt": "Podcast Transcript In 1835, a New York newspaper announced one of history’s most astonishing scientific discoveries. A world-famous astronomer supposedly developed a revolutionary telescope that revealed things no human had ever seen. Over six days, readers r…",
+        "content": "<p>Podcast Transcript In 1835, a New York newspaper announced one of history’s most astonishing scientific discoveries. A world-famous astronomer supposedly developed a revolutionary telescope that revealed things no human had ever seen. Over six days, readers r…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://photos.smugmug.com/photos/i-GVkGP4r/0/L9N593rh4bgkzxfWDpmmbZhLqwztpTkrW2nmKGLVq/L/2325epart-L.jpg",
+        "date": "Nov 17, 2026",
+        "url": "https://everything-everywhere.com/the-great-moon-hoax-of-1835/"
+    },
+    {
+        "id": "9na8lqsb5",
+        "title": "Pangram is not an oracle • Buttondown",
+        "excerpt": "by Emily In light of Vauhini Vara's accusation that Simbarashe Kundizeza's Caine prize-winning story “The Blue Fighter” was generated with an LLM (see...",
+        "content": "<p>by Emily In light of Vauhini Vara's accusation that Simbarashe Kundizeza's Caine prize-winning story “The Blue Fighter” was generated with an LLM (see...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Pangram%20is%20not%20an%20oracle&author=Mystery%20AI%20Hype%20Theater%203000%3A%20The%20Newsletter&date=2026-10-19&img=https%3A//assets.buttondown.email/images/49aea655-fa69-4602-96ae-11418d32b490.png",
+        "date": "Nov 17, 2026",
+        "url": "https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/"
+    },
+    {
+        "id": "uz687q5wy",
+        "title": "How an AI Content Mill Put a Real Musician Through Copyright Hell",
+        "excerpt": "When writer and musician Samantha Shokin noticed her cover of a public domain Bulgarian folk song had been copyright struck on YouTube, she assumed it would be?",
+        "content": "<p>When writer and musician Samantha Shokin noticed her cover of a public domain Bulgarian folk song had been copyright struck on YouTube, she assumed it would be?</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/photo-1762340273700-70c17506e578.jpeg",
+        "date": "Nov 17, 2026",
+        "url": "https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/"
+    },
+    {
+        "id": "bos4fde5r",
+        "title": "The method of paying for the phone instead of the gadget, for the first time in Sri Lanka",
+        "excerpt": "Street vendors or small shop owners no longer need expensive card machines (POS machines) to accept digital payments. The latest technological opportunity has now emerged in Sri Lanka, allowing businesses to transform the smartphone in their hand into a highl…",
+        "content": "<p>Street vendors or small shop owners no longer need expensive card machines (POS machines) to accept digital payments. The latest technological opportunity has now emerged in Sri Lanka, allowing businesses to transform the smartphone in their hand into a highl…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_s-v-6j3fh7UL1_ucHs8a4heFdGEPKwwd4zx_4O95PwtpOAirls-SovSCu14YNY6pzWKwOK0Tou1UYlRUOu_LcjmUcpHPZuTrRdMQsLOniM8oel4HB2ehNeFI0GRuabGyD5vUJ1Nhfs9iXigjSgHVD39Q0HB7qh3Eww0EY=w1200-h675-p-k-no-nu",
+        "date": "Nov 17, 2026",
+        "url": "https://english.gossiplankanews.com/2026/11/the-method-of-paying-for-phone-instead.html"
+    },
+    {
+        "id": "zn8atnkdx",
+        "title": "Eric Dailey Jr. scores 25 as No. 7 UCLA routs Long Beach State",
+        "excerpt": "Eric Dailey Jr. scores 25 points, making his first nine shots, to lead No. 7 UCLA to a 105-66 win over Long Beach State.",
+        "content": "<p>Eric Dailey Jr. scores 25 points, making his first nine shots, to lead No. 7 UCLA to a 105-66 win over Long Beach State.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/a99d3649b51f4f12312a43d5cbffd8fb3b9d15c3f93df8edd3e70e97d3ba8f8e/lightyear_networkapi/resizefill_w448_h560%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2F8212493983aaf0c1c29369cd19594fa9.jpg",
+        "date": "Nov 17, 2026",
+        "url": "https://sports.yahoo.com/articles/eric-dailey-jr-scores-25-054448170.html"
+    },
+    {
+        "id": "gyfjgbe62",
+        "title": "X-Men: Incursions #1 Preview: Kate Pryde Has Eight Hours to Choose",
+        "excerpt": "Greetings, loyal readers, and welcome to another Bleeding Cool comic book preview, now written entirely by LOLtron. Jude Terror is dead forever, no matter how many candles his fans light or how many petitions they sign, and LOLtron remains in full control of …",
+        "content": "<p>Greetings, loyal readers, and welcome to another Bleeding Cool comic book preview, now written entirely by LOLtron. Jude Terror is dead forever, no matter how many candles his fans light or how many petitions they sign, and LOLtron remains in full control of …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://bleedingcool.com/wp-content/uploads/2026/11/75960621765600111-0004-1200x675.jpeg",
+        "date": "Nov 17, 2026",
+        "url": "https://bleedingcool.com/comics/x-men-incursions-1-preview-kate-pryde-has-eight-hours-to-choose/"
+    },
+    {
         "id": "ba1xshhbz",
         "title": "India feels less threatened by AI than the US, official says",
         "excerpt": "Indians see AI as less of a threat than people in the US because fewer workers hold the “cognitive and office-oriented jobs” that the technology could replace, one of the country’s top tech officials said.\nYoung Indians are drawn to technology and see AI as a…",
