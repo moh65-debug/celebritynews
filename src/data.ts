@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "kh7w6bhcy",
+        "title": "Cambridge Dictionary chooses 'human' as word of the year amid AI fears",
+        "excerpt": "Fears of artificial intelligence inspired the Cambridge Dictionary to flip back to the 15th century for the word that best captures the 2026 cultural zeitgeist.\n\"Human,\" the dictionary's word of the year, is not just a throwback but also a backlash of sorts t…",
+        "content": "<p>Fears of artificial intelligence inspired the Cambridge Dictionary to flip back to the 15th century for the word that best captures the 2026 cultural zeitgeist.\n\"Human,\" the dictionary's word of the year, is not just a throwback but also a backlash of sorts t…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/14/full/1789359489-1405.jpg",
+        "date": "Nov 18, 2026",
+        "url": "https://www.business-standard.com/world-news/cambridge-dictionary-chooses-human-as-word-of-the-year-amid-ai-fears-126111800102_1.html"
+    },
+    {
+        "id": "xzb1z464w",
+        "title": "Hours after Huang offers to return, Nvidia chair says no plan to reinstate him as CEO",
+        "excerpt": "Board chairman Harvey Jones said the company has no plans to reinstate its co-founder, who resigned following the disclosure of personal behaviour inconsistent with Nvidia’s code of conduct.",
+        "content": "<p>Board chairman Harvey Jones said the company has no plans to reinstate its co-founder, who resigned following the disclosure of personal behaviour inconsistent with Nvidia’s code of conduct.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/9b7v7e/article71714665.ece/alternates/LANDSCAPE_1200/2026-11-17T155533Z_1724645148_RC2Z28AN5Z82_RTRMADP_3_NVIDIA-AI-CONGRESS-HUANG.JPG",
+        "date": "Nov 18, 2026",
+        "url": "https://www.thehindubusinessline.com/info-tech/hours-after-huang-offers-to-return-nvidia-chair-says-no-plan-to-reinstate-him-as-ceo/article71714659.ece"
+    },
+    {
+        "id": "wt577wu5n",
+        "title": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’",
+        "excerpt": "Open source hacking tool Artex \"significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,\" the FBI said.",
+        "content": "<p>Open source hacking tool Artex \"significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,\" the FBI said.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cms.therecord.media/uploads/fbi_1_c4c06390db.jpg",
+        "date": "Nov 18, 2026",
+        "url": "https://therecord.media/artex-ai-tool-fbi-flash-alert"
+    },
+    {
+        "id": "x08f9j33d",
+        "title": "HFCL, Sterlite Tech shares rally 5% each as Nvidia’s strong earnings eclipse AI worries",
+        "excerpt": "HFCL and Sterlite Technologies shares rally 5% each as Nvidia's better-than-expected earnings and revenue outlook revive optimism around AI infrastructure spending. The gains follow a decline of more than 10% in both stocks over two sessions. Investors are al…",
+        "content": "<p>HFCL and Sterlite Technologies shares rally 5% each as Nvidia's better-than-expected earnings and revenue outlook revive optimism around AI infrastructure spending. The gains follow a decline of more than 10% in both stocks over two sessions. Investors are al…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-135950923,resizemode-4,width-1200,height-900,imgsize-232448,overlay-etmarkets/articleshow.jpg",
+        "date": "Nov 18, 2026",
+        "url": "https://m.economictimes.com/markets/stocks/news/hfcl-sterlite-tech-shares-rally-5-each-as-nvidias-strong-earnings-eclipse-ai-worries/articleshow/135950883.cms"
+    },
+    {
+        "id": "eu1opq71x",
+        "title": "Expert Economist: 'Israeli economy is amazing - but not surprising'",
+        "excerpt": "The Israeli economy's impressive growth figures surprised many. Economist Erez Zadok says there is no reason to be shocked.",
+        "content": "<p>The Israeli economy's impressive growth figures surprised many. Economist Erez Zadok says there is no reason to be shocked.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://2.a7.org/files/pictures/000/1205010.jpg",
+        "date": "Nov 18, 2026",
+        "url": "https://www.israelnationalnews.com/news/436489"
+    },
+    {
+        "id": "nysk79x72",
+        "title": "Harry Shum Jr Pays Tribute to Late ‘Glee’ Co-Star on ‘Dancing with the Stars’",
+        "excerpt": "Harry Shum Jr performed two special dances on Dancing with the Stars‘ semi-finals night on Tuesday (November 17)! The 44-year-old […]\nThe post Harry Shum Jr Pays Tribute to Late ‘Glee’ Co-Star on ‘Dancing with the Stars’ appeared first on Just Jared - Celebri…",
+        "content": "<p>Harry Shum Jr performed two special dances on Dancing with the Stars‘ semi-finals night on Tuesday (November 17)! The 44-year-old […]\nThe post Harry Shum Jr Pays Tribute to Late ‘Glee’ Co-Star on ‘Dancing with the Stars’ appeared first on Just Jared - Celebri…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/harry-naya.jpg",
+        "date": "Nov 18, 2026",
+        "url": "https://www.justjared.com/2026/11/18/harry-shum-jr-pays-tribute-to-late-glee-co-star-on-dancing-with-the-stars/"
+    },
+    {
+        "id": "32vpn8tuw",
+        "title": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang",
+        "excerpt": "SAN FRANCISCO, Nov 17 : Nvidia's interim CEO Colette Kress expressed confidence in the chipmaker's business, leadership and staff and pledged to be \"disciplined in how we commit capital,\" seeking to reassure investors on the first earnings call since its co-f…",
+        "content": "<p>SAN FRANCISCO, Nov 17 : Nvidia's interim CEO Colette Kress expressed confidence in the chipmaker's business, leadership and staff and pledged to be \"disciplined in how we commit capital,\" seeking to reassure investors on the first earnings call since its co-f…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--zVR82nJ5--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-18T052510Z_3_LYNXNPEMAH0D7_RTROPTP_3_NVIDIA-CEO-COLETTE-KRESS.JPG?itok=3WKjvk6_",
+        "date": "Nov 18, 2026",
+        "url": "https://www.channelnewsasia.com/business/business-usual-nvidias-kress-passes-first-test-board-slams-door-huang-6561571"
+    },
+    {
+        "id": "9p9bing3n",
+        "title": "Rich Eisen Reflects on His Return to ESPN and Planting More Flags For The Future",
+        "excerpt": "\"After taking my show over in 2019 and building it, getting the opportunity to have that be the vehicle that returns me to ESPN, only to then have ESPN acquire my broadcasting rights from NFL Network. That's stuff you can't make up.\" The post Rich Eisen Refle…",
+        "content": "<p>\"After taking my show over in 2019 and building it, getting the opportunity to have that be the vehicle that returns me to ESPN, only to then have ESPN acquire my broadcasting rights from NFL Network. That's stuff you can't make up.\" The post Rich Eisen Refle…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/df4e46eb31bc4a9cf2585a67a9119d19b3e0d340d70b53ce92959d13716301e7/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarrett_media_699%2F1260bac7198e907e166cc910ed5e1bd4.jpg",
+        "date": "Nov 18, 2026",
+        "url": "https://barrettmedia.com/2026/11/18/rich-eisen-reflects-espn-return/"
+    },
+    {
+        "id": "xa0lbmhjq",
+        "title": "Horizon Opens to Early Users: America's Most Powerful Academic Supercomputer",
+        "excerpt": "NSF-funded system at TACC puts record-setting GPU computing and AI capabilities in the hands of the nation’s leading researchers",
+        "content": "<p>NSF-funded system at TACC puts record-setting GPU computing and AI capabilities in the hands of the nation’s leading researchers</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://news.utexas.edu/wp-content/uploads/Horizon01-1-scaled.jpg",
+        "date": "Nov 18, 2026",
+        "url": "https://news.utexas.edu/2026/11/17/horizon-opens-to-early-users-americas-most-powerful-academic-supercomputer-begins-serving-science/"
+    },
+    {
+        "id": "d1h28g74o",
+        "title": "Putin attacks Western action as Trump lands in China",
+        "excerpt": "China's President Xi Jinping has pledged to stand up against trade protectionism, but also gave a warm welcome to US President Donald Trump as he arrived in the country.",
+        "content": "<p>China's President Xi Jinping has pledged to stand up against trade protectionism, but also gave a warm welcome to US President Donald Trump as he arrived in the country.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.rte.ie/images/00255d4a-1600.jpg",
+        "date": "Nov 18, 2026",
+        "url": "https://www.rte.ie/news/world/2026/1118/1599626-asia-trilateral-summit/"
+    },
+    {
         "id": "svnf9kene",
         "title": "CATL founder seeks ‘AI Einstein’ to drive battery breakthroughs amid market headwinds",
         "excerpt": "Contemporary Amperex Technology Ltd (CATL) is seeking an “AI Einstein” to speed up scientific research and drive innovation-led growth, as the Chinese battery giant grapples with a number of setbacks.\nThe goal was to find an artificial intelligence model that…",
