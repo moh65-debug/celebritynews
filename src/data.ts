@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "pwu7010l6",
+        "title": "Burke backtracks on backpacker changes as PM is cheered on world stage",
+        "excerpt": "While Anthony Albanese has been doing the rounds of global summits, his government is facing a grilling on budget measures it's trying to get through the Senate.",
+        "content": "<p>While Anthony Albanese has been doing the rounds of global summits, his government is facing a grilling on budget measures it's trying to get through the Senate.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/b7dfbac5406a8479f045d6eb057fc9f1?impolicy=wcms_crop_resize&cropH=2774&cropW=4933&xPos=0&yPos=1&width=862&height=485",
+        "date": "Nov 19, 2026",
+        "url": "https://www.abc.net.au/news/2026-11-19/burke-backtracks-on-backpackers-while-albanese-cheered/107394542"
+    },
+    {
+        "id": "arcx3olu2",
+        "title": "Intelligence failure and the need for criminal justice reform",
+        "excerpt": "By Rabi Raj Thapa When you think of espionage, you generally think of secret agents conducting surveillance, sabotaging equipment and engaging in spectacular action. Countries like Nepal, however, are still bogged down in rudimentary intelligence work involvi…",
+        "content": "<p>By Rabi Raj Thapa When you think of espionage, you generally think of secret agents conducting surveillance, sabotaging equipment and engaging in spectacular action. Countries like Nepal, however, are still bogged down in rudimentary intelligence work involvi…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://peoplesreview.com.np/wp-content/uploads/2025/01/Rabi-Raj-Tapa-2.jpg",
+        "date": "Nov 19, 2026",
+        "url": "https://peoplesreview.com.np/2026/11/19/intelligence-failure-and-the-need-for-criminal-justice-reform/"
+    },
+    {
+        "id": "lqqofvndx",
+        "title": "If Indonesia wants 8% growth, it needs to give investors confidence that contracts won’t change on them",
+        "excerpt": "Indonesia has the resources to pursue its ambitions. It needs to create the conditions that turn that potential into sustained investment.",
+        "content": "<p>Indonesia has the resources to pursue its ambitions. It needs to create the conditions that turn that potential into sustained investment.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2274493474-e1795020352929.jpg",
+        "date": "Nov 19, 2026",
+        "url": "https://fortune.com/2026/11/19/indonesia-needs-investor-confidence-for-growth/"
+    },
+    {
+        "id": "1e4fn3bmj",
+        "title": "Why SoftBank's Masayoshi Son regrets missing out on Anthropic investment",
+        "excerpt": "Masayoshi Son on Missing Anthropic Investment: SoftBank considered investing in Anthropic in 2023 but chose to back OpenAI instead. Founder Masayoshi Son now calls the decision one of his mistakes after Anthropic's record IPO",
+        "content": "<p>Masayoshi Son on Missing Anthropic Investment: SoftBank considered investing in Anthropic in 2023 but chose to back OpenAI instead. Founder Masayoshi Son now calls the decision one of his mistakes after Anthropic's record IPO</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-02/14/full/1707887078-2417.jpg",
+        "date": "Nov 19, 2026",
+        "url": "https://www.business-standard.com/world-news/masayoshi-son-regrets-missing-anthropic-investment-softbank-openai-ipo-126111900329_1.html"
+    },
+    {
+        "id": "vab57vmxd",
+        "title": "India’s companies rank 4th globally with $3.76 trillion in intangible assets",
+        "excerpt": "In India, such assets account for 68% of the $5.49 trillion enterprise value analysed, exceeding the corresponding shares in South Korea (62%), China (60%) and Japan (49%)",
+        "content": "<p>In India, such assets account for 68% of the $5.49 trillion enterprise value analysed, exceeding the corresponding shares in South Korea (62%), China (60%) and Japan (49%)</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/todays-paper/tp-news/plf5lf/article71713597.ece/alternates/LANDSCAPE_1200/Jakson-Green-toGSEGQFIV3.4.jpg.jpg",
+        "date": "Nov 19, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/indias-companies-rank-4th-globally-with-376-trillion-in-intangible-assets/article71718742.ece"
+    },
+    {
+        "id": "kw4w2jnht",
+        "title": "Best Samsung refrigerators in India: Bespoke AI French Door to Side-by-Side refrigerator options to choose from",
+        "excerpt": "Samsung has launched various refrigerator models to cater to different household requirements and sizes. These models feature advanced cooling technology and smart connectivity options, enhancing user experience. The Bespoke AI French Door variant comes with …",
+        "content": "<p>Samsung has launched various refrigerator models to cater to different household requirements and sizes. These models feature advanced cooling technology and smart connectivity options, enhancing user experience. The Bespoke AI French Door variant comes with …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135978641/135978641.jpg",
+        "date": "Nov 19, 2026",
+        "url": "https://timesofindia.indiatimes.com/technology/appliances/best-samsung-refrigerators-in-india-bespoke-ai-french-door-to-side-by-side-refrigerator-options-to-choose-from/articleshow/135978533.cms"
+    },
+    {
+        "id": "i1drkuf43",
+        "title": "Edinburgh weather on November 19, 2026: Mild temperatures and sunny intervals for outdoor activities",
+        "excerpt": "Edinburgh is enjoying mild weather with sunny intervals and pleasant temperatures around 7 degrees Celsius today. The humidity is relatively high at 81%, which may enhance the cool feeling outside. The next week shows a significant temperature drop with highs…",
+        "content": "<p>Edinburgh is enjoying mild weather with sunny intervals and pleasant temperatures around 7 degrees Celsius today. The humidity is relatively high at 81%, which may enhance the cool feeling outside. The next week shows a significant temperature drop with highs…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135978562/135978562.jpg",
+        "date": "Nov 19, 2026",
+        "url": "https://timesofindia.indiatimes.com/weather/uk/edinburgh-weather-on-november-19-2026-mild-temperatures-and-sunny-intervals-for-outdoor-activities/articleshow/135978563.cms"
+    },
+    {
+        "id": "nxqt6oy7t",
+        "title": "Giants’ defense has helped create NFC East lead, but matchup with Jaguars is a different beast",
+        "excerpt": "Heading into Week 11 of the NFL season, one of the biggest surprises in the league has been the New York Giants. The Giants were widely seen as a bottom-feeder in the NFC East division, behind the Dallas Cowboys and the Philadelphia Eagles. Well, more than ha…",
+        "content": "<p>Heading into Week 11 of the NFL season, one of the biggest surprises in the league has been the New York Giants. The Giants were widely seen as a bottom-feeder in the NFC East division, behind the Dallas Cowboys and the Philadelphia Eagles. Well, more than ha…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/1bec636e1061aa90fd5ccbf91fce8813140fed02fc6fc4db2d676fd5fe7b98d6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F5422566987b7e25257c8b2cb200cd68d.jpg_up.jpg",
+        "date": "Nov 19, 2026",
+        "url": "https://clutchpoints.com/nfl/nfl-stories/giants-defense-nfc-east-lead-matchup-jaguars-different-beast"
+    },
+    {
+        "id": "sio1a940e",
+        "title": "Can your laptop do what Deepinder Goyal’s ₹85,000 Temple device does? Man’s experiment gets Zomato founder’s attention",
+        "excerpt": "A venture capital employee partially recreated Zomato co-founder Deepinder Goyal’s microphone-free Temple technology using his laptop’s accelerometer.&nbsp;",
+        "content": "<p>A venture capital employee partially recreated Zomato co-founder Deepinder Goyal’s microphone-free Temple technology using his laptop’s accelerometer.&nbsp;</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Temple_1795065089153_ONZA_1795065113966_d2OX_0dd03618-7f35-40aa-8358-737a840fb545_w56c.jpg",
+        "date": "Nov 19, 2026",
+        "url": "https://www.livemint.com/companies/people/can-your-laptop-do-what-deepinder-goyal-s-85-000-temple-device-does-man-s-experiment-gets-zomato-founder-s-attention-11795063871782.html"
+    },
+    {
+        "id": "a13uvdik1",
+        "title": "Takeaways from UConn men's basketball's road loss to Arizona",
+        "excerpt": "UConn men’s basketball struggled with Arizona’s physicality in its first loss of the season. See our takeaways from Huskies’ first loss of the year.",
+        "content": "<p>UConn men’s basketball struggled with Arizona’s physicality in its first loss of the season. See our takeaways from Huskies’ first loss of the year.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/b722cc8f8004773fb3a1009086ea73b973eda8b15754acd5aeb6d6d873c36e7b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-bulletin%2F5483fc9f10999d1da62df9721613d54f.jpg",
+        "date": "Nov 19, 2026",
+        "url": "https://www.norwichbulletin.com/story/sports/college/uconn/mens-basketball/2026/11/19/uconn-huskies-mens-basketball-falls-at-arizona-takeaways-from-huskies-first-loss-dan-hurley/92825248007/"
+    },
+    {
         "id": "kh7w6bhcy",
         "title": "Cambridge Dictionary chooses 'human' as word of the year amid AI fears",
         "excerpt": "Fears of artificial intelligence inspired the Cambridge Dictionary to flip back to the 15th century for the word that best captures the 2026 cultural zeitgeist.\n\"Human,\" the dictionary's word of the year, is not just a throwback but also a backlash of sorts t…",
