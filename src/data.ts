@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "809agi09q",
+        "title": "Tencent Cloud Enterprise Unveils Full-Stack Intelligent Private Cloud for Sovereign Agentic AI",
+        "excerpt": "At the AI-Powered Private Cloud for Global Markets session of the 2026 Tencent Global Digital Ecosystem Summit, Tencent Cloud Enterprise (TCE) set out how ...",
+        "content": "<p>At the AI-Powered Private Cloud for Global Markets session of the 2026 Tencent Global Digital Ecosystem Summit, Tencent Cloud Enterprise (TCE) set out how ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/11/20/kaibo-tencent.jpg",
+        "date": "Nov 20, 2026",
+        "url": "https://en.antaranews.com/news/444027/tencent-cloud-enterprise-unveils-full-stack-intelligent-private-cloud-for-sovereign-agentic-ai"
+    },
+    {
+        "id": "0ri1d0v1h",
+        "title": "Huawei Recognized as a Leader in the 2026 Gartner� Magic Quadrant™ for Infrastructure Platform Consumption Services",
+        "excerpt": "The Business and Technology Insights Company Gartner® has released the 2026 Magic Quadrant™ for Infrastructure Platform Consumption Services. Huawei ...",
+        "content": "<p>The Business and Technology Insights Company Gartner® has released the 2026 Magic Quadrant™ for Infrastructure Platform Consumption Services. Huawei ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/11/20/huawei-rec.jpg",
+        "date": "Nov 20, 2026",
+        "url": "https://en.antaranews.com/news/444023/huawei-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-infrastructure-platform-consumption-services"
+    },
+    {
+        "id": "ptb63ur9g",
+        "title": "Wild 1,300-hp hybrid trophy truck hides a Honda Passport underneath",
+        "excerpt": "There’s no way… no way you’re telling me what you’re seeing is effectively an earnest Honda Passport. The three-row mid-size SUV lends itself very graciously to this wild Baja Spec monster.Continue ReadingCategory: Automotive, TransportTags: Honda, Truck, baj…",
+        "content": "<p>There’s no way… no way you’re telling me what you’re seeing is effectively an earnest Honda Passport. The three-row mid-size SUV lends itself very graciously to this wild Baja Spec monster.Continue ReadingCategory: Automotive, TransportTags: Honda, Truck, baj…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://assets.newatlas.com/dims4/default/decddf3/2147483647/strip/true/crop/2560x1344+0+182/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fea%2F6c%2F5e34b180457db059420b34476f5b%2Fhybrid-honda-passport-throws-more-hp-in-baja-racing-than-any-other-90-liter-v8-powered-trophy-truck-3.jpg&na.image_optimisation=0",
+        "date": "Nov 20, 2026",
+        "url": "https://newatlas.com/automotive/honda-passport-trophy-truck/"
+    },
+    {
+        "id": "0yo5tjfz6",
+        "title": "The NFL’s Next Big TV Window Could Be Sunday Morning",
+        "excerpt": "\"The NFL has already conquered Sunday afternoon, Sunday night, Monday night and, this season, every day but Tuesday. Now, it's coming after Sunday breakfast.\" The post The NFL’s Next Big TV Window Could Be Sunday Morning appeared first on Barrett Media.",
+        "content": "<p>\"The NFL has already conquered Sunday afternoon, Sunday night, Monday night and, this season, every day but Tuesday. Now, it's coming after Sunday breakfast.\" The post The NFL’s Next Big TV Window Could Be Sunday Morning appeared first on Barrett Media.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/daf246e0a4d627d0bf4428c20dce1af21ac4225a8ec350f205babfc5bbb3b802/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarrett_media_699%2F854d405083ebedebf95903bdf0f59518.jpg_up.jpg",
+        "date": "Nov 20, 2026",
+        "url": "https://barrettmedia.com/2026/11/20/nfl-next-television-window-sunday/"
+    },
+    {
+        "id": "x6gjn9qca",
+        "title": "The Bread Loaf Diaries",
+        "excerpt": "A novelist’s record of many years spent at the famed summer conference reveals the joys to be found in the company of fellow writers and friends\nThe post The Bread Loaf Diaries appeared first on The American Scholar.",
+        "content": "<p>A novelist’s record of many years spent at the famed summer conference reveals the joys to be found in the company of fellow writers and friends\nThe post The Bread Loaf Diaries appeared first on The American Scholar.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://theamericanscholar.org/wp-content/uploads/2026/09/bread_loaf_cmyk.jpg",
+        "date": "Nov 20, 2026",
+        "url": "https://theamericanscholar.org/the-bread-loaf-diaries/"
+    },
+    {
+        "id": "c9whoqh70",
+        "title": "Beautyworld Dubai at 30: Star Power on the Show Floor",
+        "excerpt": "Gulf brides who want the Hailey Bieber look, malls that outdraw America’s and a service culture that treats guests like royalty. Four of beauty’s biggest names reflect on what they saw at Beautyworld Dubai.",
+        "content": "<p>Gulf brides who want the Hailey Bieber look, malls that outdraw America’s and a service culture that treats guests like royalty. Four of beauty’s biggest names reflect on what they saw at Beautyworld Dubai.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://wwd.com/wp-content/uploads/2026/10/1LO_0731.jpg",
+        "date": "Nov 20, 2026",
+        "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-world-dubai-star-power-show-floor-1239379321/"
+    },
+    {
+        "id": "5m8ej51py",
+        "title": "Inside The Simonetta Lein Show Where Hollywood Stars Share Their Stories",
+        "excerpt": "With seven seasons, a star-studded guest list, and a growing U.S. and international audience, the digital talk show is preparing for another chapter.",
+        "content": "<p>With seven seasons, a star-studded guest list, and a growing U.S. and international audience, the digital talk show is preparing for another chapter.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://media.radaronline.com/brand-img/rc6ytMvoD/0x0/inside-the-simonetta-lein-show-where-hollywood-stars-share-their-stories2-1795142649540.jpg",
+        "date": "Nov 20, 2026",
+        "url": "https://radaronline.com/p/inside-the-simonetta-lein-show-where-hollywood-stars-share-their-stories/"
+    },
+    {
+        "id": "jo9ihic6j",
+        "title": "Are Katie & Victor from ‘The Traitors: New Blood’ Dating? Finalists Reveal Where They Stand After Finale",
+        "excerpt": "Katie Fites and Victor Vollbrechthausen had a flirty relationship while competing against each other on The Traitors: New Blood. During […]\nThe post Are Katie & Victor from ‘The Traitors: New Blood’ Dating? Finalists Reveal Where They Stand After Finale appea…",
+        "content": "<p>Katie Fites and Victor Vollbrechthausen had a flirty relationship while competing against each other on The Traitors: New Blood. During […]\nThe post Are Katie & Victor from ‘The Traitors: New Blood’ Dating? Finalists Reveal Where They Stand After Finale appea…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/katie-victor-date.jpg",
+        "date": "Nov 20, 2026",
+        "url": "https://www.justjared.com/2026/11/19/are-katie-victor-from-the-traitors-new-blood-dating-finalists-reveal-where-they-stand-after-finale/"
+    },
+    {
+        "id": "j9ny6g76v",
+        "title": "‘War’ Season 2 Cast Shakeup: 6 Actors Confirmed to Return, 2 Definitely Exiting, & Many New Leads Revealed!",
+        "excerpt": "The HBO series War just wrapped its first season and the second season has already been filmed! Season 1 follows […]\nThe post ‘War’ Season 2 Cast Shakeup: 6 Actors Confirmed to Return, 2 Definitely Exiting, & Many New Leads Revealed! appeared first on Just Ja…",
+        "content": "<p>The HBO series War just wrapped its first season and the second season has already been filmed! Season 1 follows […]\nThe post ‘War’ Season 2 Cast Shakeup: 6 Actors Confirmed to Return, 2 Definitely Exiting, & Many New Leads Revealed! appeared first on Just Ja…</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://www.justjared.com/wp-content/uploads/2026/11/war-cast.jpg",
+        "date": "Nov 20, 2026",
+        "url": "https://www.justjared.com/2026/11/19/war-season-2-cast-shakeup-6-actors-confirmed-to-return-2-definitely-exiting-many-new-leads-revealed/"
+    },
+    {
+        "id": "1zzque15n",
+        "title": "Rebels end forgettable Players Era 8 with third straight loss",
+        "excerpt": "LAS VEGAS — The Runnin’ Rebels’ signature press just looked a step off the pace throughout the Players Era 8 tournament at the Michelob Ultra Arena this week...",
+        "content": "<p>LAS VEGAS — The Runnin’ Rebels’ signature press just looked a step off the pace throughout the Players Era 8 tournament at the Michelob Ultra Arena this week...</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/00a4d877b34b334ecd5fe7a3127304d089af098f49c185ec255d0730035d21b0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_tribune_articles_423%2F65abb04d03528bb99fa2acb20e3bb3db.jpg",
+        "date": "Nov 20, 2026",
+        "url": "https://www.thesportingtribune.com/2026/11/19/rebels-end-forgettable-players-era-8-with-third-straight-loss"
+    },
+    {
         "id": "pwu7010l6",
         "title": "Burke backtracks on backpacker changes as PM is cheered on world stage",
         "excerpt": "While Anthony Albanese has been doing the rounds of global summits, his government is facing a grilling on budget measures it's trying to get through the Senate.",
