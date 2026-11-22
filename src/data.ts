@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "w97y8cgyf",
+        "title": "Grand Theft Auto VI has a message for extreme animal rights activists",
+        "excerpt": "By Andrea WidburgAnd thanks to GTA 6’s sales figures and the game’s general popularity, we know that hundreds of millions of people will get that same message.",
+        "content": "<p>By Andrea WidburgAnd thanks to GTA 6’s sales figures and the game’s general popularity, we know that hundreds of millions of people will get that same message.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://images.americanthinker.com/hp/hpwcgoitr22wpl7535z4_1200.jpg",
+        "date": "Nov 21, 2026",
+        "url": "https://www.americanthinker.com/blog/2026/11/grand-theft-auto-vi-has-a-message-for-extreme-animal-rights-activists/"
+    },
+    {
+        "id": "4ozu0891v",
+        "title": "Why is it so hard to understand basic economics",
+        "excerpt": "By Raushan GrossCritics of capitalism want to dismantle the system while still relying on the very system they disdain to promote a socialist economy.",
+        "content": "<p>By Raushan GrossCritics of capitalism want to dismantle the system while still relying on the very system they disdain to promote a socialist economy.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://images.americanthinker.com/vx/vx8v8cmuq77k4jiotms6_1200.jpg",
+        "date": "Nov 21, 2026",
+        "url": "https://www.americanthinker.com/blog/2026/11/why-is-it-so-hard-to-understand-basic-economics/"
+    },
+    {
+        "id": "l9arxag3r",
+        "title": "Saudi-led coalition strikes Houthi targets as rebels attack Saudi Arabia",
+        "excerpt": "The Saudi-led coalition fighting Iran-backed Houthis in Yemen said Friday that its forces struck targets used by the rebels to smuggle and transport weapons, while the rebels attacked neighboring Saudi Arabia with missiles and drones.\nThe exchanges came days …",
+        "content": "<p>The Saudi-led coalition fighting Iran-backed Houthis in Yemen said Friday that its forces struck targets used by the rebels to smuggle and transport weapons, while the rebels attacked neighboring Saudi Arabia with missiles and drones.\nThe exchanges came days …</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/27/full/1793122683-389.jpg",
+        "date": "Nov 21, 2026",
+        "url": "https://www.business-standard.com/world-news/saudi-led-coalition-strikes-houthi-targets-as-rebels-attack-saudi-arabia-126112100022_1.html"
+    },
+    {
+        "id": "fr4gc3569",
+        "title": "Raines denied in Jacksonville's first-ever Open Division football game",
+        "excerpt": "Jacksonville held its first-ever FHSAA Open Division football playoff Friday, with Raines taking on Miami private-school power Columbus.",
+        "content": "<p>Jacksonville held its first-ever FHSAA Open Division football playoff Friday, with Raines taking on Miami private-school power Columbus.</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/060a1fd8854f65885b01948461fb8ac3f99d3cca21c5aa40b71de90580e4cb89/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-florida-times-union%2Fe0d9ed6917257495e368f25297a09644.jpg",
+        "date": "Nov 21, 2026",
+        "url": "https://www.jacksonville.com/story/sports/high-school/football/2026/11/20/columbus-denies-raines-in-fhsaa-open-division-football/87976694007/"
+    },
+    {
+        "id": "ufqfwysrg",
+        "title": "Wall Street selloff deepens as Dow, S&P 500 enter correction; Nasdaq plunges 5.28%",
+        "excerpt": "Wall Street tumbles as the Dow and S&P 500 enter correction territory, while the Nasdaq falls 5.28% amid AI concerns and inflation worries.",
+        "content": "<p>Wall Street tumbles as the Dow and S&P 500 enter correction territory, while the Nasdaq falls 5.28% amid AI concerns and inflation worries.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/s4kxmr/article71727295.ece/alternates/LANDSCAPE_1200/2026-10-30T202758Z_590454049_RC2WDOAXOB2V_RTRMADP_3_USA-STOCKS-SELLOFF.JPG",
+        "date": "Nov 21, 2026",
+        "url": "https://www.thehindubusinessline.com/markets/stock-markets/wall-street-selloff-deepens-as-dow-sp-500-enter-correction-nasdaq-plunges-528/article71727285.ece"
+    },
+    {
+        "id": "rnfcq7qhw",
+        "title": "Indonesia promotes film and game industries in Bali village",
+        "excerpt": "The Ministry of Creative Economy (Kemenekraf) is encouraging the development of the film and game industry ecosystem in Kesiman Kertalangu Village, Bali, by ...",
+        "content": "<p>The Ministry of Creative Economy (Kemenekraf) is encouraging the development of the film and game industry ecosystem in Kesiman Kertalangu Village, Bali, by ...</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/11/21/1000672198.jpg",
+        "date": "Nov 21, 2026",
+        "url": "https://en.antaranews.com/news/444287/indonesia-promotes-film-and-game-industries-in-bali-village"
+    },
+    {
+        "id": "bcgcb3ss0",
+        "title": "CERT-In flags unauthorised payment transactions, warns of AI cyberattacks",
+        "excerpt": "Attackers manipulated business records and approval relationships to exploit legitimate payment processes, with incidents reported at financial services providers and govt-linked payment platforms",
+        "content": "<p>Attackers manipulated business records and approval relationships to exploit legitimate payment processes, with incidents reported at financial services providers and govt-linked payment platforms</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/08/full/1794134382-8955.jpg",
+        "date": "Nov 21, 2026",
+        "url": "https://www.business-standard.com/technology/tech-news/cert-in-flags-unauthorised-payment-transactions-warns-of-ai-cyberattacks-126112001440_1.html"
+    },
+    {
+        "id": "vh6ro7dl2",
+        "title": "Why Jeffrey Epstein loved Russia: Women, oligarchs and a shot at redemption",
+        "excerpt": "Jeffrey Epstein's interest in Russia began as a means to recruit young women for his modeling network. He traveled to the country in 2002, seeking connections with wealthy Russians, including oligarchs and intelligence officials. Epstein aimed to rebuild his …",
+        "content": "<p>Jeffrey Epstein's interest in Russia began as a means to recruit young women for his modeling network. He traveled to the country in 2002, seeking connections with wealthy Russians, including oligarchs and intelligence officials. Epstein aimed to rebuild his …</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/msid-136044665,resizemode-4,width-1200,height-900,imgsize-155136,overlay-economictimes/articleshow.jpg",
+        "date": "Nov 21, 2026",
+        "url": "https://m.economictimes.com/news/international/world-news/why-jeffrey-epstein-loved-russia-women-oligarchs-and-a-shot-at-redemption/articleshow/136044541.cms"
+    },
+    {
+        "id": "ifas68unf",
+        "title": "Harley-Davidson Selects Horizon Global as Growth Partner",
+        "excerpt": "Horizon Global, the bold breakthrough agency alternative, has been awarded the global media business for Harley-Davidson, following a months-long review. The ...",
+        "content": "<p>Horizon Global, the bold breakthrough agency alternative, has been awarded the global media business for Harley-Davidson, following a months-long review. The ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/11/21/horizon-global.jpg",
+        "date": "Nov 21, 2026",
+        "url": "https://en.antaranews.com/news/444283/harley-davidson-selects-horizon-global-as-growth-partner"
+    },
+    {
+        "id": "yevfmlffq",
+        "title": "Tanker Convoy Will Challenge U.S. Blockade",
+        "excerpt": "Currently the U.S. military in the Middle East and Iran are in a stand-off situation. While both sides exchange tit-for tat strikes on radar and air defense installations,  they currently refrain from more sever escalations. The Trump administration is hoping…",
+        "content": "<p>Currently the U.S. military in the Middle East and Iran are in a stand-off situation. While both sides exchange tit-for tat strikes on radar and air defense installations,  they currently refrain from more sever escalations. The Trump administration is hoping…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://lrc-cdn.s3.amazonaws.com/assets/2021/02/LRC-share.jpg",
+        "date": "Nov 21, 2026",
+        "url": "https://www.lewrockwell.com/2026/11/no_author/tanker-convoy-will-challenge-u-s-blockade/"
+    },
+    {
         "id": "809agi09q",
         "title": "Tencent Cloud Enterprise Unveils Full-Stack Intelligent Private Cloud for Sovereign Agentic AI",
         "excerpt": "At the AI-Powered Private Cloud for Global Markets session of the 2026 Tencent Global Digital Ecosystem Summit, Tencent Cloud Enterprise (TCE) set out how ...",
