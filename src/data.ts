@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "4iz7k7y3c",
+        "title": "Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays",
+        "excerpt": "Airbnb plans to expand beyond established Indian holiday destinations, tapping demand for spiritual, cultural, rural and nature-led travel. The company is focusing on increasing homestay supply, training local hosts and entrepreneurs, and deploying AI-powered…",
+        "content": "<p>Airbnb plans to expand beyond established Indian holiday destinations, tapping demand for spiritual, cultural, rural and nature-led travel. The company is focusing on increasing homestay supply, training local hosts and entrepreneurs, and deploying AI-powered…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/msid-136068087,resizemode-4,width-1200,height-900,imgsize-245572,overlay-economictimes/articleshow.jpg",
+        "date": "Nov 22, 2026",
+        "url": "https://m.economictimes.com/industry/services/travel/airbnb-looks-beyond-traditional-holiday-hubs-to-deepen-india-presence-bets-on-homestays/articleshow/136068062.cms"
+    },
+    {
+        "id": "qzh69x6cf",
+        "title": "Days after telling Apple CEO, 'great doing business with you', Meta’s AI chief Alexandr Wang takes a dig at iPhone maker; says: Yet another...",
+        "excerpt": "Alexandr Wang, head of Meta's AI Lab, recently ridiculed Apple's rumored AI agent on social media. His comments follow a partnership between Meta and Apple focused on AI model development. Both companies have previously exchanged criticisms regarding privacy …",
+        "content": "<p>Alexandr Wang, head of Meta's AI Lab, recently ridiculed Apple's rumored AI agent on social media. His comments follow a partnership between Meta and Apple focused on AI model development. Both companies have previously exchanged criticisms regarding privacy …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136068039/136068039.jpg",
+        "date": "Nov 22, 2026",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/days-after-telling-apple-ceo-great-doing-business-with-you-metas-ai-chief-alexandr-wang-takes-a-dig-at-iphone-maker-says-yet-another-/articleshow/136068027.cms"
+    },
+    {
+        "id": "pf7506hg1",
+        "title": "Lions drop first game of season to Southwest Baptist in overtime",
+        "excerpt": "Missouri Southern battled on their home floor, but ultimately fell short to the Bearcats of Southwest Baptist. Check out the highlights",
+        "content": "<p>Missouri Southern battled on their home floor, but ultimately fell short to the Bearcats of Southwest Baptist. Check out the highlights</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/60b4c03525323d2d240a5e4eda0ac1ccec131b4aeac3bc129565e9f18c5364e4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fksnf_joplin_articles_426%2F03cc739de4c4c5c1e1f01404a7a502b8.png_up.jpg",
+        "date": "Nov 22, 2026",
+        "url": "https://www.fourstateshomepage.com/sports/lions-drop-first-game-of-season-to-southwest-baptist-in-overtime/"
+    },
+    {
+        "id": "nrbed9ppr",
+        "title": "India, Bulgaria discuss bilateral ties, IMEC, Black Sea situation",
+        "excerpt": "External Affairs Minister S Jaishankar holds talks with his Bulgarian counterpart Velislava Petrova at the Hyderabad House in Delhi",
+        "content": "<p>External Affairs Minister S Jaishankar holds talks with his Bulgarian counterpart Velislava Petrova at the Hyderabad House in Delhi</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/i39xiv/article71730665.ece/alternates/LANDSCAPE_1200/PTI11_21_2026_000177B.jpg",
+        "date": "Nov 22, 2026",
+        "url": "https://www.thehindubusinessline.com/economy/india-bulgaria-discuss-bilateral-ties-imec-black-sea-situation/article71730625.ece"
+    },
+    {
+        "id": "lrmxrq4ue",
+        "title": "Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too",
+        "excerpt": "The founding father of the conservative movement’s pick was very different from Trump’s.",
+        "content": "<p>The founding father of the conservative movement’s pick was very different from Trump’s.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://foreignpolicy.com/wp-content/uploads/2026/11/ronald-reagan-howard-baker-GettyImages-50365876.jpg?resize=1200,1200",
+        "date": "Nov 22, 2026",
+        "url": "https://foreignpolicy.com/2026/11/22/reagan-chief-of-staff-change-midterms/"
+    },
+    {
+        "id": "raskd4oqw",
+        "title": "Gadgeteer Daily Wrap: an 870-gram shelter and a phone that tracks nothing",
+        "excerpt": "Saturday’s Gadgeteer in one read: the BodyPark ATOM review, an 870-gram Alton shelter, the Mudita Kompakt, a folding Toyota concept, the 17:59 carry roundup and the day’s Black Friday cuts.",
+        "content": "<p>Saturday’s Gadgeteer in one read: the BodyPark ATOM review, an 870-gram Alton shelter, the Mudita Kompakt, a folding Toyota concept, the 17:59 carry roundup and the day’s Black Friday cuts.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/11/bodypark-atom-52-1440.jpg",
+        "date": "Nov 22, 2026",
+        "url": "https://the-gadgeteer.com/2026/11/21/gadgeteer-daily-wrap-an-870-gram-shelter-and-a-phone-that-tracks-nothing/"
+    },
+    {
+        "id": "ku2ackhmv",
+        "title": "10 New Family Movies We're Looking Forward to This Christmas Season",
+        "excerpt": "Read 10 New Family Movies We're Looking Forward to This Christmas Season by Michael Foust and more articles about Current Events and Wiki on Christianity.com",
+        "content": "<p>Read 10 New Family Movies We're Looking Forward to This Christmas Season by Michael Foust and more articles about Current Events and Wiki on Christianity.com</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://media.swncdn.com/via/23325-istockgetty-images-plusftiare.jpg",
+        "date": "Nov 22, 2026",
+        "url": "https://www.crosswalk.com/headlines/contributors/michael-foust/10-new-family-movies-were-looking-forward-to-this-christmas-season.html"
+    },
+    {
+        "id": "18rjwpykg",
+        "title": "Are large language models (the brains of AI) sexist?",
+        "excerpt": "By Andrea WidburgOne study says that they are not only affirming the GIGO principle but also raising genuinely serious questions about the future of American values.",
+        "content": "<p>By Andrea WidburgOne study says that they are not only affirming the GIGO principle but also raising genuinely serious questions about the future of American values.</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://images.americanthinker.com/sm/smypznrnr8en1ibpefo3_1200.jpg",
+        "date": "Nov 22, 2026",
+        "url": "https://www.americanthinker.com/blog/2026/11/are-large-language-models-the-brains-of-ai-sexist/"
+    },
+    {
+        "id": "hohfccasp",
+        "title": "How Interest Rates Affect Your Stocks, Mortgage and Savings as the Fed Holds Steady After Its First Hike",
+        "excerpt": "Federal Reserve rate decisions influence household finances indirectly, affecting mortgage and loan costs, savings returns, stock valuations and bond prices in different ways.",
+        "content": "<p>Federal Reserve rate decisions influence household finances indirectly, affecting mortgage and loan costs, savings returns, stock valuations and bond prices in different ways.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://d.ibtimes.com.au/en/full/1863144/mortgage.jpg?w=1600&h=900&q=88&f=673bb4c8596781582e07849782a3ed76",
+        "date": "Nov 22, 2026",
+        "url": "https://www.ibtimes.com.au/how-fed-rate-decisions-affect-personal-finances-1879132"
+    },
+    {
+        "id": "buz7jv976",
+        "title": "Epstein’s Russia obsession: 17 Young women, oligarchs and a desperate bid for redemption",
+        "excerpt": "Convicted sex offender Jeffrey Epstein continued recruiting women from Russia and other former Soviet states while cultivating ties with wealthy",
+        "content": "<p>Convicted sex offender Jeffrey Epstein continued recruiting women from Russia and other former Soviet states while cultivating ties with wealthy</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136067320/136067320.jpg",
+        "date": "Nov 22, 2026",
+        "url": "https://timesofindia.indiatimes.com/world/us/epsteins-russia-obsession-17-young-women-oligarchs-and-a-desperate-bid-for-redemption/articleshow/136067310.cms"
+    },
+    {
         "id": "w97y8cgyf",
         "title": "Grand Theft Auto VI has a message for extreme animal rights activists",
         "excerpt": "By Andrea WidburgAnd thanks to GTA 6’s sales figures and the game’s general popularity, we know that hundreds of millions of people will get that same message.",
