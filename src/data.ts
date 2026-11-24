@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "n0i2pikiq",
+        "title": "Uttar Pradesh’s higher education transformation since 2017: Expansion, quality, skills and innovation",
+        "excerpt": "Since 2017, the Uttar Pradesh government has expanded higher education significantly, enhancing institutional capacity and academic quality. The state observed growth in the number of universities and colleges, benefiting students across various demographics.…",
+        "content": "<p>Since 2017, the Uttar Pradesh government has expanded higher education significantly, enhancing institutional capacity and academic quality. The state observed growth in the number of universities and colleges, benefiting students across various demographics.…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136094848/136094848.jpg",
+        "date": "Nov 23, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/lucknow/uttar-pradeshs-higher-education-transformation-since-2017-expansion-quality-skills-and-innovation/articleshow/136094697.cms"
+    },
+    {
+        "id": "5yu7bbwun",
+        "title": "AI Films From Kerala to the Andaman Islands Win WIF India x Google Flow Filmathon, Screen at IFFI Goa (EXCLUSIVE)",
+        "excerpt": "Five films made using Google Flow, an AI creative workspace from Google, by filmmakers based as far apart as Kerala and the Andaman and Nicobar Islands have won the inaugural WIF India x Google Flow Filmathon and will screen Monday at the International Film F…",
+        "content": "<p>Five films made using Google Flow, an AI creative workspace from Google, by filmmakers based as far apart as Kerala and the Andaman and Nicobar Islands have won the inaugural WIF India x Google Flow Filmathon and will screen Monday at the International Film F…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg",
+        "date": "Nov 23, 2026",
+        "url": "https://variety.com/2026/film/festivals/ai-films-kerala-andaman-islands-google-flow-filmathon-iffi-1236955693/"
+    },
+    {
+        "id": "3a9oeffhy",
+        "title": "Ravens most to blame for blowing yet another game in loss to Panthers",
+        "excerpt": "The Baltimore Ravens are running out of ways to lose games they should win. Sunday’s collapse against the Carolina Panthers might have been their most frustrating yet. Baltimore looked capable of finally turning its season around. They flashed explosive playm…",
+        "content": "<p>The Baltimore Ravens are running out of ways to lose games they should win. Sunday’s collapse against the Carolina Panthers might have been their most frustrating yet. Baltimore looked capable of finally turning its season around. They flashed explosive playm…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://s.yimg.com/lo/mysterio/api/8560b4237c6d11b65c884eb0255429ffcb9b802ed616c10d50bb3c95b43baf7b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F9f64ec1b8399d522a99f9042f23045c5.jpg_up.jpg",
+        "date": "Nov 23, 2026",
+        "url": "https://clutchpoints.com/nfl/baltimore-ravens/ravens-most-blame-blowing-game-loss-panthers"
+    },
+    {
+        "id": "0fvd8xhzo",
+        "title": "Nvidia server partners reportedly suspend shipments to Southeast Asia following new US export rules",
+        "excerpt": "Some suppliers of Nvidia servers are reportedly suspending shipments to Southeast Asia. The chipmaker's stricter end-customer scrutiny is also making it more difficult to ship AI chips to the region. The disruptions follow the release of new US export rules a…",
+        "content": "<p>Some suppliers of Nvidia servers are reportedly suspending shipments to Southeast Asia. The chipmaker's stricter end-customer scrutiny is also making it more difficult to ship AI chips to the region. The disruptions follow the release of new US export rules a…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitimes.com/newsshow/20261123VL212_files/2_2b.jpg",
+        "date": "Nov 23, 2026",
+        "url": "https://www.digitimes.com/news/a20261123VL212/nvidia-southeast-asia-ai-server-shipments.html"
+    },
+    {
+        "id": "dtbgu4sjv",
+        "title": "Why Apple wants to make AI agents a native part of the Mac experience",
+        "excerpt": "Apple AI Agent: Apple is reportedly developing an AI agent for Mac that can control apps, browse the web and more. With OpenAI, Anthropic and others offering similar tools, what does Apple gain from building its own?",
+        "content": "<p>Apple AI Agent: Apple is reportedly developing an AI agent for Mac that can control apps, browse the web and more. With OpenAI, Anthropic and others offering similar tools, what does Apple gain from building its own?</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/23/full/1795421178-46.jpg",
+        "date": "Nov 23, 2026",
+        "url": "https://www.business-standard.com/technology/tech-news/apple-ai-agent-mac-openai-anthropic-meta-perplexity-macos-apple-intelligence-siri-126112300508_1.html"
+    },
+    {
+        "id": "e9tiva20m",
+        "title": "Morgan Freeman says AI should do ‘what we actually are dreaming of doing’—but deepfakes have also made him say things he never said",
+        "excerpt": "Freeman and longtime producing partner Lori McCreary have spent three decades at the forefront of film tech. Now they’re pushing for rules on consent and pay before AI gets ahead of Hollywood.",
+        "content": "<p>Freeman and longtime producing partner Lori McCreary have spent three decades at the forefront of film tech. Now they’re pushing for rules on consent and pay before AI gets ahead of Hollywood.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/LM-and-MF-Rev-Photo-e1795217056809.jpeg",
+        "date": "Nov 23, 2026",
+        "url": "https://fortune.com/2026/11/23/morgan-freeman-lori-mccreary-revelations-entertainment-ai-voice-hollywood/"
+    },
+    {
+        "id": "1u9rvn7qx",
+        "title": "Ganga expressway drives a new economic wave across 12 districts of UP: Tours,travel and transporters to gain the most",
+        "excerpt": "The Ganga Expressway, inaugurated by Prime Minister Narendra Modi, connects various districts in Uttar Pradesh. It enables faster transportation for goods and passengers between the west and east regions. This improved connectivity boosts economic activities,…",
+        "content": "<p>The Ganga Expressway, inaugurated by Prime Minister Narendra Modi, connects various districts in Uttar Pradesh. It enables faster transportation for goods and passengers between the west and east regions. This improved connectivity boosts economic activities,…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136094498/136094498.jpg",
+        "date": "Nov 23, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/lucknow/ganga-expressway-drives-a-new-economic-wave-across-12-districts-of-up-tourstravel-and-transporters-to-gain-the-most/articleshow/136094226.cms"
+    },
+    {
+        "id": "rwjy4d3rs",
+        "title": "Hands-On With The Kneijnsberg Hugenius — A Tribute To Christiaan Huygens",
+        "excerpt": "Neither name might ring a bell, but let’s start with Christiaan Huygens. This Dutch scientist (1629–1695) invented the balance spring and pendulum clock. However, as a master of many trades, he also developed telescopes, barometers, and air pumps. Coincidenta…",
+        "content": "<p>Neither name might ring a bell, but let’s start with Christiaan Huygens. This Dutch scientist (1629–1695) invented the balance spring and pendulum clock. However, as a master of many trades, he also developed telescopes, barometers, and air pumps. Coincidenta…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Hugenius-18.jpg",
+        "date": "Nov 23, 2026",
+        "url": "https://www.fratellowatches.com/hands-on-kneijnsberg-hugenius/"
+    },
+    {
+        "id": "2jyfduvx1",
+        "title": "Wider access to finance, digital economy key to eradicate poverty: FM",
+        "excerpt": "Finance Minister Nirmala Sitharaman on Monday said wider access to finance, markets and the digital economy would be key to eradicating poverty and ensuring those lifted out of it do not slip back.\nQuoting the World Bank report which showed that nearly 50 cro…",
+        "content": "<p>Finance Minister Nirmala Sitharaman on Monday said wider access to finance, markets and the digital economy would be key to eradicating poverty and ensuring those lifted out of it do not slip back.\nQuoting the World Bank report which showed that nearly 50 cro…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/02/full/1793616646-8455.jpg",
+        "date": "Nov 23, 2026",
+        "url": "https://www.business-standard.com/economy/news/wider-access-to-finance-digital-economy-key-to-eradicate-poverty-fm-126112300473_1.html"
+    },
+    {
+        "id": "5y0b7ydt1",
+        "title": "India may emerge as a long-term AI winner despite reliance on foreign technology: Deutsche Bank",
+        "excerpt": "Unlike earlier technological revolutions, artificial intelligence is spreading rapidly, creating opportunities for emerging economies to improve productivity and expand access to services.",
+        "content": "<p>Unlike earlier technological revolutions, artificial intelligence is spreading rapidly, creating opportunities for emerging economies to improve productivity and expand access to services.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bl-i.thgim.com/public/incoming/dt3j8s/article71733827.ece/alternates/LANDSCAPE_1200/IMG_BL21_Think_AI_2_1_HRB4RJB2.jpg",
+        "date": "Nov 23, 2026",
+        "url": "https://www.thehindubusinessline.com/info-tech/india-may-emerge-as-a-long-term-ai-winner-despite-reliance-on-foreign-technology-deutsche-bank/article71733631.ece"
+    },
+    {
         "id": "4iz7k7y3c",
         "title": "Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays",
         "excerpt": "Airbnb plans to expand beyond established Indian holiday destinations, tapping demand for spiritual, cultural, rural and nature-led travel. The company is focusing on increasing homestay supply, training local hosts and entrepreneurs, and deploying AI-powered…",
