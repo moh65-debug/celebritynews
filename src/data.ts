@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "j03ppixly",
+        "title": "Psychology says people who miss family celebrations because of work may convince themselves they are making sacrifices for a better future; why some people feel more fulfilled by career progress than personal relationships",
+        "excerpt": "Individuals frequently sacrifice family time for career progress, leading to feelings of guilt and conflict. Research reveals that such sacrifices can negatively impact psychological health and well-being. While career advancements elicit immediate rewards, i…",
+        "content": "<p>Individuals frequently sacrifice family time for career progress, leading to feelings of guilt and conflict. Research reveals that such sacrifices can negatively impact psychological health and well-being. While career advancements elicit immediate rewards, i…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136122384/136122384.jpg",
+        "date": "Nov 24, 2026",
+        "url": "https://timesofindia.indiatimes.com/etimes/work-career/psychology-says-people-who-miss-family-celebrations-because-of-work-may-convince-themselves-they-are-making-sacrifices-for-a-better-future-why-some-people-feel-more-fulfilled-by-career-progress-than-personal-relationships/articleshow/136122281.cms"
+    },
+    {
+        "id": "afvfvu3xq",
+        "title": "Why France is at risk of recession — and what could keep it out of one",
+        "excerpt": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
+        "content": "<p>Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://image.cnbcfm.com/api/v1/image/108545221-1794127022121-gettyimages-2303992960-_dsf4095.jpeg?v=1794127088&w=1200&h=675",
+        "date": "Nov 24, 2026",
+        "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html"
+    },
+    {
+        "id": "skmfklx8o",
+        "title": "Amazon to acquire Decart optimization technology and bring team aboard",
+        "excerpt": "Amazon's purchase of Decart's technology and recruitment of its founders and research team could strengthen the company's efforts to improve AI inference speed and computing efficiency worldwide. The transaction would connect Decart's full-stack optimization …",
+        "content": "<p>Amazon's purchase of Decart's technology and recruitment of its founders and research team could strengthen the company's efforts to improve AI inference speed and computing efficiency worldwide. The transaction would connect Decart's full-stack optimization …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.digitimes.com/newsshow/20261124PR200_files/1_2b.jpg",
+        "date": "Nov 24, 2026",
+        "url": "https://www.digitimes.com/news/a20261124PR200/amazon-ai-inference-acquisition-optimization.html"
+    },
+    {
+        "id": "kpxkrjsq8",
+        "title": "The Chinese internet is celebrating Jensen Huang’s triumphant return to power at Nvidia",
+        "excerpt": "From commenting on his makeover to memeing about \"unpaid leave,\" the celebration on Weibo was mixed with a healthy dose of teasing.",
+        "content": "<p>From commenting on his makeover to memeing about \"unpaid leave,\" the celebration on Weibo was mixed with a healthy dose of teasing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.insider.com/6b051a9d73f126f9eccb9d12?width=1200&format=jpeg",
+        "date": "Nov 24, 2026",
+        "url": "https://www.businessinsider.com/chinese-internet-celebrating-jensen-huang-return-nvidia-2026-11"
+    },
+    {
+        "id": "3k5pl0vkf",
+        "title": "Nvidia Shares Surge After Board Reinstates Jensen Huang as CEO",
+        "excerpt": "Nvidia shares rose more than 30% on Monday, Nov. 23, after the company’s board announced that Jensen Huang had been reinstated as chief executive officer and president, according to the report [1]. The chipmaker added nearly $1 trillion in market capitalizati…",
+        "content": "<p>Nvidia shares rose more than 30% on Monday, Nov. 23, after the company’s board announced that Jensen Huang had been reinstated as chief executive officer and president, according to the report [1]. The chipmaker added nearly $1 trillion in market capitalizati…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/jensen-huang-nvidia-ceo-reinstatement-nvidia-stock-surge-7142-5447ae1e-original.jpg",
+        "date": "Nov 24, 2026",
+        "url": "https://www.naturalnews.com/2026-11-24-nvidia-shares-surge-after-jensen-huang-reinstatement.html"
+    },
+    {
+        "id": "ykgq6395z",
+        "title": "Saudi and Houthi Exchange Missile Fire: Will the Red Sea Become a New Frontline?",
+        "excerpt": "Houthi military spokesman Yahya Saree said on X that Jeddah port and all Saudi Red Sea ports would become targets if the coalition struck Hodeidah, the Houthi-held Yemeni port city, and urged port employees and shipping companies to evacuate [1]. The Saudi-le…",
+        "content": "<p>Houthi military spokesman Yahya Saree said on X that Jeddah port and all Saudi Red Sea ports would become targets if the coalition struck Hodeidah, the Houthi-held Yemeni port city, and urged port employees and shipping companies to evacuate [1]. The Saudi-le…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/houthi-missile-strikes-saudi-led-coalition-riyadh-financial-district-7028-5a4b4022-original.jpg",
+        "date": "Nov 24, 2026",
+        "url": "https://www.naturalnews.com/2026-11-24-saudi-houthis-missile-fire-red-sea-new-frontline.html"
+    },
+    {
+        "id": "gndf8osmh",
+        "title": "Trump Bought $265,000 in Nvidia Stock in September, Disclosure Shows",
+        "excerpt": "President Donald Trump purchased as much as $265,000 worth of Nvidia stock in September, according to a financial disclosure signed by the president on Nov. 1 and made public by the U.S. Office of Government Ethics on Thursday [1]. The Nvidia trades were amon…",
+        "content": "<p>President Donald Trump purchased as much as $265,000 worth of Nvidia stock in September, according to a financial disclosure signed by the president on Nov. 1 and made public by the U.S. Office of Government Ethics on Thursday [1]. The Nvidia trades were amon…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/nvidia-stock-financial-disclosure-donald-trump-7046-b98aa604-original.jpg",
+        "date": "Nov 24, 2026",
+        "url": "https://www.naturalnews.com/2026-11-24-trump-bought-nvidia-stocks-in-september-disclosure.html"
+    },
+    {
+        "id": "gly98g6qx",
+        "title": "The AI War, Off-Grid Resistance, and Trump’s Iran Gamble",
+        "excerpt": "A Most Fascinating Conversation I just finished a long, unfiltered panel discussion with Michael Farris, Michael Yon, and Matt Bracken — three men who have seen enough of this world’s darkness to know when the elites are lying. And what we uncovered together …",
+        "content": "<p>A Most Fascinating Conversation I just finished a long, unfiltered panel discussion with Michael Farris, Michael Yon, and Matt Bracken — three men who have seen enough of this world’s darkness to know when the elites are lying. And what we uncovered together …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/open-source-ai-centralized-ai-control-off-grid-resilience-7138-6719d521-original.jpg",
+        "date": "Nov 24, 2026",
+        "url": "https://www.naturalnews.com/2026-11-24-ai-war-off-grid-resistance-trump-iran-gamble.html"
+    },
+    {
+        "id": "jbept0hr5",
+        "title": "The Jensen Huang Reinstatement Is Exactly What It Looks Like - The Ringer",
+        "excerpt": "Jensen Huang has been reinstated as CEO of Nvidia, under the explicit direction of Donald Trump. The message is unmistakable.",
+        "content": "<p>Jensen Huang has been reinstated as CEO of Nvidia, under the explicit direction of Donald Trump. The message is unmistakable.</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://wp.theringer.com/wp-content/uploads/2026/11/cropped-SomehowJensenHasReturned_Getty-Ringer-scaled-1.jpg",
+        "date": "Nov 24, 2026",
+        "url": "https://www.theringer.com/2026/11/23/national-affairs/jensen-huang-reinstated-nvidia-donald-trump-china-ai-chips"
+    },
+    {
+        "id": "zxtxtx4me",
+        "title": "ABC to discontinue a TV channel and pursue YouTube content creation",
+        "excerpt": "The ABC strategy, announced today by managing director Hugh Marks, focuses on creating distinctive, live and local content. The ABC will discontinue its ABC Entertains channel and invest more in YouTube content creation.",
+        "content": "<p>The ABC strategy, announced today by managing director Hugh Marks, focuses on creating distinctive, live and local content. The ABC will discontinue its ABC Entertains channel and invest more in YouTube content creation.</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://live-production.wcms.abc-cdn.net.au/56667997907a208798c4221092477b71?impolicy=wcms_crop_resize&cropH=3213&cropW=5712&xPos=0&yPos=536&width=862&height=485",
+        "date": "Nov 24, 2026",
+        "url": "https://www.abc.net.au/news/2026-11-24/abc-to-discontinue-entertains-tv-channel-pursue-youtube-content/107419672"
+    },
+    {
         "id": "n0i2pikiq",
         "title": "Uttar Pradesh’s higher education transformation since 2017: Expansion, quality, skills and innovation",
         "excerpt": "Since 2017, the Uttar Pradesh government has expanded higher education significantly, enhancing institutional capacity and academic quality. The state observed growth in the number of universities and colleges, benefiting students across various demographics.…",
