@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "91mypkoax",
+        "title": "Alice Huang-linked firms listed $270 million in AI servers in China, records show",
+        "excerpt": "China-linked firms tied to Alice Huang financed and leased up to 764 AI servers worth $270M for major data centres, amid US scrutiny of Nvidia technology.",
+        "content": "<p>China-linked firms tied to Alice Huang financed and leased up to 764 AI servers worth $270M for major data centres, amid US scrutiny of Nvidia technology.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bl-i.thgim.com/public/incoming/2zzr80/article71741347.ece/alternates/LANDSCAPE_1200/2026-11-25T061221Z_1863970397_RC2138APMXZC_RTRMADP_3_NVIDIA-CEO-ALICE-CHIPS.JPG",
+        "date": "Nov 25, 2026",
+        "url": "https://www.thehindubusinessline.com/news/world/alice-huang-linked-firms-listed-270-million-in-ai-servers-in-china-records-show/article71741281.ece"
+    },
+    {
+        "id": "d4bnusy3c",
+        "title": "PwC warns against waste in New Economy spending",
+        "excerpt": "The Country Senior Partner of Price waterhouse Coopers (PwC Ghana), George Arhin, has stressed the need for efficient allocation and utilisation of public funds under the government’s New Economy Programme, warning that increased government expenditure withou…",
+        "content": "<p>The Country Senior Partner of Price waterhouse Coopers (PwC Ghana), George Arhin, has stressed the need for efficient allocation and utilisation of public funds under the government’s New Economy Programme, warning that increased government expenditure withou…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://thechronicle.com.gh/wp-content/uploads/2026/11/Dr-Ato-Forson-Finance-Minister-1.jpg",
+        "date": "Nov 25, 2026",
+        "url": "https://thechronicle.com.gh/pwc-warns-against-waste-in-new-economy-spending/"
+    },
+    {
+        "id": "qd318ejxz",
+        "title": "Viewpoint: Protecting Your Agency’s Enterprise Value",
+        "excerpt": "Insurance agency owners spend years building their businesses. They win clients, establish relationships with carriers, recruit producers, invest in technology and, hopefully, build reputations that keep insureds coming back. These are the things owners tend …",
+        "content": "<p>Insurance agency owners spend years building their businesses. They win clients, establish relationships with carriers, recruit producers, invest in technology and, hopefully, build reputations that keep insureds coming back. These are the things owners tend …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://www.insurancejournal.com/app/uploads/2026/10/figs-37000-580x387.jpg",
+        "date": "Nov 25, 2026",
+        "url": "https://www.insurancejournal.com/news/national/2026/11/25/893659.htm"
+    },
+    {
+        "id": "h50quanum",
+        "title": "Cognizant in talks to take over parts of S&P Global's Capital IQ operations, sources say",
+        "excerpt": "BENGALURU, Nov 25 : Cognizant is in talks to take over parts of S&P Global's Capital IQ operations in a deal that could move about 1,500 employees to the IT services provider, two people familiar with the matter said.The proposed transfer covers employees in …",
+        "content": "<p>BENGALURU, Nov 25 : Cognizant is in talks to take over parts of S&P Global's Capital IQ operations in a deal that could move about 1,500 employees to the IT services provider, two people familiar with the matter said.The proposed transfer covers employees in …</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://dam.mediacorp.sg/image/upload/s--FFRGVPDe--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-25T064141Z_2_LYNXNPEMAO0EO_RTROPTP_3_COGNIZANT-RESULTS.JPG?itok=zrkqnsKy",
+        "date": "Nov 25, 2026",
+        "url": "https://www.channelnewsasia.com/business/cognizant-in-talks-take-over-parts-sp-globals-capital-iq-operations-sources-say-6580926"
+    },
+    {
+        "id": "ql7qorpja",
+        "title": "Nitin Gadkari launched India’s first barrier-free tolling in May 2026; now NHAI’s net revenue from the system has risen by 19.84% to Rs 539 crore across seven plazas in just six months",
+        "excerpt": "The government is introducing Multi-Lane Free Flow (MLFF) technology across national highways as part of its move towards barrier-free toll collection. The system is being viewed as the next stage in the evolution of FASTag. Although FASTag has enabled digita…",
+        "content": "<p>The government is introducing Multi-Lane Free Flow (MLFF) technology across national highways as part of its move towards barrier-free toll collection. The system is being viewed as the next stage in the evolution of FASTag. Although FASTag has enabled digita…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136150715/136150715.jpg",
+        "date": "Nov 25, 2026",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-launched-indias-first-barrier-free-tolling-in-may-2026-now-nhais-net-revenue-from-the-system-has-risen-by-19-84-to-rs-539-crore-across-seven-plazas-in-just-six-months/articleshow/136127926.cms"
+    },
+    {
+        "id": "hh6ftzivq",
+        "title": "Beyond the Grid: Unlocking the Full Value of Multiview Through Data, Interactivity, and Monetization",
+        "excerpt": "The next generation of Multiview will not be defined by how many video windows can fit on a screen. It will be defined by how effectively live video can be combined with real-time data, targeted advertising, and interactive applications to create richer, more…",
+        "content": "<p>The next generation of Multiview will not be defined by how many video windows can fit on a screen. It will be defined by how effectively live video can be combined with real-time data, targeted advertising, and interactive applications to create richer, more…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/132706-TV-Remote-2-1200-ORG.jpg",
+        "date": "Nov 25, 2026",
+        "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=177671"
+    },
+    {
+        "id": "8modx81kf",
+        "title": "What if your next TV show was made just for you? Google explores the idea",
+        "excerpt": "Google's patent describes an AI-powered TV channel that could create personalised, round-the-clock shows based on viewers' interests, with their own avatars and voices featuring as lead characters",
+        "content": "<p>Google's patent describes an AI-powered TV channel that could create personalised, round-the-clock shows based on viewers' interests, with their own avatars and voices featuring as lead characters</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/19/full/1716139611-5431.jpg",
+        "date": "Nov 25, 2026",
+        "url": "https://www.business-standard.com/technology/tech-news/what-if-your-next-tv-show-was-made-just-for-you-google-explores-the-idea-126112500289_1.html"
+    },
+    {
+        "id": "6i983td9c",
+        "title": "K-Pop Stars, Art and Unexpected Collabs: Inside the 2026 Watch Innovation Playbook",
+        "excerpt": "Brands such as Audemars Piguet, Longines, and Montblanc have leveraged collaborations and pop culture this year to reach new audiences.",
+        "content": "<p>Brands such as Audemars Piguet, Longines, and Montblanc have leveraged collaborations and pop culture this year to reach new audiences.</p>",
+        "celebrities": [],
+        "category": "Entertainment",
+        "image_url": "https://assets.vogue.com/photos/6b046c7d479ebf42d684185f/16:9/w_1280,h_720,c_limit/VB-WATCHES-2026-INNOVATION-story.gif",
+        "date": "Nov 25, 2026",
+        "url": "https://www.vogue.com/article/k-pop-stars-art-and-unexpected-collabs-inside-the-2026-watch-innovation-playbook"
+    },
+    {
+        "id": "uuyu381wi",
+        "title": "John McManus: Look out Ireland, nothing says AI bubble quite like the return of Jensen Huang",
+        "excerpt": "A €22bn pipeline of data centres leaves the Irish economy exposed. Markets cheering the Nvidia chief’s comeback should make us nervous",
+        "content": "<p>A €22bn pipeline of data centres leaves the Irish economy exposed. Markets cheering the Nvidia chief’s comeback should make us nervous</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.irishtimes.com/resizer/v2/3CTHDC6F43ODPJVA4NEH4JAQXE.jpg?auth=b0e60a59b51ab7f4c881ea3f4e925eb69e66abaade33773558e506e343367d35&smart=true&width=1600&height=900",
+        "date": "Nov 25, 2026",
+        "url": "https://www.irishtimes.com/business/2026/11/25/look-out-ireland-nothing-says-ai-bubble-quite-like-the-return-of-jensen-huang/"
+    },
+    {
+        "id": "cbnou1mgb",
+        "title": "My Case for Exiting the World of Artificial Scarcity and Embracing Abundance Reality",
+        "excerpt": "Abundance Reality Explained Most people are living inside an engineered artificial world, not the real world. Nearly everything you consume — your money, your news, your food, your medicine, your politics and your energy — has been altered, degraded or weapon…",
+        "content": "<p>Abundance Reality Explained Most people are living inside an engineered artificial world, not the real world. Nearly everything you consume — your money, your news, your food, your medicine, your politics and your energy — has been altered, degraded or weapon…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/artificial-scarcity-abundance-reality-fiat-currency-7224-4da510e5-original.jpg",
+        "date": "Nov 25, 2026",
+        "url": "https://www.naturalnews.com/2026-11-25-my-case-for-exiting-world-of-artificial-scarcity.html"
+    },
+    {
         "id": "j03ppixly",
         "title": "Psychology says people who miss family celebrations because of work may convince themselves they are making sacrifices for a better future; why some people feel more fulfilled by career progress than personal relationships",
         "excerpt": "Individuals frequently sacrifice family time for career progress, leading to feelings of guilt and conflict. Research reveals that such sacrifices can negatively impact psychological health and well-being. While career advancements elicit immediate rewards, i…",
