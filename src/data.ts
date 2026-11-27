@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "qesajhoal",
+        "title": "The Chinese spy who never was — and the global money that always was",
+        "excerpt": "The espionage allegations remain unresolved. The corporate governance and national security questions deserve proper examination. But none of that diminishes Huang's extraordinary technological accomplishments.",
+        "content": "<p>The espionage allegations remain unresolved. The corporate governance and national security questions deserve proper examination. But none of that diminishes Huang's extraordinary technological accomplishments.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-348876,resizemode-75,msid-136181062/opinion/et-commentary/the-chinese-spy-who-never-was-and-the-global-money-that-always-was.jpg",
+        "date": "Nov 26, 2026",
+        "url": "https://m.economictimes.com/opinion/et-commentary/the-chinese-spy-who-never-was-and-the-global-money-that-always-was/articleshow/136181062.cms"
+    },
+    {
+        "id": "lsdu1ijx4",
+        "title": "Secret briefing to Congress reveals Jensen Huang's Chinese lover's 'husband' was the bigger Beijing spy asset",
+        "excerpt": "US intelligence officials have revealed that the man often introduced as the husband of Nvidia boss Jensen Huang's alleged Chinese lover was considered a far bigger spy asset for Beijing.",
+        "content": "<p>US intelligence officials have revealed that the man often introduced as the husband of Nvidia boss Jensen Huang's alleged Chinese lover was considered a far bigger spy asset for Beijing.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/11/25/16/112725501-0-image-a-12_1795625805366.jpg",
+        "date": "Nov 26, 2026",
+        "url": "https://www.dailymail.com/news/us-politics/article-16321719/Secret-briefing-Congress-reveals-Jensen-Huangs-Chinese-lovers-husband-bigger-Beijing-spy-asset.html"
+    },
+    {
+        "id": "u6ghhzvfr",
+        "title": "Two California companies buying Nvidia's most advanced chips 'are actually Chinese-owned' sparking fears Beijing is accessing sensitive technology",
+        "excerpt": "Under-fire Nvidia is accused of circumventing rules against doing business with China buy selling chips to companies that are American-based but Chinese-owned.",
+        "content": "<p>Under-fire Nvidia is accused of circumventing rules against doing business with China buy selling chips to companies that are American-based but Chinese-owned.</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://i.dailymail.com/1s/2026/11/26/06/112737237-0-image-a-8_1795673184910.jpg",
+        "date": "Nov 26, 2026",
+        "url": "https://www.dailymail.com/news/article-16323107/California-companies-buying-Nvidia-advanced-chips.html"
+    },
+    {
+        "id": "qoim7chq7",
+        "title": "Ten women in a Chhattisgarh village trained as rooftop solar installers and helped bring solar power to more than 150 homes; these 'Solar Didis' have reportedly earned over Rs 2.5 lakh from their work",
+        "excerpt": "In the village of Naragaon, a courageous group of ten women known as the 'Solar Didis' has transformed their community by implementing rooftop solar systems. With over 150 households now enjoying solar power, these women collectively earned ₹2.5 lakh. They tr…",
+        "content": "<p>In the village of Naragaon, a courageous group of ten women known as the 'Solar Didis' has transformed their community by implementing rooftop solar systems. With over 150 households now enjoying solar power, these women collectively earned ₹2.5 lakh. They tr…</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136153203/136153203.jpg",
+        "date": "Nov 26, 2026",
+        "url": "https://timesofindia.indiatimes.com/life-style/people/meet-the-solar-didis-of-naragaon-chhattisgarh-who-installed-rooftop-panels-on-more-than-150-homes-and-collectively-earned-over-rs-2-5-lakh-from-their-work/articleshow/136152787.cms"
+    },
+    {
+        "id": "z4xuihyr2",
+        "title": "Large caps, gold and accrual funds: How to manage your portfolio in 2027",
+        "excerpt": "Global Tech Correction, Flows and Domestic Earnings Recovery Reshape the Outlook for Indian Large Caps: Motilal Oswal Private Wealth",
+        "content": "<p>Global Tech Correction, Flows and Domestic Earnings Recovery Reshape the Outlook for Indian Large Caps: Motilal Oswal Private Wealth</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/23/full/1795454073-8992.jpg",
+        "date": "Nov 26, 2026",
+        "url": "https://www.business-standard.com/finance/personal-finance/large-caps-gold-and-accrual-funds-how-to-manage-your-portfolio-in-2027-126112600432_1.html"
+    },
+    {
+        "id": "ky53421b9",
+        "title": "Skeptical Science New Research for Week #48 2026",
+        "excerpt": "Open access notables\nLarge Projected Increase in Cloud-to-Ground Lightning Under Future Climate, Krause et al., Earth s Future\n\nCloud-to-ground (CG) lightning poses significant risks to infrastructure, people, and ecosystems. However, while many studies have …",
+        "content": "<p>Open access notables\nLarge Projected Increase in Cloud-to-Ground Lightning Under Future Climate, Krause et al., Earth s Future\n\nCloud-to-ground (CG) lightning poses significant risks to infrastructure, people, and ecosystems. However, while many studies have …</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
+        "date": "Nov 26, 2026",
+        "url": "https://skepticalscience.com/new_research_2026_48.html"
+    },
+    {
+        "id": "f7jgr8kz9",
+        "title": "Vizhinjam expansion to open new opportunities for Technopark, startups",
+        "excerpt": "The next phase of port development is expected to create opportunities for Technopark-based IT companies and startups in maritime technology, logistics and industrial solutions.",
+        "content": "<p>The next phase of port development is expected to create opportunities for Technopark-based IT companies and startups in maritime technology, logistics and industrial solutions.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://bl-i.thgim.com/public/incoming/xrfpz/article71745475.ece/alternates/LANDSCAPE_1200/20260818004L.jpg",
+        "date": "Nov 26, 2026",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/vizhinjam-expansion-to-open-new-opportunities-for-technopark-startups/article71745419.ece"
+    },
+    {
+        "id": "gkcr0nfou",
+        "title": "‘Vrushakarma’ trailer: The Naga Chaitanya starrer amd Karthik Varma Dandu directorial set to take the audience into mysterious world of ancient secrets and supernatural mysteries",
+        "excerpt": "Naga Chaitanya's supernatural adventure film 'Vrushakarma' is set to release on December 4, directed by Karthik Varma Dandu. The trailer showcases ancient secrets and the protagonist's journey toward a powerful discovery amid horror elements. Naga Chaitanya p…",
+        "content": "<p>Naga Chaitanya's supernatural adventure film 'Vrushakarma' is set to release on December 4, directed by Karthik Varma Dandu. The trailer showcases ancient secrets and the protagonist's journey toward a powerful discovery amid horror elements. Naga Chaitanya p…</p>",
+        "celebrities": [],
+        "category": "Sports",
+        "image_url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136180304/136180304.jpg",
+        "date": "Nov 26, 2026",
+        "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vrushakarma-trailer-the-naga-chaitanya-starrer-amd-karthik-varma-dandu-directorial-set-to-take-the-audience-into-mysterious-world-of-ancient-secrets-and-supernatural-mysteries/articleshow/136179926.cms"
+    },
+    {
+        "id": "m4sut72ph",
+        "title": "AI is moving way too fast",
+        "excerpt": "Explore the \"uncanny\" reality of 2026, where AI coding tools provide miraculous productivity gains while outpacing political and social stability.",
+        "content": "<p>Explore the \"uncanny\" reality of 2026, where AI coding tools provide miraculous productivity gains while outpacing political and social stability.</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/34fc981a-9bc8-4a58-8845-cd1f79359db2_2000x1250.png",
+        "date": "Nov 26, 2026",
+        "url": "https://www.natesilver.net/p/ai-is-moving-way-too-fast"
+    },
+    {
+        "id": "l3wpa154p",
+        "title": "Taylor Swift’s ‘The Life of a Showgirl’ lawsuit takes a new turn as lawyers declare, “Enough is enough”",
+        "excerpt": "Taylor Swift is facing a legal challenge regarding her album 'The Life of a Showgirl'. Las Vegas performer Maren Wade asserts trademark infringement based on a similar title she previously registered. Swift's attorneys are seeking to have the case dismissed, …",
+        "content": "<p>Taylor Swift is facing a legal challenge regarding her album 'The Life of a Showgirl'. Las Vegas performer Maren Wade asserts trademark infringement based on a similar title she previously registered. Swift's attorneys are seeking to have the case dismissed, …</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136179872/136179872.jpg",
+        "date": "Nov 26, 2026",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swifts-the-life-of-a-showgirl-lawsuit-takes-a-new-turn-as-lawyers-declare-enough-is-enough/articleshow/136179684.cms"
+    },
+    {
         "id": "91mypkoax",
         "title": "Alice Huang-linked firms listed $270 million in AI servers in China, records show",
         "excerpt": "China-linked firms tied to Alice Huang financed and leased up to 764 AI servers worth $270M for major data centres, amid US scrutiny of Nvidia technology.",
