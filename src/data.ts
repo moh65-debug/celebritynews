@@ -12,6 +12,116 @@ export interface Article {
 
 export const articles: Article[] = [
     {
+        "id": "2ap7azukn",
+        "title": "Whose company is it anyway? Gender, inheritance and entitlement at play.",
+        "excerpt": "The legal notice issued by Dr. Lakshmi Venu to Mr. Venu Srinivasan has opened up a critical conversation about inheritance rights amidst media scrutiny. The family arrangement from March 2024 details asset distribution that questions the validity of current c…",
+        "content": "<p>The legal notice issued by Dr. Lakshmi Venu to Mr. Venu Srinivasan has opened up a critical conversation about inheritance rights amidst media scrutiny. The family arrangement from March 2024 details asset distribution that questions the validity of current c…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-128190,resizemode-75,msid-136210777/opinion/et-commentary/whose-company-is-it-anyway-gender-inheritance-and-entitlement-at-play-.jpg",
+        "date": "Nov 27, 2026",
+        "url": "https://m.economictimes.com/opinion/et-commentary/whose-company-is-it-anyway-gender-inheritance-and-entitlement-at-play-/articleshow/136210777.cms"
+    },
+    {
+        "id": "cvah03mre",
+        "title": "Haier Energy Launches 12-20 kW AI Hybrid Inverter Series",
+        "excerpt": "On November 13, Haier Energy launched its new 12-20 kW AI Hybrid Inverter series, rising to the challenges of power outages, rising energy costs and severe ...",
+        "content": "<p>On November 13, Haier Energy launched its new 12-20 kW AI Hybrid Inverter series, rising to the challenges of power outages, rising energy costs and severe ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2026/11/27/haier.jpg",
+        "date": "Nov 27, 2026",
+        "url": "https://en.antaranews.com/news/445747/haier-energy-launches-12-20-kw-ai-hybrid-inverter-series"
+    },
+    {
+        "id": "fo0q2mims",
+        "title": "India wins the Visitors’ Lion at the 61st Venice Art Biennale as NMACC anchors a historic return",
+        "excerpt": "India has been honoured with the Visitors’ Lion award for Best National Participation at the famed Venice Art Exhibition. The National Pavilion highlighted a diverse array of contemporary art, showcasing India's cultural richness. The event was key in promoti…",
+        "content": "<p>India has been honoured with the Visitors’ Lion award for Best National Participation at the famed Venice Art Exhibition. The National Pavilion highlighted a diverse array of contemporary art, showcasing India's cultural richness. The event was key in promoti…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static.toiimg.com/thumb/msid-136211042,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "Nov 27, 2026",
+        "url": "https://timesofindia.indiatimes.com/india/india-wins-the-visitors-lion-at-the-61st-venice-art-biennale-as-nmacc-anchors-a-historic-return/articleshow/136210754.cms"
+    },
+    {
+        "id": "uek9qlpnv",
+        "title": "Together for a bright Asia-Pacific future",
+        "excerpt": "A report from People's Daily\r\n\r\nThe 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting will be held in Shenzhen, south ...",
+        "content": "<p>A report from People's Daily\r\n\r\nThe 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting will be held in Shenzhen, south ...</p>",
+        "celebrities": [],
+        "category": "Tech",
+        "image_url": "https://cdn.antaranews.com/cache/1200x800/2023/02/09/b7fc2b0c6e314302_800x800ar.png",
+        "date": "Nov 27, 2026",
+        "url": "https://en.antaranews.com/news/445743/together-for-a-bright-asia-pacific-future"
+    },
+    {
+        "id": "ioy1wka2s",
+        "title": "U.S. Tariff Blitz Targets China, EU and Global Trade Imbalances",
+        "excerpt": "The United States is set to impose a sweeping new round of tariffs on China, Vietnam, the European Union, and 11 other trading partners, marking another escalation in its long-standing campaign to address perceived unfair trade practices. The move, unveiled a…",
+        "content": "<p>The United States is set to impose a sweeping new round of tariffs on China, Vietnam, the European Union, and 11 other trading partners, marking another escalation in its long-standing campaign to address perceived unfair trade practices. The move, unveiled a…</p>",
+        "celebrities": [],
+        "category": "Business",
+        "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/trump-tariffs-tariff-revenue-china-imports-724-original.jpg",
+        "date": "Nov 27, 2026",
+        "url": "https://www.naturalnews.com/2026-11-27-us-tariff-china-eu-and-global-tade-imbalances.html"
+    },
+    {
+        "id": "ic25sw17s",
+        "title": "Breakthrough in Skin Health: Blood Orange Extract May Reduce Wrinkles and Boost Hydration",
+        "excerpt": "In a world where skincare routines often focus on creams and serums, a new study suggests that the key to smoother skin might lie in what we consume. Researchers have found that blood orange extract, a nutrient-rich supplement derived from a fruit known for i…",
+        "content": "<p>In a world where skincare routines often focus on creams and serums, a new study suggests that the key to smoother skin might lie in what we consume. Researchers have found that blood orange extract, a nutrient-rich supplement derived from a fruit known for i…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/Cream-Face-Skin-Woman-Care-35-40-Applying.jpg",
+        "date": "Nov 27, 2026",
+        "url": "https://www.naturalnews.com/2026-11-27-blood-orange-extract-reduce-wrinkles-boost-hydration.html"
+    },
+    {
+        "id": "a5x3c3l7q",
+        "title": "Thanksgiving Gas Prices Near Record High Despite Dramatic 60-Cent Drop, yet Drivers Still Face Holiday Sticker Shock",
+        "excerpt": "The national average price of regular gasoline fell to $3.69 per gallon on Friday, Nov. 20, according to the American Automobile Association (AAA), down from approximately $4.30 a month ago, as crude oil prices retreated and supplies recovered from disruption…",
+        "content": "<p>The national average price of regular gasoline fell to $3.69 per gallon on Friday, Nov. 20, according to the American Automobile Association (AAA), down from approximately $4.30 a month ago, as crude oil prices retreated and supplies recovered from disruption…</p>",
+        "celebrities": [],
+        "category": "World",
+        "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/thanksgiving-gas-prices-national-average-gasoline-price-holiday-record-7386-c4a3dfb7-original.jpg",
+        "date": "Nov 27, 2026",
+        "url": "https://www.naturalnews.com/2026-11-27-thanksgiving-gas-record-high-holiday-sticker-shock.html"
+    },
+    {
+        "id": "m7cjp5x4t",
+        "title": "AAP launches 'Mhargai Mukti Yatra' in Goa, promises benefits worth Rs 15,000 per family",
+        "excerpt": "Aam Aadmi Party initiated the 'Mhargai Mukti Yatra' in Canacona, Goa, addressing inflation issues. This campaign aims to promise monthly financial relief of Rs 15,000 to every household. Prominent AAP leaders, including Atishi and Valmiki Naik, emphasized the…",
+        "content": "<p>Aam Aadmi Party initiated the 'Mhargai Mukti Yatra' in Canacona, Goa, addressing inflation issues. This campaign aims to promise monthly financial relief of Rs 15,000 to every household. Prominent AAP leaders, including Atishi and Valmiki Naik, emphasized the…</p>",
+        "celebrities": [],
+        "category": "Science",
+        "image_url": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136210987/136210987.jpg",
+        "date": "Nov 27, 2026",
+        "url": "https://timesofindia.indiatimes.com/city/goa/aap-launches-mhargai-mukti-yatra-in-goa-promises-benefits-worth-rs-15000-per-family/articleshow/136210987.cms"
+    },
+    {
+        "id": "f1sxx38ls",
+        "title": "Patrick Mahomes’ Wife Brittany Trashes Refs After Controversial Incomplete Pass Call During Chiefs’ Loss Vs Bills",
+        "excerpt": "Patrick Mahomes’ wife, Brittany, is not happy with NFL refs after the team’s heartbreaking loss to the Bills. Late in the fourth quarter, Chiefs wide receiver Rashee Rice appeared to make a great catch that would have led to a crucial first down. The refs rev…",
+        "content": "<p>Patrick Mahomes’ wife, Brittany, is not happy with NFL refs after the team’s heartbreaking loss to the Bills. Late in the fourth quarter, Chiefs wide receiver Rashee Rice appeared to make a great catch that would have led to a crucial first down. The refs rev…</p>",
+        "celebrities": [],
+        "category": "Breaking",
+        "image_url": "https://brobible.com/wp-content/uploads/2026/11/MixCollage-27-Nov-2026-12-51-AM-3312.jpg",
+        "date": "Nov 27, 2026",
+        "url": "https://brobible.com/sports/article/patrick-mahomes-wife-brittany-trashes-refs-bills/"
+    },
+    {
+        "id": "155ejrwvk",
+        "title": "Women express frustration, concern over Nvidia boss Jensen Huang's return",
+        "excerpt": "News of Jensen Huang's shocking return to Nvidia had barely landed when President Donald Trump posted an AI-generated image of the Nvidia cofounder holding up a red bra, surrounded by security personnel whisking him offstage, blood streaked across his face.  …",
+        "content": "<p>News of Jensen Huang's shocking return to Nvidia had barely landed when President Donald Trump posted an AI-generated image of the Nvidia cofounder holding up a red bra, surrounded by security personnel whisking him offstage, blood streaked across his face.  …</p>",
+        "celebrities": [],
+        "category": "Politics",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-77190,resizemode-75,msid-136210795/tech/tech-bytes/women-express-frustration-concern-over-nvidia-boss-jensen-huangs-return.jpg",
+        "date": "Nov 27, 2026",
+        "url": "https://m.economictimes.com/tech/tech-bytes/women-express-frustration-concern-over-nvidia-boss-jensen-huangs-return/articleshow/136210795.cms"
+    },
+    {
         "id": "qesajhoal",
         "title": "The Chinese spy who never was — and the global money that always was",
         "excerpt": "The espionage allegations remain unresolved. The corporate governance and national security questions deserve proper examination. But none of that diminishes Huang's extraordinary technological accomplishments.",
